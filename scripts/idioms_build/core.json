@@ -1,0 +1,2027 @@
+[
+  {
+    "word": "a blessing in disguise",
+    "lemma": "a blessing in disguise",
+    "ipa": "/ə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "скрытое благо; неприятность, обернувшаяся добром",
+    "examples": [
+      {
+        "en": "Losing that job was a blessing in disguise.",
+        "ru": "Потеря той работы оказалась скрытым благом."
+      },
+      {
+        "en": "The delay proved a blessing in disguise.",
+        "ru": "Задержка оказалась благом в маске."
+      },
+      {
+        "en": "It felt bad then, but it was a blessing in disguise.",
+        "ru": "Тогда было плохо, но это оказалось скрытым благом."
+      }
+    ],
+    "colloc": "a blessing in disguise",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "a dime a dozen",
+    "lemma": "a dime a dozen",
+    "ipa": "/ə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "как грязи; очень распространённый",
+    "examples": [
+      {
+        "en": "Ideas like that are a dime a dozen.",
+        "ru": "Таких идей — как грязи."
+      },
+      {
+        "en": "Cheap gadgets are a dime a dozen now.",
+        "ru": "Дешёвых гаджетов теперь как грязи."
+      },
+      {
+        "en": "Good mentors aren't a dime a dozen.",
+        "ru": "Хороших наставников не раздают на каждом углу."
+      }
+    ],
+    "colloc": "a dime a dozen",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "a piece of cake",
+    "lemma": "a piece of cake",
+    "ipa": "/ə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "плёвое дело",
+    "examples": [
+      {
+        "en": "The quiz was a piece of cake.",
+        "ru": "Тест был плёвым делом."
+      },
+      {
+        "en": "For her, coding this is a piece of cake.",
+        "ru": "Для неё написать это — плёвое дело."
+      },
+      {
+        "en": "Don't worry — it's a piece of cake.",
+        "ru": "Не волнуйся — это ерунда."
+      }
+    ],
+    "colloc": "a piece of cake",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "a slap on the wrist",
+    "lemma": "a slap on the wrist",
+    "ipa": "/ə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "символическое наказание",
+    "examples": [
+      {
+        "en": "He got a slap on the wrist for the leak.",
+        "ru": "За утечку ему дали по рукам символически."
+      },
+      {
+        "en": "The fine was just a slap on the wrist.",
+        "ru": "Штраф был лишь лёгким наказанием."
+      },
+      {
+        "en": "Critics wanted more than a slap on the wrist.",
+        "ru": "Критики хотели большего, чем лёгкого наказания."
+      }
+    ],
+    "colloc": "a slap on the wrist",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "a storm in a teacup",
+    "lemma": "a storm in a teacup",
+    "ipa": "/ə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "буря в стакане воды",
+    "examples": [
+      {
+        "en": "The argument was a storm in a teacup.",
+        "ru": "Ссора была бурей в стакане воды."
+      },
+      {
+        "en": "Ignore it — it's a storm in a teacup.",
+        "ru": "Не обращай внимания — буря в стакане."
+      },
+      {
+        "en": "Media turned it into a storm in a teacup.",
+        "ru": "СМИ раздули бурю в стакане воды."
+      }
+    ],
+    "colloc": "a storm in a teacup",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "add fuel to the fire",
+    "lemma": "add fuel to the fire",
+    "ipa": "/æd/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "подливать масла в огонь",
+    "examples": [
+      {
+        "en": "His comment added fuel to the fire.",
+        "ru": "Его комментарий подлил масла в огонь."
+      },
+      {
+        "en": "Don't add fuel to the fire online.",
+        "ru": "Не подливай масла в огонь в сети."
+      },
+      {
+        "en": "New leaks added fuel to the fire.",
+        "ru": "Новые утечки подлили масла в огонь."
+      }
+    ],
+    "colloc": "add fuel to the fire",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "against the clock",
+    "lemma": "against the clock",
+    "ipa": "/əˈgɛnst/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "наперегонки со временем",
+    "examples": [
+      {
+        "en": "We're working against the clock.",
+        "ru": "Мы работаем наперегонки со временем."
+      },
+      {
+        "en": "The team raced against the clock.",
+        "ru": "Команда мчалась наперегонки со временем."
+      },
+      {
+        "en": "Surgery was against the clock.",
+        "ru": "Операция шла наперегонки со временем."
+      }
+    ],
+    "colloc": "against the clock",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "ahead of the curve",
+    "lemma": "ahead of the curve",
+    "ipa": "/əˈhɛd/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "впереди тренда",
+    "examples": [
+      {
+        "en": "Their product is ahead of the curve.",
+        "ru": "Их продукт впереди тренда."
+      },
+      {
+        "en": "Stay ahead of the curve in your field.",
+        "ru": "Оставайся впереди тренда в своей области."
+      },
+      {
+        "en": "She reads widely to stay ahead of the curve.",
+        "ru": "Она много читает, чтобы быть впереди."
+      }
+    ],
+    "colloc": "ahead of the curve",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "all ears",
+    "lemma": "all ears",
+    "ipa": "/ɔl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "весь во внимании",
+    "examples": [
+      {
+        "en": "Tell me — I'm all ears.",
+        "ru": "Расскажи — я весь во внимании."
+      },
+      {
+        "en": "The class was all ears.",
+        "ru": "Класс был весь во внимании."
+      },
+      {
+        "en": "I'm all ears if you have news.",
+        "ru": "Я весь во внимании, если есть новости."
+      }
+    ],
+    "colloc": "all ears",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "all in the same boat",
+    "lemma": "all in the same boat",
+    "ipa": "/ɔl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "в одной лодке; в одинаковом положении",
+    "examples": [
+      {
+        "en": "We're all in the same boat this quarter.",
+        "ru": "В этом квартале мы все в одной лодке."
+      },
+      {
+        "en": "Remote teams are all in the same boat.",
+        "ru": "Удалённые команды все в одной лодке."
+      },
+      {
+        "en": "Don't complain — we're all in the same boat.",
+        "ru": "Не жалуйся — мы все в одной лодке."
+      }
+    ],
+    "colloc": "all in the same boat",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "an arm and a leg",
+    "lemma": "an arm and a leg",
+    "ipa": "/ən/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "очень дорого",
+    "examples": [
+      {
+        "en": "That phone costs an arm and a leg.",
+        "ru": "Этот телефон стоит целое состояние."
+      },
+      {
+        "en": "Don't pay an arm and a leg for hype.",
+        "ru": "Не плати бешеные деньги за хайп."
+      },
+      {
+        "en": "Repairs cost an arm and a leg.",
+        "ru": "Ремонт влетел в копеечку."
+      }
+    ],
+    "colloc": "an arm and a leg",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "around the clock",
+    "lemma": "around the clock",
+    "ipa": "/əraʊnd/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "круглосуточно",
+    "examples": [
+      {
+        "en": "Support runs around the clock.",
+        "ru": "Поддержка работает круглосуточно."
+      },
+      {
+        "en": "They monitored the system around the clock.",
+        "ru": "Они круглосуточно следили за системой."
+      },
+      {
+        "en": "Hospitals operate around the clock.",
+        "ru": "Больницы работают круглосуточно."
+      }
+    ],
+    "colloc": "around the clock",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "as easy as pie",
+    "lemma": "as easy as pie",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "проще простого",
+    "examples": [
+      {
+        "en": "The setup was as easy as pie.",
+        "ru": "Настройка была проще простого."
+      },
+      {
+        "en": "Once you learn it, it's as easy as pie.",
+        "ru": "Как выучишь — проще простого."
+      },
+      {
+        "en": "Baking this cake is as easy as pie.",
+        "ru": "Испечь этот торт — проще простого."
+      }
+    ],
+    "colloc": "as easy as pie",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "at the drop of a hat",
+    "lemma": "at the drop of a hat",
+    "ipa": "/æt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "сразу; без раздумий",
+    "examples": [
+      {
+        "en": "She'll help at the drop of a hat.",
+        "ru": "Она поможет без раздумий."
+      },
+      {
+        "en": "He travels at the drop of a hat.",
+        "ru": "Он срывается в поездку мгновенно."
+      },
+      {
+        "en": "Don't quit at the drop of a hat.",
+        "ru": "Не увольняйся сгоряча."
+      }
+    ],
+    "colloc": "at the drop of a hat",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "back to square one",
+    "lemma": "back to square one",
+    "ipa": "/bæk/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "вернуться на исходную",
+    "examples": [
+      {
+        "en": "The bug put us back to square one.",
+        "ru": "Баг вернул нас на исходную."
+      },
+      {
+        "en": "After the reject, we're back to square one.",
+        "ru": "После отказа мы снова на старте."
+      },
+      {
+        "en": "One bad deploy and you're back to square one.",
+        "ru": "Один плохой деплой — и снова с нуля."
+      }
+    ],
+    "colloc": "back to square one",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "barking up the wrong tree",
+    "lemma": "barking up the wrong tree",
+    "ipa": "/ˈbɑrkɪŋ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "стучаться не в ту дверь",
+    "examples": [
+      {
+        "en": "If you blame me, you're barking up the wrong tree.",
+        "ru": "Если винишь меня — стучишься не туда."
+      },
+      {
+        "en": "They're barking up the wrong tree with that theory.",
+        "ru": "С этой теорией они идут по ложному следу."
+      },
+      {
+        "en": "Stop barking up the wrong tree.",
+        "ru": "Хватит искать виновного не там."
+      }
+    ],
+    "colloc": "barking up the wrong tree",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "beat around the bush",
+    "lemma": "beat around the bush",
+    "ipa": "/bit/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "ходить вокруг да около",
+    "examples": [
+      {
+        "en": "Stop beating around the bush.",
+        "ru": "Хватит ходить вокруг да около."
+      },
+      {
+        "en": "He beat around the bush for ten minutes.",
+        "ru": "Он десять минут ходил вокруг да около."
+      },
+      {
+        "en": "Just say it — don't beat around the bush.",
+        "ru": "Скажи прямо — не ходи вокруг."
+      }
+    ],
+    "colloc": "beat around the bush",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "bend over backwards",
+    "lemma": "bend over backwards",
+    "ipa": "/bɛnd/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "из кожи вон лезть",
+    "examples": [
+      {
+        "en": "We bent over backwards to help.",
+        "ru": "Мы из кожи вон лезли, чтобы помочь."
+      },
+      {
+        "en": "She bends over backwards for clients.",
+        "ru": "Она из кожи вон лезет ради клиентов."
+      },
+      {
+        "en": "Don't bend over backwards for freeloaders.",
+        "ru": "Не лезь из кожи ради халявщиков."
+      }
+    ],
+    "colloc": "bend over backwards",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "better late than never",
+    "lemma": "better late than never",
+    "ipa": "/ˈbɛtər/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "лучше поздно, чем никогда",
+    "examples": [
+      {
+        "en": "You finished — better late than never.",
+        "ru": "Ты закончил — лучше поздно, чем никогда."
+      },
+      {
+        "en": "The patch arrived; better late than never.",
+        "ru": "Патч пришёл; лучше поздно, чем никогда."
+      },
+      {
+        "en": "Apology accepted — better late than never.",
+        "ru": "Извинения приняты — лучше поздно, чем никогда."
+      }
+    ],
+    "colloc": "better late than never",
+    "bucket": "speech",
+    "note": "literal+figurative"
+  },
+  {
+    "word": "bite off more than you can chew",
+    "lemma": "bite off more than you can chew",
+    "ipa": "/baɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "взять больше, чем можешь",
+    "examples": [
+      {
+        "en": "Don't bite off more than you can chew.",
+        "ru": "Не бери на себя больше, чем потянешь."
+      },
+      {
+        "en": "He bit off more than he could chew with two jobs.",
+        "ru": "С двумя работами он взял больше, чем мог."
+      },
+      {
+        "en": "I bit off more than I can chew this sprint.",
+        "ru": "В этом спринте я переоценил силы."
+      }
+    ],
+    "colloc": "bite off more than you can chew",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "bite the bullet",
+    "lemma": "bite the bullet",
+    "ipa": "/baɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "стиснуть зубы и сделать",
+    "examples": [
+      {
+        "en": "Just bite the bullet and call.",
+        "ru": "Стисни зубы и позвони."
+      },
+      {
+        "en": "We bit the bullet and migrated.",
+        "ru": "Мы стиснули зубы и мигрировали."
+      },
+      {
+        "en": "Sometimes you have to bite the bullet.",
+        "ru": "Иногда приходится стиснуть зубы."
+      }
+    ],
+    "colloc": "bite the bullet",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "break the ice",
+    "lemma": "break the ice",
+    "ipa": "/breɪk/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "растопить лёд",
+    "examples": [
+      {
+        "en": "A joke helped break the ice.",
+        "ru": "Шутка помогла растопить лёд."
+      },
+      {
+        "en": "Games break the ice at workshops.",
+        "ru": "Игры растапливают лёд на воркшопах."
+      },
+      {
+        "en": "She broke the ice with a question.",
+        "ru": "Она растопила лёд вопросом."
+      }
+    ],
+    "colloc": "break the ice",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "break the news",
+    "lemma": "break the news",
+    "ipa": "/breɪk/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "сообщить новость (часто плохую)",
+    "examples": [
+      {
+        "en": "Who will break the news to them?",
+        "ru": "Кто сообщит им новость?"
+      },
+      {
+        "en": "I hate breaking bad news.",
+        "ru": "Ненавижу сообщать плохие новости."
+      },
+      {
+        "en": "She broke the news gently.",
+        "ru": "Она мягко сообщила новость."
+      }
+    ],
+    "colloc": "break the news",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "burn bridges",
+    "lemma": "burn bridges",
+    "ipa": "/bərn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "сжигать мосты",
+    "examples": [
+      {
+        "en": "Don't burn bridges when you leave.",
+        "ru": "Не сжигай мосты, уходя."
+      },
+      {
+        "en": "He burned bridges with the old team.",
+        "ru": "Он сжёг мосты со старой командой."
+      },
+      {
+        "en": "Angry emails burn bridges fast.",
+        "ru": "Злые письма быстро сжигают мосты."
+      }
+    ],
+    "colloc": "burn bridges",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "burn the midnight oil",
+    "lemma": "burn the midnight oil",
+    "ipa": "/bərn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "корпеть допоздна",
+    "examples": [
+      {
+        "en": "Students burned the midnight oil before exams.",
+        "ru": "Студенты корпели допоздна перед экзаменами."
+      },
+      {
+        "en": "We burned the midnight oil on the release.",
+        "ru": "Мы корпели допоздна над релизом."
+      },
+      {
+        "en": "Don't burn the midnight oil every night.",
+        "ru": "Не корпи допоздна каждую ночь."
+      }
+    ],
+    "colloc": "burn the midnight oil",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "bury the hatchet",
+    "lemma": "bury the hatchet",
+    "ipa": "/ˈbɛri/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "помириться; закопать топор войны",
+    "examples": [
+      {
+        "en": "They finally buried the hatchet.",
+        "ru": "Они наконец помирились."
+      },
+      {
+        "en": "Let's bury the hatchet and move on.",
+        "ru": "Давайте закопаем топор войны и пойдём дальше."
+      },
+      {
+        "en": "Old rivals buried the hatchet.",
+        "ru": "Старые соперники помирились."
+      }
+    ],
+    "colloc": "bury the hatchet",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "by the book",
+    "lemma": "by the book",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "строго по правилам",
+    "examples": [
+      {
+        "en": "Do the audit by the book.",
+        "ru": "Делай аудит строго по правилам."
+      },
+      {
+        "en": "She manages by the book.",
+        "ru": "Она управляет строго по регламенту."
+      },
+      {
+        "en": "Going by the book slowed us down.",
+        "ru": "Работа строго по книге замедлила нас."
+      }
+    ],
+    "colloc": "by the book",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "call it a day",
+    "lemma": "call it a day",
+    "ipa": "/kɔl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "закончить на сегодня",
+    "examples": [
+      {
+        "en": "Let's call it a day.",
+        "ru": "Давайте на сегодня закончим."
+      },
+      {
+        "en": "After the deploy, we called it a day.",
+        "ru": "После деплоя мы закончили на сегодня."
+      },
+      {
+        "en": "I'm tired — calling it a day.",
+        "ru": "Я устал — на сегодня всё."
+      }
+    ],
+    "colloc": "call it a day",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "can't make heads or tails of",
+    "lemma": "can't make heads or tails of",
+    "ipa": "/kən/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "ничего не понять",
+    "examples": [
+      {
+        "en": "I can't make heads or tails of this log.",
+        "ru": "Я ничего не понимаю в этом логе."
+      },
+      {
+        "en": "She couldn't make heads or tails of the map.",
+        "ru": "Она ничего не поняла по карте."
+      },
+      {
+        "en": "No one can make heads or tails of his notes.",
+        "ru": "Никто не может разобрать его заметки."
+      }
+    ],
+    "colloc": "can't make heads or tails of",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "catch someone red-handed",
+    "lemma": "catch someone red-handed",
+    "ipa": "/kæʧ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "поймать с поличным",
+    "examples": [
+      {
+        "en": "They caught him red-handed.",
+        "ru": "Его поймали с поличным."
+      },
+      {
+        "en": "Cameras caught the thief red-handed.",
+        "ru": "Камеры поймали вора с поличным."
+      },
+      {
+        "en": "Don't get caught red-handed.",
+        "ru": "Не дай себя поймать с поличным."
+      }
+    ],
+    "colloc": "catch someone red-handed",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "change of heart",
+    "lemma": "change of heart",
+    "ipa": "/ʧeɪnʤ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "перемена решения/чувств",
+    "examples": [
+      {
+        "en": "He had a change of heart.",
+        "ru": "Он передумал."
+      },
+      {
+        "en": "A change of heart saved the deal.",
+        "ru": "Перемена решения спасла сделку."
+      },
+      {
+        "en": "She showed a sudden change of heart.",
+        "ru": "Она внезапно изменила мнение."
+      }
+    ],
+    "colloc": "change of heart",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "costs an arm and a leg",
+    "lemma": "costs an arm and a leg",
+    "ipa": "/kɔsts/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "стоит целое состояние",
+    "examples": [
+      {
+        "en": "Rent here costs an arm and a leg.",
+        "ru": "Аренда здесь стоит целое состояние."
+      },
+      {
+        "en": "That course costs an arm and a leg.",
+        "ru": "Тот курс стоит бешеных денег."
+      },
+      {
+        "en": "Don't buy what costs an arm and a leg.",
+        "ru": "Не покупай то, что стоит целое состояние."
+      }
+    ],
+    "colloc": "costs an arm and a leg",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "cross that bridge when you come to it",
+    "lemma": "cross that bridge when you come to it",
+    "ipa": "/krɔs/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "решать проблемы по мере поступления",
+    "examples": [
+      {
+        "en": "We'll cross that bridge when we come to it.",
+        "ru": "Решим, когда дойдём до этого."
+      },
+      {
+        "en": "Don't worry yet — cross that bridge later.",
+        "ru": "Пока не волнуйся — решим по ходу."
+      },
+      {
+        "en": "I cross that bridge when I come to it.",
+        "ru": "Я решаю проблемы по мере поступления."
+      }
+    ],
+    "colloc": "cross that bridge when you come to it",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "cut corners",
+    "lemma": "cut corners",
+    "ipa": "/kət/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "срезать углы; экономить в ущерб качеству",
+    "examples": [
+      {
+        "en": "Don't cut corners on security.",
+        "ru": "Не срезай углы в безопасности."
+      },
+      {
+        "en": "They cut corners and shipped bugs.",
+        "ru": "Они срезали углы и выкатили баги."
+      },
+      {
+        "en": "Cutting corners now costs more later.",
+        "ru": "Срезание углов сейчас дороже потом."
+      }
+    ],
+    "colloc": "cut corners",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "cut to the chase",
+    "lemma": "cut to the chase",
+    "ipa": "/kət/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "переходить к делу",
+    "examples": [
+      {
+        "en": "Cut to the chase — what's the ask?",
+        "ru": "Переходи к делу — что нужно?"
+      },
+      {
+        "en": "She cut to the chase in the meeting.",
+        "ru": "На встрече она сразу перешла к делу."
+      },
+      {
+        "en": "Emails should cut to the chase.",
+        "ru": "В письмах лучше сразу к сути."
+      }
+    ],
+    "colloc": "cut to the chase",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "devil's advocate",
+    "lemma": "devil's advocate",
+    "ipa": "/ˈdɛvəl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "адвокат дьявола",
+    "examples": [
+      {
+        "en": "I'll play devil's advocate.",
+        "ru": "Я сыграю адвоката дьявола."
+      },
+      {
+        "en": "He always plays devil's advocate.",
+        "ru": "Он всегда играет адвоката дьявола."
+      },
+      {
+        "en": "Playing devil's advocate helps testing.",
+        "ru": "Роль адвоката дьявола помогает тестам."
+      }
+    ],
+    "colloc": "devil's advocate",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "don't cry over spilled milk",
+    "lemma": "don't cry over spilled milk",
+    "ipa": "/dɑn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "о безвозвратном не жалей",
+    "examples": [
+      {
+        "en": "Don't cry over spilled milk.",
+        "ru": "Не плачь над пролитым молоком."
+      },
+      {
+        "en": "The data is gone — no use crying over spilled milk.",
+        "ru": "Данные пропали — нет смысла жалеть."
+      },
+      {
+        "en": "She told him not to cry over spilled milk.",
+        "ru": "Она сказала не жалеть о случившемся."
+      }
+    ],
+    "colloc": "don't cry over spilled milk",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "down to earth",
+    "lemma": "down to earth",
+    "ipa": "/daʊn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "приземлённый; реалистичный",
+    "examples": [
+      {
+        "en": "He's smart but down to earth.",
+        "ru": "Он умный, но приземлённый."
+      },
+      {
+        "en": "We need down-to-earth advice.",
+        "ru": "Нам нужен приземлённый совет."
+      },
+      {
+        "en": "Stay down to earth after success.",
+        "ru": "После успеха оставайся приземлённым."
+      }
+    ],
+    "colloc": "down to earth",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "draw the line",
+    "lemma": "draw the line",
+    "ipa": "/drɔ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "провести черту; поставить предел",
+    "examples": [
+      {
+        "en": "I draw the line at unpaid overtime.",
+        "ru": "Я провожу черту на неоплачиваемой переработке."
+      },
+      {
+        "en": "Where do you draw the line?",
+        "ru": "Где ты проводишь черту?"
+      },
+      {
+        "en": "She drew the line at insults.",
+        "ru": "Она поставила предел оскорблениям."
+      }
+    ],
+    "colloc": "draw the line",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "every cloud has a silver lining",
+    "lemma": "every cloud has a silver lining",
+    "ipa": "/ˈɛvəri/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "нет худа без добра",
+    "examples": [
+      {
+        "en": "Every cloud has a silver lining.",
+        "ru": "Нет худа без добра."
+      },
+      {
+        "en": "Look for the silver lining.",
+        "ru": "Ищи светлую сторону."
+      },
+      {
+        "en": "She found a silver lining in the layoff.",
+        "ru": "В увольнении она нашла светлую сторону."
+      }
+    ],
+    "colloc": "every cloud has a silver lining",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "face the music",
+    "lemma": "face the music",
+    "ipa": "/feɪs/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "ответить за последствия",
+    "examples": [
+      {
+        "en": "It's time to face the music.",
+        "ru": "Пора ответить за последствия."
+      },
+      {
+        "en": "He faced the music after the outage.",
+        "ru": "После аварии он ответил за последствия."
+      },
+      {
+        "en": "Don't hide — face the music.",
+        "ru": "Не прячься — ответь за дела."
+      }
+    ],
+    "colloc": "face the music",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "feel under the weather",
+    "lemma": "feel under the weather",
+    "ipa": "/fil/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "чувствовать себя неважно",
+    "examples": [
+      {
+        "en": "I'm feeling under the weather.",
+        "ru": "Я чувствую себя неважно."
+      },
+      {
+        "en": "She called in under the weather.",
+        "ru": "Она отпросилась — неважно себя чувствует."
+      },
+      {
+        "en": "A bit under the weather today.",
+        "ru": "Сегодня немного неважно."
+      }
+    ],
+    "colloc": "feel under the weather",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "get cold feet",
+    "lemma": "get cold feet",
+    "ipa": "/gɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "струсить перед важным шагом",
+    "examples": [
+      {
+        "en": "He got cold feet before the launch.",
+        "ru": "Перед запуском он струсил."
+      },
+      {
+        "en": "Don't get cold feet now.",
+        "ru": "Не трусь сейчас."
+      },
+      {
+        "en": "She got cold feet about moving.",
+        "ru": "Она струсила переезжать."
+      }
+    ],
+    "colloc": "get cold feet",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "get out of hand",
+    "lemma": "get out of hand",
+    "ipa": "/gɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "выйти из-под контроля",
+    "examples": [
+      {
+        "en": "The party got out of hand.",
+        "ru": "Вечеринка вышла из-под контроля."
+      },
+      {
+        "en": "Costs got out of hand.",
+        "ru": "Расходы вышли из-под контроля."
+      },
+      {
+        "en": "Don't let anger get out of hand.",
+        "ru": "Не дай гневу выйти из-под контроля."
+      }
+    ],
+    "colloc": "get out of hand",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "get something off your chest",
+    "lemma": "get something off your chest",
+    "ipa": "/gɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "выговориться",
+    "examples": [
+      {
+        "en": "I need to get this off my chest.",
+        "ru": "Мне нужно выговориться."
+      },
+      {
+        "en": "She got her worries off her chest.",
+        "ru": "Она выговорила свои тревоги."
+      },
+      {
+        "en": "Talking helped get it off his chest.",
+        "ru": "Разговор помог ему выговориться."
+      }
+    ],
+    "colloc": "get something off your chest",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "give someone the benefit of the doubt",
+    "lemma": "give someone the benefit of the doubt",
+    "ipa": "/gɪv/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "дать человеку шанс; истолковать в лучшую сторону",
+    "examples": [
+      {
+        "en": "Give her the benefit of the doubt.",
+        "ru": "Дай ей шанс / истолкуй в лучшую сторону."
+      },
+      {
+        "en": "We gave them the benefit of the doubt.",
+        "ru": "Мы истолковали их слова в лучшую сторону."
+      },
+      {
+        "en": "I always give new hires the benefit of the doubt.",
+        "ru": "Новым сотрудникам я всегда даю кредит доверия."
+      }
+    ],
+    "colloc": "give someone the benefit of the doubt",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "go the extra mile",
+    "lemma": "go the extra mile",
+    "ipa": "/goʊ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "сделать больше обычного",
+    "examples": [
+      {
+        "en": "She always goes the extra mile.",
+        "ru": "Она всегда делает больше обычного."
+      },
+      {
+        "en": "Go the extra mile for key clients.",
+        "ru": "Сделай больше обычного для ключевых клиентов."
+      },
+      {
+        "en": "Support went the extra mile overnight.",
+        "ru": "Поддержка ночью сделала больше обычного."
+      }
+    ],
+    "colloc": "go the extra mile",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "hang in there",
+    "lemma": "hang in there",
+    "ipa": "/hæŋ/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "держись; не сдавайся",
+    "examples": [
+      {
+        "en": "Hang in there — exams end soon.",
+        "ru": "Держись — экзамены скоро кончатся."
+      },
+      {
+        "en": "Hang in there during the outage.",
+        "ru": "Держись во время аварии."
+      },
+      {
+        "en": "I told him to hang in there.",
+        "ru": "Я сказал ему держаться."
+      }
+    ],
+    "colloc": "hang in there",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "hit the nail on the head",
+    "lemma": "hit the nail on the head",
+    "ipa": "/hɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "попасть в точку",
+    "examples": [
+      {
+        "en": "You hit the nail on the head.",
+        "ru": "Ты попал в точку."
+      },
+      {
+        "en": "Her analysis hit the nail on the head.",
+        "ru": "Её анализ попал в точку."
+      },
+      {
+        "en": "That comment hit the nail on the head.",
+        "ru": "Тот комментарий попал в точку."
+      }
+    ],
+    "colloc": "hit the nail on the head",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "hit the sack",
+    "lemma": "hit the sack",
+    "ipa": "/hɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "пойти спать",
+    "examples": [
+      {
+        "en": "I'm hitting the sack.",
+        "ru": "Я иду спать."
+      },
+      {
+        "en": "He hit the sack early.",
+        "ru": "Он рано пошёл спать."
+      },
+      {
+        "en": "Time to hit the sack.",
+        "ru": "Пора спать."
+      }
+    ],
+    "colloc": "hit the sack",
+    "bucket": "speech",
+    "note": "informal"
+  },
+  {
+    "word": "in hot water",
+    "lemma": "in hot water",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "в беде; под огнём критики",
+    "examples": [
+      {
+        "en": "He's in hot water with legal.",
+        "ru": "У него неприятности с юристами."
+      },
+      {
+        "en": "The leak put us in hot water.",
+        "ru": "Утечка втянула нас в неприятности."
+      },
+      {
+        "en": "Don't land in hot water online.",
+        "ru": "Не вляпайся в неприятности в сети."
+      }
+    ],
+    "colloc": "in hot water",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "in the same boat",
+    "lemma": "in the same boat",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "в одинаковом положении",
+    "examples": [
+      {
+        "en": "We're in the same boat.",
+        "ru": "Мы в одной лодке."
+      },
+      {
+        "en": "Startups are often in the same boat.",
+        "ru": "Стартапы часто в одной лодке."
+      },
+      {
+        "en": "Knowing we're in the same boat helps.",
+        "ru": "Знание, что мы в одной лодке, помогает."
+      }
+    ],
+    "colloc": "in the same boat",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "it takes two to tango",
+    "lemma": "it takes two to tango",
+    "ipa": "/ɪt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "для ссоры нужны двое",
+    "examples": [
+      {
+        "en": "It takes two to tango.",
+        "ru": "Для конфликта нужны двое."
+      },
+      {
+        "en": "Blame both — it takes two to tango.",
+        "ru": "Вини обоих — для танго нужны двое."
+      },
+      {
+        "en": "In that fight, it took two to tango.",
+        "ru": "В той ссоре были виноваты оба."
+      }
+    ],
+    "colloc": "it takes two to tango",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "jump on the bandwagon",
+    "lemma": "jump on the bandwagon",
+    "ipa": "/ʤəmp/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "присоединиться к модному тренду",
+    "examples": [
+      {
+        "en": "Brands jumped on the bandwagon.",
+        "ru": "Бренды вскочили на волну тренда."
+      },
+      {
+        "en": "Don't just jump on the bandwagon.",
+        "ru": "Не прыгай на тренд бездумно."
+      },
+      {
+        "en": "He jumped on the AI bandwagon.",
+        "ru": "Он вскочил на волну ИИ."
+      }
+    ],
+    "colloc": "jump on the bandwagon",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "keep an eye on",
+    "lemma": "keep an eye on",
+    "ipa": "/kip/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "присматривать за",
+    "examples": [
+      {
+        "en": "Keep an eye on the logs.",
+        "ru": "Присматривай за логами."
+      },
+      {
+        "en": "Can you keep an eye on my bag?",
+        "ru": "Можешь присмотреть за сумкой?"
+      },
+      {
+        "en": "We keep an eye on latency.",
+        "ru": "Мы следим за задержкой."
+      }
+    ],
+    "colloc": "keep an eye on",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "keep your chin up",
+    "lemma": "keep your chin up",
+    "ipa": "/kip/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "не вешай нос",
+    "examples": [
+      {
+        "en": "Keep your chin up.",
+        "ru": "Не вешай нос."
+      },
+      {
+        "en": "Keep your chin up after the reject.",
+        "ru": "После отказа не вешай нос."
+      },
+      {
+        "en": "She kept her chin up through layoffs.",
+        "ru": "Через сокращения она не вешала нос."
+      }
+    ],
+    "colloc": "keep your chin up",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "kill two birds with one stone",
+    "lemma": "kill two birds with one stone",
+    "ipa": "/kɪl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "убить двух зайцев",
+    "examples": [
+      {
+        "en": "This fix kills two birds with one stone.",
+        "ru": "Этот фикс убивает двух зайцев."
+      },
+      {
+        "en": "We killed two birds with one stone.",
+        "ru": "Мы убили двух зайцев одним махом."
+      },
+      {
+        "en": "Combine tasks to kill two birds with one stone.",
+        "ru": "Объедини задачи, чтобы убить двух зайцев."
+      }
+    ],
+    "colloc": "kill two birds with one stone",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "last straw",
+    "lemma": "last straw",
+    "ipa": "/læst/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "последняя капля",
+    "examples": [
+      {
+        "en": "That was the last straw.",
+        "ru": "Это была последняя капля."
+      },
+      {
+        "en": "The outage was the last straw.",
+        "ru": "Авария стала последней каплей."
+      },
+      {
+        "en": "Don't make this the last straw.",
+        "ru": "Не доводи до последней капли."
+      }
+    ],
+    "colloc": "last straw",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "learn the ropes",
+    "lemma": "learn the ropes",
+    "ipa": "/lərn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "освоить азы",
+    "examples": [
+      {
+        "en": "I'm still learning the ropes.",
+        "ru": "Я ещё осваиваю азы."
+      },
+      {
+        "en": "She learned the ropes fast.",
+        "ru": "Она быстро освоила азы."
+      },
+      {
+        "en": "Mentors help you learn the ropes.",
+        "ru": "Наставники помогают освоить азы."
+      }
+    ],
+    "colloc": "learn the ropes",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "let the cat out of the bag",
+    "lemma": "let the cat out of the bag",
+    "ipa": "/lɛt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "выдать секрет",
+    "examples": [
+      {
+        "en": "Don't let the cat out of the bag.",
+        "ru": "Не выдай секрет."
+      },
+      {
+        "en": "He let the cat out of the bag early.",
+        "ru": "Он рано выдал секрет."
+      },
+      {
+        "en": "Someone let the cat out of the bag.",
+        "ru": "Кто-то выдал секрет."
+      }
+    ],
+    "colloc": "let the cat out of the bag",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "make a long story short",
+    "lemma": "make a long story short",
+    "ipa": "/meɪk/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "короче говоря",
+    "examples": [
+      {
+        "en": "To make a long story short, we shipped.",
+        "ru": "Короче говоря, мы выкатили."
+      },
+      {
+        "en": "Make a long story short — we won.",
+        "ru": "Короче — мы победили."
+      },
+      {
+        "en": "I'll make a long story short.",
+        "ru": "Я скажу коротко."
+      }
+    ],
+    "colloc": "make a long story short",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "miss the boat",
+    "lemma": "miss the boat",
+    "ipa": "/mɪs/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "упустить шанс",
+    "examples": [
+      {
+        "en": "We missed the boat on that market.",
+        "ru": "Мы упустили тот рынок."
+      },
+      {
+        "en": "Don't miss the boat on early access.",
+        "ru": "Не упусти ранний доступ."
+      },
+      {
+        "en": "Investors missed the boat.",
+        "ru": "Инвесторы упустили шанс."
+      }
+    ],
+    "colloc": "miss the boat",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "once in a blue moon",
+    "lemma": "once in a blue moon",
+    "ipa": "/wəns/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "очень редко",
+    "examples": [
+      {
+        "en": "I eat out once in a blue moon.",
+        "ru": "Я ем вне дома очень редко."
+      },
+      {
+        "en": "Outages happen once in a blue moon.",
+        "ru": "Аварии случаются крайне редко."
+      },
+      {
+        "en": "He visits once in a blue moon.",
+        "ru": "Он навещает очень редко."
+      }
+    ],
+    "colloc": "once in a blue moon",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "on cloud nine",
+    "lemma": "on cloud nine",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "на седьмом небе",
+    "examples": [
+      {
+        "en": "She was on cloud nine after the offer.",
+        "ru": "После оффера она была на седьмом небе."
+      },
+      {
+        "en": "We're on cloud nine about the launch.",
+        "ru": "Мы на седьмом небе из-за запуска."
+      },
+      {
+        "en": "Winning put him on cloud nine.",
+        "ru": "Победа вознесла его на седьмое небо."
+      }
+    ],
+    "colloc": "on cloud nine",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "on the ball",
+    "lemma": "on the ball",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "собранный; на чеку",
+    "examples": [
+      {
+        "en": "Our on-call is on the ball.",
+        "ru": "Наш дежурный на чеку."
+      },
+      {
+        "en": "Stay on the ball during the demo.",
+        "ru": "Будь собран на демо."
+      },
+      {
+        "en": "She's always on the ball.",
+        "ru": "Она всегда собрана."
+      }
+    ],
+    "colloc": "on the ball",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "on thin ice",
+    "lemma": "on thin ice",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "на тонком льду",
+    "examples": [
+      {
+        "en": "You're on thin ice with HR.",
+        "ru": "Ты на тонком льду с HR."
+      },
+      {
+        "en": "The deadline put us on thin ice.",
+        "ru": "Дедлайн поставил нас на тонкий лёд."
+      },
+      {
+        "en": "Don't skate on thin ice in reviews.",
+        "ru": "Не ходи по тонкому льду на ревью."
+      }
+    ],
+    "colloc": "on thin ice",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "out of the blue",
+    "lemma": "out of the blue",
+    "ipa": "/aʊt/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "неожиданно",
+    "examples": [
+      {
+        "en": "The offer came out of the blue.",
+        "ru": "Оффер пришёл неожиданно."
+      },
+      {
+        "en": "Out of the blue, the server died.",
+        "ru": "Неожиданно сервер умер."
+      },
+      {
+        "en": "She called out of the blue.",
+        "ru": "Она позвонила из ниоткуда."
+      }
+    ],
+    "colloc": "out of the blue",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "pull someone's leg",
+    "lemma": "pull someone's leg",
+    "ipa": "/pʊl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "подшучивать",
+    "examples": [
+      {
+        "en": "Are you pulling my leg?",
+        "ru": "Ты меня разыгрываешь?"
+      },
+      {
+        "en": "He was just pulling your leg.",
+        "ru": "Он просто подшучивал."
+      },
+      {
+        "en": "Don't pull my leg about the bonus.",
+        "ru": "Не шути насчёт бонуса."
+      }
+    ],
+    "colloc": "pull someone's leg",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "rain on someone's parade",
+    "lemma": "rain on someone's parade",
+    "ipa": "/reɪn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "испортить праздник",
+    "examples": [
+      {
+        "en": "I hate to rain on your parade.",
+        "ru": "Не хочу портить тебе праздник."
+      },
+      {
+        "en": "Don't rain on their parade.",
+        "ru": "Не порть им праздник."
+      },
+      {
+        "en": "Bad news rained on the parade.",
+        "ru": "Плохие новости испортили праздник."
+      }
+    ],
+    "colloc": "rain on someone's parade",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "see eye to eye",
+    "lemma": "see eye to eye",
+    "ipa": "/si/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "сходиться во мнениях",
+    "examples": [
+      {
+        "en": "We don't see eye to eye.",
+        "ru": "Мы не сходимся во мнениях."
+      },
+      {
+        "en": "They finally see eye to eye.",
+        "ru": "Они наконец сошлись во мнениях."
+      },
+      {
+        "en": "Do you see eye to eye on budget?",
+        "ru": "Вы согласны по бюджету?"
+      }
+    ],
+    "colloc": "see eye to eye",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "spill the beans",
+    "lemma": "spill the beans",
+    "ipa": "/spɪl/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "выдать секрет",
+    "examples": [
+      {
+        "en": "Don't spill the beans.",
+        "ru": "Не выдавай секрет."
+      },
+      {
+        "en": "Someone spilled the beans early.",
+        "ru": "Кто-то рано выдал секрет."
+      },
+      {
+        "en": "She spilled the beans about the gift.",
+        "ru": "Она выдала секрет о подарке."
+      }
+    ],
+    "colloc": "spill the beans",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "take it with a grain of salt",
+    "lemma": "take it with a grain of salt",
+    "ipa": "/teɪk/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "относиться скептически",
+    "examples": [
+      {
+        "en": "Take rumors with a grain of salt.",
+        "ru": "Относись к слухам скептически."
+      },
+      {
+        "en": "I take his claims with a grain of salt.",
+        "ru": "Я скептически отношусь к его словам."
+      },
+      {
+        "en": "Take benchmarks with a grain of salt.",
+        "ru": "Относись к бенчмаркам с недоверием."
+      }
+    ],
+    "colloc": "take it with a grain of salt",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "the ball is in your court",
+    "lemma": "the ball is in your court",
+    "ipa": "/ðə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "очередь за тобой",
+    "examples": [
+      {
+        "en": "The ball is in your court.",
+        "ru": "Очередь за тобой."
+      },
+      {
+        "en": "I replied — the ball is in your court.",
+        "ru": "Я ответил — теперь твой ход."
+      },
+      {
+        "en": "After the offer, the ball is in their court.",
+        "ru": "После оффера очередь за ними."
+      }
+    ],
+    "colloc": "the ball is in your court",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "the best of both worlds",
+    "lemma": "the best of both worlds",
+    "ipa": "/ðə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "лучшее из двух миров",
+    "examples": [
+      {
+        "en": "Remote work can be the best of both worlds.",
+        "ru": "Удалёнка может дать лучшее из двух миров."
+      },
+      {
+        "en": "We want the best of both worlds.",
+        "ru": "Мы хотим лучшее из обоих миров."
+      },
+      {
+        "en": "Hybrid gives the best of both worlds.",
+        "ru": "Гибрид даёт лучшее из двух миров."
+      }
+    ],
+    "colloc": "the best of both worlds",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "the elephant in the room",
+    "lemma": "the elephant in the room",
+    "ipa": "/ðə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "очевидная проблема, о которой молчат",
+    "examples": [
+      {
+        "en": "Let's address the elephant in the room.",
+        "ru": "Давайте обсудим слона в комнате."
+      },
+      {
+        "en": "Debt was the elephant in the room.",
+        "ru": "Долг был слоном в комнате."
+      },
+      {
+        "en": "Nobody mentioned the elephant in the room.",
+        "ru": "Никто не упомянул слона в комнате."
+      }
+    ],
+    "colloc": "the elephant in the room",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "the last straw",
+    "lemma": "the last straw",
+    "ipa": "/ðə/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "последняя капля",
+    "examples": [
+      {
+        "en": "That bug was the last straw.",
+        "ru": "Тот баг стал последней каплей."
+      },
+      {
+        "en": "The delay was the last straw for clients.",
+        "ru": "Задержка стала последней каплей для клиентов."
+      },
+      {
+        "en": "Don't make this the last straw.",
+        "ru": "Не делай это последней каплей."
+      }
+    ],
+    "colloc": "the last straw",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "through thick and thin",
+    "lemma": "through thick and thin",
+    "ipa": "/θru/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "и в горе, и в радости",
+    "examples": [
+      {
+        "en": "Friends stay through thick and thin.",
+        "ru": "Друзья остаются и в горе, и в радости."
+      },
+      {
+        "en": "She supported him through thick and thin.",
+        "ru": "Она поддерживала его во всём."
+      },
+      {
+        "en": "Teams bond through thick and thin.",
+        "ru": "Команды сплачиваются в трудностях."
+      }
+    ],
+    "colloc": "through thick and thin",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "under the weather",
+    "lemma": "under the weather",
+    "ipa": "/ˈəndər/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "неважно себя чувствовать",
+    "examples": [
+      {
+        "en": "I'm a bit under the weather.",
+        "ru": "Я немного неважно себя чувствую."
+      },
+      {
+        "en": "He stayed home under the weather.",
+        "ru": "Он остался дома — плохо себя чувствовал."
+      },
+      {
+        "en": "Feeling under the weather is common in winter.",
+        "ru": "Зимой часто чувствуешь себя неважно."
+      }
+    ],
+    "colloc": "under the weather",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "when pigs fly",
+    "lemma": "when pigs fly",
+    "ipa": "/wɪn/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "когда рак свистнет",
+    "examples": [
+      {
+        "en": "He'll apologize when pigs fly.",
+        "ru": "Он извинится, когда рак свистнет."
+      },
+      {
+        "en": "That feature will ship when pigs fly.",
+        "ru": "Эта фича выйдет, когда рак свистнет."
+      },
+      {
+        "en": "Sure — when pigs fly.",
+        "ru": "Конечно — когда свиньи полетят."
+      }
+    ],
+    "colloc": "when pigs fly",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "wrap your head around",
+    "lemma": "wrap your head around",
+    "ipa": "/ræp/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "уложить в голове; понять",
+    "examples": [
+      {
+        "en": "I can't wrap my head around this API.",
+        "ru": "Не могу уложить в голове этот API."
+      },
+      {
+        "en": "Wrap your head around the new policy.",
+        "ru": "Уложи в голове новую политику."
+      },
+      {
+        "en": "It took days to wrap my head around it.",
+        "ru": "Потребовались дни, чтобы понять это."
+      }
+    ],
+    "colloc": "wrap your head around",
+    "bucket": "speech",
+    "note": "figurative"
+  },
+  {
+    "word": "you can't have your cake and eat it too",
+    "lemma": "you can't have your cake and eat it too",
+    "ipa": "/ju/",
+    "pos": "phrase",
+    "level": "mixed",
+    "tr": "нельзя получить всё сразу",
+    "examples": [
+      {
+        "en": "You can't have your cake and eat it too.",
+        "ru": "Нельзя и на ёлку влезть, и штаны не порвать."
+      },
+      {
+        "en": "Choose — you can't have your cake and eat it.",
+        "ru": "Выбери — нельзя получить всё сразу."
+      },
+      {
+        "en": "Managers want both, but you can't have your cake and eat it too.",
+        "ru": "Менеджеры хотят оба варианта, но так не бывает."
+      }
+    ],
+    "colloc": "you can't have your cake and eat it too",
+    "bucket": "speech",
+    "note": "figurative"
+  }
+]
