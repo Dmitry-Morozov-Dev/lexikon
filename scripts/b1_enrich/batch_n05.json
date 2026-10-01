@@ -1,0 +1,1832 @@
+{
+  "b1-0395": {
+    "examples": [
+      {
+        "en": "Give a clear explanation.",
+        "ru": "Дай ясное объяснение."
+      },
+      {
+        "en": "There's no explanation for the delay.",
+        "ru": "Нет объяснения задержки."
+      }
+    ],
+    "colloc": "in explanation · explanation of"
+  },
+  "b1-0396": {
+    "examples": [
+      {
+        "en": "Hear a distant explosion.",
+        "ru": "Услышь далёкий взрыв."
+      },
+      {
+        "en": "An explosion shook the lab.",
+        "ru": "Взрыв сотряс лабораторию."
+      },
+      {
+        "en": "Population explosion strained services.",
+        "ru": "Демографический взрыв нагрузил службы."
+      }
+    ],
+    "colloc": "gas explosion · explosion of"
+  },
+  "b1-0397": {
+    "examples": [
+      {
+        "en": "Increase farm exports.",
+        "ru": "Увеличь экспорт ферм."
+      },
+      {
+        "en": "Coffee is a major export.",
+        "ru": "Кофе — основной экспорт."
+      },
+      {
+        "en": "Export rules changed this year.",
+        "ru": "Правила экспорта изменились в этом году."
+      }
+    ],
+    "colloc": "export of · export market"
+  },
+  "b1-0398": {
+    "examples": [
+      {
+        "en": "Limit sun exposure.",
+        "ru": "Ограничь воздействие солнца."
+      },
+      {
+        "en": "Limit sun exposure at noon.",
+        "ru": "Ограничь пребывание на солнце в полдень."
+      },
+      {
+        "en": "Media exposure helped the campaign.",
+        "ru": "Освещение в СМИ помогло кампании."
+      }
+    ],
+    "colloc": "exposure to · public exposure"
+  },
+  "b1-0399": {
+    "examples": [
+      {
+        "en": "Notice facial expression.",
+        "ru": "Заметь выражение лица."
+      },
+      {
+        "en": "Her expression showed surprise.",
+        "ru": "Её выражение показало удивление."
+      },
+      {
+        "en": "Freedom of expression matters.",
+        "ru": "Свобода выражения важна."
+      }
+    ],
+    "colloc": "facial expression · expression of"
+  },
+  "b1-0400": {
+    "examples": [
+      {
+        "en": "Request a deadline extension.",
+        "ru": "Запроси продление срока."
+      },
+      {
+        "en": "Ask for a deadline extension.",
+        "ru": "Попроси продление дедлайна."
+      },
+      {
+        "en": "The house needs an extension.",
+        "ru": "Дому нужна пристройка."
+      }
+    ],
+    "colloc": "file extension · extension of"
+  },
+  "b1-0401": {
+    "examples": [
+      {
+        "en": "Measure the full extent.",
+        "ru": "Измерь полную степень."
+      },
+      {
+        "en": "To what extent do you agree?",
+        "ru": "В какой мере ты согласен?"
+      },
+      {
+        "en": "Damage of that extent needs repair.",
+        "ru": "Ущерб такого масштаба нужно чинить."
+      }
+    ],
+    "colloc": "to some extent · extent of"
+  },
+  "b1-0403": {
+    "examples": [
+      {
+        "en": "Read a book extract.",
+        "ru": "Прочитай отрывок из книги."
+      },
+      {
+        "en": "Extract the key points.",
+        "ru": "Выдели ключевые пункты."
+      },
+      {
+        "en": "Vanilla extract flavors the cake.",
+        "ru": "Ванильный экстракт ароматизирует торт."
+      }
+    ],
+    "colloc": "extract from · plant extract"
+  },
+  "b1-0404": {
+    "examples": [
+      {
+        "en": "Choose soft cotton fabric.",
+        "ru": "Выбери мягкую хлопковую ткань."
+      },
+      {
+        "en": "This fabric feels soft.",
+        "ru": "Эта ткань мягкая на ощупь."
+      },
+      {
+        "en": "Social fabric needs trust.",
+        "ru": "Социальная ткань нуждается в доверии."
+      }
+    ],
+    "colloc": "cotton fabric · fabric of"
+  },
+  "b1-0405": {
+    "examples": [
+      {
+        "en": "Use sports facilities.",
+        "ru": "Используй спортивные объекты."
+      },
+      {
+        "en": "The sports facility opens at six.",
+        "ru": "Спорткомплекс открывается в шесть."
+      },
+      {
+        "en": "Training facilities improved.",
+        "ru": "Тренировочные объекты улучшились."
+      }
+    ],
+    "colloc": "sports facility · facility for"
+  },
+  "b1-0406": {
+    "examples": [
+      {
+        "en": "Consider every risk factor.",
+        "ru": "Учти каждый фактор риска."
+      },
+      {
+        "en": "Cost is a major factor.",
+        "ru": "Стоимость — главный фактор."
+      }
+    ],
+    "colloc": "factor in · key factor"
+  },
+  "b1-0407": {
+    "examples": [
+      {
+        "en": "Work at a local factory.",
+        "ru": "Работай на местной фабрике."
+      },
+      {
+        "en": "The factory runs three shifts.",
+        "ru": "Завод работает в три смены."
+      },
+      {
+        "en": "Factory waste must be treated.",
+        "ru": "Заводские отходы нужно очищать."
+      }
+    ],
+    "colloc": "factory floor · factory of"
+  },
+  "b1-0408": {
+    "examples": [
+      {
+        "en": "Learn from failure.",
+        "ru": "Учись на неудаче."
+      },
+      {
+        "en": "Learn from every failure.",
+        "ru": "Учись на каждой неудаче."
+      },
+      {
+        "en": "Engine failure forced a landing.",
+        "ru": "Отказ двигателя вынудил посадку."
+      }
+    ],
+    "colloc": "failure of · fear of failure"
+  },
+  "b1-0409": {
+    "examples": [
+      {
+        "en": "Keep quiet faith.",
+        "ru": "Сохрани тихую веру."
+      },
+      {
+        "en": "Keep faith in the process.",
+        "ru": "Сохраняй веру в процесс."
+      },
+      {
+        "en": "She has strong religious faith.",
+        "ru": "У неё сильная религиозная вера."
+      }
+    ],
+    "colloc": "faith in · good faith"
+  },
+  "b1-0410": {
+    "examples": [
+      {
+        "en": "Avoid sudden fame.",
+        "ru": "Избегай внезапной славы."
+      },
+      {
+        "en": "Fame came overnight.",
+        "ru": "Слава пришла за ночь."
+      },
+      {
+        "en": "He never sought fame.",
+        "ru": "Он никогда не искал славы."
+      }
+    ],
+    "colloc": "rise to fame · fame of"
+  },
+  "b1-0411": {
+    "examples": [
+      {
+        "en": "Write a fantasy story.",
+        "ru": "Напиши фантастическую историю."
+      },
+      {
+        "en": "Kids love fantasy stories.",
+        "ru": "Дети любят фэнтези."
+      },
+      {
+        "en": "Don't live in fantasy.",
+        "ru": "Не живи в фантазиях."
+      }
+    ],
+    "colloc": "fantasy world · fantasy of"
+  },
+  "b1-0412": {
+    "examples": [
+      {
+        "en": "Pay the bus fare.",
+        "ru": "Заплати плату за автобус."
+      },
+      {
+        "en": "Bus fare rose again.",
+        "ru": "Плата за автобус снова выросла."
+      },
+      {
+        "en": "What's the taxi fare to downtown?",
+        "ru": "Сколько стоит такси до центра?"
+      }
+    ],
+    "colloc": "air fare · fare of"
+  },
+  "b1-0413": {
+    "examples": [
+      {
+        "en": "Say a warm farewell.",
+        "ru": "Скажи тёплое прощание."
+      },
+      {
+        "en": "We said a quick farewell.",
+        "ru": "Мы быстро попрощались."
+      },
+      {
+        "en": "A farewell party filled the office.",
+        "ru": "Прощальная вечеринка заполнила офис."
+      }
+    ],
+    "colloc": "farewell to · farewell speech"
+  },
+  "b1-0414": {
+    "examples": [
+      {
+        "en": "Follow sustainable fashion.",
+        "ru": "Следуй устойчивой моде."
+      },
+      {
+        "en": "She works in fashion.",
+        "ru": "Она работает в моде."
+      },
+      {
+        "en": "Out of fashion doesn't mean useless.",
+        "ru": "Вышедшее из моды не значит бесполезное."
+      }
+    ],
+    "colloc": "in fashion · fashion of"
+  },
+  "b1-0415": {
+    "examples": [
+      {
+        "en": "Accept an unknown fate.",
+        "ru": "Прими неизвестную судьбу."
+      },
+      {
+        "en": "Don't leave it to fate.",
+        "ru": "Не оставляй это на волю судьбы."
+      },
+      {
+        "en": "The film explores fate and choice.",
+        "ru": "Фильм исследует судьбу и выбор."
+      }
+    ],
+    "colloc": "fate of · twist of fate"
+  },
+  "b1-0416": {
+    "examples": [
+      {
+        "en": "Admit your own fault.",
+        "ru": "Признай свою вину."
+      },
+      {
+        "en": "It's not your fault.",
+        "ru": "Это не твоя вина."
+      },
+      {
+        "en": "Find the fault in the wiring.",
+        "ru": "Найди неисправность в проводке."
+      }
+    ],
+    "colloc": "at fault · fault of"
+  },
+  "b1-0417": {
+    "examples": [
+      {
+        "en": "Ask a small favor.",
+        "ru": "Попроси небольшое одолжение."
+      },
+      {
+        "en": "Can you do me a favor?",
+        "ru": "Можешь сделать одолжение?"
+      },
+      {
+        "en": "Public opinion favors the plan.",
+        "ru": "Общественное мнение на стороне плана."
+      }
+    ],
+    "colloc": "in favor of · favor of",
+    "note": "AmE: favor"
+  },
+  "b1-0418": {
+    "examples": [
+      {
+        "en": "Face quiet fear.",
+        "ru": "Встреть тихий страх."
+      },
+      {
+        "en": "Face your fear gradually.",
+        "ru": "Встречай страх постепенно."
+      },
+      {
+        "en": "Fear of failure stops progress.",
+        "ru": "Страх неудачи останавливает прогресс."
+      }
+    ],
+    "colloc": "fear of · without fear"
+  },
+  "b1-0419": {
+    "examples": [
+      {
+        "en": "Find a soft feather.",
+        "ru": "Найди мягкое перо."
+      },
+      {
+        "en": "A feather floated down.",
+        "ru": "Перо медленно опустилось."
+      },
+      {
+        "en": "Birds molt old feathers.",
+        "ru": "Птицы сбрасывают старые перья."
+      }
+    ],
+    "colloc": "light as a feather · feather of"
+  },
+  "b1-0420": {
+    "examples": [
+      {
+        "en": "Notice a key feature.",
+        "ru": "Заметь ключевую черту."
+      },
+      {
+        "en": "Safety is a key feature.",
+        "ru": "Безопасность — ключевая функция."
+      },
+      {
+        "en": "Tonight's feature starts at eight.",
+        "ru": "Сегодняшний фильм начинается в восемь."
+      }
+    ],
+    "colloc": "feature of · special feature"
+  },
+  "b1-0421": {
+    "examples": [
+      {
+        "en": "Give useful feedback.",
+        "ru": "Дай полезную обратную связь."
+      },
+      {
+        "en": "Ask for honest feedback.",
+        "ru": "Проси честную обратную связь."
+      },
+      {
+        "en": "Customer feedback shaped the app.",
+        "ru": "Отзывы клиентов сформировали приложение."
+      }
+    ],
+    "colloc": "feedback on · give feedback"
+  },
+  "b1-0422": {
+    "examples": [
+      {
+        "en": "Share honest feelings.",
+        "ru": "Поделись честными чувствами."
+      },
+      {
+        "en": "Trust your feeling carefully.",
+        "ru": "Осторожно доверяй чувству."
+      },
+      {
+        "en": "There's a feeling of hope.",
+        "ru": "Есть чувство надежды."
+      }
+    ],
+    "colloc": "gut feeling · feeling of"
+  },
+  "b1-0423": {
+    "examples": [
+      {
+        "en": "Paint the wooden fence.",
+        "ru": "Покрась деревянный забор."
+      },
+      {
+        "en": "Fix the broken fence.",
+        "ru": "Почини сломанный забор."
+      },
+      {
+        "en": "Don't sit on the fence.",
+        "ru": "Не сиди между двух стульев."
+      }
+    ],
+    "colloc": "garden fence · fence of"
+  },
+  "b1-0424": {
+    "examples": [
+      {
+        "en": "Attend a music festival.",
+        "ru": "Посети музыкальный фестиваль."
+      },
+      {
+        "en": "Join the music festival.",
+        "ru": "Присоединяйся к музыкальному фестивалю."
+      },
+      {
+        "en": "Food festivals fill summer.",
+        "ru": "Гастрофестивали заполняют лето."
+      }
+    ],
+    "colloc": "film festival · festival of"
+  },
+  "b1-0425": {
+    "examples": [
+      {
+        "en": "Read modern fiction.",
+        "ru": "Читай современную прозу."
+      },
+      {
+        "en": "She writes science fiction.",
+        "ru": "Она пишет научную фантастику."
+      },
+      {
+        "en": "Don't treat rumors as fiction.",
+        "ru": "Не считай слухи вымыслом."
+      }
+    ],
+    "colloc": "fiction of · works of fiction"
+  },
+  "b1-0426": {
+    "examples": [
+      {
+        "en": "Check the sales figures.",
+        "ru": "Проверь цифры продаж."
+      },
+      {
+        "en": "She's a public figure.",
+        "ru": "Она публичная фигура."
+      }
+    ],
+    "colloc": "figure of speech · figure out"
+  },
+  "b1-0427": {
+    "examples": [
+      {
+        "en": "Save the project file.",
+        "ru": "Сохрани файл проекта."
+      },
+      {
+        "en": "Save the file as PDF.",
+        "ru": "Сохрани файл как PDF."
+      },
+      {
+        "en": "Open a complaint file.",
+        "ru": "Открой дело по жалобе."
+      }
+    ],
+    "colloc": "file of · digital file"
+  },
+  "b1-0428": {
+    "examples": [
+      {
+        "en": "Change the air filter.",
+        "ru": "Замени воздушный фильтр."
+      },
+      {
+        "en": "Change the water filter.",
+        "ru": "Смени водный фильтр."
+      },
+      {
+        "en": "Filter spam before reading mail.",
+        "ru": "Фильтруй спам перед чтением почты."
+      }
+    ],
+    "colloc": "air filter · filter of"
+  },
+  "b1-0429": {
+    "examples": [
+      {
+        "en": "Study personal finance.",
+        "ru": "Изучай личные финансы."
+      },
+      {
+        "en": "She works in corporate finance.",
+        "ru": "Она работает в корпоративных финансах."
+      },
+      {
+        "en": "Finance the repair with savings.",
+        "ru": "Финансируй ремонт из сбережений."
+      }
+    ],
+    "colloc": "public finance · finance of"
+  },
+  "b1-0430": {
+    "examples": [
+      {
+        "en": "Share research findings.",
+        "ru": "Поделись выводами исследования."
+      },
+      {
+        "en": "Share your research findings.",
+        "ru": "Поделись результатами исследования."
+      },
+      {
+        "en": "The findings surprised the team.",
+        "ru": "Находки удивили команду."
+      }
+    ],
+    "colloc": "key finding · finding of"
+  },
+  "b1-0431": {
+    "examples": [
+      {
+        "en": "Pay a parking fine.",
+        "ru": "Заплати штраф за парковку."
+      },
+      {
+        "en": "Pay the parking fine.",
+        "ru": "Оплати штраф за парковку."
+      },
+      {
+        "en": "Feel fine after rest.",
+        "ru": "Чувствуй себя хорошо после отдыха."
+      }
+    ],
+    "colloc": "fine of · heavy fine"
+  },
+  "b1-0432": {
+    "examples": [
+      {
+        "en": "Leave no fingerprint.",
+        "ru": "Не оставляй отпечаток пальца."
+      },
+      {
+        "en": "Leave no fingerprint on glass.",
+        "ru": "Не оставляй отпечатков на стекле."
+      },
+      {
+        "en": "Police matched the fingerprint.",
+        "ru": "Полиция сопоставила отпечаток."
+      }
+    ],
+    "colloc": "fingerprint of · digital fingerprint"
+  },
+  "b1-0433": {
+    "examples": [
+      {
+        "en": "Plant a tall fir.",
+        "ru": "Посади высокую ель."
+      },
+      {
+        "en": "A fir tree stood in the yard.",
+        "ru": "В дворе стояла пихта."
+      },
+      {
+        "en": "Fir needles cover the path.",
+        "ru": "Хвоя пихты покрывает тропу."
+      }
+    ],
+    "colloc": "fir forest · fir of"
+  },
+  "b1-0434": {
+    "examples": [
+      {
+        "en": "Watch New Year fireworks.",
+        "ru": "Смотри новогодние фейерверки."
+      },
+      {
+        "en": "Fireworks lit the sky.",
+        "ru": "Фейерверки осветили небо."
+      },
+      {
+        "en": "City fireworks start at midnight.",
+        "ru": "Городской салют в полночь."
+      }
+    ],
+    "colloc": "firework display · firework of"
+  },
+  "b1-0435": {
+    "examples": [
+      {
+        "en": "Join a law firm.",
+        "ru": "Вступи в юридическую фирму."
+      },
+      {
+        "en": "She runs a law firm.",
+        "ru": "Она ведёт юридическую фирму."
+      },
+      {
+        "en": "Keep a firm grip on the rope.",
+        "ru": "Крепко держи верёвку."
+      }
+    ],
+    "colloc": "law firm · firm of"
+  },
+  "b1-0436": {
+    "examples": [
+      {
+        "en": "Meet a local fisherman.",
+        "ru": "Встреть местного рыбака."
+      },
+      {
+        "en": "The fisherman returned at dawn.",
+        "ru": "Рыбак вернулся на рассвете."
+      },
+      {
+        "en": "Local fishermen know these waters.",
+        "ru": "Местные рыбаки знают эти воды."
+      }
+    ],
+    "colloc": "fisherman's boat · commercial fisherman"
+  },
+  "b1-0437": {
+    "examples": [
+      {
+        "en": "Improve personal fitness.",
+        "ru": "Улучши личную форму."
+      },
+      {
+        "en": "Fitness improves with routine.",
+        "ru": "Фитнес растёт с режимом."
+      },
+      {
+        "en": "Join a fitness class.",
+        "ru": "Запишись на фитнес-занятие."
+      }
+    ],
+    "colloc": "fitness level · fitness of"
+  },
+  "b1-0438": {
+    "examples": [
+      {
+        "en": "Watch the candle flame.",
+        "ru": "Смотри на пламя свечи."
+      },
+      {
+        "en": "Keep flames away from curtains.",
+        "ru": "Держи огонь подальше от штор."
+      },
+      {
+        "en": "Hope is a small flame.",
+        "ru": "Надежда — маленький огонёк."
+      }
+    ],
+    "colloc": "open flame · flame of"
+  },
+  "b1-0439": {
+    "examples": [
+      {
+        "en": "See a sudden flash.",
+        "ru": "Увидь внезапную вспышку."
+      },
+      {
+        "en": "A flash of lightning lit the room.",
+        "ru": "Вспышка молнии осветила комнату."
+      },
+      {
+        "en": "News came in a flash.",
+        "ru": "Новости пришли мгновенно."
+      }
+    ],
+    "colloc": "flash of · camera flash"
+  },
+  "b1-0440": {
+    "examples": [
+      {
+        "en": "Try a new flavor.",
+        "ru": "Попробуй новый вкус."
+      },
+      {
+        "en": "Add garlic for flavor.",
+        "ru": "Добавь чеснок для вкуса."
+      },
+      {
+        "en": "This tea has a mild flavor.",
+        "ru": "У этого чая мягкий вкус."
+      }
+    ],
+    "colloc": "flavor of · full flavor",
+    "note": "AmE: flavor"
+  },
+  "b1-0441": {
+    "examples": [
+      {
+        "en": "Expand the delivery fleet.",
+        "ru": "Расширь флот доставки."
+      },
+      {
+        "en": "The company runs a delivery fleet.",
+        "ru": "Компания держит парк доставки."
+      },
+      {
+        "en": "A fleet of taxis waited outside.",
+        "ru": "Стая такси ждала снаружи."
+      }
+    ],
+    "colloc": "fleet of · naval fleet"
+  },
+  "b1-0442": {
+    "examples": [
+      {
+        "en": "Cut away excess flesh.",
+        "ru": "Отрежь лишнюю плоть."
+      },
+      {
+        "en": "The thorn went into flesh.",
+        "ru": "Колючка вошла в плоть."
+      },
+      {
+        "en": "Flesh out the outline later.",
+        "ru": "Позже наполни план деталями."
+      }
+    ],
+    "colloc": "flesh and blood · flesh of"
+  },
+  "b1-0443": {
+    "examples": [
+      {
+        "en": "Show schedule flexibility.",
+        "ru": "Прояви гибкость расписания."
+      },
+      {
+        "en": "Job flexibility attracts talent.",
+        "ru": "Гибкость работы привлекает таланты."
+      },
+      {
+        "en": "Stretch for flexibility.",
+        "ru": "Тянись для гибкости."
+      }
+    ],
+    "colloc": "flexibility of · show flexibility"
+  },
+  "b1-0444": {
+    "examples": [
+      {
+        "en": "Book an evening flight.",
+        "ru": "Забронируй вечерний рейс."
+      },
+      {
+        "en": "Book an early flight.",
+        "ru": "Забронируй ранний рейс."
+      },
+      {
+        "en": "Fear of flight is common.",
+        "ru": "Страх полётов распространён."
+      }
+    ],
+    "colloc": "direct flight · flight of"
+  },
+  "b1-0445": {
+    "examples": [
+      {
+        "en": "Prepare for a flood.",
+        "ru": "Готовься к наводнению."
+      },
+      {
+        "en": "A flood closed downtown.",
+        "ru": "Наводнение закрыло центр."
+      },
+      {
+        "en": "Don't flood the inbox with mail.",
+        "ru": "Не заваливай почту письмами."
+      }
+    ],
+    "colloc": "flash flood · flood of"
+  },
+  "b1-0446": {
+    "examples": [
+      {
+        "en": "Watch the river flow.",
+        "ru": "Смотри на поток реки."
+      },
+      {
+        "en": "Traffic flow improved.",
+        "ru": "Поток машин улучшился."
+      },
+      {
+        "en": "Check the water flow.",
+        "ru": "Проверь поток воды."
+      }
+    ],
+    "colloc": "flow of · cash flow"
+  },
+  "b1-0447": {
+    "examples": [
+      {
+        "en": "Rest during the flu.",
+        "ru": "Отдыхай во время гриппа."
+      },
+      {
+        "en": "She caught the flu at work.",
+        "ru": "Она подхватила грипп на работе."
+      },
+      {
+        "en": "Flu season peaks in winter.",
+        "ru": "Сезон гриппа достигает пика зимой."
+      }
+    ],
+    "colloc": "flu shot · flu of"
+  },
+  "b1-0448": {
+    "examples": [
+      {
+        "en": "Drink enough fluid.",
+        "ru": "Пей достаточно жидкости."
+      },
+      {
+        "en": "Drink plenty of fluid.",
+        "ru": "Пей много жидкости."
+      },
+      {
+        "en": "Brake fluid needs checking.",
+        "ru": "Тормозную жидкость нужно проверить."
+      }
+    ],
+    "colloc": "body fluid · fluid of"
+  },
+  "b1-0449": {
+    "examples": [
+      {
+        "en": "Drive slowly in fog.",
+        "ru": "Езжай медленно в тумане."
+      },
+      {
+        "en": "Thick fog delayed flights.",
+        "ru": "Густой туман задержал рейсы."
+      },
+      {
+        "en": "Don't drive fast in fog.",
+        "ru": "Не езди быстро в тумане."
+      }
+    ],
+    "colloc": "dense fog · fog of"
+  },
+  "b1-0450": {
+    "examples": [
+      {
+        "en": "Listen to folk music.",
+        "ru": "Слушай народную музыку."
+      },
+      {
+        "en": "Folk music filled the hall.",
+        "ru": "Народная музыка заполнила зал."
+      },
+      {
+        "en": "Ordinary folk paid the price.",
+        "ru": "Обычные люди заплатили цену."
+      }
+    ],
+    "colloc": "folk of · country folk"
+  },
+  "b1-0451": {
+    "examples": [
+      {
+        "en": "Gain honest followers.",
+        "ru": "Набери честных подписчиков."
+      },
+      {
+        "en": "She has many followers online.",
+        "ru": "У неё много подписчиков онлайн."
+      },
+      {
+        "en": "Be a leader, not only a follower.",
+        "ru": "Будь лидером, а не только последователем."
+      }
+    ],
+    "colloc": "follower of · social follower"
+  },
+  "b1-0452": {
+    "examples": [
+      {
+        "en": "Show fondness for pets.",
+        "ru": "Прояви привязанность к питомцам."
+      },
+      {
+        "en": "I have a fondness for rainy days.",
+        "ru": "У меня слабость к дождливым дням."
+      },
+      {
+        "en": "Childhood fondness never left.",
+        "ru": "Детская привязанность никуда не делась."
+      }
+    ],
+    "colloc": "fondness for · growing fondness"
+  },
+  "b1-0453": {
+    "examples": [
+      {
+        "en": "Do not play the fool.",
+        "ru": "Не валяй дурака."
+      },
+      {
+        "en": "Don't play the fool.",
+        "ru": "Не валяй дурака."
+      },
+      {
+        "en": "Only a fool ignores warnings.",
+        "ru": "Только глупец игнорирует предупреждения."
+      }
+    ],
+    "colloc": "fool of · make a fool of"
+  },
+  "b1-0454": {
+    "examples": [
+      {
+        "en": "Watch weekend football.",
+        "ru": "Смотри выходной футбол."
+      },
+      {
+        "en": "Football practice starts at four.",
+        "ru": "Тренировка по футболу в четыре."
+      },
+      {
+        "en": "American football differs from soccer.",
+        "ru": "Американский футбол отличается от футбола (soccer)."
+      }
+    ],
+    "colloc": "football game · football of"
+  },
+  "b1-0455": {
+    "examples": [
+      {
+        "en": "Find a muddy footprint.",
+        "ru": "Найди грязный след."
+      },
+      {
+        "en": "Wipe muddy footprints.",
+        "ru": "Вытри грязные следы."
+      },
+      {
+        "en": "Reduce your carbon footprint.",
+        "ru": "Снизь углеродный след."
+      }
+    ],
+    "colloc": "carbon footprint · footprint of"
+  },
+  "b1-0456": {
+    "examples": [
+      {
+        "en": "Check the weather forecast.",
+        "ru": "Проверь прогноз погоды."
+      },
+      {
+        "en": "Sales forecast looks strong.",
+        "ru": "Прогноз продаж выглядит сильным."
+      }
+    ],
+    "colloc": "forecast of · weather forecast"
+  },
+  "b1-0457": {
+    "examples": [
+      {
+        "en": "Wipe sweat from your forehead.",
+        "ru": "Вытри пот со лба."
+      },
+      {
+        "en": "She kissed the baby's forehead.",
+        "ru": "Она поцеловала малыша в лоб."
+      }
+    ],
+    "colloc": "forehead of · high forehead"
+  },
+  "b1-0458": {
+    "examples": [
+      {
+        "en": "Watch cloud formation.",
+        "ru": "Смотри формирование облаков."
+      },
+      {
+        "en": "Cloud formation looks dramatic.",
+        "ru": "Образование облаков выглядит драматично."
+      },
+      {
+        "en": "Team formation takes time.",
+        "ru": "Формирование команды занимает время."
+      }
+    ],
+    "colloc": "formation of · rock formation"
+  },
+  "b1-0459": {
+    "examples": [
+      {
+        "en": "Learn the math formula.",
+        "ru": "Выучи математическую формулу."
+      },
+      {
+        "en": "Follow the formula exactly.",
+        "ru": "Точно следуй формуле."
+      },
+      {
+        "en": "Success has no single formula.",
+        "ru": "У успеха нет одной формулы."
+      }
+    ],
+    "colloc": "formula for · chemical formula"
+  },
+  "b1-0460": {
+    "examples": [
+      {
+        "en": "Seek a better fortune.",
+        "ru": "Ищи лучшую удачу."
+      },
+      {
+        "en": "She made a fortune in tech.",
+        "ru": "Она сколотила состояние в технологиях."
+      },
+      {
+        "en": "Fortunate timing changed her fortune.",
+        "ru": "Удачный момент изменил её судьбу."
+      }
+    ],
+    "colloc": "good fortune · fortune of"
+  },
+  "b1-0461": {
+    "examples": [
+      {
+        "en": "Join an online forum.",
+        "ru": "Вступи в онлайн-форум."
+      },
+      {
+        "en": "Join the online forum.",
+        "ru": "Вступи в онлайн-форум."
+      },
+      {
+        "en": "The town held an open forum.",
+        "ru": "Город провёл открытый форум."
+      }
+    ],
+    "colloc": "discussion forum · forum for"
+  },
+  "b1-0462": {
+    "examples": [
+      {
+        "en": "Build a strong foundation.",
+        "ru": "Построй крепкий фундамент."
+      },
+      {
+        "en": "Lay a strong foundation.",
+        "ru": "Заложи прочный фундамент."
+      },
+      {
+        "en": "A charity foundation funds the clinic.",
+        "ru": "Благотворительный фонд финансирует клинику."
+      }
+    ],
+    "colloc": "foundation of · lay the foundation"
+  },
+  "b1-0463": {
+    "examples": [
+      {
+        "en": "Meet the company founder.",
+        "ru": "Встреть основателя компании."
+      },
+      {
+        "en": "The founder still advises the board.",
+        "ru": "Основатель всё ещё советует совету."
+      }
+    ],
+    "colloc": "founder of · co-founder"
+  },
+  "b1-0464": {
+    "examples": [
+      {
+        "en": "Learn simple fractions.",
+        "ru": "Выучи простые дроби."
+      },
+      {
+        "en": "Only a fraction finished early.",
+        "ru": "Лишь часть закончила рано."
+      },
+      {
+        "en": "Learn fractions in math class.",
+        "ru": "Учи дроби на математике."
+      }
+    ],
+    "colloc": "fraction of · small fraction"
+  },
+  "b1-0465": {
+    "examples": [
+      {
+        "en": "Use a legal framework.",
+        "ru": "Используй правовую рамку."
+      },
+      {
+        "en": "Build within this framework.",
+        "ru": "Строй в рамках этой структуры."
+      },
+      {
+        "en": "Legal framework protects workers.",
+        "ru": "Правовая база защищает работников."
+      }
+    ],
+    "colloc": "framework for · within the framework"
+  },
+  "b1-0466": {
+    "examples": [
+      {
+        "en": "Buy a food franchise.",
+        "ru": "Купи продуктовую франшизу."
+      },
+      {
+        "en": "Buy a coffee franchise.",
+        "ru": "Купи франшизу кофейни."
+      },
+      {
+        "en": "The film franchise earned billions.",
+        "ru": "Кинофраншиза заработала миллиарды."
+      }
+    ],
+    "colloc": "franchise of · open a franchise"
+  },
+  "b1-0467": {
+    "examples": [
+      {
+        "en": "Report online fraud.",
+        "ru": "Сообщи об онлайн-мошенничестве."
+      },
+      {
+        "en": "Report credit-card fraud.",
+        "ru": "Сообщи о мошенничестве с картой."
+      },
+      {
+        "en": "The deal smelled like fraud.",
+        "ru": "Сделка пахла мошенничеством."
+      }
+    ],
+    "colloc": "fraud of · insurance fraud"
+  },
+  "b1-0468": {
+    "examples": [
+      {
+        "en": "Protect personal freedom.",
+        "ru": "Защищай личную свободу."
+      },
+      {
+        "en": "Cherish freedom of speech.",
+        "ru": "Цени свободу слова."
+      },
+      {
+        "en": "Freedom comes with responsibility.",
+        "ru": "Свобода идёт с ответственностью."
+      }
+    ],
+    "colloc": "freedom of · personal freedom"
+  },
+  "b1-0469": {
+    "examples": [
+      {
+        "en": "Measure radio frequency.",
+        "ru": "Измерь радиочастоту."
+      },
+      {
+        "en": "Reduce meeting frequency.",
+        "ru": "Снизь частоту встреч."
+      },
+      {
+        "en": "Radio frequency needs tuning.",
+        "ru": "Радиочастоту нужно настроить."
+      }
+    ],
+    "colloc": "frequency of · high frequency"
+  },
+  "b1-0470": {
+    "examples": [
+      {
+        "en": "Reduce surface friction.",
+        "ru": "Снизь поверхностное трение."
+      },
+      {
+        "en": "Oil reduces friction.",
+        "ru": "Масло снижает трение."
+      },
+      {
+        "en": "Avoid friction in the team.",
+        "ru": "Избегай трений в команде."
+      }
+    ],
+    "colloc": "friction of · cause friction"
+  },
+  "b1-0471": {
+    "examples": [
+      {
+        "en": "Value lasting friendship.",
+        "ru": "Цени долгую дружбу."
+      },
+      {
+        "en": "Friendship survives distance.",
+        "ru": "Дружба переживает расстояние."
+      },
+      {
+        "en": "Build friendship through trust.",
+        "ru": "Строй дружбу через доверие."
+      }
+    ],
+    "colloc": "friendship with · lasting friendship"
+  },
+  "b1-0472": {
+    "examples": [
+      {
+        "en": "Cross a wild frontier.",
+        "ru": "Пересеки дикую границу."
+      },
+      {
+        "en": "Space is the next frontier.",
+        "ru": "Космос — следующий рубеж."
+      },
+      {
+        "en": "Settlers crossed the frontier.",
+        "ru": "Поселенцы пересекли границу."
+      }
+    ],
+    "colloc": "frontier of · new frontier"
+  },
+  "b1-0473": {
+    "examples": [
+      {
+        "en": "Protect plants from frost.",
+        "ru": "Защити растения от мороза."
+      },
+      {
+        "en": "Morning frost covered the grass.",
+        "ru": "Утренний иней покрыл траву."
+      },
+      {
+        "en": "Frost damaged early crops.",
+        "ru": "Мороз повредил ранние посевы."
+      }
+    ],
+    "colloc": "frost of · hard frost"
+  },
+  "b1-0474": {
+    "examples": [
+      {
+        "en": "Hide quiet frustration.",
+        "ru": "Скрой тихое раздражение."
+      },
+      {
+        "en": "Express frustration calmly.",
+        "ru": "Выражай раздражение спокойно."
+      },
+      {
+        "en": "Traffic is a daily frustration.",
+        "ru": "Пробки — ежедневное раздражение."
+      }
+    ],
+    "colloc": "frustration with · sense of frustration"
+  },
+  "b1-0475": {
+    "examples": [
+      {
+        "en": "Save car fuel carefully.",
+        "ru": "Осторожно экономь топливо."
+      },
+      {
+        "en": "Fill the tank with fuel.",
+        "ru": "Заправь бак топливом."
+      },
+      {
+        "en": "Anger can fuel conflict.",
+        "ru": "Гнев может питать конфликт."
+      }
+    ],
+    "colloc": "fuel of · fossil fuel"
+  },
+  "b1-0476": {
+    "examples": [
+      {
+        "en": "Explain each main function.",
+        "ru": "Объясни каждую главную функцию."
+      },
+      {
+        "en": "What's the function of this button?",
+        "ru": "Какова функция этой кнопки?"
+      },
+      {
+        "en": "The machine stopped functioning.",
+        "ru": "Машина перестала работать."
+      }
+    ],
+    "colloc": "function of · main function"
+  },
+  "b1-0477": {
+    "examples": [
+      {
+        "en": "Raise a charity fund.",
+        "ru": "Собери благотворительный фонд."
+      },
+      {
+        "en": "Donate to the scholarship fund.",
+        "ru": "Пожертвуй в стипендиальный фонд."
+      },
+      {
+        "en": "They fund local startups.",
+        "ru": "Они финансируют местные стартапы."
+      }
+    ],
+    "colloc": "fund of · emergency fund"
+  },
+  "b1-0478": {
+    "examples": [
+      {
+        "en": "Secure project funding.",
+        "ru": "Обеспечь финансирование проекта."
+      },
+      {
+        "en": "Seek funding early.",
+        "ru": "Ищи финансирование рано."
+      },
+      {
+        "en": "Public funding supports research.",
+        "ru": "Госфинансирование поддерживает исследования."
+      }
+    ],
+    "colloc": "funding for · lack of funding"
+  },
+  "b1-0479": {
+    "examples": [
+      {
+        "en": "Attend a quiet funeral.",
+        "ru": "Посети тихие похороны."
+      },
+      {
+        "en": "The funeral is on Thursday.",
+        "ru": "Похороны в четверг."
+      },
+      {
+        "en": "Attend the funeral respectfully.",
+        "ru": "Присутствуй на похоронах с уважением."
+      }
+    ],
+    "colloc": "funeral of · funeral service"
+  },
+  "b1-0480": {
+    "examples": [
+      {
+        "en": "Feel soft cat fur.",
+        "ru": "Почувствуй мягкий мех кошки."
+      },
+      {
+        "en": "The coat is lined with fur.",
+        "ru": "Пальто на меху."
+      },
+      {
+        "en": "Animals shed winter fur.",
+        "ru": "Животные сбрасывают зимний мех."
+      }
+    ],
+    "colloc": "fur coat · fur of"
+  },
+  "b1-0481": {
+    "examples": [
+      {
+        "en": "Buy simple wooden furniture.",
+        "ru": "Купи простую деревянную мебель."
+      },
+      {
+        "en": "Move the furniture carefully.",
+        "ru": "Аккуратно двигай мебель."
+      },
+      {
+        "en": "Office furniture arrives Monday.",
+        "ru": "Офисная мебель прибудет в понедельник."
+      }
+    ],
+    "colloc": "furniture of · piece of furniture",
+    "note": "furniture неисчисляемое"
+  },
+  "b1-0482": {
+    "examples": [
+      {
+        "en": "Control sudden fury.",
+        "ru": "Контролируй внезапную ярость."
+      },
+      {
+        "en": "He left in a fury.",
+        "ru": "Он ушёл в ярости."
+      },
+      {
+        "en": "The storm hit with fury.",
+        "ru": "Буря ударила с яростью."
+      }
+    ],
+    "colloc": "fury of · uncontrolled fury"
+  },
+  "b1-0483": {
+    "examples": [
+      {
+        "en": "Visit an art gallery.",
+        "ru": "Посети художественную галерею."
+      },
+      {
+        "en": "Visit the art gallery.",
+        "ru": "Посети художественную галерею."
+      },
+      {
+        "en": "Photos hang in the hallway gallery.",
+        "ru": "Фото висят в коридорной галерее."
+      }
+    ],
+    "colloc": "gallery of · photo gallery"
+  },
+  "b1-0484": {
+    "examples": [
+      {
+        "en": "Avoid a street gang.",
+        "ru": "Избегай уличной банды."
+      },
+      {
+        "en": "A gang of kids played outside.",
+        "ru": "Стая детей играла на улице."
+      },
+      {
+        "en": "Police broke up the gang.",
+        "ru": "Полиция разогнала банду."
+      }
+    ],
+    "colloc": "gang of · street gang"
+  },
+  "b1-0485": {
+    "examples": [
+      {
+        "en": "Close the skills gap.",
+        "ru": "Закрой разрыв в навыках."
+      },
+      {
+        "en": "Close the pay gap.",
+        "ru": "Сократи разрыв в оплате."
+      },
+      {
+        "en": "There's a gap in the fence.",
+        "ru": "В заборе есть дыра."
+      }
+    ],
+    "colloc": "gap between · knowledge gap"
+  },
+  "b1-0486": {
+    "examples": [
+      {
+        "en": "Take out the garbage.",
+        "ru": "Вынеси мусор."
+      },
+      {
+        "en": "Don't talk garbage.",
+        "ru": "Не говори чепуху."
+      }
+    ],
+    "colloc": "garbage can · garbage of",
+    "note": "AmE: garbage"
+  },
+  "b1-0487": {
+    "examples": [
+      {
+        "en": "Buy gasoline nearby.",
+        "ru": "Купи бензин рядом."
+      },
+      {
+        "en": "Gasoline prices rose again.",
+        "ru": "Цены на бензин снова выросли."
+      },
+      {
+        "en": "Fill up with gasoline.",
+        "ru": "Заправься бензином."
+      }
+    ],
+    "colloc": "gasoline of · unleaded gasoline",
+    "note": "AmE: gasoline"
+  },
+  "b1-0488": {
+    "examples": [
+      {
+        "en": "Close the garden gate.",
+        "ru": "Закрой садовые ворота."
+      },
+      {
+        "en": "Meet me at the main gate.",
+        "ru": "Встреть меня у главных ворот."
+      },
+      {
+        "en": "The garden gate needs oil.",
+        "ru": "Садовой калитке нужно масло."
+      }
+    ],
+    "colloc": "gate of · departure gate"
+  },
+  "b1-0489": {
+    "examples": [
+      {
+        "en": "Attend a family gathering.",
+        "ru": "Посети семейный сбор."
+      },
+      {
+        "en": "Join the family gathering.",
+        "ru": "Присоединяйся к семейному сбору."
+      },
+      {
+        "en": "A quiet gathering marked the day.",
+        "ru": "Тихий сбор отметил день."
+      }
+    ],
+    "colloc": "gathering of · social gathering"
+  },
+  "b1-0490": {
+    "examples": [
+      {
+        "en": "Change gear carefully.",
+        "ru": "Осторожно переключи передачу."
+      },
+      {
+        "en": "Pack hiking gear.",
+        "ru": "Собери снаряжение для хайкинга."
+      },
+      {
+        "en": "Shift into a lower gear.",
+        "ru": "Переключись на низшую передачу."
+      }
+    ],
+    "colloc": "gear of · camping gear"
+  },
+  "b1-0491": {
+    "examples": [
+      {
+        "en": "Discuss gender equality.",
+        "ru": "Обсуди равенство полов."
+      },
+      {
+        "en": "Discuss gender equality openly.",
+        "ru": "Открыто обсуждай гендерное равенство."
+      },
+      {
+        "en": "Gender shouldn't limit careers.",
+        "ru": "Пол не должен ограничивать карьеру."
+      }
+    ],
+    "colloc": "gender of · gender gap"
+  },
+  "b1-0492": {
+    "examples": [
+      {
+        "en": "Study a rare gene.",
+        "ru": "Изучи редкий ген."
+      },
+      {
+        "en": "Scientists mapped the gene.",
+        "ru": "Учёные картировали ген."
+      },
+      {
+        "en": "Genes influence eye color.",
+        "ru": "Гены влияют на цвет глаз."
+      }
+    ],
+    "colloc": "gene of · gene therapy"
+  },
+  "b1-0493": {
+    "examples": [
+      {
+        "en": "Respect the older generation.",
+        "ru": "Уважай старшее поколение."
+      },
+      {
+        "en": "Younger generations innovate fast.",
+        "ru": "Младшие поколения быстро инноваруют."
+      },
+      {
+        "en": "A generation gap can cause conflict.",
+        "ru": "Разрыв поколений может вызвать конфликт."
+      }
+    ],
+    "colloc": "generation of · next generation"
+  },
+  "b1-0494": {
+    "examples": [
+      {
+        "en": "He is a quiet genius.",
+        "ru": "Он тихий гений."
+      },
+      {
+        "en": "She's a math genius.",
+        "ru": "Она математический гений."
+      },
+      {
+        "en": "True genius looks like hard work.",
+        "ru": "Настоящий гений выглядит как упорный труд."
+      }
+    ],
+    "colloc": "genius of · stroke of genius"
+  },
+  "b1-0495": {
+    "examples": [
+      {
+        "en": "Choose a film genre.",
+        "ru": "Выбери жанр фильма."
+      },
+      {
+        "en": "What's your favorite film genre?",
+        "ru": "Какой твой любимый киножанр?"
+      },
+      {
+        "en": "This novel mixes genres.",
+        "ru": "Этот роман смешивает жанры."
+      }
+    ],
+    "colloc": "genre of · literary genre"
+  },
+  "b1-0496": {
+    "examples": [
+      {
+        "en": "Make a kind gesture.",
+        "ru": "Сделай добрый жест."
+      },
+      {
+        "en": "A kind gesture matters.",
+        "ru": "Добрый жест важен."
+      },
+      {
+        "en": "She made a gesture toward the door.",
+        "ru": "Она жестом указала на дверь."
+      }
+    ],
+    "colloc": "gesture of · hand gesture"
+  },
+  "b1-0497": {
+    "examples": [
+      {
+        "en": "Take a quick glance.",
+        "ru": "Брось быстрый взгляд."
+      },
+      {
+        "en": "Take a glance at the map.",
+        "ru": "Взгляни на карту."
+      },
+      {
+        "en": "At first glance it looked easy.",
+        "ru": "На первый взгляд казалось лёгким."
+      }
+    ],
+    "colloc": "glance at · quick glance"
+  },
+  "b1-0498": {
+    "examples": [
+      {
+        "en": "Spin the classroom globe.",
+        "ru": "Покрути школьный глобус."
+      },
+      {
+        "en": "Spin the globe and point.",
+        "ru": "Крути глобус и указывай."
+      },
+      {
+        "en": "News travels across the globe.",
+        "ru": "Новости облетают весь мир."
+      }
+    ],
+    "colloc": "globe of · around the globe"
+  },
+  "b1-0499": {
+    "examples": [
+      {
+        "en": "Seek quiet glory.",
+        "ru": "Ищи тихую славу."
+      },
+      {
+        "en": "They returned in glory.",
+        "ru": "Они вернулись в славе."
+      },
+      {
+        "en": "Don't chase empty glory.",
+        "ru": "Не гонись за пустой славой."
+      }
+    ],
+    "colloc": "glory of · moment of glory"
+  },
+  "b1-0500": {
+    "examples": [
+      {
+        "en": "Watch the soft glow.",
+        "ru": "Смотри на мягкое сияние."
+      },
+      {
+        "en": "A warm glow filled the room.",
+        "ru": "Тёплое свечение заполнило комнату."
+      },
+      {
+        "en": "Health gives skin a glow.",
+        "ru": "Здоровье даёт коже сияние."
+      }
+    ],
+    "colloc": "glow of · soft glow"
+  },
+  "b1-0501": {
+    "examples": [
+      {
+        "en": "Set a clear goal.",
+        "ru": "Поставь ясную цель."
+      },
+      {
+        "en": "Set a clear weekly goal.",
+        "ru": "Поставь ясную недельную цель."
+      },
+      {
+        "en": "Score one more goal.",
+        "ru": "Забей ещё один гол."
+      }
+    ],
+    "colloc": "goal of · achieve a goal"
+  },
+  "b1-0502": {
+    "examples": [
+      {
+        "en": "Pray to God quietly.",
+        "ru": "Тихо молись Богу."
+      },
+      {
+        "en": "Temples honor different gods.",
+        "ru": "Храмы чтят разных богов."
+      },
+      {
+        "en": "Thank God for safe travel.",
+        "ru": "Слава богу за безопасную поездку."
+      }
+    ],
+    "colloc": "god of · act of God"
+  },
+  "b1-0503": {
+    "examples": [
+      {
+        "en": "Ship goods carefully.",
+        "ru": "Осторожно отправь товары."
+      },
+      {
+        "en": "Deliver the goods on time.",
+        "ru": "Доставь товары вовремя."
+      },
+      {
+        "en": "Damaged goods get returned.",
+        "ru": "Повреждённые товары возвращают."
+      }
+    ],
+    "colloc": "goods of · consumer goods"
+  },
+  "b1-0504": {
+    "examples": [
+      {
+        "en": "Ignore office gossip.",
+        "ru": "Игнорируй офисные сплетни."
+      },
+      {
+        "en": "Don't spread office gossip.",
+        "ru": "Не распространяй офисные сплетни."
+      },
+      {
+        "en": "Gossip magazines fill shelves.",
+        "ru": "Журналы со сплетнями заполняют полки."
+      }
+    ],
+    "colloc": "gossip about · idle gossip"
+  }
+}

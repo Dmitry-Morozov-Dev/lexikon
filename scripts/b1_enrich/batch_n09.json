@@ -1,0 +1,1442 @@
+{
+  "b1-0745": {
+    "examples": [
+      {
+        "en": "Fight quiet loneliness.",
+        "ru": "Борись с тихим одиночеством."
+      },
+      {
+        "en": "Loneliness can harm health.",
+        "ru": "Одиночество может вредить здоровью."
+      },
+      {
+        "en": "Fight loneliness with community.",
+        "ru": "Борись с одиночеством через сообщество."
+      }
+    ],
+    "colloc": "loneliness of · deep loneliness"
+  },
+  "b1-0746": {
+    "examples": [
+      {
+        "en": "Close the feedback loop.",
+        "ru": "Закрой петлю обратной связи."
+      },
+      {
+        "en": "Stay in the loop on updates.",
+        "ru": "Оставайся в курсе обновлений."
+      }
+    ],
+    "colloc": "loop of · endless loop"
+  },
+  "b1-0747": {
+    "examples": [
+      {
+        "en": "Meet a British lord.",
+        "ru": "Встреть британского лорда."
+      },
+      {
+        "en": "The lord owned vast land.",
+        "ru": "Лорд владел огромной землёй."
+      },
+      {
+        "en": "Oh Lord, what a mess.",
+        "ru": "Господи, какой беспорядок."
+      }
+    ],
+    "colloc": "lord of · feudal lord"
+  },
+  "b1-0748": {
+    "examples": [
+      {
+        "en": "Accept a small loss.",
+        "ru": "Прими небольшую потерю."
+      },
+      {
+        "en": "Accept the loss and move on.",
+        "ru": "Прими потерю и иди дальше."
+      },
+      {
+        "en": "Weight loss needs consistency.",
+        "ru": "Снижение веса требует постоянства."
+      }
+    ],
+    "colloc": "loss of · sense of loss"
+  },
+  "b1-0749": {
+    "examples": [
+      {
+        "en": "Win a small lottery.",
+        "ru": "Выиграй небольшую лотерею."
+      },
+      {
+        "en": "Win the lottery by chance.",
+        "ru": "Выиграй лотерею случайно."
+      },
+      {
+        "en": "Don't treat life like a lottery.",
+        "ru": "Не относись к жизни как к лотерее."
+      }
+    ],
+    "colloc": "lottery of · national lottery"
+  },
+  "b1-0750": {
+    "examples": [
+      {
+        "en": "Wait in the airport lounge.",
+        "ru": "Жди в зале ожидания аэропорта."
+      },
+      {
+        "en": "Lounge chairs face the pool.",
+        "ru": "Шезлонги смотрят на бассейн."
+      }
+    ],
+    "colloc": "lounge of · VIP lounge"
+  },
+  "b1-0751": {
+    "examples": [
+      {
+        "en": "Reward customer loyalty.",
+        "ru": "Награждай лояльность клиентов."
+      },
+      {
+        "en": "Loyalty to friends matters.",
+        "ru": "Верность друзьям важна."
+      }
+    ],
+    "colloc": "loyalty of · brand loyalty"
+  },
+  "b1-0752": {
+    "examples": [
+      {
+        "en": "Wish good luck.",
+        "ru": "Пожелай удачи."
+      },
+      {
+        "en": "Wish me luck tomorrow.",
+        "ru": "Пожелай мне удачи завтра."
+      },
+      {
+        "en": "Luck favors the prepared.",
+        "ru": "Удача любит подготовленных."
+      }
+    ],
+    "colloc": "luck of · good luck"
+  },
+  "b1-0753": {
+    "examples": [
+      {
+        "en": "Protect healthy lungs.",
+        "ru": "Защищай здоровые лёгкие."
+      },
+      {
+        "en": "Protect your lungs from smoke.",
+        "ru": "Защищай лёгкие от дыма."
+      },
+      {
+        "en": "Lung capacity improves with exercise.",
+        "ru": "Объём лёгких растёт с упражнениями."
+      }
+    ],
+    "colloc": "lung of · lung cancer"
+  },
+  "b1-0754": {
+    "examples": [
+      {
+        "en": "Avoid empty luxury.",
+        "ru": "Избегай пустой роскоши."
+      },
+      {
+        "en": "Travel without luxury sometimes.",
+        "ru": "Иногда путешествуй без роскоши."
+      },
+      {
+        "en": "Luxury goods cost more.",
+        "ru": "Люксовые товары стоят дороже."
+      }
+    ],
+    "colloc": "luxury of · rare luxury"
+  },
+  "b1-0755": {
+    "examples": [
+      {
+        "en": "Maintain heavy machinery.",
+        "ru": "Обслуживай тяжёлые механизмы."
+      },
+      {
+        "en": "Political machinery moves slowly.",
+        "ru": "Политическая машина движется медленно."
+      }
+    ],
+    "colloc": "machinery of · farm machinery"
+  },
+  "b1-0756": {
+    "examples": [
+      {
+        "en": "Read a science magazine.",
+        "ru": "Читай научный журнал."
+      },
+      {
+        "en": "Read the science magazine.",
+        "ru": "Читай научный журнал."
+      },
+      {
+        "en": "Magazine ads target teens.",
+        "ru": "Реклама в журналах целится в подростков."
+      }
+    ],
+    "colloc": "magazine of · fashion magazine"
+  },
+  "b1-0757": {
+    "examples": [
+      {
+        "en": "Believe in quiet magic.",
+        "ru": "Верь в тихую магию."
+      },
+      {
+        "en": "Believe in small magic.",
+        "ru": "Верь в маленькую магию."
+      },
+      {
+        "en": "Stage magic needs practice.",
+        "ru": "Сценическая магия требует практики."
+      }
+    ],
+    "colloc": "magic of · pure magic"
+  },
+  "b1-0758": {
+    "examples": [
+      {
+        "en": "Hold a strong magnet.",
+        "ru": "Держи сильный магнит."
+      },
+      {
+        "en": "Stick notes with a magnet.",
+        "ru": "Прикрепи записки магнитом."
+      },
+      {
+        "en": "The city is a talent magnet.",
+        "ru": "Город — магнит для талантов."
+      }
+    ],
+    "colloc": "magnet of · fridge magnet"
+  },
+  "b1-0759": {
+    "examples": [
+      {
+        "en": "Measure earthquake magnitude.",
+        "ru": "Измерь магнитуду землетрясения."
+      },
+      {
+        "en": "Understand the magnitude of risk.",
+        "ru": "Пойми масштаб риска."
+      },
+      {
+        "en": "An earthquake of that magnitude is rare.",
+        "ru": "Землетрясение такой магнитуды редко."
+      }
+    ],
+    "colloc": "magnitude of · order of magnitude"
+  },
+  "b1-0760": {
+    "examples": [
+      {
+        "en": "Schedule car maintenance.",
+        "ru": "Запланируй обслуживание машины."
+      },
+      {
+        "en": "Schedule regular maintenance.",
+        "ru": "Запланируй регулярное обслуживание."
+      },
+      {
+        "en": "Road maintenance closes lanes.",
+        "ru": "Ремонт дорог закрывает полосы."
+      }
+    ],
+    "colloc": "maintenance of · preventive maintenance"
+  },
+  "b1-0761": {
+    "examples": [
+      {
+        "en": "Win a clear majority.",
+        "ru": "Выиграй ясное большинство."
+      },
+      {
+        "en": "The majority voted yes.",
+        "ru": "Большинство проголосовало за."
+      },
+      {
+        "en": "Respect minority and majority.",
+        "ru": "Уважай меньшинство и большинство."
+      }
+    ],
+    "colloc": "majority of · vast majority"
+  },
+  "b1-0762": {
+    "examples": [
+      {
+        "en": "Ask the decision maker.",
+        "ru": "Спроси того, кто принимает решения."
+      },
+      {
+        "en": "She's a decision maker.",
+        "ru": "Она лицо, принимающее решения."
+      },
+      {
+        "en": "Coffee makers need cleaning.",
+        "ru": "Кофеварки нужно чистить."
+      }
+    ],
+    "colloc": "maker of · policy maker"
+  },
+  "b1-0763": {
+    "examples": [
+      {
+        "en": "Improve project management.",
+        "ru": "Улучши управление проектом."
+      },
+      {
+        "en": "Improve time management.",
+        "ru": "Улучши управление временем."
+      },
+      {
+        "en": "Senior management approved the plan.",
+        "ru": "Высшее руководство одобрило план."
+      }
+    ],
+    "colloc": "management of · project management"
+  },
+  "b1-0764": {
+    "examples": [
+      {
+        "en": "Follow a clear mandate.",
+        "ru": "Следуй ясному мандату."
+      },
+      {
+        "en": "Voters gave a clear mandate.",
+        "ru": "Избиратели дали ясный мандат."
+      },
+      {
+        "en": "The mandate expired last month.",
+        "ru": "Мандат истёк в прошлом месяце."
+      }
+    ],
+    "colloc": "mandate of · legal mandate"
+  },
+  "b1-0765": {
+    "examples": [
+      {
+        "en": "Study local manufacture.",
+        "ru": "Изучай местное производство."
+      },
+      {
+        "en": "Factories manufacture parts.",
+        "ru": "Заводы производят детали."
+      },
+      {
+        "en": "Local manufacture cuts shipping.",
+        "ru": "Местное производство сокращает доставку."
+      }
+    ],
+    "colloc": "manufacture of · car manufacture"
+  },
+  "b1-0766": {
+    "examples": [
+      {
+        "en": "Contact the manufacturer.",
+        "ru": "Свяжись с производителем."
+      },
+      {
+        "en": "Leading manufacturers invest in R&D.",
+        "ru": "Ведущие производители инвестируют в НИОКР."
+      }
+    ],
+    "colloc": "manufacturer of · car manufacturer"
+  },
+  "b1-0767": {
+    "examples": [
+      {
+        "en": "Write in the page margin.",
+        "ru": "Пиши на поле страницы."
+      },
+      {
+        "en": "Increase profit margins.",
+        "ru": "Увеличь маржу прибыли."
+      },
+      {
+        "en": "Write notes in the margin.",
+        "ru": "Пиши заметки на полях."
+      }
+    ],
+    "colloc": "margin of · safety margin"
+  },
+  "b1-0768": {
+    "examples": [
+      {
+        "en": "He is a marine.",
+        "ru": "Он морской пехотинец."
+      },
+      {
+        "en": "Study marine biology.",
+        "ru": "Изучай морскую биологию."
+      },
+      {
+        "en": "Marine life needs clean seas.",
+        "ru": "Морской жизни нужно чистое море."
+      }
+    ],
+    "colloc": "marine of · marine reserve"
+  },
+  "b1-0769": {
+    "examples": [
+      {
+        "en": "Use a red marker.",
+        "ru": "Используй красный маркер."
+      },
+      {
+        "en": "Use a permanent marker.",
+        "ru": "Используй перманентный маркер."
+      },
+      {
+        "en": "Mileage markers line the highway.",
+        "ru": "Километровые столбы вдоль шоссе."
+      }
+    ],
+    "colloc": "marker of · milestone marker"
+  },
+  "b1-0770": {
+    "examples": [
+      {
+        "en": "Study digital marketing.",
+        "ru": "Изучай цифровой маркетинг."
+      },
+      {
+        "en": "Marketing campaigns need data.",
+        "ru": "Маркетинговые кампании нуждаются в данных."
+      }
+    ],
+    "colloc": "marketing of · content marketing"
+  },
+  "b1-0771": {
+    "examples": [
+      {
+        "en": "Celebrate a happy marriage.",
+        "ru": "Отпразднуй счастливый брак."
+      },
+      {
+        "en": "Celebrate a long marriage.",
+        "ru": "Отметь долгий брак."
+      },
+      {
+        "en": "Marriage laws differ by country.",
+        "ru": "Законы о браке различаются по странам."
+      }
+    ],
+    "colloc": "marriage of · happy marriage"
+  },
+  "b1-0772": {
+    "examples": [
+      {
+        "en": "Wear a clean mask.",
+        "ru": "Носи чистую маску."
+      },
+      {
+        "en": "Wear a protective mask.",
+        "ru": "Носи защитную маску."
+      },
+      {
+        "en": "Don't hide behind a mask.",
+        "ru": "Не прячься за маской."
+      }
+    ],
+    "colloc": "mask of · face mask"
+  },
+  "b1-0773": {
+    "examples": [
+      {
+        "en": "Measure body mass.",
+        "ru": "Измерь массу тела."
+      },
+      {
+        "en": "A mass of people gathered.",
+        "ru": "Масса людей собралась."
+      },
+      {
+        "en": "Mass production lowered prices.",
+        "ru": "Массовое производство снизило цены."
+      }
+    ],
+    "colloc": "mass of · critical mass"
+  },
+  "b1-0774": {
+    "examples": [
+      {
+        "en": "Learn from a master.",
+        "ru": "Учись у мастера."
+      },
+      {
+        "en": "Become a master of craft.",
+        "ru": "Стань мастером ремесла."
+      },
+      {
+        "en": "Master the basics first.",
+        "ru": "Сначала освой основы."
+      }
+    ],
+    "colloc": "master of · chess master"
+  },
+  "b1-0775": {
+    "examples": [
+      {
+        "en": "Find a study mate.",
+        "ru": "Найди партнёра по учёбе."
+      },
+      {
+        "en": "Find a compatible mate.",
+        "ru": "Найди совместимого партнёра."
+      },
+      {
+        "en": "He's my old classmate.",
+        "ru": "Он мой старый одноклассник."
+      }
+    ],
+    "colloc": "mate of · soul mate"
+  },
+  "b1-0776": {
+    "examples": [
+      {
+        "en": "Choose strong material.",
+        "ru": "Выбери прочный материал."
+      },
+      {
+        "en": "Choose durable material.",
+        "ru": "Выбери прочный материал."
+      },
+      {
+        "en": "Study the course material.",
+        "ru": "Изучи учебный материал."
+      }
+    ],
+    "colloc": "material of · raw material"
+  },
+  "b1-0777": {
+    "examples": [
+      {
+        "en": "Practice daily math.",
+        "ru": "Практикуй математику ежедневно."
+      },
+      {
+        "en": "Practice math daily.",
+        "ru": "Практикуй математику ежедневно."
+      },
+      {
+        "en": "Math anxiety is common.",
+        "ru": "Тревога перед математикой распространена."
+      }
+    ],
+    "colloc": "math of · mental math"
+  },
+  "b1-0778": {
+    "examples": [
+      {
+        "en": "Study advanced mathematics.",
+        "ru": "Изучай продвинутую математику."
+      },
+      {
+        "en": "Apply mathematics to problems.",
+        "ru": "Примени математику к задачам."
+      },
+      {
+        "en": "Pure mathematics fascinates her.",
+        "ru": "Чистая математика её очаровывает."
+      }
+    ],
+    "colloc": "mathematics of · advanced mathematics"
+  },
+  "b1-0779": {
+    "examples": [
+      {
+        "en": "Discuss an urgent matter.",
+        "ru": "Обсуди срочный вопрос."
+      },
+      {
+        "en": "What does it matter now?",
+        "ru": "Какое это имеет значение сейчас?"
+      },
+      {
+        "en": "Dark matter remains mysterious.",
+        "ru": "Тёмная материя остаётся загадочной."
+      }
+    ],
+    "colloc": "matter of · subject matter"
+  },
+  "b1-0780": {
+    "examples": [
+      {
+        "en": "Reach the daily maximum.",
+        "ru": "Достигни дневного максимума."
+      },
+      {
+        "en": "Reach the maximum speed.",
+        "ru": "Достигни максимальной скорости."
+      },
+      {
+        "en": "Stay below the maximum dose.",
+        "ru": "Оставайся ниже максимальной дозы."
+      }
+    ],
+    "colloc": "maximum of · absolute maximum"
+  },
+  "b1-0781": {
+    "examples": [
+      {
+        "en": "Elect a fair mayor.",
+        "ru": "Избери справедливого мэра."
+      },
+      {
+        "en": "The mayor opened the park.",
+        "ru": "Мэр открыл парк."
+      },
+      {
+        "en": "Elect a new mayor next year.",
+        "ru": "Выбери нового мэра в следующем году."
+      }
+    ],
+    "colloc": "mayor of · city mayor"
+  },
+  "b1-0782": {
+    "examples": [
+      {
+        "en": "Explain the word meaning.",
+        "ru": "Объясни значение слова."
+      },
+      {
+        "en": "Find meaning in the work.",
+        "ru": "Найди смысл в работе."
+      },
+      {
+        "en": "What's the meaning of this word?",
+        "ru": "Каково значение этого слова?"
+      }
+    ],
+    "colloc": "meaning of · deeper meaning"
+  },
+  "b1-0783": {
+    "examples": [
+      {
+        "en": "Find fair means.",
+        "ru": "Найди справедливые средства."
+      },
+      {
+        "en": "Find a means to help.",
+        "ru": "Найди способ помочь."
+      },
+      {
+        "en": "By no means give up.",
+        "ru": "Ни в коем случае не сдавайся."
+      }
+    ],
+    "colloc": "means of · by means of"
+  },
+  "b1-0784": {
+    "examples": [
+      {
+        "en": "Check exact measurement.",
+        "ru": "Проверь точное измерение."
+      },
+      {
+        "en": "Take accurate measurements.",
+        "ru": "Делай точные измерения."
+      },
+      {
+        "en": "Measurement error skewed results.",
+        "ru": "Ошибка измерения исказила результаты."
+      }
+    ],
+    "colloc": "measurement of · precise measurement"
+  },
+  "b1-0785": {
+    "examples": [
+      {
+        "en": "Hire a car mechanic.",
+        "ru": "Найми автомеханика."
+      },
+      {
+        "en": "Call a car mechanic.",
+        "ru": "Позови автомеханика."
+      },
+      {
+        "en": "Quantum mechanics is hard.",
+        "ru": "Квантовая механика сложна."
+      }
+    ],
+    "colloc": "mechanic of · auto mechanic"
+  },
+  "b1-0786": {
+    "examples": [
+      {
+        "en": "Explain the locking mechanism.",
+        "ru": "Объясни механизм замка."
+      },
+      {
+        "en": "Understand the locking mechanism.",
+        "ru": "Пойми механизм замка."
+      },
+      {
+        "en": "Coping mechanisms reduce stress.",
+        "ru": "Механизмы совладания снижают стресс."
+      }
+    ],
+    "colloc": "mechanism of · defense mechanism"
+  },
+  "b1-0787": {
+    "examples": [
+      {
+        "en": "Trust careful media.",
+        "ru": "Доверяй осторожным СМИ."
+      },
+      {
+        "en": "Follow reliable media.",
+        "ru": "Следи за надёжными СМИ."
+      },
+      {
+        "en": "Social media shapes opinion.",
+        "ru": "Соцсети формируют мнение."
+      }
+    ],
+    "colloc": "media of · mass media"
+  },
+  "b1-0788": {
+    "examples": [
+      {
+        "en": "Take prescribed medication.",
+        "ru": "Прими прописанное лекарство."
+      },
+      {
+        "en": "Take medication with food.",
+        "ru": "Принимай лекарство с едой."
+      },
+      {
+        "en": "Review medication side effects.",
+        "ru": "Просмотри побочные эффекты лекарств."
+      }
+    ],
+    "colloc": "medication of · prescribed medication"
+  },
+  "b1-0789": {
+    "examples": [
+      {
+        "en": "Choose a fair medium.",
+        "ru": "Выбери справедливое средство."
+      },
+      {
+        "en": "Cook over medium heat.",
+        "ru": "Готовь на среднем огне."
+      },
+      {
+        "en": "Television is a powerful medium.",
+        "ru": "Телевидение — мощное средство."
+      }
+    ],
+    "colloc": "medium of · social medium"
+  },
+  "b1-0790": {
+    "examples": [
+      {
+        "en": "Renew gym membership.",
+        "ru": "Продли членство в зале."
+      },
+      {
+        "en": "Membership has its privileges.",
+        "ru": "Членство имеет привилегии."
+      }
+    ],
+    "colloc": "membership of · club membership"
+  },
+  "b1-0791": {
+    "examples": [
+      {
+        "en": "Visit a war memorial.",
+        "ru": "Посети военный мемориал."
+      },
+      {
+        "en": "Visit the war memorial.",
+        "ru": "Посети военный мемориал."
+      },
+      {
+        "en": "A memorial service is Sunday.",
+        "ru": "Поминальная служба в воскресенье."
+      }
+    ],
+    "colloc": "memorial of · national memorial"
+  },
+  "b1-0792": {
+    "examples": [
+      {
+        "en": "Share a happy memory.",
+        "ru": "Поделись счастливым воспоминанием."
+      },
+      {
+        "en": "Train your working memory.",
+        "ru": "Тренируй рабочую память."
+      },
+      {
+        "en": "Cherish childhood memories.",
+        "ru": "Береги детские воспоминания."
+      }
+    ],
+    "colloc": "memory of · long-term memory"
+  },
+  "b1-0793": {
+    "examples": [
+      {
+        "en": "Find a career mentor.",
+        "ru": "Найди карьерного наставника."
+      },
+      {
+        "en": "Find a trusted mentor.",
+        "ru": "Найди надёжного ментора."
+      },
+      {
+        "en": "Mentors accelerate careers.",
+        "ru": "Наставники ускоряют карьеру."
+      }
+    ],
+    "colloc": "mentor of · career mentor"
+  },
+  "b1-0794": {
+    "examples": [
+      {
+        "en": "Ask a local merchant.",
+        "ru": "Спроси местного торговца."
+      },
+      {
+        "en": "Local merchants closed early.",
+        "ru": "Местные торговцы закрылись рано."
+      },
+      {
+        "en": "Online merchants ship worldwide.",
+        "ru": "Онлайн-торговцы шлют по миру."
+      }
+    ],
+    "colloc": "merchant of · spice merchant"
+  },
+  "b1-0795": {
+    "examples": [
+      {
+        "en": "Show quiet mercy.",
+        "ru": "Прояви тихое милосердие."
+      },
+      {
+        "en": "Show mercy to others.",
+        "ru": "Прояви милосердие к другим."
+      },
+      {
+        "en": "At the mercy of weather.",
+        "ru": "На милости погоды."
+      }
+    ],
+    "colloc": "mercy of · without mercy"
+  },
+  "b1-0796": {
+    "examples": [
+      {
+        "en": "Reward true merit.",
+        "ru": "Награждай истинную заслугу."
+      },
+      {
+        "en": "Judge ideas on merit.",
+        "ru": "Суди идеи по достоинствам."
+      },
+      {
+        "en": "Academic merit earned a scholarship.",
+        "ru": "Учебные заслуги принесли стипендию."
+      }
+    ],
+    "colloc": "merit of · on merit"
+  },
+  "b1-0797": {
+    "examples": [
+      {
+        "en": "Clean the kitchen mess.",
+        "ru": "Убери беспорядок на кухне."
+      },
+      {
+        "en": "Clean up this mess.",
+        "ru": "Убери этот беспорядок."
+      },
+      {
+        "en": "Don't make a mess of it.",
+        "ru": "Не испорти это."
+      }
+    ],
+    "colloc": "mess of · huge mess"
+  },
+  "b1-0798": {
+    "examples": [
+      {
+        "en": "Use strong metal.",
+        "ru": "Используй прочный металл."
+      },
+      {
+        "en": "Recycle scrap metal.",
+        "ru": "Перерабатывай металлолом."
+      },
+      {
+        "en": "Heavy metal played loudly.",
+        "ru": "Хеви-метал играл громко."
+      }
+    ],
+    "colloc": "metal of · precious metal"
+  },
+  "b1-0799": {
+    "examples": [
+      {
+        "en": "Test the stage microphone.",
+        "ru": "Проверь сценический микрофон."
+      },
+      {
+        "en": "Test the microphone first.",
+        "ru": "Сначала проверь микрофон."
+      },
+      {
+        "en": "Speak clearly into the microphone.",
+        "ru": "Говори чётко в микрофон."
+      }
+    ],
+    "colloc": "microphone of · wireless microphone"
+  },
+  "b1-0800": {
+    "examples": [
+      {
+        "en": "Stand in the middle.",
+        "ru": "Стой посередине."
+      },
+      {
+        "en": "Middle class faces pressure.",
+        "ru": "Средний класс под давлением."
+      }
+    ],
+    "colloc": "middle of · in the middle"
+  },
+  "b1-0801": {
+    "examples": [
+      {
+        "en": "Wake at midnight carefully.",
+        "ru": "Осторожно встань в полночь."
+      },
+      {
+        "en": "Meet at midnight.",
+        "ru": "Встретимся в полночь."
+      },
+      {
+        "en": "Burn the midnight oil carefully.",
+        "ru": "Осторожно работай допоздна."
+      }
+    ],
+    "colloc": "midnight of · after midnight"
+  },
+  "b1-0802": {
+    "examples": [
+      {
+        "en": "Study bird migration.",
+        "ru": "Изучай миграцию птиц."
+      },
+      {
+        "en": "Bird migration starts in fall.",
+        "ru": "Миграция птиц начинается осенью."
+      },
+      {
+        "en": "Labor migration shapes cities.",
+        "ru": "Трудовая миграция формирует города."
+      }
+    ],
+    "colloc": "migration of · mass migration"
+  },
+  "b1-0803": {
+    "examples": [
+      {
+        "en": "Walk another mile.",
+        "ru": "Пройди ещё милю."
+      },
+      {
+        "en": "Walk an extra mile.",
+        "ru": "Пройди лишнюю милю."
+      },
+      {
+        "en": "A mile from home felt far.",
+        "ru": "Миля от дома казалась далекой."
+      }
+    ],
+    "colloc": "mile of · square mile"
+  },
+  "b1-0804": {
+    "examples": [
+      {
+        "en": "Join the military carefully.",
+        "ru": "Осторожно вступи в армию."
+      },
+      {
+        "en": "Military training is intense.",
+        "ru": "Военная подготовка интенсивна."
+      },
+      {
+        "en": "Cut military spending carefully.",
+        "ru": "Осторожно сократи военные расходы."
+      }
+    ],
+    "colloc": "military of · military service"
+  },
+  "b1-0805": {
+    "examples": [
+      {
+        "en": "Visit an old mill.",
+        "ru": "Посети старую мельницу."
+      },
+      {
+        "en": "Visit an old flour mill.",
+        "ru": "Посети старую мельницу."
+      },
+      {
+        "en": "Ideas mill around all day.",
+        "ru": "Идеи крутятся весь день."
+      }
+    ],
+    "colloc": "mill of · paper mill"
+  },
+  "b1-0806": {
+    "examples": [
+      {
+        "en": "Study a rare mineral.",
+        "ru": "Изучи редкий минерал."
+      },
+      {
+        "en": "Drink mineral water.",
+        "ru": "Пей минеральную воду."
+      },
+      {
+        "en": "Mineral deposits lie underground.",
+        "ru": "Минеральные залежи лежат под землёй."
+      }
+    ],
+    "colloc": "mineral of · essential mineral"
+  },
+  "b1-0807": {
+    "examples": [
+      {
+        "en": "Meet the legal minimum.",
+        "ru": "Соблюди законный минимум."
+      },
+      {
+        "en": "Pay the minimum wage.",
+        "ru": "Плати минимальную зарплату."
+      },
+      {
+        "en": "Keep risk to a minimum.",
+        "ru": "Держи риск на минимуме."
+      }
+    ],
+    "colloc": "minimum of · absolute minimum"
+  },
+  "b1-0808": {
+    "examples": [
+      {
+        "en": "Ask the education minister.",
+        "ru": "Спроси министра образования."
+      },
+      {
+        "en": "The minister resigned.",
+        "ru": "Министр ушёл в отставку."
+      },
+      {
+        "en": "Prime minister spoke on TV.",
+        "ru": "Премьер-министр выступил по ТВ."
+      }
+    ],
+    "colloc": "minister of · foreign minister"
+  },
+  "b1-0809": {
+    "examples": [
+      {
+        "en": "Call the health ministry.",
+        "ru": "Позвони в министерство здравоохранения."
+      },
+      {
+        "en": "Contact the health ministry.",
+        "ru": "Свяжись с минздравом."
+      },
+      {
+        "en": "Ministry of education issued rules.",
+        "ru": "Минобр выпустил правила."
+      }
+    ],
+    "colloc": "ministry of · government ministry"
+  },
+  "b1-0810": {
+    "examples": [
+      {
+        "en": "Protect minority rights.",
+        "ru": "Защищай права меньшинств."
+      },
+      {
+        "en": "A minority opposed the plan.",
+        "ru": "Меньшинство выступило против плана."
+      }
+    ],
+    "colloc": "minority of · ethnic minority"
+  },
+  "b1-0811": {
+    "examples": [
+      {
+        "en": "End unnecessary misery.",
+        "ru": "Прекрати ненужное страдание."
+      },
+      {
+        "en": "Misery loves company.",
+        "ru": "Страдание любит компанию."
+      }
+    ],
+    "colloc": "misery of · human misery"
+  },
+  "b1-0812": {
+    "examples": [
+      {
+        "en": "Admit a small mistake.",
+        "ru": "Признай небольшую ошибку."
+      },
+      {
+        "en": "Learn from every mistake.",
+        "ru": "Учись на каждой ошибке."
+      },
+      {
+        "en": "Admit the mistake quickly.",
+        "ru": "Быстро признай ошибку."
+      }
+    ],
+    "colloc": "mistake of · costly mistake"
+  },
+  "b1-0813": {
+    "examples": [
+      {
+        "en": "Switch to dark mode.",
+        "ru": "Переключись в тёмный режим."
+      },
+      {
+        "en": "Mode of transport matters.",
+        "ru": "Способ транспорта важен."
+      }
+    ],
+    "colloc": "mode of · safe mode"
+  },
+  "b1-0814": {
+    "examples": [
+      {
+        "en": "Need a small modification.",
+        "ru": "Нужно небольшое изменение."
+      },
+      {
+        "en": "Approve the design modification.",
+        "ru": "Одобри изменение дизайна."
+      },
+      {
+        "en": "Genetic modification raises debate.",
+        "ru": "Генетическая модификация вызывает споры."
+      }
+    ],
+    "colloc": "modification of · slight modification"
+  },
+  "b1-0815": {
+    "examples": [
+      {
+        "en": "Study a water molecule.",
+        "ru": "Изучи молекулу воды."
+      },
+      {
+        "en": "Study water molecules.",
+        "ru": "Изучай молекулы воды."
+      },
+      {
+        "en": "A single molecule can matter.",
+        "ru": "Одна молекула может иметь значение."
+      }
+    ],
+    "colloc": "molecule of · DNA molecule"
+  },
+  "b1-0816": {
+    "examples": [
+      {
+        "en": "Enjoy a quiet moment.",
+        "ru": "Насладись тихим моментом."
+      },
+      {
+        "en": "Enjoy the present moment.",
+        "ru": "Наслаждайся текущим моментом."
+      },
+      {
+        "en": "Wait a moment, please.",
+        "ru": "Подожди минутку, пожалуйста."
+      }
+    ],
+    "colloc": "moment of · defining moment"
+  },
+  "b1-0817": {
+    "examples": [
+      {
+        "en": "Buy a larger monitor.",
+        "ru": "Купи больший монитор."
+      },
+      {
+        "en": "Check the heart monitor.",
+        "ru": "Проверь кардиомонитор."
+      },
+      {
+        "en": "Parents monitor screen time.",
+        "ru": "Родители контролируют экранное время."
+      }
+    ],
+    "colloc": "monitor of · computer monitor"
+  },
+  "b1-0818": {
+    "examples": [
+      {
+        "en": "Fear no movie monster.",
+        "ru": "Не бойся киномонстра."
+      },
+      {
+        "en": "Kids fear imaginary monsters.",
+        "ru": "Дети боятся воображаемых монстров."
+      },
+      {
+        "en": "Don't make a mountain into a monster.",
+        "ru": "Не раздувай проблему в монстра."
+      }
+    ],
+    "colloc": "monster of · sea monster"
+  },
+  "b1-0819": {
+    "examples": [
+      {
+        "en": "Visit a city monument.",
+        "ru": "Посети городской памятник."
+      },
+      {
+        "en": "Visit the historic monument.",
+        "ru": "Посети исторический памятник."
+      },
+      {
+        "en": "A monument to peace stands downtown.",
+        "ru": "Памятник миру стоит в центре."
+      }
+    ],
+    "colloc": "monument of · national monument"
+  },
+  "b1-0820": {
+    "examples": [
+      {
+        "en": "Improve your mood.",
+        "ru": "Улучши настроение."
+      },
+      {
+        "en": "Lift the team's mood.",
+        "ru": "Подними настроение команды."
+      },
+      {
+        "en": "Mood swings need attention.",
+        "ru": "Перепады настроения требуют внимания."
+      }
+    ],
+    "colloc": "mood of · good mood"
+  },
+  "b1-0821": {
+    "examples": [
+      {
+        "en": "Raise team morale.",
+        "ru": "Подними моральный дух команды."
+      },
+      {
+        "en": "Boost staff morale.",
+        "ru": "Подними моральный дух сотрудников."
+      },
+      {
+        "en": "Low morale hurts output.",
+        "ru": "Низкий моральный дух вредит результату."
+      }
+    ],
+    "colloc": "morale of · team morale"
+  },
+  "b1-0822": {
+    "examples": [
+      {
+        "en": "Pay a home mortgage.",
+        "ru": "Плати ипотеку за дом."
+      },
+      {
+        "en": "Pay the mortgage monthly.",
+        "ru": "Плати ипотеку ежемесячно."
+      },
+      {
+        "en": "Mortgage rates rose again.",
+        "ru": "Ставки по ипотеке снова выросли."
+      }
+    ],
+    "colloc": "mortgage of · home mortgage"
+  },
+  "b1-0823": {
+    "examples": [
+      {
+        "en": "Feel constant motion.",
+        "ru": "Почувствуй постоянное движение."
+      },
+      {
+        "en": "Put the plan in motion.",
+        "ru": "Приведи план в движение."
+      },
+      {
+        "en": "Slow motion reveals details.",
+        "ru": "Замедленная съёмка раскрывает детали."
+      }
+    ],
+    "colloc": "motion of · in motion"
+  },
+  "b1-0824": {
+    "examples": [
+      {
+        "en": "Explain the hidden motive.",
+        "ru": "Объясни скрытый мотив."
+      },
+      {
+        "en": "Question the hidden motive.",
+        "ru": "Подвергни сомнению скрытый мотив."
+      },
+      {
+        "en": "Motive remains unclear.",
+        "ru": "Мотив остаётся неясным."
+      }
+    ],
+    "colloc": "motive of · clear motive"
+  },
+  "b1-0825": {
+    "examples": [
+      {
+        "en": "Fix the boat motor.",
+        "ru": "Почини мотор лодки."
+      },
+      {
+        "en": "Start the boat motor.",
+        "ru": "Заведи мотор лодки."
+      },
+      {
+        "en": "Motor skills develop early.",
+        "ru": "Моторные навыки развиваются рано."
+      }
+    ],
+    "colloc": "motor of · electric motor"
+  },
+  "b1-0826": {
+    "examples": [
+      {
+        "en": "Climb Mount Hope carefully.",
+        "ru": "Осторожно поднимись на Mount Hope."
+      },
+      {
+        "en": "Mount the TV on the wall.",
+        "ru": "Повесь ТВ на стену."
+      },
+      {
+        "en": "Climb the steep mount.",
+        "ru": "Поднимись на крутую гору."
+      }
+    ],
+    "colloc": "mount of · mountain mount"
+  },
+  "b1-0827": {
+    "examples": [
+      {
+        "en": "Join a social movement.",
+        "ru": "Вступи в социальное движение."
+      },
+      {
+        "en": "Watch every eye movement.",
+        "ru": "Следи за каждым движением глаз."
+      }
+    ],
+    "colloc": "movement of · political movement"
+  },
+  "b1-0828": {
+    "examples": [
+      {
+        "en": "Wipe mud from boots.",
+        "ru": "Вытри грязь с ботинок."
+      },
+      {
+        "en": "Don't drag my name through the mud.",
+        "ru": "Не таскай моё имя по грязи."
+      }
+    ],
+    "colloc": "mud of · thick mud"
+  },
+  "b1-0829": {
+    "examples": [
+      {
+        "en": "Investigate a murder carefully.",
+        "ru": "Осторожно расследуй убийство."
+      },
+      {
+        "en": "Investigate the murder carefully.",
+        "ru": "Осторожно расследуй убийство."
+      },
+      {
+        "en": "Murder rates fell last year.",
+        "ru": "Уровень убийств упал в прошлом году."
+      }
+    ],
+    "colloc": "murder of · mass murder"
+  },
+  "b1-0830": {
+    "examples": [
+      {
+        "en": "Hire a local musician.",
+        "ru": "Найми местного музыканта."
+      },
+      {
+        "en": "Street musicians fill the square.",
+        "ru": "Уличные музыканты заполняют площадь."
+      }
+    ],
+    "colloc": "musician of · jazz musician"
+  },
+  "b1-0831": {
+    "examples": [
+      {
+        "en": "Solve a quiet mystery.",
+        "ru": "Разгадай тихую тайну."
+      },
+      {
+        "en": "Solve the mystery tonight.",
+        "ru": "Разгадай тайну сегодня."
+      },
+      {
+        "en": "Life remains a mystery.",
+        "ru": "Жизнь остаётся тайной."
+      }
+    ],
+    "colloc": "mystery of · unsolved mystery"
+  },
+  "b1-0832": {
+    "examples": [
+      {
+        "en": "Study an old myth.",
+        "ru": "Изучи старый миф."
+      },
+      {
+        "en": "Bust the productivity myth.",
+        "ru": "Развей миф о продуктивности."
+      },
+      {
+        "en": "Greek myths still inspire.",
+        "ru": "Греческие мифы всё ещё вдохновляют."
+      }
+    ],
+    "colloc": "myth of · urban myth"
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "b1-0182": {
+    "examples": [
+      {
+        "en": "Carve a wooden figure.",
+        "ru": "Вырежь деревянную фигуру."
+      },
+      {
+        "en": "He carved a wooden spoon for the kitchen.",
+        "ru": "Он вырезал деревянную ложку для кухни."
+      },
+      {
+        "en": "Artists carved names into the old desk.",
+        "ru": "Художники вырезали имена на старом столе."
+      }
+    ],
+    "colloc": "carve out · carved from",
+    "pattern": "carve + N"
+  },
+  "b1-0275": {
+    "examples": [
+      {
+        "en": "Babies crawl before walking.",
+        "ru": "Младенцы ползают до ходьбы."
+      },
+      {
+        "en": "The baby crawled across the floor.",
+        "ru": "Малыш дополз по полу."
+      },
+      {
+        "en": "Traffic crawled through the tunnel.",
+        "ru": "Машины ползли через туннель."
+      }
+    ],
+    "colloc": "crawl under · crawl to",
+    "pattern": "crawl + adv"
+  },
+  "b1-0284": {
+    "examples": [
+      {
+        "en": "Dare to speak honestly.",
+        "ru": "Осмелься говорить честно."
+      },
+      {
+        "en": "I wouldn't dare argue with her.",
+        "ru": "Я бы не посмел с ней спорить."
+      },
+      {
+        "en": "How dare you open my mail?",
+        "ru": "Как ты посмел открыть мою почту?"
+      }
+    ],
+    "colloc": "dare to · how dare you",
+    "pattern": "dare to + V / dare + N"
+  },
+  "b1-0989": {
+    "examples": [
+      {
+        "en": "Do not abandon your plans.",
+        "ru": "Не бросай свои планы."
+      },
+      {
+        "en": "They had to abandon the flooded house.",
+        "ru": "Им пришлось бросить затопленный дом."
+      },
+      {
+        "en": "Don't abandon your goals so quickly.",
+        "ru": "Не бросай цели так быстро."
+      }
+    ],
+    "colloc": "abandon ship · abandon hope",
+    "pattern": "abandon + N"
+  },
+  "b1-0990": {
+    "examples": [
+      {
+        "en": "They abolished the old rule.",
+        "ru": "Они отменили старое правило."
+      },
+      {
+        "en": "The new law will abolish the old fee.",
+        "ru": "Новый закон отменит старый сбор."
+      },
+      {
+        "en": "Many countries abolished the death penalty.",
+        "ru": "Многие страны отменили смертную казнь."
+      }
+    ],
+    "colloc": "abolish slavery · abolish a law",
+    "pattern": "abolish + N"
+  },
+  "b1-0991": {
+    "examples": [
+      {
+        "en": "Plants absorb sunlight.",
+        "ru": "Растения поглощают солнечный свет."
+      },
+      {
+        "en": "Plants absorb sunlight to grow.",
+        "ru": "Растения поглощают солнечный свет, чтобы расти."
+      },
+      {
+        "en": "I couldn't absorb so much information at once.",
+        "ru": "Не смог усвоить столько информации сразу."
+      }
+    ],
+    "colloc": "absorb into · absorb shock",
+    "pattern": "absorb + N"
+  },
+  "b1-0992": {
+    "examples": [
+      {
+        "en": "Cars accelerate on highways.",
+        "ru": "Машины ускоряются на шоссе."
+      },
+      {
+        "en": "The car accelerated onto the highway.",
+        "ru": "Машина ускорилась на шоссе."
+      },
+      {
+        "en": "Growth will accelerate next year.",
+        "ru": "Рост ускорится в следующем году."
+      }
+    ],
+    "colloc": "accelerate growth · accelerate past",
+    "pattern": "accelerate + N"
+  },
+  "b1-0993": {
+    "examples": [
+      {
+        "en": "Hotels accommodate many guests.",
+        "ru": "Отели размещают многих гостей."
+      },
+      {
+        "en": "The hotel can accommodate 200 guests.",
+        "ru": "Отель может разместить 200 гостей."
+      },
+      {
+        "en": "We'll accommodate your schedule if we can.",
+        "ru": "Мы подстроимся под твоё расписание, если сможем."
+      }
+    ],
+    "colloc": "accommodate needs · accommodate for",
+    "pattern": "accommodate + N"
+  },
+  "b1-0994": {
+    "examples": [
+      {
+        "en": "I will accompany you home.",
+        "ru": "Я провожу тебя домой."
+      },
+      {
+        "en": "May I accompany you to the station?",
+        "ru": "Могу проводить тебя до станции?"
+      },
+      {
+        "en": "The report is accompanied by charts.",
+        "ru": "К отчёту прилагаются диаграммы."
+      }
+    ],
+    "colloc": "accompany sb · accompanied by",
+    "pattern": "accompany + N"
+  },
+  "b1-0995": {
+    "examples": [
+      {
+        "en": "We accomplished our goals.",
+        "ru": "Мы выполнили наши цели."
+      },
+      {
+        "en": "We accomplished more than we expected.",
+        "ru": "Мы сделали больше, чем ожидали."
+      },
+      {
+        "en": "She accomplished her degree in three years.",
+        "ru": "Она получила степень за три года."
+      }
+    ],
+    "colloc": "accomplish a goal · accomplish much",
+    "pattern": "accomplish + N"
+  },
+  "b1-0996": {
+    "examples": [
+      {
+        "en": "Dust accumulates quickly.",
+        "ru": "Пыль быстро накапливается."
+      },
+      {
+        "en": "Dust accumulates on unused shelves.",
+        "ru": "Пыль скапливается на неиспользуемых полках."
+      },
+      {
+        "en": "He accumulated enough points for a free flight.",
+        "ru": "Он накопил достаточно баллов на бесплатный рейс."
+      }
+    ],
+    "colloc": "accumulate wealth · accumulate debt",
+    "pattern": "accumulate + N"
+  },
+  "b1-0997": {
+    "examples": [
+      {
+        "en": "Do not accuse without proof.",
+        "ru": "Не обвиняй без доказательств."
+      },
+      {
+        "en": "They accused him of cheating on the test.",
+        "ru": "Его обвинили в списывании на тесте."
+      },
+      {
+        "en": "Don't accuse people without evidence.",
+        "ru": "Не обвиняй людей без доказательств."
+      }
+    ],
+    "colloc": "accuse sb of · falsely accuse",
+    "pattern": "accuse sb of + N/Ving"
+  },
+  "b1-0998": {
+    "examples": [
+      {
+        "en": "Animals adapt to climate.",
+        "ru": "Животные адаптируются к климату."
+      },
+      {
+        "en": "Animals adapt to colder winters.",
+        "ru": "Животные приспосабливаются к более холодным зимам."
+      },
+      {
+        "en": "She adapted quickly to remote work.",
+        "ru": "Она быстро адаптировалась к удалённой работе."
+      }
+    ],
+    "colloc": "adapt to · adapt from",
+    "pattern": "adapt to + N"
+  },
+  "b1-0999": {
+    "examples": [
+      {
+        "en": "Adjust the mirror carefully.",
+        "ru": "Осторожно настрой зеркало."
+      },
+      {
+        "en": "Adjust the mirror before you drive.",
+        "ru": "Отрегулируй зеркало перед поездкой."
+      },
+      {
+        "en": "It took weeks to adjust to the new city.",
+        "ru": "Нужны были недели, чтобы привыкнуть к новому городу."
+      }
+    ],
+    "colloc": "adjust to · adjust the settings",
+    "pattern": "adjust + N / adjust to"
+  },
+  "b1-1000": {
+    "examples": [
+      {
+        "en": "I admire her courage.",
+        "ru": "Я восхищаюсь её смелостью."
+      },
+      {
+        "en": "I admire her honesty under pressure.",
+        "ru": "Я восхищаюсь её честностью под давлением."
+      },
+      {
+        "en": "Tourists admire the old cathedral.",
+        "ru": "Туристы восхищаются старым собором."
+      }
+    ],
+    "colloc": "admire for · greatly admire",
+    "pattern": "admire + N"
+  },
+  "b1-1001": {
+    "examples": [
+      {
+        "en": "They adopted a new policy.",
+        "ru": "Они приняли новую политику."
+      },
+      {
+        "en": "They decided to adopt a rescue dog.",
+        "ru": "Они решили взять собаку из приюта."
+      },
+      {
+        "en": "The board adopted a new safety policy.",
+        "ru": "Совет принял новую политику безопасности."
+      }
+    ],
+    "colloc": "adopt a child · adopt a policy",
+    "pattern": "adopt + N"
+  },
+  "b1-1002": {
+    "examples": [
+      {
+        "en": "Companies advertise online.",
+        "ru": "Компании рекламируют онлайн."
+      },
+      {
+        "en": "They advertise the sale on social media.",
+        "ru": "Они рекламируют распродажу в соцсетях."
+      },
+      {
+        "en": "We need to advertise for a new assistant.",
+        "ru": "Нужно дать объявление о новом ассистенте."
+      }
+    ],
+    "colloc": "advertise for · heavily advertise",
+    "pattern": "advertise + N"
+  },
+  "b1-1003": {
+    "examples": [
+      {
+        "en": "Sleep affects your mood.",
+        "ru": "Сон влияет на настроение."
+      },
+      {
+        "en": "Lack of sleep affects concentration.",
+        "ru": "Недостаток сна влияет на концентрацию."
+      },
+      {
+        "en": "How will the delay affect our plans?",
+        "ru": "Как задержка повлияет на наши планы?"
+      }
+    ],
+    "colloc": "affect decision · deeply affect",
+    "note": "affect ≠ effect",
+    "pattern": "affect + N"
+  },
+  "b1-1004": {
+    "examples": [
+      {
+        "en": "Witnesses allege fraud.",
+        "ru": "Свидетели утверждают о мошенничестве."
+      },
+      {
+        "en": "Witnesses allege that he left early.",
+        "ru": "Свидетели утверждают, что он ушёл рано."
+      },
+      {
+        "en": "The report alleges serious violations.",
+        "ru": "В отчёте утверждаются серьёзные нарушения."
+      }
+    ],
+    "colloc": "allege that · allegedly",
+    "pattern": "allege + that"
+  },
+  "b1-1005": {
+    "examples": [
+      {
+        "en": "Alter the schedule slightly.",
+        "ru": "Слегка измени расписание."
+      },
+      {
+        "en": "Please don't alter the original file.",
+        "ru": "Пожалуйста, не меняй исходный файл."
+      },
+      {
+        "en": "Surgery can alter a person's appearance.",
+        "ru": "Операция может изменить внешность."
+      }
+    ],
+    "colloc": "alter plans · significantly alter",
+    "pattern": "alter + N"
+  },
+  "b1-1006": {
+    "examples": [
+      {
+        "en": "The view amazes visitors.",
+        "ru": "Вид изумляет посетителей."
+      },
+      {
+        "en": "Her progress continues to amaze me.",
+        "ru": "Её прогресс продолжает меня поражать."
+      },
+      {
+        "en": "It amazes me how calm he stays.",
+        "ru": "Меня поражает, как он сохраняет спокойствие."
+      }
+    ],
+    "colloc": "amaze at · absolutely amaze",
+    "pattern": "amaze + N"
+  },
+  "b1-1007": {
+    "examples": [
+      {
+        "en": "Analyse the data carefully.",
+        "ru": "Тщательно проанализируй данные."
+      },
+      {
+        "en": "Analysts analyse market trends weekly.",
+        "ru": "Аналитики еженедельно анализируют тренды рынка."
+      },
+      {
+        "en": "Please analyse the survey results.",
+        "ru": "Проанализируй результаты опроса."
+      }
+    ],
+    "colloc": "analyse data · analyse carefully",
+    "note": "BrE: analyse",
+    "pattern": "analyse + N"
+  },
+  "b1-1008": {
+    "examples": [
+      {
+        "en": "Scientists analyze samples.",
+        "ru": "Учёные анализируют образцы."
+      },
+      {
+        "en": "Scientists analyze water samples.",
+        "ru": "Учёные анализируют пробы воды."
+      },
+      {
+        "en": "We need to analyze the risk carefully.",
+        "ru": "Нужно тщательно проанализировать риск."
+      }
+    ],
+    "colloc": "analyze data · analyze carefully",
+    "note": "AmE: analyze",
+    "pattern": "analyze + N"
+  },
+  "b1-1009": {
+    "examples": [
+      {
+        "en": "Anticipate possible delays.",
+        "ru": "Предвидь возможные задержки."
+      },
+      {
+        "en": "We anticipate heavy traffic tonight.",
+        "ru": "Мы ожидаем сильные пробки сегодня вечером."
+      },
+      {
+        "en": "She anticipated every question.",
+        "ru": "Она предвидела каждый вопрос."
+      }
+    ],
+    "colloc": "anticipate problems · widely anticipate",
+    "pattern": "anticipate + N / that"
+  },
+  "b1-1010": {
+    "examples": [
+      {
+        "en": "I apologise for the delay.",
+        "ru": "Извиняюсь за задержку."
+      },
+      {
+        "en": "I must apologise for the delay.",
+        "ru": "Должен извиниться за задержку."
+      },
+      {
+        "en": "He apologised to the whole team.",
+        "ru": "Он извинился перед всей командой."
+      }
+    ],
+    "colloc": "apologise for · apologise to",
+    "note": "BrE: apologise",
+    "pattern": "apologise for + N/Ving"
+  },
+  "b1-1011": {
+    "examples": [
+      {
+        "en": "They appointed a new director.",
+        "ru": "Они назначили нового директора."
+      },
+      {
+        "en": "The board appointed a new director.",
+        "ru": "Совет назначил нового директора."
+      },
+      {
+        "en": "She was appointed chair of the committee.",
+        "ru": "Её назначили председателем комитета."
+      }
+    ],
+    "colloc": "appoint as · newly appointed",
+    "pattern": "appoint + N"
+  },
+  "b1-1012": {
+    "examples": [
+      {
+        "en": "Parents approve the trip.",
+        "ru": "Родители одобряют поездку."
+      },
+      {
+        "en": "The manager approved my request.",
+        "ru": "Менеджер одобрил мою просьбу."
+      },
+      {
+        "en": "Do you approve of this plan?",
+        "ru": "Ты одобряешь этот план?"
+      }
+    ],
+    "colloc": "approve of · get approved",
+    "pattern": "approve + N / approve of"
+  },
+  "b1-1013": {
+    "examples": [
+      {
+        "en": "Problems arise unexpectedly.",
+        "ru": "Проблемы возникают неожиданно."
+      },
+      {
+        "en": "Problems arise when rules are unclear.",
+        "ru": "Проблемы возникают, когда правила неясны."
+      },
+      {
+        "en": "A new opportunity has arisen.",
+        "ru": "Появилась новая возможность."
+      }
+    ],
+    "colloc": "arise from · questions arise",
+    "pattern": "arise from / arise"
+  },
+  "b1-1014": {
+    "examples": [
+      {
+        "en": "Stories arouse curiosity.",
+        "ru": "Истории вызывают любопытство."
+      },
+      {
+        "en": "The speech aroused strong emotions.",
+        "ru": "Речь вызвала сильные эмоции."
+      },
+      {
+        "en": "Loud music can arouse the neighbors.",
+        "ru": "Громкая музыка может разбудить/разозлить соседей."
+      }
+    ],
+    "colloc": "arouse suspicion · arouse interest",
+    "pattern": "arouse + N"
+  },
+  "b1-1015": {
+    "examples": [
+      {
+        "en": "Assemble the furniture carefully.",
+        "ru": "Осторожно собери мебель."
+      },
+      {
+        "en": "Workers assemble cars on the line.",
+        "ru": "Рабочие собирают машины на конвейере."
+      },
+      {
+        "en": "Please assemble in the lobby at nine.",
+        "ru": "Соберитесь в лобби в девять."
+      }
+    ],
+    "colloc": "assemble a team · assemble furniture",
+    "pattern": "assemble + N"
+  },
+  "b1-1016": {
+    "examples": [
+      {
+        "en": "She asserted her rights.",
+        "ru": "Она отстояла свои права."
+      },
+      {
+        "en": "She asserted her right to speak.",
+        "ru": "Она отстояла своё право говорить."
+      },
+      {
+        "en": "He asserted that the data were wrong.",
+        "ru": "Он утверждал, что данные неверны."
+      }
+    ],
+    "colloc": "assert oneself · assert that",
+    "pattern": "assert + N / that"
+  },
+  "b1-1017": {
+    "examples": [
+      {
+        "en": "Teachers assess student work.",
+        "ru": "Учителя оценивают работу учеников."
+      },
+      {
+        "en": "Teachers assess student progress.",
+        "ru": "Учителя оценивают прогресс учеников."
+      },
+      {
+        "en": "We need to assess the damage first.",
+        "ru": "Сначала нужно оценить ущерб."
+      }
+    ],
+    "colloc": "assess risk · assess carefully",
+    "pattern": "assess + N"
+  },
+  "b1-1018": {
+    "examples": [
+      {
+        "en": "Assign tasks to the team.",
+        "ru": "Поручи задачи команде."
+      },
+      {
+        "en": "The teacher assigned extra homework.",
+        "ru": "Учитель задал дополнительную домашку."
+      },
+      {
+        "en": "I was assigned to the night shift.",
+        "ru": "Меня назначили на ночную смену."
+      }
+    ],
+    "colloc": "assign to · assign a task",
+    "pattern": "assign + N to"
+  },
+  "b1-1019": {
+    "examples": [
+      {
+        "en": "Assist elderly passengers.",
+        "ru": "Помогай пожилым пассажирам."
+      },
+      {
+        "en": "Can you assist me with this form?",
+        "ru": "Можешь помочь мне с этой формой?"
+      },
+      {
+        "en": "Nurses assist doctors during surgery.",
+        "ru": "Медсёстры помогают врачам во время операций."
+      }
+    ],
+    "colloc": "assist with · assist in",
+    "pattern": "assist + N / with"
+  },
+  "b1-1020": {
+    "examples": [
+      {
+        "en": "I associate summer with travel.",
+        "ru": "Я связываю лето с путешествиями."
+      },
+      {
+        "en": "I associate this song with summer.",
+        "ru": "Я ассоциирую эту песню с летом."
+      },
+      {
+        "en": "Don't associate with that crowd.",
+        "ru": "Не водись с той компанией."
+      }
+    ],
+    "colloc": "associate with · closely associated",
+    "pattern": "associate with + N"
+  },
+  "b1-1021": {
+    "examples": [
+      {
+        "en": "Do not assume the worst.",
+        "ru": "Не предполагай худшее."
+      },
+      {
+        "en": "I assumed you already knew.",
+        "ru": "Я предположил, что ты уже знал."
+      },
+      {
+        "en": "Don't assume the worst.",
+        "ru": "Не предполагай худшее."
+      }
+    ],
+    "colloc": "assume that · assume control",
+    "pattern": "assume + that / N"
+  },
+  "b1-1022": {
+    "examples": [
+      {
+        "en": "I assure you it is safe.",
+        "ru": "Уверяю, это безопасно."
+      },
+      {
+        "en": "I assure you everything is fine.",
+        "ru": "Уверяю тебя, всё в порядке."
+      },
+      {
+        "en": "She assured us of her support.",
+        "ru": "Она заверила нас в своей поддержке."
+      }
+    ],
+    "colloc": "assure sb that · rest assured",
+    "pattern": "assure sb of / that"
+  },
+  "b1-1023": {
+    "examples": [
+      {
+        "en": "Attach the file to the email.",
+        "ru": "Прикрепи файл к письму."
+      },
+      {
+        "en": "Please attach the file to your email.",
+        "ru": "Прикрепи файл к письму."
+      },
+      {
+        "en": "Attach the label firmly.",
+        "ru": "Плотно прикрепи этикетку."
+      }
+    ],
+    "colloc": "attach to · attached file",
+    "pattern": "attach + N to"
+  },
+  "b1-1024": {
+    "examples": [
+      {
+        "en": "She attained her degree.",
+        "ru": "Она получила степень."
+      },
+      {
+        "en": "She attained fluency after years abroad.",
+        "ru": "Она достигла беглости после лет за границей."
+      },
+      {
+        "en": "Few attain such high standards.",
+        "ru": "Немногие достигают таких высоких стандартов."
+      }
+    ],
+    "colloc": "attain a goal · attain success",
+    "pattern": "attain + N"
+  },
+  "b1-1025": {
+    "examples": [
+      {
+        "en": "Bright colors attract attention.",
+        "ru": "Яркие цвета привлекают внимание."
+      },
+      {
+        "en": "The festival attracts thousands of visitors.",
+        "ru": "Фестиваль привлекает тысячи посетителей."
+      }
+    ],
+    "colloc": "attract attention · attract investment",
+    "pattern": "attract + N"
+  },
+  "b1-1026": {
+    "examples": [
+      {
+        "en": "Managers authorise payments.",
+        "ru": "Менеджеры разрешают платежи."
+      },
+      {
+        "en": "Only managers can authorise refunds.",
+        "ru": "Только менеджеры могут санкционировать возвраты."
+      },
+      {
+        "en": "Who authorised this payment?",
+        "ru": "Кто санкционировал этот платёж?"
+      }
+    ],
+    "colloc": "authorise access · authorise sb to",
+    "note": "BrE: authorise",
+    "pattern": "authorise + N"
+  },
+  "b1-1027": {
+    "examples": [
+      {
+        "en": "Authorize the bank transfer.",
+        "ru": "Разреши банковский перевод."
+      },
+      {
+        "en": "The bank authorized the transfer.",
+        "ru": "Банк санкционировал перевод."
+      },
+      {
+        "en": "Please authorize me to sign.",
+        "ru": "Пожалуйста, уполномочь меня подписать."
+      }
+    ],
+    "colloc": "authorize payment · authorize sb to",
+    "note": "AmE: authorize",
+    "pattern": "authorize + N"
+  },
+  "b1-1028": {
+    "examples": [
+      {
+        "en": "Await further instructions.",
+        "ru": "Ожидай дальнейших указаний."
+      },
+      {
+        "en": "We await your decision.",
+        "ru": "Мы ждём вашего решения."
+      },
+      {
+        "en": "A surprise awaits you at home.",
+        "ru": "Дома тебя ждёт сюрприз."
+      }
+    ],
+    "colloc": "await trial · long awaited",
+    "pattern": "await + N"
+  },
+  "b1-1029": {
+    "examples": [
+      {
+        "en": "I beg you to listen.",
+        "ru": "Умоляю тебя послушать."
+      },
+      {
+        "en": "He begged them to stay.",
+        "ru": "Он умолял их остаться."
+      },
+      {
+        "en": "I beg your pardon.",
+        "ru": "Прошу прощения."
+      }
+    ],
+    "colloc": "beg for · beg to",
+    "pattern": "beg sb to + V"
+  },
+  "b1-1030": {
+    "examples": [
+      {
+        "en": "Bend your knees slightly.",
+        "ru": "Слегка согни колени."
+      },
+      {
+        "en": "Bend your knees when you lift.",
+        "ru": "Сгибай колени, когда поднимаешь."
+      },
+      {
+        "en": "The road bends sharply left.",
+        "ru": "Дорога резко поворачивает налево."
+      }
+    ],
+    "colloc": "bend over · bend the rules",
+    "pattern": "bend + N"
+  },
+  "b1-1031": {
+    "examples": [
+      {
+        "en": "Friends never betray trust.",
+        "ru": "Друзья никогда не предают доверие."
+      },
+      {
+        "en": "Don't betray a friend's trust.",
+        "ru": "Не предавай доверие друга."
+      },
+      {
+        "en": "His face betrayed his nerves.",
+        "ru": "Лицо выдало его нервы."
+      }
+    ],
+    "colloc": "betray trust · feel betrayed",
+    "pattern": "betray + N"
+  },
+  "b1-1032": {
+    "examples": [
+      {
+        "en": "Bind the papers together.",
+        "ru": "Свяжи бумаги вместе."
+      },
+      {
+        "en": "Bind the pages with a clip.",
+        "ru": "Скрепи страницы скрепкой."
+      },
+      {
+        "en": "Contracts bind both parties.",
+        "ru": "Договоры обязывают обе стороны."
+      }
+    ],
+    "colloc": "bind together · legally bind",
+    "pattern": "bind + N"
+  },
+  "b1-1033": {
+    "examples": [
+      {
+        "en": "Mosquitoes bite at night.",
+        "ru": "Комары кусают ночью."
+      },
+      {
+        "en": "Don't bite your nails.",
+        "ru": "Не грызи ногти."
+      },
+      {
+        "en": "The dog bit the postman's bag.",
+        "ru": "Собака укусила сумку почтальона."
+      }
+    ],
+    "colloc": "bite into · mosquito bite",
+    "pattern": "bite + N"
+  },
+  "b1-1034": {
+    "examples": [
+      {
+        "en": "The cut may bleed slightly.",
+        "ru": "Порез может слегка кровоточить."
+      },
+      {
+        "en": "His finger started to bleed.",
+        "ru": "Палец начал кровоточить."
+      },
+      {
+        "en": "The company is bleeding money.",
+        "ru": "Компания теряет деньги."
+      }
+    ],
+    "colloc": "bleed for · nose bleed",
+    "pattern": "bleed + adv"
+  },
+  "b1-1035": {
+    "examples": [
+      {
+        "en": "Parents bless their children.",
+        "ru": "Родители благословляют детей."
+      },
+      {
+        "en": "Bless you!",
+        "ru": "Будь здоров!"
+      },
+      {
+        "en": "They blessed the new building.",
+        "ru": "Они освятили новое здание."
+      }
+    ],
+    "colloc": "bless with · bless you",
+    "pattern": "bless + N"
+  },
+  "b1-1036": {
+    "examples": [
+      {
+        "en": "Do not boast about money.",
+        "ru": "Не хвастайся деньгами."
+      },
+      {
+        "en": "He boasts about his salary too often.",
+        "ru": "Он слишком часто хвастается зарплатой."
+      },
+      {
+        "en": "The hotel boasts a rooftop pool.",
+        "ru": "Отель может похвастаться бассейном на крыше."
+      }
+    ],
+    "colloc": "boast about · boast that",
+    "pattern": "boast about / of"
+  },
+  "b1-1037": {
+    "examples": [
+      {
+        "en": "Do not bother him now.",
+        "ru": "Не беспокой его сейчас."
+      },
+      {
+        "en": "Sorry to bother you so late.",
+        "ru": "Извини, что беспокою так поздно."
+      },
+      {
+        "en": "Don't bother locking up — I'll do it.",
+        "ru": "Не трудись закрывать — я сделаю."
+      }
+    ],
+    "colloc": "bother to · can't be bothered",
+    "pattern": "bother + N / to + V"
+  },
+  "b1-1038": {
+    "examples": [
+      {
+        "en": "Balls bounce on hard floors.",
+        "ru": "Мячи отскакивают от твёрдого пола."
+      },
+      {
+        "en": "The ball bounced off the wall.",
+        "ru": "Мяч отскочил от стены."
+      },
+      {
+        "en": "Email bounced back as undeliverable.",
+        "ru": "Письмо вернулось как недоставленное."
+      }
+    ],
+    "colloc": "bounce back · bounce off",
+    "pattern": "bounce + adv"
+  },
+  "b1-1039": {
+    "examples": [
+      {
+        "en": "Never bribe officials.",
+        "ru": "Никогда не давай взяток чиновникам."
+      },
+      {
+        "en": "Never bribe an official.",
+        "ru": "Никогда не давай взятку чиновнику."
+      },
+      {
+        "en": "They were accused of bribing voters.",
+        "ru": "Их обвинили во взятках избирателям."
+      }
+    ],
+    "colloc": "bribe sb · take a bribe",
+    "pattern": "bribe + N"
+  },
+  "b1-1040": {
+    "examples": [
+      {
+        "en": "Balloons burst with a bang.",
+        "ru": "Шарики лопаются с хлопком."
+      },
+      {
+        "en": "The balloon burst with a loud pop.",
+        "ru": "Шарик лопнул с громким хлопком."
+      },
+      {
+        "en": "She burst into tears.",
+        "ru": "Она разразилась слезами."
+      }
+    ],
+    "colloc": "burst into · burst open",
+    "pattern": "burst + adv"
+  },
+  "b1-1041": {
+    "examples": [
+      {
+        "en": "Dogs bury bones outside.",
+        "ru": "Собаки закапывают кости снаружи."
+      },
+      {
+        "en": "Dogs bury bones in the garden.",
+        "ru": "Собаки закапывают кости в саду."
+      },
+      {
+        "en": "Don't bury your feelings.",
+        "ru": "Не хорони свои чувства."
+      }
+    ],
+    "colloc": "bury under · bury the hatchet",
+    "pattern": "bury + N"
+  }
+}

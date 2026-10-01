@@ -1,0 +1,1486 @@
+{
+  "b1-0001": {
+    "examples": [
+      {
+        "en": "His absence was noticed.",
+        "ru": "Его отсутствие заметили."
+      },
+      {
+        "en": "In her absence, I took notes.",
+        "ru": "В её отсутствие я вёл записи."
+      },
+      {
+        "en": "Long absences hurt team projects.",
+        "ru": "Долгие отсутствия вредят командным проектам."
+      }
+    ],
+    "colloc": "in the absence of · absence from"
+  },
+  "b1-0002": {
+    "examples": [
+      {
+        "en": "Report any workplace abuse.",
+        "ru": "Сообщай о злоупотреблении на работе."
+      },
+      {
+        "en": "Drug abuse destroys families.",
+        "ru": "Наркомания разрушает семьи."
+      },
+      {
+        "en": "Never tolerate verbal abuse at work.",
+        "ru": "Никогда не терпи словесные оскорбления на работе."
+      }
+    ],
+    "colloc": "drug abuse · abuse of power"
+  },
+  "b1-0003": {
+    "examples": [
+      {
+        "en": "Students need library access.",
+        "ru": "Студентам нужен доступ в библиотеку."
+      },
+      {
+        "en": "Do you have access to the files?",
+        "ru": "Есть доступ к файлам?"
+      },
+      {
+        "en": "Wheelchair access is at the side door.",
+        "ru": "Доступ для колясок — у боковой двери."
+      }
+    ],
+    "colloc": "access to · gain access"
+  },
+  "b1-0004": {
+    "examples": [
+      {
+        "en": "Book accommodation early.",
+        "ru": "Бронируй жильё заранее."
+      },
+      {
+        "en": "Student accommodation is near campus.",
+        "ru": "Студенческое жильё рядом с кампусом."
+      },
+      {
+        "en": "We found cheap accommodation downtown.",
+        "ru": "Мы нашли недорогое жильё в центре."
+      }
+    ],
+    "colloc": "book accommodation · temporary accommodation"
+  },
+  "b1-0005": {
+    "examples": [
+      {
+        "en": "Graduation is a real accomplishment.",
+        "ru": "Выпуск — настоящее достижение."
+      },
+      {
+        "en": "Finishing the marathon was an accomplishment.",
+        "ru": "Финиш марафона был достижением."
+      },
+      {
+        "en": "List your main accomplishments on the CV.",
+        "ru": "Укажи главные достижения в резюме."
+      }
+    ],
+    "colloc": "sense of accomplishment · major accomplishment"
+  },
+  "b1-0006": {
+    "examples": [
+      {
+        "en": "Check the data for accuracy.",
+        "ru": "Проверь данные на точность."
+      },
+      {
+        "en": "Check the accuracy of these figures.",
+        "ru": "Проверь точность этих цифр."
+      },
+      {
+        "en": "Speed without accuracy is useless.",
+        "ru": "Скорость без точности бесполезна."
+      }
+    ],
+    "colloc": "with accuracy · accuracy of"
+  },
+  "b1-0007": {
+    "examples": [
+      {
+        "en": "Deny the false accusation.",
+        "ru": "Опровергни ложное обвинение."
+      },
+      {
+        "en": "She denied the accusation firmly.",
+        "ru": "Она твёрдо отрицала обвинение."
+      },
+      {
+        "en": "False accusations can ruin careers.",
+        "ru": "Ложные обвинения могут разрушить карьеру."
+      }
+    ],
+    "colloc": "face an accusation · accusation of"
+  },
+  "b1-0008": {
+    "examples": [
+      {
+        "en": "Handle acid with care.",
+        "ru": "Осторожно обращайся с кислотой."
+      },
+      {
+        "en": "Lemon juice contains citric acid.",
+        "ru": "В лимонном соке есть лимонная кислота."
+      },
+      {
+        "en": "Handle battery acid with care.",
+        "ru": "Обращайся с кислотой из батареи осторожно."
+      }
+    ],
+    "colloc": "acid rain · sulfuric acid"
+  },
+  "b1-0009": {
+    "examples": [
+      {
+        "en": "She is only an acquaintance.",
+        "ru": "Она лишь знакомая."
+      },
+      {
+        "en": "He's just a business acquaintance.",
+        "ru": "Он просто деловой знакомый."
+      },
+      {
+        "en": "I ran into an old acquaintance.",
+        "ru": "Я столкнулся со старым знакомым."
+      }
+    ],
+    "colloc": "make an acquaintance · casual acquaintance"
+  },
+  "b1-0010": {
+    "examples": [
+      {
+        "en": "Language acquisition takes time.",
+        "ru": "Приобретение языка требует времени."
+      },
+      {
+        "en": "The company's latest acquisition is a startup.",
+        "ru": "Последнее приобретение компании — стартап."
+      },
+      {
+        "en": "Language acquisition takes years.",
+        "ru": "Освоение языка занимает годы."
+      }
+    ],
+    "colloc": "acquisition of · recent acquisition"
+  },
+  "b1-0011": {
+    "examples": [
+      {
+        "en": "The farm covers ten acres.",
+        "ru": "Ферма занимает десять акров."
+      },
+      {
+        "en": "The farm covers fifty acres.",
+        "ru": "Ферма занимает пятьдесят акров."
+      },
+      {
+        "en": "They bought two acres by the river.",
+        "ru": "Они купили два акра у реки."
+      }
+    ],
+    "colloc": "per acre · acres of"
+  },
+  "b1-0012": {
+    "examples": [
+      {
+        "en": "Fight phone addiction carefully.",
+        "ru": "Осторожно борись с телефонной зависимостью."
+      },
+      {
+        "en": "Phone addiction affects sleep.",
+        "ru": "Зависимость от телефона влияет на сон."
+      },
+      {
+        "en": "He sought help for his addiction.",
+        "ru": "Он обратился за помощью из-за зависимости."
+      }
+    ],
+    "colloc": "addiction to · overcome addiction"
+  },
+  "b1-0013": {
+    "examples": [
+      {
+        "en": "In addition, bring water.",
+        "ru": "Кроме того, возьми воду."
+      },
+      {
+        "en": "In addition, we need more chairs.",
+        "ru": "Кроме того, нужны ещё стулья."
+      },
+      {
+        "en": "The new wing is a welcome addition.",
+        "ru": "Новое крыло — желанное дополнение."
+      }
+    ],
+    "colloc": "in addition · addition to"
+  },
+  "b1-0014": {
+    "examples": [
+      {
+        "en": "Make a small adjustment.",
+        "ru": "Сделай небольшую корректировку."
+      },
+      {
+        "en": "A small adjustment fixed the sound.",
+        "ru": "Небольшая регулировка исправила звук."
+      },
+      {
+        "en": "Moving abroad requires big adjustments.",
+        "ru": "Переезд за границу требует больших приспособлений."
+      }
+    ],
+    "colloc": "make an adjustment · period of adjustment"
+  },
+  "b1-0015": {
+    "examples": [
+      {
+        "en": "Contact the school administration.",
+        "ru": "Свяжись со школьной администрацией."
+      },
+      {
+        "en": "The school administration sent a letter.",
+        "ru": "Администрация школы прислала письмо."
+      },
+      {
+        "en": "She works in hospital administration.",
+        "ru": "Она работает в администрации больницы."
+      }
+    ],
+    "colloc": "public administration · administration of"
+  },
+  "b1-0016": {
+    "examples": [
+      {
+        "en": "She won deep admiration.",
+        "ru": "Она завоевала глубокое восхищение."
+      },
+      {
+        "en": "I have great admiration for her work.",
+        "ru": "Я очень восхищаюсь её работой."
+      },
+      {
+        "en": "The crowd watched in admiration.",
+        "ru": "Толпа смотрела с восхищением."
+      }
+    ],
+    "colloc": "admiration for · mutual admiration"
+  },
+  "b1-0017": {
+    "examples": [
+      {
+        "en": "University admission is competitive.",
+        "ru": "Приём в университет конкурентный."
+      },
+      {
+        "en": "Admission to the museum is free on Sundays.",
+        "ru": "Вход в музей по воскресеньям бесплатный."
+      },
+      {
+        "en": "His admission of guilt surprised us.",
+        "ru": "Его признание вины нас удивило."
+      }
+    ],
+    "colloc": "admission fee · admission of"
+  },
+  "b1-0018": {
+    "examples": [
+      {
+        "en": "Adolescence brings many changes.",
+        "ru": "Подростковый возраст приносит много изменений."
+      },
+      {
+        "en": "Adolescence can be a confusing time.",
+        "ru": "Подростковый возраст может быть запутанным."
+      },
+      {
+        "en": "She wrote about her adolescence.",
+        "ru": "Она писала о своём отрочестве."
+      }
+    ],
+    "colloc": "during adolescence · early adolescence"
+  },
+  "b1-0019": {
+    "examples": [
+      {
+        "en": "Science makes steady advance.",
+        "ru": "Наука делает устойчивый прогресс."
+      },
+      {
+        "en": "Please pay in advance.",
+        "ru": "Пожалуйста, плати заранее."
+      },
+      {
+        "en": "Technology continues to advance.",
+        "ru": "Технологии продолжают развиваться."
+      }
+    ],
+    "colloc": "in advance · advance payment"
+  },
+  "b1-0020": {
+    "examples": [
+      {
+        "en": "Respect a fair adversary.",
+        "ru": "Уважай честного противника."
+      },
+      {
+        "en": "Respect your adversary in debate.",
+        "ru": "Уважай противника в дебатах."
+      },
+      {
+        "en": "The two firms were fierce adversaries.",
+        "ru": "Две фирмы были яростными соперниками."
+      }
+    ],
+    "colloc": "worthy adversary · political adversary"
+  },
+  "b1-0021": {
+    "examples": [
+      {
+        "en": "She is a strong advocate.",
+        "ru": "Она сильный защитник."
+      },
+      {
+        "en": "She's an advocate for equal pay.",
+        "ru": "Она защитница равной оплаты."
+      },
+      {
+        "en": "He advocates quieter streets for kids.",
+        "ru": "Он выступает за более тихие улицы для детей."
+      }
+    ],
+    "colloc": "advocate for · strong advocate"
+  },
+  "b1-0022": {
+    "examples": [
+      {
+        "en": "It is a private affair.",
+        "ru": "Это частное дело."
+      },
+      {
+        "en": "The whole affair lasted two weeks.",
+        "ru": "Вся история длилась две недели."
+      },
+      {
+        "en": "Don't meddle in other people's affairs.",
+        "ru": "Не лезь в чужие дела."
+      }
+    ],
+    "colloc": "love affair · current affairs"
+  },
+  "b1-0023": {
+    "examples": [
+      {
+        "en": "Show affection to family.",
+        "ru": "Проявляй привязанность к семье."
+      },
+      {
+        "en": "She showed affection to the rescue dog.",
+        "ru": "Она проявила тепло к собаке из приюта."
+      },
+      {
+        "en": "Children need warmth and affection.",
+        "ru": "Детям нужны тепло и ласка."
+      }
+    ],
+    "colloc": "affection for · show affection"
+  },
+  "b1-0024": {
+    "examples": [
+      {
+        "en": "Rebuild after the storm aftermath.",
+        "ru": "Восстанавливайся после последствий шторма."
+      },
+      {
+        "en": "In the aftermath of the storm, roads closed.",
+        "ru": "После бури дороги закрыли."
+      },
+      {
+        "en": "The economic aftermath lasted years.",
+        "ru": "Экономические последствия длились годы."
+      }
+    ],
+    "colloc": "in the aftermath · aftermath of"
+  },
+  "b1-0025": {
+    "examples": [
+      {
+        "en": "Check tomorrow's meeting agenda.",
+        "ru": "Проверь повестку завтрашней встречи."
+      },
+      {
+        "en": "What's on today's agenda?",
+        "ru": "Что сегодня в повестке?"
+      },
+      {
+        "en": "Climate change tops the agenda.",
+        "ru": "Изменение климата на первом месте в повестке."
+      }
+    ],
+    "colloc": "set the agenda · hidden agenda"
+  },
+  "b1-0026": {
+    "examples": [
+      {
+        "en": "Call a travel agent.",
+        "ru": "Позвони турагенту."
+      },
+      {
+        "en": "Talk to a travel agent about flights.",
+        "ru": "Поговори с турагентом о рейсах."
+      },
+      {
+        "en": "She's a literary agent in New York.",
+        "ru": "Она литературный агент в Нью-Йорке."
+      }
+    ],
+    "colloc": "travel agent · estate agent"
+  },
+  "b1-0027": {
+    "examples": [
+      {
+        "en": "Reduce aggression in sports.",
+        "ru": "Снижай агрессию в спорте."
+      },
+      {
+        "en": "Verbal aggression has no place here.",
+        "ru": "Словесной агрессии здесь не место."
+      },
+      {
+        "en": "The dog showed no aggression.",
+        "ru": "Собака не проявляла агрессии."
+      }
+    ],
+    "colloc": "act of aggression · aggression toward"
+  },
+  "b1-0028": {
+    "examples": [
+      {
+        "en": "Agriculture feeds the nation.",
+        "ru": "Сельское хозяйство кормит страну."
+      },
+      {
+        "en": "Agriculture employs many rural workers.",
+        "ru": "Сельское хозяйство даёт работу многим в деревне."
+      },
+      {
+        "en": "Modern agriculture uses sensors.",
+        "ru": "Современное сельское хозяйство использует датчики."
+      }
+    ],
+    "colloc": "sustainable agriculture · agriculture sector"
+  },
+  "b1-0029": {
+    "examples": [
+      {
+        "en": "Send aid to victims.",
+        "ru": "Отправь помощь пострадавшим."
+      },
+      {
+        "en": "First aid saved his life.",
+        "ru": "Первая помощь спасла ему жизнь."
+      },
+      {
+        "en": "Foreign aid reached the flooded towns.",
+        "ru": "Иностранная помощь дошла до затопленных городов."
+      }
+    ],
+    "colloc": "first aid · in aid of"
+  },
+  "b1-0030": {
+    "examples": [
+      {
+        "en": "The aircraft landed safely.",
+        "ru": "Самолёт благополучно приземлился."
+      },
+      {
+        "en": "Military aircraft flew overhead.",
+        "ru": "Военные самолёты пролетели над головой."
+      }
+    ],
+    "colloc": "aircraft carrier · aircraft noise"
+  },
+  "b1-0031": {
+    "examples": [
+      {
+        "en": "Walk down the aisle carefully.",
+        "ru": "Осторожно иди по проходу."
+      },
+      {
+        "en": "Please keep the aisle clear.",
+        "ru": "Пожалуйста, не загораживайте проход."
+      },
+      {
+        "en": "I prefer an aisle seat on flights.",
+        "ru": "В самолёте предпочитаю место у прохода."
+      }
+    ],
+    "colloc": "aisle seat · supermarket aisle"
+  },
+  "b1-0032": {
+    "examples": [
+      {
+        "en": "Set the fire alarm.",
+        "ru": "Поставь пожарную тревогу."
+      },
+      {
+        "en": "The fire alarm went off at dawn.",
+        "ru": "Пожарная сигнализация сработала на рассвете."
+      },
+      {
+        "en": "Don't raise a false alarm.",
+        "ru": "Не поднимай ложную тревогу."
+      }
+    ],
+    "colloc": "fire alarm · alarm clock"
+  },
+  "b1-0033": {
+    "examples": [
+      {
+        "en": "Form a strong alliance.",
+        "ru": "Сформируй крепкий союз."
+      },
+      {
+        "en": "The two parties formed an alliance.",
+        "ru": "Две партии создали альянс."
+      },
+      {
+        "en": "Trade alliances can lower prices.",
+        "ru": "Торговые союзы могут снизить цены."
+      }
+    ],
+    "colloc": "form an alliance · alliance with"
+  },
+  "b1-0034": {
+    "examples": [
+      {
+        "en": "Review the budget allocation.",
+        "ru": "Проверь распределение бюджета."
+      },
+      {
+        "en": "Budget allocation for schools increased.",
+        "ru": "Выделение бюджета школам выросло."
+      },
+      {
+        "en": "Fair allocation of tasks matters.",
+        "ru": "Справедливое распределение задач важно."
+      }
+    ],
+    "colloc": "resource allocation · allocation of"
+  },
+  "b1-0035": {
+    "examples": [
+      {
+        "en": "Children get a weekly allowance.",
+        "ru": "Дети получают еженедельное пособие."
+      },
+      {
+        "en": "My weekly allowance was ten dollars.",
+        "ru": "Мои карманные деньги были десять долларов."
+      },
+      {
+        "en": "Make allowance for traffic delays.",
+        "ru": "Заложи запас на пробки."
+      }
+    ],
+    "colloc": "daily allowance · make allowance for"
+  },
+  "b1-0036": {
+    "examples": [
+      {
+        "en": "Find a political ally.",
+        "ru": "Найди политического союзника."
+      },
+      {
+        "en": "Canada is a close ally of the US.",
+        "ru": "Канада — близкий союзник США."
+      },
+      {
+        "en": "Find allies before the vote.",
+        "ru": "Найди союзников перед голосованием."
+      }
+    ],
+    "colloc": "close ally · ally with"
+  },
+  "b1-0037": {
+    "examples": [
+      {
+        "en": "Consider a cheaper alternative.",
+        "ru": "Рассмотри более дешёвую альтернативу."
+      },
+      {
+        "en": "Is there an alternative to driving?",
+        "ru": "Есть альтернатива вождению?"
+      },
+      {
+        "en": "We need alternative energy sources.",
+        "ru": "Нужны альтернативные источники энергии."
+      }
+    ],
+    "colloc": "alternative to · viable alternative"
+  },
+  "b1-0038": {
+    "examples": [
+      {
+        "en": "Planes fly at high altitude.",
+        "ru": "Самолёты летают на большой высоте."
+      },
+      {
+        "en": "The plane reached cruising altitude.",
+        "ru": "Самолёт набрал крейсерскую высоту."
+      },
+      {
+        "en": "Altitude sickness hit some hikers.",
+        "ru": "Высотная болезнь настигла некоторых туристов."
+      }
+    ],
+    "colloc": "high altitude · altitude of"
+  },
+  "b1-0039": {
+    "examples": [
+      {
+        "en": "He is an amateur photographer.",
+        "ru": "Он фотограф-любитель."
+      },
+      {
+        "en": "He's an amateur photographer.",
+        "ru": "Он фотограф-любитель."
+      },
+      {
+        "en": "Amateur athletes filled the race.",
+        "ru": "Любители-спортсмены заполнили гонку."
+      }
+    ],
+    "colloc": "amateur status · gifted amateur"
+  },
+  "b1-0040": {
+    "examples": [
+      {
+        "en": "The ambassador visited schools.",
+        "ru": "Посол посетил школы."
+      },
+      {
+        "en": "The ambassador opened the exhibition.",
+        "ru": "Посол открыл выставку."
+      },
+      {
+        "en": "She acts as an ambassador for the charity.",
+        "ru": "Она выступает послом благотворительности."
+      }
+    ],
+    "colloc": "goodwill ambassador · ambassador to"
+  },
+  "b1-0041": {
+    "examples": [
+      {
+        "en": "Call an ambulance immediately.",
+        "ru": "Немедленно вызови скорую."
+      },
+      {
+        "en": "The ambulance arrived in minutes.",
+        "ru": "Скорая прибыла за минуты."
+      }
+    ],
+    "colloc": "ambulance service · by ambulance"
+  },
+  "b1-0042": {
+    "examples": [
+      {
+        "en": "Pass a legal amendment.",
+        "ru": "Прими юридическую поправку."
+      },
+      {
+        "en": "Congress passed the amendment.",
+        "ru": "Конгресс принял поправку."
+      },
+      {
+        "en": "Read the contract amendment carefully.",
+        "ru": "Внимательно читай поправку к договору."
+      }
+    ],
+    "colloc": "constitutional amendment · amendment to"
+  },
+  "b1-0043": {
+    "examples": [
+      {
+        "en": "Trace your family ancestors.",
+        "ru": "Проследи предков семьи."
+      },
+      {
+        "en": "My ancestors came from Ireland.",
+        "ru": "Мои предки были из Ирландии."
+      },
+      {
+        "en": "Family trees show distant ancestors.",
+        "ru": "Генеалогические деревья показывают далёких предков."
+      }
+    ],
+    "colloc": "ancestor of · common ancestor"
+  },
+  "b1-0044": {
+    "examples": [
+      {
+        "en": "Drop the ship's anchor.",
+        "ru": "Брось якорь корабля."
+      },
+      {
+        "en": "Drop the anchor near the shore.",
+        "ru": "Брось якорь у берега."
+      },
+      {
+        "en": "She anchors the evening news.",
+        "ru": "Она ведёт вечерние новости."
+      }
+    ],
+    "colloc": "news anchor · drop anchor"
+  },
+  "b1-0045": {
+    "examples": [
+      {
+        "en": "She was an angel today.",
+        "ru": "Она была ангелом сегодня."
+      },
+      {
+        "en": "Kids dressed as angels in the play.",
+        "ru": "Дети были ангелами в спектакле."
+      },
+      {
+        "en": "Thank you — you're an angel.",
+        "ru": "Спасибо — ты ангел."
+      }
+    ],
+    "colloc": "guardian angel · angel investor"
+  },
+  "b1-0046": {
+    "examples": [
+      {
+        "en": "Measure the sharp angle.",
+        "ru": "Измерь острый угол."
+      },
+      {
+        "en": "Look at the problem from another angle.",
+        "ru": "Посмотри на проблему под другим углом."
+      },
+      {
+        "en": "The photo was shot from a low angle.",
+        "ru": "Фото снято с низкого ракурса."
+      }
+    ],
+    "colloc": "from an angle · angle of"
+  },
+  "b1-0047": {
+    "examples": [
+      {
+        "en": "Celebrate your wedding anniversary.",
+        "ru": "Отпразднуй годовщину свадьбы."
+      },
+      {
+        "en": "Happy anniversary!",
+        "ru": "С годовщиной!"
+      },
+      {
+        "en": "The museum marks its fiftieth anniversary.",
+        "ru": "Музей отмечает пятидесятилетие."
+      }
+    ],
+    "colloc": "wedding anniversary · anniversary of"
+  },
+  "b1-0048": {
+    "examples": [
+      {
+        "en": "Noise causes real annoyance.",
+        "ru": "Шум вызывает настоящее раздражение."
+      },
+      {
+        "en": "The noise was a constant annoyance.",
+        "ru": "Шум был постоянным раздражением."
+      },
+      {
+        "en": "To my annoyance, the train was late.",
+        "ru": "К моему раздражению, поезд опоздал."
+      }
+    ],
+    "colloc": "minor annoyance · source of annoyance"
+  },
+  "b1-0049": {
+    "examples": [
+      {
+        "en": "Check the safety apparatus.",
+        "ru": "Проверь защитный аппарат."
+      },
+      {
+        "en": "Lab apparatus must stay clean.",
+        "ru": "Лабораторная аппаратура должна быть чистой."
+      },
+      {
+        "en": "The breathing apparatus saved miners.",
+        "ru": "Дыхательный аппарат спас шахтёров."
+      }
+    ],
+    "colloc": "scientific apparatus · apparatus for"
+  },
+  "b1-0050": {
+    "examples": [
+      {
+        "en": "Launch a charity appeal.",
+        "ru": "Запусти благотворительный призыв."
+      },
+      {
+        "en": "The film has broad appeal.",
+        "ru": "У фильма широкий отклик."
+      },
+      {
+        "en": "She filed an appeal against the fine.",
+        "ru": "Она подала апелляцию на штраф."
+      }
+    ],
+    "colloc": "appeal to · appeal against"
+  },
+  "b1-0051": {
+    "examples": [
+      {
+        "en": "Exercise increases appetite.",
+        "ru": "Спорт повышает аппетит."
+      },
+      {
+        "en": "Exercise can increase appetite.",
+        "ru": "Спорт может повысить аппетит."
+      },
+      {
+        "en": "He has little appetite for risk.",
+        "ru": "У него мало аппетита к риску."
+      }
+    ],
+    "colloc": "loss of appetite · appetite for"
+  },
+  "b1-0052": {
+    "examples": [
+      {
+        "en": "The speech won loud applause.",
+        "ru": "Речь вызвала громкие аплодисменты."
+      },
+      {
+        "en": "Loud applause filled the hall.",
+        "ru": "Громкие аплодисменты заполнили зал."
+      },
+      {
+        "en": "She left the stage to warm applause.",
+        "ru": "Она ушла со сцены под тёплые аплодисменты."
+      }
+    ],
+    "colloc": "burst of applause · round of applause"
+  },
+  "b1-0053": {
+    "examples": [
+      {
+        "en": "Repair the kitchen appliance.",
+        "ru": "Почини кухонный прибор."
+      },
+      {
+        "en": "Unplug appliances during storms.",
+        "ru": "Отключай приборы во время бурь."
+      },
+      {
+        "en": "Kitchen appliances use a lot of power.",
+        "ru": "Кухонная техника потребляет много энергии."
+      }
+    ],
+    "colloc": "home appliance · electrical appliance"
+  },
+  "b1-0054": {
+    "examples": [
+      {
+        "en": "Interview each applicant carefully.",
+        "ru": "Осторожно проведи собеседование с каждым."
+      },
+      {
+        "en": "Each applicant gets an interview.",
+        "ru": "Каждый кандидат получает собеседование."
+      },
+      {
+        "en": "Strong applicants stand out quickly.",
+        "ru": "Сильные кандидаты сразу выделяются."
+      }
+    ],
+    "colloc": "job applicant · successful applicant"
+  },
+  "b1-0055": {
+    "examples": [
+      {
+        "en": "Show appreciation for help.",
+        "ru": "Прояви признательность за помощь."
+      },
+      {
+        "en": "Show appreciation for good work.",
+        "ru": "Проявляй признательность за хорошую работу."
+      },
+      {
+        "en": "Art appreciation classes start Monday.",
+        "ru": "Курсы понимания искусства начинаются в понедельник."
+      }
+    ],
+    "colloc": "show appreciation · appreciation of"
+  },
+  "b1-0056": {
+    "examples": [
+      {
+        "en": "Wait for official approval.",
+        "ru": "Жди официального одобрения."
+      },
+      {
+        "en": "We need managerial approval first.",
+        "ru": "Сначала нужно одобрение руководства."
+      },
+      {
+        "en": "The plan won public approval.",
+        "ru": "План получил общественное одобрение."
+      }
+    ],
+    "colloc": "seek approval · stamp of approval"
+  },
+  "b1-0057": {
+    "examples": [
+      {
+        "en": "Visit the city aquarium.",
+        "ru": "Посети городской аквариум."
+      },
+      {
+        "en": "Kids pressed against the aquarium glass.",
+        "ru": "Дети прижались к стеклу аквариума."
+      },
+      {
+        "en": "The city aquarium opens at ten.",
+        "ru": "Городской аквариум открывается в десять."
+      }
+    ],
+    "colloc": "public aquarium · home aquarium"
+  },
+  "b1-0058": {
+    "examples": [
+      {
+        "en": "The architect designed carefully.",
+        "ru": "Архитектор проектировал осторожно."
+      },
+      {
+        "en": "She hired an architect for the extension.",
+        "ru": "Она наняла архитектора для пристройки."
+      },
+      {
+        "en": "The architect redesigned the lobby.",
+        "ru": "Архитектор перепроектировал лобби."
+      }
+    ],
+    "colloc": "chief architect · landscape architect"
+  },
+  "b1-0059": {
+    "examples": [
+      {
+        "en": "Search the digital archive.",
+        "ru": "Ищи в цифровом архиве."
+      },
+      {
+        "en": "Old newspapers sit in the archive.",
+        "ru": "Старые газеты лежат в архиве."
+      },
+      {
+        "en": "Please archive last year's emails.",
+        "ru": "Пожалуйста, заархивируй прошлогодние письма."
+      }
+    ],
+    "colloc": "digital archive · archive of"
+  },
+  "b1-0060": {
+    "examples": [
+      {
+        "en": "Fans filled the arena.",
+        "ru": "Болельщики заполнили арену."
+      },
+      {
+        "en": "Fans filled the sports arena.",
+        "ru": "Болельщики заполнили спорт-арену."
+      },
+      {
+        "en": "Politics became a public arena.",
+        "ru": "Политика стала публичной ареной."
+      }
+    ],
+    "colloc": "sports arena · arena of"
+  },
+  "b1-0061": {
+    "examples": [
+      {
+        "en": "History describes the aristocracy.",
+        "ru": "История описывает аристократию."
+      },
+      {
+        "en": "The novel criticizes the aristocracy.",
+        "ru": "Роман критикует аристократию."
+      },
+      {
+        "en": "Land once belonged to the aristocracy.",
+        "ru": "Земля когда-то принадлежала аристократии."
+      }
+    ],
+    "colloc": "landed aristocracy · member of the aristocracy"
+  },
+  "b1-0062": {
+    "examples": [
+      {
+        "en": "Practice basic arithmetic daily.",
+        "ru": "Практикуй базовую арифметику ежедневно."
+      },
+      {
+        "en": "Kids practice basic arithmetic.",
+        "ru": "Дети практикуют базовую арифметику."
+      },
+      {
+        "en": "Mental arithmetic helps at the market.",
+        "ru": "Устный счёт помогает на рынке."
+      }
+    ],
+    "colloc": "mental arithmetic · arithmetic skills"
+  },
+  "b1-0063": {
+    "examples": [
+      {
+        "en": "Join the national army.",
+        "ru": "Вступи в национальную армию."
+      },
+      {
+        "en": "He served in the army for six years.",
+        "ru": "Он служил в армии шесть лет."
+      },
+      {
+        "en": "An army of volunteers cleaned the beach.",
+        "ru": "Армия волонтёров убрала пляж."
+      }
+    ],
+    "colloc": "join the army · army of"
+  },
+  "b1-0064": {
+    "examples": [
+      {
+        "en": "Police made an arrest.",
+        "ru": "Полиция произвела арест."
+      },
+      {
+        "en": "Police made an arrest at dawn.",
+        "ru": "Полиция произвела арест на рассвете."
+      },
+      {
+        "en": "He is under house arrest.",
+        "ru": "Он под домашним арестом."
+      }
+    ],
+    "colloc": "under arrest · make an arrest"
+  },
+  "b1-0065": {
+    "examples": [
+      {
+        "en": "Follow the red arrow.",
+        "ru": "Следуй за красной стрелкой."
+      },
+      {
+        "en": "Follow the arrows to the exit.",
+        "ru": "Следуй стрелкам к выходу."
+      },
+      {
+        "en": "An arrow hit the bull's-eye.",
+        "ru": "Стрела попала в яблочко."
+      }
+    ],
+    "colloc": "bow and arrow · arrow key"
+  },
+  "b1-0066": {
+    "examples": [
+      {
+        "en": "Clear ash from the fireplace.",
+        "ru": "Убери пепел из камина."
+      },
+      {
+        "en": "Volcanic ash closed the airport.",
+        "ru": "Вулканический пепел закрыл аэропорт."
+      },
+      {
+        "en": "Don't leave cigarette ash on the floor.",
+        "ru": "Не оставляй пепел от сигарет на полу."
+      }
+    ],
+    "colloc": "volcanic ash · ash tray"
+  },
+  "b1-0067": {
+    "examples": [
+      {
+        "en": "Consider every important aspect.",
+        "ru": "Учти каждый важный аспект."
+      },
+      {
+        "en": "Consider every aspect of the deal.",
+        "ru": "Учти каждый аспект сделки."
+      },
+      {
+        "en": "Safety is the most important aspect.",
+        "ru": "Безопасность — самый важный аспект."
+      }
+    ],
+    "colloc": "aspect of · key aspect"
+  },
+  "b1-0068": {
+    "examples": [
+      {
+        "en": "Follow your career aspirations.",
+        "ru": "Следуй карьерным стремлениям."
+      },
+      {
+        "en": "Her aspiration is to teach abroad.",
+        "ru": "Её стремление — преподавать за границей."
+      },
+      {
+        "en": "Youth aspirations deserve support.",
+        "ru": "Стремления молодёжи заслуживают поддержки."
+      }
+    ],
+    "colloc": "career aspiration · aspiration to"
+  },
+  "b1-0069": {
+    "examples": [
+      {
+        "en": "Report the assault immediately.",
+        "ru": "Немедленно сообщи о нападении."
+      },
+      {
+        "en": "The victim reported an assault.",
+        "ru": "Жертва сообщила о нападении."
+      },
+      {
+        "en": "Verbal assault is also harmful.",
+        "ru": "Словесное нападение тоже вредно."
+      }
+    ],
+    "colloc": "sexual assault · assault on"
+  },
+  "b1-0070": {
+    "examples": [
+      {
+        "en": "Attend the school assembly.",
+        "ru": "Посети школьное собрание."
+      },
+      {
+        "en": "School assembly starts at nine.",
+        "ru": "Школьная линейка начинается в девять."
+      },
+      {
+        "en": "Car assembly takes place here.",
+        "ru": "Сборка автомобилей происходит здесь."
+      }
+    ],
+    "colloc": "assembly line · general assembly"
+  },
+  "b1-0071": {
+    "examples": [
+      {
+        "en": "Complete the risk assessment.",
+        "ru": "Заверши оценку рисков."
+      },
+      {
+        "en": "Teacher assessment is due Friday.",
+        "ru": "Оценка учителя — к пятнице."
+      },
+      {
+        "en": "Risk assessment comes first.",
+        "ru": "Сначала оценка рисков."
+      }
+    ],
+    "colloc": "risk assessment · assessment of"
+  },
+  "b1-0072": {
+    "examples": [
+      {
+        "en": "Honesty is a real asset.",
+        "ru": "Честность — настоящий актив."
+      },
+      {
+        "en": "Languages are a career asset.",
+        "ru": "Языки — карьерный актив."
+      },
+      {
+        "en": "The company sold unused assets.",
+        "ru": "Компания продала неиспользуемые активы."
+      }
+    ],
+    "colloc": "valuable asset · asset management"
+  },
+  "b1-0073": {
+    "examples": [
+      {
+        "en": "Finish the homework assignment.",
+        "ru": "Закончи домашнее задание."
+      },
+      {
+        "en": "Finish the assignment by Monday.",
+        "ru": "Закончи задание к понедельнику."
+      },
+      {
+        "en": "My overseas assignment lasts a year.",
+        "ru": "Моя зарубежная командировка длится год."
+      }
+    ],
+    "colloc": "homework assignment · assignment to"
+  },
+  "b1-0074": {
+    "examples": [
+      {
+        "en": "Ask for financial assistance.",
+        "ru": "Попроси финансовую помощь."
+      },
+      {
+        "en": "Thank you for your assistance.",
+        "ru": "Спасибо за помощь."
+      },
+      {
+        "en": "Financial assistance is available.",
+        "ru": "Финансовая помощь доступна."
+      }
+    ],
+    "colloc": "technical assistance · assistance with"
+  },
+  "b1-0075": {
+    "examples": [
+      {
+        "en": "Join a sports association.",
+        "ru": "Вступи в спортивную ассоциацию."
+      },
+      {
+        "en": "Join a professional association.",
+        "ru": "Вступи в профессиональную ассоциацию."
+      },
+      {
+        "en": "There's a clear association between sleep and mood.",
+        "ru": "Есть явная связь между сном и настроением."
+      }
+    ],
+    "colloc": "in association with · association of"
+  },
+  "b1-0076": {
+    "examples": [
+      {
+        "en": "Question every weak assumption.",
+        "ru": "Подвергай сомнению каждое слабое предположение."
+      },
+      {
+        "en": "Question that assumption.",
+        "ru": "Подвергни сомнению это предположение."
+      },
+      {
+        "en": "Don't act on false assumptions.",
+        "ru": "Не действуй на ложных предположениях."
+      }
+    ],
+    "colloc": "make an assumption · underlying assumption"
+  },
+  "b1-0077": {
+    "examples": [
+      {
+        "en": "Give quality assurance carefully.",
+        "ru": "Осторожно дай гарантию качества."
+      },
+      {
+        "en": "I need your assurance on this.",
+        "ru": "Мне нужно твоё заверение по этому поводу."
+      },
+      {
+        "en": "Quality assurance checks every batch.",
+        "ru": "Контроль качества проверяет каждую партию."
+      }
+    ],
+    "colloc": "give assurance · quality assurance"
+  },
+  "b1-0078": {
+    "examples": [
+      {
+        "en": "Everything contains tiny atoms.",
+        "ru": "Всё содержит крошечные атомы."
+      },
+      {
+        "en": "Water molecules contain oxygen atoms.",
+        "ru": "Молекулы воды содержат атомы кислорода."
+      },
+      {
+        "en": "Atoms are the building blocks of matter.",
+        "ru": "Атомы — строительные блоки материи."
+      }
+    ],
+    "colloc": "atom bomb · carbon atom"
+  },
+  "b1-0079": {
+    "examples": [
+      {
+        "en": "Open the email attachment.",
+        "ru": "Открой вложение письма."
+      },
+      {
+        "en": "Don't forget the email attachment.",
+        "ru": "Не забудь вложение в письме."
+      },
+      {
+        "en": "Healthy attachment forms in childhood.",
+        "ru": "Здоровая привязанность формируется в детстве."
+      }
+    ],
+    "colloc": "email attachment · attachment to"
+  },
+  "b1-0080": {
+    "examples": [
+      {
+        "en": "Defend against a cyber attack.",
+        "ru": "Защищайся от кибератаки."
+      },
+      {
+        "en": "The city suffered a cyber attack.",
+        "ru": "Город пострадал от кибератаки."
+      },
+      {
+        "en": "Asthma attacks need quick treatment.",
+        "ru": "Приступы астмы требуют быстрого лечения."
+      }
+    ],
+    "colloc": "heart attack · under attack"
+  },
+  "b1-0081": {
+    "examples": [
+      {
+        "en": "Improve class attendance.",
+        "ru": "Улучши посещаемость занятий."
+      },
+      {
+        "en": "Attendance was low on Friday.",
+        "ru": "Посещаемость в пятницу была низкой."
+      },
+      {
+        "en": "Your attendance is required.",
+        "ru": "Ваше присутствие обязательно."
+      }
+    ],
+    "colloc": "regular attendance · attendance at"
+  },
+  "b1-0082": {
+    "examples": [
+      {
+        "en": "Buy art at an auction.",
+        "ru": "Купи искусство на аукционе."
+      },
+      {
+        "en": "The painting sold at auction.",
+        "ru": "Картину продали на аукционе."
+      },
+      {
+        "en": "Online auctions end at midnight.",
+        "ru": "Онлайн-аукционы заканчиваются в полночь."
+      }
+    ],
+    "colloc": "charity auction · auction house"
+  },
+  "b1-0083": {
+    "examples": [
+      {
+        "en": "Prepare for a tax audit.",
+        "ru": "Подготовься к налоговому аудиту."
+      },
+      {
+        "en": "The yearly audit starts in March.",
+        "ru": "Ежегодный аудит начинается в марте."
+      },
+      {
+        "en": "An energy audit cut our bills.",
+        "ru": "Энергоаудит сократил счета."
+      }
+    ],
+    "colloc": "financial audit · audit of"
+  },
+  "b1-0084": {
+    "examples": [
+      {
+        "en": "Respect local authority rules.",
+        "ru": "Уважай правила местных властей."
+      },
+      {
+        "en": "Who has the authority to sign?",
+        "ru": "У кого есть полномочия подписать?"
+      },
+      {
+        "en": "Local authorities closed the bridge.",
+        "ru": "Местные власти закрыли мост."
+      }
+    ],
+    "colloc": "in authority · authority on"
+  },
+  "b1-0085": {
+    "examples": [
+      {
+        "en": "Students need learning autonomy.",
+        "ru": "Студентам нужна учебная автономия."
+      },
+      {
+        "en": "Students gain more autonomy each year.",
+        "ru": "Студенты получают больше автономии каждый год."
+      },
+      {
+        "en": "Regional autonomy remains debated.",
+        "ru": "Региональная автономия всё ещё обсуждается."
+      }
+    ],
+    "colloc": "personal autonomy · autonomy of"
+  },
+  "b1-0086": {
+    "examples": [
+      {
+        "en": "Aviation connects distant cities.",
+        "ru": "Авиация связывает далёкие города."
+      },
+      {
+        "en": "She works in commercial aviation.",
+        "ru": "Она работает в гражданской авиации."
+      },
+      {
+        "en": "Aviation safety standards are strict.",
+        "ru": "Стандарты авиабезопасности строги."
+      }
+    ],
+    "colloc": "civil aviation · aviation industry"
+  },
+  "b1-0087": {
+    "examples": [
+      {
+        "en": "Raise public awareness carefully.",
+        "ru": "Осторожно повышай общественную осведомлённость."
+      },
+      {
+        "en": "Raise awareness about recycling.",
+        "ru": "Повышай осведомлённость о переработке."
+      },
+      {
+        "en": "Brand awareness grew after the ad.",
+        "ru": "Узнаваемость бренда выросла после рекламы."
+      }
+    ],
+    "colloc": "raise awareness · awareness of"
+  },
+  "b1-0088": {
+    "examples": [
+      {
+        "en": "Earth spins on its axis.",
+        "ru": "Земля вращается вокруг своей оси."
+      },
+      {
+        "en": "Plot the points on the x-axis.",
+        "ru": "Отметь точки на оси X."
+      }
+    ],
+    "colloc": "axis of · central axis"
+  }
+}

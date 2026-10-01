@@ -1,0 +1,37 @@
+{
+  "b1-0402": {
+    "examples": [
+      {
+        "en": "Check external links carefully.",
+        "ru": "Осторожно проверь внешние ссылки."
+      },
+      {
+        "en": "Check all external doors before leaving.",
+        "ru": "Проверь все внешние двери перед уходом."
+      },
+      {
+        "en": "External hard drives store backups.",
+        "ru": "Внешние жёсткие диски хранят бэкапы."
+      }
+    ],
+    "colloc": "external link · external factor",
+    "pattern": "internal"
+  },
+  "b1-0835": {
+    "examples": [
+      {
+        "en": "Launch a nationwide campaign.",
+        "ru": "Запусти общенациональную кампанию."
+      },
+      {
+        "en": "The storm caused nationwide delays.",
+        "ru": "Буря вызвала задержки по всей стране."
+      },
+      {
+        "en": "A nationwide survey starts next week.",
+        "ru": "Общенациональный опрос стартует на следующей неделе."
+      }
+    ],
+    "colloc": "nationwide campaign · nationwide ban"
+  }
+}

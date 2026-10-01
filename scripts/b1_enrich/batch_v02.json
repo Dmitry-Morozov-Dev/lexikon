@@ -1,0 +1,1064 @@
+{
+  "b1-1042": {
+    "examples": [
+      {
+        "en": "Calculate the total cost.",
+        "ru": "Вычисли общую стоимость."
+      },
+      {
+        "en": "Can you calculate the total cost?",
+        "ru": "Можешь посчитать общую стоимость?"
+      },
+      {
+        "en": "Scientists calculated the distance carefully.",
+        "ru": "Учёные тщательно рассчитали расстояние."
+      }
+    ],
+    "colloc": "calculate risk · calculate that",
+    "pattern": "calculate + N"
+  },
+  "b1-1043": {
+    "examples": [
+      {
+        "en": "Fishermen cast their nets.",
+        "ru": "Рыбаки забрасывают сети."
+      },
+      {
+        "en": "The director cast her as the lead.",
+        "ru": "Режиссёр утвердил её на главную роль."
+      },
+      {
+        "en": "Fishermen cast their nets at dawn.",
+        "ru": "Рыбаки забрасывают сети на рассвете."
+      }
+    ],
+    "colloc": "cast a vote · cast doubt",
+    "pattern": "cast + N"
+  },
+  "b1-1044": {
+    "examples": [
+      {
+        "en": "Restaurants cater for parties.",
+        "ru": "Рестораны обслуживают вечеринки."
+      },
+      {
+        "en": "This café caters to students.",
+        "ru": "Это кафе обслуживает студентов."
+      },
+      {
+        "en": "We can cater for large groups.",
+        "ru": "Мы можем обслужить большие группы."
+      }
+    ],
+    "colloc": "cater for · cater to",
+    "pattern": "cater for / to"
+  },
+  "b1-1045": {
+    "examples": [
+      {
+        "en": "The noise finally ceased.",
+        "ru": "Шум наконец прекратился."
+      },
+      {
+        "en": "Please cease all unnecessary noise.",
+        "ru": "Прекратите весь лишний шум."
+      },
+      {
+        "en": "Fighting ceased after midnight.",
+        "ru": "Бои прекратились после полуночи."
+      }
+    ],
+    "colloc": "cease fire · cease to",
+    "pattern": "cease + N / to + V"
+  },
+  "b1-1046": {
+    "examples": [
+      {
+        "en": "Workers cement the path.",
+        "ru": "Рабочие цементируют дорожку."
+      },
+      {
+        "en": "Workers cemented the new bricks.",
+        "ru": "Рабочие закрепили новые кирпичи раствором."
+      },
+      {
+        "en": "The deal cemented their partnership.",
+        "ru": "Сделка укрепила их партнёрство."
+      }
+    ],
+    "colloc": "cement relations · cement over",
+    "pattern": "cement + N"
+  },
+  "b1-1047": {
+    "examples": [
+      {
+        "en": "Governments may censor media.",
+        "ru": "Правительства могут цензурировать СМИ."
+      },
+      {
+        "en": "The government censored the film.",
+        "ru": "Правительство подвергло фильм цензуре."
+      },
+      {
+        "en": "Don't censor honest feedback.",
+        "ru": "Не цензурируй честную обратную связь."
+      }
+    ],
+    "colloc": "censor content · heavily censored",
+    "pattern": "censor + N"
+  },
+  "b1-1048": {
+    "examples": [
+      {
+        "en": "Honesty characterizes her work.",
+        "ru": "Честность характеризует её работу."
+      },
+      {
+        "en": "Honesty characterizes her leadership.",
+        "ru": "Честность характеризует её руководство."
+      },
+      {
+        "en": "How would you characterize the mood?",
+        "ru": "Как бы ты охарактеризовал настроение?"
+      }
+    ],
+    "colloc": "characterize as · characterized by",
+    "note": "AmE: characterize",
+    "pattern": "characterize + N"
+  },
+  "b1-1049": {
+    "examples": [
+      {
+        "en": "Chew slowly so you do not choke.",
+        "ru": "Жуй медленно, чтобы не подавиться."
+      },
+      {
+        "en": "He choked on a piece of bread.",
+        "ru": "Он подавился куском хлеба."
+      },
+      {
+        "en": "Weeds can choke young plants.",
+        "ru": "Сорняки могут задушить молодые растения."
+      }
+    ],
+    "colloc": "choke on · choke back",
+    "pattern": "choke on / + N"
+  },
+  "b1-1050": {
+    "examples": [
+      {
+        "en": "Cite your sources clearly.",
+        "ru": "Ясно указывай источники."
+      },
+      {
+        "en": "Please cite your sources clearly.",
+        "ru": "Чётко указывай источники."
+      },
+      {
+        "en": "The lawyer cited an earlier case.",
+        "ru": "Адвокат сослался на более раннее дело."
+      }
+    ],
+    "colloc": "cite as · cite evidence",
+    "pattern": "cite + N"
+  },
+  "b1-1051": {
+    "examples": [
+      {
+        "en": "Clarify your main point.",
+        "ru": "Проясни главный тезис."
+      },
+      {
+        "en": "Can you clarify that point?",
+        "ru": "Можешь прояснить этот пункт?"
+      },
+      {
+        "en": "The FAQ clarifies common questions.",
+        "ru": "FAQ проясняет частые вопросы."
+      }
+    ],
+    "colloc": "clarify a point · further clarify",
+    "pattern": "clarify + N"
+  },
+  "b1-1052": {
+    "examples": [
+      {
+        "en": "Classify the documents carefully.",
+        "ru": "Осторожно классифицируй документы."
+      },
+      {
+        "en": "Librarians classify books by subject.",
+        "ru": "Библиотекари классифицируют книги по темам."
+      },
+      {
+        "en": "Doctors classify the injury as minor.",
+        "ru": "Врачи классифицируют травму как лёгкую."
+      }
+    ],
+    "colloc": "classify as · classify into",
+    "pattern": "classify + N as"
+  },
+  "b1-1053": {
+    "examples": [
+      {
+        "en": "Wet clothes cling to skin.",
+        "ru": "Мокрая одежда липнет к коже."
+      },
+      {
+        "en": "Wet clothes cling to the skin.",
+        "ru": "Мокрая одежда липнет к коже."
+      },
+      {
+        "en": "She clung to hope until the end.",
+        "ru": "Она держалась за надежду до конца."
+      }
+    ],
+    "colloc": "cling to · cling on",
+    "pattern": "cling to + N"
+  },
+  "b1-1054": {
+    "examples": [
+      {
+        "en": "Combine work and study carefully.",
+        "ru": "Осторожно совмещай работу и учёбу."
+      },
+      {
+        "en": "Combine flour and eggs in a bowl.",
+        "ru": "Смешай муку и яйца в миске."
+      },
+      {
+        "en": "The two companies combined last year.",
+        "ru": "Две компании объединились в прошлом году."
+      }
+    ],
+    "colloc": "combine with · combine forces",
+    "pattern": "combine + N with"
+  },
+  "b1-1055": {
+    "examples": [
+      {
+        "en": "The ceremony will commence soon.",
+        "ru": "Церемония скоро начнётся."
+      },
+      {
+        "en": "The ceremony will commence at noon.",
+        "ru": "Церемония начнётся в полдень."
+      },
+      {
+        "en": "Work commenced after the permit arrived.",
+        "ru": "Работа началась после получения разрешения."
+      }
+    ],
+    "colloc": "commence with · commence proceedings",
+    "pattern": "commence + N"
+  },
+  "b1-1056": {
+    "examples": [
+      {
+        "en": "Do not commit that error.",
+        "ru": "Не совершай эту ошибку."
+      },
+      {
+        "en": "He committed a serious error.",
+        "ru": "Он совершил серьёзную ошибку."
+      },
+      {
+        "en": "She committed herself to the project.",
+        "ru": "Она посвятила себя проекту."
+      }
+    ],
+    "colloc": "commit a crime · commit to",
+    "pattern": "commit + N / to"
+  },
+  "b1-1057": {
+    "examples": [
+      {
+        "en": "Teams communicate daily.",
+        "ru": "Команды общаются ежедневно."
+      },
+      {
+        "en": "We communicate mainly by email.",
+        "ru": "Мы общаемся в основном по почте."
+      },
+      {
+        "en": "Nurses must communicate clearly with patients.",
+        "ru": "Медсёстры должны ясно общаться с пациентами."
+      }
+    ],
+    "colloc": "communicate with · communicate clearly",
+    "pattern": "communicate with / + N"
+  },
+  "b1-1058": {
+    "examples": [
+      {
+        "en": "Compare prices before buying.",
+        "ru": "Сравни цены перед покупкой."
+      },
+      {
+        "en": "Compare the two prices before buying.",
+        "ru": "Сравни две цены перед покупкой."
+      },
+      {
+        "en": "Don't compare yourself to others.",
+        "ru": "Не сравнивай себя с другими."
+      }
+    ],
+    "colloc": "compare to · compare with",
+    "pattern": "compare + N to/with"
+  },
+  "b1-1059": {
+    "examples": [
+      {
+        "en": "Laws compel seatbelt use.",
+        "ru": "Законы заставляют пристёгиваться."
+      },
+      {
+        "en": "The evidence compelled him to confess.",
+        "ru": "Доказательства заставили его признаться."
+      },
+      {
+        "en": "Nothing can compel me to lie.",
+        "ru": "Ничто не заставит меня лгать."
+      }
+    ],
+    "colloc": "compel sb to · compelling reason",
+    "pattern": "compel sb to + V"
+  },
+  "b1-1060": {
+    "examples": [
+      {
+        "en": "Firms compensate for delays.",
+        "ru": "Фирмы компенсируют задержки."
+      },
+      {
+        "en": "The firm will compensate for the delay.",
+        "ru": "Фирма компенсирует задержку."
+      },
+      {
+        "en": "Nothing compensates for lost time.",
+        "ru": "Ничто не компенсирует потерянное время."
+      }
+    ],
+    "colloc": "compensate for · compensate sb",
+    "pattern": "compensate for + N"
+  },
+  "b1-1061": {
+    "examples": [
+      {
+        "en": "Athletes compete internationally.",
+        "ru": "Спортсмены соревнуются на международном уровне."
+      },
+      {
+        "en": "Teams compete for the trophy.",
+        "ru": "Команды соревнуются за кубок."
+      },
+      {
+        "en": "Small shops compete with big chains.",
+        "ru": "Маленькие магазины конкурируют с крупными сетями."
+      }
+    ],
+    "colloc": "compete with · compete for",
+    "pattern": "compete with / for"
+  },
+  "b1-1062": {
+    "examples": [
+      {
+        "en": "Compile a reading list.",
+        "ru": "Составь список для чтения."
+      },
+      {
+        "en": "She compiled a list of useful links.",
+        "ru": "Она составила список полезных ссылок."
+      },
+      {
+        "en": "Researchers compiled the data overnight.",
+        "ru": "Исследователи собрали данные за ночь."
+      }
+    ],
+    "colloc": "compile a report · compile data",
+    "pattern": "compile + N"
+  },
+  "b1-1063": {
+    "examples": [
+      {
+        "en": "Her skills complement his.",
+        "ru": "Её навыки дополняют его."
+      },
+      {
+        "en": "The sauce complements the fish.",
+        "ru": "Соус дополняет рыбу."
+      },
+      {
+        "en": "Their skills complement each other.",
+        "ru": "Их навыки дополняют друг друга."
+      }
+    ],
+    "colloc": "complement each other · perfect complement",
+    "note": "complement ≠ compliment",
+    "pattern": "complement + N"
+  },
+  "b1-1064": {
+    "examples": [
+      {
+        "en": "She composes soft music.",
+        "ru": "Она сочиняет мягкую музыку."
+      },
+      {
+        "en": "She composed a short melody.",
+        "ru": "Она сочинила короткую мелодию."
+      },
+      {
+        "en": "The committee is composed of five members.",
+        "ru": "Комитет состоит из пяти членов."
+      }
+    ],
+    "colloc": "compose music · composed of",
+    "pattern": "compose + N"
+  },
+  "b1-1065": {
+    "examples": [
+      {
+        "en": "The team comprises ten people.",
+        "ru": "Команда включает десять человек."
+      },
+      {
+        "en": "The team comprises ten specialists.",
+        "ru": "Команда включает десять специалистов."
+      },
+      {
+        "en": "Women comprise half the workforce.",
+        "ru": "Женщины составляют половину рабочей силы."
+      }
+    ],
+    "colloc": "comprise of (часто ошибочно) · comprised of",
+    "note": "comprise = включать",
+    "pattern": "comprise + N"
+  },
+  "b1-1066": {
+    "examples": [
+      {
+        "en": "Do not conceal important facts.",
+        "ru": "Не скрывай важные факты."
+      },
+      {
+        "en": "He tried to conceal his disappointment.",
+        "ru": "Он пытался скрыть разочарование."
+      },
+      {
+        "en": "Curtains conceal the storage area.",
+        "ru": "Шторы скрывают зону хранения."
+      }
+    ],
+    "colloc": "conceal from · carefully conceal",
+    "pattern": "conceal + N"
+  },
+  "b1-1067": {
+    "examples": [
+      {
+        "en": "He conceded the election.",
+        "ru": "Он признал поражение на выборах."
+      },
+      {
+        "en": "She conceded that she was wrong.",
+        "ru": "Она признала, что была неправа."
+      },
+      {
+        "en": "The candidate conceded defeat.",
+        "ru": "Кандидат признал поражение."
+      }
+    ],
+    "colloc": "concede that · concede defeat",
+    "pattern": "concede + that / N"
+  },
+  "b1-1068": {
+    "examples": [
+      {
+        "en": "Artists conceive new ideas.",
+        "ru": "Художники задумывают новые идеи."
+      },
+      {
+        "en": "I can't conceive of living without music.",
+        "ru": "Не могу представить жизнь без музыки."
+      },
+      {
+        "en": "The plan was conceived years ago.",
+        "ru": "План задумали годы назад."
+      }
+    ],
+    "colloc": "conceive of · hard to conceive",
+    "pattern": "conceive of / + N"
+  },
+  "b1-1069": {
+    "examples": [
+      {
+        "en": "We conclude the meeting now.",
+        "ru": "Мы сейчас завершаем встречу."
+      },
+      {
+        "en": "We concluded the meeting early.",
+        "ru": "Мы закончили встречу рано."
+      },
+      {
+        "en": "I conclude that we need more time.",
+        "ru": "Заключаю, что нужно больше времени."
+      }
+    ],
+    "colloc": "conclude that · conclude a deal",
+    "pattern": "conclude + N / that"
+  },
+  "b1-1070": {
+    "examples": [
+      {
+        "en": "Leaders condemn violence.",
+        "ru": "Лидеры осуждают насилие."
+      },
+      {
+        "en": "Leaders condemned the violent attack.",
+        "ru": "Лидеры осудили жестокое нападение."
+      },
+      {
+        "en": "Don't condemn people for honest mistakes.",
+        "ru": "Не осуждай людей за честные ошибки."
+      }
+    ],
+    "colloc": "condemn as · widely condemn",
+    "pattern": "condemn + N"
+  },
+  "b1-1071": {
+    "examples": [
+      {
+        "en": "Doctors confer about treatment.",
+        "ru": "Врачи совещаются о лечении."
+      },
+      {
+        "en": "Doctors conferred about the treatment.",
+        "ru": "Врачи совещались о лечении."
+      },
+      {
+        "en": "The university conferred a degree on her.",
+        "ru": "Университет присудил ей степень."
+      }
+    ],
+    "colloc": "confer with · confer on",
+    "pattern": "confer with / on"
+  },
+  "b1-1072": {
+    "examples": [
+      {
+        "en": "He confessed his mistake.",
+        "ru": "Он признался в ошибке."
+      },
+      {
+        "en": "He confessed to taking the money.",
+        "ru": "Он признался, что взял деньги."
+      },
+      {
+        "en": "I must confess I forgot your birthday.",
+        "ru": "Должен признаться, я забыл твой день рождения."
+      }
+    ],
+    "colloc": "confess to · confess that",
+    "pattern": "confess to / that"
+  },
+  "b1-1073": {
+    "examples": [
+      {
+        "en": "Confine dogs to the yard.",
+        "ru": "Ограничь собак двором."
+      },
+      {
+        "en": "Please confine comments to the topic.",
+        "ru": "Ограничьте комментарии темой."
+      },
+      {
+        "en": "Illness confined her to bed for a week.",
+        "ru": "Болезнь приковала её к постели на неделю."
+      }
+    ],
+    "colloc": "confine to · confined space",
+    "pattern": "confine + N to"
+  },
+  "b1-1074": {
+    "examples": [
+      {
+        "en": "Confront the problem early.",
+        "ru": "Столкнись с проблемой рано."
+      },
+      {
+        "en": "She confronted him about the lie.",
+        "ru": "Она прямо спросила его о лжи."
+      },
+      {
+        "en": "We must confront the problem honestly.",
+        "ru": "Мы должны честно столкнуться с проблемой."
+      }
+    ],
+    "colloc": "confront with · confront sb about",
+    "pattern": "confront + N"
+  },
+  "b1-1075": {
+    "examples": [
+      {
+        "en": "Similar words confuse learners.",
+        "ru": "Похожие слова путают учеников."
+      },
+      {
+        "en": "Similar words often confuse learners.",
+        "ru": "Похожие слова часто путают учеников."
+      },
+      {
+        "en": "Don't confuse speed with quality.",
+        "ru": "Не путай скорость с качеством."
+      }
+    ],
+    "colloc": "confuse with · get confused",
+    "pattern": "confuse + N with"
+  },
+  "b1-1076": {
+    "examples": [
+      {
+        "en": "Congratulate the winners warmly.",
+        "ru": "Тепло поздравь победителей."
+      },
+      {
+        "en": "I congratulated her on the promotion.",
+        "ru": "Я поздравил её с повышением."
+      },
+      {
+        "en": "Congratulate the winners after the race.",
+        "ru": "Поздравь победителей после гонки."
+      }
+    ],
+    "colloc": "congratulate on · congratulations",
+    "pattern": "congratulate sb on"
+  },
+  "b1-1077": {
+    "examples": [
+      {
+        "en": "She conquered her fear.",
+        "ru": "Она победила свой страх."
+      },
+      {
+        "en": "Armies conquered the city centuries ago.",
+        "ru": "Армии завоевали город столетия назад."
+      },
+      {
+        "en": "She conquered her fear of flying.",
+        "ru": "Она победила страх полётов."
+      }
+    ],
+    "colloc": "conquer fear · conquer a market",
+    "pattern": "conquer + N"
+  },
+  "b1-1078": {
+    "examples": [
+      {
+        "en": "Conserve water during drought.",
+        "ru": "Экономь воду во время засухи."
+      },
+      {
+        "en": "Please conserve water during drought.",
+        "ru": "Экономьте воду во время засухи."
+      },
+      {
+        "en": "We need to conserve energy at home.",
+        "ru": "Нужно экономить энергию дома."
+      }
+    ],
+    "colloc": "conserve energy · conserve wildlife",
+    "pattern": "conserve + N"
+  },
+  "b1-1079": {
+    "examples": [
+      {
+        "en": "The meal consists of rice.",
+        "ru": "Блюдо состоит из риса."
+      },
+      {
+        "en": "The kit consists of five tools.",
+        "ru": "Набор состоит из пяти инструментов."
+      },
+      {
+        "en": "Success consists in hard work and luck.",
+        "ru": "Успех состоит в упорном труде и удаче."
+      }
+    ],
+    "colloc": "consist of · consist in",
+    "pattern": "consist of + N"
+  },
+  "b1-1080": {
+    "examples": [
+      {
+        "en": "Consolidate your knowledge.",
+        "ru": "Укрепи свои знания."
+      },
+      {
+        "en": "Banks consolidated after the crisis.",
+        "ru": "Банки объединились после кризиса."
+      },
+      {
+        "en": "Consolidate your notes before the exam.",
+        "ru": "Объедини конспекты перед экзаменом."
+      }
+    ],
+    "colloc": "consolidate power · consolidate debt",
+    "pattern": "consolidate + N"
+  },
+  "b1-1081": {
+    "examples": [
+      {
+        "en": "Women constitute half the staff.",
+        "ru": "Женщины составляют половину персонала."
+      },
+      {
+        "en": "These acts constitute a crime.",
+        "ru": "Эти действия составляют преступление."
+      },
+      {
+        "en": "Women constitute a majority of graduates.",
+        "ru": "Женщины составляют большинство выпускников."
+      }
+    ],
+    "colloc": "constitute a threat · constitute as",
+    "pattern": "constitute + N"
+  },
+  "b1-1082": {
+    "examples": [
+      {
+        "en": "Workers construct new roads.",
+        "ru": "Рабочие строят новые дороги."
+      },
+      {
+        "en": "Engineers construct bridges carefully.",
+        "ru": "Инженеры тщательно строят мосты."
+      },
+      {
+        "en": "She constructed a convincing argument.",
+        "ru": "Она построила убедительный аргумент."
+      }
+    ],
+    "colloc": "construct a building · construct from",
+    "pattern": "construct + N"
+  },
+  "b1-1083": {
+    "examples": [
+      {
+        "en": "Consult a doctor quickly.",
+        "ru": "Быстро проконсультируйся с врачом."
+      },
+      {
+        "en": "Consult a doctor if pain continues.",
+        "ru": "Обратись к врачу, если боль продолжается."
+      },
+      {
+        "en": "We consulted the manual first.",
+        "ru": "Сначала мы сверились с руководством."
+      }
+    ],
+    "colloc": "consult with · consult about",
+    "pattern": "consult + N"
+  },
+  "b1-1084": {
+    "examples": [
+      {
+        "en": "Cars consume more fuel.",
+        "ru": "Машины потребляют больше топлива."
+      },
+      {
+        "en": "Americans consume a lot of coffee.",
+        "ru": "Американцы потребляют много кофе."
+      },
+      {
+        "en": "The project consumed all our time.",
+        "ru": "Проект съел всё наше время."
+      }
+    ],
+    "colloc": "consume energy · consume less",
+    "pattern": "consume + N"
+  },
+  "b1-1085": {
+    "examples": [
+      {
+        "en": "Contemplate your next step.",
+        "ru": "Обдумай следующий шаг."
+      },
+      {
+        "en": "She contemplated a career change.",
+        "ru": "Она обдумывала смену карьеры."
+      },
+      {
+        "en": "Sit quietly and contemplate the view.",
+        "ru": "Сиди тихо и созерцай вид."
+      }
+    ],
+    "colloc": "contemplate doing · contemplate suicide",
+    "pattern": "contemplate + N / Ving"
+  },
+  "b1-1086": {
+    "examples": [
+      {
+        "en": "Experts contend otherwise.",
+        "ru": "Эксперты утверждают иное."
+      },
+      {
+        "en": "Several teams contend for the title.",
+        "ru": "Несколько команд борются за титул."
+      },
+      {
+        "en": "I contend that the plan will work.",
+        "ru": "Я утверждаю, что план сработает."
+      }
+    ],
+    "colloc": "contend with · contend that",
+    "pattern": "contend with / that"
+  },
+  "b1-1087": {
+    "examples": [
+      {
+        "en": "Facts contradict his story.",
+        "ru": "Факты противоречат его истории."
+      },
+      {
+        "en": "The two witnesses contradict each other.",
+        "ru": "Два свидетеля противоречат друг другу."
+      },
+      {
+        "en": "Don't contradict the facts.",
+        "ru": "Не противоречь фактам."
+      }
+    ],
+    "colloc": "contradict oneself · directly contradict",
+    "pattern": "contradict + N"
+  },
+  "b1-1088": {
+    "examples": [
+      {
+        "en": "Everyone can contribute ideas.",
+        "ru": "Каждый может вносить идеи."
+      },
+      {
+        "en": "She contributes to a local charity.",
+        "ru": "Она жертвует местной благотворительности."
+      }
+    ],
+    "colloc": "contribute to · contribute ideas",
+    "pattern": "contribute to + N"
+  },
+  "b1-1089": {
+    "examples": [
+      {
+        "en": "Convert files to PDF.",
+        "ru": "Преобразуй файлы в PDF."
+      },
+      {
+        "en": "They converted the loft into an office.",
+        "ru": "Они переделали чердак в офис."
+      },
+      {
+        "en": "Can you convert dollars to euros here?",
+        "ru": "Можно здесь обменять доллары на евро?"
+      }
+    ],
+    "colloc": "convert into · convert to",
+    "pattern": "convert + N into/to"
+  },
+  "b1-1090": {
+    "examples": [
+      {
+        "en": "Words convey strong emotions.",
+        "ru": "Слова передают сильные эмоции."
+      },
+      {
+        "en": "Please convey my thanks to the team.",
+        "ru": "Передай мою благодарность команде."
+      },
+      {
+        "en": "Images can convey strong emotions.",
+        "ru": "Образы могут передавать сильные эмоции."
+      }
+    ],
+    "colloc": "convey a message · convey meaning",
+    "pattern": "convey + N"
+  },
+  "b1-1091": {
+    "examples": [
+      {
+        "en": "Courts convict guilty people.",
+        "ru": "Суды осуждают виновных."
+      },
+      {
+        "en": "The jury convicted him of fraud.",
+        "ru": "Суд признал его виновным в мошенничестве."
+      },
+      {
+        "en": "Insufficient evidence failed to convict.",
+        "ru": "Недостаточных доказательств не хватило для обвинительного приговора."
+      }
+    ],
+    "colloc": "convict of · newly convicted",
+    "pattern": "convict sb of"
+  },
+  "b1-1092": {
+    "examples": [
+      {
+        "en": "Teams cooperate effectively.",
+        "ru": "Команды эффективно сотрудничают."
+      },
+      {
+        "en": "Please cooperate with the investigation.",
+        "ru": "Сотрудничайте со следствием."
+      },
+      {
+        "en": "Neighboring towns cooperate on transport.",
+        "ru": "Соседние города сотрудничают по транспорту."
+      }
+    ],
+    "colloc": "cooperate with · fully cooperate",
+    "pattern": "cooperate with + N"
+  },
+  "b1-1093": {
+    "examples": [
+      {
+        "en": "Coordinate the project carefully.",
+        "ru": "Осторожно координируй проект."
+      },
+      {
+        "en": "She coordinates the volunteer schedule.",
+        "ru": "Она координирует расписание волонтёров."
+      },
+      {
+        "en": "Police coordinated the rescue effort.",
+        "ru": "Полиция скоординировала спасательную операцию."
+      }
+    ],
+    "colloc": "coordinate with · coordinate efforts",
+    "pattern": "coordinate + N"
+  },
+  "b1-1094": {
+    "examples": [
+      {
+        "en": "She copes with stress well.",
+        "ru": "Она хорошо справляется со стрессом."
+      },
+      {
+        "en": "How do you cope with stress?",
+        "ru": "Как ты справляешься со стрессом?"
+      },
+      {
+        "en": "She coped well after the move.",
+        "ru": "Она хорошо справилась после переезда."
+      }
+    ],
+    "colloc": "cope with · cope alone",
+    "pattern": "cope with + N"
+  },
+  "b1-1095": {
+    "examples": [
+      {
+        "en": "The results correspond closely.",
+        "ru": "Результаты тесно соответствуют."
+      },
+      {
+        "en": "This number corresponds to room 12.",
+        "ru": "Этот номер соответствует комнате 12."
+      },
+      {
+        "en": "We correspond by email monthly.",
+        "ru": "Мы ежемесячно переписываемся по почте."
+      }
+    ],
+    "colloc": "correspond to · correspond with",
+    "pattern": "correspond to / with"
+  },
+  "b1-1096": {
+    "examples": [
+      {
+        "en": "Cats creep toward prey.",
+        "ru": "Кошки крадутся к добыче."
+      },
+      {
+        "en": "Fog crept into the valley.",
+        "ru": "Туман заполз в долину."
+      },
+      {
+        "en": "Doubt crept into her mind.",
+        "ru": "Сомнение закралось ей в голову."
+      }
+    ],
+    "colloc": "creep in · creep up on",
+    "pattern": "creep + adv"
+  },
+  "b1-1097": {
+    "examples": [
+      {
+        "en": "Do not criticize unfairly.",
+        "ru": "Не критикуй несправедливо."
+      },
+      {
+        "en": "Critics criticized the weak ending.",
+        "ru": "Критики раскритиковали слабую концовку."
+      },
+      {
+        "en": "Don't criticize without offering help.",
+        "ru": "Не критикуй, не предлагая помощи."
+      }
+    ],
+    "colloc": "criticize for · harshly criticize",
+    "note": "AmE: criticize",
+    "pattern": "criticize + N"
+  },
+  "b1-1098": {
+    "examples": [
+      {
+        "en": "Do not crush the berries.",
+        "ru": "Не раздави ягоды."
+      },
+      {
+        "en": "Don't crush the berries.",
+        "ru": "Не раздави ягоды."
+      },
+      {
+        "en": "The news crushed his hopes.",
+        "ru": "Новость разбила его надежды."
+      }
+    ],
+    "colloc": "crush into · crush a dream",
+    "pattern": "crush + N"
+  },
+  "b1-1099": {
+    "examples": [
+      {
+        "en": "Farmers cultivate rice fields.",
+        "ru": "Фермеры культивируют рисовые поля."
+      },
+      {
+        "en": "Farmers cultivate rice in this valley.",
+        "ru": "Фермеры выращивают рис в этой долине."
+      },
+      {
+        "en": "Cultivate good habits early.",
+        "ru": "Воспитывай хорошие привычки рано."
+      }
+    ],
+    "colloc": "cultivate land · cultivate relationships",
+    "pattern": "cultivate + N"
+  },
+  "b1-1100": {
+    "examples": [
+      {
+        "en": "Curl your hair gently.",
+        "ru": "Мягко завивай волосы."
+      },
+      {
+        "en": "Steam made her hair curl.",
+        "ru": "Пар заставил волосы завиться."
+      },
+      {
+        "en": "Curl the ribbon with scissors.",
+        "ru": "Завивай ленту ножницами."
+      }
+    ],
+    "colloc": "curl up · curl around",
+    "pattern": "curl + N"
+  }
+}
