@@ -1,0 +1,410 @@
+Linux|noun|Linux
+kernel|noun|ядро ОС
+distro|noun|дистрибутив
+package manager|noun|менеджер пакетов
+systemd|noun|systemd
+daemon|noun|демон
+cron|noun|планировщик cron
+shell|noun|командная оболочка
+bash|noun|bash
+pipeline|noun|конвейер команд
+chmod|noun|смена прав chmod
+chown|noun|смена владельца
+inode|noun|inode
+filesystem|noun|файловая система
+mount|verb|монтировать
+partition|noun|раздел диска
+LVM|noun|менеджер логических томов
+RAID|noun|RAID
+checksum|noun|контрольная сумма
+SSH|noun|SSH
+bastion host|noun|бастион-хост
+VPN|noun|VPN
+firewall|noun|межсетевой экран
+iptables|noun|iptables
+port|noun|сетевой порт
+TCP|noun|TCP
+UDP|noun|UDP
+DNS|noun|DNS
+resolver|noun|DNS-резолвер
+TTL|noun|время жизни записи
+DHCP|noun|DHCP
+NAT|noun|трансляция адресов
+CIDR|noun|CIDR-нотация
+subnet|noun|подсеть
+gateway|noun|шлюз
+routing table|noun|таблица маршрутизации
+traceroute|noun|трассировка маршрута
+load balancer|noun|балансировщик нагрузки
+reverse proxy|noun|обратный прокси
+nginx|noun|nginx
+TLS|noun|TLS
+certificate|noun|сертификат
+certificate authority|noun|удостоверяющий центр
+mTLS|noun|взаимный TLS
+HTTPS|noun|HTTPS
+REST API|noun|REST API
+API gateway|noun|API-шлюз
+rate limiting|noun|ограничение частоты запросов
+CDN|noun|сеть доставки контента
+cache|noun|кэш
+Redis|noun|Redis
+PostgreSQL|noun|PostgreSQL
+read replica|noun|реплика для чтения
+failover|noun|аварийное переключение
+backup|noun|резервная копия
+restore|verb|восстанавливать
+snapshot|noun|снимок состояния
+connection pool|noun|пул соединений
+schema migration|noun|миграция схемы
+container|noun|контейнер
+Docker|noun|Docker
+container image|noun|образ контейнера
+Dockerfile|noun|Dockerfile
+container registry|noun|реестр образов
+Kubernetes|noun|Kubernetes
+pod|noun|под
+worker node|noun|рабочий узел
+control plane|noun|control plane
+namespace|noun|пространство имён
+Deployment|noun|объект Deployment
+Service mesh|noun|service mesh
+Ingress|noun|Ingress
+ConfigMap|noun|ConfigMap
+Kubernetes Secret|noun|Secret в Kubernetes
+Helm chart|noun|Helm chart
+kubectl|noun|kubectl
+sidecar|noun|sidecar-контейнер
+liveness probe|noun|проба живости
+readiness probe|noun|проба готовности
+rolling update|noun|поэтапное обновление
+rollback|noun|откат
+canary deployment|noun|canary-развёртывание
+blue-green deployment|noun|blue-green развёртывание
+CI pipeline|noun|CI-пайплайн
+CD pipeline|noun|CD-пайплайн
+Jenkins|noun|Jenkins
+GitHub Actions|noun|GitHub Actions
+build artifact|noun|артефакт сборки
+pull request|noun|pull request
+code review|noun|ревью кода
+Git|noun|Git
+merge conflict|noun|конфликт слияния
+infrastructure as code|noun|инфраструктура как код
+Terraform|noun|Terraform
+Ansible|noun|Ansible
+Ansible playbook|noun|playbook Ansible
+Terraform state|noun|состояние Terraform
+cloud provider|noun|облачный провайдер
+AWS|noun|Amazon Web Services
+GCP|noun|Google Cloud Platform
+Azure|noun|Microsoft Azure
+availability zone|noun|зона доступности
+VPC|noun|виртуальное частное облако
+security group|noun|группа безопасности
+IAM role|noun|роль IAM
+IAM policy|noun|политика IAM
+least privilege|noun|принцип наименьших привилегий
+multi-factor authentication|noun|многофакторная аутентификация
+single sign-on|noun|единый вход
+OAuth|noun|OAuth
+OIDC|noun|OpenID Connect
+JSON Web Token|noun|JWT
+secrets manager|noun|менеджер секретов
+HashiCorp Vault|noun|HashiCorp Vault
+encryption at rest|noun|шифрование данных в покое
+encryption in transit|noun|шифрование при передаче
+vulnerability|noun|уязвимость
+security patch|noun|патч безопасности
+hardening|noun|закалка системы
+penetration testing|noun|тест на проникновение
+web application firewall|noun|WAF
+intrusion detection|noun|обнаружение вторжений
+SIEM|noun|SIEM
+audit logging|noun|журналирование аудита
+compliance|noun|соответствие требованиям
+personally identifiable information|noun|ПДн / PII
+zero trust|noun|модель zero trust
+incident response|noun|реагирование на инциденты
+blameless postmortem|noun|разбор без обвинений
+runbook|noun|операционный runbook
+on-call rotation|noun|ротация дежурств
+escalation policy|noun|политика эскалации
+service level objective|noun|SLO
+service level indicator|noun|SLI
+service level agreement|noun|SLA
+error budget|noun|бюджет ошибок
+mean time to recovery|noun|MTTR
+mean time between failures|noun|MTBF
+observability|noun|наблюдаемость
+metrics|noun|метрики
+logging|noun|логирование
+distributed tracing|noun|распределённый трейсинг
+Prometheus|noun|Prometheus
+Grafana|noun|Grafana
+Alertmanager|noun|Alertmanager
+OpenTelemetry|noun|OpenTelemetry
+CPU utilization|noun|загрузка CPU
+memory pressure|noun|давление по памяти
+disk I/O|noun|дисковый ввод-вывод
+network latency|noun|сетевая задержка
+throughput|noun|пропускная способность
+packet loss|noun|потеря пакетов
+garbage collection|noun|сборка мусора
+out of memory|noun|нехватка памяти (OOM)
+core dump|noun|дамп ядра
+strace|noun|strace
+tcpdump|noun|tcpdump
+journalctl|noun|journalctl
+systemctl|noun|systemctl
+process ID|noun|PID
+kill signal|noun|сигнал завершения
+SIGTERM|noun|SIGTERM
+SIGKILL|noun|SIGKILL
+cgroups|noun|cgroups
+SELinux|noun|SELinux
+sudo|noun|sudo
+root access|noun|доступ root
+privilege escalation|noun|эскалация привилегий
+brute force|noun|полный перебор
+DDoS|noun|DDoS-атака
+circuit breaker|noun|circuit breaker
+retry backoff|noun|повтор с backoff
+idempotency|noun|идемпотентность
+eventual consistency|noun|согласованность в конечном счёте
+message queue|noun|очередь сообщений
+Kafka|noun|Apache Kafka
+RabbitMQ|noun|RabbitMQ
+dead letter queue|noun|очередь мёртвых сообщений
+worker|noun|воркер
+cron job|noun|задача cron
+object storage|noun|объектное хранилище
+S3|noun|Amazon S3
+block storage|noun|блочное хранилище
+NFS|noun|NFS
+bandwidth|noun|пропускная способность канала
+jitter|noun|джиттер
+MTU|noun|MTU
+VLAN|noun|VLAN
+BGP|noun|BGP
+DNSSEC|noun|DNSSEC
+certificate rotation|noun|ротация сертификатов
+key rotation|noun|ротация ключей
+phishing|noun|фишинг
+supply chain attack|noun|атака на цепочку поставок
+SBOM|noun|спецификация состава ПО
+SAST|noun|статический анализ безопасности
+DAST|noun|динамический анализ безопасности
+container scanning|noun|сканирование контейнеров
+RBAC|noun|ролевой контроль доступа
+service account|noun|сервисный аккаунт
+spot instance|noun|spot-инстанс
+autoscaling|noun|автомасштабирование
+horizontal scaling|noun|горизонтальное масштабирование
+vertical scaling|noun|вертикальное масштабирование
+FinOps|noun|FinOps
+serverless|noun|бессерверный
+Lambda|noun|AWS Lambda
+edge computing|noun|граничные вычисления
+hybrid cloud|noun|гибридное облако
+multi-cloud|noun|мультиоблако
+vendor lock-in|noun|зависимость от вендора
+disaster recovery|noun|аварийное восстановление
+RPO|noun|целевая точка восстановления
+RTO|noun|целевое время восстановления
+chaos engineering|noun|chaos engineering
+feature flag|noun|feature flag
+kill switch|noun|аварийный выключатель
+synthetic monitoring|noun|синтетический мониторинг
+APM|noun|мониторинг производительности приложений
+flame graph|noun|flame graph
+deadlock|noun|взаимоблокировка
+race condition|noun|состояние гонки
+virtual machine|noun|виртуальная машина
+hypervisor|noun|гипервизор
+bare metal|noun|bare metal
+kernel panic|noun|паника ядра
+NTP|noun|NTP
+environment variable|noun|переменная окружения
+stateless|adj|без состояния
+stateful|adj|с состоянием
+persistent volume|noun|постоянный том
+immutable infrastructure|noun|неизменяемая инфраструктура
+golden image|noun|эталонный образ
+base image|noun|базовый образ
+seccomp|noun|seccomp
+sysctl|noun|sysctl
+file descriptor|noun|файловый дескриптор
+eBPF|noun|eBPF
+status page|noun|status page
+maintenance window|noun|окно обслуживания
+change management|noun|управление изменениями
+incident commander|noun|руководитель инцидента
+blast radius|noun|радиус поражения
+graceful degradation|noun|плавная деградация
+backpressure|noun|обратное давление
+throttling|noun|троттлинг
+health check|noun|проверка здоровья
+leader election|noun|выбор лидера
+quorum|noun|кворум
+split brain|noun|split brain
+sharding|noun|шардирование
+cache invalidation|noun|инвалидация кэша
+origin server|noun|origin-сервер
+geo DNS|noun|гео-DNS
+DDoS mitigation|noun|смягчение DDoS
+XSS|noun|межсайтовый скриптинг
+SQL injection|noun|SQL-инъекция
+SSRF|noun|SSRF
+RCE|noun|удалённое исполнение кода
+sandbox|noun|песочница
+chroot|noun|chroot
+load average|noun|средняя нагрузка
+uptime|noun|аптайм
+OOM killer|noun|OOM killer
+cgroup limit|noun|лимит cgroup
+network namespace|noun|сетевой namespace
+pid namespace|noun|PID namespace
+overlayfs|noun|overlayfs
+bind mount|noun|bind-mount
+tmpfs|noun|tmpfs
+journald|noun|journald
+rsyslog|noun|rsyslog
+logrotate|noun|logrotate
+log shipping|noun|доставка логов
+centralized logging|noun|централизованное логирование
+structured logging|noun|структурированное логирование
+correlation ID|noun|ID корреляции
+trace ID|noun|ID трейса
+span|noun|span (трейсинг)
+cardinality|noun|кардинальность метрик
+histogram|noun|гистограмма
+gauge|noun|gauge-метрика
+counter|noun|счётчик
+SLO burn rate|noun|скорость сжигания бюджета ошибок
+paging|noun|пейджинг
+silence|noun|silence (алерты)
+inhibition|noun|inhibition правил алертов
+runbook automation|noun|автоматизация runbook
+chatops|noun|ChatOps
+infrastructure drift|noun|дрейф инфраструктуры
+plan and apply|noun|plan и apply (Terraform)
+state lock|noun|блокировка state
+remote backend|noun|удалённый backend
+workspace|noun|workspace
+module registry|noun|реестр модулей
+provider version pin|noun|фиксация версии провайдера
+drift detection|noun|обнаружение дрейфа
+policy as code|noun|политика как код
+OPA|noun|Open Policy Agent
+Gatekeeper|noun|Gatekeeper
+admission webhook|noun|admission webhook
+network policy|noun|NetworkPolicy
+pod disruption budget|noun|PodDisruptionBudget
+horizontal pod autoscaler|noun|HPA
+cluster autoscaler|noun|Cluster Autoscaler
+node affinity|noun|node affinity
+taint|noun|taint
+toleration|noun|toleration
+daemonset|noun|DaemonSet
+statefulset|noun|StatefulSet
+job|noun|Job (K8s)
+cronjob|noun|CronJob
+config drift|noun|дрейф конфигурации
+gitops|noun|GitOps
+Argo CD|noun|Argo CD
+Flux|noun|Flux
+progressive delivery|noun|прогрессивная доставка
+feature toggle|noun|переключатель фич
+dark traffic|noun|тёмный трафик
+shadowing|noun|дублирование трафика
+replay|noun|повтор запросов
+chaos experiment|noun|эксперимент chaos
+fault injection|noun|инъекция сбоев
+latency injection|noun|инъекция задержки
+packet drop|noun|сброс пакетов
+warm pool|noun|тёплый пул
+cold start|noun|холодный старт
+provisioned concurrency|noun|provisioned concurrency
+event-driven|adj|событийно-управляемый
+webhook|noun|webhook
+callback|noun|callback
+polling|noun|поллинг
+long polling|noun|long polling
+websocket|noun|WebSocket
+gRPC streaming|noun|стриминг gRPC
+protobuf|noun|Protocol Buffers
+OpenAPI|noun|OpenAPI
+API versioning|noun|версионирование API
+backward compatibility|noun|обратная совместимость
+deprecation|noun|устаревание
+sunset policy|noun|политика вывода из эксплуатации
+breaking change|noun|ломающее изменение
+semantic versioning|noun|семантическое версионирование
+changelog|noun|changelog
+release notes|noun|заметки о релизе
+hotfix|noun|hotfix
+cherry-pick|verb|сделать cherry-pick
+revert|verb|откатить коммит
+fast-forward|noun|fast-forward
+squash merge|noun|squash merge
+protected branch|noun|защищённая ветка
+required checks|noun|обязательные проверки
+signed commit|noun|подписанный коммит
+secret scanning|noun|сканирование секретов
+dependency update|noun|обновление зависимостей
+lockfile|noun|lockfile
+reproducible build|noun|воспроизводимая сборка
+supply chain|noun|цепочка поставок
+artifact signing|noun|подпись артефактов
+provenance|noun|происхождение артефакта
+SLSA|noun|SLSA
+attestation|noun|аттестация
+image digest|noun|дайджест образа
+content trust|noun|content trust
+air gap|noun|воздушный зазор
+bastionless|adj|без бастиона
+SSM Session Manager|noun|SSM Session Manager
+break-glass access|noun|аварийный доступ
+just-in-time access|noun|доступ just-in-time
+privileged access management|noun|управление привилегированным доступом
+passwordless|adj|беспарольный
+passkey|noun|passkey
+hardware token|noun|аппаратный токен
+certificate pinning|noun|пиннинг сертификата
+HSTS|noun|HSTS
+CSP|noun|Content Security Policy
+CORS|noun|CORS
+same-site cookie|noun|cookie SameSite
+httpOnly|adj|флаг HttpOnly
+secure cookie|noun|secure cookie
+token binding|noun|привязка токена
+refresh token rotation|noun|ротация refresh-токенов
+session timeout|noun|таймаут сессии
+idle timeout|noun|таймаут простоя
+connection draining|noun|draining соединений
+graceful shutdown|noun|корректное завершение
+readiness gate|noun|readiness gate
+startup probe|noun|startup-проба
+termination grace period|noun|grace period завершения
+preStop hook|noun|хук preStop
+postStart hook|noun|хук postStart
+init container|noun|init-контейнер
+ephemeral container|noun|эфемерный контейнер
+debug container|noun|отладочный контейнер
+kubectl exec|noun|kubectl exec
+port-forward|noun|port-forward
+kubeconfig|noun|kubeconfig
+context switch|noun|переключение контекста kubectl
+cluster-admin|noun|cluster-admin
+least privilege RBAC|noun|RBAC с наименьшими привилегиями
+network segmentation|noun|сегментация сети
+microsegmentation|noun|микросегментация
+east-west traffic|noun|трафик east-west
+north-south traffic|noun|трафик north-south
+service discovery|noun|обнаружение сервисов
+DNS SRV|noun|SRV-запись DNS
+health endpoint|noun|endpoint здоровья
+liveness|noun|живость
+readiness|noun|готовность
+startup|noun|старт
