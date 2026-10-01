@@ -1,0 +1,3642 @@
+[
+  {
+    "word": "abstract concept",
+    "head": "abstract",
+    "hpos": "adj",
+    "col": "concept",
+    "cpos": "n"
+  },
+  {
+    "word": "acquire knowledge",
+    "head": "acquire",
+    "hpos": "v",
+    "col": "knowledge",
+    "cpos": "n"
+  },
+  {
+    "word": "active involvement",
+    "head": "active",
+    "hpos": "adj",
+    "col": "involvement",
+    "cpos": "n"
+  },
+  {
+    "word": "active participant",
+    "head": "active",
+    "hpos": "adj",
+    "col": "participant",
+    "cpos": "n"
+  },
+  {
+    "word": "active participation",
+    "head": "active",
+    "hpos": "adj",
+    "col": "participation",
+    "cpos": "n"
+  },
+  {
+    "word": "active role",
+    "head": "active",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "actively involved",
+    "head": "actively",
+    "hpos": "adv",
+    "col": "involved",
+    "cpos": "vpp"
+  },
+  {
+    "word": "acutely aware",
+    "head": "acutely",
+    "hpos": "adv",
+    "col": "aware",
+    "cpos": "adj"
+  },
+  {
+    "word": "add information",
+    "head": "add",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "additional cost",
+    "head": "additional",
+    "hpos": "adj",
+    "col": "cost",
+    "cpos": "n"
+  },
+  {
+    "word": "additional information",
+    "head": "additional",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "additional problem",
+    "head": "additional",
+    "hpos": "adj",
+    "col": "problem",
+    "cpos": "n"
+  },
+  {
+    "word": "additional resources",
+    "head": "additional",
+    "hpos": "adj",
+    "col": "resources",
+    "cpos": "n"
+  },
+  {
+    "word": "additional support",
+    "head": "additional",
+    "hpos": "adj",
+    "col": "support",
+    "cpos": "n"
+  },
+  {
+    "word": "accept a responsibility",
+    "head": "accept",
+    "hpos": "v",
+    "col": "responsibility",
+    "cpos": "n"
+  },
+  {
+    "word": "address an issue",
+    "head": "address",
+    "hpos": "v",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "acceptable behavior",
+    "head": "acceptable",
+    "hpos": "adj",
+    "col": "behavior",
+    "cpos": "n"
+  },
+  {
+    "word": "administrative practices",
+    "head": "administrative",
+    "hpos": "adj",
+    "col": "practices",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate assessment",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "assessment",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate description",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "description",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate information",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate measurement",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "measurement",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate picture",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "picture",
+    "cpos": "n"
+  },
+  {
+    "word": "accurate record",
+    "head": "accurate",
+    "hpos": "adj",
+    "col": "record",
+    "cpos": "n"
+  },
+  {
+    "word": "adopt a procedure",
+    "head": "adopt",
+    "hpos": "v",
+    "col": "procedure",
+    "cpos": "n"
+  },
+  {
+    "word": "adopt an approach",
+    "head": "adopt",
+    "hpos": "v",
+    "col": "approach",
+    "cpos": "n"
+  },
+  {
+    "word": "advanced economy",
+    "head": "advanced",
+    "hpos": "adj",
+    "col": "economy",
+    "cpos": "n"
+  },
+  {
+    "word": "advanced technology",
+    "head": "advanced",
+    "hpos": "adj",
+    "col": "technology",
+    "cpos": "n"
+  },
+  {
+    "word": "adverse effect",
+    "head": "adverse",
+    "hpos": "adj",
+    "col": "effect",
+    "cpos": "n"
+  },
+  {
+    "word": "adverse reaction",
+    "head": "adverse",
+    "hpos": "adj",
+    "col": "reaction",
+    "cpos": "n"
+  },
+  {
+    "word": "adversely affect",
+    "head": "adversely",
+    "hpos": "adv",
+    "col": "affect",
+    "cpos": "v"
+  },
+  {
+    "word": "affect an outcome",
+    "head": "affect",
+    "hpos": "v",
+    "col": "outcome",
+    "cpos": "n"
+  },
+  {
+    "word": "allocate resources",
+    "head": "allocate",
+    "hpos": "v",
+    "col": "resources",
+    "cpos": "n"
+  },
+  {
+    "word": "almost identical",
+    "head": "almost",
+    "hpos": "adv",
+    "col": "identical",
+    "cpos": "adj"
+  },
+  {
+    "word": "alternative approach",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "approach",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative explanation",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "explanation",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative form",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "form",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative interpretation",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "interpretation",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative means",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "means",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative method",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative model",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "model",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative solution",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "solution",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative source",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "source",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative strategy",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "strategy",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative view",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "view",
+    "cpos": "n"
+  },
+  {
+    "word": "alternative way",
+    "head": "alternative",
+    "hpos": "adj",
+    "col": "way",
+    "cpos": "n"
+  },
+  {
+    "word": "anecdotal evidence",
+    "head": "anecdotal",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "annual conference",
+    "head": "annual",
+    "hpos": "adj",
+    "col": "conference",
+    "cpos": "n"
+  },
+  {
+    "word": "annual meeting",
+    "head": "annual",
+    "hpos": "adj",
+    "col": "meeting",
+    "cpos": "n"
+  },
+  {
+    "word": "annual rate",
+    "head": "annual",
+    "hpos": "adj",
+    "col": "rate",
+    "cpos": "n"
+  },
+  {
+    "word": "annual report",
+    "head": "annual",
+    "hpos": "adj",
+    "col": "report",
+    "cpos": "n"
+  },
+  {
+    "word": "annual review",
+    "head": "annual",
+    "hpos": "adj",
+    "col": "review",
+    "cpos": "n"
+  },
+  {
+    "word": "apply equally",
+    "head": "apply",
+    "hpos": "v",
+    "col": "equally",
+    "cpos": "adv"
+  },
+  {
+    "word": "apply a method",
+    "head": "apply",
+    "hpos": "v",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "apply a theory",
+    "head": "apply",
+    "hpos": "v",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate action",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "action",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate behavior",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "behavior",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate conditions",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "conditions",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate data",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "data",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate form",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "form",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate language",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "language",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate level",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "level",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate point",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "point",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate response",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "response",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate skills",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "skills",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate treatment",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "treatment",
+    "cpos": "n"
+  },
+  {
+    "word": "appropriate way",
+    "head": "appropriate",
+    "hpos": "adj",
+    "col": "way",
+    "cpos": "n"
+  },
+  {
+    "word": "armed conflict",
+    "head": "armed",
+    "hpos": "adj",
+    "col": "conflict",
+    "cpos": "n"
+  },
+  {
+    "word": "artificial intelligence",
+    "head": "artificial",
+    "hpos": "adj",
+    "col": "intelligence",
+    "cpos": "n"
+  },
+  {
+    "word": "assessment process",
+    "head": "assessment",
+    "hpos": "n",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "associated factors",
+    "head": "associated",
+    "hpos": "adj",
+    "col": "factors",
+    "cpos": "n"
+  },
+  {
+    "word": "assume a responsibility",
+    "head": "assume",
+    "hpos": "v",
+    "col": "responsibility",
+    "cpos": "n"
+  },
+  {
+    "word": "atomic energy",
+    "head": "atomic",
+    "hpos": "adj",
+    "col": "energy",
+    "cpos": "n"
+  },
+  {
+    "word": "attend a conference",
+    "head": "attend",
+    "hpos": "v",
+    "col": "conference",
+    "cpos": "n"
+  },
+  {
+    "word": "available data",
+    "head": "available",
+    "hpos": "adj",
+    "col": "data",
+    "cpos": "n"
+  },
+  {
+    "word": "available evidence",
+    "head": "available",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "available information",
+    "head": "available",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "available resources",
+    "head": "available",
+    "hpos": "adj",
+    "col": "resources",
+    "cpos": "n"
+  },
+  {
+    "word": "average score",
+    "head": "average",
+    "hpos": "adj",
+    "col": "score",
+    "cpos": "n"
+  },
+  {
+    "word": "background knowledge",
+    "head": "background",
+    "hpos": "n",
+    "col": "knowledge",
+    "cpos": "n"
+  },
+  {
+    "word": "basic assumption",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "assumption",
+    "cpos": "n"
+  },
+  {
+    "word": "basic component",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "component",
+    "cpos": "n"
+  },
+  {
+    "word": "basic concept",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "concept",
+    "cpos": "n"
+  },
+  {
+    "word": "basic element",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "element",
+    "cpos": "n"
+  },
+  {
+    "word": "basic function",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "function",
+    "cpos": "n"
+  },
+  {
+    "word": "basic information",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "basic premise",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "premise",
+    "cpos": "n"
+  },
+  {
+    "word": "basic principle",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "principle",
+    "cpos": "n"
+  },
+  {
+    "word": "basic research",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "basic structure",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "structure",
+    "cpos": "n"
+  },
+  {
+    "word": "basic technique",
+    "head": "basic",
+    "hpos": "adj",
+    "col": "technique",
+    "cpos": "n"
+  },
+  {
+    "word": "become apparent",
+    "head": "become",
+    "hpos": "v",
+    "col": "apparent",
+    "cpos": "adj"
+  },
+  {
+    "word": "become available",
+    "head": "become",
+    "hpos": "v",
+    "col": "available",
+    "cpos": "adj"
+  },
+  {
+    "word": "become aware",
+    "head": "become",
+    "hpos": "v",
+    "col": "aware",
+    "cpos": "adj"
+  },
+  {
+    "word": "become blurred",
+    "head": "become",
+    "hpos": "v",
+    "col": "blurred",
+    "cpos": "adj"
+  },
+  {
+    "word": "become established",
+    "head": "become",
+    "hpos": "v",
+    "col": "established",
+    "cpos": "adj"
+  },
+  {
+    "word": "become evident",
+    "head": "become",
+    "hpos": "v",
+    "col": "evident",
+    "cpos": "adj"
+  },
+  {
+    "word": "become independent",
+    "head": "become",
+    "hpos": "v",
+    "col": "independent",
+    "cpos": "adj"
+  },
+  {
+    "word": "begin a process",
+    "head": "begin",
+    "hpos": "v",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "behave differently",
+    "head": "behave",
+    "hpos": "v",
+    "col": "differently",
+    "cpos": "adv"
+  },
+  {
+    "word": "beneficial effect",
+    "head": "beneficial",
+    "hpos": "adj",
+    "col": "effect",
+    "cpos": "n"
+  },
+  {
+    "word": "binary opposition",
+    "head": "binary",
+    "hpos": "adj",
+    "col": "opposition",
+    "cpos": "n"
+  },
+  {
+    "word": "binary system",
+    "head": "binary",
+    "hpos": "adj",
+    "col": "system",
+    "cpos": "n"
+  },
+  {
+    "word": "biological evolution",
+    "head": "biological",
+    "hpos": "adj",
+    "col": "evolution",
+    "cpos": "n"
+  },
+  {
+    "word": "biological science",
+    "head": "biological",
+    "hpos": "adj",
+    "col": "science",
+    "cpos": "n"
+  },
+  {
+    "word": "biological sex",
+    "head": "biological",
+    "hpos": "adj",
+    "col": "sex",
+    "cpos": "n"
+  },
+  {
+    "word": "brief account",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "account",
+    "cpos": "n"
+  },
+  {
+    "word": "brief description",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "description",
+    "cpos": "n"
+  },
+  {
+    "word": "brief discussion",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "discussion",
+    "cpos": "n"
+  },
+  {
+    "word": "brief history",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "history",
+    "cpos": "n"
+  },
+  {
+    "word": "brief introduction",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "introduction",
+    "cpos": "n"
+  },
+  {
+    "word": "brief overview",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "overview",
+    "cpos": "n"
+  },
+  {
+    "word": "brief period",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "period",
+    "cpos": "n"
+  },
+  {
+    "word": "brief review",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "review",
+    "cpos": "n"
+  },
+  {
+    "word": "brief summary",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "summary",
+    "cpos": "n"
+  },
+  {
+    "word": "brief time",
+    "head": "brief",
+    "hpos": "adj",
+    "col": "time",
+    "cpos": "n"
+  },
+  {
+    "word": "briefly describe",
+    "head": "briefly",
+    "hpos": "adv",
+    "col": "describe",
+    "cpos": "v"
+  },
+  {
+    "word": "briefly discuss",
+    "head": "briefly",
+    "hpos": "adv",
+    "col": "discuss",
+    "cpos": "v"
+  },
+  {
+    "word": "broad agreement",
+    "head": "broad",
+    "hpos": "adj",
+    "col": "agreement",
+    "cpos": "n"
+  },
+  {
+    "word": "broad category",
+    "head": "broad",
+    "hpos": "adj",
+    "col": "category",
+    "cpos": "n"
+  },
+  {
+    "word": "broad definition",
+    "head": "broad",
+    "hpos": "adj",
+    "col": "definition",
+    "cpos": "n"
+  },
+  {
+    "word": "broader context",
+    "head": "broader",
+    "hpos": "adj",
+    "col": "context",
+    "cpos": "n"
+  },
+  {
+    "word": "broadly defined",
+    "head": "broadly",
+    "hpos": "adv",
+    "col": "defined",
+    "cpos": "vpp"
+  },
+  {
+    "word": "broadly similar",
+    "head": "broadly",
+    "hpos": "adv",
+    "col": "similar",
+    "cpos": "adj"
+  },
+  {
+    "word": "business sector",
+    "head": "business",
+    "hpos": "n",
+    "col": "sector",
+    "cpos": "n"
+  },
+  {
+    "word": "business transaction",
+    "head": "business",
+    "hpos": "n",
+    "col": "transaction",
+    "cpos": "n"
+  },
+  {
+    "word": "capitalist country",
+    "head": "capitalist",
+    "hpos": "adj",
+    "col": "country",
+    "cpos": "n"
+  },
+  {
+    "word": "capitalist economy",
+    "head": "capitalist",
+    "hpos": "adj",
+    "col": "economy",
+    "cpos": "n"
+  },
+  {
+    "word": "capitalist society",
+    "head": "capitalist",
+    "hpos": "adj",
+    "col": "society",
+    "cpos": "n"
+  },
+  {
+    "word": "capitalist system",
+    "head": "capitalist",
+    "hpos": "adj",
+    "col": "system",
+    "cpos": "n"
+  },
+  {
+    "word": "capitalist world",
+    "head": "capitalist",
+    "hpos": "adj",
+    "col": "world",
+    "cpos": "n"
+  },
+  {
+    "word": "career development",
+    "head": "career",
+    "hpos": "n",
+    "col": "development",
+    "cpos": "n"
+  },
+  {
+    "word": "career opportunity",
+    "head": "career",
+    "hpos": "n",
+    "col": "opportunity",
+    "cpos": "n"
+  },
+  {
+    "word": "careful analysis",
+    "head": "careful",
+    "hpos": "adj",
+    "col": "analysis",
+    "cpos": "n"
+  },
+  {
+    "word": "careful attention",
+    "head": "careful",
+    "hpos": "adj",
+    "col": "attention",
+    "cpos": "n"
+  },
+  {
+    "word": "careful consideration",
+    "head": "careful",
+    "hpos": "adj",
+    "col": "consideration",
+    "cpos": "n"
+  },
+  {
+    "word": "careful thought",
+    "head": "careful",
+    "hpos": "adj",
+    "col": "thought",
+    "cpos": "n"
+  },
+  {
+    "word": "carefully controlled",
+    "head": "carefully",
+    "hpos": "adv",
+    "col": "controlled",
+    "cpos": "vpp"
+  },
+  {
+    "word": "carefully selected",
+    "head": "carefully",
+    "hpos": "adv",
+    "col": "selected",
+    "cpos": "vpp"
+  },
+  {
+    "word": "carry information",
+    "head": "carry",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "characteristic feature",
+    "head": "characteristic",
+    "hpos": "adj",
+    "col": "feature",
+    "cpos": "n"
+  },
+  {
+    "word": "carry out a task",
+    "head": "carry out",
+    "hpos": "v",
+    "col": "task",
+    "cpos": "n"
+  },
+  {
+    "word": "chemical reaction",
+    "head": "chemical",
+    "hpos": "adj",
+    "col": "reaction",
+    "cpos": "n"
+  },
+  {
+    "word": "class consciousness",
+    "head": "class",
+    "hpos": "n",
+    "col": "consciousness",
+    "cpos": "n"
+  },
+  {
+    "word": "cause consequences",
+    "head": "cause",
+    "hpos": "v",
+    "col": "consequences",
+    "cpos": "n"
+  },
+  {
+    "word": "cause a stress",
+    "head": "cause",
+    "hpos": "v",
+    "col": "stress",
+    "cpos": "n"
+  },
+  {
+    "word": "classical theory",
+    "head": "classical",
+    "hpos": "adj",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "clear boundary",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "boundary",
+    "cpos": "n"
+  },
+  {
+    "word": "clear distinction",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "distinction",
+    "cpos": "n"
+  },
+  {
+    "word": "clear evidence",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "clear focus",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "focus",
+    "cpos": "n"
+  },
+  {
+    "word": "clear indication",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "indication",
+    "cpos": "n"
+  },
+  {
+    "word": "clear relationship",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "relationship",
+    "cpos": "n"
+  },
+  {
+    "word": "clear statement",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "statement",
+    "cpos": "n"
+  },
+  {
+    "word": "clear structure",
+    "head": "clear",
+    "hpos": "adj",
+    "col": "structure",
+    "cpos": "n"
+  },
+  {
+    "word": "clearly defined",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "defined",
+    "cpos": "vpp"
+  },
+  {
+    "word": "clearly demonstrated",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "demonstrated",
+    "cpos": "vpp"
+  },
+  {
+    "word": "clearly established",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "established",
+    "cpos": "vpp"
+  },
+  {
+    "word": "clearly evident",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "evident",
+    "cpos": "adj"
+  },
+  {
+    "word": "clearly identified",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "identified",
+    "cpos": "vpp"
+  },
+  {
+    "word": "clearly important",
+    "head": "clearly",
+    "hpos": "adv",
+    "col": "important",
+    "cpos": "adj"
+  },
+  {
+    "word": "climate change",
+    "head": "climate",
+    "hpos": "n",
+    "col": "change",
+    "cpos": "n"
+  },
+  {
+    "word": "climatic conditions",
+    "head": "climatic",
+    "hpos": "adj",
+    "col": "conditions",
+    "cpos": "n"
+  },
+  {
+    "word": "close contact",
+    "head": "close",
+    "hpos": "adj",
+    "col": "contact",
+    "cpos": "n"
+  },
+  {
+    "word": "close proximity",
+    "head": "close",
+    "hpos": "adj",
+    "col": "proximity",
+    "cpos": "n"
+  },
+  {
+    "word": "close relationship",
+    "head": "close",
+    "hpos": "adj",
+    "col": "relationship",
+    "cpos": "n"
+  },
+  {
+    "word": "close scrutiny",
+    "head": "close",
+    "hpos": "adj",
+    "col": "scrutiny",
+    "cpos": "n"
+  },
+  {
+    "word": "change constantly",
+    "head": "change",
+    "hpos": "v",
+    "col": "constantly",
+    "cpos": "adv"
+  },
+  {
+    "word": "change dramatically",
+    "head": "change",
+    "hpos": "v",
+    "col": "dramatically",
+    "cpos": "adv"
+  },
+  {
+    "word": "change rapidly",
+    "head": "change",
+    "hpos": "v",
+    "col": "rapidly",
+    "cpos": "adv"
+  },
+  {
+    "word": "change an attitude",
+    "head": "change",
+    "hpos": "v",
+    "col": "attitude",
+    "cpos": "n"
+  },
+  {
+    "word": "changing attitudes",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "attitudes",
+    "cpos": "n"
+  },
+  {
+    "word": "changing circumstances",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "circumstances",
+    "cpos": "n"
+  },
+  {
+    "word": "changing nature",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "nature",
+    "cpos": "n"
+  },
+  {
+    "word": "changing needs",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "needs",
+    "cpos": "n"
+  },
+  {
+    "word": "changing pattern",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "pattern",
+    "cpos": "n"
+  },
+  {
+    "word": "changing world",
+    "head": "changing",
+    "hpos": "adj",
+    "col": "world",
+    "cpos": "n"
+  },
+  {
+    "word": "closer examination",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "examination",
+    "cpos": "n"
+  },
+  {
+    "word": "closer inspection",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "inspection",
+    "cpos": "n"
+  },
+  {
+    "word": "closer look",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "look",
+    "cpos": "n"
+  },
+  {
+    "word": "closer cognitive",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "cognitive",
+    "cpos": "adj"
+  },
+  {
+    "word": "closer ability",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "ability",
+    "cpos": "n"
+  },
+  {
+    "word": "closer development",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "development",
+    "cpos": "n"
+  },
+  {
+    "word": "closer skills",
+    "head": "closer",
+    "hpos": "adj",
+    "col": "skills",
+    "cpos": "n"
+  },
+  {
+    "word": "collect data",
+    "head": "collect",
+    "hpos": "v",
+    "col": "data",
+    "cpos": "n"
+  },
+  {
+    "word": "collect information",
+    "head": "collect",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "collective action",
+    "head": "collective",
+    "hpos": "adj",
+    "col": "action",
+    "cpos": "n"
+  },
+  {
+    "word": "collective identity",
+    "head": "collective",
+    "hpos": "adj",
+    "col": "identity",
+    "cpos": "n"
+  },
+  {
+    "word": "collective memory",
+    "head": "collective",
+    "hpos": "adj",
+    "col": "memory",
+    "cpos": "n"
+  },
+  {
+    "word": "combined effect",
+    "head": "combined",
+    "hpos": "adj",
+    "col": "effect",
+    "cpos": "n"
+  },
+  {
+    "word": "commercial activity",
+    "head": "commercial",
+    "hpos": "adj",
+    "col": "activity",
+    "cpos": "n"
+  },
+  {
+    "word": "commercial transaction",
+    "head": "commercial",
+    "hpos": "adj",
+    "col": "transaction",
+    "cpos": "n"
+  },
+  {
+    "word": "commit a crime",
+    "head": "commit",
+    "hpos": "v",
+    "col": "crime",
+    "cpos": "n"
+  },
+  {
+    "word": "commit an offence",
+    "head": "commit",
+    "hpos": "v",
+    "col": "offence",
+    "cpos": "n"
+  },
+  {
+    "word": "common ancestor",
+    "head": "common",
+    "hpos": "adj",
+    "col": "ancestor",
+    "cpos": "n"
+  },
+  {
+    "word": "common approach",
+    "head": "common",
+    "hpos": "adj",
+    "col": "approach",
+    "cpos": "n"
+  },
+  {
+    "word": "common assumption",
+    "head": "common",
+    "hpos": "adj",
+    "col": "assumption",
+    "cpos": "n"
+  },
+  {
+    "word": "common characteristic",
+    "head": "common",
+    "hpos": "adj",
+    "col": "characteristic",
+    "cpos": "n"
+  },
+  {
+    "word": "common culture",
+    "head": "common",
+    "hpos": "adj",
+    "col": "culture",
+    "cpos": "n"
+  },
+  {
+    "word": "common error",
+    "head": "common",
+    "hpos": "adj",
+    "col": "error",
+    "cpos": "n"
+  },
+  {
+    "word": "common feature",
+    "head": "common",
+    "hpos": "adj",
+    "col": "feature",
+    "cpos": "n"
+  },
+  {
+    "word": "common goal",
+    "head": "common",
+    "hpos": "adj",
+    "col": "goal",
+    "cpos": "n"
+  },
+  {
+    "word": "common method",
+    "head": "common",
+    "hpos": "adj",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "common source",
+    "head": "common",
+    "hpos": "adj",
+    "col": "source",
+    "cpos": "n"
+  },
+  {
+    "word": "common theme",
+    "head": "common",
+    "hpos": "adj",
+    "col": "theme",
+    "cpos": "n"
+  },
+  {
+    "word": "common usage",
+    "head": "common",
+    "hpos": "adj",
+    "col": "usage",
+    "cpos": "n"
+  },
+  {
+    "word": "commonly accepted",
+    "head": "commonly",
+    "hpos": "adv",
+    "col": "accepted",
+    "cpos": "vpp"
+  },
+  {
+    "word": "communicate effectively",
+    "head": "communicate",
+    "hpos": "v",
+    "col": "effectively",
+    "cpos": "adv"
+  },
+  {
+    "word": "comparative analysis",
+    "head": "comparative",
+    "hpos": "adj",
+    "col": "analysis",
+    "cpos": "n"
+  },
+  {
+    "word": "comparative research",
+    "head": "comparative",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "comparative study",
+    "head": "comparative",
+    "hpos": "adj",
+    "col": "study",
+    "cpos": "n"
+  },
+  {
+    "word": "compelling argument",
+    "head": "compelling",
+    "hpos": "adj",
+    "col": "argument",
+    "cpos": "n"
+  },
+  {
+    "word": "compelling evidence",
+    "head": "compelling",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "compelling reason",
+    "head": "compelling",
+    "hpos": "adj",
+    "col": "reason",
+    "cpos": "n"
+  },
+  {
+    "word": "competitive market",
+    "head": "competitive",
+    "hpos": "adj",
+    "col": "market",
+    "cpos": "n"
+  },
+  {
+    "word": "competitive pressure",
+    "head": "competitive",
+    "hpos": "adj",
+    "col": "pressure",
+    "cpos": "n"
+  },
+  {
+    "word": "complete a task",
+    "head": "complete",
+    "hpos": "v",
+    "col": "task",
+    "cpos": "n"
+  },
+  {
+    "word": "complex area",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "area",
+    "cpos": "n"
+  },
+  {
+    "word": "complex interaction",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "interaction",
+    "cpos": "n"
+  },
+  {
+    "word": "complex issue",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "complex pattern",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "pattern",
+    "cpos": "n"
+  },
+  {
+    "word": "complex problem",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "problem",
+    "cpos": "n"
+  },
+  {
+    "word": "complex process",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "complex question",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "question",
+    "cpos": "n"
+  },
+  {
+    "word": "complex relationship",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "relationship",
+    "cpos": "n"
+  },
+  {
+    "word": "complex set",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "set",
+    "cpos": "n"
+  },
+  {
+    "word": "complex situation",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "situation",
+    "cpos": "n"
+  },
+  {
+    "word": "complex structure",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "structure",
+    "cpos": "n"
+  },
+  {
+    "word": "complex system",
+    "head": "complex",
+    "hpos": "adj",
+    "col": "system",
+    "cpos": "n"
+  },
+  {
+    "word": "comprehensive account",
+    "head": "comprehensive",
+    "hpos": "adj",
+    "col": "account",
+    "cpos": "n"
+  },
+  {
+    "word": "comprehensive approach",
+    "head": "comprehensive",
+    "hpos": "adj",
+    "col": "approach",
+    "cpos": "n"
+  },
+  {
+    "word": "comprehensive overview",
+    "head": "comprehensive",
+    "hpos": "adj",
+    "col": "overview",
+    "cpos": "n"
+  },
+  {
+    "word": "comprehensive review",
+    "head": "comprehensive",
+    "hpos": "adj",
+    "col": "review",
+    "cpos": "n"
+  },
+  {
+    "word": "comprehensive system",
+    "head": "comprehensive",
+    "hpos": "adj",
+    "col": "system",
+    "cpos": "n"
+  },
+  {
+    "word": "conceptual framework",
+    "head": "conceptual",
+    "hpos": "adj",
+    "col": "framework",
+    "cpos": "n"
+  },
+  {
+    "word": "concerted effort",
+    "head": "concerted",
+    "hpos": "adj",
+    "col": "effort",
+    "cpos": "n"
+  },
+  {
+    "word": "concluding remarks",
+    "head": "concluding",
+    "hpos": "adj",
+    "col": "remarks",
+    "cpos": "n"
+  },
+  {
+    "word": "concluding section",
+    "head": "concluding",
+    "hpos": "adj",
+    "col": "section",
+    "cpos": "n"
+  },
+  {
+    "word": "concluding probability",
+    "head": "concluding",
+    "hpos": "adj",
+    "col": "probability",
+    "cpos": "n"
+  },
+  {
+    "word": "constituent elements",
+    "head": "constituent",
+    "hpos": "adj",
+    "col": "elements",
+    "cpos": "n"
+  },
+  {
+    "word": "constituent parts",
+    "head": "constituent",
+    "hpos": "adj",
+    "col": "parts",
+    "cpos": "n"
+  },
+  {
+    "word": "conduct research",
+    "head": "conduct",
+    "hpos": "v",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "contain information",
+    "head": "contain",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "contain an element",
+    "head": "contain",
+    "hpos": "v",
+    "col": "element",
+    "cpos": "n"
+  },
+  {
+    "word": "conduct a study",
+    "head": "conduct",
+    "hpos": "v",
+    "col": "study",
+    "cpos": "n"
+  },
+  {
+    "word": "conduct a survey",
+    "head": "conduct",
+    "hpos": "v",
+    "col": "survey",
+    "cpos": "n"
+  },
+  {
+    "word": "contemporary debate",
+    "head": "contemporary",
+    "hpos": "adj",
+    "col": "debate",
+    "cpos": "n"
+  },
+  {
+    "word": "contemporary issue",
+    "head": "contemporary",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "contemporary life",
+    "head": "contemporary",
+    "hpos": "adj",
+    "col": "life",
+    "cpos": "n"
+  },
+  {
+    "word": "contemporary society",
+    "head": "contemporary",
+    "hpos": "adj",
+    "col": "society",
+    "cpos": "n"
+  },
+  {
+    "word": "contemporary world",
+    "head": "contemporary",
+    "hpos": "adj",
+    "col": "world",
+    "cpos": "n"
+  },
+  {
+    "word": "conduct an analysis",
+    "head": "conduct",
+    "hpos": "v",
+    "col": "analysis",
+    "cpos": "n"
+  },
+  {
+    "word": "conduct an interview",
+    "head": "conduct",
+    "hpos": "v",
+    "col": "interview",
+    "cpos": "n"
+  },
+  {
+    "word": "conflict resolution",
+    "head": "conflict",
+    "hpos": "n",
+    "col": "resolution",
+    "cpos": "n"
+  },
+  {
+    "word": "conflicting interests",
+    "head": "conflicting",
+    "hpos": "adj",
+    "col": "interests",
+    "cpos": "n"
+  },
+  {
+    "word": "contextual factors",
+    "head": "contextual",
+    "hpos": "adj",
+    "col": "factors",
+    "cpos": "n"
+  },
+  {
+    "word": "continued existence",
+    "head": "continued",
+    "hpos": "adj",
+    "col": "existence",
+    "cpos": "n"
+  },
+  {
+    "word": "continued growth",
+    "head": "continued",
+    "hpos": "adj",
+    "col": "growth",
+    "cpos": "n"
+  },
+  {
+    "word": "continued use",
+    "head": "continued",
+    "hpos": "adj",
+    "col": "use",
+    "cpos": "n"
+  },
+  {
+    "word": "consider appropriate",
+    "head": "consider",
+    "hpos": "v",
+    "col": "appropriate",
+    "cpos": "adj"
+  },
+  {
+    "word": "consider relevant",
+    "head": "consider",
+    "hpos": "v",
+    "col": "relevant",
+    "cpos": "adj"
+  },
+  {
+    "word": "consider a possibility",
+    "head": "consider",
+    "hpos": "v",
+    "col": "possibility",
+    "cpos": "n"
+  },
+  {
+    "word": "continuous process",
+    "head": "continuous",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "consider an aspect",
+    "head": "consider",
+    "hpos": "v",
+    "col": "aspect",
+    "cpos": "n"
+  },
+  {
+    "word": "consider an issue",
+    "head": "consider",
+    "hpos": "v",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "contribute significantly",
+    "head": "contribute",
+    "hpos": "v",
+    "col": "significantly",
+    "cpos": "adv"
+  },
+  {
+    "word": "controversial issue",
+    "head": "controversial",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "conventional view",
+    "head": "conventional",
+    "hpos": "adj",
+    "col": "view",
+    "cpos": "n"
+  },
+  {
+    "word": "conventional wisdom",
+    "head": "conventional",
+    "hpos": "adj",
+    "col": "wisdom",
+    "cpos": "n"
+  },
+  {
+    "word": "convey information",
+    "head": "convey",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "convey a meaning",
+    "head": "convey",
+    "hpos": "v",
+    "col": "meaning",
+    "cpos": "n"
+  },
+  {
+    "word": "convey a message",
+    "head": "convey",
+    "hpos": "v",
+    "col": "message",
+    "cpos": "n"
+  },
+  {
+    "word": "convincing evidence",
+    "head": "convincing",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "coping strategy",
+    "head": "coping",
+    "hpos": "adj",
+    "col": "strategy",
+    "cpos": "n"
+  },
+  {
+    "word": "core area",
+    "head": "core",
+    "hpos": "adj",
+    "col": "area",
+    "cpos": "n"
+  },
+  {
+    "word": "core element",
+    "head": "core",
+    "hpos": "adj",
+    "col": "element",
+    "cpos": "n"
+  },
+  {
+    "word": "core issue",
+    "head": "core",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "core skills",
+    "head": "core",
+    "hpos": "adj",
+    "col": "skills",
+    "cpos": "n"
+  },
+  {
+    "word": "core value",
+    "head": "core",
+    "hpos": "adj",
+    "col": "value",
+    "cpos": "n"
+  },
+  {
+    "word": "correct interpretation",
+    "head": "correct",
+    "hpos": "adj",
+    "col": "interpretation",
+    "cpos": "n"
+  },
+  {
+    "word": "consistent pattern",
+    "head": "consistent",
+    "hpos": "adj",
+    "col": "pattern",
+    "cpos": "n"
+  },
+  {
+    "word": "consistent results",
+    "head": "consistent",
+    "hpos": "adj",
+    "col": "results",
+    "cpos": "n"
+  },
+  {
+    "word": "constant rate",
+    "head": "constant",
+    "hpos": "adj",
+    "col": "rate",
+    "cpos": "n"
+  },
+  {
+    "word": "correct an error",
+    "head": "correct",
+    "hpos": "v",
+    "col": "error",
+    "cpos": "n"
+  },
+  {
+    "word": "counter argument",
+    "head": "counter",
+    "hpos": "adj",
+    "col": "argument",
+    "cpos": "n"
+  },
+  {
+    "word": "cover an area",
+    "head": "cover",
+    "hpos": "v",
+    "col": "area",
+    "cpos": "n"
+  },
+  {
+    "word": "create conditions",
+    "head": "create",
+    "hpos": "v",
+    "col": "conditions",
+    "cpos": "n"
+  },
+  {
+    "word": "create opportunities",
+    "head": "create",
+    "hpos": "v",
+    "col": "opportunities",
+    "cpos": "n"
+  },
+  {
+    "word": "create problems",
+    "head": "create",
+    "hpos": "v",
+    "col": "problems",
+    "cpos": "n"
+  },
+  {
+    "word": "create an environment",
+    "head": "create",
+    "hpos": "v",
+    "col": "environment",
+    "cpos": "n"
+  },
+  {
+    "word": "create an impression",
+    "head": "create",
+    "hpos": "v",
+    "col": "impression",
+    "cpos": "n"
+  },
+  {
+    "word": "create an opportunity",
+    "head": "create",
+    "hpos": "v",
+    "col": "opportunity",
+    "cpos": "n"
+  },
+  {
+    "word": "creative process",
+    "head": "creative",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "creative thinking",
+    "head": "creative",
+    "hpos": "adj",
+    "col": "thinking",
+    "cpos": "n"
+  },
+  {
+    "word": "creative work",
+    "head": "creative",
+    "hpos": "adj",
+    "col": "work",
+    "cpos": "n"
+  },
+  {
+    "word": "criminal offence",
+    "head": "criminal",
+    "hpos": "adj",
+    "col": "offence",
+    "cpos": "n"
+  },
+  {
+    "word": "critical analysis",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "analysis",
+    "cpos": "n"
+  },
+  {
+    "word": "critical approach",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "approach",
+    "cpos": "n"
+  },
+  {
+    "word": "critical attention",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "attention",
+    "cpos": "n"
+  },
+  {
+    "word": "critical essay",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "essay",
+    "cpos": "n"
+  },
+  {
+    "word": "critical evaluation",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "evaluation",
+    "cpos": "n"
+  },
+  {
+    "word": "critical examination",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "examination",
+    "cpos": "n"
+  },
+  {
+    "word": "critical factor",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "factor",
+    "cpos": "n"
+  },
+  {
+    "word": "critical importance",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "importance",
+    "cpos": "n"
+  },
+  {
+    "word": "critical inquiry",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "inquiry",
+    "cpos": "n"
+  },
+  {
+    "word": "critical introduction",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "introduction",
+    "cpos": "n"
+  },
+  {
+    "word": "critical issue",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "critical perspective",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "perspective",
+    "cpos": "n"
+  },
+  {
+    "word": "critical point",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "point",
+    "cpos": "n"
+  },
+  {
+    "word": "critical reflection",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "reflection",
+    "cpos": "n"
+  },
+  {
+    "word": "critical review",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "review",
+    "cpos": "n"
+  },
+  {
+    "word": "critical role",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "critical scrutiny",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "scrutiny",
+    "cpos": "n"
+  },
+  {
+    "word": "critical theory",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "critical thinking",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "thinking",
+    "cpos": "n"
+  },
+  {
+    "word": "critical writing",
+    "head": "critical",
+    "hpos": "adj",
+    "col": "writing",
+    "cpos": "n"
+  },
+  {
+    "word": "critically evaluate",
+    "head": "critically",
+    "hpos": "adv",
+    "col": "evaluate",
+    "cpos": "v"
+  },
+  {
+    "word": "crucial difference",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "difference",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial factor",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "factor",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial importance",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "importance",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial part",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "part",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial point",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "point",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial question",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "question",
+    "cpos": "n"
+  },
+  {
+    "word": "crucial role",
+    "head": "crucial",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural activity",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "activity",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural aspect",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "aspect",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural attitudes",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "attitudes",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural background",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "background",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural boundary",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "boundary",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural change",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "change",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural context",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "context",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural differences",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "differences",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural dimension",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "dimension",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural diversity",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "diversity",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural factors",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "factors",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural heritage",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "heritage",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural history",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "history",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural identity",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "identity",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural influence",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "influence",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural institution",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "institution",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural issue",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural life",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "life",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural norm",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "norm",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural perspective",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "perspective",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural phenomenon",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "phenomenon",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural practice",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "practice",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural significance",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "significance",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural theory",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural tradition",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "tradition",
+    "cpos": "n"
+  },
+  {
+    "word": "cultural values",
+    "head": "cultural",
+    "hpos": "adj",
+    "col": "values",
+    "cpos": "n"
+  },
+  {
+    "word": "culturally specific",
+    "head": "culturally",
+    "hpos": "adv",
+    "col": "specific",
+    "cpos": "adj"
+  },
+  {
+    "word": "current climate",
+    "head": "current",
+    "hpos": "adj",
+    "col": "climate",
+    "cpos": "n"
+  },
+  {
+    "word": "current issue",
+    "head": "current",
+    "hpos": "adj",
+    "col": "issue",
+    "cpos": "n"
+  },
+  {
+    "word": "current policy",
+    "head": "current",
+    "hpos": "adj",
+    "col": "policy",
+    "cpos": "n"
+  },
+  {
+    "word": "current research",
+    "head": "current",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "current status",
+    "head": "current",
+    "hpos": "adj",
+    "col": "status",
+    "cpos": "n"
+  },
+  {
+    "word": "current technology",
+    "head": "current",
+    "hpos": "adj",
+    "col": "technology",
+    "cpos": "n"
+  },
+  {
+    "word": "current trend",
+    "head": "current",
+    "hpos": "adj",
+    "col": "trend",
+    "cpos": "n"
+  },
+  {
+    "word": "currently available",
+    "head": "currently",
+    "hpos": "adv",
+    "col": "available",
+    "cpos": "adj"
+  },
+  {
+    "word": "daily living",
+    "head": "daily",
+    "hpos": "adj",
+    "col": "living",
+    "cpos": "n"
+  },
+  {
+    "word": "detailed analysis",
+    "head": "detailed",
+    "hpos": "adj",
+    "col": "analysis",
+    "cpos": "n"
+  },
+  {
+    "word": "detailed examination",
+    "head": "detailed",
+    "hpos": "adj",
+    "col": "examination",
+    "cpos": "n"
+  },
+  {
+    "word": "detailed information",
+    "head": "detailed",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "detailed study",
+    "head": "detailed",
+    "hpos": "adj",
+    "col": "study",
+    "cpos": "n"
+  },
+  {
+    "word": "data gathering",
+    "head": "data",
+    "hpos": "n",
+    "col": "gathering",
+    "cpos": "n"
+  },
+  {
+    "word": "data set",
+    "head": "data",
+    "hpos": "n",
+    "col": "set",
+    "cpos": "n"
+  },
+  {
+    "word": "develop a method",
+    "head": "develop",
+    "hpos": "v",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "develop a strategy",
+    "head": "develop",
+    "hpos": "v",
+    "col": "strategy",
+    "cpos": "n"
+  },
+  {
+    "word": "develop a technique",
+    "head": "develop",
+    "hpos": "v",
+    "col": "technique",
+    "cpos": "n"
+  },
+  {
+    "word": "develop a theory",
+    "head": "develop",
+    "hpos": "v",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "deem appropriate",
+    "head": "deem",
+    "hpos": "v",
+    "col": "appropriate",
+    "cpos": "adj"
+  },
+  {
+    "word": "deem necessary",
+    "head": "deem",
+    "hpos": "v",
+    "col": "necessary",
+    "cpos": "adj"
+  },
+  {
+    "word": "deeper level",
+    "head": "deeper",
+    "hpos": "adj",
+    "col": "level",
+    "cpos": "n"
+  },
+  {
+    "word": "differ considerably",
+    "head": "differ",
+    "hpos": "v",
+    "col": "considerably",
+    "cpos": "adv"
+  },
+  {
+    "word": "differ significantly",
+    "head": "differ",
+    "hpos": "v",
+    "col": "significantly",
+    "cpos": "adv"
+  },
+  {
+    "word": "differ widely",
+    "head": "differ",
+    "hpos": "v",
+    "col": "widely",
+    "cpos": "adv"
+  },
+  {
+    "word": "digital information",
+    "head": "digital",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "digital media",
+    "head": "digital",
+    "hpos": "adj",
+    "col": "media",
+    "cpos": "n"
+  },
+  {
+    "word": "digital technology",
+    "head": "digital",
+    "hpos": "adj",
+    "col": "technology",
+    "cpos": "n"
+  },
+  {
+    "word": "direct access",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "access",
+    "cpos": "n"
+  },
+  {
+    "word": "direct communication",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "communication",
+    "cpos": "n"
+  },
+  {
+    "word": "direct consequences",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "consequences",
+    "cpos": "n"
+  },
+  {
+    "word": "direct contact",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "contact",
+    "cpos": "n"
+  },
+  {
+    "word": "direct evidence",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "direct impact",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "impact",
+    "cpos": "n"
+  },
+  {
+    "word": "direct involvement",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "involvement",
+    "cpos": "n"
+  },
+  {
+    "word": "direct link",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "link",
+    "cpos": "n"
+  },
+  {
+    "word": "direct observation",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "observation",
+    "cpos": "n"
+  },
+  {
+    "word": "direct relationship",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "relationship",
+    "cpos": "n"
+  },
+  {
+    "word": "direct role",
+    "head": "direct",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "directly affect",
+    "head": "directly",
+    "hpos": "adv",
+    "col": "affect",
+    "cpos": "v"
+  },
+  {
+    "word": "directly affected",
+    "head": "directly",
+    "hpos": "adv",
+    "col": "affected",
+    "cpos": "vpp"
+  },
+  {
+    "word": "defining characteristic",
+    "head": "defining",
+    "hpos": "adj",
+    "col": "characteristic",
+    "cpos": "n"
+  },
+  {
+    "word": "defining concept",
+    "head": "defining",
+    "hpos": "adj",
+    "col": "concept",
+    "cpos": "n"
+  },
+  {
+    "word": "defining feature",
+    "head": "defining",
+    "hpos": "adj",
+    "col": "feature",
+    "cpos": "n"
+  },
+  {
+    "word": "deliberate attempt",
+    "head": "deliberate",
+    "hpos": "adj",
+    "col": "attempt",
+    "cpos": "n"
+  },
+  {
+    "word": "democratic institution",
+    "head": "democratic",
+    "hpos": "adj",
+    "col": "institution",
+    "cpos": "n"
+  },
+  {
+    "word": "democratic process",
+    "head": "democratic",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "democratic society",
+    "head": "democratic",
+    "hpos": "adj",
+    "col": "society",
+    "cpos": "n"
+  },
+  {
+    "word": "democratic state",
+    "head": "democratic",
+    "hpos": "adj",
+    "col": "state",
+    "cpos": "n"
+  },
+  {
+    "word": "demographic change",
+    "head": "demographic",
+    "hpos": "adj",
+    "col": "change",
+    "cpos": "n"
+  },
+  {
+    "word": "demographic characteristics",
+    "head": "demographic",
+    "hpos": "adj",
+    "col": "characteristics",
+    "cpos": "n"
+  },
+  {
+    "word": "demographic factor",
+    "head": "demographic",
+    "hpos": "adj",
+    "col": "factor",
+    "cpos": "n"
+  },
+  {
+    "word": "demonstrate a competence",
+    "head": "demonstrate",
+    "hpos": "v",
+    "col": "competence",
+    "cpos": "n"
+  },
+  {
+    "word": "densely populated",
+    "head": "densely",
+    "hpos": "adv",
+    "col": "populated",
+    "cpos": "vpp"
+  },
+  {
+    "word": "dependent variable",
+    "head": "dependent",
+    "hpos": "adj",
+    "col": "variable",
+    "cpos": "n"
+  },
+  {
+    "word": "describe a method",
+    "head": "describe",
+    "hpos": "v",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "describe a process",
+    "head": "describe",
+    "hpos": "v",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "describe a procedure",
+    "head": "describe",
+    "hpos": "v",
+    "col": "procedure",
+    "cpos": "n"
+  },
+  {
+    "word": "descriptive statistics",
+    "head": "descriptive",
+    "hpos": "adj",
+    "col": "statistics",
+    "cpos": "n"
+  },
+  {
+    "word": "desired outcome",
+    "head": "desired",
+    "hpos": "adj",
+    "col": "outcome",
+    "cpos": "n"
+  },
+  {
+    "word": "disclose information",
+    "head": "disclose",
+    "hpos": "v",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "discuss a topic",
+    "head": "discuss",
+    "hpos": "v",
+    "col": "topic",
+    "cpos": "n"
+  },
+  {
+    "word": "driving force",
+    "head": "driving",
+    "hpos": "adj",
+    "col": "force",
+    "cpos": "n"
+  },
+  {
+    "word": "disposable income",
+    "head": "disposable",
+    "hpos": "adj",
+    "col": "income",
+    "cpos": "n"
+  },
+  {
+    "word": "due process",
+    "head": "due",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "distinct group",
+    "head": "distinct",
+    "hpos": "adj",
+    "col": "group",
+    "cpos": "n"
+  },
+  {
+    "word": "distinct type",
+    "head": "distinct",
+    "hpos": "adj",
+    "col": "type",
+    "cpos": "n"
+  },
+  {
+    "word": "distinguishing feature",
+    "head": "distinguishing",
+    "hpos": "adj",
+    "col": "feature",
+    "cpos": "n"
+  },
+  {
+    "word": "dividing line",
+    "head": "dividing",
+    "hpos": "adj",
+    "col": "line",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary evidence",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary earlier",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "earlier",
+    "cpos": "adj"
+  },
+  {
+    "word": "documentary discussion",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "discussion",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary period",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "period",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary research",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary stage",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "stage",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary study",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "study",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary times",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "times",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary version",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "version",
+    "cpos": "n"
+  },
+  {
+    "word": "documentary work",
+    "head": "documentary",
+    "hpos": "adj",
+    "col": "work",
+    "cpos": "n"
+  },
+  {
+    "word": "easily accessible",
+    "head": "easily",
+    "hpos": "adv",
+    "col": "accessible",
+    "cpos": "adj"
+  },
+  {
+    "word": "easily identified",
+    "head": "easily",
+    "hpos": "adv",
+    "col": "identified",
+    "cpos": "vpp"
+  },
+  {
+    "word": "easily understood",
+    "head": "easily",
+    "hpos": "adv",
+    "col": "understood",
+    "cpos": "vpp"
+  },
+  {
+    "word": "easy access",
+    "head": "easy",
+    "hpos": "adj",
+    "col": "access",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant culture",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "culture",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant discourse",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "discourse",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant form",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "form",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant group",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "group",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant ideology",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "ideology",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant paradigm",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "paradigm",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant position",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "position",
+    "cpos": "n"
+  },
+  {
+    "word": "dominant role",
+    "head": "dominant",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "dramatic change",
+    "head": "dramatic",
+    "hpos": "adj",
+    "col": "change",
+    "cpos": "n"
+  },
+  {
+    "word": "dramatic effect",
+    "head": "dramatic",
+    "hpos": "adj",
+    "col": "effect",
+    "cpos": "n"
+  },
+  {
+    "word": "dramatic increase",
+    "head": "dramatic",
+    "hpos": "adj",
+    "col": "increase",
+    "cpos": "n"
+  },
+  {
+    "word": "effective communication",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "communication",
+    "cpos": "n"
+  },
+  {
+    "word": "effective implementation",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "implementation",
+    "cpos": "n"
+  },
+  {
+    "word": "effective intervention",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "intervention",
+    "cpos": "n"
+  },
+  {
+    "word": "effective management",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "management",
+    "cpos": "n"
+  },
+  {
+    "word": "effective method",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "effective participation",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "participation",
+    "cpos": "n"
+  },
+  {
+    "word": "effective policy",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "policy",
+    "cpos": "n"
+  },
+  {
+    "word": "effective treatment",
+    "head": "effective",
+    "hpos": "adj",
+    "col": "treatment",
+    "cpos": "n"
+  },
+  {
+    "word": "electronic access",
+    "head": "electronic",
+    "hpos": "adj",
+    "col": "access",
+    "cpos": "n"
+  },
+  {
+    "word": "electronic communication",
+    "head": "electronic",
+    "hpos": "adj",
+    "col": "communication",
+    "cpos": "n"
+  },
+  {
+    "word": "electronic media",
+    "head": "electronic",
+    "hpos": "adj",
+    "col": "media",
+    "cpos": "n"
+  },
+  {
+    "word": "electronic resources",
+    "head": "electronic",
+    "hpos": "adj",
+    "col": "resources",
+    "cpos": "n"
+  },
+  {
+    "word": "electronic version",
+    "head": "electronic",
+    "hpos": "adj",
+    "col": "version",
+    "cpos": "n"
+  },
+  {
+    "word": "emotional impact",
+    "head": "emotional",
+    "hpos": "adj",
+    "col": "impact",
+    "cpos": "n"
+  },
+  {
+    "word": "emotional intelligence",
+    "head": "emotional",
+    "hpos": "adj",
+    "col": "intelligence",
+    "cpos": "n"
+  },
+  {
+    "word": "emotional reaction",
+    "head": "emotional",
+    "hpos": "adj",
+    "col": "reaction",
+    "cpos": "n"
+  },
+  {
+    "word": "emotional response",
+    "head": "emotional",
+    "hpos": "adj",
+    "col": "response",
+    "cpos": "n"
+  },
+  {
+    "word": "emotional support",
+    "head": "emotional",
+    "hpos": "adj",
+    "col": "support",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical data",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "data",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical evidence",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "evidence",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical investigation",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "investigation",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical research",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical study",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "study",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical support",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "support",
+    "cpos": "n"
+  },
+  {
+    "word": "empirical work",
+    "head": "empirical",
+    "hpos": "adj",
+    "col": "work",
+    "cpos": "n"
+  },
+  {
+    "word": "employ a method",
+    "head": "employ",
+    "hpos": "v",
+    "col": "method",
+    "cpos": "n"
+  },
+  {
+    "word": "employ a technique",
+    "head": "employ",
+    "hpos": "v",
+    "col": "technique",
+    "cpos": "n"
+  },
+  {
+    "word": "employment opportunities",
+    "head": "employment",
+    "hpos": "n",
+    "col": "opportunities",
+    "cpos": "n"
+  },
+  {
+    "word": "encounter difficulties",
+    "head": "encounter",
+    "hpos": "v",
+    "col": "difficulties",
+    "cpos": "n"
+  },
+  {
+    "word": "encounter problems",
+    "head": "encounter",
+    "hpos": "v",
+    "col": "problems",
+    "cpos": "n"
+  },
+  {
+    "word": "engage in an activity",
+    "head": "engage in",
+    "hpos": "v",
+    "col": "activity",
+    "cpos": "n"
+  },
+  {
+    "word": "enhance a learning",
+    "head": "enhance",
+    "hpos": "v",
+    "col": "learning",
+    "cpos": "n"
+  },
+  {
+    "word": "enhance a performance",
+    "head": "enhance",
+    "hpos": "v",
+    "col": "performance",
+    "cpos": "n"
+  },
+  {
+    "word": "entire period",
+    "head": "entire",
+    "hpos": "adj",
+    "col": "period",
+    "cpos": "n"
+  },
+  {
+    "word": "entirely clear",
+    "head": "entirely",
+    "hpos": "adv",
+    "col": "clear",
+    "cpos": "adj"
+  },
+  {
+    "word": "entirely different",
+    "head": "entirely",
+    "hpos": "adv",
+    "col": "different",
+    "cpos": "adj"
+  },
+  {
+    "word": "entirely new",
+    "head": "entirely",
+    "hpos": "adv",
+    "col": "new",
+    "cpos": "adj"
+  },
+  {
+    "word": "environmental changes",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "changes",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental concern",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "concern",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental consequences",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "consequences",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental damage",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "damage",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental degradation",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "degradation",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental effects",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "effects",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental factors",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "factors",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental impact",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "impact",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental issues",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "issues",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental policy",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "policy",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental pollution",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "pollution",
+    "cpos": "n"
+  },
+  {
+    "word": "environmental protection",
+    "head": "environmental",
+    "hpos": "adj",
+    "col": "protection",
+    "cpos": "n"
+  },
+  {
+    "word": "ever changing",
+    "head": "ever",
+    "hpos": "adv",
+    "col": "changing",
+    "cpos": "adj"
+  },
+  {
+    "word": "ever increasing",
+    "head": "ever",
+    "hpos": "adv",
+    "col": "increasing",
+    "cpos": "adj"
+  },
+  {
+    "word": "evolutionary process",
+    "head": "evolutionary",
+    "hpos": "adj",
+    "col": "process",
+    "cpos": "n"
+  },
+  {
+    "word": "evolutionary theory",
+    "head": "evolutionary",
+    "hpos": "adj",
+    "col": "theory",
+    "cpos": "n"
+  },
+  {
+    "word": "exceptional case",
+    "head": "exceptional",
+    "hpos": "adj",
+    "col": "case",
+    "cpos": "n"
+  },
+  {
+    "word": "exceptional circumstances",
+    "head": "exceptional",
+    "hpos": "adj",
+    "col": "circumstances",
+    "cpos": "n"
+  },
+  {
+    "word": "exercise an authority",
+    "head": "exercise",
+    "hpos": "v",
+    "col": "authority",
+    "cpos": "n"
+  },
+  {
+    "word": "existing data",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "data",
+    "cpos": "n"
+  },
+  {
+    "word": "existing research",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "research",
+    "cpos": "n"
+  },
+  {
+    "word": "existing structure",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "structure",
+    "cpos": "n"
+  },
+  {
+    "word": "existing equally",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "equally",
+    "cpos": "adv"
+  },
+  {
+    "word": "existing important",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "important",
+    "cpos": "adj"
+  },
+  {
+    "word": "existing likely",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "likely",
+    "cpos": "adj"
+  },
+  {
+    "word": "existing true",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "true",
+    "cpos": "adj"
+  },
+  {
+    "word": "existing valid",
+    "head": "existing",
+    "hpos": "adj",
+    "col": "valid",
+    "cpos": "adj"
+  },
+  {
+    "word": "expand rapidly",
+    "head": "expand",
+    "hpos": "v",
+    "col": "rapidly",
+    "cpos": "adv"
+  },
+  {
+    "word": "essential component",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "component",
+    "cpos": "n"
+  },
+  {
+    "word": "essential element",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "element",
+    "cpos": "n"
+  },
+  {
+    "word": "essential feature",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "feature",
+    "cpos": "n"
+  },
+  {
+    "word": "essential function",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "function",
+    "cpos": "n"
+  },
+  {
+    "word": "essential information",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "information",
+    "cpos": "n"
+  },
+  {
+    "word": "essential role",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "role",
+    "cpos": "n"
+  },
+  {
+    "word": "essential experience",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "experience",
+    "cpos": "v"
+  },
+  {
+    "word": "essential difficulties",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "difficulties",
+    "cpos": "n"
+  },
+  {
+    "word": "essential problems",
+    "head": "essential",
+    "hpos": "adj",
+    "col": "problems",
+    "cpos": "n"
+  },
+  {
+    "word": "experiential learning",
+    "head": "experiential",
+    "hpos": "adj",
+    "col": "learning",
+    "cpos": "n"
+  }
+]
