@@ -256,18 +256,25 @@
     });
   }
 
+  var RANK_LABELS = { core: 'Ядро', useful: 'Полезно', rare: 'Редкое' };
+
   function renderMeta(card) {
     var host = els.cardMeta;
     host.innerHTML = '';
+    var has = false;
+    var rank = card.rank;
+    if (rank && RANK_LABELS[rank]) {
+      var chip = document.createElement('span');
+      chip.className = 'rank-chip rank-' + rank;
+      chip.textContent = RANK_LABELS[rank];
+      chip.title = rank;
+      host.appendChild(chip);
+      has = true;
+    }
     var bits = [];
     if (card.pattern) bits.push({ k: 'frame', v: card.pattern });
     if (card.syn) bits.push({ k: 'syn', v: card.syn });
     if (card.ant) bits.push({ k: 'ant', v: card.ant });
-    if (!bits.length) {
-      host.classList.add('hidden');
-      return;
-    }
-    host.classList.remove('hidden');
     bits.forEach(function (b) {
       var span = document.createElement('span');
       span.className = 'meta-bit meta-' + b.k;
@@ -276,7 +283,9 @@
       span.appendChild(lab);
       span.appendChild(document.createTextNode(' ' + b.v));
       host.appendChild(span);
+      has = true;
     });
+    host.classList.toggle('hidden', !has);
   }
 
   function renderLinks(card) {
