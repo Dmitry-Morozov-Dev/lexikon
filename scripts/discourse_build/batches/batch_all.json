@@ -1,0 +1,4240 @@
+[
+  {
+    "word": "however",
+    "lemma": "however",
+    "ipa": "/ˌhaʊˈɛvər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "однако; тем не менее",
+    "examples": [
+      {
+        "en": "The plan is sound; however, risks remain.",
+        "ru": "План хорош; однако риски остаются."
+      },
+      {
+        "en": "However, we delayed the release.",
+        "ru": "Однако мы отложили релиз."
+      },
+      {
+        "en": "Results improved; however, costs rose.",
+        "ru": "Результаты выросли; однако выросли и затраты."
+      }
+    ],
+    "colloc": "however",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "furthermore",
+    "lemma": "furthermore",
+    "ipa": "/ˈfərðərˌmɔr/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "более того",
+    "examples": [
+      {
+        "en": "Furthermore, the data support our claim.",
+        "ru": "Более того, данные подтверждают тезис."
+      },
+      {
+        "en": "The method is cheap; furthermore, it scales.",
+        "ru": "Метод дёшев; более того, он масштабируется."
+      },
+      {
+        "en": "Furthermore, users reported fewer bugs.",
+        "ru": "Более того, пользователи сообщили о меньшем числе багов."
+      }
+    ],
+    "colloc": "furthermore",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "moreover",
+    "lemma": "moreover",
+    "ipa": "/mɔˈroʊvər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "кроме того",
+    "examples": [
+      {
+        "en": "Moreover, latency dropped by 20%.",
+        "ru": "Кроме того, задержка упала на 20%."
+      },
+      {
+        "en": "The design is clear; moreover, it is testable.",
+        "ru": "Дизайн ясен; кроме того, он тестируем."
+      },
+      {
+        "en": "Moreover, training is included.",
+        "ru": "Кроме того, обучение включено."
+      }
+    ],
+    "colloc": "moreover",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "therefore",
+    "lemma": "therefore",
+    "ipa": "/ˈðɛrˌfɔr/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "поэтому; следовательно",
+    "examples": [
+      {
+        "en": "Traffic spiked; therefore, we scaled out.",
+        "ru": "Трафик вырос; поэтому мы масштабировались."
+      },
+      {
+        "en": "Therefore, the hypothesis holds.",
+        "ru": "Следовательно, гипотеза верна."
+      },
+      {
+        "en": "Errors rose; therefore, we rolled back.",
+        "ru": "Ошибки выросли; поэтому мы откатились."
+      }
+    ],
+    "colloc": "therefore",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thus",
+    "lemma": "thus",
+    "ipa": "/ðəs/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "таким образом",
+    "examples": [
+      {
+        "en": "Thus, the model generalizes well.",
+        "ru": "Таким образом, модель хорошо обобщается."
+      },
+      {
+        "en": "Costs fell; thus, margins improved.",
+        "ru": "Затраты упали; таким образом, маржа выросла."
+      },
+      {
+        "en": "Thus, we reject the null.",
+        "ru": "Таким образом, мы отвергаем нулевую гипотезу."
+      }
+    ],
+    "colloc": "thus",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "hence",
+    "lemma": "hence",
+    "ipa": "/hɛns/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "отсюда; следовательно",
+    "examples": [
+      {
+        "en": "Hence the need for backups.",
+        "ru": "Отсюда необходимость бэкапов."
+      },
+      {
+        "en": "Demand rose; hence higher prices.",
+        "ru": "Спрос вырос; отсюда более высокие цены."
+      },
+      {
+        "en": "Hence, we revised the protocol.",
+        "ru": "Следовательно, мы пересмотрели протокол."
+      }
+    ],
+    "colloc": "hence",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "consequently",
+    "lemma": "consequently",
+    "ipa": "/ˈkɑnsəkˌwɛntli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "вследствие этого",
+    "examples": [
+      {
+        "en": "The disk filled; consequently, writes failed.",
+        "ru": "Диск заполнился; вследствие этого записи падали."
+      },
+      {
+        "en": "Consequently, the team hired two engineers.",
+        "ru": "Вследствие этого команда наняла двух инженеров."
+      },
+      {
+        "en": "Services lagged; consequently, alerts fired.",
+        "ru": "Сервисы тормозили; вследствие этого сработали алерты."
+      }
+    ],
+    "colloc": "consequently",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "nevertheless",
+    "lemma": "nevertheless",
+    "ipa": "/ˌnɛvərðəˈlɛs/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "тем не менее",
+    "examples": [
+      {
+        "en": "The task is hard; nevertheless, we proceed.",
+        "ru": "Задача трудна; тем не менее мы продолжаем."
+      },
+      {
+        "en": "Nevertheless, quality stayed high.",
+        "ru": "Тем не менее качество осталось высоким."
+      },
+      {
+        "en": "Funds are limited; nevertheless, we ship.",
+        "ru": "Средства ограничены; тем не менее мы выкатываем."
+      }
+    ],
+    "colloc": "nevertheless",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "nonetheless",
+    "lemma": "nonetheless",
+    "ipa": "/ˌnənðəˈlɛs/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "тем не менее",
+    "examples": [
+      {
+        "en": "Nonetheless, the pilot succeeded.",
+        "ru": "Тем не менее пилот удался."
+      },
+      {
+        "en": "The sample is small; nonetheless, trends appear.",
+        "ru": "Выборка мала; тем не менее тренды видны."
+      },
+      {
+        "en": "Nonetheless, we recommend caution.",
+        "ru": "Тем не менее рекомендуем осторожность."
+      }
+    ],
+    "colloc": "nonetheless",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "meanwhile",
+    "lemma": "meanwhile",
+    "ipa": "/ˈminˌwaɪl/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "тем временем",
+    "examples": [
+      {
+        "en": "Meanwhile, ops monitored the cluster.",
+        "ru": "Тем временем ops следили за кластером."
+      },
+      {
+        "en": "Deploy the fix; meanwhile, notify users.",
+        "ru": "Выкатывай фикс; тем временем уведоми пользователей."
+      },
+      {
+        "en": "Meanwhile, legal reviewed the contract.",
+        "ru": "Тем временем юристы смотрели контракт."
+      }
+    ],
+    "colloc": "meanwhile",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in addition",
+    "lemma": "in addition",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в дополнение",
+    "examples": [
+      {
+        "en": "In addition, we added metrics.",
+        "ru": "В дополнение мы добавили метрики."
+      },
+      {
+        "en": "The API is fast; in addition, it is documented.",
+        "ru": "API быстрый; в дополнение он задокументирован."
+      },
+      {
+        "en": "In addition to tests, run lint.",
+        "ru": "В дополнение к тестам запусти линтер."
+      }
+    ],
+    "colloc": "in addition",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in contrast",
+    "lemma": "in contrast",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в отличие; напротив",
+    "examples": [
+      {
+        "en": "In contrast, the control group failed.",
+        "ru": "В отличие от этого контрольная группа провалилась."
+      },
+      {
+        "en": "Prod is stable; in contrast, staging flakes.",
+        "ru": "Прод стабилен; напротив, стейджинг нестабилен."
+      },
+      {
+        "en": "In contrast to last year, revenue grew.",
+        "ru": "В отличие от прошлого года выручка выросла."
+      }
+    ],
+    "colloc": "in contrast",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "on the other hand",
+    "lemma": "on the other hand",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с другой стороны",
+    "examples": [
+      {
+        "en": "On the other hand, costs may rise.",
+        "ru": "С другой стороны, затраты могут вырасти."
+      },
+      {
+        "en": "Cloud is flexible; on the other hand, bills surprise.",
+        "ru": "Облако гибкое; с другой стороны, счета удивляют."
+      },
+      {
+        "en": "On the other hand, on-prem gives control.",
+        "ru": "С другой стороны, on-prem даёт контроль."
+      }
+    ],
+    "colloc": "on the other hand",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "on the one hand",
+    "lemma": "on the one hand",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с одной стороны",
+    "examples": [
+      {
+        "en": "On the one hand, speed matters.",
+        "ru": "С одной стороны, важна скорость."
+      },
+      {
+        "en": "On the one hand we need features; on the other, stability.",
+        "ru": "С одной стороны нужны фичи; с другой — стабильность."
+      },
+      {
+        "en": "On the one hand, the patch is small.",
+        "ru": "С одной стороны, патч маленький."
+      }
+    ],
+    "colloc": "on the one hand",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "for example",
+    "lemma": "for example",
+    "ipa": "/fər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "например",
+    "examples": [
+      {
+        "en": "Use caching, for example Redis.",
+        "ru": "Используй кэш, например Redis."
+      },
+      {
+        "en": "For example, retry with backoff.",
+        "ru": "Например, повторяй с backoff."
+      },
+      {
+        "en": "Many tools exist — for example, Terraform.",
+        "ru": "Есть много инструментов — например, Terraform."
+      }
+    ],
+    "colloc": "for example",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "for instance",
+    "lemma": "for instance",
+    "ipa": "/fər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "к примеру",
+    "examples": [
+      {
+        "en": "For instance, rotate keys quarterly.",
+        "ru": "К примеру, ротируй ключи раз в квартал."
+      },
+      {
+        "en": "Take logs, for instance.",
+        "ru": "Возьми логи, к примеру."
+      },
+      {
+        "en": "For instance, prefer immutable images.",
+        "ru": "К примеру, предпочитай неизменяемые образы."
+      }
+    ],
+    "colloc": "for instance",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in particular",
+    "lemma": "in particular",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в частности",
+    "examples": [
+      {
+        "en": "In particular, watch memory.",
+        "ru": "В частности, следи за памятью."
+      },
+      {
+        "en": "The outage hurt EU, in particular.",
+        "ru": "Авария задела в частности ЕС."
+      },
+      {
+        "en": "In particular, auth must be audited.",
+        "ru": "В частности, auth нужно аудитить."
+      }
+    ],
+    "colloc": "in particular",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "specifically",
+    "lemma": "specifically",
+    "ipa": "/spəˈsɪfɪkli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "конкретно; в особенности",
+    "examples": [
+      {
+        "en": "Specifically, fix the race.",
+        "ru": "Конкретно исправь гонку."
+      },
+      {
+        "en": "We need help, specifically on networking.",
+        "ru": "Нужна помощь, конкретно по сетям."
+      },
+      {
+        "en": "Specifically, avoid hard-coded secrets.",
+        "ru": "Конкретно избегай захардкоженных секретов."
+      }
+    ],
+    "colloc": "specifically",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in other words",
+    "lemma": "in other words",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "иначе говоря",
+    "examples": [
+      {
+        "en": "In other words, scale horizontally.",
+        "ru": "Иначе говоря, масштабируйся горизонтально."
+      },
+      {
+        "en": "The disk is full — in other words, writes fail.",
+        "ru": "Диск полон — иначе говоря, записи падают."
+      },
+      {
+        "en": "In other words, we lack capacity.",
+        "ru": "Иначе говоря, не хватает ёмкости."
+      }
+    ],
+    "colloc": "in other words",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "that is",
+    "lemma": "that is",
+    "ipa": "/ðət/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "то есть",
+    "examples": [
+      {
+        "en": "Use IaC, that is, code for infra.",
+        "ru": "Используй IaC, то есть код для инфры."
+      },
+      {
+        "en": "Cut MTTR, that is, repair time.",
+        "ru": "Сократи MTTR, то есть время ремонта."
+      },
+      {
+        "en": "Prefer SSO, that is, single sign-on.",
+        "ru": "Предпочитай SSO, то есть единый вход."
+      }
+    ],
+    "colloc": "that is",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "namely",
+    "lemma": "namely",
+    "ipa": "/ˈneɪmli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "а именно",
+    "examples": [
+      {
+        "en": "Two risks, namely cost and lock-in.",
+        "ru": "Два риска, а именно стоимость и lock-in."
+      },
+      {
+        "en": "We missed one gate, namely security review.",
+        "ru": "Мы пропустили один гейт, а именно security review."
+      },
+      {
+        "en": "Namely, the API contract broke.",
+        "ru": "А именно, сломался контракт API."
+      }
+    ],
+    "colloc": "namely",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as a result",
+    "lemma": "as a result",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в результате",
+    "examples": [
+      {
+        "en": "As a result, uptime improved.",
+        "ru": "В результате аптайм вырос."
+      },
+      {
+        "en": "We patched; as a result, CVEs closed.",
+        "ru": "Мы пропатчили; в результате CVE закрыты."
+      },
+      {
+        "en": "As a result of the merge, tests failed.",
+        "ru": "В результате мержа тесты упали."
+      }
+    ],
+    "colloc": "as a result",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as a consequence",
+    "lemma": "as a consequence",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "как следствие",
+    "examples": [
+      {
+        "en": "As a consequence, traffic shifted.",
+        "ru": "Как следствие, трафик сместился."
+      },
+      {
+        "en": "Keys leaked; as a consequence, we rotated.",
+        "ru": "Ключи утекли; как следствие, мы ротировали."
+      },
+      {
+        "en": "As a consequence, trust dropped.",
+        "ru": "Как следствие, доверие упало."
+      }
+    ],
+    "colloc": "as a consequence",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "for this reason",
+    "lemma": "for this reason",
+    "ipa": "/fər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "по этой причине",
+    "examples": [
+      {
+        "en": "For this reason, we encrypt at rest.",
+        "ru": "По этой причине шифруем at rest."
+      },
+      {
+        "en": "Latency hurt UX; for this reason, we cached.",
+        "ru": "Задержка била по UX; по этой причине мы закэшировали."
+      },
+      {
+        "en": "For this reason, rollbacks are mandatory.",
+        "ru": "По этой причине откаты обязательны."
+      }
+    ],
+    "colloc": "for this reason",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "because of this",
+    "lemma": "because of this",
+    "ipa": "/bɪˈkəz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "из-за этого",
+    "examples": [
+      {
+        "en": "Because of this, alerts spiked.",
+        "ru": "Из-за этого алерты взлетели."
+      },
+      {
+        "en": "The bug slipped; because of this, users churned.",
+        "ru": "Баг проскочил; из-за этого пользователи ушли."
+      },
+      {
+        "en": "Because of this change, rebuild images.",
+        "ru": "Из-за этого изменения пересобери образы."
+      }
+    ],
+    "colloc": "because of this",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in conclusion",
+    "lemma": "in conclusion",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в заключение",
+    "examples": [
+      {
+        "en": "In conclusion, migrate gradually.",
+        "ru": "В заключение: мигрируй постепенно."
+      },
+      {
+        "en": "In conclusion, the hypothesis holds.",
+        "ru": "В заключение гипотеза подтверждается."
+      },
+      {
+        "en": "In conclusion, invest in observability.",
+        "ru": "В заключение инвестируй в observability."
+      }
+    ],
+    "colloc": "in conclusion",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to summarize",
+    "lemma": "to summarize",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "подводя итог",
+    "examples": [
+      {
+        "en": "To summarize, we need redundancy.",
+        "ru": "Подводя итог, нужна избыточность."
+      },
+      {
+        "en": "To summarize the postmortem: improve runbooks.",
+        "ru": "Подводя итог разбора: улучши runbook'и."
+      },
+      {
+        "en": "To summarize, ship smaller changes.",
+        "ru": "Подводя итог, выкатывай меньшие изменения."
+      }
+    ],
+    "colloc": "to summarize",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to sum up",
+    "lemma": "to sum up",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "суммируя",
+    "examples": [
+      {
+        "en": "To sum up, prefer automation.",
+        "ru": "Суммируя, предпочитай автоматизацию."
+      },
+      {
+        "en": "To sum up the quarter: grow carefully.",
+        "ru": "Суммируя квартал: расти осторожно."
+      },
+      {
+        "en": "To sum up, tests saved us.",
+        "ru": "Суммируя, тесты нас спасли."
+      }
+    ],
+    "colloc": "to sum up",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "overall",
+    "lemma": "overall",
+    "ipa": "/ˈoʊvərˌɔl/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в целом",
+    "examples": [
+      {
+        "en": "Overall, the system is healthy.",
+        "ru": "В целом система здорова."
+      },
+      {
+        "en": "Overall performance meets SLO.",
+        "ru": "В целом производительность укладывается в SLO."
+      },
+      {
+        "en": "Overall, the migration succeeded.",
+        "ru": "В целом миграция удалась."
+      }
+    ],
+    "colloc": "overall",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in summary",
+    "lemma": "in summary",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "кратко",
+    "examples": [
+      {
+        "en": "In summary, encrypt and monitor.",
+        "ru": "Кратко: шифруй и мониторь."
+      },
+      {
+        "en": "In summary, the RFC is approved.",
+        "ru": "Кратко: RFC одобрен."
+      },
+      {
+        "en": "In summary, reduce blast radius.",
+        "ru": "Кратко: уменьши blast radius."
+      }
+    ],
+    "colloc": "in summary",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "firstly",
+    "lemma": "firstly",
+    "ipa": "/ˈfərstli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "во-первых",
+    "examples": [
+      {
+        "en": "Firstly, define SLOs.",
+        "ru": "Во-первых, определи SLO."
+      },
+      {
+        "en": "Firstly, inventory assets.",
+        "ru": "Во-первых, проведи инвентаризацию."
+      },
+      {
+        "en": "Firstly, fix critical CVEs.",
+        "ru": "Во-первых, закрой критические CVE."
+      }
+    ],
+    "colloc": "firstly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "secondly",
+    "lemma": "secondly",
+    "ipa": "/ˈsɛkəndli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "во-вторых",
+    "examples": [
+      {
+        "en": "Secondly, automate backups.",
+        "ru": "Во-вторых, автоматизируй бэкапы."
+      },
+      {
+        "en": "Secondly, train the team.",
+        "ru": "Во-вторых, обучи команду."
+      },
+      {
+        "en": "Secondly, document the runbook.",
+        "ru": "Во-вторых, задокументируй runbook."
+      }
+    ],
+    "colloc": "secondly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thirdly",
+    "lemma": "thirdly",
+    "ipa": "/ˈθərdli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в-третьих",
+    "examples": [
+      {
+        "en": "Thirdly, rehearse restores.",
+        "ru": "В-третьих, отрепетируй восстановления."
+      },
+      {
+        "en": "Thirdly, review IAM.",
+        "ru": "В-третьих, проверь IAM."
+      },
+      {
+        "en": "Thirdly, measure MTTR.",
+        "ru": "В-третьих, измерь MTTR."
+      }
+    ],
+    "colloc": "thirdly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "finally",
+    "lemma": "finally",
+    "ipa": "/ˈfaɪnəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "наконец",
+    "examples": [
+      {
+        "en": "Finally, enable alerting.",
+        "ru": "Наконец, включи алертинг."
+      },
+      {
+        "en": "Finally, we shipped.",
+        "ru": "Наконец мы выкатили."
+      },
+      {
+        "en": "Finally, share the lessons.",
+        "ru": "Наконец, поделись уроками."
+      }
+    ],
+    "colloc": "finally",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "next",
+    "lemma": "next",
+    "ipa": "/nɛkst/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "далее",
+    "examples": [
+      {
+        "en": "Next, update the firewall.",
+        "ru": "Далее обнови файрвол."
+      },
+      {
+        "en": "Build the image; next, push it.",
+        "ru": "Собери образ; далее запушь."
+      },
+      {
+        "en": "Next, verify DNS.",
+        "ru": "Далее проверь DNS."
+      }
+    ],
+    "colloc": "next",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "then",
+    "lemma": "then",
+    "ipa": "/ðɛn/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "затем",
+    "examples": [
+      {
+        "en": "Deploy; then, watch metrics.",
+        "ru": "Задеплой; затем смотри метрики."
+      },
+      {
+        "en": "Then restart the service.",
+        "ru": "Затем перезапусти сервис."
+      },
+      {
+        "en": "Backup, then upgrade.",
+        "ru": "Сначала бэкап, затем апгрейд."
+      }
+    ],
+    "colloc": "then",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "afterward",
+    "lemma": "afterward",
+    "ipa": "/ˈæftərwərd/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "после этого",
+    "examples": [
+      {
+        "en": "Afterward, write the postmortem.",
+        "ru": "После этого напиши разбор."
+      },
+      {
+        "en": "We migrated; afterward, traffic normalized.",
+        "ru": "Мы мигрировали; после этого трафик нормализовался."
+      },
+      {
+        "en": "Afterward, archive the logs.",
+        "ru": "После этого заархивируй логи."
+      }
+    ],
+    "colloc": "afterward",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "subsequently",
+    "lemma": "subsequently",
+    "ipa": "/ˈsəbsəkwəntli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "впоследствии",
+    "examples": [
+      {
+        "en": "Subsequently, we tightened policies.",
+        "ru": "Впоследствии мы ужесточили политики."
+      },
+      {
+        "en": "The CVE was disclosed; subsequently, patches landed.",
+        "ru": "CVE раскрыли; впоследствии вышли патчи."
+      },
+      {
+        "en": "Subsequently, audits passed.",
+        "ru": "Впоследствии аудиты прошли."
+      }
+    ],
+    "colloc": "subsequently",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "previously",
+    "lemma": "previously",
+    "ipa": "/ˈpriviəsli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "ранее",
+    "examples": [
+      {
+        "en": "Previously, we used VMs.",
+        "ru": "Ранее мы использовали VM."
+      },
+      {
+        "en": "Previously reported bugs resurfaced.",
+        "ru": "Ранее заявленные баги всплыли снова."
+      },
+      {
+        "en": "Previously, deploys were manual.",
+        "ru": "Ранее деплои были ручными."
+      }
+    ],
+    "colloc": "previously",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "initially",
+    "lemma": "initially",
+    "ipa": "/ˌɪˈnɪʃəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "изначально",
+    "examples": [
+      {
+        "en": "Initially, the cluster was small.",
+        "ru": "Изначально кластер был маленьким."
+      },
+      {
+        "en": "Initially we underestimated load.",
+        "ru": "Изначально мы недооценили нагрузку."
+      },
+      {
+        "en": "Initially, only staging broke.",
+        "ru": "Изначально сломался только стейджинг."
+      }
+    ],
+    "colloc": "initially",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "eventually",
+    "lemma": "eventually",
+    "ipa": "/ɪˈvɛnʧəwəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в конце концов",
+    "examples": [
+      {
+        "en": "Eventually, the queue drained.",
+        "ru": "В конце концов очередь опустела."
+      },
+      {
+        "en": "Eventually we found the leak.",
+        "ru": "В конце концов нашли утечку."
+      },
+      {
+        "en": "Eventually, automation paid off.",
+        "ru": "В конце концов автоматизация окупилась."
+      }
+    ],
+    "colloc": "eventually",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "gradually",
+    "lemma": "gradually",
+    "ipa": "/ˈgræʤuəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "постепенно",
+    "examples": [
+      {
+        "en": "Migrate gradually to the new stack.",
+        "ru": "Мигрируй постепенно на новый стек."
+      },
+      {
+        "en": "Gradually raise the traffic share.",
+        "ru": "Постепенно повышай долю трафика."
+      },
+      {
+        "en": "Errors fell gradually.",
+        "ru": "Ошибки падали постепенно."
+      }
+    ],
+    "colloc": "gradually",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "similarly",
+    "lemma": "similarly",
+    "ipa": "/ˈsɪmələrli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "аналогично",
+    "examples": [
+      {
+        "en": "Similarly, cache DNS results.",
+        "ru": "Аналогично кэшируй результаты DNS."
+      },
+      {
+        "en": "Region A recovered; similarly, B recovered.",
+        "ru": "Регион A восстановился; аналогично и B."
+      },
+      {
+        "en": "Similarly, rotate database passwords.",
+        "ru": "Аналогично ротируй пароли БД."
+      }
+    ],
+    "colloc": "similarly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "likewise",
+    "lemma": "likewise",
+    "ipa": "/ˈlaɪkˌwaɪz/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "точно так же",
+    "examples": [
+      {
+        "en": "Likewise, encrypt backups.",
+        "ru": "Точно так же шифруй бэкапы."
+      },
+      {
+        "en": "Prod is locked down; likewise, staging should be.",
+        "ru": "Прод закрыт; точно так же должен быть стейджинг."
+      },
+      {
+        "en": "Likewise, document failures.",
+        "ru": "Точно так же документируй сбои."
+      }
+    ],
+    "colloc": "likewise",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "equally",
+    "lemma": "equally",
+    "ipa": "/ˈikwəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в равной мере",
+    "examples": [
+      {
+        "en": "Equally important is observability.",
+        "ru": "В равной мере важна observability."
+      },
+      {
+        "en": "Security and UX are equally critical.",
+        "ru": "Безопасность и UX в равной мере критичны."
+      },
+      {
+        "en": "Equally, train on-call engineers.",
+        "ru": "В равной мере обучай дежурных."
+      }
+    ],
+    "colloc": "equally",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "by contrast",
+    "lemma": "by contrast",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "для сравнения; напротив",
+    "examples": [
+      {
+        "en": "By contrast, the legacy stack lagged.",
+        "ru": "Для сравнения легаси отставал."
+      },
+      {
+        "en": "SSD is fast; by contrast, HDD is slow.",
+        "ru": "SSD быстрый; напротив, HDD медленный."
+      },
+      {
+        "en": "By contrast with last week, errors fell.",
+        "ru": "По сравнению с прошлой неделей ошибки упали."
+      }
+    ],
+    "colloc": "by contrast",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "conversely",
+    "lemma": "conversely",
+    "ipa": "/ˈkɑnvərsli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "наоборот",
+    "examples": [
+      {
+        "en": "Conversely, less traffic means lower cost.",
+        "ru": "Наоборот, меньше трафика — ниже стоимость."
+      },
+      {
+        "en": "More replicas help; conversely, they cost more.",
+        "ru": "Больше реплик помогает; наоборот, они дороже."
+      },
+      {
+        "en": "Conversely, silent failures hide longer.",
+        "ru": "Наоборот, тихие сбои прячутся дольше."
+      }
+    ],
+    "colloc": "conversely",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "alternatively",
+    "lemma": "alternatively",
+    "ipa": "/ɔlˈtərnətɪvli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в качестве альтернативы",
+    "examples": [
+      {
+        "en": "Alternatively, use a managed service.",
+        "ru": "В качестве альтернативы используй managed-сервис."
+      },
+      {
+        "en": "Alternatively, roll forward with a fix.",
+        "ru": "Альтернативно — кати вперёд с фиксом."
+      },
+      {
+        "en": "Alternatively, postpone the cutover.",
+        "ru": "Альтернативно отложи cutover."
+      }
+    ],
+    "colloc": "alternatively",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "instead",
+    "lemma": "instead",
+    "ipa": "/ˌɪnˈstɛd/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "вместо этого",
+    "examples": [
+      {
+        "en": "Instead, use short-lived credentials.",
+        "ru": "Вместо этого используй короткоживущие креды."
+      },
+      {
+        "en": "Don't restart blindly; instead, inspect logs.",
+        "ru": "Не перезапускай вслепую; вместо этого смотри логи."
+      },
+      {
+        "en": "Instead of SSH, prefer SSM.",
+        "ru": "Вместо SSH предпочитай SSM."
+      }
+    ],
+    "colloc": "instead",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "rather",
+    "lemma": "rather",
+    "ipa": "/ˈrəðər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "скорее; лучше",
+    "examples": [
+      {
+        "en": "Rather, focus on root cause.",
+        "ru": "Скорее сосредоточься на корневой причине."
+      },
+      {
+        "en": "Use canaries rather than big bang.",
+        "ru": "Используй canary, а не big bang."
+      },
+      {
+        "en": "I'd rather fail small than fail big.",
+        "ru": "Лучше малый сбой, чем большой."
+      }
+    ],
+    "colloc": "rather",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in fact",
+    "lemma": "in fact",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "на самом деле",
+    "examples": [
+      {
+        "en": "In fact, the cache was cold.",
+        "ru": "На самом деле кэш был холодным."
+      },
+      {
+        "en": "In fact, we exceeded the SLO.",
+        "ru": "На самом деле мы превысили SLO."
+      },
+      {
+        "en": "The outage was short; in fact, under five minutes.",
+        "ru": "Авария была короткой; на самом деле меньше пяти минут."
+      }
+    ],
+    "colloc": "in fact",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "indeed",
+    "lemma": "indeed",
+    "ipa": "/ˌɪnˈdid/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "действительно",
+    "examples": [
+      {
+        "en": "Indeed, the patch resolved it.",
+        "ru": "Действительно, патч решил проблему."
+      },
+      {
+        "en": "The claim is bold; indeed, data support it.",
+        "ru": "Утверждение смелое; действительно, данные его поддерживают."
+      },
+      {
+        "en": "Indeed, automation reduced toil.",
+        "ru": "Действительно, автоматизация снизила рутину."
+      }
+    ],
+    "colloc": "indeed",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "of course",
+    "lemma": "of course",
+    "ipa": "/əv/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "разумеется",
+    "examples": [
+      {
+        "en": "Of course, back up first.",
+        "ru": "Разумеется, сначала сделай бэкап."
+      },
+      {
+        "en": "Of course we test restores.",
+        "ru": "Разумеется, мы тестируем восстановления."
+      },
+      {
+        "en": "Secrets must be rotated, of course.",
+        "ru": "Секреты, разумеется, нужно ротировать."
+      }
+    ],
+    "colloc": "of course",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "clearly",
+    "lemma": "clearly",
+    "ipa": "/ˈklɪrli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "очевидно",
+    "examples": [
+      {
+        "en": "Clearly, capacity was insufficient.",
+        "ru": "Очевидно, ёмкости не хватало."
+      },
+      {
+        "en": "The graph clearly shows a spike.",
+        "ru": "График явно показывает всплеск."
+      },
+      {
+        "en": "Clearly we need a runbook.",
+        "ru": "Очевидно, нужен runbook."
+      }
+    ],
+    "colloc": "clearly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "obviously",
+    "lemma": "obviously",
+    "ipa": "/ˈɑbviəsli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "очевидно",
+    "examples": [
+      {
+        "en": "Obviously, don't hard-code keys.",
+        "ru": "Очевидно, не хардкодь ключи."
+      },
+      {
+        "en": "Obviously the disk was full.",
+        "ru": "Очевидно, диск был полон."
+      },
+      {
+        "en": "Obviously, monitor after deploy.",
+        "ru": "Очевидно, мониторь после деплоя."
+      }
+    ],
+    "colloc": "obviously",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "admittedly",
+    "lemma": "admittedly",
+    "ipa": "/ædˈmɪtɪdli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "надо признать",
+    "examples": [
+      {
+        "en": "Admittedly, the design is complex.",
+        "ru": "Надо признать, дизайн сложный."
+      },
+      {
+        "en": "Admittedly we lacked tests.",
+        "ru": "Надо признать, тестов не хватало."
+      },
+      {
+        "en": "Admittedly, the timeline was aggressive.",
+        "ru": "Надо признать, сроки были жёсткими."
+      }
+    ],
+    "colloc": "admittedly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "granted",
+    "lemma": "granted",
+    "ipa": "/ˈgrænɪd/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "допустим; правда",
+    "examples": [
+      {
+        "en": "Granted, the tool is new.",
+        "ru": "Допустим, инструмент новый."
+      },
+      {
+        "en": "Granted, migration takes time.",
+        "ru": "Правда, миграция занимает время."
+      },
+      {
+        "en": "Granted the risk, we still proceed.",
+        "ru": "Допустим риск — всё равно идём."
+      }
+    ],
+    "colloc": "granted",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "notably",
+    "lemma": "notably",
+    "ipa": "/ˈnoʊtəbli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в особенности; примечательно",
+    "examples": [
+      {
+        "en": "Notably, EU traffic grew.",
+        "ru": "Примечательно, вырос трафик ЕС."
+      },
+      {
+        "en": "Notably, the CVE was critical.",
+        "ru": "Примечательно, CVE была критической."
+      },
+      {
+        "en": "Notably absent was a rollback plan.",
+        "ru": "Примечательно отсутствовал план отката."
+      }
+    ],
+    "colloc": "notably",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "importantly",
+    "lemma": "importantly",
+    "ipa": "/ˌɪmˈpɔrtəntli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "важно",
+    "examples": [
+      {
+        "en": "Importantly, verify checksums.",
+        "ru": "Важно проверяй контрольные суммы."
+      },
+      {
+        "en": "Importantly, notify stakeholders.",
+        "ru": "Важно уведоми стейкхолдеров."
+      },
+      {
+        "en": "Importantly, keep blast radius small.",
+        "ru": "Важно держи blast radius маленьким."
+      }
+    ],
+    "colloc": "importantly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "significantly",
+    "lemma": "significantly",
+    "ipa": "/sɪgˈnɪfɪkəntli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "значительно",
+    "examples": [
+      {
+        "en": "Latency fell significantly.",
+        "ru": "Задержка значительно упала."
+      },
+      {
+        "en": "Significantly fewer errors after the fix.",
+        "ru": "Значительно меньше ошибок после фикса."
+      },
+      {
+        "en": "Load increased significantly overnight.",
+        "ru": "Нагрузка значительно выросла за ночь."
+      }
+    ],
+    "colloc": "significantly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "generally",
+    "lemma": "generally",
+    "ipa": "/ˈʤɛnərəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "как правило",
+    "examples": [
+      {
+        "en": "Generally, prefer least privilege.",
+        "ru": "Как правило, предпочитай least privilege."
+      },
+      {
+        "en": "Generally, pin dependency versions.",
+        "ru": "Как правило, фиксируй версии зависимостей."
+      },
+      {
+        "en": "Generally avoid long-lived keys.",
+        "ru": "Как правило избегай долгоживущих ключей."
+      }
+    ],
+    "colloc": "generally",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "typically",
+    "lemma": "typically",
+    "ipa": "/ˈtɪpɪkəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "обычно",
+    "examples": [
+      {
+        "en": "Typically, we deploy on Tuesdays.",
+        "ru": "Обычно мы деплоим по вторникам."
+      },
+      {
+        "en": "Failures typically cluster after releases.",
+        "ru": "Сбои обычно кластерятся после релизов."
+      },
+      {
+        "en": "Typically, DNS changes need time.",
+        "ru": "Обычно изменения DNS требуют времени."
+      }
+    ],
+    "colloc": "typically",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "usually",
+    "lemma": "usually",
+    "ipa": "/ˈjuʒəwəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "обычно",
+    "examples": [
+      {
+        "en": "Usually, paging means severity one.",
+        "ru": "Обычно пейджинг значит severity one."
+      },
+      {
+        "en": "We usually canary first.",
+        "ru": "Обычно сначала делаем canary."
+      },
+      {
+        "en": "Usually the cache absorbs spikes.",
+        "ru": "Обычно кэш сглаживает всплески."
+      }
+    ],
+    "colloc": "usually",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "often",
+    "lemma": "often",
+    "ipa": "/ˈɔfən/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "часто",
+    "examples": [
+      {
+        "en": "Alerts often fire on deploy.",
+        "ru": "Алерты часто срабатывают на деплое."
+      },
+      {
+        "en": "We often see GC pauses.",
+        "ru": "Мы часто видим паузы GC."
+      },
+      {
+        "en": "Misconfig often causes outages.",
+        "ru": "Ошибки конфигурации часто вызывают аварии."
+      }
+    ],
+    "colloc": "often",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "rarely",
+    "lemma": "rarely",
+    "ipa": "/ˈrɛrli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "редко",
+    "examples": [
+      {
+        "en": "We rarely reboot prod hosts.",
+        "ru": "Мы редко перезагружаем прод-хосты."
+      },
+      {
+        "en": "True dual failures rarely happen.",
+        "ru": "Настоящие двойные сбои редки."
+      },
+      {
+        "en": "Rarely skip the checklist.",
+        "ru": "Редко пропускай чеклист."
+      }
+    ],
+    "colloc": "rarely",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in general",
+    "lemma": "in general",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в общем",
+    "examples": [
+      {
+        "en": "In general, automate toil.",
+        "ru": "В общем, автоматизируй рутину."
+      },
+      {
+        "en": "In general, prefer managed services.",
+        "ru": "В общем, предпочитай managed-сервисы."
+      },
+      {
+        "en": "In general, keep changes small.",
+        "ru": "В общем, держи изменения маленькими."
+      }
+    ],
+    "colloc": "in general",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as a rule",
+    "lemma": "as a rule",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "как правило",
+    "examples": [
+      {
+        "en": "As a rule, dual-control production.",
+        "ru": "Как правило, dual-control на проде."
+      },
+      {
+        "en": "As a rule, encrypt sensitive data.",
+        "ru": "Как правило, шифруй чувствительные данные."
+      },
+      {
+        "en": "As a rule, never debug in prod casually.",
+        "ru": "Как правило, не дебажь в проде бездумно."
+      }
+    ],
+    "colloc": "as a rule",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "above all",
+    "lemma": "above all",
+    "ipa": "/əˈbəv/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "прежде всего",
+    "examples": [
+      {
+        "en": "Above all, protect customer data.",
+        "ru": "Прежде всего защищай данные клиентов."
+      },
+      {
+        "en": "Above all, keep the site up.",
+        "ru": "Прежде всего держи сайт живым."
+      },
+      {
+        "en": "Above all, be honest in postmortems.",
+        "ru": "Прежде всего будь честен в разборах."
+      }
+    ],
+    "colloc": "above all",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in short",
+    "lemma": "in short",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "короче",
+    "examples": [
+      {
+        "en": "In short, we need capacity.",
+        "ru": "Короче, нужна ёмкость."
+      },
+      {
+        "en": "In short, patch now.",
+        "ru": "Короче, патчь сейчас."
+      },
+      {
+        "en": "In short, the RFC is approved.",
+        "ru": "Короче, RFC одобрен."
+      }
+    ],
+    "colloc": "in short",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "briefly",
+    "lemma": "briefly",
+    "ipa": "/ˈbrifli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "кратко",
+    "examples": [
+      {
+        "en": "Briefly, the root cause was DNS.",
+        "ru": "Кратко: корневая причина — DNS."
+      },
+      {
+        "en": "Briefly outline the plan.",
+        "ru": "Кратко изложи план."
+      },
+      {
+        "en": "Briefly, rollback fixed it.",
+        "ru": "Кратко: откат помог."
+      }
+    ],
+    "colloc": "briefly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to begin with",
+    "lemma": "to begin with",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "для начала",
+    "examples": [
+      {
+        "en": "To begin with, inventory servers.",
+        "ru": "Для начала проведи инвентаризацию серверов."
+      },
+      {
+        "en": "To begin with, define success metrics.",
+        "ru": "Для начала определи метрики успеха."
+      },
+      {
+        "en": "To begin with, freeze risky changes.",
+        "ru": "Для начала заморозь рискованные изменения."
+      }
+    ],
+    "colloc": "to begin with",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to start with",
+    "lemma": "to start with",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "для начала",
+    "examples": [
+      {
+        "en": "To start with, check disk space.",
+        "ru": "Для начала проверь место на диске."
+      },
+      {
+        "en": "To start with, reproduce the bug.",
+        "ru": "Для начала воспроизведи баг."
+      },
+      {
+        "en": "To start with, gather logs.",
+        "ru": "Для начала собери логи."
+      }
+    ],
+    "colloc": "to start with",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thereafter",
+    "lemma": "thereafter",
+    "ipa": "/ðɛˈræftər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "после этого",
+    "examples": [
+      {
+        "en": "Thereafter, traffic stabilized.",
+        "ru": "После этого трафик стабилизировался."
+      },
+      {
+        "en": "Patch, thereafter reboot.",
+        "ru": "Патч, после этого ребут."
+      },
+      {
+        "en": "Thereafter we updated the runbook.",
+        "ru": "После этого обновили runbook."
+      }
+    ],
+    "colloc": "thereafter",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "heretofore",
+    "lemma": "heretofore",
+    "ipa": "/ˌhɪrtəˈfɔr/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "до сих пор (книжн.)",
+    "examples": [
+      {
+        "en": "Heretofore we used manual deploys.",
+        "ru": "До сих пор мы деплоили вручную."
+      },
+      {
+        "en": "Heretofore ignored risks resurfaced.",
+        "ru": "Ранее игнорируемые риски всплыли."
+      },
+      {
+        "en": "Heretofore, the SLA was unmet.",
+        "ru": "До сих пор SLA не выполнялся."
+      }
+    ],
+    "colloc": "heretofore",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "hitherto",
+    "lemma": "hitherto",
+    "ipa": "/ˈhɪˌðərˈtu/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "до сих пор",
+    "examples": [
+      {
+        "en": "Hitherto the system held.",
+        "ru": "До сих пор система держалась."
+      },
+      {
+        "en": "Hitherto unseen bugs appeared.",
+        "ru": "Появились доселе невиданные баги."
+      },
+      {
+        "en": "Hitherto we lacked redundancy.",
+        "ru": "До сих пор не хватало избыточности."
+      }
+    ],
+    "colloc": "hitherto",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "albeit",
+    "lemma": "albeit",
+    "ipa": "/ɔlˈbiɪt/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "хотя и",
+    "examples": [
+      {
+        "en": "The fix works, albeit slowly.",
+        "ru": "Фикс работает, хотя и медленно."
+      },
+      {
+        "en": "Useful, albeit incomplete.",
+        "ru": "Полезно, хотя и неполно."
+      },
+      {
+        "en": "Stable, albeit costly.",
+        "ru": "Стабильно, хотя и дорого."
+      }
+    ],
+    "colloc": "albeit",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "notwithstanding",
+    "lemma": "notwithstanding",
+    "ipa": "/ˌnɑtwɪθˈstændɪŋ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "несмотря на",
+    "examples": [
+      {
+        "en": "Notwithstanding the risks, we proceed.",
+        "ru": "Несмотря на риски, идём дальше."
+      },
+      {
+        "en": "Notwithstanding delays, we shipped.",
+        "ru": "Несмотря на задержки, выкатили."
+      },
+      {
+        "en": "Results hold notwithstanding noise.",
+        "ru": "Результаты держатся несмотря на шум."
+      }
+    ],
+    "colloc": "notwithstanding",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "irrespective of",
+    "lemma": "irrespective of",
+    "ipa": "/ˌɪrəˈspɛktɪv/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "независимо от",
+    "examples": [
+      {
+        "en": "Irrespective of region, encrypt data.",
+        "ru": "Независимо от региона шифруй данные."
+      },
+      {
+        "en": "Irrespective of size, test restores.",
+        "ru": "Независимо от размера тестируй восстановления."
+      },
+      {
+        "en": "Apply policy irrespective of team.",
+        "ru": "Применяй политику независимо от команды."
+      }
+    ],
+    "colloc": "irrespective of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "regardless of",
+    "lemma": "regardless of",
+    "ipa": "/rəˈgɑrdləs/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "независимо от",
+    "examples": [
+      {
+        "en": "Regardless of urgency, follow change control.",
+        "ru": "Независимо от срочности следуй change control."
+      },
+      {
+        "en": "Patch regardless of the calendar.",
+        "ru": "Патчь независимо от календаря."
+      },
+      {
+        "en": "Regardless of vendor, verify backups.",
+        "ru": "Независимо от вендора проверяй бэкапы."
+      }
+    ],
+    "colloc": "regardless of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in spite of",
+    "lemma": "in spite of",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "несмотря на",
+    "examples": [
+      {
+        "en": "In spite of load, latency held.",
+        "ru": "Несмотря на нагрузку, задержка держалась."
+      },
+      {
+        "en": "We shipped in spite of the outage.",
+        "ru": "Выкатили несмотря на аварию."
+      },
+      {
+        "en": "In spite of warnings, they skipped tests.",
+        "ru": "Несмотря на предупреждения, тесты пропустили."
+      }
+    ],
+    "colloc": "in spite of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "despite",
+    "lemma": "despite",
+    "ipa": "/dɪˈspaɪt/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "несмотря на",
+    "examples": [
+      {
+        "en": "Despite the incident, trust recovered.",
+        "ru": "Несмотря на инцидент, доверие восстановилось."
+      },
+      {
+        "en": "Despite limited staff, we met SLO.",
+        "ru": "Несмотря на нехватку людей, уложились в SLO."
+      },
+      {
+        "en": "Despite complexity, the design is clear.",
+        "ru": "Несмотря на сложность, дизайн ясен."
+      }
+    ],
+    "colloc": "despite",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "owing to",
+    "lemma": "owing to",
+    "ipa": "/oʊɪŋ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "из-за",
+    "examples": [
+      {
+        "en": "Owing to a DNS issue, traffic dropped.",
+        "ru": "Из-за DNS трафик упал."
+      },
+      {
+        "en": "Owing to demand, we scaled.",
+        "ru": "Из-за спроса масштабировались."
+      },
+      {
+        "en": "Owing to the audit, we paused.",
+        "ru": "Из-за аудита поставили на паузу."
+      }
+    ],
+    "colloc": "owing to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "due to",
+    "lemma": "due to",
+    "ipa": "/du/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "из-за",
+    "examples": [
+      {
+        "en": "Due to maintenance, expect jitter.",
+        "ru": "Из-за обслуживания возможен jitter."
+      },
+      {
+        "en": "The outage was due to a bad config.",
+        "ru": "Авария была из-за плохого конфига."
+      },
+      {
+        "en": "Due to holidays, coverage is thin.",
+        "ru": "Из-за праздников покрытие тонкое."
+      }
+    ],
+    "colloc": "due to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thanks to",
+    "lemma": "thanks to",
+    "ipa": "/θæŋks/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "благодаря",
+    "examples": [
+      {
+        "en": "Thanks to canaries, impact was small.",
+        "ru": "Благодаря canary влияние было малым."
+      },
+      {
+        "en": "Thanks to runbooks, MTTR fell.",
+        "ru": "Благодаря runbook MTTR упал."
+      },
+      {
+        "en": "Recovery was fast thanks to backups.",
+        "ru": "Восстановление было быстрым благодаря бэкапам."
+      }
+    ],
+    "colloc": "thanks to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in light of",
+    "lemma": "in light of",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в свете",
+    "examples": [
+      {
+        "en": "In light of the CVE, patch ASAP.",
+        "ru": "В свете CVE патчь ASAP."
+      },
+      {
+        "en": "In light of feedback, we redesigned.",
+        "ru": "В свете фидбека переделали дизайн."
+      },
+      {
+        "en": "In light of costs, right-size instances.",
+        "ru": "В свете затрат подгони размер инстансов."
+      }
+    ],
+    "colloc": "in light of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "with regard to",
+    "lemma": "with regard to",
+    "ipa": "/wɪθ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "что касается",
+    "examples": [
+      {
+        "en": "With regard to IAM, enforce MFA.",
+        "ru": "Что касается IAM, включи MFA."
+      },
+      {
+        "en": "With regard to storage, enable versioning.",
+        "ru": "Что касается хранения, включи версионирование."
+      },
+      {
+        "en": "Questions with regard to the SLA.",
+        "ru": "Вопросы что касается SLA."
+      }
+    ],
+    "colloc": "with regard to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "regarding",
+    "lemma": "regarding",
+    "ipa": "/rɪˈgɑrdɪŋ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "относительно",
+    "examples": [
+      {
+        "en": "Regarding the outage, see the postmortem.",
+        "ru": "Относительно аварии см. разбор."
+      },
+      {
+        "en": "Regarding capacity, we are fine.",
+        "ru": "Относительно ёмкости всё нормально."
+      },
+      {
+        "en": "Updates regarding the migration.",
+        "ru": "Обновления относительно миграции."
+      }
+    ],
+    "colloc": "regarding",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as for",
+    "lemma": "as for",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "что касается",
+    "examples": [
+      {
+        "en": "As for networking, check routes.",
+        "ru": "Что касается сети, проверь маршруты."
+      },
+      {
+        "en": "As for cost, we will optimize.",
+        "ru": "Что касается стоимости, оптимизируем."
+      },
+      {
+        "en": "As for timelines, expect two weeks.",
+        "ru": "Что касается сроков, жди две недели."
+      }
+    ],
+    "colloc": "as for",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as regards",
+    "lemma": "as regards",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "что касается",
+    "examples": [
+      {
+        "en": "As regards security, rotate keys.",
+        "ru": "Что касается безопасности, ротируй ключи."
+      },
+      {
+        "en": "As regards logging, raise retention.",
+        "ru": "Что касается логов, увеличь retention."
+      },
+      {
+        "en": "As regards staffing, we are hiring.",
+        "ru": "Что касается штата, мы нанимаем."
+      }
+    ],
+    "colloc": "as regards",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "concerning",
+    "lemma": "concerning",
+    "ipa": "/kənˈsərnɪŋ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "касательно",
+    "examples": [
+      {
+        "en": "Concerning the RFC, comments are open.",
+        "ru": "Касательно RFC комментарии открыты."
+      },
+      {
+        "en": "Data concerning users must be encrypted.",
+        "ru": "Данные касательно пользователей нужно шифровать."
+      },
+      {
+        "en": "Concerning downtime, communicate early.",
+        "ru": "Касательно даунтайма сообщай рано."
+      }
+    ],
+    "colloc": "concerning",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "apart from",
+    "lemma": "apart from",
+    "ipa": "/əˈpɑrt/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "помимо",
+    "examples": [
+      {
+        "en": "Apart from DNS, everything looked fine.",
+        "ru": "Помимо DNS всё выглядело нормально."
+      },
+      {
+        "en": "Apart from cost, lock-in worries us.",
+        "ru": "Помимо стоимости нас беспокоит lock-in."
+      },
+      {
+        "en": "Apart from staging, prod is healthy.",
+        "ru": "Помимо стейджинга прод здоров."
+      }
+    ],
+    "colloc": "apart from",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "aside from",
+    "lemma": "aside from",
+    "ipa": "/əˈsaɪd/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "кроме",
+    "examples": [
+      {
+        "en": "Aside from one region, traffic is normal.",
+        "ru": "Кроме одного региона трафик нормальный."
+      },
+      {
+        "en": "Aside from docs, the code is ready.",
+        "ru": "Кроме доков код готов."
+      },
+      {
+        "en": "Aside from weekends, on-call is quiet.",
+        "ru": "Кроме выходных дежурство тихое."
+      }
+    ],
+    "colloc": "aside from",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in terms of",
+    "lemma": "in terms of",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с точки зрения",
+    "examples": [
+      {
+        "en": "In terms of latency, we are good.",
+        "ru": "С точки зрения задержки мы в норме."
+      },
+      {
+        "en": "In terms of cost, optimize storage.",
+        "ru": "С точки зрения стоимости оптимизируй хранение."
+      },
+      {
+        "en": "Evaluate vendors in terms of support.",
+        "ru": "Оценивай вендоров с точки зрения поддержки."
+      }
+    ],
+    "colloc": "in terms of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "with respect to",
+    "lemma": "with respect to",
+    "ipa": "/wɪθ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "относительно",
+    "examples": [
+      {
+        "en": "With respect to compliance, document controls.",
+        "ru": "Относительно комплаенса документируй контроли."
+      },
+      {
+        "en": "With respect to scaling, add replicas.",
+        "ru": "Относительно масштабирования добавь реплики."
+      },
+      {
+        "en": "Decisions with respect to retention.",
+        "ru": "Решения относительно retention."
+      }
+    ],
+    "colloc": "with respect to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as opposed to",
+    "lemma": "as opposed to",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в отличие от",
+    "examples": [
+      {
+        "en": "Use IaC as opposed to click-ops.",
+        "ru": "Используй IaC в отличие от click-ops."
+      },
+      {
+        "en": "Immutable images as opposed to patching.",
+        "ru": "Неизменяемые образы в отличие от патчинга."
+      },
+      {
+        "en": "Async as opposed to sync calls.",
+        "ru": "Асинхронные вызовы в отличие от синхронных."
+      }
+    ],
+    "colloc": "as opposed to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "whereas",
+    "lemma": "whereas",
+    "ipa": "/wɛˈræz/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "тогда как",
+    "examples": [
+      {
+        "en": "Prod is pinned, whereas staging floats.",
+        "ru": "Прод зафиксирован, тогда как стейджинг плавает."
+      },
+      {
+        "en": "SSD is fast, whereas tape is slow.",
+        "ru": "SSD быстрый, тогда как лента медленная."
+      },
+      {
+        "en": "We automate, whereas they click.",
+        "ru": "Мы автоматизируем, тогда как они кликают."
+      }
+    ],
+    "colloc": "whereas",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "whereby",
+    "lemma": "whereby",
+    "ipa": "/wɛrˈbaɪ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "посредством чего",
+    "examples": [
+      {
+        "en": "A process whereby keys rotate daily.",
+        "ru": "Процесс, посредством которого ключи ротируются ежедневно."
+      },
+      {
+        "en": "Canary deploy whereby risk is limited.",
+        "ru": "Canary-деплой, посредством которого риск ограничен."
+      },
+      {
+        "en": "A policy whereby access is least privilege.",
+        "ru": "Политика, по которой доступ — least privilege."
+      }
+    ],
+    "colloc": "whereby",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "wherein",
+    "lemma": "wherein",
+    "ipa": "/wɛˈrɪn/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в котором",
+    "examples": [
+      {
+        "en": "A report wherein root causes are listed.",
+        "ru": "Отчёт, в котором перечислены корневые причины."
+      },
+      {
+        "en": "A design wherein failure is isolated.",
+        "ru": "Дизайн, в котором сбой изолирован."
+      },
+      {
+        "en": "A contract wherein SLAs are defined.",
+        "ru": "Контракт, в котором определены SLA."
+      }
+    ],
+    "colloc": "wherein",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "hereafter",
+    "lemma": "hereafter",
+    "ipa": "/hɪˈræftər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в дальнейшем",
+    "examples": [
+      {
+        "en": "Hereafter, follow the new policy.",
+        "ru": "В дальнейшем следуй новой политике."
+      },
+      {
+        "en": "Hereafter we pin all base images.",
+        "ru": "В дальнейшем фиксируем все базовые образы."
+      },
+      {
+        "en": "Use MFA hereafter.",
+        "ru": "В дальнейшем используй MFA."
+      }
+    ],
+    "colloc": "hereafter",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "hereinafter",
+    "lemma": "hereinafter",
+    "ipa": "/hereinafter/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в дальнейшем (в тексте)",
+    "examples": [
+      {
+        "en": "The Vendor (hereinafter “Vendor”).",
+        "ru": "Поставщик (в дальнейшем «Поставщик»)."
+      },
+      {
+        "en": "Hereinafter called the Agreement.",
+        "ru": "В дальнейшем именуемое Соглашением."
+      },
+      {
+        "en": "The Client hereinafter agrees…",
+        "ru": "Клиент в дальнейшем соглашается…"
+      }
+    ],
+    "colloc": "hereinafter",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "formerly",
+    "lemma": "formerly",
+    "ipa": "/ˈfɔrmərli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "ранее",
+    "examples": [
+      {
+        "en": "Formerly we used Puppet.",
+        "ru": "Ранее мы использовали Puppet."
+      },
+      {
+        "en": "The host was formerly a bastion.",
+        "ru": "Хост ранее был бастионом."
+      },
+      {
+        "en": "Formerly manual, now automated.",
+        "ru": "Ранее вручную, теперь автоматизировано."
+      }
+    ],
+    "colloc": "formerly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "latterly",
+    "lemma": "latterly",
+    "ipa": "/latterly/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в последнее время",
+    "examples": [
+      {
+        "en": "Latterly, incidents fell.",
+        "ru": "В последнее время инциденты упали."
+      },
+      {
+        "en": "Latterly we invested in tests.",
+        "ru": "В последнее время вложились в тесты."
+      },
+      {
+        "en": "Latterly, costs stabilized.",
+        "ru": "В последнее время затраты стабилизировались."
+      }
+    ],
+    "colloc": "latterly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "henceforth",
+    "lemma": "henceforth",
+    "ipa": "/ˈhɛnsˈfɔrθ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "отныне",
+    "examples": [
+      {
+        "en": "Henceforth, require code review.",
+        "ru": "Отныне требуй code review."
+      },
+      {
+        "en": "Henceforth encrypt all disks.",
+        "ru": "Отныне шифруй все диски."
+      },
+      {
+        "en": "Henceforth page only on SEV1.",
+        "ru": "Отныне пейджи только на SEV1."
+      }
+    ],
+    "colloc": "henceforth",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "all in all",
+    "lemma": "all in all",
+    "ipa": "/ɔl/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в целом",
+    "examples": [
+      {
+        "en": "All in all, the migration worked.",
+        "ru": "В целом миграция сработала."
+      },
+      {
+        "en": "All in all, risk is acceptable.",
+        "ru": "В целом риск приемлем."
+      },
+      {
+        "en": "All in all, we recommend proceed.",
+        "ru": "В целом рекомендуем идти дальше."
+      }
+    ],
+    "colloc": "all in all",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "by and large",
+    "lemma": "by and large",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в общем и целом",
+    "examples": [
+      {
+        "en": "By and large, the system is stable.",
+        "ru": "В общем и целом система стабильна."
+      },
+      {
+        "en": "By and large, deploys are smooth.",
+        "ru": "В общем и целом деплои гладкие."
+      },
+      {
+        "en": "By and large, users are happy.",
+        "ru": "В общем и целом пользователи довольны."
+      }
+    ],
+    "colloc": "by and large",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in the long run",
+    "lemma": "in the long run",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в долгосрочной перспективе",
+    "examples": [
+      {
+        "en": "In the long run, automation pays.",
+        "ru": "В долгосрочной перспективе автоматизация окупается."
+      },
+      {
+        "en": "Tech debt hurts in the long run.",
+        "ru": "Техдолг бьёт вдолгую."
+      },
+      {
+        "en": "In the long run, invest in people.",
+        "ru": "Вдолгую инвестируй в людей."
+      }
+    ],
+    "colloc": "in the long run",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in the short run",
+    "lemma": "in the short run",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в краткосрочной перспективе",
+    "examples": [
+      {
+        "en": "In the short run, buy capacity.",
+        "ru": "В краткосрочной перспективе купи ёмкость."
+      },
+      {
+        "en": "Painful in the short run, better later.",
+        "ru": "Больно краткосрочно, лучше потом."
+      },
+      {
+        "en": "In the short run, freeze changes.",
+        "ru": "Краткосрочно заморозь изменения."
+      }
+    ],
+    "colloc": "in the short run",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "at any rate",
+    "lemma": "at any rate",
+    "ipa": "/æt/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "во всяком случае",
+    "examples": [
+      {
+        "en": "At any rate, back up first.",
+        "ru": "Во всяком случае сначала бэкап."
+      },
+      {
+        "en": "At any rate, communicate status.",
+        "ru": "Во всяком случае сообщи статус."
+      },
+      {
+        "en": "At any rate, we must patch.",
+        "ru": "Во всяком случае нужно патчить."
+      }
+    ],
+    "colloc": "at any rate",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in any case",
+    "lemma": "in any case",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в любом случае",
+    "examples": [
+      {
+        "en": "In any case, verify restores.",
+        "ru": "В любом случае проверь восстановления."
+      },
+      {
+        "en": "In any case, keep a rollback.",
+        "ru": "В любом случае держи откат."
+      },
+      {
+        "en": "In any case, document the decision.",
+        "ru": "В любом случае задокументируй решение."
+      }
+    ],
+    "colloc": "in any case",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to that end",
+    "lemma": "to that end",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с этой целью",
+    "examples": [
+      {
+        "en": "To that end, we added monitors.",
+        "ru": "С этой целью добавили мониторы."
+      },
+      {
+        "en": "To that end, hire SREs.",
+        "ru": "С этой целью найми SRE."
+      },
+      {
+        "en": "To that end, write a playbook.",
+        "ru": "С этой целью напиши playbook."
+      }
+    ],
+    "colloc": "to that end",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in effect",
+    "lemma": "in effect",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "фактически",
+    "examples": [
+      {
+        "en": "In effect, the region was dark.",
+        "ru": "Фактически регион был тёмным."
+      },
+      {
+        "en": "The flag is in effect a kill switch.",
+        "ru": "Флаг фактически — kill switch."
+      },
+      {
+        "en": "In effect, we had no redundancy.",
+        "ru": "Фактически избыточности не было."
+      }
+    ],
+    "colloc": "in effect",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in practice",
+    "lemma": "in practice",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "на практике",
+    "examples": [
+      {
+        "en": "In practice, caches miss under load.",
+        "ru": "На практике кэши промахиваются под нагрузкой."
+      },
+      {
+        "en": "In practice, runbooks save minutes.",
+        "ru": "На практике runbook экономят минуты."
+      },
+      {
+        "en": "Theory is neat; in practice, mess happens.",
+        "ru": "Теория красива; на практике бывает грязь."
+      }
+    ],
+    "colloc": "in practice",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in theory",
+    "lemma": "in theory",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в теории",
+    "examples": [
+      {
+        "en": "In theory, three replicas suffice.",
+        "ru": "В теории трёх реплик достаточно."
+      },
+      {
+        "en": "In theory the algorithm is O(n).",
+        "ru": "В теории алгоритм O(n)."
+      },
+      {
+        "en": "In theory simple; in practice hard.",
+        "ru": "В теории просто; на практике сложно."
+      }
+    ],
+    "colloc": "in theory",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "needless to say",
+    "lemma": "needless to say",
+    "ipa": "/ˈnidləs/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "нет нужды говорить",
+    "examples": [
+      {
+        "en": "Needless to say, test in staging.",
+        "ru": "Нет нужды говорить: тестируй на стейджинге."
+      },
+      {
+        "en": "Needless to say, never share roots.",
+        "ru": "Нет нужды говорить: не шарь root."
+      },
+      {
+        "en": "Needless to say, keep secrets secret.",
+        "ru": "Нет нужды говорить: держи секреты в секрете."
+      }
+    ],
+    "colloc": "needless to say",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to be sure",
+    "lemma": "to be sure",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "безусловно",
+    "examples": [
+      {
+        "en": "To be sure, the fix helps.",
+        "ru": "Безусловно, фикс помогает."
+      },
+      {
+        "en": "To be sure, risks remain.",
+        "ru": "Безусловно, риски остаются."
+      },
+      {
+        "en": "The design is solid, to be sure.",
+        "ru": "Дизайн, безусловно, крепкий."
+      }
+    ],
+    "colloc": "to be sure",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "after all",
+    "lemma": "after all",
+    "ipa": "/ˈæftər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в конце концов; всё-таки",
+    "examples": [
+      {
+        "en": "After all, users come first.",
+        "ru": "В конце концов пользователи важнее."
+      },
+      {
+        "en": "It worked after all.",
+        "ru": "Всё-таки сработало."
+      },
+      {
+        "en": "After all, we had backups.",
+        "ru": "Всё-таки бэкапы были."
+      }
+    ],
+    "colloc": "after all",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "at last",
+    "lemma": "at last",
+    "ipa": "/æt/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "наконец",
+    "examples": [
+      {
+        "en": "At last, the queue drained.",
+        "ru": "Наконец очередь опустела."
+      },
+      {
+        "en": "At last we passed the audit.",
+        "ru": "Наконец прошли аудит."
+      },
+      {
+        "en": "The patch landed at last.",
+        "ru": "Патч наконец вышел."
+      }
+    ],
+    "colloc": "at last",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "at least",
+    "lemma": "at least",
+    "ipa": "/æt/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "по крайней мере",
+    "examples": [
+      {
+        "en": "At least keep nightly backups.",
+        "ru": "По крайней мере делай ночные бэкапы."
+      },
+      {
+        "en": "At least document the exception.",
+        "ru": "По крайней мере задокументируй исключение."
+      },
+      {
+        "en": "We recovered at least 99% of data.",
+        "ru": "Восстановили по крайней мере 99% данных."
+      }
+    ],
+    "colloc": "at least",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "at most",
+    "lemma": "at most",
+    "ipa": "/æt/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "самое большее",
+    "examples": [
+      {
+        "en": "At most five minutes of downtime.",
+        "ru": "Самое большее пять минут простоя."
+      },
+      {
+        "en": "Retry at most three times.",
+        "ru": "Повторяй самое большее три раза."
+      },
+      {
+        "en": "Keep PRs at most 400 lines.",
+        "ru": "Держи PR самое большее в 400 строк."
+      }
+    ],
+    "colloc": "at most",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "by no means",
+    "lemma": "by no means",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "никоим образом",
+    "examples": [
+      {
+        "en": "By no means skip the review.",
+        "ru": "Никоим образом не пропускай ревью."
+      },
+      {
+        "en": "The issue is by no means fixed.",
+        "ru": "Проблема никоим образом не решена."
+      },
+      {
+        "en": "By no means expose admin ports.",
+        "ru": "Никоим образом не открывай admin-порты."
+      }
+    ],
+    "colloc": "by no means",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in no way",
+    "lemma": "in no way",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "ни в коем случае",
+    "examples": [
+      {
+        "en": "In no way store secrets in git.",
+        "ru": "Ни в коем случае не храни секреты в git."
+      },
+      {
+        "en": "The outage was in no way acceptable.",
+        "ru": "Авария ни в коем случае не приемлема."
+      },
+      {
+        "en": "In no way disable MFA.",
+        "ru": "Ни в коем случае не отключай MFA."
+      }
+    ],
+    "colloc": "in no way",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "on account of",
+    "lemma": "on account of",
+    "ipa": "/ɔn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "из-за",
+    "examples": [
+      {
+        "en": "On account of the storm, sites were dark.",
+        "ru": "Из-за шторма сайты были недоступны."
+      },
+      {
+        "en": "Delayed on account of supplier issues.",
+        "ru": "Задержка из-за поставщика."
+      },
+      {
+        "en": "On account of risk, we paused.",
+        "ru": "Из-за риска поставили на паузу."
+      }
+    ],
+    "colloc": "on account of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in view of",
+    "lemma": "in view of",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "учитывая",
+    "examples": [
+      {
+        "en": "In view of the CVE, patch now.",
+        "ru": "Учитывая CVE, патчь сейчас."
+      },
+      {
+        "en": "In view of growth, add capacity.",
+        "ru": "Учитывая рост, добавь ёмкость."
+      },
+      {
+        "en": "In view of feedback, revise the RFC.",
+        "ru": "Учитывая фидбек, пересмотри RFC."
+      }
+    ],
+    "colloc": "in view of",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "with a view to",
+    "lemma": "with a view to",
+    "ipa": "/wɪθ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с целью",
+    "examples": [
+      {
+        "en": "With a view to reducing MTTR, write runbooks.",
+        "ru": "С целью снизить MTTR пиши runbook'и."
+      },
+      {
+        "en": "Hired SREs with a view to reliability.",
+        "ru": "Наняли SRE с целью надёжности."
+      },
+      {
+        "en": "Tests added with a view to safety.",
+        "ru": "Тесты добавлены с целью безопасности."
+      }
+    ],
+    "colloc": "with a view to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in order to",
+    "lemma": "in order to",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "для того чтобы",
+    "examples": [
+      {
+        "en": "In order to scale, shard the DB.",
+        "ru": "Чтобы масштабироваться, шардируй БД."
+      },
+      {
+        "en": "Restart in order to clear memory.",
+        "ru": "Перезапусти, чтобы очистить память."
+      },
+      {
+        "en": "In order to comply, log access.",
+        "ru": "Чтобы соответствовать, логируй доступ."
+      }
+    ],
+    "colloc": "in order to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "so as to",
+    "lemma": "so as to",
+    "ipa": "/soʊ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "чтобы",
+    "examples": [
+      {
+        "en": "Throttle so as to protect origin.",
+        "ru": "Ограничь скорость, чтобы защитить origin."
+      },
+      {
+        "en": "Mask PII so as to reduce risk.",
+        "ru": "Маскируй PII, чтобы снизить риск."
+      },
+      {
+        "en": "Canary so as to limit blast radius.",
+        "ru": "Делай canary, чтобы ограничить blast radius."
+      }
+    ],
+    "colloc": "so as to",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "so that",
+    "lemma": "so that",
+    "ipa": "/soʊ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "так чтобы",
+    "examples": [
+      {
+        "en": "Log so that audits are possible.",
+        "ru": "Логируй так, чтобы аудиты были возможны."
+      },
+      {
+        "en": "Alert so that humans wake quickly.",
+        "ru": "Алерти так, чтобы люди быстро просыпались."
+      },
+      {
+        "en": "Tag resources so that billing is clear.",
+        "ru": "Тегируй ресурсы так, чтобы биллинг был ясен."
+      }
+    ],
+    "colloc": "so that",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "lest",
+    "lemma": "lest",
+    "ipa": "/lɛst/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "чтобы не",
+    "examples": [
+      {
+        "en": "Encrypt lest data leak.",
+        "ru": "Шифруй, чтобы данные не утекли."
+      },
+      {
+        "en": "Test restores lest backups fail.",
+        "ru": "Тестируй восстановления, чтобы бэкапы не подвели."
+      },
+      {
+        "en": "Document lest knowledge walk out.",
+        "ru": "Документируй, чтобы знание не ушло с людьми."
+      }
+    ],
+    "colloc": "lest",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "provided that",
+    "lemma": "provided that",
+    "ipa": "/prəˈvaɪdɪd/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "при условии что",
+    "examples": [
+      {
+        "en": "Proceed provided that tests pass.",
+        "ru": "Иди дальше при условии что тесты зелёные."
+      },
+      {
+        "en": "Access granted provided that MFA is on.",
+        "ru": "Доступ при условии включённого MFA."
+      },
+      {
+        "en": "Deploy provided that change ticket exists.",
+        "ru": "Деплой при условии наличия change ticket."
+      }
+    ],
+    "colloc": "provided that",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "providing that",
+    "lemma": "providing that",
+    "ipa": "/prəˈvaɪdɪŋ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "при условии что",
+    "examples": [
+      {
+        "en": "Ship providing that canary is green.",
+        "ru": "Выкатывай при условии зелёного canary."
+      },
+      {
+        "en": "Approve providing that risk is low.",
+        "ru": "Одобряй при условии низкого риска."
+      },
+      {
+        "en": "Merge providing that CI passes.",
+        "ru": "Мержи при условии прохождения CI."
+      }
+    ],
+    "colloc": "providing that",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "as long as",
+    "lemma": "as long as",
+    "ipa": "/ɛz/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "пока; при условии",
+    "examples": [
+      {
+        "en": "As long as SLO holds, continue.",
+        "ru": "Пока SLO держится, продолжай."
+      },
+      {
+        "en": "Fine as long as secrets stay vaulted.",
+        "ru": "Нормально, пока секреты в vault."
+      },
+      {
+        "en": "As long as backups work, sleep better.",
+        "ru": "Пока бэкапы работают, спишь спокойнее."
+      }
+    ],
+    "colloc": "as long as",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "unless",
+    "lemma": "unless",
+    "ipa": "/ənˈlɛs/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "если не",
+    "examples": [
+      {
+        "en": "Don't deploy unless reviewed.",
+        "ru": "Не деплой, если нет ревью."
+      },
+      {
+        "en": "Pages fire unless silenced.",
+        "ru": "Пейджи срабатывают, если не замьючены."
+      },
+      {
+        "en": "Unless patched, hosts stay vulnerable.",
+        "ru": "Если не пропатчены, хосты уязвимы."
+      }
+    ],
+    "colloc": "unless",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "until",
+    "lemma": "until",
+    "ipa": "/ənˈtɪl/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "до тех пор пока",
+    "examples": [
+      {
+        "en": "Wait until the canary is healthy.",
+        "ru": "Жди, пока canary не станет здоровым."
+      },
+      {
+        "en": "Freeze until the audit ends.",
+        "ru": "Заморозка до конца аудита."
+      },
+      {
+        "en": "Retry until success or limit.",
+        "ru": "Повторяй до успеха или лимита."
+      }
+    ],
+    "colloc": "until",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "once",
+    "lemma": "once",
+    "ipa": "/wəns/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "как только",
+    "examples": [
+      {
+        "en": "Once patched, reboot.",
+        "ru": "Как только пропатчено — ребут."
+      },
+      {
+        "en": "Once DNS propagates, switch traffic.",
+        "ru": "Как только DNS разойдётся, переключи трафик."
+      },
+      {
+        "en": "Once approved, merge.",
+        "ru": "Как только одобрено — мержи."
+      }
+    ],
+    "colloc": "once",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "whenever",
+    "lemma": "whenever",
+    "ipa": "/wɛˈnɛvər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "всякий раз когда",
+    "examples": [
+      {
+        "en": "Whenever load spikes, autoscale.",
+        "ru": "Всякий раз при всплеске нагрузки — autoscale."
+      },
+      {
+        "en": "Rotate keys whenever staff leave.",
+        "ru": "Ротируй ключи всякий раз когда уходят люди."
+      },
+      {
+        "en": "Whenever alerts fire, acknowledge.",
+        "ru": "Всякий раз при алерте — acknowledge."
+      }
+    ],
+    "colloc": "whenever",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "wherever",
+    "lemma": "wherever",
+    "ipa": "/wɛˈrɛvər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "где бы ни",
+    "examples": [
+      {
+        "en": "Wherever data lives, encrypt it.",
+        "ru": "Где бы ни жили данные — шифруй."
+      },
+      {
+        "en": "Apply policy wherever code runs.",
+        "ru": "Применяй политику где бы ни бежал код."
+      },
+      {
+        "en": "Wherever possible, automate.",
+        "ru": "Где возможно — автоматизируй."
+      }
+    ],
+    "colloc": "wherever",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "accordingly",
+    "lemma": "accordingly",
+    "ipa": "/əˈkɔrdɪŋli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "соответственно",
+    "examples": [
+      {
+        "en": "Load rose; accordingly, we scaled.",
+        "ru": "Нагрузка выросла; соответственно, масштабировались."
+      },
+      {
+        "en": "Plan accordingly for peak.",
+        "ru": "Планируй соответственно пику."
+      },
+      {
+        "en": "Accordingly, alerts were tuned.",
+        "ru": "Соответственно алерты подкрутили."
+      }
+    ],
+    "colloc": "accordingly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "additionally",
+    "lemma": "additionally",
+    "ipa": "/əˈdɪʃəˌnəli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "дополнительно",
+    "examples": [
+      {
+        "en": "Additionally, enable audit logs.",
+        "ru": "Дополнительно включи audit-логи."
+      },
+      {
+        "en": "Additionally we hired two SREs.",
+        "ru": "Дополнительно наняли двух SRE."
+      },
+      {
+        "en": "Additionally, pin base images.",
+        "ru": "Дополнительно фиксируй базовые образы."
+      }
+    ],
+    "colloc": "additionally",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "all the same",
+    "lemma": "all the same",
+    "ipa": "/ɔl/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "всё же",
+    "examples": [
+      {
+        "en": "Risky, all the same we proceed.",
+        "ru": "Рискованно, всё же идём."
+      },
+      {
+        "en": "All the same, document the exception.",
+        "ru": "Всё же задокументируй исключение."
+      },
+      {
+        "en": "Painful, all the same necessary.",
+        "ru": "Больно, всё же необходимо."
+      }
+    ],
+    "colloc": "all the same",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "altogether",
+    "lemma": "altogether",
+    "ipa": "/ˌɔltəˈgɛðər/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в целом; совершенно",
+    "examples": [
+      {
+        "en": "Altogether, the release was smooth.",
+        "ru": "В целом релиз прошёл гладко."
+      },
+      {
+        "en": "Disable the flag altogether.",
+        "ru": "Отключи флаг altogether полностью."
+      },
+      {
+        "en": "Altogether different architecture.",
+        "ru": "Совершенно другая архитектура."
+      }
+    ],
+    "colloc": "altogether",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "anyhow",
+    "lemma": "anyhow",
+    "ipa": "/ˈɛniˌhaʊ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "так или иначе",
+    "examples": [
+      {
+        "en": "Anyhow, restore from backup.",
+        "ru": "Так или иначе восстанови из бэкапа."
+      },
+      {
+        "en": "Anyhow we must patch.",
+        "ru": "Так или иначе нужно патчить."
+      },
+      {
+        "en": "Anyhow, keep stakeholders informed.",
+        "ru": "Так или иначе держи стейкхолдеров в курсе."
+      }
+    ],
+    "colloc": "anyhow",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "anyway",
+    "lemma": "anyway",
+    "ipa": "/ˈɛniˌweɪ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в любом случае",
+    "examples": [
+      {
+        "en": "Anyway, ship the hotfix.",
+        "ru": "В любом случае выкатывай hotfix."
+      },
+      {
+        "en": "The canary failed anyway.",
+        "ru": "Canary всё равно упал."
+      },
+      {
+        "en": "Anyway, write the postmortem.",
+        "ru": "В любом случае напиши разбор."
+      }
+    ],
+    "colloc": "anyway",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "besides",
+    "lemma": "besides",
+    "ipa": "/ˌbiˈsaɪdz/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "кроме того",
+    "examples": [
+      {
+        "en": "Besides cost, consider lock-in.",
+        "ru": "Кроме стоимости учти lock-in."
+      },
+      {
+        "en": "Besides, we lack staff.",
+        "ru": "Кроме того, не хватает людей."
+      },
+      {
+        "en": "Besides logging, add tracing.",
+        "ru": "Кроме логов добавь трейсинг."
+      }
+    ],
+    "colloc": "besides",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "by comparison",
+    "lemma": "by comparison",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "для сравнения",
+    "examples": [
+      {
+        "en": "By comparison, SSD wins.",
+        "ru": "Для сравнения SSD выигрывает."
+      },
+      {
+        "en": "By comparison with last year, better.",
+        "ru": "По сравнению с прошлым годом лучше."
+      },
+      {
+        "en": "Latency, by comparison, is fine.",
+        "ru": "Задержка, для сравнения, в норме."
+      }
+    ],
+    "colloc": "by comparison",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "by the same token",
+    "lemma": "by the same token",
+    "ipa": "/baɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "по той же логике",
+    "examples": [
+      {
+        "en": "By the same token, secure staging.",
+        "ru": "По той же логике защити стейджинг."
+      },
+      {
+        "en": "Trust but verify, by the same token.",
+        "ru": "Доверяй, но проверяй — по той же логике."
+      },
+      {
+        "en": "By the same token, test restores.",
+        "ru": "По той же логике тестируй восстановления."
+      }
+    ],
+    "colloc": "by the same token",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "correspondingly",
+    "lemma": "correspondingly",
+    "ipa": "/ˌkɔrəˈspɑndɪŋli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "соответственно",
+    "examples": [
+      {
+        "en": "Traffic doubled; correspondingly, cost rose.",
+        "ru": "Трафик удвоился; соответственно выросла стоимость."
+      },
+      {
+        "en": "Correspondingly, we added capacity.",
+        "ru": "Соответственно добавили ёмкость."
+      },
+      {
+        "en": "Errors fell correspondingly.",
+        "ru": "Ошибки соответственно упали."
+      }
+    ],
+    "colloc": "correspondingly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "even so",
+    "lemma": "even so",
+    "ipa": "/ˈivɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "даже так",
+    "examples": [
+      {
+        "en": "Even so, keep a kill switch.",
+        "ru": "Даже так держи kill switch."
+      },
+      {
+        "en": "Slow, even so acceptable.",
+        "ru": "Медленно, даже так приемлемо."
+      },
+      {
+        "en": "Even so we met the SLO.",
+        "ru": "Даже так уложились в SLO."
+      }
+    ],
+    "colloc": "even so",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "even though",
+    "lemma": "even though",
+    "ipa": "/ˈivɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "хотя",
+    "examples": [
+      {
+        "en": "Even though load is high, we hold.",
+        "ru": "Хотя нагрузка высока, держимся."
+      },
+      {
+        "en": "Ship even though docs lag.",
+        "ru": "Выкатывай, хотя доки отстают."
+      },
+      {
+        "en": "Even though risky, canary helps.",
+        "ru": "Хотя рискованно, canary помогает."
+      }
+    ],
+    "colloc": "even though",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "for one thing",
+    "lemma": "for one thing",
+    "ipa": "/fər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "во-первых (разг.)",
+    "examples": [
+      {
+        "en": "For one thing, disk was full.",
+        "ru": "Во-первых, диск был полон."
+      },
+      {
+        "en": "For one thing, tests were skipped.",
+        "ru": "Во-первых, тесты пропустили."
+      },
+      {
+        "en": "For one thing, MFA was off.",
+        "ru": "Во-первых, MFA был выключен."
+      }
+    ],
+    "colloc": "for one thing",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in comparison",
+    "lemma": "in comparison",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в сравнении",
+    "examples": [
+      {
+        "en": "In comparison, the new stack is faster.",
+        "ru": "В сравнении новый стек быстрее."
+      },
+      {
+        "en": "Cheap in comparison with downtime.",
+        "ru": "Дёшево в сравнении с даунтаймом."
+      },
+      {
+        "en": "In comparison to peers, we lag.",
+        "ru": "В сравнении с пирами отстаём."
+      }
+    ],
+    "colloc": "in comparison",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "in turn",
+    "lemma": "in turn",
+    "ipa": "/ɪn/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "в свою очередь",
+    "examples": [
+      {
+        "en": "Fixes reduced load; in turn, costs fell.",
+        "ru": "Фиксы снизили нагрузку; в свою очередь, упали затраты."
+      },
+      {
+        "en": "Automation helps; in turn, toil drops.",
+        "ru": "Автоматизация помогает; в свою очередь, падает рутина."
+      },
+      {
+        "en": "Leaders decide; teams, in turn, execute.",
+        "ru": "Лидеры решают; команды, в свою очередь, исполняют."
+      }
+    ],
+    "colloc": "in turn",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "lastly",
+    "lemma": "lastly",
+    "ipa": "/ˈlæstli/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "наконец",
+    "examples": [
+      {
+        "en": "Lastly, verify backups.",
+        "ru": "Наконец проверь бэкапы."
+      },
+      {
+        "en": "Lastly, thank the on-call.",
+        "ru": "Наконец поблагодари дежурного."
+      },
+      {
+        "en": "Lastly, publish the report.",
+        "ru": "Наконец опубликуй отчёт."
+      }
+    ],
+    "colloc": "lastly",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "otherwise",
+    "lemma": "otherwise",
+    "ipa": "/ˈəðərˌwaɪz/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в противном случае",
+    "examples": [
+      {
+        "en": "Patch; otherwise, risk grows.",
+        "ru": "Патчь; в противном случае риск растёт."
+      },
+      {
+        "en": "Save the file; otherwise, lose work.",
+        "ru": "Сохрани файл; иначе потеряешь работу."
+      },
+      {
+        "en": "Otherwise the canary stays dark.",
+        "ru": "Иначе canary останется тёмным."
+      }
+    ],
+    "colloc": "otherwise",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "rather than",
+    "lemma": "rather than",
+    "ipa": "/ˈrəðər/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "а не",
+    "examples": [
+      {
+        "en": "Retry rather than fail hard.",
+        "ru": "Повторяй, а не падай жёстко."
+      },
+      {
+        "en": "Automate rather than click.",
+        "ru": "Автоматизируй, а не кликай."
+      },
+      {
+        "en": "Canary rather than big bang.",
+        "ru": "Canary, а не big bang."
+      }
+    ],
+    "colloc": "rather than",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "still",
+    "lemma": "still",
+    "ipa": "/stɪl/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "всё же",
+    "examples": [
+      {
+        "en": "Still, we need a rollback.",
+        "ru": "Всё же нужен откат."
+      },
+      {
+        "en": "The fix helps; still, monitor.",
+        "ru": "Фикс помогает; всё же мониторь."
+      },
+      {
+        "en": "Still better than downtime.",
+        "ru": "Всё же лучше даунтайма."
+      }
+    ],
+    "colloc": "still",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thereby",
+    "lemma": "thereby",
+    "ipa": "/ˈðɛrˈbaɪ/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "тем самым",
+    "examples": [
+      {
+        "en": "We cached, thereby cutting load.",
+        "ru": "Мы закэшировали, тем самым снизив нагрузку."
+      },
+      {
+        "en": "Encrypt thereby reducing risk.",
+        "ru": "Шифруй, тем самым снижая риск."
+      },
+      {
+        "en": "Automated, thereby saving time.",
+        "ru": "Автоматизировали, тем самым экономя время."
+      }
+    ],
+    "colloc": "thereby",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "therein",
+    "lemma": "therein",
+    "ipa": "/ðɛˈrɪn/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "в этом",
+    "examples": [
+      {
+        "en": "The flaw lies therein.",
+        "ru": "Изъян лежит в этом."
+      },
+      {
+        "en": "See the RFC therein.",
+        "ru": "См. RFC в этом документе."
+      },
+      {
+        "en": "Risks are outlined therein.",
+        "ru": "Риски изложены там."
+      }
+    ],
+    "colloc": "therein",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thereof",
+    "lemma": "thereof",
+    "ipa": "/ˌðɛˈrəv/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "сего; этого",
+    "examples": [
+      {
+        "en": "And parts thereof.",
+        "ru": "И части сего."
+      },
+      {
+        "en": "A copy thereof is attached.",
+        "ru": "Копия сего приложена."
+      },
+      {
+        "en": "Breach thereof voids the SLA.",
+        "ru": "Нарушение сего аннулирует SLA."
+      }
+    ],
+    "colloc": "thereof",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "thereupon",
+    "lemma": "thereupon",
+    "ipa": "/ˌðɛrəˈpɑn/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "вслед за тем",
+    "examples": [
+      {
+        "en": "Thereupon alerts fired.",
+        "ru": "Вслед за тем сработали алерты."
+      },
+      {
+        "en": "Thereupon we rolled back.",
+        "ru": "Вслед за тем откатились."
+      },
+      {
+        "en": "Thereupon the queue drained.",
+        "ru": "Вслед за тем очередь опустела."
+      }
+    ],
+    "colloc": "thereupon",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "to this end",
+    "lemma": "to this end",
+    "ipa": "/tɪ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "с этой целью",
+    "examples": [
+      {
+        "en": "To this end, we added SLIs.",
+        "ru": "С этой целью добавили SLI."
+      },
+      {
+        "en": "Hired help to this end.",
+        "ru": "Наняли помощь с этой целью."
+      },
+      {
+        "en": "To this end, write playbooks.",
+        "ru": "С этой целью пиши playbook'и."
+      }
+    ],
+    "colloc": "to this end",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "what is more",
+    "lemma": "what is more",
+    "ipa": "/wət/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "более того",
+    "examples": [
+      {
+        "en": "What is more, cost fell.",
+        "ru": "Более того, стоимость упала."
+      },
+      {
+        "en": "What is more, MTTR improved.",
+        "ru": "Более того, MTTR улучшился."
+      },
+      {
+        "en": "Fast and, what is more, safe.",
+        "ru": "Быстро и, более того, безопасно."
+      }
+    ],
+    "colloc": "what is more",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "with that said",
+    "lemma": "with that said",
+    "ipa": "/wɪθ/",
+    "pos": "phrase",
+    "level": "b1-c1",
+    "tr": "при этом",
+    "examples": [
+      {
+        "en": "With that said, proceed carefully.",
+        "ru": "При этом действуй осторожно."
+      },
+      {
+        "en": "With that said, we approve.",
+        "ru": "При этом одобряем."
+      },
+      {
+        "en": "Good idea; with that said, test more.",
+        "ru": "Хорошая идея; при этом тестируй больше."
+      }
+    ],
+    "colloc": "with that said",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  },
+  {
+    "word": "yet",
+    "lemma": "yet",
+    "ipa": "/jɛt/",
+    "pos": "adv",
+    "level": "b1-c1",
+    "tr": "однако; ещё",
+    "examples": [
+      {
+        "en": "Yet the root cause remains.",
+        "ru": "Однако корневая причина остаётся."
+      },
+      {
+        "en": "Not patched yet.",
+        "ru": "Ещё не пропатчено."
+      },
+      {
+        "en": "Simple yet effective.",
+        "ru": "Просто, однако эффективно."
+      }
+    ],
+    "colloc": "yet",
+    "pattern": "discourse marker",
+    "bucket": "speech",
+    "note": ""
+  }
+]
