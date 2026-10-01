@@ -1,0 +1,1382 @@
+{
+  "a2-0326": {
+    "examples": [
+      {
+        "en": "She has the ability to lead.",
+        "ru": "У неё есть способность вести."
+      },
+      {
+        "en": "She has the ability to stay calm.",
+        "ru": "У неё есть способность сохранять спокойствие."
+      },
+      {
+        "en": "Language ability improves with practice.",
+        "ru": "Языковые способности растут с практикой."
+      }
+    ],
+    "colloc": "ability to · natural ability"
+  },
+  "a2-0327": {
+    "examples": [
+      {
+        "en": "A car accident blocked traffic.",
+        "ru": "Авария перекрыла движение."
+      },
+      {
+        "en": "There was a car accident on Main Street.",
+        "ru": "На Мейн-стрит произошла авария."
+      },
+      {
+        "en": "I found the keys by accident.",
+        "ru": "Я случайно нашёл ключи."
+      }
+    ],
+    "colloc": "by accident · traffic accident"
+  },
+  "a2-0328": {
+    "examples": [
+      {
+        "en": "Create a bank account.",
+        "ru": "Создай банковский счёт."
+      },
+      {
+        "en": "I opened a bank account online.",
+        "ru": "Я открыл банковский счёт онлайн."
+      },
+      {
+        "en": "Please take my account of events seriously.",
+        "ru": "Пожалуйста, серьёзно отнесись к моему рассказу."
+      }
+    ],
+    "colloc": "bank account · account for"
+  },
+  "a2-0329": {
+    "examples": [
+      {
+        "en": "Winning was a big achievement.",
+        "ru": "Победа была большим достижением."
+      },
+      {
+        "en": "Graduating was a big achievement.",
+        "ru": "Окончание учёбы было большим достижением."
+      },
+      {
+        "en": "We're proud of your achievements.",
+        "ru": "Мы гордимся твоими достижениями."
+      }
+    ],
+    "colloc": "sense of achievement · academic achievement"
+  },
+  "a2-0330": {
+    "examples": [
+      {
+        "en": "Only adults may enter.",
+        "ru": "Входить могут только взрослые."
+      },
+      {
+        "en": "Only adults can buy tickets for this film.",
+        "ru": "Билеты на этот фильм только для взрослых."
+      },
+      {
+        "en": "She has two adult children.",
+        "ru": "У неё двое взрослых детей."
+      }
+    ],
+    "colloc": "young adult · adult education"
+  },
+  "a2-0331": {
+    "examples": [
+      {
+        "en": "Experience is an advantage.",
+        "ru": "Опыт — преимущество."
+      },
+      {
+        "en": "Living downtown has advantages.",
+        "ru": "Жизнь в центре имеет преимущества."
+      },
+      {
+        "en": "Take advantage of the free trial.",
+        "ru": "Воспользуйся бесплатным пробным периодом."
+      }
+    ],
+    "colloc": "take advantage of · advantage of"
+  },
+  "a2-0332": {
+    "examples": [
+      {
+        "en": "Travel can be an adventure.",
+        "ru": "Путешествие может быть приключением."
+      },
+      {
+        "en": "Our trip turned into an adventure.",
+        "ru": "Наша поездка превратилась в приключение."
+      },
+      {
+        "en": "She loves adventure travel.",
+        "ru": "Она любит приключенческие путешествия."
+      }
+    ],
+    "colloc": "adventure story · sense of adventure"
+  },
+  "a2-0333": {
+    "examples": [
+      {
+        "en": "I saw an advertisement online.",
+        "ru": "Я видел рекламу онлайн."
+      },
+      {
+        "en": "I saw an advertisement for this course.",
+        "ru": "Я видел рекламу этого курса."
+      },
+      {
+        "en": "The advertisement was misleading.",
+        "ru": "Реклама была обманчивой."
+      }
+    ],
+    "colloc": "job advertisement · online advertisement"
+  },
+  "a2-0334": {
+    "examples": [
+      {
+        "en": "Follow the doctor's advice.",
+        "ru": "Следуй совету врача."
+      },
+      {
+        "en": "Can I ask for your advice?",
+        "ru": "Могу попросить совета?"
+      },
+      {
+        "en": "That's good advice — thanks.",
+        "ru": "Хороший совет — спасибо."
+      }
+    ],
+    "colloc": "give advice · piece of advice",
+    "note": "advice неисчисляемое"
+  },
+  "a2-0335": {
+    "examples": [
+      {
+        "en": "Call a travel agency.",
+        "ru": "Позвони в турагентство."
+      },
+      {
+        "en": "She works for a travel agency.",
+        "ru": "Она работает в туристическом агентстве."
+      },
+      {
+        "en": "Contact a local agency for help.",
+        "ru": "Обратись в местное агентство за помощью."
+      }
+    ],
+    "colloc": "travel agency · news agency"
+  },
+  "a2-0336": {
+    "examples": [
+      {
+        "en": "We signed an agreement.",
+        "ru": "Мы подписали соглашение."
+      },
+      {
+        "en": "We reached an agreement yesterday.",
+        "ru": "Вчера мы достигли соглашения."
+      },
+      {
+        "en": "Sign the rental agreement carefully.",
+        "ru": "Внимательно подпиши договор аренды."
+      }
+    ],
+    "colloc": "reach an agreement · in agreement"
+  },
+  "a2-0337": {
+    "examples": [
+      {
+        "en": "My aim is to improve.",
+        "ru": "Моя цель — улучшиться."
+      },
+      {
+        "en": "Our aim is to finish by Friday.",
+        "ru": "Наша цель — закончить к пятнице."
+      },
+      {
+        "en": "She took aim at the target.",
+        "ru": "Она прицелилась в мишень."
+      }
+    ],
+    "colloc": "aim of · with the aim of"
+  },
+  "a2-0338": {
+    "examples": [
+      {
+        "en": "Which airline do you prefer?",
+        "ru": "Какую авиакомпанию предпочитаешь?"
+      },
+      {
+        "en": "Which airline are you flying with?",
+        "ru": "Какой авиакомпанией летишь?"
+      },
+      {
+        "en": "The airline canceled our flight.",
+        "ru": "Авиакомпания отменила наш рейс."
+      }
+    ],
+    "colloc": "airline ticket · major airline"
+  },
+  "a2-0339": {
+    "examples": [
+      {
+        "en": "She released a new album.",
+        "ru": "Она выпустила новый альбом."
+      },
+      {
+        "en": "I bought their new album.",
+        "ru": "Я купил их новый альбом."
+      },
+      {
+        "en": "She keeps photos in an album.",
+        "ru": "Она хранит фото в альбоме."
+      }
+    ],
+    "colloc": "photo album · debut album"
+  },
+  "a2-0340": {
+    "examples": [
+      {
+        "en": "Do not drink alcohol and drive.",
+        "ru": "Не пей алкоголь и не садись за руль."
+      },
+      {
+        "en": "This medicine contains alcohol.",
+        "ru": "В этом лекарстве есть спирт."
+      },
+      {
+        "en": "Don't mix alcohol with driving.",
+        "ru": "Не смешивай алкоголь с вождением."
+      }
+    ],
+    "colloc": "alcohol-free · under the influence of alcohol"
+  },
+  "a2-0341": {
+    "examples": [
+      {
+        "en": "His ambition is strong.",
+        "ru": "Его амбиции сильны."
+      },
+      {
+        "en": "Her ambition is to become a doctor.",
+        "ru": "Её амбиция — стать врачом."
+      },
+      {
+        "en": "He has big ambitions for the company.",
+        "ru": "У него большие амбиции насчёт компании."
+      }
+    ],
+    "colloc": "career ambition · lack of ambition"
+  },
+  "a2-0342": {
+    "examples": [
+      {
+        "en": "Pay the full amount.",
+        "ru": "Оплати полную сумму."
+      },
+      {
+        "en": "Add a small amount of salt.",
+        "ru": "Добавь небольшое количество соли."
+      },
+      {
+        "en": "The total amount is fifty dollars.",
+        "ru": "Общая сумма — пятьдесят долларов."
+      }
+    ],
+    "colloc": "amount of · large amount"
+  },
+  "a2-0343": {
+    "examples": [
+      {
+        "en": "The park offers amusement.",
+        "ru": "Парк предлагает развлечения."
+      },
+      {
+        "en": "The kids found amusement in the park.",
+        "ru": "Дети нашли развлечение в парке."
+      },
+      {
+        "en": "Much to my amusement, he was wrong.",
+        "ru": "К моему веселью, он ошибся."
+      }
+    ],
+    "colloc": "amusement park · source of amusement"
+  },
+  "a2-0344": {
+    "examples": [
+      {
+        "en": "Write a short analysis.",
+        "ru": "Напиши короткий анализ."
+      },
+      {
+        "en": "The analysis showed clear results.",
+        "ru": "Анализ показал ясные результаты."
+      },
+      {
+        "en": "She wrote a careful analysis of the data.",
+        "ru": "Она написала тщательный анализ данных."
+      }
+    ],
+    "colloc": "data analysis · in-depth analysis"
+  },
+  "a2-0345": {
+    "examples": [
+      {
+        "en": "Control your anger carefully.",
+        "ru": "Осторожно контролируй гнев."
+      },
+      {
+        "en": "He spoke without anger.",
+        "ru": "Он говорил без злости."
+      },
+      {
+        "en": "Learn to control your anger.",
+        "ru": "Научись контролировать гнев."
+      }
+    ],
+    "colloc": "anger management · in anger"
+  },
+  "a2-0346": {
+    "examples": [
+      {
+        "en": "I twisted my ankle.",
+        "ru": "Я подвернул лодыжку."
+      },
+      {
+        "en": "I twisted my ankle on the stairs.",
+        "ru": "Я подвернул лодыжку на лестнице."
+      },
+      {
+        "en": "She wore an ankle bracelet.",
+        "ru": "Она носила браслет на щиколотке."
+      }
+    ],
+    "colloc": "ankle injury · twisted ankle"
+  },
+  "a2-0347": {
+    "examples": [
+      {
+        "en": "Listen to the announcement.",
+        "ru": "Слушай объявление."
+      },
+      {
+        "en": "Listen for the gate announcement.",
+        "ru": "Слушай объявление о выходе на посадку."
+      },
+      {
+        "en": "The announcement surprised everyone.",
+        "ru": "Объявление всех удивило."
+      }
+    ],
+    "colloc": "make an announcement · public announcement"
+  },
+  "a2-0348": {
+    "examples": [
+      {
+        "en": "Anxiety keeps her awake.",
+        "ru": "Тревога не даёт ей спать."
+      },
+      {
+        "en": "She felt anxiety before the exam.",
+        "ru": "Перед экзаменом она чувствовала тревогу."
+      },
+      {
+        "en": "Exercise can reduce anxiety.",
+        "ru": "Спорт может снизить тревожность."
+      }
+    ],
+    "colloc": "anxiety about · social anxiety"
+  },
+  "a2-0349": {
+    "examples": [
+      {
+        "en": "Please accept my apology.",
+        "ru": "Пожалуйста, прими мои извинения."
+      },
+      {
+        "en": "I owe you an apology.",
+        "ru": "Я должен тебе извинения."
+      },
+      {
+        "en": "She accepted his apology.",
+        "ru": "Она приняла его извинения."
+      }
+    ],
+    "colloc": "make an apology · public apology"
+  },
+  "a2-0350": {
+    "examples": [
+      {
+        "en": "Do not judge by appearance.",
+        "ru": "Не суди по внешности."
+      },
+      {
+        "en": "Don't judge by appearance alone.",
+        "ru": "Не суди только по внешности."
+      },
+      {
+        "en": "The sudden appearance of fog slowed traffic.",
+        "ru": "Внезапное появление тумана замедлило движение."
+      }
+    ],
+    "colloc": "make an appearance · physical appearance"
+  },
+  "a2-0351": {
+    "examples": [
+      {
+        "en": "Send your job application.",
+        "ru": "Отправь заявление на работу."
+      },
+      {
+        "en": "Send your application by Friday.",
+        "ru": "Отправь заявку до пятницы."
+      },
+      {
+        "en": "This app has many applications.",
+        "ru": "У этого приложения много применений."
+      }
+    ],
+    "colloc": "job application · application form"
+  },
+  "a2-0352": {
+    "examples": [
+      {
+        "en": "I have a dentist appointment.",
+        "ru": "У меня запись к стоматологу."
+      },
+      {
+        "en": "I have a dentist appointment at three.",
+        "ru": "У меня запись к стоматологу в три."
+      },
+      {
+        "en": "Make an appointment online.",
+        "ru": "Запишись онлайн."
+      }
+    ],
+    "colloc": "make an appointment · appointment with"
+  },
+  "a2-0353": {
+    "examples": [
+      {
+        "en": "Try a different approach.",
+        "ru": "Попробуй другой подход."
+      },
+      {
+        "en": "We need a new approach to the problem.",
+        "ru": "Нужен новый подход к проблеме."
+      },
+      {
+        "en": "The plane began its approach.",
+        "ru": "Самолёт начал заход на посадку."
+      }
+    ],
+    "colloc": "approach to · take an approach"
+  },
+  "a2-0354": {
+    "examples": [
+      {
+        "en": "I admire modern architecture.",
+        "ru": "Я восхищаюсь современной архитектурой."
+      },
+      {
+        "en": "I love modern architecture.",
+        "ru": "Я люблю современную архитектуру."
+      },
+      {
+        "en": "The city is famous for its architecture.",
+        "ru": "Город знаменит архитектурой."
+      }
+    ],
+    "colloc": "modern architecture · architecture firm"
+  },
+  "a2-0355": {
+    "examples": [
+      {
+        "en": "Avoid a loud argument.",
+        "ru": "Избегай громкого спора."
+      },
+      {
+        "en": "We had an argument about money.",
+        "ru": "Мы поспорили о деньгах."
+      },
+      {
+        "en": "That's a strong argument for change.",
+        "ru": "Это сильный довод в пользу перемен."
+      }
+    ],
+    "colloc": "win an argument · without argument"
+  },
+  "a2-0356": {
+    "examples": [
+      {
+        "en": "We made travel arrangements.",
+        "ru": "Мы сделали договорённости о поездке."
+      },
+      {
+        "en": "We made travel arrangements early.",
+        "ru": "Мы рано организовали поездку."
+      },
+      {
+        "en": "Flower arrangements filled the hall.",
+        "ru": "Зал наполнили цветочные композиции."
+      }
+    ],
+    "colloc": "make arrangements · seating arrangement"
+  },
+  "a2-0357": {
+    "examples": [
+      {
+        "en": "Wait for the train arrival.",
+        "ru": "Жди прибытия поезда."
+      },
+      {
+        "en": "Please wait for my arrival.",
+        "ru": "Пожалуйста, дождись моего приезда."
+      },
+      {
+        "en": "Arrival time is 9:40 p.m.",
+        "ru": "Время прибытия — 21:40."
+      }
+    ],
+    "colloc": "on arrival · arrival gate"
+  },
+  "a2-0358": {
+    "examples": [
+      {
+        "en": "I read an interesting article.",
+        "ru": "Я прочитал интересную статью."
+      },
+      {
+        "en": "I read an interesting article today.",
+        "ru": "Сегодня прочитал интересную статью."
+      },
+      {
+        "en": "This shop sells leather articles.",
+        "ru": "В этом магазине продают изделия из кожи."
+      }
+    ],
+    "colloc": "newspaper article · article of clothing"
+  },
+  "a2-0359": {
+    "examples": [
+      {
+        "en": "She works as an assistant.",
+        "ru": "Она работает помощником."
+      },
+      {
+        "en": "She works as a teaching assistant.",
+        "ru": "Она работает ассистентом преподавателя."
+      },
+      {
+        "en": "Ask the shop assistant for help.",
+        "ru": "Попроси помощи у продавца."
+      }
+    ],
+    "colloc": "personal assistant · assistant manager"
+  },
+  "a2-0360": {
+    "examples": [
+      {
+        "en": "The athlete trains hard.",
+        "ru": "Спортсмен усердно тренируется."
+      },
+      {
+        "en": "The athlete trained every morning.",
+        "ru": "Спортсмен тренировался каждое утро."
+      },
+      {
+        "en": "Olympic athletes inspire many kids.",
+        "ru": "Олимпийские спортсмены вдохновляют многих детей."
+      }
+    ],
+    "colloc": "professional athlete · track athlete"
+  },
+  "a2-0361": {
+    "examples": [
+      {
+        "en": "The cafe has a warm atmosphere.",
+        "ru": "В кафе тёплая атмосфера."
+      },
+      {
+        "en": "The café has a cozy atmosphere.",
+        "ru": "В кафе уютная атмосфера."
+      },
+      {
+        "en": "Earth's atmosphere protects us.",
+        "ru": "Атмосфера Земли нас защищает."
+      }
+    ],
+    "colloc": "friendly atmosphere · atmosphere of"
+  },
+  "a2-0362": {
+    "examples": [
+      {
+        "en": "His first attempt failed.",
+        "ru": "Его первая попытка не удалась."
+      },
+      {
+        "en": "This was her second attempt.",
+        "ru": "Это была её вторая попытка."
+      },
+      {
+        "en": "Don't give up after one attempt.",
+        "ru": "Не сдавайся после одной попытки."
+      }
+    ],
+    "colloc": "make an attempt · failed attempt"
+  },
+  "a2-0363": {
+    "examples": [
+      {
+        "en": "Pay attention in class.",
+        "ru": "Обрати внимание на уроке."
+      },
+      {
+        "en": "Pay attention to the road.",
+        "ru": "Обрати внимание на дорогу."
+      },
+      {
+        "en": "The noise attracted attention.",
+        "ru": "Шум привлёк внимание."
+      }
+    ],
+    "colloc": "pay attention · attention to detail"
+  },
+  "a2-0364": {
+    "examples": [
+      {
+        "en": "A positive attitude helps.",
+        "ru": "Позитивное отношение помогает."
+      },
+      {
+        "en": "She has a positive attitude.",
+        "ru": "У неё позитивный настрой."
+      },
+      {
+        "en": "Your attitude affects the team.",
+        "ru": "Твоё отношение влияет на команду."
+      }
+    ],
+    "colloc": "positive attitude · attitude toward"
+  },
+  "a2-0365": {
+    "examples": [
+      {
+        "en": "Visit the main attractions.",
+        "ru": "Посети главные достопримечательности."
+      },
+      {
+        "en": "The museum is a major attraction.",
+        "ru": "Музей — главная достопримечательность."
+      },
+      {
+        "en": "There was an instant attraction between them.",
+        "ru": "Между ними возникло мгновенное притяжение."
+      }
+    ],
+    "colloc": "tourist attraction · main attraction"
+  },
+  "a2-0366": {
+    "examples": [
+      {
+        "en": "The audience clapped loudly.",
+        "ru": "Аудитория громко аплодировала."
+      },
+      {
+        "en": "The audience clapped for minutes.",
+        "ru": "Зрители аплодировали минутами."
+      },
+      {
+        "en": "Speak clearly to your audience.",
+        "ru": "Говори ясно для аудитории."
+      }
+    ],
+    "colloc": "live audience · target audience"
+  },
+  "a2-0367": {
+    "examples": [
+      {
+        "en": "Who is the author?",
+        "ru": "Кто автор?"
+      },
+      {
+        "en": "Who is the author of this book?",
+        "ru": "Кто автор этой книги?"
+      },
+      {
+        "en": "She is a bestselling author.",
+        "ru": "Она автор бестселлеров."
+      }
+    ],
+    "colloc": "author of · guest author"
+  },
+  "a2-0368": {
+    "examples": [
+      {
+        "en": "His score is above average.",
+        "ru": "Его балл выше среднего."
+      },
+      {
+        "en": "The average salary rose this year.",
+        "ru": "Средняя зарплата выросла в этом году."
+      },
+      {
+        "en": "On average, I sleep seven hours.",
+        "ru": "В среднем я сплю семь часов."
+      }
+    ],
+    "colloc": "on average · above average"
+  },
+  "a2-0369": {
+    "examples": [
+      {
+        "en": "She won an award.",
+        "ru": "Она получила награду."
+      },
+      {
+        "en": "She won an award for her design.",
+        "ru": "Она получила награду за дизайн."
+      },
+      {
+        "en": "The awards ceremony is tonight.",
+        "ru": "Церемония награждения сегодня вечером."
+      }
+    ],
+    "colloc": "win an award · award winner"
+  },
+  "a2-0370": {
+    "examples": [
+      {
+        "en": "Tell me your background.",
+        "ru": "Расскажи о своём опыте."
+      },
+      {
+        "en": "Tell me about your background.",
+        "ru": "Расскажи о своём бэкграунде."
+      },
+      {
+        "en": "Mountains filled the background of the photo.",
+        "ru": "Горы заполняли фон фото."
+      }
+    ],
+    "colloc": "background check · in the background"
+  },
+  "a2-0371": {
+    "examples": [
+      {
+        "en": "Pack a light backpack.",
+        "ru": "Собери лёгкий рюкзак."
+      },
+      {
+        "en": "Pack a light backpack for the hike.",
+        "ru": "Собери лёгкий рюкзак для похода."
+      },
+      {
+        "en": "I left my backpack on the bus.",
+        "ru": "Я оставил рюкзак в автобусе."
+      }
+    ],
+    "colloc": "backpack trip · school backpack"
+  },
+  "a2-0372": {
+    "examples": [
+      {
+        "en": "Keep a healthy balance.",
+        "ru": "Сохраняй здоровый баланс."
+      },
+      {
+        "en": "Try to keep work-life balance.",
+        "ru": "Старайся сохранять баланс работы и жизни."
+      },
+      {
+        "en": "Check your account balance.",
+        "ru": "Проверь баланс счёта."
+      }
+    ],
+    "colloc": "balance of · lose balance"
+  },
+  "a2-0373": {
+    "examples": [
+      {
+        "en": "Flowers grow on the balcony.",
+        "ru": "На балконе растут цветы."
+      },
+      {
+        "en": "We had coffee on the balcony.",
+        "ru": "Мы пили кофе на балконе."
+      },
+      {
+        "en": "Their balcony faces the park.",
+        "ru": "Их балкон выходит на парк."
+      }
+    ],
+    "colloc": "balcony view · balcony door"
+  },
+  "a2-0374": {
+    "examples": [
+      {
+        "en": "Put a bandage on it.",
+        "ru": "Наложи бинт."
+      },
+      {
+        "en": "Wrap a bandage around the cut.",
+        "ru": "Обмотай порез бинтом."
+      },
+      {
+        "en": "The nurse changed the bandage.",
+        "ru": "Медсестра сменила повязку."
+      }
+    ],
+    "colloc": "bandage up · adhesive bandage"
+  },
+  "a2-0375": {
+    "examples": [
+      {
+        "en": "Meet me at the bar.",
+        "ru": "Встреть меня в баре."
+      },
+      {
+        "en": "Meet me at the hotel bar.",
+        "ru": "Встретимся в баре отеля."
+      },
+      {
+        "en": "There's a chocolate bar in my bag.",
+        "ru": "В сумке шоколадка."
+      }
+    ],
+    "colloc": "bar of soap · coffee bar"
+  },
+  "a2-0376": {
+    "examples": [
+      {
+        "en": "Trust is the base of friendship.",
+        "ru": "Доверие — основа дружбы."
+      },
+      {
+        "en": "The company moved its base to Austin.",
+        "ru": "Компания перенесла базу в Остин."
+      },
+      {
+        "en": "Mix oil into the sauce base.",
+        "ru": "Добавь масло в основу соуса."
+      }
+    ],
+    "colloc": "military base · base of"
+  },
+  "a2-0377": {
+    "examples": [
+      {
+        "en": "The basement is cool.",
+        "ru": "В подвале прохладно."
+      },
+      {
+        "en": "We store bikes in the basement.",
+        "ru": "Мы храним велосипеды в подвале."
+      },
+      {
+        "en": "The basement flooded after rain.",
+        "ru": "После дождя подвал затопило."
+      }
+    ],
+    "colloc": "basement apartment · in the basement"
+  },
+  "a2-0378": {
+    "examples": [
+      {
+        "en": "History describes the battle.",
+        "ru": "История описывает битву."
+      },
+      {
+        "en": "They won a hard battle.",
+        "ru": "Они выиграли тяжёлую битву."
+      },
+      {
+        "en": "She's fighting a battle with illness.",
+        "ru": "Она ведёт борьбу с болезнью."
+      }
+    ],
+    "colloc": "battle against · battle of"
+  },
+  "a2-0379": {
+    "examples": [
+      {
+        "en": "Add beans to the salad.",
+        "ru": "Добавь фасоль в салат."
+      },
+      {
+        "en": "Soak the beans overnight.",
+        "ru": "Замочи фасоль на ночь."
+      },
+      {
+        "en": "Coffee beans smell amazing.",
+        "ru": "Кофейные зёрна пахнут потрясающе."
+      }
+    ],
+    "colloc": "coffee bean · green beans"
+  },
+  "a2-0380": {
+    "examples": [
+      {
+        "en": "Nature shows real beauty.",
+        "ru": "Природа показывает настоящую красоту."
+      },
+      {
+        "en": "The beauty of the coast amazed us.",
+        "ru": "Красота побережья нас поразила."
+      },
+      {
+        "en": "Natural beauty needs little makeup.",
+        "ru": "Естественная красота почти не требует макияжа."
+      }
+    ],
+    "colloc": "natural beauty · beauty salon"
+  },
+  "a2-0381": {
+    "examples": [
+      {
+        "en": "Good behavior is important.",
+        "ru": "Хорошее поведение важно."
+      },
+      {
+        "en": "Reward good behavior in kids.",
+        "ru": "Поощряй хорошее поведение у детей."
+      },
+      {
+        "en": "His behavior surprised everyone.",
+        "ru": "Его поведение всех удивило."
+      }
+    ],
+    "colloc": "behavior toward",
+    "note": "AmE: behavior; BrE: behaviour"
+  },
+  "a2-0382": {
+    "examples": [
+      {
+        "en": "Respect different beliefs.",
+        "ru": "Уважай разные убеждения."
+      },
+      {
+        "en": "She has a strong belief in fairness.",
+        "ru": "У неё сильная вера в справедливость."
+      },
+      {
+        "en": "That's a common belief here.",
+        "ru": "Это распространённое мнение здесь."
+      }
+    ],
+    "colloc": "belief in · beyond belief"
+  },
+  "a2-0383": {
+    "examples": [
+      {
+        "en": "Exercise has many benefits.",
+        "ru": "У упражнений много пользы."
+      },
+      {
+        "en": "Exercise has many health benefits.",
+        "ru": "У спорта много пользы для здоровья."
+      },
+      {
+        "en": "Employees get health benefits.",
+        "ru": "Сотрудники получают медстраховку."
+      }
+    ],
+    "colloc": "benefit from · for the benefit of"
+  },
+  "a2-0384": {
+    "examples": [
+      {
+        "en": "I ride my bicycle daily.",
+        "ru": "Я езжу на велосипеде ежедневно."
+      },
+      {
+        "en": "I ride my bicycle to work.",
+        "ru": "Я езжу на работу на велосипеде."
+      },
+      {
+        "en": "Rent a bicycle by the hour.",
+        "ru": "Арендуй велосипед почасово."
+      }
+    ],
+    "colloc": "bicycle lane · by bicycle"
+  },
+  "a2-0385": {
+    "examples": [
+      {
+        "en": "Biology is my favorite subject.",
+        "ru": "Биология — мой любимый предмет."
+      },
+      {
+        "en": "She studies biology at college.",
+        "ru": "Она изучает биологию в колледже."
+      },
+      {
+        "en": "Biology explains how living things work.",
+        "ru": "Биология объясняет, как устроено живое."
+      }
+    ],
+    "colloc": "biology class · marine biology"
+  },
+  "a2-0386": {
+    "examples": [
+      {
+        "en": "Celebrate the baby's birth.",
+        "ru": "Отпразднуй рождение малыша."
+      },
+      {
+        "en": "She gave birth in the spring.",
+        "ru": "Она родила весной."
+      },
+      {
+        "en": "What's your date of birth?",
+        "ru": "Какая у тебя дата рождения?"
+      }
+    ],
+    "colloc": "date of birth · birth certificate"
+  },
+  "a2-0387": {
+    "examples": [
+      {
+        "en": "Have a biscuit with tea.",
+        "ru": "Возьми печенье к чаю."
+      },
+      {
+        "en": "Would you like a biscuit with tea?",
+        "ru": "Хочешь печенье к чаю?"
+      },
+      {
+        "en": "Pack biscuits for the road.",
+        "ru": "Возьми печенье в дорогу."
+      }
+    ],
+    "colloc": "chocolate biscuit",
+    "note": "BrE: biscuit ≈ AmE cookie"
+  },
+  "a2-0388": {
+    "examples": [
+      {
+        "en": "A warm blanket helps.",
+        "ru": "Тёплое одеяло помогает."
+      },
+      {
+        "en": "Pull up the blanket — it's cold.",
+        "ru": "Натяни одеяло — холодно."
+      },
+      {
+        "en": "We sat on a picnic blanket.",
+        "ru": "Мы сидели на пледе для пикника."
+      }
+    ],
+    "colloc": "blanket of snow · electric blanket"
+  },
+  "a2-0389": {
+    "examples": [
+      {
+        "en": "Walk one more block.",
+        "ru": "Пройди ещё один квартал."
+      },
+      {
+        "en": "Our office is two blocks away.",
+        "ru": "Наш офис в двух кварталах."
+      },
+      {
+        "en": "Don't block the driveway.",
+        "ru": "Не блокируй подъезд."
+      }
+    ],
+    "colloc": "building block · block of flats"
+  },
+  "a2-0390": {
+    "examples": [
+      {
+        "en": "She writes a travel blog.",
+        "ru": "Она ведёт тревел-блог."
+      },
+      {
+        "en": "She writes a travel blog.",
+        "ru": "Она ведёт тревел-блог."
+      },
+      {
+        "en": "I found this tip on a blog.",
+        "ru": "Нашёл этот совет в блоге."
+      }
+    ],
+    "colloc": "blog post · food blog"
+  },
+  "a2-0391": {
+    "examples": [
+      {
+        "en": "Write it on the board.",
+        "ru": "Напиши это на доске."
+      },
+      {
+        "en": "Write your name on the board.",
+        "ru": "Напиши имя на доске."
+      },
+      {
+        "en": "Welcome aboard!",
+        "ru": "Добро пожаловать на борт!"
+      }
+    ],
+    "colloc": "on board · bulletin board"
+  },
+  "a2-0392": {
+    "examples": [
+      {
+        "en": "Employees received a bonus.",
+        "ru": "Сотрудники получили бонус."
+      },
+      {
+        "en": "Employees got a holiday bonus.",
+        "ru": "Сотрудники получили праздничный бонус."
+      },
+      {
+        "en": "That's a nice bonus.",
+        "ru": "Приятный бонус."
+      }
+    ],
+    "colloc": "bonus payment · as a bonus"
+  },
+  "a2-0393": {
+    "examples": [
+      {
+        "en": "Show your passport at the border.",
+        "ru": "Покажи паспорт на границе."
+      },
+      {
+        "en": "We crossed the border at dawn.",
+        "ru": "Мы пересекли границу на рассвете."
+      },
+      {
+        "en": "France shares a border with Spain.",
+        "ru": "Франция граничит с Испанией."
+      }
+    ],
+    "colloc": "border control · cross the border"
+  },
+  "a2-0394": {
+    "examples": [
+      {
+        "en": "Boredom makes time slow.",
+        "ru": "Скука замедляет время."
+      },
+      {
+        "en": "Boredom made him check his phone.",
+        "ru": "От скуки он смотрел телефон."
+      },
+      {
+        "en": "Fight boredom with a good book.",
+        "ru": "Борись со скукой хорошей книгой."
+      }
+    ],
+    "colloc": "boredom of · out of boredom"
+  },
+  "a2-0395": {
+    "examples": [
+      {
+        "en": "Look at the bottom line.",
+        "ru": "Посмотри на нижнюю строку."
+      },
+      {
+        "en": "The keys fell to the bottom of the bag.",
+        "ru": "Ключи упали на дно сумки."
+      },
+      {
+        "en": "Read from top to bottom.",
+        "ru": "Читай сверху вниз."
+      }
+    ],
+    "colloc": "at the bottom · rock bottom"
+  },
+  "a2-0396": {
+    "examples": [
+      {
+        "en": "Sleep rests your brain.",
+        "ru": "Сон даёт мозгу отдых."
+      },
+      {
+        "en": "Use your brain before guessing.",
+        "ru": "Подумай головой, прежде чем гадать."
+      },
+      {
+        "en": "The human brain needs sleep.",
+        "ru": "Человеческому мозгу нужен сон."
+      }
+    ],
+    "colloc": "brain storm · brain fog"
+  },
+  "a2-0397": {
+    "examples": [
+      {
+        "en": "The bank has a new branch.",
+        "ru": "У банка новый филиал."
+      },
+      {
+        "en": "A branch fell during the storm.",
+        "ru": "Во время бури упала ветка."
+      },
+      {
+        "en": "Open an account at our local branch.",
+        "ru": "Открой счёт в нашем местном отделении."
+      }
+    ],
+    "colloc": "tree branch · bank branch"
+  },
+  "a2-0398": {
+    "examples": [
+      {
+        "en": "Which brand do you trust?",
+        "ru": "Какому бренду ты доверяешь?"
+      },
+      {
+        "en": "What's your favorite brand of coffee?",
+        "ru": "Какой твой любимый бренд кофе?"
+      },
+      {
+        "en": "She built a strong personal brand.",
+        "ru": "Она создала сильный личный бренд."
+      }
+    ],
+    "colloc": "brand name · brand new"
+  },
+  "a2-0399": {
+    "examples": [
+      {
+        "en": "Take a deep breath.",
+        "ru": "Сделай глубокий вдох."
+      },
+      {
+        "en": "Take a deep breath.",
+        "ru": "Сделай глубокий вдох."
+      },
+      {
+        "en": "I was out of breath after the climb.",
+        "ru": "После подъёма у меня сбилось дыхание."
+      }
+    ],
+    "colloc": "out of breath · hold your breath"
+  },
+  "a2-0400": {
+    "examples": [
+      {
+        "en": "The wall is made of brick.",
+        "ru": "Стена из кирпича."
+      },
+      {
+        "en": "The house is made of red brick.",
+        "ru": "Дом из красного кирпича."
+      },
+      {
+        "en": "Kids played with toy bricks.",
+        "ru": "Дети играли кубиками."
+      }
+    ],
+    "colloc": "brick wall · brick by brick"
+  },
+  "a2-0401": {
+    "examples": [
+      {
+        "en": "Use a soft brush.",
+        "ru": "Используй мягкую щётку."
+      },
+      {
+        "en": "I need a new toothbrush.",
+        "ru": "Мне нужна новая зубная щётка."
+      },
+      {
+        "en": "Brush the crumbs off the table.",
+        "ru": "Смахни крошки со стола."
+      }
+    ],
+    "colloc": "paint brush · brush aside"
+  },
+  "a2-0402": {
+    "examples": [
+      {
+        "en": "Plan a monthly budget.",
+        "ru": "Спланируй месячный бюджет."
+      },
+      {
+        "en": "We stay within our monthly budget.",
+        "ru": "Мы укладываемся в месячный бюджет."
+      },
+      {
+        "en": "Travel on a tight budget.",
+        "ru": "Путешествуй с скромным бюджетом."
+      }
+    ],
+    "colloc": "budget for · on a budget"
+  },
+  "a2-0403": {
+    "examples": [
+      {
+        "en": "There is a bug in the app.",
+        "ru": "В приложении ошибка."
+      },
+      {
+        "en": "There's a bug in the software.",
+        "ru": "В программе ошибка."
+      },
+      {
+        "en": "A bug flew into the room.",
+        "ru": "В комнату влетело насекомое."
+      }
+    ],
+    "colloc": "computer bug · bug fix"
+  },
+  "a2-0404": {
+    "examples": [
+      {
+        "en": "Buy a bunch of bananas.",
+        "ru": "Купи гроздь бананов."
+      },
+      {
+        "en": "Buy a bunch of bananas.",
+        "ru": "Купи связку бананов."
+      },
+      {
+        "en": "Thanks a bunch!",
+        "ru": "Огромное спасибо!"
+      }
+    ],
+    "colloc": "bunch of · a whole bunch"
+  },
+  "a2-0405": {
+    "examples": [
+      {
+        "en": "Do not carry that burden alone.",
+        "ru": "Не неси это бремя в одиночку."
+      },
+      {
+        "en": "Don't carry that burden alone.",
+        "ru": "Не неси эту ношу в одиночку."
+      },
+      {
+        "en": "High taxes can be a burden.",
+        "ru": "Высокие налоги могут быть бременем."
+      }
+    ],
+    "colloc": "burden of · burden on"
+  },
+  "a2-0406": {
+    "examples": [
+      {
+        "en": "She started a small business.",
+        "ru": "Она открыла небольшой бизнес."
+      },
+      {
+        "en": "She started her own business.",
+        "ru": "Она открыла свой бизнес."
+      },
+      {
+        "en": "It's none of your business.",
+        "ru": "Это не твоё дело."
+      }
+    ],
+    "colloc": "do business · business trip"
+  }
+}

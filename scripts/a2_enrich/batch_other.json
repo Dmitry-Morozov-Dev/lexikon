@@ -1,0 +1,19 @@
+{
+  "a2-0876": {
+    "examples": [
+      {
+        "en": "The company is worth billions.",
+        "ru": "Компания стоит миллиарды."
+      },
+      {
+        "en": "The company is worth a billion dollars.",
+        "ru": "Компания стоит миллиард долларов."
+      },
+      {
+        "en": "Billions of stars fill the sky.",
+        "ru": "Миллиарды звёзд заполняют небо."
+      }
+    ],
+    "colloc": "a billion · billions of"
+  }
+}

@@ -1,0 +1,1213 @@
+{
+  "a2-0001": {
+    "examples": [
+      {
+        "en": "I accept your offer.",
+        "ru": "Я принимаю твоё предложение."
+      },
+      {
+        "en": "She accepted the job offer yesterday.",
+        "ru": "Она вчера приняла предложение о работе."
+      },
+      {
+        "en": "They won't accept late applications.",
+        "ru": "Они не принимают поздние заявки."
+      }
+    ],
+    "colloc": "accept an offer · accept responsibility",
+    "note": "accept ≠ except",
+    "pattern": "accept + N / accept that"
+  },
+  "a2-0002": {
+    "examples": [
+      {
+        "en": "She achieved her goal.",
+        "ru": "Она достигла цели."
+      },
+      {
+        "en": "She achieved her goal this year.",
+        "ru": "Она достигла цели в этом году."
+      },
+      {
+        "en": "Hard work helps you achieve more.",
+        "ru": "Упорный труд помогает добиться большего."
+      }
+    ],
+    "colloc": "achieve a goal · achieve success",
+    "pattern": "achieve + N"
+  },
+  "a2-0003": {
+    "examples": [
+      {
+        "en": "He admitted his mistake.",
+        "ru": "Он признал ошибку."
+      },
+      {
+        "en": "He admitted that he was wrong.",
+        "ru": "Он признал, что был неправ."
+      },
+      {
+        "en": "I must admit — the food is great.",
+        "ru": "Должен признать — еда отличная."
+      }
+    ],
+    "colloc": "admit a mistake · admit to",
+    "pattern": "admit + that / admit to + Ving"
+  },
+  "a2-0004": {
+    "examples": [
+      {
+        "en": "I advise you to rest.",
+        "ru": "Советую тебе отдохнуть."
+      },
+      {
+        "en": "Doctors advise drinking more water.",
+        "ru": "Врачи советуют пить больше воды."
+      },
+      {
+        "en": "Can you advise me on this?",
+        "ru": "Можешь посоветовать мне по этому поводу?"
+      }
+    ],
+    "colloc": "advise against · advise sb to",
+    "pattern": "advise sb to + V"
+  },
+  "a2-0005": {
+    "examples": [
+      {
+        "en": "We cannot afford a car.",
+        "ru": "Мы не можем позволить себе машину."
+      },
+      {
+        "en": "We can't afford a new car right now.",
+        "ru": "Сейчас мы не можем позволить себе новую машину."
+      },
+      {
+        "en": "If I can afford it, I'll travel more.",
+        "ru": "Если смогу себе позволить — буду больше путешествовать."
+      }
+    ],
+    "colloc": "can't afford · afford to",
+    "pattern": "afford + N / afford to + V"
+  },
+  "a2-0006": {
+    "examples": [
+      {
+        "en": "Parents allow us to go.",
+        "ru": "Родители разрешают нам идти."
+      },
+      {
+        "en": "The rules don't allow pets.",
+        "ru": "Правила не разрешают животных."
+      },
+      {
+        "en": "Please allow me to explain.",
+        "ru": "Позвольте мне объяснить."
+      }
+    ],
+    "colloc": "allow sb to · not allow",
+    "pattern": "allow sb to + V"
+  },
+  "a2-0007": {
+    "examples": [
+      {
+        "en": "They announce the results.",
+        "ru": "Они объявляют результаты."
+      },
+      {
+        "en": "They announced the winners on stage.",
+        "ru": "Они объявили победителей на сцене."
+      },
+      {
+        "en": "The company announced new prices.",
+        "ru": "Компания объявила новые цены."
+      }
+    ],
+    "colloc": "announce a decision · announce that",
+    "pattern": "announce + N / that"
+  },
+  "a2-0008": {
+    "examples": [
+      {
+        "en": "I apologize for being late.",
+        "ru": "Извиняюсь за опоздание."
+      },
+      {
+        "en": "I apologize for being late.",
+        "ru": "Извиняюсь за опоздание."
+      },
+      {
+        "en": "She apologized to her roommate.",
+        "ru": "Она извинилась перед соседкой."
+      }
+    ],
+    "colloc": "apologize for · apologize to",
+    "note": "AmE: apologize; BrE: apologise",
+    "pattern": "apologize for + N/Ving"
+  },
+  "a2-0009": {
+    "examples": [
+      {
+        "en": "A rainbow appears after rain.",
+        "ru": "Радуга появляется после дождя."
+      },
+      {
+        "en": "Dark clouds appeared on the horizon.",
+        "ru": "На горизонте появились тёмные облака."
+      },
+      {
+        "en": "She appeared calm during the interview.",
+        "ru": "На собеседовании она выглядела спокойной."
+      }
+    ],
+    "colloc": "appear to · suddenly appear",
+    "pattern": "appear + adj / appear to + V"
+  },
+  "a2-0010": {
+    "examples": [
+      {
+        "en": "Apply for the job online.",
+        "ru": "Подай заявку на работу онлайн."
+      },
+      {
+        "en": "I applied for three jobs last week.",
+        "ru": "На прошлой неделе я подал заявки на три работы."
+      },
+      {
+        "en": "Apply sunscreen before you go out.",
+        "ru": "Нанеси солнцезащитный крем перед выходом."
+      }
+    ],
+    "colloc": "apply for · apply to",
+    "pattern": "apply for + N"
+  },
+  "a2-0011": {
+    "examples": [
+      {
+        "en": "I appreciate your help.",
+        "ru": "Я ценю твою помощь."
+      },
+      {
+        "en": "I really appreciate your help.",
+        "ru": "Я очень ценю твою помощь."
+      },
+      {
+        "en": "I'd appreciate a quick reply.",
+        "ru": "Буду благодарен за быстрый ответ."
+      }
+    ],
+    "colloc": "appreciate help · much appreciated",
+    "pattern": "appreciate + N / appreciate it if"
+  },
+  "a2-0012": {
+    "examples": [
+      {
+        "en": "Do not argue about money.",
+        "ru": "Не спорьте о деньгах."
+      },
+      {
+        "en": "They argued about money again.",
+        "ru": "Они снова спорили о деньгах."
+      },
+      {
+        "en": "I won't argue with that.",
+        "ru": "Не буду с этим спорить."
+      }
+    ],
+    "colloc": "argue about · argue with",
+    "pattern": "argue about / with"
+  },
+  "a2-0013": {
+    "examples": [
+      {
+        "en": "Arrange a meeting tomorrow.",
+        "ru": "Организуй встречу на завтра."
+      },
+      {
+        "en": "Can you arrange a meeting for Friday?",
+        "ru": "Можешь организовать встречу на пятницу?"
+      },
+      {
+        "en": "We arranged everything in advance.",
+        "ru": "Мы всё устроили заранее."
+      }
+    ],
+    "colloc": "arrange a meeting · arrange for",
+    "pattern": "arrange + N / arrange to + V"
+  },
+  "a2-0014": {
+    "examples": [
+      {
+        "en": "I attend evening classes.",
+        "ru": "Я посещаю вечерние занятия."
+      },
+      {
+        "en": "More than 200 people attended the talk.",
+        "ru": "На лекцию пришло больше 200 человек."
+      },
+      {
+        "en": "She can't attend class today.",
+        "ru": "Она не может присутствовать на занятии сегодня."
+      }
+    ],
+    "colloc": "attend a meeting · attend school",
+    "pattern": "attend + N"
+  },
+  "a2-0015": {
+    "examples": [
+      {
+        "en": "Avoid busy roads at night.",
+        "ru": "Избегай оживлённых дорог ночью."
+      },
+      {
+        "en": "Try to avoid rush hour traffic.",
+        "ru": "Старайся избегать пробок в час пик."
+      },
+      {
+        "en": "He avoided answering the question.",
+        "ru": "Он избежал ответа на вопрос."
+      }
+    ],
+    "colloc": "avoid traffic · avoid doing",
+    "pattern": "avoid + N / avoid + Ving"
+  },
+  "a2-0016": {
+    "examples": [
+      {
+        "en": "She bakes bread on Sundays.",
+        "ru": "Она печёт хлеб по воскресеньям."
+      },
+      {
+        "en": "She baked cookies for the party.",
+        "ru": "Она испекла печенье к вечеринке."
+      },
+      {
+        "en": "I love the smell of baking bread.",
+        "ru": "Обожаю запах пекущегося хлеба."
+      }
+    ],
+    "colloc": "bake a cake · freshly baked",
+    "pattern": "bake + N"
+  },
+  "a2-0017": {
+    "examples": [
+      {
+        "en": "Please behave in class.",
+        "ru": "Пожалуйста, веди себя на уроке."
+      },
+      {
+        "en": "The kids behaved well at the restaurant.",
+        "ru": "Дети хорошо себя вели в ресторане."
+      },
+      {
+        "en": "Please behave yourselves.",
+        "ru": "Ведите себя прилично."
+      }
+    ],
+    "colloc": "behave well · behave yourself",
+    "pattern": "behave + adv"
+  },
+  "a2-0018": {
+    "examples": [
+      {
+        "en": "I believe your story.",
+        "ru": "Я верю твоей истории."
+      },
+      {
+        "en": "I believe we can fix this.",
+        "ru": "Верю, что мы это исправим."
+      },
+      {
+        "en": "Do you believe in ghosts?",
+        "ru": "Ты веришь в призраков?"
+      }
+    ],
+    "colloc": "believe in · hard to believe",
+    "pattern": "believe + that / believe in"
+  },
+  "a2-0019": {
+    "examples": [
+      {
+        "en": "Do not blame yourself.",
+        "ru": "Не вини себя."
+      },
+      {
+        "en": "Don't blame yourself for the delay.",
+        "ru": "Не вини себя за задержку."
+      },
+      {
+        "en": "She blamed the weather for the crash.",
+        "ru": "Она обвинила погоду в аварии."
+      }
+    ],
+    "colloc": "blame sb for · take the blame",
+    "pattern": "blame sb for + N"
+  },
+  "a2-0020": {
+    "examples": [
+      {
+        "en": "Boil the water first.",
+        "ru": "Сначала вскипяти воду."
+      },
+      {
+        "en": "Boil the pasta for eight minutes.",
+        "ru": "Вари пасту восемь минут."
+      },
+      {
+        "en": "The water is boiling.",
+        "ru": "Вода кипит."
+      }
+    ],
+    "colloc": "boil water · boiling point",
+    "pattern": "boil + N"
+  },
+  "a2-0021": {
+    "examples": [
+      {
+        "en": "Breathe slowly and calmly.",
+        "ru": "Дыши медленно и спокойно."
+      },
+      {
+        "en": "Breathe deeply and relax.",
+        "ru": "Дыши глубоко и расслабься."
+      },
+      {
+        "en": "I can hardly breathe in this heat.",
+        "ru": "В такую жару почти нечем дышать."
+      }
+    ],
+    "colloc": "breathe in · take a breath",
+    "pattern": "breathe + adv"
+  },
+  "a2-0022": {
+    "examples": [
+      {
+        "en": "They cancel the flight.",
+        "ru": "Они отменяют рейс."
+      },
+      {
+        "en": "They canceled the flight because of fog.",
+        "ru": "Они отменили рейс из-за тумана."
+      },
+      {
+        "en": "Can I cancel my reservation?",
+        "ru": "Можно отменить бронь?"
+      }
+    ],
+    "colloc": "cancel a meeting · cancelation",
+    "note": "AmE: cancel/canceled",
+    "pattern": "cancel + N"
+  },
+  "a2-0023": {
+    "examples": [
+      {
+        "en": "We celebrate her birthday.",
+        "ru": "Мы празднуем её день рождения."
+      },
+      {
+        "en": "We celebrated her promotion with dinner.",
+        "ru": "Мы отметили её повышение ужином."
+      },
+      {
+        "en": "How do you celebrate New Year?",
+        "ru": "Как вы отмечаете Новый год?"
+      }
+    ],
+    "colloc": "celebrate a birthday · celebrate with",
+    "pattern": "celebrate + N"
+  },
+  "a2-0024": {
+    "examples": [
+      {
+        "en": "This task challenges me.",
+        "ru": "Это задание меня бросает вызов."
+      },
+      {
+        "en": "This puzzle will challenge you.",
+        "ru": "Этот пазл тебя бросит вызов."
+      },
+      {
+        "en": "She challenged him to a race.",
+        "ru": "Она вызвала его на гонку."
+      }
+    ],
+    "colloc": "challenge yourself · face a challenge",
+    "pattern": "challenge + N / challenge sb to"
+  },
+  "a2-0025": {
+    "examples": [
+      {
+        "en": "We chat after work.",
+        "ru": "Мы болтаем после работы."
+      },
+      {
+        "en": "We chatted for an hour online.",
+        "ru": "Мы час болтали онлайн."
+      },
+      {
+        "en": "She loves to chat with neighbors.",
+        "ru": "Она любит болтать с соседями."
+      }
+    ],
+    "colloc": "chat with · chat about",
+    "pattern": "chat with / about"
+  },
+  "a2-0026": {
+    "examples": [
+      {
+        "en": "Fans cheer the team.",
+        "ru": "Болельщики подбадривают команду."
+      },
+      {
+        "en": "The crowd cheered loudly.",
+        "ru": "Толпа громко болела."
+      },
+      {
+        "en": "Cheer up — things will improve.",
+        "ru": "Не унывай — всё наладится."
+      }
+    ],
+    "colloc": "cheer up · cheer for",
+    "pattern": "cheer + adv / cheer up"
+  },
+  "a2-0027": {
+    "examples": [
+      {
+        "en": "Customers complain about noise.",
+        "ru": "Клиенты жалуются на шум."
+      },
+      {
+        "en": "Customers complained about the noise.",
+        "ru": "Клиенты жаловались на шум."
+      },
+      {
+        "en": "I don't want to complain, but…",
+        "ru": "Не хочу жаловаться, но…"
+      }
+    ],
+    "colloc": "complain about · complain to",
+    "pattern": "complain about + N"
+  },
+  "a2-0028": {
+    "examples": [
+      {
+        "en": "Complete the form carefully.",
+        "ru": "Аккуратно заполни форму."
+      },
+      {
+        "en": "Please complete the form online.",
+        "ru": "Пожалуйста, заполните форму онлайн."
+      },
+      {
+        "en": "She completed the course in June.",
+        "ru": "Она закончила курс в июне."
+      }
+    ],
+    "colloc": "complete a form · complete the task",
+    "pattern": "complete + N"
+  },
+  "a2-0029": {
+    "examples": [
+      {
+        "en": "Concentrate on your work.",
+        "ru": "Сосредоточься на работе."
+      },
+      {
+        "en": "I can't concentrate with loud music.",
+        "ru": "Не могу сосредоточиться под громкую музыку."
+      },
+      {
+        "en": "Concentrate on one task at a time.",
+        "ru": "Сосредоточься на одной задаче за раз."
+      }
+    ],
+    "colloc": "concentrate on",
+    "pattern": "concentrate on + N"
+  },
+  "a2-0030": {
+    "examples": [
+      {
+        "en": "Confirm your email address.",
+        "ru": "Подтверди адрес почты."
+      },
+      {
+        "en": "Please confirm your email address.",
+        "ru": "Подтвердите адрес электронной почты."
+      },
+      {
+        "en": "The hotel confirmed our booking.",
+        "ru": "Отель подтвердил бронь."
+      }
+    ],
+    "colloc": "confirm a booking · confirm that",
+    "pattern": "confirm + N / that"
+  },
+  "a2-0031": {
+    "examples": [
+      {
+        "en": "Connect the cable now.",
+        "ru": "Подключи кабель сейчас."
+      },
+      {
+        "en": "Connect the cable to the laptop.",
+        "ru": "Подключи кабель к ноутбуку."
+      },
+      {
+        "en": "I feel connected to this place.",
+        "ru": "Я чувствую связь с этим местом."
+      }
+    ],
+    "colloc": "connect to · stay connected",
+    "pattern": "connect + N to"
+  },
+  "a2-0032": {
+    "examples": [
+      {
+        "en": "Consider all the options.",
+        "ru": "Рассмотри все варианты."
+      },
+      {
+        "en": "We're considering a move abroad.",
+        "ru": "Мы рассматриваем переезд за границу."
+      },
+      {
+        "en": "Consider all the options first.",
+        "ru": "Сначала рассмотри все варианты."
+      }
+    ],
+    "colloc": "consider doing · under consideration",
+    "pattern": "consider + N / consider + Ving"
+  },
+  "a2-0033": {
+    "examples": [
+      {
+        "en": "This box contains tools.",
+        "ru": "В этой коробке инструменты."
+      },
+      {
+        "en": "This box contains old letters.",
+        "ru": "В этой коробке старые письма."
+      },
+      {
+        "en": "The drink contains no sugar.",
+        "ru": "В напитке нет сахара."
+      }
+    ],
+    "colloc": "contain information · contain sugar",
+    "pattern": "contain + N"
+  },
+  "a2-0034": {
+    "examples": [
+      {
+        "en": "Continue reading the text.",
+        "ru": "Продолжай читать текст."
+      },
+      {
+        "en": "Please continue with your story.",
+        "ru": "Продолжай свой рассказ."
+      },
+      {
+        "en": "The rain continued all night.",
+        "ru": "Дождь шёл всю ночь."
+      }
+    ],
+    "colloc": "continue to · continue doing",
+    "pattern": "continue + Ving / continue to + V"
+  },
+  "a2-0035": {
+    "examples": [
+      {
+        "en": "Control your spending.",
+        "ru": "Контролируй расходы."
+      },
+      {
+        "en": "She controls the budget carefully.",
+        "ru": "Она тщательно контролирует бюджет."
+      },
+      {
+        "en": "Try to control your temper.",
+        "ru": "Постарайся контролировать вспыльчивость."
+      }
+    ],
+    "colloc": "remote control · under control",
+    "pattern": "control + N"
+  },
+  "a2-0036": {
+    "examples": [
+      {
+        "en": "She convinced me to stay.",
+        "ru": "Она убедила меня остаться."
+      },
+      {
+        "en": "I convinced him to join us.",
+        "ru": "Я убедил его присоединиться."
+      },
+      {
+        "en": "Nothing will convince her otherwise.",
+        "ru": "Ничто не убедит её в обратном."
+      }
+    ],
+    "colloc": "convince sb to · convince of",
+    "pattern": "convince sb to + V"
+  },
+  "a2-0037": {
+    "examples": [
+      {
+        "en": "Correct the spelling errors.",
+        "ru": "Исправь ошибки в написании."
+      },
+      {
+        "en": "Please correct any mistakes.",
+        "ru": "Пожалуйста, исправь ошибки."
+      },
+      {
+        "en": "The teacher corrected my essay.",
+        "ru": "Учитель исправил моё эссе."
+      }
+    ],
+    "colloc": "correct a mistake · politically correct",
+    "pattern": "correct + N"
+  },
+  "a2-0038": {
+    "examples": [
+      {
+        "en": "Create a new account.",
+        "ru": "Создай новый аккаунт."
+      },
+      {
+        "en": "They created a new app together.",
+        "ru": "Они вместе создали новое приложение."
+      },
+      {
+        "en": "Art creates strong emotions.",
+        "ru": "Искусство вызывает сильные эмоции."
+      }
+    ],
+    "colloc": "create a account · create jobs",
+    "pattern": "create + N"
+  },
+  "a2-0039": {
+    "examples": [
+      {
+        "en": "Cross the street carefully.",
+        "ru": "Осторожно переходи улицу."
+      },
+      {
+        "en": "Cross the street at the lights.",
+        "ru": "Переходи улицу на светофоре."
+      },
+      {
+        "en": "Don't cross that line.",
+        "ru": "Не переходи эту черту."
+      }
+    ],
+    "colloc": "cross the street · cross out",
+    "pattern": "cross + N"
+  },
+  "a2-0040": {
+    "examples": [
+      {
+        "en": "Storms can damage roofs.",
+        "ru": "Штормы могут повредить крыши."
+      },
+      {
+        "en": "The storm damaged several roofs.",
+        "ru": "Буря повредила несколько крыш."
+      },
+      {
+        "en": "Smoking can damage your health.",
+        "ru": "Курение может повредить здоровью."
+      }
+    ],
+    "colloc": "damage control · cause damage",
+    "pattern": "damage + N"
+  },
+  "a2-0041": {
+    "examples": [
+      {
+        "en": "I deal with customers.",
+        "ru": "Я работаю с клиентами."
+      },
+      {
+        "en": "How do you deal with stress?",
+        "ru": "Как ты справляешься со стрессом?"
+      },
+      {
+        "en": "We deal with customers all day.",
+        "ru": "Мы весь день работаем с клиентами."
+      }
+    ],
+    "colloc": "deal with · big deal",
+    "pattern": "deal with + N"
+  },
+  "a2-0042": {
+    "examples": [
+      {
+        "en": "They deliver packages daily.",
+        "ru": "Они доставляют посылки ежедневно."
+      },
+      {
+        "en": "They deliver groceries the same day.",
+        "ru": "Они доставляют продукты в тот же день."
+      },
+      {
+        "en": "She delivered a great speech.",
+        "ru": "Она произнесла отличную речь."
+      }
+    ],
+    "colloc": "deliver a package · home delivery",
+    "pattern": "deliver + N"
+  },
+  "a2-0043": {
+    "examples": [
+      {
+        "en": "Success depends on practice.",
+        "ru": "Успех зависит от практики."
+      },
+      {
+        "en": "It depends on the weather.",
+        "ru": "Это зависит от погоды."
+      },
+      {
+        "en": "Children depend on their parents.",
+        "ru": "Дети зависят от родителей."
+      }
+    ],
+    "colloc": "depend on · it depends",
+    "pattern": "depend on + N"
+  },
+  "a2-0044": {
+    "examples": [
+      {
+        "en": "Describe your hometown briefly.",
+        "ru": "Кратко опиши родной город."
+      },
+      {
+        "en": "Can you describe the man you saw?",
+        "ru": "Можешь описать мужчину, которого видел?"
+      },
+      {
+        "en": "She described her trip in detail.",
+        "ru": "Она подробно описала поездку."
+      }
+    ],
+    "colloc": "describe as · briefly describe",
+    "pattern": "describe + N"
+  },
+  "a2-0045": {
+    "examples": [
+      {
+        "en": "You deserve a break.",
+        "ru": "Ты заслуживаешь перерыв."
+      },
+      {
+        "en": "You deserve a long vacation.",
+        "ru": "Ты заслуживаешь длинный отпуск."
+      },
+      {
+        "en": "Nobody deserves to be treated that way.",
+        "ru": "Никто не заслуживает такого отношения."
+      }
+    ],
+    "colloc": "deserve better · well deserved",
+    "pattern": "deserve + N / to + V"
+  },
+  "a2-0046": {
+    "examples": [
+      {
+        "en": "She designs websites.",
+        "ru": "Она проектирует сайты."
+      },
+      {
+        "en": "She designed the company logo.",
+        "ru": "Она разработала логотип компании."
+      },
+      {
+        "en": "We need to design a better plan.",
+        "ru": "Нужно разработать лучший план."
+      }
+    ],
+    "colloc": "design a website · by design",
+    "pattern": "design + N"
+  },
+  "a2-0047": {
+    "examples": [
+      {
+        "en": "Fire can destroy forests.",
+        "ru": "Огонь может уничтожить леса."
+      },
+      {
+        "en": "Fire destroyed the old warehouse.",
+        "ru": "Огонь уничтожил старый склад."
+      },
+      {
+        "en": "Don't let fear destroy your plans.",
+        "ru": "Не дай страху разрушить планы."
+      }
+    ],
+    "colloc": "destroy evidence · totally destroy",
+    "pattern": "destroy + N"
+  },
+  "a2-0048": {
+    "examples": [
+      {
+        "en": "Develop your speaking skills.",
+        "ru": "Развивай навыки речи."
+      },
+      {
+        "en": "The town developed quickly after 2010.",
+        "ru": "Город быстро развился после 2010."
+      },
+      {
+        "en": "She developed a love for jazz.",
+        "ru": "У неё появилась любовь к джазу."
+      }
+    ],
+    "colloc": "develop skills · develop into",
+    "pattern": "develop + N"
+  },
+  "a2-0049": {
+    "examples": [
+      {
+        "en": "I disagree with that idea.",
+        "ru": "Я не согласен с этой идеей."
+      },
+      {
+        "en": "I disagree with that opinion.",
+        "ru": "Я не согласен с этим мнением."
+      },
+      {
+        "en": "We disagree about politics.",
+        "ru": "Мы расходимся во мнениях о политике."
+      }
+    ],
+    "colloc": "disagree with · agree to disagree",
+    "pattern": "disagree with + N",
+    "syn": "agree"
+  },
+  "a2-0050": {
+    "examples": [
+      {
+        "en": "The sun disappears behind clouds.",
+        "ru": "Солнце исчезает за облаками."
+      },
+      {
+        "en": "My keys disappeared again.",
+        "ru": "Ключи снова пропали."
+      },
+      {
+        "en": "The sun disappeared behind clouds.",
+        "ru": "Солнце скрылось за облаками."
+      }
+    ],
+    "colloc": "disappear from · mysteriously disappear",
+    "pattern": "disappear + adv",
+    "syn": "appear"
+  },
+  "a2-0051": {
+    "examples": [
+      {
+        "en": "We discover a small cafe.",
+        "ru": "Мы находим небольшое кафе."
+      },
+      {
+        "en": "Scientists discovered a new species.",
+        "ru": "Учёные открыли новый вид."
+      },
+      {
+        "en": "I discovered a great café nearby.",
+        "ru": "Я обнаружил отличное кафе рядом."
+      }
+    ],
+    "colloc": "discover that · make a discovery",
+    "pattern": "discover + N"
+  },
+  "a2-0052": {
+    "examples": [
+      {
+        "en": "Discuss the plan together.",
+        "ru": "Обсудите план вместе."
+      },
+      {
+        "en": "Let's discuss the budget tomorrow.",
+        "ru": "Давай обсудим бюджет завтра."
+      },
+      {
+        "en": "We discussed our travel plans.",
+        "ru": "Мы обсудили планы поездки."
+      }
+    ],
+    "colloc": "discuss with · under discussion",
+    "pattern": "discuss + N"
+  },
+  "a2-0053": {
+    "examples": [
+      {
+        "en": "Divide the cake into pieces.",
+        "ru": "Раздели торт на куски."
+      },
+      {
+        "en": "Divide the cake into eight pieces.",
+        "ru": "Раздели торт на восемь частей."
+      },
+      {
+        "en": "Opinions are divided on this issue.",
+        "ru": "Мнения по этому вопросу разделились."
+      }
+    ],
+    "colloc": "divide into · divide by",
+    "pattern": "divide + N into"
+  },
+  "a2-0054": {
+    "examples": [
+      {
+        "en": "They double the price.",
+        "ru": "Они удваивают цену."
+      },
+      {
+        "en": "Prices almost doubled last year.",
+        "ru": "Цены почти удвоились в прошлом году."
+      },
+      {
+        "en": "Double-check your answers.",
+        "ru": "Перепроверь ответы."
+      }
+    ],
+    "colloc": "double check · double the amount",
+    "pattern": "double + N"
+  },
+  "a2-0055": {
+    "examples": [
+      {
+        "en": "I doubt his story.",
+        "ru": "Я сомневаюсь в его истории."
+      },
+      {
+        "en": "I doubt he'll arrive on time.",
+        "ru": "Сомневаюсь, что он приедет вовремя."
+      },
+      {
+        "en": "No doubt about it.",
+        "ru": "Без сомнения."
+      }
+    ],
+    "colloc": "no doubt · doubt that",
+    "pattern": "doubt + that / N"
+  },
+  "a2-0056": {
+    "examples": [
+      {
+        "en": "She earns a good salary.",
+        "ru": "Она зарабатывает хорошую зарплату."
+      },
+      {
+        "en": "She earns a good salary.",
+        "ru": "Она зарабатывает хорошую зарплату."
+      },
+      {
+        "en": "You have to earn their trust.",
+        "ru": "Тебе нужно заслужить их доверие."
+      }
+    ],
+    "colloc": "earn money · earn a living",
+    "pattern": "earn + N"
+  },
+  "a2-0057": {
+    "examples": [
+      {
+        "en": "Schools educate children.",
+        "ru": "Школы обучают детей."
+      },
+      {
+        "en": "Schools educate the next generation.",
+        "ru": "Школы обучают следующее поколение."
+      },
+      {
+        "en": "Parents try to educate kids about safety.",
+        "ru": "Родители стараются учить детей безопасности."
+      }
+    ],
+    "colloc": "educate about · well educated",
+    "pattern": "educate + sb"
+  },
+  "a2-0058": {
+    "examples": [
+      {
+        "en": "Teachers encourage students.",
+        "ru": "Учителя поощряют учеников."
+      },
+      {
+        "en": "Teachers encourage students to ask questions.",
+        "ru": "Учителя поощряют учеников задавать вопросы."
+      },
+      {
+        "en": "Friends encouraged me to apply.",
+        "ru": "Друзья побудили меня подать заявку."
+      }
+    ],
+    "colloc": "encourage sb to · encouraging news",
+    "pattern": "encourage sb to + V"
+  },
+  "a2-0059": {
+    "examples": [
+      {
+        "en": "Enter the building quietly.",
+        "ru": "Тихо войди в здание."
+      },
+      {
+        "en": "Please enter your password.",
+        "ru": "Введите пароль."
+      },
+      {
+        "en": "We entered the museum through a side door.",
+        "ru": "Мы вошли в музей через боковую дверь."
+      }
+    ],
+    "colloc": "enter a room · enter data",
+    "pattern": "enter + N"
+  },
+  "a2-0060": {
+    "examples": [
+      {
+        "en": "Games entertain the kids.",
+        "ru": "Игры развлекают детей."
+      },
+      {
+        "en": "Clowns entertained the children.",
+        "ru": "Клоуны развлекали детей."
+      },
+      {
+        "en": "We entertained guests all weekend.",
+        "ru": "Мы весь уикенд принимали гостей."
+      }
+    ],
+    "colloc": "entertain guests · entertainment",
+    "pattern": "entertain + N"
+  },
+  "a2-0061": {
+    "examples": [
+      {
+        "en": "They escape from the fire.",
+        "ru": "Они спасаются от огня."
+      },
+      {
+        "en": "They escaped from the burning building.",
+        "ru": "Они выбрались из горящего здания."
+      },
+      {
+        "en": "I need to escape the city for a weekend.",
+        "ru": "Мне нужно сбежать из города на выходные."
+      }
+    ],
+    "colloc": "escape from · narrow escape",
+    "pattern": "escape from / escape + N"
+  },
+  "a2-0062": {
+    "examples": [
+      {
+        "en": "Doctors examine patients carefully.",
+        "ru": "Врачи тщательно осматривают пациентов."
+      },
+      {
+        "en": "The doctor examined my throat.",
+        "ru": "Врач осмотрел горло."
+      },
+      {
+        "en": "Examine the contract carefully.",
+        "ru": "Внимательно изучи договор."
+      }
+    ],
+    "colloc": "examine closely · medical examination",
+    "pattern": "examine + N"
+  },
+  "a2-0063": {
+    "examples": [
+      {
+        "en": "Exchange money at the bank.",
+        "ru": "Обменяй деньги в банке."
+      },
+      {
+        "en": "Can I exchange this for a larger size?",
+        "ru": "Можно обменять это на больший размер?"
+      },
+      {
+        "en": "We exchanged phone numbers.",
+        "ru": "Мы обменялись номерами."
+      }
+    ],
+    "colloc": "exchange rate · in exchange for",
+    "pattern": "exchange + N for"
+  },
+  "a2-0064": {
+    "examples": [
+      {
+        "en": "Life exists on Earth.",
+        "ru": "Жизнь существует на Земле."
+      },
+      {
+        "en": "Dinosaurs no longer exist.",
+        "ru": "Динозавры больше не существуют."
+      },
+      {
+        "en": "Problems like this still exist.",
+        "ru": "Такие проблемы всё ещё существуют."
+      }
+    ],
+    "colloc": "exist in · cease to exist",
+    "pattern": "exist + adv"
+  },
+  "a2-0065": {
+    "examples": [
+      {
+        "en": "I expect good news.",
+        "ru": "Я ожидаю хороших новостей."
+      },
+      {
+        "en": "I expect good news soon.",
+        "ru": "Жду хороших новостей скоро."
+      },
+      {
+        "en": "Don't expect too much.",
+        "ru": "Не жди слишком многого."
+      }
+    ],
+    "colloc": "expect to · as expected",
+    "pattern": "expect + N / expect to + V"
+  },
+  "a2-0067": {
+    "examples": [
+      {
+        "en": "Explore the old town.",
+        "ru": "Исследуй старый город."
+      },
+      {
+        "en": "We explored the old town on foot.",
+        "ru": "Мы пешком исследовали старый город."
+      },
+      {
+        "en": "Kids love to explore new ideas.",
+        "ru": "Дети любят исследовать новые идеи."
+      }
+    ],
+    "colloc": "explore options · explore the area",
+    "pattern": "explore + N"
+  },
+  "a2-0068": {
+    "examples": [
+      {
+        "en": "Express your opinion politely.",
+        "ru": "Вежливо вырази своё мнение."
+      },
+      {
+        "en": "She expressed her thanks in a note.",
+        "ru": "Она выразила благодарность в записке."
+      },
+      {
+        "en": "It's hard to express how I feel.",
+        "ru": "Трудно выразить, что я чувствую."
+      }
+    ],
+    "colloc": "express yourself · express concern",
+    "pattern": "express + N"
+  }
+}

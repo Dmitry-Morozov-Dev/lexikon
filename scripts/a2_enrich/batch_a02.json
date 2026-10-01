@@ -1,0 +1,1545 @@
+{
+  "a2-0707": {
+    "examples": [
+      {
+        "en": "Economic growth is slow.",
+        "ru": "Экономический рост медленный."
+      },
+      {
+        "en": "Economic growth slowed.",
+        "ru": "Экономический рост замедлился."
+      },
+      {
+        "en": "We face economic challenges.",
+        "ru": "Мы сталкиваемся с экономическими вызовами."
+      }
+    ],
+    "colloc": "economic growth · economic crisis"
+  },
+  "a2-0708": {
+    "examples": [
+      {
+        "en": "She is highly educated.",
+        "ru": "Она высокообразованна."
+      },
+      {
+        "en": "She's highly educated.",
+        "ru": "Она высокообразованна."
+      },
+      {
+        "en": "An educated guess is still useful.",
+        "ru": "Образованное предположение всё ещё полезно."
+      }
+    ],
+    "colloc": "well educated · educated public"
+  },
+  "a2-0709": {
+    "examples": [
+      {
+        "en": "Find an effective method.",
+        "ru": "Найди эффективный метод."
+      },
+      {
+        "en": "This method is effective.",
+        "ru": "Этот метод эффективен."
+      },
+      {
+        "en": "Find an effective solution.",
+        "ru": "Найди эффективное решение."
+      }
+    ],
+    "colloc": "effective way · highly effective",
+    "pattern": "ineffective"
+  },
+  "a2-0710": {
+    "examples": [
+      {
+        "en": "This machine is efficient.",
+        "ru": "Эта машина результативна."
+      },
+      {
+        "en": "She's an efficient worker.",
+        "ru": "Она эффективный работник."
+      },
+      {
+        "en": "Energy-efficient homes save money.",
+        "ru": "Энергоэффективные дома экономят."
+      }
+    ],
+    "colloc": "efficient use · highly efficient",
+    "pattern": "inefficient"
+  },
+  "a2-0711": {
+    "examples": [
+      {
+        "en": "Help elderly neighbors.",
+        "ru": "Помогай пожилым соседям."
+      },
+      {
+        "en": "Help elderly neighbors.",
+        "ru": "Помогай пожилым соседям."
+      },
+      {
+        "en": "Elderly people need respect.",
+        "ru": "Пожилым людям нужно уважение."
+      }
+    ],
+    "colloc": "elderly relative · the elderly"
+  },
+  "a2-0712": {
+    "examples": [
+      {
+        "en": "Buy an electric car.",
+        "ru": "Купи электромобиль."
+      },
+      {
+        "en": "We bought an electric car.",
+        "ru": "Мы купили электромобиль."
+      },
+      {
+        "en": "Electric lights failed briefly.",
+        "ru": "Электрический свет на мгновение пропал."
+      }
+    ],
+    "colloc": "electric car · electric bill"
+  },
+  "a2-0713": {
+    "examples": [
+      {
+        "en": "She wore an elegant dress.",
+        "ru": "Она надела элегантное платье."
+      },
+      {
+        "en": "She wore an elegant dress.",
+        "ru": "Она надела элегантное платье."
+      },
+      {
+        "en": "The solution is elegant and simple.",
+        "ru": "Решение элегантное и простое."
+      }
+    ],
+    "colloc": "elegant style · elegant design"
+  },
+  "a2-0714": {
+    "examples": [
+      {
+        "en": "He felt embarrassed.",
+        "ru": "Он почувствовал себя смущённым."
+      },
+      {
+        "en": "I felt embarrassed.",
+        "ru": "Мне было неловко."
+      },
+      {
+        "en": "Don't be embarrassed to ask.",
+        "ru": "Не стесняйся спрашивать."
+      }
+    ],
+    "colloc": "embarrassed about · feel embarrassed"
+  },
+  "a2-0715": {
+    "examples": [
+      {
+        "en": "It was an emotional moment.",
+        "ru": "Это был эмоциональный момент."
+      },
+      {
+        "en": "It was an emotional goodbye.",
+        "ru": "Это было эмоциональное прощание."
+      },
+      {
+        "en": "She's very emotional today.",
+        "ru": "Сегодня она очень эмоциональна."
+      }
+    ],
+    "colloc": "emotional support · emotional reaction"
+  },
+  "a2-0716": {
+    "examples": [
+      {
+        "en": "The desert looks endless.",
+        "ru": "Пустыня выглядит бесконечной."
+      },
+      {
+        "en": "The meeting felt endless.",
+        "ru": "Встреча казалась бесконечной."
+      },
+      {
+        "en": "Kids have endless energy.",
+        "ru": "У детей бесконечная энергия."
+      }
+    ],
+    "colloc": "endless possibilities · endless wait"
+  },
+  "a2-0717": {
+    "examples": [
+      {
+        "en": "Kids feel energetic outdoors.",
+        "ru": "Дети энергичны на улице."
+      },
+      {
+        "en": "She's energetic in the morning.",
+        "ru": "Утром она энергична."
+      },
+      {
+        "en": "Play energetic music.",
+        "ru": "Включи энергичную музыку."
+      }
+    ],
+    "colloc": "energetic child · feel energetic",
+    "pattern": "tired"
+  },
+  "a2-0718": {
+    "examples": [
+      {
+        "en": "An enormous crowd gathered.",
+        "ru": "Собралась огромная толпа."
+      },
+      {
+        "en": "That's an enormous cake!",
+        "ru": "Это огромный торт!"
+      },
+      {
+        "en": "We face an enormous challenge.",
+        "ru": "Перед нами огромный вызов."
+      }
+    ],
+    "colloc": "enormous amount · enormous success",
+    "pattern": "huge"
+  },
+  "a2-0719": {
+    "examples": [
+      {
+        "en": "I spent the entire day reading.",
+        "ru": "Я провёл весь день за чтением."
+      },
+      {
+        "en": "I spent the entire day cleaning.",
+        "ru": "Я провёл весь день за уборкой."
+      },
+      {
+        "en": "The entire team agreed.",
+        "ru": "Вся команда согласилась."
+      }
+    ],
+    "colloc": "entire life · entire world",
+    "pattern": "whole"
+  },
+  "a2-0720": {
+    "examples": [
+      {
+        "en": "Support environmental projects.",
+        "ru": "Поддерживай экологические проекты."
+      },
+      {
+        "en": "Environmental issues matter.",
+        "ru": "Экологические вопросы важны."
+      },
+      {
+        "en": "Buy environmental products.",
+        "ru": "Покупай экологичные продукты."
+      }
+    ],
+    "colloc": "environmental protection · environmental impact"
+  },
+  "a2-0613": {
+    "examples": [
+      {
+        "en": "All people are equal.",
+        "ru": "Все люди равны."
+      },
+      {
+        "en": "All people deserve equal rights.",
+        "ru": "Все люди заслуживают равных прав."
+      },
+      {
+        "en": "Cut the cake into equal parts.",
+        "ru": "Разрежь торт на равные части."
+      }
+    ],
+    "colloc": "equal to · equal opportunity",
+    "pattern": "unequal"
+  },
+  "a2-0721": {
+    "examples": [
+      {
+        "en": "Water is essential for life.",
+        "ru": "Вода необходима для жизни."
+      },
+      {
+        "en": "Water is essential for life.",
+        "ru": "Вода необходима для жизни."
+      },
+      {
+        "en": "Sleep is essential.",
+        "ru": "Сон необходим."
+      }
+    ],
+    "colloc": "essential for · essential oil",
+    "pattern": "necessary"
+  },
+  "a2-0722": {
+    "examples": [
+      {
+        "en": "Give the exact time.",
+        "ru": "Назови точное время."
+      },
+      {
+        "en": "What's the exact time?",
+        "ru": "Точное время какое?"
+      },
+      {
+        "en": "I need the exact address.",
+        "ru": "Мне нужен точный адрес."
+      }
+    ],
+    "colloc": "exact amount · exact match",
+    "pattern": "precise"
+  },
+  "a2-0723": {
+    "examples": [
+      {
+        "en": "That was an excellent meal.",
+        "ru": "Это был отличный ужин."
+      },
+      {
+        "en": "The service was excellent.",
+        "ru": "Сервис был отличным."
+      },
+      {
+        "en": "She did an excellent job.",
+        "ru": "Она отлично справилась."
+      }
+    ],
+    "colloc": "excellent quality · absolutely excellent",
+    "pattern": "great"
+  },
+  "a2-0724": {
+    "examples": [
+      {
+        "en": "Travel is exciting.",
+        "ru": "Путешествия захватывающие."
+      },
+      {
+        "en": "What an exciting game!",
+        "ru": "Какая захватывающая игра!"
+      },
+      {
+        "en": "Travel is exciting.",
+        "ru": "Путешествия захватывают."
+      }
+    ],
+    "colloc": "exciting news · exciting opportunity",
+    "pattern": "boring"
+  },
+  "a2-0725": {
+    "examples": [
+      {
+        "en": "Improve existing systems.",
+        "ru": "Улучши существующие системы."
+      },
+      {
+        "en": "Use the existing plan.",
+        "ru": "Используй существующий план."
+      },
+      {
+        "en": "Existing customers get a discount.",
+        "ru": "Существующие клиенты получают скидку."
+      }
+    ],
+    "colloc": "existing customer · existing law"
+  },
+  "a2-0726": {
+    "examples": [
+      {
+        "en": "Hire an experienced teacher.",
+        "ru": "Найми опытного учителя."
+      },
+      {
+        "en": "Hire an experienced guide.",
+        "ru": "Найми опытного гида."
+      },
+      {
+        "en": "She's experienced in marketing.",
+        "ru": "Она опытна в маркетинге."
+      }
+    ],
+    "colloc": "experienced in · highly experienced",
+    "pattern": "inexperienced"
+  },
+  "a2-0727": {
+    "examples": [
+      {
+        "en": "Avoid extreme heat.",
+        "ru": "Избегай крайней жары."
+      },
+      {
+        "en": "Avoid extreme heat.",
+        "ru": "Избегай крайней жары."
+      },
+      {
+        "en": "That's an extreme opinion.",
+        "ru": "Это крайнее мнение."
+      }
+    ],
+    "colloc": "extreme weather · extreme sports"
+  },
+  "a2-0614": {
+    "examples": [
+      {
+        "en": "Do you need extra time?",
+        "ru": "Тебе нужно дополнительное время?"
+      },
+      {
+        "en": "Do you need extra help?",
+        "ru": "Нужна дополнительная помощь?"
+      },
+      {
+        "en": "There's an extra charge.",
+        "ru": "Есть дополнительная плата."
+      }
+    ],
+    "colloc": "extra time · at no extra cost",
+    "pattern": "additional"
+  },
+  "a2-0728": {
+    "examples": [
+      {
+        "en": "This place looks familiar.",
+        "ru": "Это место выглядит знакомым."
+      },
+      {
+        "en": "This street looks familiar.",
+        "ru": "Эта улица кажется знакомой."
+      },
+      {
+        "en": "Are you familiar with the app?",
+        "ru": "Ты знаком с приложением?"
+      }
+    ],
+    "colloc": "familiar with · look familiar",
+    "pattern": "unfamiliar"
+  },
+  "a2-0729": {
+    "examples": [
+      {
+        "en": "They booked a fancy hotel.",
+        "ru": "Они забронировали модный отель."
+      },
+      {
+        "en": "That's a fancy restaurant.",
+        "ru": "Это фешенебельный ресторан."
+      },
+      {
+        "en": "Do you fancy a coffee?",
+        "ru": "Не хочешь кофе?"
+      }
+    ],
+    "colloc": "fancy dress · fancy hotel",
+    "note": "fancy = роскошный; BrE fancy = хотеть"
+  },
+  "a2-0730": {
+    "examples": [
+      {
+        "en": "You did a fantastic job.",
+        "ru": "Ты сделал фантастическую работу."
+      },
+      {
+        "en": "We had a fantastic trip.",
+        "ru": "У нас была фантастическая поездка."
+      },
+      {
+        "en": "That's fantastic news!",
+        "ru": "Фантастические новости!"
+      }
+    ],
+    "colloc": "fantastic idea · absolutely fantastic",
+    "pattern": "great"
+  },
+  "a2-0731": {
+    "examples": [
+      {
+        "en": "She wears fashionable clothes.",
+        "ru": "Она носит модную одежду."
+      },
+      {
+        "en": "She wears fashionable clothes.",
+        "ru": "Она носит модную одежду."
+      },
+      {
+        "en": "This café is fashionable now.",
+        "ru": "Это кафе сейчас модно."
+      }
+    ],
+    "colloc": "fashionable style · highly fashionable",
+    "pattern": "unfashionable"
+  },
+  "a2-0732": {
+    "examples": [
+      {
+        "en": "We had favorable weather.",
+        "ru": "У нас была благоприятная погода."
+      },
+      {
+        "en": "We got a favorable review.",
+        "ru": "Мы получили благоприятный отзыв."
+      },
+      {
+        "en": "Weather conditions are favorable.",
+        "ru": "Погодные условия благоприятны."
+      }
+    ],
+    "colloc": "favorable to",
+    "note": "AmE: favorable; BrE: favourable"
+  },
+  "a2-0733": {
+    "examples": [
+      {
+        "en": "What is your favorite color?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      {
+        "en": "Pizza is my favorite food.",
+        "ru": "Пицца — моя любимая еда."
+      },
+      {
+        "en": "Who's your favorite author?",
+        "ru": "Кто твой любимый автор?"
+      }
+    ],
+    "colloc": "favorite of",
+    "note": "AmE: favorite; BrE: favourite"
+  },
+  "a2-0734": {
+    "examples": [
+      {
+        "en": "He felt fearful at night.",
+        "ru": "Ночью он чувствовал страх."
+      },
+      {
+        "en": "She's fearful of flying.",
+        "ru": "Она боится летать."
+      },
+      {
+        "en": "Don't look so fearful.",
+        "ru": "Не выгляди таким испуганным."
+      }
+    ],
+    "colloc": "fearful of · fearful expression",
+    "pattern": "afraid"
+  },
+  "a2-0735": {
+    "examples": [
+      {
+        "en": "Federal laws apply here.",
+        "ru": "Здесь действуют федеральные законы."
+      },
+      {
+        "en": "Federal law applies here.",
+        "ru": "Здесь действует федеральный закон."
+      },
+      {
+        "en": "She works for the federal government.",
+        "ru": "Она работает на федеральное правительство."
+      }
+    ],
+    "colloc": "federal government · federal court"
+  },
+  "a2-0615": {
+    "examples": [
+      {
+        "en": "The female athlete won.",
+        "ru": "Женщина-спортсменка победила."
+      },
+      {
+        "en": "The female candidate won.",
+        "ru": "Кандидат-женщина победила."
+      },
+      {
+        "en": "Female athletes inspire girls.",
+        "ru": "Спортсменки вдохновляют девочек."
+      }
+    ],
+    "colloc": "female voice · female lead",
+    "pattern": "male"
+  },
+  "a2-0616": {
+    "examples": [
+      {
+        "en": "This is the final test.",
+        "ru": "Это финальный тест."
+      },
+      {
+        "en": "This is the final exam.",
+        "ru": "Это финальный экзамен."
+      },
+      {
+        "en": "Make a final decision.",
+        "ru": "Прими окончательное решение."
+      }
+    ],
+    "colloc": "final decision · final hour",
+    "pattern": "last"
+  },
+  "a2-0736": {
+    "examples": [
+      {
+        "en": "Seek financial advice.",
+        "ru": "Обратись за финансовым советом."
+      },
+      {
+        "en": "Seek financial advice.",
+        "ru": "Обратись за финансовым советом."
+      },
+      {
+        "en": "Financial stress is common.",
+        "ru": "Финансовый стресс распространён."
+      }
+    ],
+    "colloc": "financial support · financial crisis"
+  },
+  "a2-0737": {
+    "examples": [
+      {
+        "en": "We need flexible hours.",
+        "ru": "Нам нужен гибкий график."
+      },
+      {
+        "en": "Be flexible with plans.",
+        "ru": "Будь гибким с планами."
+      },
+      {
+        "en": "I need a flexible schedule.",
+        "ru": "Мне нужно гибкое расписание."
+      }
+    ],
+    "colloc": "flexible hours · highly flexible",
+    "pattern": "rigid"
+  },
+  "a2-0738": {
+    "examples": [
+      {
+        "en": "She is fluent in Spanish.",
+        "ru": "Она бегло говорит по-испански."
+      },
+      {
+        "en": "She's fluent in Spanish.",
+        "ru": "Она свободно говорит по-испански."
+      },
+      {
+        "en": "Practice until you're fluent.",
+        "ru": "Практикуйся, пока не заговоришь свободно."
+      }
+    ],
+    "colloc": "fluent in · fluent speaker"
+  },
+  "a2-0617": {
+    "examples": [
+      {
+        "en": "Read the following text.",
+        "ru": "Прочитай следующий текст."
+      },
+      {
+        "en": "Read the following instructions.",
+        "ru": "Прочитай следующие инструкции."
+      },
+      {
+        "en": "On the following day we left.",
+        "ru": "На следующий день мы уехали."
+      }
+    ],
+    "colloc": "following day · the following"
+  },
+  "a2-0739": {
+    "examples": [
+      {
+        "en": "Learn a foreign language.",
+        "ru": "Учи иностранный язык."
+      },
+      {
+        "en": "She speaks two foreign languages.",
+        "ru": "Она говорит на двух иностранных языках."
+      },
+      {
+        "en": "Foreign visitors need visas.",
+        "ru": "Иностранным гостям нужны визы."
+      }
+    ],
+    "colloc": "foreign language · foreign policy",
+    "pattern": "domestic"
+  },
+  "a2-0618": {
+    "examples": [
+      {
+        "en": "Wear formal clothes tonight.",
+        "ru": "Надень официальную одежду сегодня вечером."
+      },
+      {
+        "en": "Wear formal clothes to the wedding.",
+        "ru": "На свадьбу — формальную одежду."
+      },
+      {
+        "en": "Keep the email formal.",
+        "ru": "Держи письмо формальным."
+      }
+    ],
+    "colloc": "formal wear · formal education",
+    "pattern": "casual"
+  },
+  "a2-0740": {
+    "examples": [
+      {
+        "en": "He is a former teacher.",
+        "ru": "Он бывший учитель."
+      },
+      {
+        "en": "My former boss called.",
+        "ru": "Бывший босс позвонил."
+      },
+      {
+        "en": "She's a former athlete.",
+        "ru": "Она бывшая спортсменка."
+      }
+    ],
+    "colloc": "former president · former colleague",
+    "pattern": "current"
+  },
+  "a2-0741": {
+    "examples": [
+      {
+        "en": "We were fortunate today.",
+        "ru": "Сегодня нам повезло."
+      },
+      {
+        "en": "We're fortunate to have friends.",
+        "ru": "Нам повезло с друзьями."
+      },
+      {
+        "en": "I feel fortunate today.",
+        "ru": "Сегодня я чувствую себя удачливым."
+      }
+    ],
+    "colloc": "fortunate enough · fortunate to",
+    "pattern": "lucky",
+    "ant": "unfortunate"
+  },
+  "a2-0742": {
+    "examples": [
+      {
+        "en": "He is a frequent traveler.",
+        "ru": "Он частый путешественник."
+      },
+      {
+        "en": "She's a frequent traveler.",
+        "ru": "Она часто путешествует."
+      },
+      {
+        "en": "We make frequent stops.",
+        "ru": "Мы часто останавливаемся."
+      }
+    ],
+    "colloc": "frequent visitor · frequent flyer",
+    "pattern": "rare"
+  },
+  "a2-0743": {
+    "examples": [
+      {
+        "en": "The child looked frightened.",
+        "ru": "Ребёнок выглядел испуганным."
+      },
+      {
+        "en": "The dog looked frightened.",
+        "ru": "Собака выглядела испуганной."
+      },
+      {
+        "en": "Don't be frightened of dogs.",
+        "ru": "Не бойся собак."
+      }
+    ],
+    "colloc": "frightened of · feel frightened",
+    "pattern": "scared"
+  },
+  "a2-0744": {
+    "examples": [
+      {
+        "en": "Buy frozen vegetables.",
+        "ru": "Купи замороженные овощи."
+      },
+      {
+        "en": "The lake is frozen.",
+        "ru": "Озеро замёрзло."
+      },
+      {
+        "en": "Buy frozen vegetables.",
+        "ru": "Купи замороженные овощи."
+      }
+    ],
+    "colloc": "frozen food · frozen solid"
+  },
+  "a2-0619": {
+    "examples": [
+      {
+        "en": "Need further information?",
+        "ru": "Нужна дальнейшая информация?"
+      },
+      {
+        "en": "For further details, call us.",
+        "ru": "За дальнейшими деталями звоните."
+      },
+      {
+        "en": "We need further discussion.",
+        "ru": "Нужно дальнейшее обсуждение."
+      }
+    ],
+    "colloc": "further information · further away",
+    "pattern": "more"
+  },
+  "a2-0745": {
+    "examples": [
+      {
+        "en": "Give a general overview.",
+        "ru": "Дай общий обзор."
+      },
+      {
+        "en": "In general, I agree.",
+        "ru": "В общем, я согласен."
+      },
+      {
+        "en": "She has a general idea.",
+        "ru": "У неё общее представление."
+      }
+    ],
+    "colloc": "in general · general public"
+  },
+  "a2-0746": {
+    "examples": [
+      {
+        "en": "Thank your generous friend.",
+        "ru": "Поблагодари щедрого друга."
+      },
+      {
+        "en": "He's generous with time.",
+        "ru": "Он щедр на время."
+      },
+      {
+        "en": "Thank you for the generous gift.",
+        "ru": "Спасибо за щедрый подарок."
+      }
+    ],
+    "colloc": "generous offer · generous with",
+    "pattern": "stingy"
+  },
+  "a2-0747": {
+    "examples": [
+      {
+        "en": "Speak in a gentle voice.",
+        "ru": "Говори нежным голосом."
+      },
+      {
+        "en": "Be gentle with the baby.",
+        "ru": "Будь нежен с малышом."
+      },
+      {
+        "en": "She has a gentle voice.",
+        "ru": "У неё мягкий голос."
+      }
+    ],
+    "colloc": "gentle touch · gentle reminder",
+    "pattern": "harsh"
+  },
+  "a2-0748": {
+    "examples": [
+      {
+        "en": "Is this a genuine diamond?",
+        "ru": "Это подлинный бриллиант?"
+      },
+      {
+        "en": "Is this a genuine smile?",
+        "ru": "Это искренняя улыбка?"
+      },
+      {
+        "en": "Buy genuine leather.",
+        "ru": "Покупай натуральную кожу."
+      }
+    ],
+    "colloc": "genuine concern · genuine article",
+    "pattern": "fake"
+  },
+  "a2-0620": {
+    "examples": [
+      {
+        "en": "A giant tree fell.",
+        "ru": "Упало гигантское дерево."
+      },
+      {
+        "en": "A giant wave hit the shore.",
+        "ru": "Гигантская волна ударила о берег."
+      },
+      {
+        "en": "They built a giant statue.",
+        "ru": "Они построили гигантскую статую."
+      }
+    ],
+    "colloc": "giant size · giant leap",
+    "pattern": "huge"
+  },
+  "a2-0749": {
+    "examples": [
+      {
+        "en": "I am glad to see you.",
+        "ru": "Рад тебя видеть."
+      },
+      {
+        "en": "I'm glad you came.",
+        "ru": "Рад, что ты пришёл."
+      },
+      {
+        "en": "She looked glad to see us.",
+        "ru": "Она выглядела радой нас видеть."
+      }
+    ],
+    "colloc": "glad to · glad about",
+    "pattern": "happy"
+  },
+  "a2-0621": {
+    "examples": [
+      {
+        "en": "Climate is a global issue.",
+        "ru": "Климат — глобальная проблема."
+      },
+      {
+        "en": "Climate is a global issue.",
+        "ru": "Климат — глобальная проблема."
+      },
+      {
+        "en": "We live in a global economy.",
+        "ru": "Мы живём в глобальной экономике."
+      }
+    ],
+    "colloc": "global warming · global market"
+  },
+  "a2-0750": {
+    "examples": [
+      {
+        "en": "Enjoy a golden sunset.",
+        "ru": "Наслаждайся золотым закатом."
+      },
+      {
+        "en": "She won a golden medal.",
+        "ru": "Она выиграла золотую медаль."
+      },
+      {
+        "en": "Silence is golden.",
+        "ru": "Молчание — золото."
+      }
+    ],
+    "colloc": "golden opportunity · golden rule"
+  },
+  "a2-0751": {
+    "examples": [
+      {
+        "en": "The dress looks gorgeous.",
+        "ru": "Платье выглядит великолепно."
+      },
+      {
+        "en": "What a gorgeous sunset!",
+        "ru": "Какой великолепный закат!"
+      },
+      {
+        "en": "She looked gorgeous.",
+        "ru": "Она выглядела великолепно."
+      }
+    ],
+    "colloc": "gorgeous view · absolutely gorgeous",
+    "pattern": "beautiful"
+  },
+  "a2-0752": {
+    "examples": [
+      {
+        "en": "Progress was gradual.",
+        "ru": "Прогресс был постепенным."
+      },
+      {
+        "en": "Progress was gradual.",
+        "ru": "Прогресс был постепенным."
+      },
+      {
+        "en": "Make gradual changes.",
+        "ru": "Делай постепенные изменения."
+      }
+    ],
+    "colloc": "gradual increase · gradual change",
+    "pattern": "sudden"
+  },
+  "a2-0622": {
+    "examples": [
+      {
+        "en": "They stayed in a grand hotel.",
+        "ru": "Они остановились в величественном отеле."
+      },
+      {
+        "en": "We stayed in a grand hotel.",
+        "ru": "Мы остановились в грандиозном отеле."
+      },
+      {
+        "en": "She made a grand entrance.",
+        "ru": "Она сделала грандиозный вход."
+      }
+    ],
+    "colloc": "grand total · grand opening"
+  },
+  "a2-0753": {
+    "examples": [
+      {
+        "en": "I am grateful for help.",
+        "ru": "Я благодарен за помощь."
+      },
+      {
+        "en": "I'm grateful for your help.",
+        "ru": "Я благодарен за помощь."
+      },
+      {
+        "en": "Stay grateful for small things.",
+        "ru": "Будь благодарен за мелочи."
+      }
+    ],
+    "colloc": "grateful for · deeply grateful",
+    "pattern": "thankful"
+  },
+  "a2-0754": {
+    "examples": [
+      {
+        "en": "He felt guilty about lying.",
+        "ru": "Он чувствовал вину за ложь."
+      },
+      {
+        "en": "I feel guilty about lying.",
+        "ru": "Мне стыдно, что солгал."
+      },
+      {
+        "en": "The jury found him guilty.",
+        "ru": "Суд признал его виновным."
+      }
+    ],
+    "colloc": "guilty of · feel guilty",
+    "pattern": "innocent"
+  },
+  "a2-0755": {
+    "examples": [
+      {
+        "en": "He is a handsome actor.",
+        "ru": "Он красивый актёр."
+      },
+      {
+        "en": "He's a handsome actor.",
+        "ru": "Он красивый актёр."
+      },
+      {
+        "en": "That's a handsome offer.",
+        "ru": "Это щедрое предложение."
+      }
+    ],
+    "colloc": "handsome man · handsome reward"
+  },
+  "a2-0756": {
+    "examples": [
+      {
+        "en": "This tool is handy.",
+        "ru": "Этот инструмент удобный."
+      },
+      {
+        "en": "This tool is handy.",
+        "ru": "Этот инструмент удобен."
+      },
+      {
+        "en": "Keep a flashlight handy.",
+        "ru": "Держи фонарик под рукой."
+      }
+    ],
+    "colloc": "come in handy · handy tip"
+  },
+  "a2-0757": {
+    "examples": [
+      {
+        "en": "Smoking is harmful.",
+        "ru": "Курение вредно."
+      },
+      {
+        "en": "Smoking is harmful.",
+        "ru": "Курение вредно."
+      },
+      {
+        "en": "Avoid harmful chemicals.",
+        "ru": "Избегай вредных химикатов."
+      }
+    ],
+    "colloc": "harmful to · harmful effects",
+    "pattern": "harmless"
+  },
+  "a2-0758": {
+    "examples": [
+      {
+        "en": "Winter can be harsh.",
+        "ru": "Зима может быть суровой."
+      },
+      {
+        "en": "Don't use harsh words.",
+        "ru": "Не используй резкие слова."
+      },
+      {
+        "en": "Winter can be harsh here.",
+        "ru": "Зима здесь может быть суровой."
+      }
+    ],
+    "colloc": "harsh criticism · harsh weather",
+    "pattern": "gentle"
+  },
+  "a2-0759": {
+    "examples": [
+      {
+        "en": "Your advice was helpful.",
+        "ru": "Твой совет был полезен."
+      },
+      {
+        "en": "That's a helpful tip.",
+        "ru": "Полезный совет."
+      },
+      {
+        "en": "Staff were very helpful.",
+        "ru": "Персонал был очень полезен."
+      }
+    ],
+    "colloc": "helpful to · helpful advice",
+    "pattern": "useless"
+  },
+  "a2-0760": {
+    "examples": [
+      {
+        "en": "Find the hidden meaning.",
+        "ru": "Найди скрытый смысл."
+      },
+      {
+        "en": "There's a hidden fee.",
+        "ru": "Есть скрытая плата."
+      },
+      {
+        "en": "Look for hidden meanings.",
+        "ru": "Ищи скрытые смыслы."
+      }
+    ],
+    "colloc": "hidden from · hidden talent"
+  },
+  "a2-0761": {
+    "examples": [
+      {
+        "en": "That joke was hilarious.",
+        "ru": "Та шутка была уморительной."
+      },
+      {
+        "en": "The movie was hilarious.",
+        "ru": "Фильм был уморительным."
+      },
+      {
+        "en": "She told a hilarious story.",
+        "ru": "Она рассказала уморительную историю."
+      }
+    ],
+    "colloc": "hilarious joke · absolutely hilarious",
+    "pattern": "funny"
+  },
+  "a2-0762": {
+    "examples": [
+      {
+        "en": "Visit the historic center.",
+        "ru": "Посети исторический центр."
+      },
+      {
+        "en": "We visited a historic town.",
+        "ru": "Мы посетили исторический город."
+      },
+      {
+        "en": "It's a historic moment.",
+        "ru": "Это исторический момент."
+      }
+    ],
+    "colloc": "historic site · historic event",
+    "note": "historic = важный в истории; historical = относящийся к истории"
+  },
+  "a2-0763": {
+    "examples": [
+      {
+        "en": "Give an honest answer.",
+        "ru": "Дай честный ответ."
+      },
+      {
+        "en": "Be honest with me.",
+        "ru": "Будь честен со мной."
+      },
+      {
+        "en": "She's an honest person.",
+        "ru": "Она честный человек."
+      }
+    ],
+    "colloc": "honest about · honest answer",
+    "pattern": "dishonest"
+  },
+  "a2-0764": {
+    "examples": [
+      {
+        "en": "What horrible weather!",
+        "ru": "Какая ужасная погода!"
+      },
+      {
+        "en": "What horrible weather!",
+        "ru": "Какая ужасная погода!"
+      },
+      {
+        "en": "I had a horrible dream.",
+        "ru": "Мне приснился ужасный сон."
+      }
+    ],
+    "colloc": "horrible mistake · feel horrible",
+    "pattern": "awful"
+  },
+  "a2-0765": {
+    "examples": [
+      {
+        "en": "Avoid hostile comments.",
+        "ru": "Избегай враждебных комментариев."
+      },
+      {
+        "en": "Don't be hostile.",
+        "ru": "Не будь враждебным."
+      },
+      {
+        "en": "The crowd turned hostile.",
+        "ru": "Толпа стала враждебной."
+      }
+    ],
+    "colloc": "hostile to · hostile environment",
+    "pattern": "friendly"
+  },
+  "a2-0766": {
+    "examples": [
+      {
+        "en": "They live in a huge house.",
+        "ru": "Они живут в огромном доме."
+      },
+      {
+        "en": "There's a huge difference.",
+        "ru": "Есть огромная разница."
+      },
+      {
+        "en": "We face a huge task.",
+        "ru": "Перед нами огромная задача."
+      }
+    ],
+    "colloc": "huge amount · huge success",
+    "pattern": "enormous"
+  },
+  "a2-0623": {
+    "examples": [
+      {
+        "en": "Human rights matter.",
+        "ru": "Права человека важны."
+      },
+      {
+        "en": "It's a human error.",
+        "ru": "Это человеческая ошибка."
+      },
+      {
+        "en": "Show some human kindness.",
+        "ru": "Прояви человеческую доброту."
+      }
+    ],
+    "colloc": "human being · human rights"
+  },
+  "a2-0767": {
+    "examples": [
+      {
+        "en": "This is an ideal location.",
+        "ru": "Это идеальное место."
+      },
+      {
+        "en": "This is an ideal location.",
+        "ru": "Это идеальное место."
+      },
+      {
+        "en": "Find your ideal balance.",
+        "ru": "Найди идеальный баланс."
+      }
+    ],
+    "colloc": "ideal for · ideal situation",
+    "pattern": "perfect"
+  },
+  "a2-0768": {
+    "examples": [
+      {
+        "en": "The twins look identical.",
+        "ru": "Близнецы выглядят одинаково."
+      },
+      {
+        "en": "The twins look identical.",
+        "ru": "Близнецы выглядят одинаково."
+      },
+      {
+        "en": "These copies are identical.",
+        "ru": "Эти копии идентичны."
+      }
+    ],
+    "colloc": "identical to · identical twins",
+    "pattern": "different"
+  },
+  "a2-0769": {
+    "examples": [
+      {
+        "en": "She feels ill today.",
+        "ru": "Сегодня она больна."
+      },
+      {
+        "en": "She feels ill today.",
+        "ru": "Сегодня ей плохо."
+      },
+      {
+        "en": "Don't go to work if you're ill.",
+        "ru": "Не ходи на работу, если болеешь."
+      }
+    ],
+    "colloc": "fall ill · ill health",
+    "pattern": "sick",
+    "ant": "well"
+  },
+  "a2-0770": {
+    "examples": [
+      {
+        "en": "Illegal parking costs money.",
+        "ru": "Незаконная парковка стоит денег."
+      },
+      {
+        "en": "Parking here is illegal.",
+        "ru": "Парковка здесь незаконна."
+      },
+      {
+        "en": "Don't download illegal files.",
+        "ru": "Не скачивай нелегальные файлы."
+      }
+    ],
+    "colloc": "illegal activity · illegal immigrant",
+    "pattern": "legal"
+  },
+  "a2-0771": {
+    "examples": [
+      {
+        "en": "Need immediate help?",
+        "ru": "Нужна немедленная помощь?"
+      },
+      {
+        "en": "I need an immediate answer.",
+        "ru": "Мне нужен немедленный ответ."
+      },
+      {
+        "en": "Call for immediate help.",
+        "ru": "Зови немедленную помощь."
+      }
+    ],
+    "colloc": "immediate effect · immediate future",
+    "pattern": "instant"
+  },
+  "a2-0772": {
+    "examples": [
+      {
+        "en": "They faced immense pressure.",
+        "ru": "Они столкнулись с огромным давлением."
+      },
+      {
+        "en": "There's immense pressure.",
+        "ru": "Есть огромное давление."
+      },
+      {
+        "en": "She has immense talent.",
+        "ru": "У неё огромный талант."
+      }
+    ],
+    "colloc": "immense amount · immense pleasure",
+    "pattern": "huge"
+  },
+  "a2-0773": {
+    "examples": [
+      {
+        "en": "That was an impressive speech.",
+        "ru": "Это была впечатляющая речь."
+      },
+      {
+        "en": "That's an impressive result.",
+        "ru": "Впечатляющий результат."
+      },
+      {
+        "en": "Her speech was impressive.",
+        "ru": "Её речь впечатляла."
+      }
+    ],
+    "colloc": "impressive performance · highly impressive"
+  },
+  "a2-0774": {
+    "examples": [
+      {
+        "en": "She is an independent thinker.",
+        "ru": "Она независимый мыслитель."
+      },
+      {
+        "en": "She lives an independent life.",
+        "ru": "Она живёт независимой жизнью."
+      },
+      {
+        "en": "Kids become more independent.",
+        "ru": "Дети становятся независимее."
+      }
+    ],
+    "colloc": "independent of · independent thinker",
+    "pattern": "dependent"
+  },
+  "a2-0775": {
+    "examples": [
+      {
+        "en": "Ask an indirect question.",
+        "ru": "Задай косвенный вопрос."
+      },
+      {
+        "en": "Take an indirect route.",
+        "ru": "Выбери окольный путь."
+      },
+      {
+        "en": "That was an indirect answer.",
+        "ru": "Это был косвенный ответ."
+      }
+    ],
+    "colloc": "indirect cost · indirect effect",
+    "pattern": "direct"
+  },
+  "a2-0776": {
+    "examples": [
+      {
+        "en": "Try indoor sports today.",
+        "ru": "Попробуй сегодня комнатный спорт."
+      },
+      {
+        "en": "We prefer indoor sports.",
+        "ru": "Мы предпочитаем комнатные виды спорта."
+      },
+      {
+        "en": "Indoor plants need light.",
+        "ru": "Комнатным растениям нужен свет."
+      }
+    ],
+    "colloc": "indoor pool · indoor activity",
+    "pattern": "outdoor"
+  },
+  "a2-0777": {
+    "examples": [
+      {
+        "en": "This is an industrial area.",
+        "ru": "Это промышленный район."
+      },
+      {
+        "en": "This is an industrial area.",
+        "ru": "Это промышленный район."
+      },
+      {
+        "en": "Industrial waste pollutes rivers.",
+        "ru": "Промышленные отходы загрязняют реки."
+      }
+    ],
+    "colloc": "industrial city · industrial revolution"
+  },
+  "a2-0778": {
+    "examples": [
+      {
+        "en": "Find an inexpensive hotel.",
+        "ru": "Найди недорогой отель."
+      },
+      {
+        "en": "Find an inexpensive hotel.",
+        "ru": "Найди недорогой отель."
+      },
+      {
+        "en": "This phone is inexpensive but good.",
+        "ru": "Этот телефон недорогой, но хороший."
+      }
+    ],
+    "colloc": "inexpensive option · relatively inexpensive",
+    "pattern": "cheap",
+    "ant": "expensive"
+  },
+  "a2-0779": {
+    "examples": [
+      {
+        "en": "Wear informal clothes.",
+        "ru": "Надень неофициальную одежду."
+      },
+      {
+        "en": "Keep the tone informal.",
+        "ru": "Держи тон неформальным."
+      },
+      {
+        "en": "It was an informal meeting.",
+        "ru": "Это была неформальная встреча."
+      }
+    ],
+    "colloc": "informal clothes · informal chat",
+    "pattern": "formal"
+  },
+  "a2-0780": {
+    "examples": [
+      {
+        "en": "My initial idea changed.",
+        "ru": "Моя первоначальная идея изменилась."
+      },
+      {
+        "en": "My initial reaction was surprise.",
+        "ru": "Моя первая реакция — удивление."
+      },
+      {
+        "en": "Write your initial here.",
+        "ru": "Напиши инициал здесь."
+      }
+    ],
+    "colloc": "initial stage · initial cost",
+    "pattern": "first"
+  },
+  "a2-0624": {
+    "examples": [
+      {
+        "en": "He is a junior employee.",
+        "ru": "Он младший сотрудник."
+      },
+      {
+        "en": "She's a junior designer.",
+        "ru": "Она младший дизайнер."
+      },
+      {
+        "en": "Join the junior team.",
+        "ru": "Вступи в младшую команду."
+      }
+    ],
+    "colloc": "junior high · junior partner",
+    "pattern": "senior"
+  },
+  "a2-0601": {
+    "examples": [
+      {
+        "en": "We visited an ancient temple.",
+        "ru": "Мы посетили древний храм."
+      },
+      {
+        "en": "We visited ancient ruins.",
+        "ru": "Мы посетили древние руины."
+      },
+      {
+        "en": "That's an ancient tradition.",
+        "ru": "Это древняя традиция."
+      }
+    ],
+    "colloc": "ancient history · ancient city",
+    "pattern": "modern"
+  }
+}

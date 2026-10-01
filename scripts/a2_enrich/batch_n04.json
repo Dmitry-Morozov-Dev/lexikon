@@ -1,0 +1,1793 @@
+{
+  "a2-0221": {
+    "examples": [
+      {
+        "en": "Ask for the lunch menu.",
+        "ru": "Попроси обеденное меню."
+      },
+      {
+        "en": "What's on the menu today?",
+        "ru": "Что сегодня в меню?"
+      },
+      {
+        "en": "Open the start menu.",
+        "ru": "Открой меню «Пуск»."
+      }
+    ],
+    "colloc": "à la carte menu · menu bar"
+  },
+  "a2-0222": {
+    "examples": [
+      {
+        "en": "Try a different method.",
+        "ru": "Попробуй другой метод."
+      },
+      {
+        "en": "Try a different method.",
+        "ru": "Попробуй другой метод."
+      },
+      {
+        "en": "This method works well.",
+        "ru": "Этот метод хорошо работает."
+      }
+    ],
+    "colloc": "method of · teaching method"
+  },
+  "a2-0223": {
+    "examples": [
+      {
+        "en": "Heat soup in the microwave.",
+        "ru": "Разогрей суп в микроволновке."
+      },
+      {
+        "en": "Heat the soup in the microwave.",
+        "ru": "Подогрей суп в микроволновке."
+      },
+      {
+        "en": "Don't put metal in the microwave.",
+        "ru": "Не ставь металл в микроволновку."
+      }
+    ],
+    "colloc": "microwave oven · microwave meal"
+  },
+  "a2-0224": {
+    "examples": [
+      {
+        "en": "It felt like a miracle.",
+        "ru": "Это было как чудо."
+      },
+      {
+        "en": "It was a miracle nobody was hurt.",
+        "ru": "Чудо, что никто не пострадал."
+      },
+      {
+        "en": "Modern medicine works miracles.",
+        "ru": "Современная медицина творит чудеса."
+      }
+    ],
+    "colloc": "miracle of · work miracles"
+  },
+  "a2-0225": {
+    "examples": [
+      {
+        "en": "Complete the mission safely.",
+        "ru": "Безопасно выполни миссию."
+      },
+      {
+        "en": "Our mission is to help patients.",
+        "ru": "Наша миссия — помогать пациентам."
+      },
+      {
+        "en": "She completed a dangerous mission.",
+        "ru": "Она выполнила опасную миссию."
+      }
+    ],
+    "colloc": "mission of · on a mission"
+  },
+  "a2-0226": {
+    "examples": [
+      {
+        "en": "Stir the cake mixture.",
+        "ru": "Размешай смесь для торта."
+      },
+      {
+        "en": "Add the mixture to the pan.",
+        "ru": "Добавь смесь на сковороду."
+      },
+      {
+        "en": "The city is a mixture of cultures.",
+        "ru": "Город — смесь культур."
+      }
+    ],
+    "colloc": "mixture of · cake mixture"
+  },
+  "a2-0227": {
+    "examples": [
+      {
+        "en": "This is the latest model.",
+        "ru": "Это последняя модель."
+      },
+      {
+        "en": "She's a fashion model.",
+        "ru": "Она модель."
+      },
+      {
+        "en": "Build a model airplane.",
+        "ru": "Собери модель самолёта."
+      }
+    ],
+    "colloc": "role model · model of"
+  },
+  "a2-0228": {
+    "examples": [
+      {
+        "en": "A mosquito bit my arm.",
+        "ru": "Комар укусил мне руку."
+      },
+      {
+        "en": "A mosquito bit my arm.",
+        "ru": "Комар укусил руку."
+      },
+      {
+        "en": "Use mosquito spray at dusk.",
+        "ru": "Используй спрей от комаров на закате."
+      }
+    ],
+    "colloc": "mosquito bite · mosquito net"
+  },
+  "a2-0229": {
+    "examples": [
+      {
+        "en": "Find your motivation daily.",
+        "ru": "Находи мотивацию ежедневно."
+      },
+      {
+        "en": "Lack of motivation slows progress.",
+        "ru": "Нехватка мотивации тормозит прогресс."
+      },
+      {
+        "en": "Money isn't my only motivation.",
+        "ru": "Деньги — не единственная мотивация."
+      }
+    ],
+    "colloc": "motivation to · lose motivation"
+  },
+  "a2-0230": {
+    "examples": [
+      {
+        "en": "He rides a motorcycle.",
+        "ru": "Он ездит на мотоцикле."
+      },
+      {
+        "en": "He rides a motorcycle to work.",
+        "ru": "Он ездит на работу на мотоцикле."
+      },
+      {
+        "en": "Wear a helmet on a motorcycle.",
+        "ru": "Носи шлем на мотоцикле."
+      }
+    ],
+    "colloc": "motorcycle helmet · motorcycle ride"
+  },
+  "a2-0231": {
+    "examples": [
+      {
+        "en": "Stretch your leg muscles.",
+        "ru": "Растяни мышцы ног."
+      },
+      {
+        "en": "Stretch your muscles after running.",
+        "ru": "Потяни мышцы после бега."
+      },
+      {
+        "en": "He pulled a muscle at the gym.",
+        "ru": "Он потянул мышцу в зале."
+      }
+    ],
+    "colloc": "muscle pain · muscle strength"
+  },
+  "a2-0232": {
+    "examples": [
+      {
+        "en": "Add mushrooms to the pizza.",
+        "ru": "Добавь грибы на пиццу."
+      },
+      {
+        "en": "Fry the mushrooms with garlic.",
+        "ru": "Обжарь грибы с чесноком."
+      },
+      {
+        "en": "Wild mushrooms can be dangerous.",
+        "ru": "Дикие грибы могут быть опасны."
+      }
+    ],
+    "colloc": "mushroom soup · mushroom cloud"
+  },
+  "a2-0233": {
+    "examples": [
+      {
+        "en": "Put a napkin on your lap.",
+        "ru": "Положи салфетку на колени."
+      },
+      {
+        "en": "Pass me a napkin, please.",
+        "ru": "Передай салфетку, пожалуйста."
+      },
+      {
+        "en": "Fold the napkin neatly.",
+        "ru": "Аккуратно сложи салфетку."
+      }
+    ],
+    "colloc": "paper napkin · napkin ring"
+  },
+  "a2-0234": {
+    "examples": [
+      {
+        "en": "Every nation has traditions.",
+        "ru": "У каждой нации есть традиции."
+      },
+      {
+        "en": "People from every nation came.",
+        "ru": "Люди из всех стран приехали."
+      },
+      {
+        "en": "The whole nation celebrated.",
+        "ru": "Вся нация праздновала."
+      }
+    ],
+    "colloc": "nation of · United Nations"
+  },
+  "a2-0235": {
+    "examples": [
+      {
+        "en": "Use phone navigation carefully.",
+        "ru": "Осторожно используй навигацию."
+      },
+      {
+        "en": "Turn on GPS navigation.",
+        "ru": "Включи GPS-навигацию."
+      },
+      {
+        "en": "Navigation was hard in the fog.",
+        "ru": "В тумане навигация была трудной."
+      }
+    ],
+    "colloc": "navigation system · satellite navigation"
+  },
+  "a2-0236": {
+    "examples": [
+      {
+        "en": "Our neighborhood is quiet.",
+        "ru": "Наш район тихий."
+      },
+      {
+        "en": "We live in a quiet neighborhood.",
+        "ru": "Мы живём в тихом районе."
+      },
+      {
+        "en": "Explore your neighborhood on foot.",
+        "ru": "Исследуй район пешком."
+      }
+    ],
+    "colloc": "neighborhood watch",
+    "note": "AmE: neighborhood; BrE: neighbourhood"
+  },
+  "a2-0237": {
+    "examples": [
+      {
+        "en": "My nephew starts school soon.",
+        "ru": "Племянник скоро идёт в школу."
+      },
+      {
+        "en": "My nephew starts school soon.",
+        "ru": "Племянник скоро идёт в школу."
+      },
+      {
+        "en": "She bought a gift for her nephew.",
+        "ru": "Она купила подарок племяннику."
+      }
+    ],
+    "colloc": "nephew of"
+  },
+  "a2-0238": {
+    "examples": [
+      {
+        "en": "My niece loves drawing.",
+        "ru": "Племянница любит рисовать."
+      },
+      {
+        "en": "My niece loves drawing.",
+        "ru": "Моя племянница любит рисовать."
+      },
+      {
+        "en": "We're visiting my niece this weekend.",
+        "ru": "В эти выходные навещаем племянницу."
+      }
+    ],
+    "colloc": "niece of"
+  },
+  "a2-0239": {
+    "examples": [
+      {
+        "en": "I had a strange nightmare.",
+        "ru": "Мне приснился странный кошмар."
+      },
+      {
+        "en": "I had a nightmare last night.",
+        "ru": "Прошлой ночью мне приснился кошмар."
+      },
+      {
+        "en": "Traffic was a nightmare.",
+        "ru": "Пробки были кошмаром."
+      }
+    ],
+    "colloc": "nightmare about · living nightmare"
+  },
+  "a2-0240": {
+    "examples": [
+      {
+        "en": "Stop talking nonsense.",
+        "ru": "Хватит говорить чепуху."
+      },
+      {
+        "en": "Don't talk nonsense.",
+        "ru": "Не говори чепуху."
+      },
+      {
+        "en": "That idea is complete nonsense.",
+        "ru": "Эта идея — полная чушь."
+      }
+    ],
+    "colloc": "talk nonsense · absolute nonsense"
+  },
+  "a2-0241": {
+    "examples": [
+      {
+        "en": "I am reading a long novel.",
+        "ru": "Я читаю длинный роман."
+      },
+      {
+        "en": "She wrote her first novel at thirty.",
+        "ru": "Она написала первый роман в тридцать."
+      },
+      {
+        "en": "I'm reading a mystery novel.",
+        "ru": "Я читаю детективный роман."
+      }
+    ],
+    "colloc": "novel of · debut novel"
+  },
+  "a2-0242": {
+    "examples": [
+      {
+        "en": "What is your occupation?",
+        "ru": "Какая у тебя профессия?"
+      },
+      {
+        "en": "What's your occupation?",
+        "ru": "Какая у тебя профессия?"
+      },
+      {
+        "en": "The form asks for your occupation.",
+        "ru": "В форме спрашивают профессию."
+      }
+    ],
+    "colloc": "occupation of · full-time occupation"
+  },
+  "a2-0243": {
+    "examples": [
+      {
+        "en": "The operation was successful.",
+        "ru": "Операция прошла успешно."
+      },
+      {
+        "en": "The operation lasted two hours.",
+        "ru": "Операция длилась два часа."
+      },
+      {
+        "en": "The factory is in full operation.",
+        "ru": "Завод работает на полную."
+      }
+    ],
+    "colloc": "operation of · surgical operation"
+  },
+  "a2-0244": {
+    "examples": [
+      {
+        "en": "Take this opportunity seriously.",
+        "ru": "Отнесись к этой возможности серьёзно."
+      },
+      {
+        "en": "This is a great opportunity.",
+        "ru": "Это отличная возможность."
+      },
+      {
+        "en": "Don't miss the opportunity.",
+        "ru": "Не упусти возможность."
+      }
+    ],
+    "colloc": "opportunity to · job opportunity"
+  },
+  "a2-0245": {
+    "examples": [
+      {
+        "en": "Choose the best option.",
+        "ru": "Выбери лучший вариант."
+      },
+      {
+        "en": "You have two options.",
+        "ru": "У тебя два варианта."
+      },
+      {
+        "en": "Vegetarian options are available.",
+        "ru": "Доступны вегетарианские варианты."
+      }
+    ],
+    "colloc": "option of · best option"
+  },
+  "a2-0246": {
+    "examples": [
+      {
+        "en": "The orchestra played beautifully.",
+        "ru": "Оркестр играл прекрасно."
+      },
+      {
+        "en": "The orchestra played beautifully.",
+        "ru": "Оркестр играл прекрасно."
+      },
+      {
+        "en": "She joined a youth orchestra.",
+        "ru": "Она вступила в молодёжный оркестр."
+      }
+    ],
+    "colloc": "symphony orchestra · orchestra pit"
+  },
+  "a2-0247": {
+    "examples": [
+      {
+        "en": "Join a volunteer organization.",
+        "ru": "Вступи в волонтёрскую организацию."
+      },
+      {
+        "en": "Join a local organization.",
+        "ru": "Вступи в местную организацию."
+      },
+      {
+        "en": "The organization helps refugees.",
+        "ru": "Организация помогает беженцам."
+      }
+    ],
+    "colloc": "organization of",
+    "note": "AmE: organization"
+  },
+  "a2-0248": {
+    "examples": [
+      {
+        "en": "What is the word origin?",
+        "ru": "Каково происхождение слова?"
+      },
+      {
+        "en": "What's the origin of this word?",
+        "ru": "Каково происхождение этого слова?"
+      },
+      {
+        "en": "The river's origin is in the mountains.",
+        "ru": "Исток реки — в горах."
+      }
+    ],
+    "colloc": "origin of · country of origin"
+  },
+  "a2-0249": {
+    "examples": [
+      {
+        "en": "Wait for the final outcome.",
+        "ru": "Жди конечного результата."
+      },
+      {
+        "en": "We're waiting for the outcome.",
+        "ru": "Мы ждём результата."
+      },
+      {
+        "en": "The outcome surprised everyone.",
+        "ru": "Исход всех удивил."
+      }
+    ],
+    "colloc": "outcome of · final outcome"
+  },
+  "a2-0250": {
+    "examples": [
+      {
+        "en": "Write an essay outline first.",
+        "ru": "Сначала напиши план эссе."
+      },
+      {
+        "en": "Write a brief outline first.",
+        "ru": "Сначала напиши краткий план."
+      },
+      {
+        "en": "The outline of the mountains appeared.",
+        "ru": "Показались очертания гор."
+      }
+    ],
+    "colloc": "outline of · in outline"
+  },
+  "a2-0251": {
+    "examples": [
+      {
+        "en": "Wear a warm overcoat.",
+        "ru": "Надень тёплое пальто."
+      },
+      {
+        "en": "Wear an overcoat — it's freezing.",
+        "ru": "Надень пальто — мороз."
+      },
+      {
+        "en": "Hang your overcoat in the closet.",
+        "ru": "Повесь пальто в шкаф."
+      }
+    ],
+    "colloc": "winter overcoat"
+  },
+  "a2-0252": {
+    "examples": [
+      {
+        "en": "Ask the shop owner.",
+        "ru": "Спроси владельца магазина."
+      },
+      {
+        "en": "Who is the owner of this car?",
+        "ru": "Кто владелец этой машины?"
+      },
+      {
+        "en": "The shop owner greeted us.",
+        "ru": "Владелец магазина нас поприветствовал."
+      }
+    ],
+    "colloc": "owner of · home owner"
+  },
+  "a2-0253": {
+    "examples": [
+      {
+        "en": "Collect your package today.",
+        "ru": "Забери посылку сегодня."
+      },
+      {
+        "en": "A package arrived this morning.",
+        "ru": "Сегодня утром пришла посылка."
+      },
+      {
+        "en": "Open the package carefully.",
+        "ru": "Аккуратно открой посылку."
+      }
+    ],
+    "colloc": "package deal · holiday package"
+  },
+  "a2-0254": {
+    "examples": [
+      {
+        "en": "Hang the painting carefully.",
+        "ru": "Осторожно повесь картину."
+      },
+      {
+        "en": "This painting is from the 1800s.",
+        "ru": "Эта картина из 1800-х."
+      },
+      {
+        "en": "She took up painting last year.",
+        "ru": "В прошлом году она занялась живописью."
+      }
+    ],
+    "colloc": "oil painting · painting of"
+  },
+  "a2-0255": {
+    "examples": [
+      {
+        "en": "Tourists visit the palace.",
+        "ru": "Туристы посещают дворец."
+      },
+      {
+        "en": "Tourists filled the palace.",
+        "ru": "Туристы заполнили дворец."
+      },
+      {
+        "en": "The palace gardens are open.",
+        "ru": "Дворцовые сады открыты."
+      }
+    ],
+    "colloc": "royal palace · palace of"
+  },
+  "a2-0256": {
+    "examples": [
+      {
+        "en": "Do not panic in emergencies.",
+        "ru": "Не паникуй в чрезвычайных ситуациях."
+      },
+      {
+        "en": "Don't panic — stay calm.",
+        "ru": "Не паникуй — сохраняй спокойствие."
+      },
+      {
+        "en": "There was panic in the crowd.",
+        "ru": "В толпе началась паника."
+      }
+    ],
+    "colloc": "panic about · in a panic"
+  },
+  "a2-0257": {
+    "examples": [
+      {
+        "en": "Read the first paragraph.",
+        "ru": "Прочитай первый абзац."
+      },
+      {
+        "en": "Rewrite the first paragraph.",
+        "ru": "Перепиши первый абзац."
+      },
+      {
+        "en": "Each paragraph needs a topic sentence.",
+        "ru": "В каждом абзаце нужна тема."
+      }
+    ],
+    "colloc": "paragraph of · opening paragraph"
+  },
+  "a2-0258": {
+    "examples": [
+      {
+        "en": "Find a study partner.",
+        "ru": "Найди партнёра для учёбы."
+      },
+      {
+        "en": "She's my business partner.",
+        "ru": "Она мой деловой партнёр."
+      },
+      {
+        "en": "Dance with a partner.",
+        "ru": "Танцуй с партнёром."
+      }
+    ],
+    "colloc": "partner with · life partner"
+  },
+  "a2-0259": {
+    "examples": [
+      {
+        "en": "Passengers must wear seatbelts.",
+        "ru": "Пассажиры должны пристегиваться."
+      },
+      {
+        "en": "Passengers must fasten seat belts.",
+        "ru": "Пассажиры должны пристегнуть ремни."
+      },
+      {
+        "en": "The bus was full of passengers.",
+        "ru": "Автобус был полон пассажиров."
+      }
+    ],
+    "colloc": "passenger seat · passenger of"
+  },
+  "a2-0260": {
+    "examples": [
+      {
+        "en": "Follow the forest path.",
+        "ru": "Следуй по лесной тропе."
+      },
+      {
+        "en": "Follow the path through the woods.",
+        "ru": "Иди по тропе через лес."
+      },
+      {
+        "en": "Career paths aren't always straight.",
+        "ru": "Карьерные пути не всегда прямые."
+      }
+    ],
+    "colloc": "path to · career path"
+  },
+  "a2-0261": {
+    "examples": [
+      {
+        "en": "Learning needs patience.",
+        "ru": "Учёба требует терпения."
+      },
+      {
+        "en": "Teaching kids takes patience.",
+        "ru": "Обучение детей требует терпения."
+      },
+      {
+        "en": "Thank you for your patience.",
+        "ru": "Спасибо за терпение."
+      }
+    ],
+    "colloc": "patience with · out of patience"
+  },
+  "a2-0262": {
+    "examples": [
+      {
+        "en": "Notice the weather pattern.",
+        "ru": "Заметь погодный узор."
+      },
+      {
+        "en": "Follow the sewing pattern.",
+        "ru": "Следуй выкройке."
+      },
+      {
+        "en": "I notice a pattern in the data.",
+        "ru": "Я замечаю закономерность в данных."
+      }
+    ],
+    "colloc": "pattern of · weather pattern"
+  },
+  "a2-0263": {
+    "examples": [
+      {
+        "en": "Make the payment online.",
+        "ru": "Сделай платёж онлайн."
+      },
+      {
+        "en": "Payment is due on the first.",
+        "ru": "Оплата — первого числа."
+      },
+      {
+        "en": "Online payment is faster.",
+        "ru": "Онлайн-оплата быстрее."
+      }
+    ],
+    "colloc": "payment of · make a payment"
+  },
+  "a2-0264": {
+    "examples": [
+      {
+        "en": "Reach the mountain peak.",
+        "ru": "Достигни пика горы."
+      },
+      {
+        "en": "We reached the mountain peak.",
+        "ru": "Мы достигли вершины горы."
+      },
+      {
+        "en": "Traffic peaks at 8 a.m.",
+        "ru": "Пробки достигают пика в 8 утра."
+      }
+    ],
+    "colloc": "peak of · peak hours"
+  },
+  "a2-0265": {
+    "examples": [
+      {
+        "en": "Pay the parking penalty.",
+        "ru": "Заплати штраф за парковку."
+      },
+      {
+        "en": "There's a penalty for late returns.",
+        "ru": "Есть штраф за поздний возврат."
+      },
+      {
+        "en": "He scored a penalty kick.",
+        "ru": "Он забил пенальти."
+      }
+    ],
+    "colloc": "penalty for · death penalty"
+  },
+  "a2-0266": {
+    "examples": [
+      {
+        "en": "Penguins live in cold places.",
+        "ru": "Пингвины живут в холодных местах."
+      },
+      {
+        "en": "Penguins live in cold climates.",
+        "ru": "Пингвины живут в холодном климате."
+      },
+      {
+        "en": "Kids loved the penguin show.",
+        "ru": "Детям понравилось шоу пингвинов."
+      }
+    ],
+    "colloc": "emperor penguin"
+  },
+  "a2-0267": {
+    "examples": [
+      {
+        "en": "Enjoy the evening performance.",
+        "ru": "Наслаждайся вечерним выступлением."
+      },
+      {
+        "en": "Her performance was brilliant.",
+        "ru": "Её выступление было блестящим."
+      },
+      {
+        "en": "The car's performance improved.",
+        "ru": "Производительность машины улучшилась."
+      }
+    ],
+    "colloc": "live performance · performance of"
+  },
+  "a2-0268": {
+    "examples": [
+      {
+        "en": "Ask permission before leaving.",
+        "ru": "Попроси разрешение перед уходом."
+      },
+      {
+        "en": "Do I have your permission?",
+        "ru": "Есть твоё разрешение?"
+      },
+      {
+        "en": "Ask permission before posting photos.",
+        "ru": "Спроси разрешение перед публикацией фото."
+      }
+    ],
+    "colloc": "permission to · without permission"
+  },
+  "a2-0269": {
+    "examples": [
+      {
+        "en": "Fill the car with petrol.",
+        "ru": "Залей бензин в машину."
+      },
+      {
+        "en": "Fill the tank with petrol.",
+        "ru": "Заправь бак бензином."
+      },
+      {
+        "en": "Petrol prices rose again.",
+        "ru": "Цены на бензин снова выросли."
+      }
+    ],
+    "colloc": "petrol station",
+    "note": "BrE: petrol; AmE: gas"
+  },
+  "a2-0270": {
+    "examples": [
+      {
+        "en": "Learn useful phrases.",
+        "ru": "Учи полезные фразы."
+      },
+      {
+        "en": "Learn this useful phrase.",
+        "ru": "Выучи эту полезную фразу."
+      },
+      {
+        "en": "She repeated the phrase slowly.",
+        "ru": "Она медленно повторила фразу."
+      }
+    ],
+    "colloc": "phrase of · set phrase"
+  },
+  "a2-0271": {
+    "examples": [
+      {
+        "en": "Buy a soft pillow.",
+        "ru": "Купи мягкую подушку."
+      },
+      {
+        "en": "I need a softer pillow.",
+        "ru": "Мне нужна более мягкая подушка."
+      },
+      {
+        "en": "Fluff the pillows on the bed.",
+        "ru": "Взбей подушки на кровати."
+      }
+    ],
+    "colloc": "pillow case · throw pillow"
+  },
+  "a2-0272": {
+    "examples": [
+      {
+        "en": "What a pity you missed it.",
+        "ru": "Как жаль, что ты это пропустил."
+      },
+      {
+        "en": "What a pity you missed it.",
+        "ru": "Жаль, что ты пропустил."
+      },
+      {
+        "en": "I felt pity for the stray dog.",
+        "ru": "Мне было жаль бездомную собаку."
+      }
+    ],
+    "colloc": "pity for · take pity on"
+  },
+  "a2-0273": {
+    "examples": [
+      {
+        "en": "Earth is our planet.",
+        "ru": "Земля — наша планета."
+      },
+      {
+        "en": "Earth is our home planet.",
+        "ru": "Земля — наша родная планета."
+      },
+      {
+        "en": "Scientists found a new planet.",
+        "ru": "Учёные нашли новую планету."
+      }
+    ],
+    "colloc": "planet Earth · planet of"
+  },
+  "a2-0274": {
+    "examples": [
+      {
+        "en": "Wait on platform three.",
+        "ru": "Жди на платформе три."
+      },
+      {
+        "en": "Wait on platform three.",
+        "ru": "Ждите на платформе три."
+      },
+      {
+        "en": "The app is a learning platform.",
+        "ru": "Приложение — обучающая платформа."
+      }
+    ],
+    "colloc": "train platform · platform for"
+  },
+  "a2-0275": {
+    "examples": [
+      {
+        "en": "It is a pleasure to help.",
+        "ru": "Помогать — удовольствие."
+      },
+      {
+        "en": "It's a pleasure to meet you.",
+        "ru": "Приятно познакомиться."
+      },
+      {
+        "en": "Reading is my greatest pleasure.",
+        "ru": "Чтение — моё главное удовольствие."
+      }
+    ],
+    "colloc": "with pleasure · pleasure of"
+  },
+  "a2-0276": {
+    "examples": [
+      {
+        "en": "Write a short poem.",
+        "ru": "Напиши короткое стихотворение."
+      },
+      {
+        "en": "She wrote a short poem.",
+        "ru": "Она написала короткое стихотворение."
+      },
+      {
+        "en": "Read the poem aloud.",
+        "ru": "Прочитай стихотворение вслух."
+      }
+    ],
+    "colloc": "poem about · love poem"
+  },
+  "a2-0277": {
+    "examples": [
+      {
+        "en": "The poet read aloud.",
+        "ru": "Поэт читал вслух."
+      },
+      {
+        "en": "The poet read to a full room.",
+        "ru": "Поэт читал полному залу."
+      },
+      {
+        "en": "She's a famous poet.",
+        "ru": "Она знаменитая поэтесса."
+      }
+    ],
+    "colloc": "poet of · nature poet"
+  },
+  "a2-0278": {
+    "examples": [
+      {
+        "en": "Keep poison locked away.",
+        "ru": "Храни яд под замком."
+      },
+      {
+        "en": "Keep poison away from kids.",
+        "ru": "Держи яд подальше от детей."
+      },
+      {
+        "en": "Some mushrooms contain poison.",
+        "ru": "В некоторых грибах есть яд."
+      }
+    ],
+    "colloc": "poison of · rat poison"
+  },
+  "a2-0279": {
+    "examples": [
+      {
+        "en": "Read the company policy.",
+        "ru": "Прочитай политику компании."
+      },
+      {
+        "en": "Read the company policy.",
+        "ru": "Прочитай политику компании."
+      },
+      {
+        "en": "Insurance policy covers theft.",
+        "ru": "Страховой полис покрывает кражу."
+      }
+    ],
+    "colloc": "policy of · foreign policy"
+  },
+  "a2-0280": {
+    "examples": [
+      {
+        "en": "The population is growing.",
+        "ru": "Население растёт."
+      },
+      {
+        "en": "The city's population is growing.",
+        "ru": "Население города растёт."
+      },
+      {
+        "en": "What's the population of Canada?",
+        "ru": "Каково население Канады?"
+      }
+    ],
+    "colloc": "population of · population growth"
+  },
+  "a2-0281": {
+    "examples": [
+      {
+        "en": "Apply for a new position.",
+        "ru": "Подай заявку на новую должность."
+      },
+      {
+        "en": "What's your position on this?",
+        "ru": "Какова твоя позиция по этому?"
+      },
+      {
+        "en": "She got a better position.",
+        "ru": "Она получила лучшую должность."
+      }
+    ],
+    "colloc": "position of · in position"
+  },
+  "a2-0282": {
+    "examples": [
+      {
+        "en": "There is a possibility of rain.",
+        "ru": "Есть возможность дождя."
+      },
+      {
+        "en": "There's a possibility of rain.",
+        "ru": "Есть вероятность дождя."
+      },
+      {
+        "en": "Explore every possibility.",
+        "ru": "Исследуй каждую возможность."
+      }
+    ],
+    "colloc": "possibility of · real possibility"
+  },
+  "a2-0283": {
+    "examples": [
+      {
+        "en": "Hang a movie poster.",
+        "ru": "Повесь киноплакат."
+      },
+      {
+        "en": "Hang the poster on the wall.",
+        "ru": "Повесь постер на стену."
+      },
+      {
+        "en": "Movie posters filled the lobby.",
+        "ru": "Лобби заполнили киноафиши."
+      }
+    ],
+    "colloc": "poster of · wanted poster"
+  },
+  "a2-0284": {
+    "examples": [
+      {
+        "en": "Fight poverty with education.",
+        "ru": "Борись с бедностью через образование."
+      },
+      {
+        "en": "Many charities fight poverty.",
+        "ru": "Многие фонды борются с бедностью."
+      },
+      {
+        "en": "Poverty affects education.",
+        "ru": "Бедность влияет на образование."
+      }
+    ],
+    "colloc": "poverty line · in poverty"
+  },
+  "a2-0285": {
+    "examples": [
+      {
+        "en": "Add baking powder carefully.",
+        "ru": "Осторожно добавь разрыхлитель."
+      },
+      {
+        "en": "Add a spoon of powder.",
+        "ru": "Добавь ложку порошка."
+      },
+      {
+        "en": "Baby powder softens skin.",
+        "ru": "Детская присыпка смягчает кожу."
+      }
+    ],
+    "colloc": "powder of · face powder"
+  },
+  "a2-0286": {
+    "examples": [
+      {
+        "en": "Teachers give fair praise.",
+        "ru": "Учителя дают справедливую похвалу."
+      },
+      {
+        "en": "She received praise for her work.",
+        "ru": "Она получила похвалу за работу."
+      },
+      {
+        "en": "Don't praise too quickly.",
+        "ru": "Не хвали слишком быстро."
+      }
+    ],
+    "colloc": "praise for · in praise of"
+  },
+  "a2-0287": {
+    "examples": [
+      {
+        "en": "State your food preference.",
+        "ru": "Укажи пищевое предпочтение."
+      },
+      {
+        "en": "Do you have a preference?",
+        "ru": "Есть предпочтение?"
+      },
+      {
+        "en": "My preference is tea.",
+        "ru": "Моё предпочтение — чай."
+      }
+    ],
+    "colloc": "preference for · in preference to"
+  },
+  "a2-0288": {
+    "examples": [
+      {
+        "en": "Exam preparation takes time.",
+        "ru": "Подготовка к экзамену занимает время."
+      },
+      {
+        "en": "Exam preparation takes weeks.",
+        "ru": "Подготовка к экзамену занимает недели."
+      },
+      {
+        "en": "Food preparation starts early.",
+        "ru": "Приготовление еды начинается рано."
+      }
+    ],
+    "colloc": "preparation for · in preparation"
+  },
+  "a2-0289": {
+    "examples": [
+      {
+        "en": "Thank you for your presence.",
+        "ru": "Спасибо за присутствие."
+      },
+      {
+        "en": "Your presence is required.",
+        "ru": "Ваше присутствие обязательно."
+      },
+      {
+        "en": "I felt a strange presence.",
+        "ru": "Я почувствовал странное присутствие."
+      }
+    ],
+    "colloc": "presence of · in the presence of"
+  },
+  "a2-0290": {
+    "examples": [
+      {
+        "en": "Prepare a short presentation.",
+        "ru": "Подготовь короткую презентацию."
+      },
+      {
+        "en": "Her presentation was clear.",
+        "ru": "Её презентация была ясной."
+      },
+      {
+        "en": "Prepare slides for the presentation.",
+        "ru": "Подготовь слайды к презентации."
+      }
+    ],
+    "colloc": "presentation of · make a presentation"
+  },
+  "a2-0291": {
+    "examples": [
+      {
+        "en": "Work under pressure carefully.",
+        "ru": "Осторожно работай под давлением."
+      },
+      {
+        "en": "Don't put pressure on me.",
+        "ru": "Не дави на меня."
+      },
+      {
+        "en": "Blood pressure is normal.",
+        "ru": "Давление в норме."
+      }
+    ],
+    "colloc": "under pressure · pressure of"
+  },
+  "a2-0292": {
+    "examples": [
+      {
+        "en": "Prevention is better than cure.",
+        "ru": "Профилактика лучше лечения."
+      },
+      {
+        "en": "Prevention is better than cure.",
+        "ru": "Профилактика лучше лечения."
+      },
+      {
+        "en": "Fire prevention saves lives.",
+        "ru": "Противопожарная профилактика спасает жизни."
+      }
+    ],
+    "colloc": "prevention of · crime prevention"
+  },
+  "a2-0293": {
+    "examples": [
+      {
+        "en": "Take pride in your work.",
+        "ru": "Гордись своей работой."
+      },
+      {
+        "en": "She takes pride in her work.",
+        "ru": "Она гордится своей работой."
+      },
+      {
+        "en": "National pride filled the stadium.",
+        "ru": "Национальная гордость заполнила стадион."
+      }
+    ],
+    "colloc": "pride in · pride of"
+  },
+  "a2-0294": {
+    "examples": [
+      {
+        "en": "Follow basic safety principles.",
+        "ru": "Следуй основным принципам безопасности."
+      },
+      {
+        "en": "Honesty is an important principle.",
+        "ru": "Честность — важный принцип."
+      },
+      {
+        "en": "In principle, I agree.",
+        "ru": "В принципе, я согласен."
+      }
+    ],
+    "colloc": "principle of · on principle"
+  },
+  "a2-0295": {
+    "examples": [
+      {
+        "en": "Health is my priority.",
+        "ru": "Здоровье — мой приоритет."
+      },
+      {
+        "en": "Safety is our top priority.",
+        "ru": "Безопасность — наш главный приоритет."
+      },
+      {
+        "en": "Set clear priorities.",
+        "ru": "Поставь ясные приоритеты."
+      }
+    ],
+    "colloc": "priority of · high priority"
+  },
+  "a2-0296": {
+    "examples": [
+      {
+        "en": "He spent years in prison.",
+        "ru": "Он провёл годы в тюрьме."
+      },
+      {
+        "en": "He spent a year in prison.",
+        "ru": "Он провёл год в тюрьме."
+      },
+      {
+        "en": "The prison is outside the city.",
+        "ru": "Тюрьма за городом."
+      }
+    ],
+    "colloc": "in prison · prison sentence"
+  },
+  "a2-0297": {
+    "examples": [
+      {
+        "en": "Respect online privacy.",
+        "ru": "Уважай онлайн-конфиденциальность."
+      },
+      {
+        "en": "I value my privacy.",
+        "ru": "Я ценю свою частную жизнь."
+      },
+      {
+        "en": "Respect patient privacy.",
+        "ru": "Уважай конфиденциальность пациентов."
+      }
+    ],
+    "colloc": "privacy of · right to privacy"
+  },
+  "a2-0298": {
+    "examples": [
+      {
+        "en": "Follow the safety procedure.",
+        "ru": "Следуй процедуре безопасности."
+      },
+      {
+        "en": "Follow the safety procedure.",
+        "ru": "Следуй процедуре безопасности."
+      },
+      {
+        "en": "The procedure is simple.",
+        "ru": "Процедура простая."
+      }
+    ],
+    "colloc": "procedure for · standard procedure"
+  },
+  "a2-0299": {
+    "examples": [
+      {
+        "en": "Explain the hiring process.",
+        "ru": "Объясни процесс найма."
+      },
+      {
+        "en": "Explain the process step by step.",
+        "ru": "Объясни процесс шаг за шагом."
+      },
+      {
+        "en": "The hiring process takes weeks.",
+        "ru": "Процесс найма занимает недели."
+      }
+    ],
+    "colloc": "process of · in process"
+  },
+  "a2-0300": {
+    "examples": [
+      {
+        "en": "Car production increased.",
+        "ru": "Производство машин выросло."
+      },
+      {
+        "en": "Film production starts in May.",
+        "ru": "Съёмки начинаются в мае."
+      },
+      {
+        "en": "Factory production increased.",
+        "ru": "Производство на заводе выросло."
+      }
+    ],
+    "colloc": "production of · in production"
+  },
+  "a2-0301": {
+    "examples": [
+      {
+        "en": "Teaching is a noble profession.",
+        "ru": "Преподавание — благородная профессия."
+      },
+      {
+        "en": "Teaching is a demanding profession.",
+        "ru": "Преподавание — требовательная профессия."
+      },
+      {
+        "en": "Choose a profession carefully.",
+        "ru": "Выбирай профессию осторожно."
+      }
+    ],
+    "colloc": "profession of · by profession"
+  },
+  "a2-0302": {
+    "examples": [
+      {
+        "en": "Ask the professor a question.",
+        "ru": "Задай профессору вопрос."
+      },
+      {
+        "en": "The professor explained clearly.",
+        "ru": "Профессор ясно объяснил."
+      },
+      {
+        "en": "She's a history professor.",
+        "ru": "Она профессор истории."
+      }
+    ],
+    "colloc": "professor of · visiting professor"
+  },
+  "a2-0303": {
+    "examples": [
+      {
+        "en": "The shop made a profit.",
+        "ru": "Магазин получил прибыль."
+      },
+      {
+        "en": "The company made a profit.",
+        "ru": "Компания получила прибыль."
+      },
+      {
+        "en": "Nonprofits don't seek profit.",
+        "ru": "Некоммерческие организации не ищут прибыль."
+      }
+    ],
+    "colloc": "profit from · make a profit"
+  },
+  "a2-0304": {
+    "examples": [
+      {
+        "en": "Install the new program.",
+        "ru": "Установи новую программу."
+      },
+      {
+        "en": "Download the program.",
+        "ru": "Скачай программу."
+      },
+      {
+        "en": "What's on the TV program?",
+        "ru": "Что в телепрограмме?"
+      }
+    ],
+    "colloc": "program of",
+    "note": "AmE: program; BrE: programme (шоу)"
+  },
+  "a2-0305": {
+    "examples": [
+      {
+        "en": "Show steady progress.",
+        "ru": "Покажи устойчивый прогресс."
+      },
+      {
+        "en": "We're making progress.",
+        "ru": "Мы делаем прогресс."
+      },
+      {
+        "en": "Track your progress weekly.",
+        "ru": "Отслеживай прогресс еженедельно."
+      }
+    ],
+    "colloc": "progress of · in progress",
+    "note": "progress неисчисляемое"
+  },
+  "a2-0306": {
+    "examples": [
+      {
+        "en": "Finish the group project.",
+        "ru": "Закончи групповой проект."
+      },
+      {
+        "en": "Our project ends in June.",
+        "ru": "Наш проект заканчивается в июне."
+      },
+      {
+        "en": "Join the school project.",
+        "ru": "Присоединяйся к школьному проекту."
+      }
+    ],
+    "colloc": "project of · side project"
+  },
+  "a2-0307": {
+    "examples": [
+      {
+        "en": "She got a promotion.",
+        "ru": "Она получила повышение."
+      },
+      {
+        "en": "She got a promotion.",
+        "ru": "Её повысили."
+      },
+      {
+        "en": "There's a sales promotion this week.",
+        "ru": "На этой неделе акция."
+      }
+    ],
+    "colloc": "promotion to · special promotion"
+  },
+  "a2-0308": {
+    "examples": [
+      {
+        "en": "Show proof of purchase.",
+        "ru": "Покажи доказательство покупки."
+      },
+      {
+        "en": "Do you have proof?",
+        "ru": "Есть доказательства?"
+      },
+      {
+        "en": "Keep the receipt as proof.",
+        "ru": "Сохрани чек как доказательство."
+      }
+    ],
+    "colloc": "proof of · without proof"
+  },
+  "a2-0309": {
+    "examples": [
+      {
+        "en": "Protect private property.",
+        "ru": "Защищай частную собственность."
+      },
+      {
+        "en": "This property belongs to the city.",
+        "ru": "Эта собственность принадлежит городу."
+      },
+      {
+        "en": "Respect other people's property.",
+        "ru": "Уважай чужую собственность."
+      }
+    ],
+    "colloc": "property of · private property"
+  },
+  "a2-0310": {
+    "examples": [
+      {
+        "en": "Read the business proposal.",
+        "ru": "Прочитай деловое предложение."
+      },
+      {
+        "en": "They accepted our proposal.",
+        "ru": "Они приняли наше предложение."
+      },
+      {
+        "en": "Marriage proposals surprise people.",
+        "ru": "Предложения руки и сердца удивляют."
+      }
+    ],
+    "colloc": "proposal of · proposal for"
+  },
+  "a2-0311": {
+    "examples": [
+      {
+        "en": "Wear sun protection.",
+        "ru": "Носи защиту от солнца."
+      },
+      {
+        "en": "Wear sunscreen for protection.",
+        "ru": "Носи крем для защиты."
+      },
+      {
+        "en": "Legal protection matters.",
+        "ru": "Юридическая защита важна."
+      }
+    ],
+    "colloc": "protection from · under protection"
+  },
+  "a2-0312": {
+    "examples": [
+      {
+        "en": "Eggs provide protein.",
+        "ru": "Яйца дают белок."
+      },
+      {
+        "en": "Eggs are high in protein.",
+        "ru": "В яйцах много белка."
+      },
+      {
+        "en": "Athletes need more protein.",
+        "ru": "Спортсменам нужно больше белка."
+      }
+    ],
+    "colloc": "protein of · protein shake"
+  },
+  "a2-0313": {
+    "examples": [
+      {
+        "en": "Join a peaceful protest.",
+        "ru": "Участвуй в мирном протесте."
+      },
+      {
+        "en": "Workers held a protest.",
+        "ru": "Рабочие устроили протест."
+      },
+      {
+        "en": "She joined the climate protest.",
+        "ru": "Она присоединилась к климатическому протесту."
+      }
+    ],
+    "colloc": "protest against · in protest"
+  },
+  "a2-0314": {
+    "examples": [
+      {
+        "en": "She lives in another province.",
+        "ru": "Она живёт в другой провинции."
+      },
+      {
+        "en": "Ontario is a Canadian province.",
+        "ru": "Онтарио — канадская провинция."
+      },
+      {
+        "en": "Each province has its own rules.",
+        "ru": "В каждой провинции свои правила."
+      }
+    ],
+    "colloc": "province of · remote province"
+  },
+  "a2-0315": {
+    "examples": [
+      {
+        "en": "Read the latest publication.",
+        "ru": "Прочитай последнюю публикацию."
+      },
+      {
+        "en": "The publication date is May.",
+        "ru": "Дата публикации — май."
+      },
+      {
+        "en": "She has three publications.",
+        "ru": "У неё три публикации."
+      }
+    ],
+    "colloc": "publication of · academic publication"
+  },
+  "a2-0316": {
+    "examples": [
+      {
+        "en": "Try the chocolate pudding.",
+        "ru": "Попробуй шоколадный пудинг."
+      },
+      {
+        "en": "Have some chocolate pudding.",
+        "ru": "Возьми шоколадный пудинг."
+      },
+      {
+        "en": "The pudding needs to cool.",
+        "ru": "Пудингу нужно остыть."
+      }
+    ],
+    "colloc": "rice pudding · pudding of"
+  },
+  "a2-0317": {
+    "examples": [
+      {
+        "en": "Check your pulse carefully.",
+        "ru": "Осторожно проверь пульс."
+      },
+      {
+        "en": "The nurse checked my pulse.",
+        "ru": "Медсестра проверила пульс."
+      },
+      {
+        "en": "Feel your pulse on your wrist.",
+        "ru": "Нащупай пульс на запястье."
+      }
+    ],
+    "colloc": "pulse rate · pulse of"
+  },
+  "a2-0318": {
+    "examples": [
+      {
+        "en": "Every pupil needs support.",
+        "ru": "Каждому ученику нужна поддержка."
+      },
+      {
+        "en": "The pupil asked a smart question.",
+        "ru": "Ученик задал умный вопрос."
+      },
+      {
+        "en": "Bright light shrinks the pupil.",
+        "ru": "Яркий свет сужает зрачок."
+      }
+    ],
+    "colloc": "pupil of · star pupil"
+  },
+  "a2-0319": {
+    "examples": [
+      {
+        "en": "What is the purpose?",
+        "ru": "Какова цель?"
+      },
+      {
+        "en": "What's the purpose of this meeting?",
+        "ru": "Какова цель этой встречи?"
+      },
+      {
+        "en": "I came here on purpose.",
+        "ru": "Я пришёл сюда специально."
+      }
+    ],
+    "colloc": "purpose of · on purpose"
+  },
+  "a2-0320": {
+    "examples": [
+      {
+        "en": "She lost her purse.",
+        "ru": "Она потеряла сумку."
+      },
+      {
+        "en": "She left her purse on the table.",
+        "ru": "Она оставила сумку на столе."
+      },
+      {
+        "en": "Keep your purse closed in crowds.",
+        "ru": "В толпе держи сумку закрытой."
+      }
+    ],
+    "colloc": "purse strings",
+    "note": "AmE: purse ≈ маленькая сумка"
+  },
+  "a2-0321": {
+    "examples": [
+      {
+        "en": "Solve the crossword puzzle.",
+        "ru": "Реши кроссворд."
+      },
+      {
+        "en": "This puzzle has 500 pieces.",
+        "ru": "В этом пазле 500 деталей."
+      },
+      {
+        "en": "The ending is still a puzzle.",
+        "ru": "Концовка всё ещё загадка."
+      }
+    ],
+    "colloc": "puzzle of · crossword puzzle"
+  },
+  "a2-0322": {
+    "examples": [
+      {
+        "en": "Check the quantity carefully.",
+        "ru": "Осторожно проверь количество."
+      },
+      {
+        "en": "Buy a large quantity of rice.",
+        "ru": "Купи большое количество риса."
+      },
+      {
+        "en": "Quality matters more than quantity.",
+        "ru": "Качество важнее количества."
+      }
+    ],
+    "colloc": "quantity of · in quantity"
+  },
+  "a2-0323": {
+    "examples": [
+      {
+        "en": "Wait a quarter of an hour.",
+        "ru": "Подожди четверть часа."
+      },
+      {
+        "en": "A quarter of the class was absent.",
+        "ru": "Четверть класса отсутствовала."
+      },
+      {
+        "en": "Pay rent each quarter.",
+        "ru": "Плати аренду каждый квартал."
+      }
+    ],
+    "colloc": "quarter of · first quarter"
+  },
+  "a2-0324": {
+    "examples": [
+      {
+        "en": "Fill in the questionnaire.",
+        "ru": "Заполни анкету."
+      },
+      {
+        "en": "Fill out this questionnaire.",
+        "ru": "Заполни эту анкету."
+      },
+      {
+        "en": "The questionnaire takes five minutes.",
+        "ru": "Анкета занимает пять минут."
+      }
+    ],
+    "colloc": "questionnaire about · complete a questionnaire"
+  },
+  "a2-0325": {
+    "examples": [
+      {
+        "en": "Copy this famous quote.",
+        "ru": "Скопируй эту известную цитату."
+      },
+      {
+        "en": "Can I get a quote for repairs?",
+        "ru": "Можно смету на ремонт?"
+      },
+      {
+        "en": "She began with a famous quote.",
+        "ru": "Она начала с известной цитаты."
+      }
+    ],
+    "colloc": "quote from · price quote"
+  }
+}

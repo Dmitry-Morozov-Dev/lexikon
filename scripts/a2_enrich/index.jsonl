@@ -1,0 +1,900 @@
+{"i": 0, "id": "a2-0001", "w": "accept", "pos": "verb", "tr": "принимать", "ex": "I accept your offer.", "exRu": "Я принимаю твоё предложение.", "colloc": "accept an offer"}
+{"i": 1, "id": "a2-0002", "w": "achieve", "pos": "verb", "tr": "достигать", "ex": "She achieved her goal.", "exRu": "Она достигла цели.", "colloc": "achieve a goal"}
+{"i": 2, "id": "a2-0003", "w": "admit", "pos": "verb", "tr": "признавать", "ex": "He admitted his mistake.", "exRu": "Он признал ошибку.", "colloc": "admit a mistake"}
+{"i": 3, "id": "a2-0004", "w": "advise", "pos": "verb", "tr": "советовать", "ex": "I advise you to rest.", "exRu": "Советую тебе отдохнуть.", "colloc": "advise someone to"}
+{"i": 4, "id": "a2-0005", "w": "afford", "pos": "verb", "tr": "позволять себе", "ex": "We cannot afford a car.", "exRu": "Мы не можем позволить себе машину.", "colloc": "afford to buy"}
+{"i": 5, "id": "a2-0006", "w": "allow", "pos": "verb", "tr": "разрешать", "ex": "Parents allow us to go.", "exRu": "Родители разрешают нам идти.", "colloc": "allow someone to"}
+{"i": 6, "id": "a2-0007", "w": "announce", "pos": "verb", "tr": "объявлять", "ex": "They announce the results.", "exRu": "Они объявляют результаты.", "colloc": "announce the news"}
+{"i": 7, "id": "a2-0008", "w": "apologize", "pos": "verb", "tr": "извиняться", "ex": "I apologize for being late.", "exRu": "Извиняюсь за опоздание.", "colloc": "apologize for"}
+{"i": 8, "id": "a2-0009", "w": "appear", "pos": "verb", "tr": "появляться", "ex": "A rainbow appears after rain.", "exRu": "Радуга появляется после дождя.", "colloc": "appear suddenly"}
+{"i": 9, "id": "a2-0010", "w": "apply", "pos": "verb", "tr": "подавать заявку", "ex": "Apply for the job online.", "exRu": "Подай заявку на работу онлайн.", "colloc": "apply for a job"}
+{"i": 10, "id": "a2-0011", "w": "appreciate", "pos": "verb", "tr": "ценить", "ex": "I appreciate your help.", "exRu": "Я ценю твою помощь.", "colloc": "appreciate help"}
+{"i": 11, "id": "a2-0012", "w": "argue", "pos": "verb", "tr": "спорить", "ex": "Do not argue about money.", "exRu": "Не спорьте о деньгах.", "colloc": "argue about"}
+{"i": 12, "id": "a2-0013", "w": "arrange", "pos": "verb", "tr": "организовывать", "ex": "Arrange a meeting tomorrow.", "exRu": "Организуй встречу на завтра.", "colloc": "arrange a meeting"}
+{"i": 13, "id": "a2-0014", "w": "attend", "pos": "verb", "tr": "посещать", "ex": "I attend evening classes.", "exRu": "Я посещаю вечерние занятия.", "colloc": "attend a class"}
+{"i": 14, "id": "a2-0015", "w": "avoid", "pos": "verb", "tr": "избегать", "ex": "Avoid busy roads at night.", "exRu": "Избегай оживлённых дорог ночью.", "colloc": "avoid traffic"}
+{"i": 15, "id": "a2-0016", "w": "bake", "pos": "verb", "tr": "печь", "ex": "She bakes bread on Sundays.", "exRu": "Она печёт хлеб по воскресеньям.", "colloc": "bake a cake"}
+{"i": 16, "id": "a2-0017", "w": "behave", "pos": "verb", "tr": "вести себя", "ex": "Please behave in class.", "exRu": "Пожалуйста, веди себя на уроке.", "colloc": "behave well"}
+{"i": 17, "id": "a2-0018", "w": "believe", "pos": "verb", "tr": "верить", "ex": "I believe your story.", "exRu": "Я верю твоей истории.", "colloc": "believe in"}
+{"i": 18, "id": "a2-0019", "w": "blame", "pos": "verb", "tr": "винить", "ex": "Do not blame yourself.", "exRu": "Не вини себя.", "colloc": "blame someone for"}
+{"i": 19, "id": "a2-0020", "w": "boil", "pos": "verb", "tr": "кипятить", "ex": "Boil the water first.", "exRu": "Сначала вскипяти воду.", "colloc": "boil water"}
+{"i": 20, "id": "a2-0021", "w": "breathe", "pos": "verb", "tr": "дышать", "ex": "Breathe slowly and calmly.", "exRu": "Дыши медленно и спокойно.", "colloc": "breathe deeply"}
+{"i": 21, "id": "a2-0022", "w": "cancel", "pos": "verb", "tr": "отменять", "ex": "They cancel the flight.", "exRu": "Они отменяют рейс.", "colloc": "cancel a booking"}
+{"i": 22, "id": "a2-0023", "w": "celebrate", "pos": "verb", "tr": "праздновать", "ex": "We celebrate her birthday.", "exRu": "Мы празднуем её день рождения.", "colloc": "celebrate a birthday"}
+{"i": 23, "id": "a2-0024", "w": "challenge", "pos": "verb", "tr": "бросать вызов", "ex": "This task challenges me.", "exRu": "Это задание меня бросает вызов.", "colloc": "challenge yourself"}
+{"i": 24, "id": "a2-0025", "w": "chat", "pos": "verb", "tr": "болтать", "ex": "We chat after work.", "exRu": "Мы болтаем после работы.", "colloc": "chat with friends"}
+{"i": 25, "id": "a2-0026", "w": "cheer", "pos": "verb", "tr": "подбадривать", "ex": "Fans cheer the team.", "exRu": "Болельщики подбадривают команду.", "colloc": "cheer for"}
+{"i": 26, "id": "a2-0027", "w": "complain", "pos": "verb", "tr": "жаловаться", "ex": "Customers complain about noise.", "exRu": "Клиенты жалуются на шум.", "colloc": "complain about"}
+{"i": 27, "id": "a2-0028", "w": "complete", "pos": "verb", "tr": "завершать", "ex": "Complete the form carefully.", "exRu": "Аккуратно заполни форму.", "colloc": "complete a task"}
+{"i": 28, "id": "a2-0029", "w": "concentrate", "pos": "verb", "tr": "концентрироваться", "ex": "Concentrate on your work.", "exRu": "Сосредоточься на работе.", "colloc": "concentrate on"}
+{"i": 29, "id": "a2-0030", "w": "confirm", "pos": "verb", "tr": "подтверждать", "ex": "Confirm your email address.", "exRu": "Подтверди адрес почты.", "colloc": "confirm a booking"}
+{"i": 30, "id": "a2-0031", "w": "connect", "pos": "verb", "tr": "соединять", "ex": "Connect the cable now.", "exRu": "Подключи кабель сейчас.", "colloc": "connect to Wi-Fi"}
+{"i": 31, "id": "a2-0032", "w": "consider", "pos": "verb", "tr": "рассматривать", "ex": "Consider all the options.", "exRu": "Рассмотри все варианты.", "colloc": "consider doing"}
+{"i": 32, "id": "a2-0033", "w": "contain", "pos": "verb", "tr": "содержать", "ex": "This box contains tools.", "exRu": "В этой коробке инструменты.", "colloc": "contain information"}
+{"i": 33, "id": "a2-0034", "w": "continue", "pos": "verb", "tr": "продолжать", "ex": "Continue reading the text.", "exRu": "Продолжай читать текст.", "colloc": "continue to work"}
+{"i": 34, "id": "a2-0035", "w": "control", "pos": "verb", "tr": "контролировать", "ex": "Control your spending.", "exRu": "Контролируй расходы.", "colloc": "control the situation"}
+{"i": 35, "id": "a2-0036", "w": "convince", "pos": "verb", "tr": "убеждать", "ex": "She convinced me to stay.", "exRu": "Она убедила меня остаться.", "colloc": "convince someone"}
+{"i": 36, "id": "a2-0037", "w": "correct", "pos": "verb", "tr": "исправлять", "ex": "Correct the spelling errors.", "exRu": "Исправь ошибки в написании.", "colloc": "correct a mistake"}
+{"i": 37, "id": "a2-0038", "w": "create", "pos": "verb", "tr": "создавать", "ex": "Create a new account.", "exRu": "Создай новый аккаунт.", "colloc": "create an account"}
+{"i": 38, "id": "a2-0039", "w": "cross", "pos": "verb", "tr": "переходить", "ex": "Cross the street carefully.", "exRu": "Осторожно переходи улицу.", "colloc": "cross the road"}
+{"i": 39, "id": "a2-0040", "w": "damage", "pos": "verb", "tr": "повреждать", "ex": "Storms can damage roofs.", "exRu": "Штормы могут повредить крыши.", "colloc": "damage property"}
+{"i": 40, "id": "a2-0041", "w": "deal", "pos": "verb", "tr": "иметь дело", "ex": "I deal with customers.", "exRu": "Я работаю с клиентами.", "colloc": "deal with"}
+{"i": 41, "id": "a2-0042", "w": "deliver", "pos": "verb", "tr": "доставлять", "ex": "They deliver packages daily.", "exRu": "Они доставляют посылки ежедневно.", "colloc": "deliver a package"}
+{"i": 42, "id": "a2-0043", "w": "depend", "pos": "verb", "tr": "зависеть", "ex": "Success depends on practice.", "exRu": "Успех зависит от практики.", "colloc": "depend on"}
+{"i": 43, "id": "a2-0044", "w": "describe", "pos": "verb", "tr": "описывать", "ex": "Describe your hometown briefly.", "exRu": "Кратко опиши родной город.", "colloc": "describe a person"}
+{"i": 44, "id": "a2-0045", "w": "deserve", "pos": "verb", "tr": "заслуживать", "ex": "You deserve a break.", "exRu": "Ты заслуживаешь перерыв.", "colloc": "deserve a chance"}
+{"i": 45, "id": "a2-0046", "w": "design", "pos": "verb", "tr": "проектировать", "ex": "She designs websites.", "exRu": "Она проектирует сайты.", "colloc": "design a logo"}
+{"i": 46, "id": "a2-0047", "w": "destroy", "pos": "verb", "tr": "разрушать", "ex": "Fire can destroy forests.", "exRu": "Огонь может уничтожить леса.", "colloc": "destroy a building"}
+{"i": 47, "id": "a2-0048", "w": "develop", "pos": "verb", "tr": "развивать", "ex": "Develop your speaking skills.", "exRu": "Развивай навыки речи.", "colloc": "develop skills"}
+{"i": 48, "id": "a2-0049", "w": "disagree", "pos": "verb", "tr": "не соглашаться", "ex": "I disagree with that idea.", "exRu": "Я не согласен с этой идеей.", "colloc": "disagree with"}
+{"i": 49, "id": "a2-0050", "w": "disappear", "pos": "verb", "tr": "исчезать", "ex": "The sun disappears behind clouds.", "exRu": "Солнце исчезает за облаками.", "colloc": "disappear from view"}
+{"i": 50, "id": "a2-0051", "w": "discover", "pos": "verb", "tr": "обнаруживать", "ex": "We discover a small cafe.", "exRu": "Мы находим небольшое кафе.", "colloc": "discover a place"}
+{"i": 51, "id": "a2-0052", "w": "discuss", "pos": "verb", "tr": "обсуждать", "ex": "Discuss the plan together.", "exRu": "Обсудите план вместе.", "colloc": "discuss a problem"}
+{"i": 52, "id": "a2-0053", "w": "divide", "pos": "verb", "tr": "делить", "ex": "Divide the cake into pieces.", "exRu": "Раздели торт на куски.", "colloc": "divide into"}
+{"i": 53, "id": "a2-0054", "w": "double", "pos": "verb", "tr": "удваивать", "ex": "They double the price.", "exRu": "Они удваивают цену.", "colloc": "double the amount"}
+{"i": 54, "id": "a2-0055", "w": "doubt", "pos": "verb", "tr": "сомневаться", "ex": "I doubt his story.", "exRu": "Я сомневаюсь в его истории.", "colloc": "doubt whether"}
+{"i": 55, "id": "a2-0056", "w": "earn", "pos": "verb", "tr": "зарабатывать", "ex": "She earns a good salary.", "exRu": "Она зарабатывает хорошую зарплату.", "colloc": "earn money"}
+{"i": 56, "id": "a2-0057", "w": "educate", "pos": "verb", "tr": "обучать", "ex": "Schools educate children.", "exRu": "Школы обучают детей.", "colloc": "educate people"}
+{"i": 57, "id": "a2-0058", "w": "encourage", "pos": "verb", "tr": "поощрять", "ex": "Teachers encourage students.", "exRu": "Учителя поощряют учеников.", "colloc": "encourage someone to"}
+{"i": 58, "id": "a2-0059", "w": "enter", "pos": "verb", "tr": "входить", "ex": "Enter the building quietly.", "exRu": "Тихо войди в здание.", "colloc": "enter a room"}
+{"i": 59, "id": "a2-0060", "w": "entertain", "pos": "verb", "tr": "развлекать", "ex": "Games entertain the kids.", "exRu": "Игры развлекают детей.", "colloc": "entertain guests"}
+{"i": 60, "id": "a2-0061", "w": "escape", "pos": "verb", "tr": "спасаться", "ex": "They escape from the fire.", "exRu": "Они спасаются от огня.", "colloc": "escape from"}
+{"i": 61, "id": "a2-0062", "w": "examine", "pos": "verb", "tr": "осматривать", "ex": "Doctors examine patients carefully.", "exRu": "Врачи тщательно осматривают пациентов.", "colloc": "examine a patient"}
+{"i": 62, "id": "a2-0063", "w": "exchange", "pos": "verb", "tr": "обменивать", "ex": "Exchange money at the bank.", "exRu": "Обменяй деньги в банке.", "colloc": "exchange currency"}
+{"i": 63, "id": "a2-0064", "w": "exist", "pos": "verb", "tr": "существовать", "ex": "Life exists on Earth.", "exRu": "Жизнь существует на Земле.", "colloc": "exist in nature"}
+{"i": 64, "id": "a2-0065", "w": "expect", "pos": "verb", "tr": "ожидать", "ex": "I expect good news.", "exRu": "Я ожидаю хороших новостей.", "colloc": "expect someone to"}
+{"i": 65, "id": "a2-0066", "w": "experience", "pos": "verb", "tr": "испытывать", "ex": "We experience cold winters.", "exRu": "Мы переживаем холодные зимы.", "colloc": "experience problems"}
+{"i": 66, "id": "a2-0067", "w": "explore", "pos": "verb", "tr": "исследовать", "ex": "Explore the old town.", "exRu": "Исследуй старый город.", "colloc": "explore the city"}
+{"i": 67, "id": "a2-0068", "w": "express", "pos": "verb", "tr": "выражать", "ex": "Express your opinion politely.", "exRu": "Вежливо вырази своё мнение.", "colloc": "express feelings"}
+{"i": 68, "id": "a2-0069", "w": "feed", "pos": "verb", "tr": "кормить", "ex": "Feed the cat twice daily.", "exRu": "Корми кошку дважды в день.", "colloc": "feed the dog"}
+{"i": 69, "id": "a2-0070", "w": "fetch", "pos": "verb", "tr": "приносить", "ex": "Fetch a glass of water.", "exRu": "Принеси стакан воды.", "colloc": "fetch something"}
+{"i": 70, "id": "a2-0071", "w": "fight", "pos": "verb", "tr": "бороться", "ex": "Doctors fight disease.", "exRu": "Врачи борются с болезнью.", "colloc": "fight against"}
+{"i": 71, "id": "a2-0072", "w": "fit", "pos": "verb", "tr": "подходить по размеру", "ex": "These shoes fit perfectly.", "exRu": "Эти туфли идеально сидят.", "colloc": "fit well"}
+{"i": 72, "id": "a2-0073", "w": "focus", "pos": "verb", "tr": "сосредоточиться", "ex": "Focus on one task.", "exRu": "Сосредоточься на одной задаче.", "colloc": "focus on"}
+{"i": 73, "id": "a2-0074", "w": "fold", "pos": "verb", "tr": "складывать", "ex": "Fold the clean clothes.", "exRu": "Сложи чистую одежду.", "colloc": "fold clothes"}
+{"i": 74, "id": "a2-0075", "w": "force", "pos": "verb", "tr": "заставлять", "ex": "Do not force him to go.", "exRu": "Не заставляй его идти.", "colloc": "force someone to"}
+{"i": 75, "id": "a2-0076", "w": "forgive", "pos": "verb", "tr": "прощать", "ex": "Please forgive my mistake.", "exRu": "Пожалуйста, прости мою ошибку.", "colloc": "forgive someone"}
+{"i": 76, "id": "a2-0077", "w": "frighten", "pos": "verb", "tr": "пугать", "ex": "Loud noises frighten babies.", "exRu": "Громкие звуки пугают малышей.", "colloc": "frighten someone"}
+{"i": 77, "id": "a2-0078", "w": "gather", "pos": "verb", "tr": "собирать", "ex": "Gather your documents.", "exRu": "Собери документы.", "colloc": "gather information"}
+{"i": 78, "id": "a2-0079", "w": "guess", "pos": "verb", "tr": "угадывать", "ex": "Guess the correct answer.", "exRu": "Угадай правильный ответ.", "colloc": "guess the meaning"}
+{"i": 79, "id": "a2-0080", "w": "guide", "pos": "verb", "tr": "направлять", "ex": "Guides guide tourists carefully.", "exRu": "Гиды аккуратно ведут туристов.", "colloc": "guide visitors"}
+{"i": 80, "id": "a2-0081", "w": "hang", "pos": "verb", "tr": "вешать", "ex": "Hang your coat there.", "exRu": "Повесь пальто туда.", "colloc": "hang a picture"}
+{"i": 81, "id": "a2-0082", "w": "heat", "pos": "verb", "tr": "нагревать", "ex": "Heat the soup gently.", "exRu": "Осторожно нагрей суп.", "colloc": "heat food"}
+{"i": 82, "id": "a2-0083", "w": "hesitate", "pos": "verb", "tr": "колебаться", "ex": "Do not hesitate to ask.", "exRu": "Не стесняйся спрашивать.", "colloc": "hesitate to"}
+{"i": 83, "id": "a2-0084", "w": "hire", "pos": "verb", "tr": "нанимать", "ex": "Companies hire new staff.", "exRu": "Компании нанимают персонал.", "colloc": "hire employees"}
+{"i": 84, "id": "a2-0085", "w": "identify", "pos": "verb", "tr": "определять", "ex": "Identify the main idea.", "exRu": "Определи главную идею.", "colloc": "identify a problem"}
+{"i": 85, "id": "a2-0086", "w": "ignore", "pos": "verb", "tr": "игнорировать", "ex": "Do not ignore warnings.", "exRu": "Не игнорируй предупреждения.", "colloc": "ignore advice"}
+{"i": 86, "id": "a2-0087", "w": "imagine", "pos": "verb", "tr": "представлять", "ex": "Imagine a quiet beach.", "exRu": "Представь тихий пляж.", "colloc": "imagine that"}
+{"i": 87, "id": "a2-0088", "w": "improve", "pos": "verb", "tr": "улучшать", "ex": "Practice improves your English.", "exRu": "Практика улучшает английский.", "colloc": "improve skills"}
+{"i": 88, "id": "a2-0089", "w": "include", "pos": "verb", "tr": "включать", "ex": "The price includes breakfast.", "exRu": "В цену входит завтрак.", "colloc": "include something"}
+{"i": 89, "id": "a2-0090", "w": "increase", "pos": "verb", "tr": "увеличивать", "ex": "Prices increase each year.", "exRu": "Цены растут каждый год.", "colloc": "increase by"}
+{"i": 90, "id": "a2-0091", "w": "influence", "pos": "verb", "tr": "влиять", "ex": "Friends influence our choices.", "exRu": "Друзья влияют на наш выбор.", "colloc": "influence someone"}
+{"i": 91, "id": "a2-0092", "w": "inform", "pos": "verb", "tr": "информировать", "ex": "Please inform the manager.", "exRu": "Пожалуйста, сообщи менеджеру.", "colloc": "inform someone of"}
+{"i": 92, "id": "a2-0093", "w": "insist", "pos": "verb", "tr": "настаивать", "ex": "She insists on paying.", "exRu": "Она настаивает на оплате.", "colloc": "insist on"}
+{"i": 93, "id": "a2-0094", "w": "instruct", "pos": "verb", "tr": "инструктировать", "ex": "Instruct the new workers.", "exRu": "Проинструктируй новых работников.", "colloc": "instruct someone to"}
+{"i": 94, "id": "a2-0095", "w": "intend", "pos": "verb", "tr": "намереваться", "ex": "I intend to travel soon.", "exRu": "Я намерен скоро путешествовать.", "colloc": "intend to"}
+{"i": 95, "id": "a2-0096", "w": "introduce", "pos": "verb", "tr": "представлять", "ex": "Introduce me to your sister.", "exRu": "Представь меня своей сестре.", "colloc": "introduce someone to"}
+{"i": 96, "id": "a2-0097", "w": "invent", "pos": "verb", "tr": "изобретать", "ex": "Scientists invent new tools.", "exRu": "Учёные изобретают новые инструменты.", "colloc": "invent something"}
+{"i": 97, "id": "a2-0098", "w": "invest", "pos": "verb", "tr": "инвестировать", "ex": "Invest money carefully.", "exRu": "Инвестируй деньги осторожно.", "colloc": "invest in"}
+{"i": 98, "id": "a2-0099", "w": "involve", "pos": "verb", "tr": "вовлекать", "ex": "The project involves travel.", "exRu": "Проект предполагает поездки.", "colloc": "involve someone in"}
+{"i": 99, "id": "a2-0100", "w": "iron", "pos": "verb", "tr": "гладить", "ex": "Iron your shirt tonight.", "exRu": "Погладь рубашку сегодня вечером.", "colloc": "iron clothes"}
+{"i": 100, "id": "a2-0101", "w": "jog", "pos": "verb", "tr": "бегать трусцой", "ex": "I jog every morning.", "exRu": "Я бегаю трусцой каждое утро.", "colloc": "jog in the park"}
+{"i": 101, "id": "a2-0102", "w": "judge", "pos": "verb", "tr": "судить", "ex": "Do not judge too quickly.", "exRu": "Не суди слишком быстро.", "colloc": "judge someone"}
+{"i": 102, "id": "a2-0103", "w": "knock", "pos": "verb", "tr": "стучать", "ex": "Knock before you enter.", "exRu": "Постучи, прежде чем войти.", "colloc": "knock on the door"}
+{"i": 103, "id": "a2-0104", "w": "label", "pos": "verb", "tr": "маркировать", "ex": "Label each box clearly.", "exRu": "Чётко подпиши каждую коробку.", "colloc": "label items"}
+{"i": 104, "id": "a2-0105", "w": "lay", "pos": "verb", "tr": "класть", "ex": "Lay the book on the desk.", "exRu": "Положи книгу на стол.", "colloc": "lay the table"}
+{"i": 105, "id": "a2-0106", "w": "lift", "pos": "verb", "tr": "поднимать", "ex": "Lift the box carefully.", "exRu": "Осторожно подними коробку.", "colloc": "lift weights"}
+{"i": 106, "id": "a2-0107", "w": "link", "pos": "verb", "tr": "связывать", "ex": "Link your accounts online.", "exRu": "Свяжи аккаунты онлайн.", "colloc": "link to"}
+{"i": 107, "id": "a2-0108", "w": "load", "pos": "verb", "tr": "загружать", "ex": "Load the bags into the car.", "exRu": "Загрузи сумки в машину.", "colloc": "load luggage"}
+{"i": 108, "id": "a2-0109", "w": "manage", "pos": "verb", "tr": "управлять", "ex": "She manages a small team.", "exRu": "Она управляет небольшой командой.", "colloc": "manage a project"}
+{"i": 109, "id": "a2-0110", "w": "mark", "pos": "verb", "tr": "отмечать", "ex": "Mark the correct answers.", "exRu": "Отметь правильные ответы.", "colloc": "mark homework"}
+{"i": 110, "id": "a2-0111", "w": "match", "pos": "verb", "tr": "подходить", "ex": "Your socks do not match.", "exRu": "Твои носки не сочетаются.", "colloc": "match colors"}
+{"i": 111, "id": "a2-0112", "w": "measure", "pos": "verb", "tr": "измерять", "ex": "Measure the room carefully.", "exRu": "Тщательно измерь комнату.", "colloc": "measure length"}
+{"i": 112, "id": "a2-0113", "w": "mention", "pos": "verb", "tr": "упоминать", "ex": "Do not mention the surprise.", "exRu": "Не упоминай сюрприз.", "colloc": "mention something"}
+{"i": 113, "id": "a2-0114", "w": "mind", "pos": "verb", "tr": "возражать", "ex": "Do you mind waiting?", "exRu": "Ты не возражаешь подождать?", "colloc": "mind doing"}
+{"i": 114, "id": "a2-0115", "w": "notice", "pos": "verb", "tr": "замечать", "ex": "Did you notice the sign?", "exRu": "Ты заметил знак?", "colloc": "notice something"}
+{"i": 115, "id": "a2-0116", "w": "obey", "pos": "verb", "tr": "слушаться", "ex": "Children should obey rules.", "exRu": "Дети должны слушаться правил.", "colloc": "obey the law"}
+{"i": 116, "id": "a2-0117", "w": "observe", "pos": "verb", "tr": "наблюдать", "ex": "Observe the birds quietly.", "exRu": "Тихо наблюдай за птицами.", "colloc": "observe carefully"}
+{"i": 117, "id": "a2-0118", "w": "offer", "pos": "verb", "tr": "предлагать", "ex": "They offer free delivery.", "exRu": "Они предлагают бесплатную доставку.", "colloc": "offer help"}
+{"i": 118, "id": "a2-0119", "w": "operate", "pos": "verb", "tr": "управлять, оперировать", "ex": "Nurses operate equipment.", "exRu": "Медсёстры работают с оборудованием.", "colloc": "operate a machine"}
+{"i": 119, "id": "a2-0120", "w": "organize", "pos": "verb", "tr": "организовывать", "ex": "Organize your files today.", "exRu": "Организуй файлы сегодня.", "colloc": "organize an event"}
+{"i": 120, "id": "a2-0121", "w": "overcome", "pos": "verb", "tr": "преодолевать", "ex": "She overcame her fear.", "exRu": "Она преодолела страх.", "colloc": "overcome difficulties"}
+{"i": 121, "id": "a2-0122", "w": "owe", "pos": "verb", "tr": "быть должным", "ex": "I owe you twenty dollars.", "exRu": "Я должен тебе двадцать долларов.", "colloc": "owe money"}
+{"i": 122, "id": "a2-0123", "w": "pack", "pos": "verb", "tr": "упаковывать", "ex": "Pack your suitcase tonight.", "exRu": "Собери чемодан сегодня вечером.", "colloc": "pack a suitcase"}
+{"i": 123, "id": "a2-0124", "w": "paint", "pos": "verb", "tr": "красить, рисовать", "ex": "Paint the walls white.", "exRu": "Покрась стены в белый.", "colloc": "paint a room"}
+{"i": 124, "id": "a2-0125", "w": "participate", "pos": "verb", "tr": "участвовать", "ex": "Participate in the discussion.", "exRu": "Участвуй в обсуждении.", "colloc": "participate in"}
+{"i": 125, "id": "a2-0126", "w": "perform", "pos": "verb", "tr": "выступать", "ex": "They perform on stage.", "exRu": "Они выступают на сцене.", "colloc": "perform a song"}
+{"i": 126, "id": "a2-0127", "w": "persuade", "pos": "verb", "tr": "убеждать", "ex": "She persuaded him to stay.", "exRu": "Она убедила его остаться.", "colloc": "persuade someone to"}
+{"i": 127, "id": "a2-0128", "w": "pick", "pos": "verb", "tr": "выбирать, собирать", "ex": "Pick a fresh apple.", "exRu": "Выбери свежее яблоко.", "colloc": "pick up"}
+{"i": 128, "id": "a2-0129", "w": "point", "pos": "verb", "tr": "указывать", "ex": "Point to the correct picture.", "exRu": "Укажи на правильную картинку.", "colloc": "point at"}
+{"i": 129, "id": "a2-0130", "w": "polish", "pos": "verb", "tr": "полировать", "ex": "Polish your shoes.", "exRu": "Начисти туфли.", "colloc": "polish shoes"}
+{"i": 130, "id": "a2-0131", "w": "postpone", "pos": "verb", "tr": "откладывать", "ex": "They postpone the meeting.", "exRu": "Они откладывают встречу.", "colloc": "postpone a meeting"}
+{"i": 131, "id": "a2-0132", "w": "predict", "pos": "verb", "tr": "предсказывать", "ex": "Experts predict rain tomorrow.", "exRu": "Эксперты предсказывают дождь.", "colloc": "predict the weather"}
+{"i": 132, "id": "a2-0133", "w": "press", "pos": "verb", "tr": "нажимать", "ex": "Press the red button.", "exRu": "Нажми красную кнопку.", "colloc": "press a button"}
+{"i": 133, "id": "a2-0134", "w": "prevent", "pos": "verb", "tr": "предотвращать", "ex": "Exercise prevents many problems.", "exRu": "Спорт предотвращает многие проблемы.", "colloc": "prevent accidents"}
+{"i": 134, "id": "a2-0135", "w": "produce", "pos": "verb", "tr": "производить", "ex": "Factories produce cars.", "exRu": "Заводы производят машины.", "colloc": "produce goods"}
+{"i": 135, "id": "a2-0136", "w": "promise", "pos": "verb", "tr": "обещать", "ex": "I promise to call you.", "exRu": "Обещаю позвонить тебе.", "colloc": "promise to"}
+{"i": 136, "id": "a2-0137", "w": "protect", "pos": "verb", "tr": "защищать", "ex": "Helmets protect your head.", "exRu": "Шлемы защищают голову.", "colloc": "protect from"}
+{"i": 137, "id": "a2-0138", "w": "prove", "pos": "verb", "tr": "доказывать", "ex": "Prove your idea with facts.", "exRu": "Докажи идею фактами.", "colloc": "prove that"}
+{"i": 138, "id": "a2-0139", "w": "provide", "pos": "verb", "tr": "предоставлять", "ex": "Hotels provide free Wi-Fi.", "exRu": "Отели предоставляют Wi-Fi.", "colloc": "provide information"}
+{"i": 139, "id": "a2-0140", "w": "publish", "pos": "verb", "tr": "публиковать", "ex": "They publish a weekly magazine.", "exRu": "Они публикуют еженедельный журнал.", "colloc": "publish an article"}
+{"i": 140, "id": "a2-0141", "w": "punish", "pos": "verb", "tr": "наказывать", "ex": "Do not punish unfairly.", "exRu": "Не наказывай несправедливо.", "colloc": "punish someone for"}
+{"i": 141, "id": "a2-0142", "w": "purchase", "pos": "verb", "tr": "покупать", "ex": "Purchase tickets online.", "exRu": "Купи билеты онлайн.", "colloc": "purchase goods"}
+{"i": 142, "id": "a2-0143", "w": "qualify", "pos": "verb", "tr": "квалифицироваться", "ex": "She qualifies for the final.", "exRu": "Она проходит в финал.", "colloc": "qualify for"}
+{"i": 143, "id": "a2-0144", "w": "raise", "pos": "verb", "tr": "поднимать, растить", "ex": "Raise your hand to speak.", "exRu": "Подними руку, чтобы говорить.", "colloc": "raise prices"}
+{"i": 144, "id": "a2-0145", "w": "reach", "pos": "verb", "tr": "достигать", "ex": "We reach the station early.", "exRu": "Мы рано добираемся до станции.", "colloc": "reach a place"}
+{"i": 145, "id": "a2-0146", "w": "react", "pos": "verb", "tr": "реагировать", "ex": "How did she react?", "exRu": "Как она отреагировала?", "colloc": "react to"}
+{"i": 146, "id": "a2-0147", "w": "realize", "pos": "verb", "tr": "осознавать", "ex": "I realize my mistake.", "exRu": "Я осознаю свою ошибку.", "colloc": "realize that"}
+{"i": 147, "id": "a2-0148", "w": "recognize", "pos": "verb", "tr": "узнавать", "ex": "I recognize that song.", "exRu": "Я узнаю эту песню.", "colloc": "recognize a face"}
+{"i": 148, "id": "a2-0149", "w": "recommend", "pos": "verb", "tr": "рекомендовать", "ex": "I recommend this restaurant.", "exRu": "Рекомендую этот ресторан.", "colloc": "recommend something"}
+{"i": 149, "id": "a2-0150", "w": "record", "pos": "verb", "tr": "записывать", "ex": "Record your voice clearly.", "exRu": "Чётко запиши свой голос.", "colloc": "record a video"}
+{"i": 150, "id": "a2-0151", "w": "reduce", "pos": "verb", "tr": "сокращать", "ex": "Reduce plastic waste.", "exRu": "Сократи пластиковые отходы.", "colloc": "reduce costs"}
+{"i": 151, "id": "a2-0152", "w": "refer", "pos": "verb", "tr": "ссылаться", "ex": "Refer to page ten.", "exRu": "Обратись к странице десять.", "colloc": "refer to"}
+{"i": 152, "id": "a2-0153", "w": "reflect", "pos": "verb", "tr": "отражать", "ex": "Mirrors reflect light.", "exRu": "Зеркала отражают свет.", "colloc": "reflect on"}
+{"i": 153, "id": "a2-0154", "w": "refuse", "pos": "verb", "tr": "отказывать", "ex": "He refuses to leave.", "exRu": "Он отказывается уходить.", "colloc": "refuse to"}
+{"i": 154, "id": "a2-0155", "w": "regard", "pos": "verb", "tr": "считать", "ex": "I regard her as a friend.", "exRu": "Я считаю её другом.", "colloc": "regard as"}
+{"i": 155, "id": "a2-0156", "w": "regret", "pos": "verb", "tr": "сожалеть", "ex": "I regret my decision.", "exRu": "Я сожалею о своём решении.", "colloc": "regret doing"}
+{"i": 156, "id": "a2-0157", "w": "reject", "pos": "verb", "tr": "отклонять", "ex": "They reject the offer.", "exRu": "Они отклоняют предложение.", "colloc": "reject an application"}
+{"i": 157, "id": "a2-0158", "w": "relate", "pos": "verb", "tr": "относиться", "ex": "How does this relate?", "exRu": "Как это связано?", "colloc": "relate to"}
+{"i": 158, "id": "a2-0159", "w": "release", "pos": "verb", "tr": "выпускать", "ex": "They release a new app.", "exRu": "Они выпускают новое приложение.", "colloc": "release a product"}
+{"i": 159, "id": "a2-0160", "w": "rely", "pos": "verb", "tr": "полагаться", "ex": "I rely on my friends.", "exRu": "Я полагаюсь на друзей.", "colloc": "rely on"}
+{"i": 160, "id": "a2-0161", "w": "remain", "pos": "verb", "tr": "оставаться", "ex": "Remain calm in danger.", "exRu": "Оставайся спокойным в опасности.", "colloc": "remain the same"}
+{"i": 161, "id": "a2-0162", "w": "remind", "pos": "verb", "tr": "напоминать", "ex": "Remind me to call.", "exRu": "Напомни мне позвонить.", "colloc": "remind someone to"}
+{"i": 162, "id": "a2-0163", "w": "remove", "pos": "verb", "tr": "удалять", "ex": "Remove the old sticker.", "exRu": "Удали старую наклейку.", "colloc": "remove from"}
+{"i": 163, "id": "a2-0164", "w": "rent", "pos": "verb", "tr": "арендовать", "ex": "We rent a small flat.", "exRu": "Мы снимаем маленькую квартиру.", "colloc": "rent a car"}
+{"i": 164, "id": "a2-0165", "w": "repair", "pos": "verb", "tr": "чинить", "ex": "Repair the broken chair.", "exRu": "Почини сломанный стул.", "colloc": "repair damage"}
+{"i": 165, "id": "a2-0166", "w": "replace", "pos": "verb", "tr": "заменять", "ex": "Replace the old battery.", "exRu": "Замени старую батарею.", "colloc": "replace with"}
+{"i": 166, "id": "a2-0167", "w": "reply", "pos": "verb", "tr": "отвечать", "ex": "Reply to the email soon.", "exRu": "Скоро ответь на письмо.", "colloc": "reply to"}
+{"i": 167, "id": "a2-0168", "w": "report", "pos": "verb", "tr": "сообщать", "ex": "Report the problem quickly.", "exRu": "Быстро сообщи о проблеме.", "colloc": "report to"}
+{"i": 168, "id": "a2-0169", "w": "represent", "pos": "verb", "tr": "представлять", "ex": "She represents our company.", "exRu": "Она представляет нашу компанию.", "colloc": "represent someone"}
+{"i": 169, "id": "a2-0170", "w": "request", "pos": "verb", "tr": "просить", "ex": "I request more time.", "exRu": "Я прошу больше времени.", "colloc": "request help"}
+{"i": 170, "id": "a2-0171", "w": "require", "pos": "verb", "tr": "требовать", "ex": "Jobs require experience.", "exRu": "Работа требует опыта.", "colloc": "require someone to"}
+{"i": 171, "id": "a2-0172", "w": "respect", "pos": "verb", "tr": "уважать", "ex": "Respect other people.", "exRu": "Уважай других людей.", "colloc": "respect rules"}
+{"i": 172, "id": "a2-0173", "w": "respond", "pos": "verb", "tr": "реагировать", "ex": "Respond to messages quickly.", "exRu": "Быстро отвечай на сообщения.", "colloc": "respond to"}
+{"i": 173, "id": "a2-0174", "w": "retire", "pos": "verb", "tr": "уходить на пенсию", "ex": "He will retire next year.", "exRu": "Он уйдёт на пенсию в следующем году.", "colloc": "retire from"}
+{"i": 174, "id": "a2-0175", "w": "review", "pos": "verb", "tr": "просматривать", "ex": "Review your notes before class.", "exRu": "Просмотри записи перед уроком.", "colloc": "review a document"}
+{"i": 175, "id": "a2-0176", "w": "risk", "pos": "verb", "tr": "рисковать", "ex": "Do not risk your health.", "exRu": "Не рискуй здоровьем.", "colloc": "risk losing"}
+{"i": 176, "id": "a2-0177", "w": "roll", "pos": "verb", "tr": "катить", "ex": "Roll the ball gently.", "exRu": "Осторожно кати мяч.", "colloc": "roll over"}
+{"i": 177, "id": "a2-0178", "w": "rush", "pos": "verb", "tr": "спешить", "ex": "Do not rush your work.", "exRu": "Не торопись с работой.", "colloc": "rush to"}
+{"i": 178, "id": "a2-0179", "w": "satisfy", "pos": "verb", "tr": "удовлетворять", "ex": "Good food satisfies hunger.", "exRu": "Хорошая еда утоляет голод.", "colloc": "satisfy needs"}
+{"i": 179, "id": "a2-0180", "w": "scare", "pos": "verb", "tr": "пугать", "ex": "Horror films scare me.", "exRu": "Фильмы ужасов меня пугают.", "colloc": "scare someone"}
+{"i": 180, "id": "a2-0181", "w": "scratch", "pos": "verb", "tr": "царапать", "ex": "Cats scratch furniture.", "exRu": "Кошки царапают мебель.", "colloc": "scratch the surface"}
+{"i": 181, "id": "a2-0182", "w": "scream", "pos": "verb", "tr": "кричать", "ex": "Fans scream with joy.", "exRu": "Болельщики кричат от радости.", "colloc": "scream for help"}
+{"i": 182, "id": "a2-0183", "w": "select", "pos": "verb", "tr": "выбирать", "ex": "Select your preferred language.", "exRu": "Выбери предпочитаемый язык.", "colloc": "select an option"}
+{"i": 183, "id": "a2-0184", "w": "separate", "pos": "verb", "tr": "разделять", "ex": "Separate the dirty clothes.", "exRu": "Отдели грязную одежду.", "colloc": "separate from"}
+{"i": 184, "id": "a2-0185", "w": "serve", "pos": "verb", "tr": "обслуживать", "ex": "Waiters serve the guests.", "exRu": "Официанты обслуживают гостей.", "colloc": "serve food"}
+{"i": 185, "id": "a2-0186", "w": "settle", "pos": "verb", "tr": "устраиваться", "ex": "They settle in a new city.", "exRu": "Они устраиваются в новом городе.", "colloc": "settle down"}
+{"i": 186, "id": "a2-0187", "w": "shake", "pos": "verb", "tr": "трясти", "ex": "Shake the bottle well.", "exRu": "Хорошо встряхни бутылку.", "colloc": "shake hands"}
+{"i": 187, "id": "a2-0188", "w": "shame", "pos": "verb", "tr": "стыдить", "ex": "Do not shame children.", "exRu": "Не стыди детей.", "colloc": "shame someone"}
+{"i": 188, "id": "a2-0189", "w": "shock", "pos": "verb", "tr": "шокировать", "ex": "The news shocked everyone.", "exRu": "Новость шокировала всех.", "colloc": "shock someone"}
+{"i": 189, "id": "a2-0190", "w": "shoot", "pos": "verb", "tr": "снимать, стрелять", "ex": "They shoot a short film.", "exRu": "Они снимают короткий фильм.", "colloc": "shoot a photo"}
+{"i": 190, "id": "a2-0191", "w": "shut", "pos": "verb", "tr": "закрывать", "ex": "Shut the window, please.", "exRu": "Закрой окно, пожалуйста.", "colloc": "shut the door"}
+{"i": 191, "id": "a2-0192", "w": "sign", "pos": "verb", "tr": "подписывать", "ex": "Sign the contract today.", "exRu": "Подпиши контракт сегодня.", "colloc": "sign a document"}
+{"i": 192, "id": "a2-0193", "w": "ski", "pos": "verb", "tr": "кататься на лыжах", "ex": "We ski in winter.", "exRu": "Зимой мы катаемся на лыжах.", "colloc": "ski downhill"}
+{"i": 193, "id": "a2-0194", "w": "slip", "pos": "verb", "tr": "скользить", "ex": "Be careful not to slip.", "exRu": "Осторожно, не поскользнись.", "colloc": "slip on ice"}
+{"i": 194, "id": "a2-0195", "w": "solve", "pos": "verb", "tr": "решать", "ex": "Solve the math problem.", "exRu": "Реши математическую задачу.", "colloc": "solve a problem"}
+{"i": 195, "id": "a2-0196", "w": "sort", "pos": "verb", "tr": "сортировать", "ex": "Sort the papers by date.", "exRu": "Отсортируй бумаги по дате.", "colloc": "sort out"}
+{"i": 196, "id": "a2-0197", "w": "sound", "pos": "verb", "tr": "звучать", "ex": "That sounds like a plan.", "exRu": "Это звучит как план.", "colloc": "sound good"}
+{"i": 197, "id": "a2-0198", "w": "spend", "pos": "verb", "tr": "тратить", "ex": "Do not spend too much.", "exRu": "Не трать слишком много.", "colloc": "spend money"}
+{"i": 198, "id": "a2-0199", "w": "spill", "pos": "verb", "tr": "проливать", "ex": "Do not spill the coffee.", "exRu": "Не пролей кофе.", "colloc": "spill water"}
+{"i": 199, "id": "a2-0200", "w": "spoil", "pos": "verb", "tr": "портить", "ex": "Heat can spoil food.", "exRu": "Жара может испортить еду.", "colloc": "spoil the fun"}
+{"i": 200, "id": "a2-0201", "w": "spread", "pos": "verb", "tr": "распространять", "ex": "Butter spreads easily.", "exRu": "Масло легко намазывается.", "colloc": "spread news"}
+{"i": 201, "id": "a2-0202", "w": "squeeze", "pos": "verb", "tr": "сжимать", "ex": "Squeeze the lemon gently.", "exRu": "Осторожно сожми лимон.", "colloc": "squeeze juice"}
+{"i": 202, "id": "a2-0203", "w": "state", "pos": "verb", "tr": "заявлять", "ex": "State your full name.", "exRu": "Назови своё полное имя.", "colloc": "state clearly"}
+{"i": 203, "id": "a2-0204", "w": "steal", "pos": "verb", "tr": "красть", "ex": "Never steal from others.", "exRu": "Никогда не кради у других.", "colloc": "steal something"}
+{"i": 204, "id": "a2-0205", "w": "stick", "pos": "verb", "tr": "прилипать", "ex": "The stamp sticks well.", "exRu": "Марка хорошо клеится.", "colloc": "stick to"}
+{"i": 205, "id": "a2-0206", "w": "stretch", "pos": "verb", "tr": "растягивать", "ex": "Stretch before exercise.", "exRu": "Растянись перед тренировкой.", "colloc": "stretch your legs"}
+{"i": 206, "id": "a2-0207", "w": "succeed", "pos": "verb", "tr": "добиваться успеха", "ex": "Hard work helps you succeed.", "exRu": "Труд помогает добиться успеха.", "colloc": "succeed in"}
+{"i": 207, "id": "a2-0208", "w": "suffer", "pos": "verb", "tr": "страдать", "ex": "Patients suffer from pain.", "exRu": "Пациенты страдают от боли.", "colloc": "suffer from"}
+{"i": 208, "id": "a2-0209", "w": "suggest", "pos": "verb", "tr": "предлагать", "ex": "I suggest a short walk.", "exRu": "Предлагаю короткую прогулку.", "colloc": "suggest doing"}
+{"i": 209, "id": "a2-0210", "w": "supply", "pos": "verb", "tr": "снабжать", "ex": "Shops supply fresh food.", "exRu": "Магазины снабжают свежей едой.", "colloc": "supply with"}
+{"i": 210, "id": "a2-0211", "w": "support", "pos": "verb", "tr": "поддерживать", "ex": "Friends support each other.", "exRu": "Друзья поддерживают друг друга.", "colloc": "support a team"}
+{"i": 211, "id": "a2-0212", "w": "suppose", "pos": "verb", "tr": "предполагать", "ex": "I suppose you are right.", "exRu": "Полагаю, ты прав.", "colloc": "suppose that"}
+{"i": 212, "id": "a2-0213", "w": "surround", "pos": "verb", "tr": "окружать", "ex": "Trees surround the house.", "exRu": "Деревья окружают дом.", "colloc": "surround with"}
+{"i": 213, "id": "a2-0214", "w": "survive", "pos": "verb", "tr": "выживать", "ex": "Plants survive in deserts.", "exRu": "Растения выживают в пустынях.", "colloc": "survive without"}
+{"i": 214, "id": "a2-0215", "w": "suspect", "pos": "verb", "tr": "подозревать", "ex": "Police suspect a stranger.", "exRu": "Полиция подозревает незнакомца.", "colloc": "suspect someone of"}
+{"i": 215, "id": "a2-0216", "w": "switch", "pos": "verb", "tr": "переключать", "ex": "Switch off the lights.", "exRu": "Выключи свет.", "colloc": "switch on/off"}
+{"i": 216, "id": "a2-0217", "w": "tend", "pos": "verb", "tr": "иметь тенденцию", "ex": "Prices tend to rise.", "exRu": "Цены имеют тенденцию расти.", "colloc": "tend to"}
+{"i": 217, "id": "a2-0218", "w": "threaten", "pos": "verb", "tr": "угрожать", "ex": "Storms threaten the coast.", "exRu": "Штормы угрожают побережью.", "colloc": "threaten to"}
+{"i": 218, "id": "a2-0219", "w": "tie", "pos": "verb", "tr": "завязывать", "ex": "Tie your shoelaces.", "exRu": "Завяжи шнурки.", "colloc": "tie a knot"}
+{"i": 219, "id": "a2-0220", "w": "tighten", "pos": "verb", "tr": "затягивать", "ex": "Tighten the screw carefully.", "exRu": "Осторожно затяни винт.", "colloc": "tighten a belt"}
+{"i": 220, "id": "a2-0221", "w": "menu", "pos": "noun", "tr": "меню", "ex": "Ask for the lunch menu.", "exRu": "Попроси обеденное меню.", "colloc": "lunch menu"}
+{"i": 221, "id": "a2-0222", "w": "method", "pos": "noun", "tr": "метод", "ex": "Try a different method.", "exRu": "Попробуй другой метод.", "colloc": "teaching method"}
+{"i": 222, "id": "a2-0223", "w": "microwave", "pos": "noun", "tr": "микроволновка", "ex": "Heat soup in the microwave.", "exRu": "Разогрей суп в микроволновке.", "colloc": "microwave oven"}
+{"i": 223, "id": "a2-0224", "w": "miracle", "pos": "noun", "tr": "чудо", "ex": "It felt like a miracle.", "exRu": "Это было как чудо.", "colloc": ""}
+{"i": 224, "id": "a2-0225", "w": "mission", "pos": "noun", "tr": "миссия", "ex": "Complete the mission safely.", "exRu": "Безопасно выполни миссию.", "colloc": ""}
+{"i": 225, "id": "a2-0226", "w": "mixture", "pos": "noun", "tr": "смесь", "ex": "Stir the cake mixture.", "exRu": "Размешай смесь для торта.", "colloc": ""}
+{"i": 226, "id": "a2-0227", "w": "model", "pos": "noun", "tr": "модель", "ex": "This is the latest model.", "exRu": "Это последняя модель.", "colloc": "role model"}
+{"i": 227, "id": "a2-0228", "w": "mosquito", "pos": "noun", "tr": "комар", "ex": "A mosquito bit my arm.", "exRu": "Комар укусил мне руку.", "colloc": ""}
+{"i": 228, "id": "a2-0229", "w": "motivation", "pos": "noun", "tr": "мотивация", "ex": "Find your motivation daily.", "exRu": "Находи мотивацию ежедневно.", "colloc": ""}
+{"i": 229, "id": "a2-0230", "w": "motorcycle", "pos": "noun", "tr": "мотоцикл", "ex": "He rides a motorcycle.", "exRu": "Он ездит на мотоцикле.", "colloc": ""}
+{"i": 230, "id": "a2-0231", "w": "muscle", "pos": "noun", "tr": "мышца", "ex": "Stretch your leg muscles.", "exRu": "Растяни мышцы ног.", "colloc": ""}
+{"i": 231, "id": "a2-0232", "w": "mushroom", "pos": "noun", "tr": "гриб", "ex": "Add mushrooms to the pizza.", "exRu": "Добавь грибы на пиццу.", "colloc": ""}
+{"i": 232, "id": "a2-0233", "w": "napkin", "pos": "noun", "tr": "салфетка", "ex": "Put a napkin on your lap.", "exRu": "Положи салфетку на колени.", "colloc": ""}
+{"i": 233, "id": "a2-0234", "w": "nation", "pos": "noun", "tr": "нация", "ex": "Every nation has traditions.", "exRu": "У каждой нации есть традиции.", "colloc": ""}
+{"i": 234, "id": "a2-0235", "w": "navigation", "pos": "noun", "tr": "навигация", "ex": "Use phone navigation carefully.", "exRu": "Осторожно используй навигацию.", "colloc": ""}
+{"i": 235, "id": "a2-0236", "w": "neighborhood", "pos": "noun", "tr": "район", "ex": "Our neighborhood is quiet.", "exRu": "Наш район тихий.", "colloc": ""}
+{"i": 236, "id": "a2-0237", "w": "nephew", "pos": "noun", "tr": "племянник", "ex": "My nephew starts school soon.", "exRu": "Племянник скоро идёт в школу.", "colloc": ""}
+{"i": 237, "id": "a2-0238", "w": "niece", "pos": "noun", "tr": "племянница", "ex": "My niece loves drawing.", "exRu": "Племянница любит рисовать.", "colloc": ""}
+{"i": 238, "id": "a2-0239", "w": "nightmare", "pos": "noun", "tr": "кошмар", "ex": "I had a strange nightmare.", "exRu": "Мне приснился странный кошмар.", "colloc": ""}
+{"i": 239, "id": "a2-0240", "w": "nonsense", "pos": "noun", "tr": "чепуха", "ex": "Stop talking nonsense.", "exRu": "Хватит говорить чепуху.", "colloc": ""}
+{"i": 240, "id": "a2-0241", "w": "novel", "pos": "noun", "tr": "роман", "ex": "I am reading a long novel.", "exRu": "Я читаю длинный роман.", "colloc": ""}
+{"i": 241, "id": "a2-0242", "w": "occupation", "pos": "noun", "tr": "профессия", "ex": "What is your occupation?", "exRu": "Какая у тебя профессия?", "colloc": ""}
+{"i": 242, "id": "a2-0243", "w": "operation", "pos": "noun", "tr": "операция", "ex": "The operation was successful.", "exRu": "Операция прошла успешно.", "colloc": ""}
+{"i": 243, "id": "a2-0244", "w": "opportunity", "pos": "noun", "tr": "возможность", "ex": "Take this opportunity seriously.", "exRu": "Отнесись к этой возможности серьёзно.", "colloc": ""}
+{"i": 244, "id": "a2-0245", "w": "option", "pos": "noun", "tr": "вариант", "ex": "Choose the best option.", "exRu": "Выбери лучший вариант.", "colloc": ""}
+{"i": 245, "id": "a2-0246", "w": "orchestra", "pos": "noun", "tr": "оркестр", "ex": "The orchestra played beautifully.", "exRu": "Оркестр играл прекрасно.", "colloc": ""}
+{"i": 246, "id": "a2-0247", "w": "organization", "pos": "noun", "tr": "организация", "ex": "Join a volunteer organization.", "exRu": "Вступи в волонтёрскую организацию.", "colloc": ""}
+{"i": 247, "id": "a2-0248", "w": "origin", "pos": "noun", "tr": "происхождение", "ex": "What is the word origin?", "exRu": "Каково происхождение слова?", "colloc": ""}
+{"i": 248, "id": "a2-0249", "w": "outcome", "pos": "noun", "tr": "результат", "ex": "Wait for the final outcome.", "exRu": "Жди конечного результата.", "colloc": ""}
+{"i": 249, "id": "a2-0250", "w": "outline", "pos": "noun", "tr": "план", "ex": "Write an essay outline first.", "exRu": "Сначала напиши план эссе.", "colloc": ""}
+{"i": 250, "id": "a2-0251", "w": "overcoat", "pos": "noun", "tr": "пальто", "ex": "Wear a warm overcoat.", "exRu": "Надень тёплое пальто.", "colloc": ""}
+{"i": 251, "id": "a2-0252", "w": "owner", "pos": "noun", "tr": "владелец", "ex": "Ask the shop owner.", "exRu": "Спроси владельца магазина.", "colloc": ""}
+{"i": 252, "id": "a2-0253", "w": "package", "pos": "noun", "tr": "посылка", "ex": "Collect your package today.", "exRu": "Забери посылку сегодня.", "colloc": ""}
+{"i": 253, "id": "a2-0254", "w": "painting", "pos": "noun", "tr": "картина", "ex": "Hang the painting carefully.", "exRu": "Осторожно повесь картину.", "colloc": ""}
+{"i": 254, "id": "a2-0255", "w": "palace", "pos": "noun", "tr": "дворец", "ex": "Tourists visit the palace.", "exRu": "Туристы посещают дворец.", "colloc": ""}
+{"i": 255, "id": "a2-0256", "w": "panic", "pos": "noun", "tr": "паника", "ex": "Do not panic in emergencies.", "exRu": "Не паникуй в чрезвычайных ситуациях.", "colloc": ""}
+{"i": 256, "id": "a2-0257", "w": "paragraph", "pos": "noun", "tr": "абзац", "ex": "Read the first paragraph.", "exRu": "Прочитай первый абзац.", "colloc": ""}
+{"i": 257, "id": "a2-0258", "w": "partner", "pos": "noun", "tr": "партнёр", "ex": "Find a study partner.", "exRu": "Найди партнёра для учёбы.", "colloc": ""}
+{"i": 258, "id": "a2-0259", "w": "passenger", "pos": "noun", "tr": "пассажир", "ex": "Passengers must wear seatbelts.", "exRu": "Пассажиры должны пристегиваться.", "colloc": ""}
+{"i": 259, "id": "a2-0260", "w": "path", "pos": "noun", "tr": "тропа", "ex": "Follow the forest path.", "exRu": "Следуй по лесной тропе.", "colloc": ""}
+{"i": 260, "id": "a2-0261", "w": "patience", "pos": "noun", "tr": "терпение", "ex": "Learning needs patience.", "exRu": "Учёба требует терпения.", "colloc": ""}
+{"i": 261, "id": "a2-0262", "w": "pattern", "pos": "noun", "tr": "узор", "ex": "Notice the weather pattern.", "exRu": "Заметь погодный узор.", "colloc": ""}
+{"i": 262, "id": "a2-0263", "w": "payment", "pos": "noun", "tr": "платёж", "ex": "Make the payment online.", "exRu": "Сделай платёж онлайн.", "colloc": ""}
+{"i": 263, "id": "a2-0264", "w": "peak", "pos": "noun", "tr": "пик", "ex": "Reach the mountain peak.", "exRu": "Достигни пика горы.", "colloc": ""}
+{"i": 264, "id": "a2-0265", "w": "penalty", "pos": "noun", "tr": "штраф", "ex": "Pay the parking penalty.", "exRu": "Заплати штраф за парковку.", "colloc": ""}
+{"i": 265, "id": "a2-0266", "w": "penguin", "pos": "noun", "tr": "пингвин", "ex": "Penguins live in cold places.", "exRu": "Пингвины живут в холодных местах.", "colloc": ""}
+{"i": 266, "id": "a2-0267", "w": "performance", "pos": "noun", "tr": "выступление", "ex": "Enjoy the evening performance.", "exRu": "Наслаждайся вечерним выступлением.", "colloc": ""}
+{"i": 267, "id": "a2-0268", "w": "permission", "pos": "noun", "tr": "разрешение", "ex": "Ask permission before leaving.", "exRu": "Попроси разрешение перед уходом.", "colloc": ""}
+{"i": 268, "id": "a2-0269", "w": "petrol", "pos": "noun", "tr": "бензин", "ex": "Fill the car with petrol.", "exRu": "Залей бензин в машину.", "colloc": ""}
+{"i": 269, "id": "a2-0270", "w": "phrase", "pos": "noun", "tr": "фраза", "ex": "Learn useful phrases.", "exRu": "Учи полезные фразы.", "colloc": ""}
+{"i": 270, "id": "a2-0271", "w": "pillow", "pos": "noun", "tr": "подушка", "ex": "Buy a soft pillow.", "exRu": "Купи мягкую подушку.", "colloc": ""}
+{"i": 271, "id": "a2-0272", "w": "pity", "pos": "noun", "tr": "жалость", "ex": "What a pity you missed it.", "exRu": "Как жаль, что ты это пропустил.", "colloc": ""}
+{"i": 272, "id": "a2-0273", "w": "planet", "pos": "noun", "tr": "планета", "ex": "Earth is our planet.", "exRu": "Земля — наша планета.", "colloc": ""}
+{"i": 273, "id": "a2-0274", "w": "platform", "pos": "noun", "tr": "платформа", "ex": "Wait on platform three.", "exRu": "Жди на платформе три.", "colloc": ""}
+{"i": 274, "id": "a2-0275", "w": "pleasure", "pos": "noun", "tr": "удовольствие", "ex": "It is a pleasure to help.", "exRu": "Помогать — удовольствие.", "colloc": ""}
+{"i": 275, "id": "a2-0276", "w": "poem", "pos": "noun", "tr": "стихотворение", "ex": "Write a short poem.", "exRu": "Напиши короткое стихотворение.", "colloc": ""}
+{"i": 276, "id": "a2-0277", "w": "poet", "pos": "noun", "tr": "поэт", "ex": "The poet read aloud.", "exRu": "Поэт читал вслух.", "colloc": ""}
+{"i": 277, "id": "a2-0278", "w": "poison", "pos": "noun", "tr": "яд", "ex": "Keep poison locked away.", "exRu": "Храни яд под замком.", "colloc": ""}
+{"i": 278, "id": "a2-0279", "w": "policy", "pos": "noun", "tr": "политика", "ex": "Read the company policy.", "exRu": "Прочитай политику компании.", "colloc": ""}
+{"i": 279, "id": "a2-0280", "w": "population", "pos": "noun", "tr": "население", "ex": "The population is growing.", "exRu": "Население растёт.", "colloc": ""}
+{"i": 280, "id": "a2-0281", "w": "position", "pos": "noun", "tr": "должность", "ex": "Apply for a new position.", "exRu": "Подай заявку на новую должность.", "colloc": ""}
+{"i": 281, "id": "a2-0282", "w": "possibility", "pos": "noun", "tr": "возможность", "ex": "There is a possibility of rain.", "exRu": "Есть возможность дождя.", "colloc": ""}
+{"i": 282, "id": "a2-0283", "w": "poster", "pos": "noun", "tr": "плакат", "ex": "Hang a movie poster.", "exRu": "Повесь киноплакат.", "colloc": ""}
+{"i": 283, "id": "a2-0284", "w": "poverty", "pos": "noun", "tr": "бедность", "ex": "Fight poverty with education.", "exRu": "Борись с бедностью через образование.", "colloc": ""}
+{"i": 284, "id": "a2-0285", "w": "powder", "pos": "noun", "tr": "порошок", "ex": "Add baking powder carefully.", "exRu": "Осторожно добавь разрыхлитель.", "colloc": ""}
+{"i": 285, "id": "a2-0286", "w": "praise", "pos": "noun", "tr": "похвала", "ex": "Teachers give fair praise.", "exRu": "Учителя дают справедливую похвалу.", "colloc": ""}
+{"i": 286, "id": "a2-0287", "w": "preference", "pos": "noun", "tr": "предпочтение", "ex": "State your food preference.", "exRu": "Укажи пищевое предпочтение.", "colloc": ""}
+{"i": 287, "id": "a2-0288", "w": "preparation", "pos": "noun", "tr": "подготовка", "ex": "Exam preparation takes time.", "exRu": "Подготовка к экзамену занимает время.", "colloc": ""}
+{"i": 288, "id": "a2-0289", "w": "presence", "pos": "noun", "tr": "присутствие", "ex": "Thank you for your presence.", "exRu": "Спасибо за присутствие.", "colloc": ""}
+{"i": 289, "id": "a2-0290", "w": "presentation", "pos": "noun", "tr": "презентация", "ex": "Prepare a short presentation.", "exRu": "Подготовь короткую презентацию.", "colloc": ""}
+{"i": 290, "id": "a2-0291", "w": "pressure", "pos": "noun", "tr": "давление", "ex": "Work under pressure carefully.", "exRu": "Осторожно работай под давлением.", "colloc": ""}
+{"i": 291, "id": "a2-0292", "w": "prevention", "pos": "noun", "tr": "профилактика", "ex": "Prevention is better than cure.", "exRu": "Профилактика лучше лечения.", "colloc": ""}
+{"i": 292, "id": "a2-0293", "w": "pride", "pos": "noun", "tr": "гордость", "ex": "Take pride in your work.", "exRu": "Гордись своей работой.", "colloc": ""}
+{"i": 293, "id": "a2-0294", "w": "principle", "pos": "noun", "tr": "принцип", "ex": "Follow basic safety principles.", "exRu": "Следуй основным принципам безопасности.", "colloc": ""}
+{"i": 294, "id": "a2-0295", "w": "priority", "pos": "noun", "tr": "приоритет", "ex": "Health is my priority.", "exRu": "Здоровье — мой приоритет.", "colloc": ""}
+{"i": 295, "id": "a2-0296", "w": "prison", "pos": "noun", "tr": "тюрьма", "ex": "He spent years in prison.", "exRu": "Он провёл годы в тюрьме.", "colloc": ""}
+{"i": 296, "id": "a2-0297", "w": "privacy", "pos": "noun", "tr": "конфиденциальность", "ex": "Respect online privacy.", "exRu": "Уважай онлайн-конфиденциальность.", "colloc": ""}
+{"i": 297, "id": "a2-0298", "w": "procedure", "pos": "noun", "tr": "процедура", "ex": "Follow the safety procedure.", "exRu": "Следуй процедуре безопасности.", "colloc": ""}
+{"i": 298, "id": "a2-0299", "w": "process", "pos": "noun", "tr": "процесс", "ex": "Explain the hiring process.", "exRu": "Объясни процесс найма.", "colloc": ""}
+{"i": 299, "id": "a2-0300", "w": "production", "pos": "noun", "tr": "производство", "ex": "Car production increased.", "exRu": "Производство машин выросло.", "colloc": ""}
+{"i": 300, "id": "a2-0301", "w": "profession", "pos": "noun", "tr": "профессия", "ex": "Teaching is a noble profession.", "exRu": "Преподавание — благородная профессия.", "colloc": ""}
+{"i": 301, "id": "a2-0302", "w": "professor", "pos": "noun", "tr": "профессор", "ex": "Ask the professor a question.", "exRu": "Задай профессору вопрос.", "colloc": ""}
+{"i": 302, "id": "a2-0303", "w": "profit", "pos": "noun", "tr": "прибыль", "ex": "The shop made a profit.", "exRu": "Магазин получил прибыль.", "colloc": ""}
+{"i": 303, "id": "a2-0304", "w": "program", "pos": "noun", "tr": "программа", "ex": "Install the new program.", "exRu": "Установи новую программу.", "colloc": ""}
+{"i": 304, "id": "a2-0305", "w": "progress", "pos": "noun", "tr": "прогресс", "ex": "Show steady progress.", "exRu": "Покажи устойчивый прогресс.", "colloc": ""}
+{"i": 305, "id": "a2-0306", "w": "project", "pos": "noun", "tr": "проект", "ex": "Finish the group project.", "exRu": "Закончи групповой проект.", "colloc": ""}
+{"i": 306, "id": "a2-0307", "w": "promotion", "pos": "noun", "tr": "повышение", "ex": "She got a promotion.", "exRu": "Она получила повышение.", "colloc": ""}
+{"i": 307, "id": "a2-0308", "w": "proof", "pos": "noun", "tr": "доказательство", "ex": "Show proof of purchase.", "exRu": "Покажи доказательство покупки.", "colloc": ""}
+{"i": 308, "id": "a2-0309", "w": "property", "pos": "noun", "tr": "собственность", "ex": "Protect private property.", "exRu": "Защищай частную собственность.", "colloc": ""}
+{"i": 309, "id": "a2-0310", "w": "proposal", "pos": "noun", "tr": "предложение", "ex": "Read the business proposal.", "exRu": "Прочитай деловое предложение.", "colloc": ""}
+{"i": 310, "id": "a2-0311", "w": "protection", "pos": "noun", "tr": "защита", "ex": "Wear sun protection.", "exRu": "Носи защиту от солнца.", "colloc": ""}
+{"i": 311, "id": "a2-0312", "w": "protein", "pos": "noun", "tr": "белок", "ex": "Eggs provide protein.", "exRu": "Яйца дают белок.", "colloc": ""}
+{"i": 312, "id": "a2-0313", "w": "protest", "pos": "noun", "tr": "протест", "ex": "Join a peaceful protest.", "exRu": "Участвуй в мирном протесте.", "colloc": ""}
+{"i": 313, "id": "a2-0314", "w": "province", "pos": "noun", "tr": "провинция", "ex": "She lives in another province.", "exRu": "Она живёт в другой провинции.", "colloc": ""}
+{"i": 314, "id": "a2-0315", "w": "publication", "pos": "noun", "tr": "публикация", "ex": "Read the latest publication.", "exRu": "Прочитай последнюю публикацию.", "colloc": ""}
+{"i": 315, "id": "a2-0316", "w": "pudding", "pos": "noun", "tr": "пудинг", "ex": "Try the chocolate pudding.", "exRu": "Попробуй шоколадный пудинг.", "colloc": ""}
+{"i": 316, "id": "a2-0317", "w": "pulse", "pos": "noun", "tr": "пульс", "ex": "Check your pulse carefully.", "exRu": "Осторожно проверь пульс.", "colloc": ""}
+{"i": 317, "id": "a2-0318", "w": "pupil", "pos": "noun", "tr": "ученик", "ex": "Every pupil needs support.", "exRu": "Каждому ученику нужна поддержка.", "colloc": ""}
+{"i": 318, "id": "a2-0319", "w": "purpose", "pos": "noun", "tr": "цель", "ex": "What is the purpose?", "exRu": "Какова цель?", "colloc": ""}
+{"i": 319, "id": "a2-0320", "w": "purse", "pos": "noun", "tr": "дамская сумка", "ex": "She lost her purse.", "exRu": "Она потеряла сумку.", "colloc": ""}
+{"i": 320, "id": "a2-0321", "w": "puzzle", "pos": "noun", "tr": "головоломка", "ex": "Solve the crossword puzzle.", "exRu": "Реши кроссворд.", "colloc": ""}
+{"i": 321, "id": "a2-0322", "w": "quantity", "pos": "noun", "tr": "количество", "ex": "Check the quantity carefully.", "exRu": "Осторожно проверь количество.", "colloc": ""}
+{"i": 322, "id": "a2-0323", "w": "quarter", "pos": "noun", "tr": "четверть", "ex": "Wait a quarter of an hour.", "exRu": "Подожди четверть часа.", "colloc": ""}
+{"i": 323, "id": "a2-0324", "w": "questionnaire", "pos": "noun", "tr": "анкета", "ex": "Fill in the questionnaire.", "exRu": "Заполни анкету.", "colloc": ""}
+{"i": 324, "id": "a2-0325", "w": "quote", "pos": "noun", "tr": "цитата", "ex": "Copy this famous quote.", "exRu": "Скопируй эту известную цитату.", "colloc": ""}
+{"i": 325, "id": "a2-0326", "w": "ability", "pos": "noun", "tr": "способность", "ex": "She has the ability to lead.", "exRu": "У неё есть способность вести.", "colloc": "ability to"}
+{"i": 326, "id": "a2-0327", "w": "accident", "pos": "noun", "tr": "несчастный случай", "ex": "A car accident blocked traffic.", "exRu": "Авария перекрыла движение.", "colloc": "have an accident"}
+{"i": 327, "id": "a2-0328", "w": "account", "pos": "noun", "tr": "счёт, аккаунт", "ex": "Create a bank account.", "exRu": "Создай банковский счёт.", "colloc": "open an account"}
+{"i": 328, "id": "a2-0329", "w": "achievement", "pos": "noun", "tr": "достижение", "ex": "Winning was a big achievement.", "exRu": "Победа была большим достижением.", "colloc": "major achievement"}
+{"i": 329, "id": "a2-0330", "w": "adult", "pos": "noun", "tr": "взрослый", "ex": "Only adults may enter.", "exRu": "Входить могут только взрослые.", "colloc": "adult education"}
+{"i": 330, "id": "a2-0331", "w": "advantage", "pos": "noun", "tr": "преимущество", "ex": "Experience is an advantage.", "exRu": "Опыт — преимущество.", "colloc": "take advantage of"}
+{"i": 331, "id": "a2-0332", "w": "adventure", "pos": "noun", "tr": "приключение", "ex": "Travel can be an adventure.", "exRu": "Путешествие может быть приключением.", "colloc": "go on an adventure"}
+{"i": 332, "id": "a2-0333", "w": "advertisement", "pos": "noun", "tr": "реклама", "ex": "I saw an advertisement online.", "exRu": "Я видел рекламу онлайн.", "colloc": "job advertisement"}
+{"i": 333, "id": "a2-0334", "w": "advice", "pos": "noun", "tr": "совет", "ex": "Follow the doctor's advice.", "exRu": "Следуй совету врача.", "colloc": "give advice"}
+{"i": 334, "id": "a2-0335", "w": "agency", "pos": "noun", "tr": "агентство", "ex": "Call a travel agency.", "exRu": "Позвони в турагентство.", "colloc": "travel agency"}
+{"i": 335, "id": "a2-0336", "w": "agreement", "pos": "noun", "tr": "соглашение", "ex": "We signed an agreement.", "exRu": "Мы подписали соглашение.", "colloc": "reach an agreement"}
+{"i": 336, "id": "a2-0337", "w": "aim", "pos": "noun", "tr": "цель", "ex": "My aim is to improve.", "exRu": "Моя цель — улучшиться.", "colloc": "aim of"}
+{"i": 337, "id": "a2-0338", "w": "airline", "pos": "noun", "tr": "авиакомпания", "ex": "Which airline do you prefer?", "exRu": "Какую авиакомпанию предпочитаешь?", "colloc": "airline ticket"}
+{"i": 338, "id": "a2-0339", "w": "album", "pos": "noun", "tr": "альбом", "ex": "She released a new album.", "exRu": "Она выпустила новый альбом.", "colloc": "photo album"}
+{"i": 339, "id": "a2-0340", "w": "alcohol", "pos": "noun", "tr": "алкоголь", "ex": "Do not drink alcohol and drive.", "exRu": "Не пей алкоголь и не садись за руль.", "colloc": "alcohol-free"}
+{"i": 340, "id": "a2-0341", "w": "ambition", "pos": "noun", "tr": "амбиция", "ex": "His ambition is strong.", "exRu": "Его амбиции сильны.", "colloc": "career ambition"}
+{"i": 341, "id": "a2-0342", "w": "amount", "pos": "noun", "tr": "количество", "ex": "Pay the full amount.", "exRu": "Оплати полную сумму.", "colloc": "large amount"}
+{"i": 342, "id": "a2-0343", "w": "amusement", "pos": "noun", "tr": "развлечение", "ex": "The park offers amusement.", "exRu": "Парк предлагает развлечения.", "colloc": "amusement park"}
+{"i": 343, "id": "a2-0344", "w": "analysis", "pos": "noun", "tr": "анализ", "ex": "Write a short analysis.", "exRu": "Напиши короткий анализ.", "colloc": "data analysis"}
+{"i": 344, "id": "a2-0345", "w": "anger", "pos": "noun", "tr": "гнев", "ex": "Control your anger carefully.", "exRu": "Осторожно контролируй гнев.", "colloc": "in anger"}
+{"i": 345, "id": "a2-0346", "w": "ankle", "pos": "noun", "tr": "лодыжка", "ex": "I twisted my ankle.", "exRu": "Я подвернул лодыжку.", "colloc": "ankle injury"}
+{"i": 346, "id": "a2-0347", "w": "announcement", "pos": "noun", "tr": "объявление", "ex": "Listen to the announcement.", "exRu": "Слушай объявление.", "colloc": "make an announcement"}
+{"i": 347, "id": "a2-0348", "w": "anxiety", "pos": "noun", "tr": "тревога", "ex": "Anxiety keeps her awake.", "exRu": "Тревога не даёт ей спать.", "colloc": "feel anxiety"}
+{"i": 348, "id": "a2-0349", "w": "apology", "pos": "noun", "tr": "извинение", "ex": "Please accept my apology.", "exRu": "Пожалуйста, прими мои извинения.", "colloc": "make an apology"}
+{"i": 349, "id": "a2-0350", "w": "appearance", "pos": "noun", "tr": "внешность", "ex": "Do not judge by appearance.", "exRu": "Не суди по внешности.", "colloc": "personal appearance"}
+{"i": 350, "id": "a2-0351", "w": "application", "pos": "noun", "tr": "заявление, приложение", "ex": "Send your job application.", "exRu": "Отправь заявление на работу.", "colloc": "job application"}
+{"i": 351, "id": "a2-0352", "w": "appointment", "pos": "noun", "tr": "запись", "ex": "I have a dentist appointment.", "exRu": "У меня запись к стоматологу.", "colloc": "make an appointment"}
+{"i": 352, "id": "a2-0353", "w": "approach", "pos": "noun", "tr": "подход", "ex": "Try a different approach.", "exRu": "Попробуй другой подход.", "colloc": "new approach"}
+{"i": 353, "id": "a2-0354", "w": "architecture", "pos": "noun", "tr": "архитектура", "ex": "I admire modern architecture.", "exRu": "Я восхищаюсь современной архитектурой.", "colloc": "modern architecture"}
+{"i": 354, "id": "a2-0355", "w": "argument", "pos": "noun", "tr": "спор, довод", "ex": "Avoid a loud argument.", "exRu": "Избегай громкого спора.", "colloc": "have an argument"}
+{"i": 355, "id": "a2-0356", "w": "arrangement", "pos": "noun", "tr": "договорённость", "ex": "We made travel arrangements.", "exRu": "Мы сделали договорённости о поездке.", "colloc": "make arrangements"}
+{"i": 356, "id": "a2-0357", "w": "arrival", "pos": "noun", "tr": "прибытие", "ex": "Wait for the train arrival.", "exRu": "Жди прибытия поезда.", "colloc": "arrival time"}
+{"i": 357, "id": "a2-0358", "w": "article", "pos": "noun", "tr": "статья", "ex": "I read an interesting article.", "exRu": "Я прочитал интересную статью.", "colloc": "newspaper article"}
+{"i": 358, "id": "a2-0359", "w": "assistant", "pos": "noun", "tr": "помощник", "ex": "She works as an assistant.", "exRu": "Она работает помощником.", "colloc": "personal assistant"}
+{"i": 359, "id": "a2-0360", "w": "athlete", "pos": "noun", "tr": "спортсмен", "ex": "The athlete trains hard.", "exRu": "Спортсмен усердно тренируется.", "colloc": "professional athlete"}
+{"i": 360, "id": "a2-0361", "w": "atmosphere", "pos": "noun", "tr": "атмосфера", "ex": "The cafe has a warm atmosphere.", "exRu": "В кафе тёплая атмосфера.", "colloc": "friendly atmosphere"}
+{"i": 361, "id": "a2-0362", "w": "attempt", "pos": "noun", "tr": "попытка", "ex": "His first attempt failed.", "exRu": "Его первая попытка не удалась.", "colloc": "make an attempt"}
+{"i": 362, "id": "a2-0363", "w": "attention", "pos": "noun", "tr": "внимание", "ex": "Pay attention in class.", "exRu": "Обрати внимание на уроке.", "colloc": "pay attention"}
+{"i": 363, "id": "a2-0364", "w": "attitude", "pos": "noun", "tr": "отношение", "ex": "A positive attitude helps.", "exRu": "Позитивное отношение помогает.", "colloc": "attitude toward"}
+{"i": 364, "id": "a2-0365", "w": "attraction", "pos": "noun", "tr": "достопримечательность", "ex": "Visit the main attractions.", "exRu": "Посети главные достопримечательности.", "colloc": "tourist attraction"}
+{"i": 365, "id": "a2-0366", "w": "audience", "pos": "noun", "tr": "аудитория", "ex": "The audience clapped loudly.", "exRu": "Аудитория громко аплодировала.", "colloc": "live audience"}
+{"i": 366, "id": "a2-0367", "w": "author", "pos": "noun", "tr": "автор", "ex": "Who is the author?", "exRu": "Кто автор?", "colloc": "best-selling author"}
+{"i": 367, "id": "a2-0368", "w": "average", "pos": "noun", "tr": "среднее", "ex": "His score is above average.", "exRu": "Его балл выше среднего.", "colloc": "on average"}
+{"i": 368, "id": "a2-0369", "w": "award", "pos": "noun", "tr": "награда", "ex": "She won an award.", "exRu": "Она получила награду.", "colloc": "win an award"}
+{"i": 369, "id": "a2-0370", "w": "background", "pos": "noun", "tr": "происхождение, фон", "ex": "Tell me your background.", "exRu": "Расскажи о своём опыте.", "colloc": "educational background"}
+{"i": 370, "id": "a2-0371", "w": "backpack", "pos": "noun", "tr": "рюкзак", "ex": "Pack a light backpack.", "exRu": "Собери лёгкий рюкзак.", "colloc": "backpack trip"}
+{"i": 371, "id": "a2-0372", "w": "balance", "pos": "noun", "tr": "баланс", "ex": "Keep a healthy balance.", "exRu": "Сохраняй здоровый баланс.", "colloc": "work-life balance"}
+{"i": 372, "id": "a2-0373", "w": "balcony", "pos": "noun", "tr": "балкон", "ex": "Flowers grow on the balcony.", "exRu": "На балконе растут цветы.", "colloc": "balcony door"}
+{"i": 373, "id": "a2-0374", "w": "bandage", "pos": "noun", "tr": "бинт", "ex": "Put a bandage on it.", "exRu": "Наложи бинт.", "colloc": "bandage wound"}
+{"i": 374, "id": "a2-0375", "w": "bar", "pos": "noun", "tr": "бар", "ex": "Meet me at the bar.", "exRu": "Встреть меня в баре.", "colloc": "coffee bar"}
+{"i": 375, "id": "a2-0376", "w": "base", "pos": "noun", "tr": "основа", "ex": "Trust is the base of friendship.", "exRu": "Доверие — основа дружбы.", "colloc": "base on"}
+{"i": 376, "id": "a2-0377", "w": "basement", "pos": "noun", "tr": "подвал", "ex": "The basement is cool.", "exRu": "В подвале прохладно.", "colloc": "basement floor"}
+{"i": 377, "id": "a2-0378", "w": "battle", "pos": "noun", "tr": "битва", "ex": "History describes the battle.", "exRu": "История описывает битву.", "colloc": "battle against"}
+{"i": 378, "id": "a2-0379", "w": "bean", "pos": "noun", "tr": "фасоль", "ex": "Add beans to the salad.", "exRu": "Добавь фасоль в салат.", "colloc": "coffee bean"}
+{"i": 379, "id": "a2-0380", "w": "beauty", "pos": "noun", "tr": "красота", "ex": "Nature shows real beauty.", "exRu": "Природа показывает настоящую красоту.", "colloc": "natural beauty"}
+{"i": 380, "id": "a2-0381", "w": "behavior", "pos": "noun", "tr": "поведение", "ex": "Good behavior is important.", "exRu": "Хорошее поведение важно.", "colloc": "behavior towards"}
+{"i": 381, "id": "a2-0382", "w": "belief", "pos": "noun", "tr": "убеждение", "ex": "Respect different beliefs.", "exRu": "Уважай разные убеждения.", "colloc": "strong belief"}
+{"i": 382, "id": "a2-0383", "w": "benefit", "pos": "noun", "tr": "польза", "ex": "Exercise has many benefits.", "exRu": "У упражнений много пользы.", "colloc": "health benefit"}
+{"i": 383, "id": "a2-0384", "w": "bicycle", "pos": "noun", "tr": "велосипед", "ex": "I ride my bicycle daily.", "exRu": "Я езжу на велосипеде ежедневно.", "colloc": "ride a bicycle"}
+{"i": 384, "id": "a2-0385", "w": "biology", "pos": "noun", "tr": "биология", "ex": "Biology is my favorite subject.", "exRu": "Биология — мой любимый предмет.", "colloc": "study biology"}
+{"i": 385, "id": "a2-0386", "w": "birth", "pos": "noun", "tr": "рождение", "ex": "Celebrate the baby's birth.", "exRu": "Отпразднуй рождение малыша.", "colloc": "date of birth"}
+{"i": 386, "id": "a2-0387", "w": "biscuit", "pos": "noun", "tr": "печенье", "ex": "Have a biscuit with tea.", "exRu": "Возьми печенье к чаю.", "colloc": "chocolate biscuit"}
+{"i": 387, "id": "a2-0388", "w": "blanket", "pos": "noun", "tr": "одеяло", "ex": "A warm blanket helps.", "exRu": "Тёплое одеяло помогает.", "colloc": "wool blanket"}
+{"i": 388, "id": "a2-0389", "w": "block", "pos": "noun", "tr": "квартал, блок", "ex": "Walk one more block.", "exRu": "Пройди ещё один квартал.", "colloc": "apartment block"}
+{"i": 389, "id": "a2-0390", "w": "blog", "pos": "noun", "tr": "блог", "ex": "She writes a travel blog.", "exRu": "Она ведёт тревел-блог.", "colloc": "blog post"}
+{"i": 390, "id": "a2-0391", "w": "board", "pos": "noun", "tr": "доска, борт", "ex": "Write it on the board.", "exRu": "Напиши это на доске.", "colloc": "on board"}
+{"i": 391, "id": "a2-0392", "w": "bonus", "pos": "noun", "tr": "бонус", "ex": "Employees received a bonus.", "exRu": "Сотрудники получили бонус.", "colloc": "year-end bonus"}
+{"i": 392, "id": "a2-0393", "w": "border", "pos": "noun", "tr": "граница", "ex": "Show your passport at the border.", "exRu": "Покажи паспорт на границе.", "colloc": "cross the border"}
+{"i": 393, "id": "a2-0394", "w": "boredom", "pos": "noun", "tr": "скука", "ex": "Boredom makes time slow.", "exRu": "Скука замедляет время.", "colloc": "die of boredom"}
+{"i": 394, "id": "a2-0395", "w": "bottom", "pos": "noun", "tr": "низ", "ex": "Look at the bottom line.", "exRu": "Посмотри на нижнюю строку.", "colloc": "at the bottom"}
+{"i": 395, "id": "a2-0396", "w": "brain", "pos": "noun", "tr": "мозг", "ex": "Sleep rests your brain.", "exRu": "Сон даёт мозгу отдых.", "colloc": "brain activity"}
+{"i": 396, "id": "a2-0397", "w": "branch", "pos": "noun", "tr": "ветка, филиал", "ex": "The bank has a new branch.", "exRu": "У банка новый филиал.", "colloc": "tree branch"}
+{"i": 397, "id": "a2-0398", "w": "brand", "pos": "noun", "tr": "бренд", "ex": "Which brand do you trust?", "exRu": "Какому бренду ты доверяешь?", "colloc": "brand name"}
+{"i": 398, "id": "a2-0399", "w": "breath", "pos": "noun", "tr": "дыхание", "ex": "Take a deep breath.", "exRu": "Сделай глубокий вдох.", "colloc": "out of breath"}
+{"i": 399, "id": "a2-0400", "w": "brick", "pos": "noun", "tr": "кирпич", "ex": "The wall is made of brick.", "exRu": "Стена из кирпича.", "colloc": "brick house"}
+{"i": 400, "id": "a2-0401", "w": "brush", "pos": "noun", "tr": "щётка", "ex": "Use a soft brush.", "exRu": "Используй мягкую щётку.", "colloc": "hairbrush"}
+{"i": 401, "id": "a2-0402", "w": "budget", "pos": "noun", "tr": "бюджет", "ex": "Plan a monthly budget.", "exRu": "Спланируй месячный бюджет.", "colloc": "on a budget"}
+{"i": 402, "id": "a2-0403", "w": "bug", "pos": "noun", "tr": "жук, ошибка", "ex": "There is a bug in the app.", "exRu": "В приложении ошибка.", "colloc": "software bug"}
+{"i": 403, "id": "a2-0404", "w": "bunch", "pos": "noun", "tr": "связка, гроздь", "ex": "Buy a bunch of bananas.", "exRu": "Купи гроздь бананов.", "colloc": "a bunch of flowers"}
+{"i": 404, "id": "a2-0405", "w": "burden", "pos": "noun", "tr": "бремя", "ex": "Do not carry that burden alone.", "exRu": "Не неси это бремя в одиночку.", "colloc": "heavy burden"}
+{"i": 405, "id": "a2-0406", "w": "business", "pos": "noun", "tr": "бизнес", "ex": "She started a small business.", "exRu": "Она открыла небольшой бизнес.", "colloc": "do business"}
+{"i": 406, "id": "a2-0407", "w": "cabin", "pos": "noun", "tr": "каюта, домик", "ex": "Our cabin faces the sea.", "exRu": "Наша каюта смотрит на море.", "colloc": "cabin crew"}
+{"i": 407, "id": "a2-0408", "w": "cable", "pos": "noun", "tr": "кабель", "ex": "Connect the power cable.", "exRu": "Подключи кабель питания.", "colloc": "cable TV"}
+{"i": 408, "id": "a2-0409", "w": "cage", "pos": "noun", "tr": "клетка", "ex": "The bird left the cage.", "exRu": "Птица вышла из клетки.", "colloc": "birdcage"}
+{"i": 409, "id": "a2-0410", "w": "calendar", "pos": "noun", "tr": "календарь", "ex": "Mark it on the calendar.", "exRu": "Отметь в календаре.", "colloc": ""}
+{"i": 410, "id": "a2-0411", "w": "campaign", "pos": "noun", "tr": "кампания", "ex": "Join the recycling campaign.", "exRu": "Присоединись к кампании по переработке.", "colloc": "ad campaign"}
+{"i": 411, "id": "a2-0412", "w": "campus", "pos": "noun", "tr": "кампус", "ex": "The campus is very green.", "exRu": "Кампус очень зелёный.", "colloc": "university campus"}
+{"i": 412, "id": "a2-0413", "w": "candidate", "pos": "noun", "tr": "кандидат", "ex": "She is a strong candidate.", "exRu": "Она сильный кандидат.", "colloc": "job candidate"}
+{"i": 413, "id": "a2-0414", "w": "candle", "pos": "noun", "tr": "свеча", "ex": "Light a candle carefully.", "exRu": "Осторожно зажги свечу.", "colloc": "birthday candle"}
+{"i": 414, "id": "a2-0415", "w": "capital", "pos": "noun", "tr": "столица, капитал", "ex": "Paris is the capital.", "exRu": "Париж — столица.", "colloc": "capital city"}
+{"i": 415, "id": "a2-0416", "w": "captain", "pos": "noun", "tr": "капитан", "ex": "The captain welcomed passengers.", "exRu": "Капитан поприветствовал пассажиров.", "colloc": "team captain"}
+{"i": 416, "id": "a2-0417", "w": "career", "pos": "noun", "tr": "карьера", "ex": "Plan your future career.", "exRu": "Спланируй будущую карьеру.", "colloc": "career path"}
+{"i": 417, "id": "a2-0418", "w": "castle", "pos": "noun", "tr": "замок", "ex": "Tourists visit the castle.", "exRu": "Туристы посещают замок.", "colloc": "ancient castle"}
+{"i": 418, "id": "a2-0419", "w": "category", "pos": "noun", "tr": "категория", "ex": "Choose a product category.", "exRu": "Выбери категорию товара.", "colloc": "age category"}
+{"i": 419, "id": "a2-0420", "w": "cause", "pos": "noun", "tr": "причина", "ex": "What is the cause?", "exRu": "Какова причина?", "colloc": "cause of"}
+{"i": 420, "id": "a2-0421", "w": "celebration", "pos": "noun", "tr": "празднование", "ex": "Join the celebration tonight.", "exRu": "Присоединяйся к празднованию вечером.", "colloc": "wedding celebration"}
+{"i": 421, "id": "a2-0422", "w": "celebrity", "pos": "noun", "tr": "знаменитость", "ex": "A celebrity opened the store.", "exRu": "Знаменитость открыла магазин.", "colloc": "local celebrity"}
+{"i": 422, "id": "a2-0423", "w": "cell", "pos": "noun", "tr": "клетка, ячейка", "ex": "Every living thing has cells.", "exRu": "У всего живого есть клетки.", "colloc": "phone cell"}
+{"i": 423, "id": "a2-0424", "w": "ceremony", "pos": "noun", "tr": "церемония", "ex": "The ceremony starts at noon.", "exRu": "Церемония начинается в полдень.", "colloc": "opening ceremony"}
+{"i": 424, "id": "a2-0425", "w": "certificate", "pos": "noun", "tr": "сертификат", "ex": "I received a language certificate.", "exRu": "Я получил языковой сертификат.", "colloc": "certificate of"}
+{"i": 425, "id": "a2-0426", "w": "chain", "pos": "noun", "tr": "цепь", "ex": "A bike chain needs oil.", "exRu": "Цепь велосипеда нужно смазать.", "colloc": "hotel chain"}
+{"i": 426, "id": "a2-0427", "w": "champion", "pos": "noun", "tr": "чемпион", "ex": "Our team is the champion.", "exRu": "Наша команда — чемпион.", "colloc": "world champion"}
+{"i": 427, "id": "a2-0428", "w": "channel", "pos": "noun", "tr": "канал", "ex": "Change the TV channel.", "exRu": "Переключи телеканал.", "colloc": "news channel"}
+{"i": 428, "id": "a2-0429", "w": "chapter", "pos": "noun", "tr": "глава", "ex": "Read the next chapter.", "exRu": "Прочитай следующую главу.", "colloc": "chapter of a book"}
+{"i": 429, "id": "a2-0430", "w": "character", "pos": "noun", "tr": "персонаж, характер", "ex": "My favorite character is brave.", "exRu": "Мой любимый персонаж смелый.", "colloc": "main character"}
+{"i": 430, "id": "a2-0431", "w": "charge", "pos": "noun", "tr": "плата, заряд", "ex": "Is there an extra charge?", "exRu": "Есть ли доплата?", "colloc": "free of charge"}
+{"i": 431, "id": "a2-0432", "w": "charity", "pos": "noun", "tr": "благотворительность", "ex": "Donate to a local charity.", "exRu": "Пожертвуй местной благотворительности.", "colloc": "charity event"}
+{"i": 432, "id": "a2-0433", "w": "chart", "pos": "noun", "tr": "диаграмма", "ex": "Look at the sales chart.", "exRu": "Посмотри на диаграмму продаж.", "colloc": "bar chart"}
+{"i": 433, "id": "a2-0434", "w": "cheek", "pos": "noun", "tr": "щека", "ex": "She kissed his cheek.", "exRu": "Она поцеловала его в щёку.", "colloc": "rosy cheek"}
+{"i": 434, "id": "a2-0435", "w": "chemical", "pos": "noun", "tr": "химикат", "ex": "Handle chemicals carefully.", "exRu": "Осторожно обращайся с химикатами.", "colloc": "chemical reaction"}
+{"i": 435, "id": "a2-0436", "w": "chemistry", "pos": "noun", "tr": "химия", "ex": "Chemistry class is interesting.", "exRu": "Урок химии интересный.", "colloc": "study chemistry"}
+{"i": 436, "id": "a2-0437", "w": "chest", "pos": "noun", "tr": "грудь, ящик", "ex": "He felt pain in his chest.", "exRu": "Он почувствовал боль в груди.", "colloc": "chest of drawers"}
+{"i": 437, "id": "a2-0438", "w": "childhood", "pos": "noun", "tr": "детство", "ex": "She remembers her childhood.", "exRu": "Она помнит своё детство.", "colloc": "childhood memory"}
+{"i": 438, "id": "a2-0439", "w": "chin", "pos": "noun", "tr": "подбородок", "ex": "He rested his chin on his hand.", "exRu": "Он опёрся подбородком о руку.", "colloc": ""}
+{"i": 439, "id": "a2-0440", "w": "choice", "pos": "noun", "tr": "выбор", "ex": "That was a hard choice.", "exRu": "Это был трудный выбор.", "colloc": "make a choice"}
+{"i": 440, "id": "a2-0441", "w": "cigarette", "pos": "noun", "tr": "сигарета", "ex": "He quit cigarettes last year.", "exRu": "Он бросил сигареты в прошлом году.", "colloc": "cigarette smoke"}
+{"i": 441, "id": "a2-0442", "w": "circle", "pos": "noun", "tr": "круг", "ex": "Draw a perfect circle.", "exRu": "Нарисуй идеальный круг.", "colloc": "circle of friends"}
+{"i": 442, "id": "a2-0443", "w": "citizen", "pos": "noun", "tr": "гражданин", "ex": "Every citizen has rights.", "exRu": "У каждого гражданина есть права.", "colloc": "local citizen"}
+{"i": 443, "id": "a2-0444", "w": "claim", "pos": "noun", "tr": "заявление, претензия", "ex": "File an insurance claim.", "exRu": "Подай страховое заявление.", "colloc": "claim form"}
+{"i": 444, "id": "a2-0445", "w": "classmate", "pos": "noun", "tr": "одноклассник", "ex": "My classmate sits next to me.", "exRu": "Мой одноклассник сидит рядом.", "colloc": "former classmate"}
+{"i": 445, "id": "a2-0446", "w": "cleaner", "pos": "noun", "tr": "уборщик", "ex": "The cleaner arrives early.", "exRu": "Уборщик приходит рано.", "colloc": "office cleaner"}
+{"i": 446, "id": "a2-0447", "w": "climate", "pos": "noun", "tr": "климат", "ex": "The climate is getting warmer.", "exRu": "Климат становится теплее.", "colloc": "climate change"}
+{"i": 447, "id": "a2-0448", "w": "clinic", "pos": "noun", "tr": "клиника", "ex": "Visit the local clinic.", "exRu": "Посети местную клинику.", "colloc": "dental clinic"}
+{"i": 448, "id": "a2-0449", "w": "cloth", "pos": "noun", "tr": "ткань", "ex": "Wipe it with a cloth.", "exRu": "Протри это тканью.", "colloc": "table cloth"}
+{"i": 449, "id": "a2-0450", "w": "clothing", "pos": "noun", "tr": "одежда", "ex": "Pack warm clothing.", "exRu": "Возьми тёплую одежду.", "colloc": "clothing store"}
+{"i": 450, "id": "a2-0451", "w": "club", "pos": "noun", "tr": "клуб", "ex": "Join a sports club.", "exRu": "Вступи в спортклуб.", "colloc": "book club"}
+{"i": 451, "id": "a2-0452", "w": "clue", "pos": "noun", "tr": "улика, подсказка", "ex": "Give me a clue.", "exRu": "Дай мне подсказку.", "colloc": "find a clue"}
+{"i": 452, "id": "a2-0453", "w": "coach", "pos": "noun", "tr": "тренер", "ex": "Our coach is strict.", "exRu": "Наш тренер строгий.", "colloc": "football coach"}
+{"i": 453, "id": "a2-0454", "w": "coast", "pos": "noun", "tr": "побережье", "ex": "Hotels line the coast.", "exRu": "Отели стоят вдоль побережья.", "colloc": "east coast"}
+{"i": 454, "id": "a2-0455", "w": "code", "pos": "noun", "tr": "код", "ex": "Enter the security code.", "exRu": "Введи код безопасности.", "colloc": "postal code"}
+{"i": 455, "id": "a2-0456", "w": "colleague", "pos": "noun", "tr": "коллега", "ex": "My colleague is helpful.", "exRu": "Мой коллега отзывчивый.", "colloc": "close colleague"}
+{"i": 456, "id": "a2-0457", "w": "collection", "pos": "noun", "tr": "коллекция", "ex": "She has a stamp collection.", "exRu": "У неё коллекция марок.", "colloc": "art collection"}
+{"i": 457, "id": "a2-0458", "w": "college", "pos": "noun", "tr": "колледж", "ex": "He starts college in autumn.", "exRu": "Он начинает колледж осенью.", "colloc": "community college"}
+{"i": 458, "id": "a2-0459", "w": "colony", "pos": "noun", "tr": "колония", "ex": "Ants live in a colony.", "exRu": "Муравьи живут в колонии.", "colloc": "ant colony"}
+{"i": 459, "id": "a2-0460", "w": "column", "pos": "noun", "tr": "столбец, колонна", "ex": "Read the second column.", "exRu": "Прочитай второй столбец.", "colloc": "newspaper column"}
+{"i": 460, "id": "a2-0461", "w": "combination", "pos": "noun", "tr": "сочетание", "ex": "Try a new color combination.", "exRu": "Попробуй новое сочетание цветов.", "colloc": "winning combination"}
+{"i": 461, "id": "a2-0462", "w": "comedy", "pos": "noun", "tr": "комедия", "ex": "We watched a funny comedy.", "exRu": "Мы смотрели смешную комедию.", "colloc": "romantic comedy"}
+{"i": 462, "id": "a2-0463", "w": "comfort", "pos": "noun", "tr": "комфорт", "ex": "This chair gives comfort.", "exRu": "Этот стул даёт комфорт.", "colloc": "comfort zone"}
+{"i": 463, "id": "a2-0464", "w": "comment", "pos": "noun", "tr": "комментарий", "ex": "Leave a short comment.", "exRu": "Оставь короткий комментарий.", "colloc": "make a comment"}
+{"i": 464, "id": "a2-0465", "w": "commerce", "pos": "noun", "tr": "торговля", "ex": "Online commerce is growing.", "exRu": "Онлайн-торговля растёт.", "colloc": "e-commerce"}
+{"i": 465, "id": "a2-0466", "w": "communication", "pos": "noun", "tr": "общение", "ex": "Good communication matters.", "exRu": "Хорошее общение важно.", "colloc": "communication skills"}
+{"i": 466, "id": "a2-0467", "w": "community", "pos": "noun", "tr": "сообщество", "ex": "Help your local community.", "exRu": "Помоги местному сообществу.", "colloc": "community center"}
+{"i": 467, "id": "a2-0468", "w": "company", "pos": "noun", "tr": "компания", "ex": "She works for a big company.", "exRu": "Она работает в большой компании.", "colloc": "company policy"}
+{"i": 468, "id": "a2-0469", "w": "comparison", "pos": "noun", "tr": "сравнение", "ex": "Make a fair comparison.", "exRu": "Сделай честное сравнение.", "colloc": "in comparison"}
+{"i": 469, "id": "a2-0470", "w": "competition", "pos": "noun", "tr": "соревнование", "ex": "Join the writing competition.", "exRu": "Участвуй в конкурсе сочинений.", "colloc": "enter a competition"}
+{"i": 470, "id": "a2-0471", "w": "complaint", "pos": "noun", "tr": "жалоба", "ex": "File a formal complaint.", "exRu": "Подай официальную жалобу.", "colloc": "make a complaint"}
+{"i": 471, "id": "a2-0472", "w": "concept", "pos": "noun", "tr": "понятие", "ex": "Explain the main concept.", "exRu": "Объясни главное понятие.", "colloc": "basic concept"}
+{"i": 472, "id": "a2-0473", "w": "concern", "pos": "noun", "tr": "беспокойство", "ex": "Pollution is a major concern.", "exRu": "Загрязнение — серьёзная проблема.", "colloc": "cause for concern"}
+{"i": 473, "id": "a2-0474", "w": "concert", "pos": "noun", "tr": "концерт", "ex": "We bought concert tickets.", "exRu": "Мы купили билеты на концерт.", "colloc": "live concert"}
+{"i": 474, "id": "a2-0475", "w": "conclusion", "pos": "noun", "tr": "вывод", "ex": "Write a clear conclusion.", "exRu": "Напиши ясный вывод.", "colloc": "in conclusion"}
+{"i": 475, "id": "a2-0476", "w": "condition", "pos": "noun", "tr": "состояние, условие", "ex": "The car is in good condition.", "exRu": "Машина в хорошем состоянии.", "colloc": "living conditions"}
+{"i": 476, "id": "a2-0477", "w": "conference", "pos": "noun", "tr": "конференция", "ex": "She spoke at a conference.", "exRu": "Она выступила на конференции.", "colloc": "press conference"}
+{"i": 477, "id": "a2-0478", "w": "confidence", "pos": "noun", "tr": "уверенность", "ex": "Practice builds confidence.", "exRu": "Практика укрепляет уверенность.", "colloc": "gain confidence"}
+{"i": 478, "id": "a2-0479", "w": "conflict", "pos": "noun", "tr": "конфликт", "ex": "Avoid unnecessary conflict.", "exRu": "Избегай ненужного конфликта.", "colloc": "resolve a conflict"}
+{"i": 479, "id": "a2-0480", "w": "confusion", "pos": "noun", "tr": "путаница", "ex": "There was some confusion.", "exRu": "Была некоторая путаница.", "colloc": "cause confusion"}
+{"i": 480, "id": "a2-0481", "w": "connection", "pos": "noun", "tr": "связь", "ex": "Check your internet connection.", "exRu": "Проверь интернет-соединение.", "colloc": "make a connection"}
+{"i": 481, "id": "a2-0482", "w": "consequence", "pos": "noun", "tr": "последствие", "ex": "Think about the consequences.", "exRu": "Подумай о последствиях.", "colloc": "as a consequence"}
+{"i": 482, "id": "a2-0483", "w": "conservation", "pos": "noun", "tr": "охрана природы", "ex": "Wildlife conservation matters.", "exRu": "Охрана дикой природы важна.", "colloc": "energy conservation"}
+{"i": 483, "id": "a2-0484", "w": "consideration", "pos": "noun", "tr": "внимание, учёт", "ex": "Take cost into consideration.", "exRu": "Учти стоимость.", "colloc": "under consideration"}
+{"i": 484, "id": "a2-0485", "w": "construction", "pos": "noun", "tr": "строительство", "ex": "Construction starts next month.", "exRu": "Строительство начнётся в следующем месяце.", "colloc": "under construction"}
+{"i": 485, "id": "a2-0486", "w": "consumer", "pos": "noun", "tr": "потребитель", "ex": "Consumers want fair prices.", "exRu": "Потребители хотят честных цен.", "colloc": "consumer rights"}
+{"i": 486, "id": "a2-0487", "w": "contact", "pos": "noun", "tr": "контакт", "ex": "Save my contact details.", "exRu": "Сохрани мои контакты.", "colloc": "contact information"}
+{"i": 487, "id": "a2-0488", "w": "container", "pos": "noun", "tr": "контейнер", "ex": "Put leftovers in a container.", "exRu": "Положи остатки в контейнер.", "colloc": "plastic container"}
+{"i": 488, "id": "a2-0489", "w": "content", "pos": "noun", "tr": "содержание", "ex": "Check the package contents.", "exRu": "Проверь содержимое посылки.", "colloc": "table of contents"}
+{"i": 489, "id": "a2-0490", "w": "contest", "pos": "noun", "tr": "конкурс", "ex": "She won the cooking contest.", "exRu": "Она выиграла кулинарный конкурс.", "colloc": "enter a contest"}
+{"i": 490, "id": "a2-0491", "w": "context", "pos": "noun", "tr": "контекст", "ex": "Guess the meaning from context.", "exRu": "Угадай значение из контекста.", "colloc": "in context"}
+{"i": 491, "id": "a2-0492", "w": "contract", "pos": "noun", "tr": "контракт", "ex": "Read the contract carefully.", "exRu": "Внимательно прочитай контракт.", "colloc": "sign a contract"}
+{"i": 492, "id": "a2-0493", "w": "contrast", "pos": "noun", "tr": "контраст", "ex": "Notice the sharp contrast.", "exRu": "Заметь резкий контраст.", "colloc": "in contrast"}
+{"i": 493, "id": "a2-0494", "w": "contribution", "pos": "noun", "tr": "вклад", "ex": "Thank you for your contribution.", "exRu": "Спасибо за твой вклад.", "colloc": "make a contribution"}
+{"i": 494, "id": "a2-0495", "w": "convenience", "pos": "noun", "tr": "удобство", "ex": "Online shopping offers convenience.", "exRu": "Онлайн-покупки дают удобство.", "colloc": "for convenience"}
+{"i": 495, "id": "a2-0496", "w": "conversation", "pos": "noun", "tr": "разговор", "ex": "We had a long conversation.", "exRu": "У нас был долгий разговор.", "colloc": "start a conversation"}
+{"i": 496, "id": "a2-0497", "w": "cooker", "pos": "noun", "tr": "плита", "ex": "Turn off the cooker.", "exRu": "Выключи плиту.", "colloc": "pressure cooker"}
+{"i": 497, "id": "a2-0498", "w": "corner", "pos": "noun", "tr": "угол", "ex": "Meet me at the corner.", "exRu": "Встреть меня на углу.", "colloc": ""}
+{"i": 498, "id": "a2-0499", "w": "costume", "pos": "noun", "tr": "костюм", "ex": "She wore a festival costume.", "exRu": "Она надела праздничный костюм.", "colloc": "Halloween costume"}
+{"i": 499, "id": "a2-0500", "w": "cottage", "pos": "noun", "tr": "коттедж", "ex": "We stayed in a cottage.", "exRu": "Мы остановились в коттедже.", "colloc": "country cottage"}
+{"i": 500, "id": "a2-0501", "w": "cotton", "pos": "noun", "tr": "хлопок", "ex": "This shirt is pure cotton.", "exRu": "Эта рубашка из чистого хлопка.", "colloc": "cotton fabric"}
+{"i": 501, "id": "a2-0502", "w": "cough", "pos": "noun", "tr": "кашель", "ex": "He has a bad cough.", "exRu": "У него сильный кашель.", "colloc": "dry cough"}
+{"i": 502, "id": "a2-0503", "w": "council", "pos": "noun", "tr": "совет", "ex": "The city council meets weekly.", "exRu": "Городской совет встречается еженедельно.", "colloc": "town council"}
+{"i": 503, "id": "a2-0504", "w": "countryside", "pos": "noun", "tr": "сельская местность", "ex": "I love the quiet countryside.", "exRu": "Люблю тихую сельскую местность.", "colloc": "in the countryside"}
+{"i": 504, "id": "a2-0505", "w": "couple", "pos": "noun", "tr": "пара", "ex": "A young couple walked by.", "exRu": "Мимо прошла молодая пара.", "colloc": "a couple of"}
+{"i": 505, "id": "a2-0506", "w": "courage", "pos": "noun", "tr": "смелость", "ex": "She showed great courage.", "exRu": "Она проявила большую смелость.", "colloc": "have the courage"}
+{"i": 506, "id": "a2-0507", "w": "course", "pos": "noun", "tr": "курс", "ex": "I take an online course.", "exRu": "Я прохожу онлайн-курс.", "colloc": "of course"}
+{"i": 507, "id": "a2-0508", "w": "court", "pos": "noun", "tr": "суд, корт", "ex": "The case went to court.", "exRu": "Дело дошло до суда.", "colloc": "tennis court"}
+{"i": 508, "id": "a2-0509", "w": "cover", "pos": "noun", "tr": "обложка, крышка", "ex": "Design an attractive cover.", "exRu": "Сделай привлекательную обложку.", "colloc": "book cover"}
+{"i": 509, "id": "a2-0510", "w": "crash", "pos": "noun", "tr": "авария, сбой", "ex": "There was a plane crash.", "exRu": "Произошла авиакатастрофа.", "colloc": "car crash"}
+{"i": 510, "id": "a2-0511", "w": "cream", "pos": "noun", "tr": "крем", "ex": "Add cream to the coffee.", "exRu": "Добавь сливки в кофе.", "colloc": "ice cream"}
+{"i": 511, "id": "a2-0512", "w": "creation", "pos": "noun", "tr": "создание", "ex": "Art is a form of creation.", "exRu": "Искусство — форма создания.", "colloc": "creation of"}
+{"i": 512, "id": "a2-0513", "w": "creature", "pos": "noun", "tr": "существо", "ex": "A strange creature appeared.", "exRu": "Появилось странное существо.", "colloc": "living creature"}
+{"i": 513, "id": "a2-0514", "w": "credit", "pos": "noun", "tr": "кредит", "ex": "Pay by credit card.", "exRu": "Плати кредитной картой.", "colloc": "credit score"}
+{"i": 514, "id": "a2-0515", "w": "crew", "pos": "noun", "tr": "экипаж", "ex": "The crew prepared for takeoff.", "exRu": "Экипаж готовился к взлёту.", "colloc": "cabin crew"}
+{"i": 515, "id": "a2-0516", "w": "crime", "pos": "noun", "tr": "преступление", "ex": "Crime rates are falling.", "exRu": "Уровень преступности падает.", "colloc": "commit a crime"}
+{"i": 516, "id": "a2-0517", "w": "criminal", "pos": "noun", "tr": "преступник", "ex": "Police caught the criminal.", "exRu": "Полиция поймала преступника.", "colloc": "criminal record"}
+{"i": 517, "id": "a2-0518", "w": "crisis", "pos": "noun", "tr": "кризис", "ex": "They faced a money crisis.", "exRu": "Они столкнулись с денежным кризисом.", "colloc": "energy crisis"}
+{"i": 518, "id": "a2-0519", "w": "critic", "pos": "noun", "tr": "критик", "ex": "The critic liked the film.", "exRu": "Критик высоко оценил фильм.", "colloc": "film critic"}
+{"i": 519, "id": "a2-0520", "w": "criticism", "pos": "noun", "tr": "критика", "ex": "Accept fair criticism.", "exRu": "Принимай справедливую критику.", "colloc": "constructive criticism"}
+{"i": 520, "id": "a2-0521", "w": "crop", "pos": "noun", "tr": "урожай", "ex": "Farmers harvest the crop.", "exRu": "Фермеры собирают урожай.", "colloc": "crop failure"}
+{"i": 521, "id": "a2-0522", "w": "crossing", "pos": "noun", "tr": "переход", "ex": "Use the pedestrian crossing.", "exRu": "Используй пешеходный переход.", "colloc": "border crossing"}
+{"i": 522, "id": "a2-0523", "w": "crowd", "pos": "noun", "tr": "толпа", "ex": "A crowd gathered outside.", "exRu": "Снаружи собралась толпа.", "colloc": "crowd of people"}
+{"i": 523, "id": "a2-0524", "w": "crown", "pos": "noun", "tr": "корона", "ex": "The queen wore a crown.", "exRu": "Королева носила корону.", "colloc": "crown jewel"}
+{"i": 524, "id": "a2-0525", "w": "cruelty", "pos": "noun", "tr": "жестокость", "ex": "Stop animal cruelty.", "exRu": "Останови жестокость к животным.", "colloc": "act of cruelty"}
+{"i": 525, "id": "a2-0526", "w": "culture", "pos": "noun", "tr": "культура", "ex": "Learn about local culture.", "exRu": "Изучи местную культуру.", "colloc": "popular culture"}
+{"i": 526, "id": "a2-0527", "w": "cupboard", "pos": "noun", "tr": "шкаф", "ex": "Plates are in the cupboard.", "exRu": "Тарелки в шкафу.", "colloc": "kitchen cupboard"}
+{"i": 527, "id": "a2-0528", "w": "cure", "pos": "noun", "tr": "лекарство, лечение", "ex": "Scientists seek a cure.", "exRu": "Учёные ищут лекарство.", "colloc": "find a cure"}
+{"i": 528, "id": "a2-0529", "w": "curiosity", "pos": "noun", "tr": "любопытство", "ex": "Curiosity drives learning.", "exRu": "Любопытство движет обучением.", "colloc": "out of curiosity"}
+{"i": 529, "id": "a2-0530", "w": "currency", "pos": "noun", "tr": "валюта", "ex": "Exchange your currency here.", "exRu": "Обменяй валюту здесь.", "colloc": "foreign currency"}
+{"i": 530, "id": "a2-0531", "w": "curve", "pos": "noun", "tr": "изгиб", "ex": "The road has a sharp curve.", "exRu": "У дороги крутой поворот.", "colloc": "learning curve"}
+{"i": 531, "id": "a2-0532", "w": "custom", "pos": "noun", "tr": "обычай", "ex": "Respect local customs.", "exRu": "Уважай местные обычаи.", "colloc": "local custom"}
+{"i": 532, "id": "a2-0533", "w": "customer", "pos": "noun", "tr": "клиент", "ex": "The customer asked politely.", "exRu": "Клиент вежливо спросил.", "colloc": "customer service"}
+{"i": 533, "id": "a2-0534", "w": "cycle", "pos": "noun", "tr": "цикл", "ex": "Water moves in a cycle.", "exRu": "Вода движется в цикле.", "colloc": "life cycle"}
+{"i": 534, "id": "a2-0535", "w": "danger", "pos": "noun", "tr": "опасность", "ex": "Keep children out of danger.", "exRu": "Держи детей вдали от опасности.", "colloc": "in danger"}
+{"i": 535, "id": "a2-0536", "w": "darkness", "pos": "noun", "tr": "темнота", "ex": "Darkness filled the room.", "exRu": "Темнота наполнила комнату.", "colloc": "in the darkness"}
+{"i": 536, "id": "a2-0537", "w": "data", "pos": "noun", "tr": "данные", "ex": "Save your data regularly.", "exRu": "Регулярно сохраняй данные.", "colloc": "personal data"}
+{"i": 537, "id": "a2-0538", "w": "deadline", "pos": "noun", "tr": "срок", "ex": "Meet the project deadline.", "exRu": "Уложись в срок проекта.", "colloc": "miss a deadline"}
+{"i": 538, "id": "a2-0539", "w": "debate", "pos": "noun", "tr": "дебаты", "ex": "Join the class debate.", "exRu": "Участвуй в классных дебатах.", "colloc": "public debate"}
+{"i": 539, "id": "a2-0540", "w": "debt", "pos": "noun", "tr": "долг", "ex": "Pay off your debt.", "exRu": "Погаси долг.", "colloc": "in debt"}
+{"i": 540, "id": "a2-0541", "w": "decision", "pos": "noun", "tr": "решение", "ex": "Make a careful decision.", "exRu": "Прими осторожное решение.", "colloc": "final decision"}
+{"i": 541, "id": "a2-0542", "w": "decrease", "pos": "noun", "tr": "снижение", "ex": "There was a price decrease.", "exRu": "Было снижение цены.", "colloc": "decrease in"}
+{"i": 542, "id": "a2-0543", "w": "defeat", "pos": "noun", "tr": "поражение", "ex": "Accept defeat gracefully.", "exRu": "Прими поражение достойно.", "colloc": "suffer a defeat"}
+{"i": 543, "id": "a2-0544", "w": "defense", "pos": "noun", "tr": "защита", "ex": "The team played good defense.", "exRu": "Команда хорошо защищалась.", "colloc": "self-defense"}
+{"i": 544, "id": "a2-0545", "w": "degree", "pos": "noun", "tr": "степень, градус", "ex": "She has a science degree.", "exRu": "У неё степень по науке.", "colloc": "university degree"}
+{"i": 545, "id": "a2-0546", "w": "delay", "pos": "noun", "tr": "задержка", "ex": "There was a flight delay.", "exRu": "Была задержка рейса.", "colloc": "without delay"}
+{"i": 546, "id": "a2-0547", "w": "delivery", "pos": "noun", "tr": "доставка", "ex": "Free delivery takes two days.", "exRu": "Бесплатная доставка занимает два дня.", "colloc": "home delivery"}
+{"i": 547, "id": "a2-0548", "w": "demand", "pos": "noun", "tr": "спрос", "ex": "Demand for tickets is high.", "exRu": "Спрос на билеты высокий.", "colloc": "in demand"}
+{"i": 548, "id": "a2-0549", "w": "department", "pos": "noun", "tr": "отдел", "ex": "She works in the sales department.", "exRu": "Она работает в отделе продаж.", "colloc": "department store"}
+{"i": 549, "id": "a2-0550", "w": "departure", "pos": "noun", "tr": "отправление", "ex": "Check the departure time.", "exRu": "Проверь время отправления.", "colloc": "departure gate"}
+{"i": 550, "id": "a2-0551", "w": "deposit", "pos": "noun", "tr": "депозит", "ex": "Pay a hotel deposit.", "exRu": "Внеси депозит в отеле.", "colloc": "security deposit"}
+{"i": 551, "id": "a2-0552", "w": "depth", "pos": "noun", "tr": "глубина", "ex": "Measure the pool depth.", "exRu": "Измерь глубину бассейна.", "colloc": "in depth"}
+{"i": 552, "id": "a2-0553", "w": "description", "pos": "noun", "tr": "описание", "ex": "Write a short description.", "exRu": "Напиши короткое описание.", "colloc": "job description"}
+{"i": 553, "id": "a2-0554", "w": "desert", "pos": "noun", "tr": "пустыня", "ex": "Camels cross the desert.", "exRu": "Верблюды пересекают пустыню.", "colloc": "desert climate"}
+{"i": 554, "id": "a2-0555", "w": "designer", "pos": "noun", "tr": "дизайнер", "ex": "She is a fashion designer.", "exRu": "Она модельер.", "colloc": "graphic designer"}
+{"i": 555, "id": "a2-0556", "w": "desire", "pos": "noun", "tr": "желание", "ex": "He has a strong desire.", "exRu": "У него сильное желание.", "colloc": "desire for"}
+{"i": 556, "id": "a2-0557", "w": "detail", "pos": "noun", "tr": "деталь", "ex": "Explain every detail.", "exRu": "Объясни каждую деталь.", "colloc": "in detail"}
+{"i": 557, "id": "a2-0558", "w": "detective", "pos": "noun", "tr": "детектив", "ex": "The detective asked questions.", "exRu": "Детектив задавал вопросы.", "colloc": "private detective"}
+{"i": 558, "id": "a2-0559", "w": "development", "pos": "noun", "tr": "развитие", "ex": "Watch the child's development.", "exRu": "Наблюдай за развитием ребёнка.", "colloc": "personal development"}
+{"i": 559, "id": "a2-0560", "w": "device", "pos": "noun", "tr": "устройство", "ex": "Charge your device overnight.", "exRu": "Заряжай устройство ночью.", "colloc": "mobile device"}
+{"i": 560, "id": "a2-0561", "w": "diagram", "pos": "noun", "tr": "схема", "ex": "Label the diagram carefully.", "exRu": "Аккуратно подпиши схему.", "colloc": "flow diagram"}
+{"i": 561, "id": "a2-0562", "w": "dialogue", "pos": "noun", "tr": "диалог", "ex": "Practice the dialogue aloud.", "exRu": "Практикуй диалог вслух.", "colloc": "open a dialogue"}
+{"i": 562, "id": "a2-0563", "w": "diamond", "pos": "noun", "tr": "бриллиант", "ex": "She wore a diamond ring.", "exRu": "Она носила кольцо с бриллиантом.", "colloc": "diamond necklace"}
+{"i": 563, "id": "a2-0564", "w": "diary", "pos": "noun", "tr": "дневник", "ex": "Write in your diary daily.", "exRu": "Пиши в дневнике ежедневно.", "colloc": "keep a diary"}
+{"i": 564, "id": "a2-0565", "w": "dictionary", "pos": "noun", "tr": "словарь", "ex": "Look it up in a dictionary.", "exRu": "Посмотри в словаре.", "colloc": "online dictionary"}
+{"i": 565, "id": "a2-0566", "w": "diet", "pos": "noun", "tr": "диета", "ex": "A balanced diet helps.", "exRu": "Сбалансированная диета помогает.", "colloc": "on a diet"}
+{"i": 566, "id": "a2-0567", "w": "difference", "pos": "noun", "tr": "разница", "ex": "Notice the small difference.", "exRu": "Заметь небольшую разницу.", "colloc": "make a difference"}
+{"i": 567, "id": "a2-0568", "w": "difficulty", "pos": "noun", "tr": "трудность", "ex": "He faced many difficulties.", "exRu": "Он столкнулся со многими трудностями.", "colloc": "have difficulty"}
+{"i": 568, "id": "a2-0569", "w": "direction", "pos": "noun", "tr": "направление", "ex": "Ask for directions politely.", "exRu": "Вежливо спроси дорогу.", "colloc": "in the direction of"}
+{"i": 569, "id": "a2-0570", "w": "director", "pos": "noun", "tr": "директор", "ex": "The director called a meeting.", "exRu": "Директор созвал встречу.", "colloc": "film director"}
+{"i": 570, "id": "a2-0571", "w": "dirt", "pos": "noun", "tr": "грязь", "ex": "Wash the dirt off your hands.", "exRu": "Смой грязь с рук.", "colloc": "dirt road"}
+{"i": 571, "id": "a2-0572", "w": "disadvantage", "pos": "noun", "tr": "недостаток", "ex": "Every plan has disadvantages.", "exRu": "У каждого плана есть недостатки.", "colloc": "at a disadvantage"}
+{"i": 572, "id": "a2-0573", "w": "disagreement", "pos": "noun", "tr": "разногласие", "ex": "They settled their disagreement.", "exRu": "Они уладили разногласие.", "colloc": "in disagreement"}
+{"i": 573, "id": "a2-0574", "w": "disaster", "pos": "noun", "tr": "катастрофа", "ex": "The flood was a disaster.", "exRu": "Наводнение было катастрофой.", "colloc": "natural disaster"}
+{"i": 574, "id": "a2-0575", "w": "discount", "pos": "noun", "tr": "скидка", "ex": "Students get a discount.", "exRu": "Студенты получают скидку.", "colloc": "discount price"}
+{"i": 575, "id": "a2-0576", "w": "discovery", "pos": "noun", "tr": "открытие", "ex": "That was an exciting discovery.", "exRu": "Это было захватывающее открытие.", "colloc": "make a discovery"}
+{"i": 576, "id": "a2-0577", "w": "discussion", "pos": "noun", "tr": "обсуждение", "ex": "Join the group discussion.", "exRu": "Участвуй в групповом обсуждении.", "colloc": "under discussion"}
+{"i": 577, "id": "a2-0578", "w": "disease", "pos": "noun", "tr": "болезнь", "ex": "Exercise can prevent disease.", "exRu": "Спорт может предотвратить болезнь.", "colloc": "heart disease"}
+{"i": 578, "id": "a2-0579", "w": "dish", "pos": "noun", "tr": "блюдо", "ex": "Try a local dish.", "exRu": "Попробуй местное блюдо.", "colloc": "do the dishes"}
+{"i": 579, "id": "a2-0580", "w": "disk", "pos": "noun", "tr": "диск", "ex": "Save files to the disk.", "exRu": "Сохрани файлы на диск.", "colloc": "hard disk"}
+{"i": 580, "id": "a2-0581", "w": "display", "pos": "noun", "tr": "дисплей", "ex": "The display is bright.", "exRu": "Дисплей яркий.", "colloc": "window display"}
+{"i": 581, "id": "a2-0582", "w": "distance", "pos": "noun", "tr": "расстояние", "ex": "Measure the distance carefully.", "exRu": "Тщательно измерь расстояние.", "colloc": "long distance"}
+{"i": 582, "id": "a2-0583", "w": "district", "pos": "noun", "tr": "район", "ex": "I live in this district.", "exRu": "Я живу в этом районе.", "colloc": "school district"}
+{"i": 583, "id": "a2-0584", "w": "document", "pos": "noun", "tr": "документ", "ex": "Sign the official document.", "exRu": "Подпиши официальный документ.", "colloc": "travel document"}
+{"i": 584, "id": "a2-0585", "w": "donation", "pos": "noun", "tr": "пожертвование", "ex": "Thank you for your donation.", "exRu": "Спасибо за пожертвование.", "colloc": "make a donation"}
+{"i": 585, "id": "a2-0586", "w": "dot", "pos": "noun", "tr": "точка", "ex": "Put a dot at the end.", "exRu": "Поставь точку в конце.", "colloc": "polka dots"}
+{"i": 586, "id": "a2-0587", "w": "drama", "pos": "noun", "tr": "драма", "ex": "She studies drama at school.", "exRu": "Она изучает драму в школе.", "colloc": "drama series"}
+{"i": 587, "id": "a2-0588", "w": "drawer", "pos": "noun", "tr": "ящик", "ex": "Keys are in the drawer.", "exRu": "Ключи в ящике.", "colloc": "top drawer"}
+{"i": 588, "id": "a2-0589", "w": "drawing", "pos": "noun", "tr": "рисунок", "ex": "Her drawing is beautiful.", "exRu": "Её рисунок прекрасен.", "colloc": "pencil drawing"}
+{"i": 589, "id": "a2-0590", "w": "dream", "pos": "noun", "tr": "мечта, сон", "ex": "Follow your dream.", "exRu": "Следуй за мечтой.", "colloc": "bad dream"}
+{"i": 590, "id": "a2-0591", "w": "drug", "pos": "noun", "tr": "лекарство, наркотик", "ex": "Take this drug after meals.", "exRu": "Прими это лекарство после еды.", "colloc": "prescription drug"}
+{"i": 591, "id": "a2-0592", "w": "drum", "pos": "noun", "tr": "барабан", "ex": "He plays the drums.", "exRu": "Он играет на барабанах.", "colloc": "drum kit"}
+{"i": 592, "id": "a2-0593", "w": "dust", "pos": "noun", "tr": "пыль", "ex": "Wipe the dust carefully.", "exRu": "Осторожно сотри пыль.", "colloc": "dust cloud"}
+{"i": 593, "id": "a2-0594", "w": "duty", "pos": "noun", "tr": "обязанность", "ex": "It is my duty to help.", "exRu": "Моя обязанность — помогать.", "colloc": "on duty"}
+{"i": 594, "id": "a2-0595", "w": "earring", "pos": "noun", "tr": "серьга", "ex": "She lost an earring.", "exRu": "Она потеряла серьгу.", "colloc": "gold earring"}
+{"i": 595, "id": "a2-0596", "w": "earthquake", "pos": "noun", "tr": "землетрясение", "ex": "An earthquake shook the city.", "exRu": "Землетрясение тряхнуло город.", "colloc": "earthquake warning"}
+{"i": 596, "id": "a2-0597", "w": "economy", "pos": "noun", "tr": "экономика", "ex": "The economy is growing.", "exRu": "Экономика растёт.", "colloc": "local economy"}
+{"i": 597, "id": "a2-0598", "w": "edge", "pos": "noun", "tr": "край", "ex": "Stay away from the edge.", "exRu": "Держись подальше от края.", "colloc": "on the edge"}
+{"i": 598, "id": "a2-0599", "w": "editor", "pos": "noun", "tr": "редактор", "ex": "The editor checked the text.", "exRu": "Редактор проверил текст.", "colloc": "newspaper editor"}
+{"i": 599, "id": "a2-0600", "w": "education", "pos": "noun", "tr": "образование", "ex": "Education opens doors.", "exRu": "Образование открывает двери.", "colloc": "higher education"}
+{"i": 600, "id": "a2-0601", "w": "ancient", "pos": "adj", "tr": "древний", "ex": "We visited an ancient temple.", "exRu": "Мы посетили древний храм.", "colloc": "ancient history"}
+{"i": 601, "id": "a2-0602", "w": "basic", "pos": "adj", "tr": "базовый", "ex": "Learn the basic rules first.", "exRu": "Сначала выучи базовые правила.", "colloc": "basic skills"}
+{"i": 602, "id": "a2-0603", "w": "brief", "pos": "adj", "tr": "краткий", "ex": "Give a brief summary.", "exRu": "Дай краткое резюме.", "colloc": "brief meeting"}
+{"i": 603, "id": "a2-0604", "w": "brilliant", "pos": "adj", "tr": "блестящий", "ex": "That was a brilliant idea.", "exRu": "Это была блестящая идея.", "colloc": "brilliant student"}
+{"i": 604, "id": "a2-0605", "w": "broad", "pos": "adj", "tr": "широкий", "ex": "A broad smile appeared.", "exRu": "Появилась широкая улыбка.", "colloc": "broad shoulders"}
+{"i": 605, "id": "a2-0606", "w": "calm", "pos": "adj", "tr": "спокойный", "ex": "Stay calm during exams.", "exRu": "Сохраняй спокойствие на экзаменах.", "colloc": "calm voice"}
+{"i": 606, "id": "a2-0607", "w": "classic", "pos": "adj", "tr": "классический", "ex": "I love classic films.", "exRu": "Я люблю классические фильмы.", "colloc": "classic style"}
+{"i": 607, "id": "a2-0608", "w": "common", "pos": "adj", "tr": "обычный, общий", "ex": "This is a common problem.", "exRu": "Это обычная проблема.", "colloc": "common sense"}
+{"i": 608, "id": "a2-0609", "w": "complex", "pos": "adj", "tr": "сложный", "ex": "This is a complex problem.", "exRu": "Это сложная проблема.", "colloc": "complex system"}
+{"i": 609, "id": "a2-0610", "w": "current", "pos": "adj", "tr": "текущий", "ex": "Check the current price.", "exRu": "Проверь текущую цену.", "colloc": "current events"}
+{"i": 610, "id": "a2-0611", "w": "digital", "pos": "adj", "tr": "цифровой", "ex": "I prefer digital photos.", "exRu": "Я предпочитаю цифровые фото.", "colloc": "digital age"}
+{"i": 611, "id": "a2-0612", "w": "domestic", "pos": "adj", "tr": "домашний, внутренний", "ex": "Book a domestic flight.", "exRu": "Забронируй внутренний рейс.", "colloc": "domestic product"}
+{"i": 612, "id": "a2-0613", "w": "equal", "pos": "adj", "tr": "равный", "ex": "All people are equal.", "exRu": "Все люди равны.", "colloc": "equal rights"}
+{"i": 613, "id": "a2-0614", "w": "extra", "pos": "adj", "tr": "дополнительный", "ex": "Do you need extra time?", "exRu": "Тебе нужно дополнительное время?", "colloc": "extra charge"}
+{"i": 614, "id": "a2-0615", "w": "female", "pos": "adj", "tr": "женский", "ex": "The female athlete won.", "exRu": "Женщина-спортсменка победила.", "colloc": "female voice"}
+{"i": 615, "id": "a2-0616", "w": "final", "pos": "adj", "tr": "финальный", "ex": "This is the final test.", "exRu": "Это финальный тест.", "colloc": "final exam"}
+{"i": 616, "id": "a2-0617", "w": "following", "pos": "adj", "tr": "следующий", "ex": "Read the following text.", "exRu": "Прочитай следующий текст.", "colloc": "the following day"}
+{"i": 617, "id": "a2-0618", "w": "formal", "pos": "adj", "tr": "официальный", "ex": "Wear formal clothes tonight.", "exRu": "Надень официальную одежду сегодня вечером.", "colloc": "formal letter"}
+{"i": 618, "id": "a2-0619", "w": "further", "pos": "adj", "tr": "дальнейший", "ex": "Need further information?", "exRu": "Нужна дальнейшая информация?", "colloc": "further details"}
+{"i": 619, "id": "a2-0620", "w": "giant", "pos": "adj", "tr": "гигантский", "ex": "A giant tree fell.", "exRu": "Упало гигантское дерево.", "colloc": "giant size"}
+{"i": 620, "id": "a2-0621", "w": "global", "pos": "adj", "tr": "глобальный", "ex": "Climate is a global issue.", "exRu": "Климат — глобальная проблема.", "colloc": "global market"}
+{"i": 621, "id": "a2-0622", "w": "grand", "pos": "adj", "tr": "величественный", "ex": "They stayed in a grand hotel.", "exRu": "Они остановились в величественном отеле.", "colloc": "grand opening"}
+{"i": 622, "id": "a2-0623", "w": "human", "pos": "adj", "tr": "человеческий", "ex": "Human rights matter.", "exRu": "Права человека важны.", "colloc": "human being"}
+{"i": 623, "id": "a2-0624", "w": "junior", "pos": "adj", "tr": "младший", "ex": "He is a junior employee.", "exRu": "Он младший сотрудник.", "colloc": "junior high"}
+{"i": 624, "id": "a2-0625", "w": "able", "pos": "adj", "tr": "способный", "ex": "She is able to swim.", "exRu": "Она умеет плавать.", "colloc": "be able to"}
+{"i": 625, "id": "a2-0626", "w": "absolute", "pos": "adj", "tr": "абсолютный", "ex": "I need absolute silence.", "exRu": "Мне нужна абсолютная тишина.", "colloc": "absolute certainty"}
+{"i": 626, "id": "a2-0627", "w": "accurate", "pos": "adj", "tr": "точный", "ex": "Give an accurate answer.", "exRu": "Дай точный ответ.", "colloc": "accurate information"}
+{"i": 627, "id": "a2-0628", "w": "active", "pos": "adj", "tr": "активный", "ex": "Stay active every day.", "exRu": "Оставайся активным каждый день.", "colloc": "active lifestyle"}
+{"i": 628, "id": "a2-0629", "w": "actual", "pos": "adj", "tr": "фактический", "ex": "What is the actual cost?", "exRu": "Какова фактическая стоимость?", "colloc": "actual size"}
+{"i": 629, "id": "a2-0630", "w": "additional", "pos": "adj", "tr": "дополнительный", "ex": "Need additional help?", "exRu": "Нужна дополнительная помощь?", "colloc": "additional information"}
+{"i": 630, "id": "a2-0631", "w": "adequate", "pos": "adj", "tr": "достаточный", "ex": "Is the salary adequate?", "exRu": "Достаточна ли зарплата?", "colloc": "adequate supply"}
+{"i": 631, "id": "a2-0632", "w": "advanced", "pos": "adj", "tr": "продвинутый", "ex": "She takes advanced classes.", "exRu": "Она ходит на продвинутые занятия.", "colloc": "advanced level"}
+{"i": 632, "id": "a2-0633", "w": "aggressive", "pos": "adj", "tr": "агрессивный", "ex": "Avoid aggressive drivers.", "exRu": "Избегай агрессивных водителей.", "colloc": "aggressive behavior"}
+{"i": 633, "id": "a2-0634", "w": "amazing", "pos": "adj", "tr": "удивительный", "ex": "The view is amazing.", "exRu": "Вид удивительный.", "colloc": "amazing experience"}
+{"i": 634, "id": "a2-0635", "w": "ambitious", "pos": "adj", "tr": "амбициозный", "ex": "She is an ambitious student.", "exRu": "Она амбициозная студентка.", "colloc": "ambitious plan"}
+{"i": 635, "id": "a2-0636", "w": "annoying", "pos": "adj", "tr": "раздражающий", "ex": "That noise is annoying.", "exRu": "Этот шум раздражает.", "colloc": "annoying habit"}
+{"i": 636, "id": "a2-0637", "w": "annual", "pos": "adj", "tr": "ежегодный", "ex": "We have an annual meeting.", "exRu": "У нас ежегодная встреча.", "colloc": "annual report"}
+{"i": 637, "id": "a2-0638", "w": "anxious", "pos": "adj", "tr": "тревожный", "ex": "She feels anxious before tests.", "exRu": "Она тревожится перед тестами.", "colloc": "anxious about"}
+{"i": 638, "id": "a2-0639", "w": "apparent", "pos": "adj", "tr": "очевидный", "ex": "The problem is apparent.", "exRu": "Проблема очевидна.", "colloc": "apparent reason"}
+{"i": 639, "id": "a2-0640", "w": "appropriate", "pos": "adj", "tr": "подходящий", "ex": "Wear appropriate clothes.", "exRu": "Надень подходящую одежду.", "colloc": "appropriate behavior"}
+{"i": 640, "id": "a2-0641", "w": "asleep", "pos": "adj", "tr": "спящий", "ex": "The baby is asleep.", "exRu": "Малыш спит.", "colloc": "fall asleep"}
+{"i": 641, "id": "a2-0642", "w": "attached", "pos": "adj", "tr": "прикреплённый", "ex": "See the attached file.", "exRu": "См. прикреплённый файл.", "colloc": "attached to"}
+{"i": 642, "id": "a2-0643", "w": "attractive", "pos": "adj", "tr": "привлекательный", "ex": "The offer looks attractive.", "exRu": "Предложение выглядит привлекательным.", "colloc": "attractive price"}
+{"i": 643, "id": "a2-0644", "w": "available", "pos": "adj", "tr": "доступный", "ex": "Is this seat available?", "exRu": "Это место свободно?", "colloc": "available online"}
+{"i": 644, "id": "a2-0645", "w": "aware", "pos": "adj", "tr": "осведомлённый", "ex": "Be aware of the risks.", "exRu": "Будь осведомлён о рисках.", "colloc": "aware of"}
+{"i": 645, "id": "a2-0646", "w": "awful", "pos": "adj", "tr": "ужасный", "ex": "That was an awful movie.", "exRu": "Это был ужасный фильм.", "colloc": "awful weather"}
+{"i": 646, "id": "a2-0647", "w": "awkward", "pos": "adj", "tr": "неловкий", "ex": "An awkward silence followed.", "exRu": "Последовала неловкая тишина.", "colloc": "awkward moment"}
+{"i": 647, "id": "a2-0648", "w": "balanced", "pos": "adj", "tr": "сбалансированный", "ex": "Eat a balanced diet.", "exRu": "Ешь сбалансированную еду.", "colloc": "balanced approach"}
+{"i": 648, "id": "a2-0649", "w": "bare", "pos": "adj", "tr": "голый", "ex": "Walk on bare feet carefully.", "exRu": "Осторожно ходи босиком.", "colloc": "bare minimum"}
+{"i": 649, "id": "a2-0650", "w": "bitter", "pos": "adj", "tr": "горький", "ex": "Dark chocolate tastes bitter.", "exRu": "Тёмный шоколад горький.", "colloc": "bitter cold"}
+{"i": 650, "id": "a2-0651", "w": "blank", "pos": "adj", "tr": "пустой", "ex": "Fill in the blank spaces.", "exRu": "Заполни пустые места.", "colloc": "blank page"}
+{"i": 651, "id": "a2-0652", "w": "blind", "pos": "adj", "tr": "слепой", "ex": "Guide dogs help blind people.", "exRu": "Собаки-поводыри помогают слепым.", "colloc": "blind to"}
+{"i": 652, "id": "a2-0653", "w": "bold", "pos": "adj", "tr": "смелый", "ex": "Make a bold decision.", "exRu": "Прими смелое решение.", "colloc": "bold statement"}
+{"i": 653, "id": "a2-0654", "w": "bound", "pos": "adj", "tr": "направляющийся", "ex": "The train is bound for Boston.", "exRu": "Поезд идёт в Бостон.", "colloc": "bound to"}
+{"i": 654, "id": "a2-0655", "w": "brave", "pos": "adj", "tr": "храбрый", "ex": "Firefighters are brave.", "exRu": "Пожарные храбрые.", "colloc": "brave enough"}
+{"i": 655, "id": "a2-0656", "w": "broken", "pos": "adj", "tr": "сломанный", "ex": "Fix the broken chair.", "exRu": "Почини сломанный стул.", "colloc": "broken heart"}
+{"i": 656, "id": "a2-0657", "w": "capable", "pos": "adj", "tr": "способный", "ex": "She is capable of leading.", "exRu": "Она способна руководить.", "colloc": "capable of"}
+{"i": 657, "id": "a2-0658", "w": "careless", "pos": "adj", "tr": "неосторожный", "ex": "Careless mistakes cost money.", "exRu": "Неосторожные ошибки стоят денег.", "colloc": "careless driver"}
+{"i": 658, "id": "a2-0659", "w": "casual", "pos": "adj", "tr": "повседневный", "ex": "Wear casual clothes Friday.", "exRu": "В пятницу носи повседневную одежду.", "colloc": "casual conversation"}
+{"i": 659, "id": "a2-0660", "w": "central", "pos": "adj", "tr": "центральный", "ex": "Meet at the central station.", "exRu": "Встретимся на центральной станции.", "colloc": "central idea"}
+{"i": 660, "id": "a2-0661", "w": "certain", "pos": "adj", "tr": "уверенный", "ex": "I am certain about this.", "exRu": "Я уверен в этом.", "colloc": "certain amount"}
+{"i": 661, "id": "a2-0662", "w": "challenging", "pos": "adj", "tr": "сложный", "ex": "This task is challenging.", "exRu": "Это задание сложное.", "colloc": "challenging work"}
+{"i": 662, "id": "a2-0663", "w": "cheerful", "pos": "adj", "tr": "весёлый", "ex": "She has a cheerful smile.", "exRu": "У неё весёлая улыбка.", "colloc": "cheerful mood"}
+{"i": 663, "id": "a2-0664", "w": "chief", "pos": "adj", "tr": "главный", "ex": "That is the chief reason.", "exRu": "Это главная причина.", "colloc": "chief executive"}
+{"i": 664, "id": "a2-0665", "w": "clever", "pos": "adj", "tr": "умный", "ex": "That was a clever solution.", "exRu": "Это было умное решение.", "colloc": "clever idea"}
+{"i": 665, "id": "a2-0666", "w": "cloudy", "pos": "adj", "tr": "облачный", "ex": "It is cloudy today.", "exRu": "Сегодня облачно.", "colloc": "cloudy sky"}
+{"i": 666, "id": "a2-0667", "w": "clumsy", "pos": "adj", "tr": "неуклюжий", "ex": "I feel clumsy today.", "exRu": "Сегодня я неуклюж.", "colloc": "clumsy movement"}
+{"i": 667, "id": "a2-0668", "w": "coastal", "pos": "adj", "tr": "прибрежный", "ex": "They live in a coastal town.", "exRu": "Они живут в прибрежном городе.", "colloc": "coastal area"}
+{"i": 668, "id": "a2-0669", "w": "comfortable", "pos": "adj", "tr": "удобный", "ex": "This chair is comfortable.", "exRu": "Этот стул удобный.", "colloc": "feel comfortable"}
+{"i": 669, "id": "a2-0670", "w": "competitive", "pos": "adj", "tr": "конкурентный", "ex": "The market is competitive.", "exRu": "Рынок конкурентный.", "colloc": "competitive price"}
+{"i": 670, "id": "a2-0671", "w": "confident", "pos": "adj", "tr": "уверенный", "ex": "Speak in a confident voice.", "exRu": "Говори уверенным голосом.", "colloc": "confident about"}
+{"i": 671, "id": "a2-0672", "w": "confused", "pos": "adj", "tr": "озадаченный", "ex": "I feel confused now.", "exRu": "Сейчас я озадачен.", "colloc": "confused about"}
+{"i": 672, "id": "a2-0673", "w": "conscious", "pos": "adj", "tr": "сознательный", "ex": "Stay conscious of risks.", "exRu": "Оставайся сознательным к рискам.", "colloc": "conscious decision"}
+{"i": 673, "id": "a2-0674", "w": "constant", "pos": "adj", "tr": "постоянный", "ex": "There is constant noise.", "exRu": "Есть постоянный шум.", "colloc": "constant change"}
+{"i": 674, "id": "a2-0675", "w": "convenient", "pos": "adj", "tr": "удобный", "ex": "Online booking is convenient.", "exRu": "Онлайн-бронирование удобно.", "colloc": "convenient time"}
+{"i": 675, "id": "a2-0676", "w": "crazy", "pos": "adj", "tr": "сумасшедший", "ex": "That idea sounds crazy.", "exRu": "Эта идея звучит безумно.", "colloc": "crazy about"}
+{"i": 676, "id": "a2-0677", "w": "creative", "pos": "adj", "tr": "творческий", "ex": "She is a creative writer.", "exRu": "Она творческий писатель.", "colloc": "creative thinking"}
+{"i": 677, "id": "a2-0678", "w": "critical", "pos": "adj", "tr": "критический", "ex": "This is a critical moment.", "exRu": "Это критический момент.", "colloc": "critical thinking"}
+{"i": 678, "id": "a2-0679", "w": "crowded", "pos": "adj", "tr": "переполненный", "ex": "The subway is crowded.", "exRu": "Метро переполнено.", "colloc": "crowded street"}
+{"i": 679, "id": "a2-0680", "w": "cruel", "pos": "adj", "tr": "жестокий", "ex": "Do not be cruel.", "exRu": "Не будь жестоким.", "colloc": "cruel joke"}
+{"i": 680, "id": "a2-0681", "w": "curious", "pos": "adj", "tr": "любопытный", "ex": "Kids are naturally curious.", "exRu": "Дети от природы любопытны.", "colloc": "curious about"}
+{"i": 681, "id": "a2-0682", "w": "daily", "pos": "adj", "tr": "ежедневный", "ex": "Exercise is a daily habit.", "exRu": "Спорт — ежедневная привычка.", "colloc": "daily routine"}
+{"i": 682, "id": "a2-0683", "w": "damaged", "pos": "adj", "tr": "повреждённый", "ex": "Return the damaged item.", "exRu": "Верни повреждённый товар.", "colloc": "damaged goods"}
+{"i": 683, "id": "a2-0684", "w": "deaf", "pos": "adj", "tr": "глухой", "ex": "She works with deaf children.", "exRu": "Она работает с глухими детьми.", "colloc": "deaf to"}
+{"i": 684, "id": "a2-0685", "w": "decent", "pos": "adj", "tr": "приличный", "ex": "Find a decent hotel.", "exRu": "Найди приличный отель.", "colloc": "decent salary"}
+{"i": 685, "id": "a2-0686", "w": "deep", "pos": "adj", "tr": "глубокий", "ex": "The lake is deep.", "exRu": "Озеро глубокое.", "colloc": "deep sleep"}
+{"i": 686, "id": "a2-0687", "w": "definite", "pos": "adj", "tr": "определённый", "ex": "Give a definite answer.", "exRu": "Дай определённый ответ.", "colloc": "definite plan"}
+{"i": 687, "id": "a2-0688", "w": "delicate", "pos": "adj", "tr": "нежный", "ex": "Handle delicate glass carefully.", "exRu": "Осторожно обращайся с хрупким стеклом.", "colloc": "delicate fabric"}
+{"i": 688, "id": "a2-0689", "w": "delicious", "pos": "adj", "tr": "вкусный", "ex": "This soup is delicious.", "exRu": "Этот суп вкусный.", "colloc": "delicious meal"}
+{"i": 689, "id": "a2-0690", "w": "delighted", "pos": "adj", "tr": "в восторге", "ex": "I am delighted to help.", "exRu": "Я в восторге помочь.", "colloc": "delighted with"}
+{"i": 690, "id": "a2-0691", "w": "depressed", "pos": "adj", "tr": "подавленный", "ex": "She felt depressed after failure.", "exRu": "Она чувствовала себя подавленной.", "colloc": "depressed about"}
+{"i": 691, "id": "a2-0692", "w": "desperate", "pos": "adj", "tr": "отчаянный", "ex": "He made a desperate call.", "exRu": "Он сделал отчаянный звонок.", "colloc": "desperate for"}
+{"i": 692, "id": "a2-0693", "w": "detailed", "pos": "adj", "tr": "подробный", "ex": "Write a detailed report.", "exRu": "Напиши подробный отчёт.", "colloc": "detailed description"}
+{"i": 693, "id": "a2-0694", "w": "determined", "pos": "adj", "tr": "решительный", "ex": "She is determined to succeed.", "exRu": "Она решительно настроена на успех.", "colloc": "determined to"}
+{"i": 694, "id": "a2-0695", "w": "direct", "pos": "adj", "tr": "прямой", "ex": "Take a direct flight.", "exRu": "Возьми прямой рейс.", "colloc": "direct contact"}
+{"i": 695, "id": "a2-0696", "w": "disabled", "pos": "adj", "tr": "с ограниченными возможностями", "ex": "Provide access for disabled visitors.", "exRu": "Обеспечь доступ для посетителей с ограничениями.", "colloc": "disabled parking"}
+{"i": 696, "id": "a2-0697", "w": "disappointed", "pos": "adj", "tr": "разочарованный", "ex": "I feel disappointed today.", "exRu": "Сегодня я разочарован.", "colloc": "disappointed with"}
+{"i": 697, "id": "a2-0698", "w": "distant", "pos": "adj", "tr": "далёкий", "ex": "A distant mountain appeared.", "exRu": "Появилась далёкая гора.", "colloc": "distant relative"}
+{"i": 698, "id": "a2-0699", "w": "distinct", "pos": "adj", "tr": "отчётливый", "ex": "There is a distinct smell.", "exRu": "Есть отчётливый запах.", "colloc": "distinct difference"}
+{"i": 699, "id": "a2-0700", "w": "diverse", "pos": "adj", "tr": "разнообразный", "ex": "Our city is diverse.", "exRu": "Наш город разнообразен.", "colloc": "diverse group"}
+{"i": 700, "id": "a2-0701", "w": "dramatic", "pos": "adj", "tr": "драматичный", "ex": "There was a dramatic change.", "exRu": "Произошло драматичное изменение.", "colloc": "dramatic increase"}
+{"i": 701, "id": "a2-0702", "w": "drunk", "pos": "adj", "tr": "пьяный", "ex": "Never drive when drunk.", "exRu": "Никогда не води пьяным.", "colloc": "drunk driver"}
+{"i": 702, "id": "a2-0703", "w": "due", "pos": "adj", "tr": "должный", "ex": "The rent is due today.", "exRu": "Аренда должна быть сегодня.", "colloc": "due to"}
+{"i": 703, "id": "a2-0704", "w": "dull", "pos": "adj", "tr": "скучный", "ex": "The lecture was dull.", "exRu": "Лекция была скучной.", "colloc": "dull weather"}
+{"i": 704, "id": "a2-0705", "w": "eager", "pos": "adj", "tr": "стремящийся", "ex": "Students are eager to learn.", "exRu": "Ученики стремятся учиться.", "colloc": "eager for"}
+{"i": 705, "id": "a2-0706", "w": "eastern", "pos": "adj", "tr": "восточный", "ex": "We live on the eastern coast.", "exRu": "Мы живём на восточном побережье.", "colloc": "eastern side"}
+{"i": 706, "id": "a2-0707", "w": "economic", "pos": "adj", "tr": "экономический", "ex": "Economic growth is slow.", "exRu": "Экономический рост медленный.", "colloc": "economic problem"}
+{"i": 707, "id": "a2-0708", "w": "educated", "pos": "adj", "tr": "образованный", "ex": "She is highly educated.", "exRu": "Она высокообразованна.", "colloc": "well educated"}
+{"i": 708, "id": "a2-0709", "w": "effective", "pos": "adj", "tr": "эффективный", "ex": "Find an effective method.", "exRu": "Найди эффективный метод.", "colloc": "effective solution"}
+{"i": 709, "id": "a2-0710", "w": "efficient", "pos": "adj", "tr": "результативный", "ex": "This machine is efficient.", "exRu": "Эта машина результативна.", "colloc": "efficient system"}
+{"i": 710, "id": "a2-0711", "w": "elderly", "pos": "adj", "tr": "пожилой", "ex": "Help elderly neighbors.", "exRu": "Помогай пожилым соседям.", "colloc": "elderly people"}
+{"i": 711, "id": "a2-0712", "w": "electric", "pos": "adj", "tr": "электрический", "ex": "Buy an electric car.", "exRu": "Купи электромобиль.", "colloc": "electric power"}
+{"i": 712, "id": "a2-0713", "w": "elegant", "pos": "adj", "tr": "элегантный", "ex": "She wore an elegant dress.", "exRu": "Она надела элегантное платье.", "colloc": "elegant style"}
+{"i": 713, "id": "a2-0714", "w": "embarrassed", "pos": "adj", "tr": "смущённый", "ex": "He felt embarrassed.", "exRu": "Он почувствовал себя смущённым.", "colloc": "embarrassed by"}
+{"i": 714, "id": "a2-0715", "w": "emotional", "pos": "adj", "tr": "эмоциональный", "ex": "It was an emotional moment.", "exRu": "Это был эмоциональный момент.", "colloc": "emotional support"}
+{"i": 715, "id": "a2-0716", "w": "endless", "pos": "adj", "tr": "бесконечный", "ex": "The desert looks endless.", "exRu": "Пустыня выглядит бесконечной.", "colloc": "endless possibilities"}
+{"i": 716, "id": "a2-0717", "w": "energetic", "pos": "adj", "tr": "энергичный", "ex": "Kids feel energetic outdoors.", "exRu": "Дети энергичны на улице.", "colloc": "energetic person"}
+{"i": 717, "id": "a2-0718", "w": "enormous", "pos": "adj", "tr": "огромный", "ex": "An enormous crowd gathered.", "exRu": "Собралась огромная толпа.", "colloc": "enormous amount"}
+{"i": 718, "id": "a2-0719", "w": "entire", "pos": "adj", "tr": "весь", "ex": "I spent the entire day reading.", "exRu": "Я провёл весь день за чтением.", "colloc": "entire family"}
+{"i": 719, "id": "a2-0720", "w": "environmental", "pos": "adj", "tr": "экологический", "ex": "Support environmental projects.", "exRu": "Поддерживай экологические проекты.", "colloc": "environmental issue"}
+{"i": 720, "id": "a2-0721", "w": "essential", "pos": "adj", "tr": "необходимый", "ex": "Water is essential for life.", "exRu": "Вода необходима для жизни.", "colloc": "essential skills"}
+{"i": 721, "id": "a2-0722", "w": "exact", "pos": "adj", "tr": "точный", "ex": "Give the exact time.", "exRu": "Назови точное время.", "colloc": "exact amount"}
+{"i": 722, "id": "a2-0723", "w": "excellent", "pos": "adj", "tr": "отличный", "ex": "That was an excellent meal.", "exRu": "Это был отличный ужин.", "colloc": "excellent work"}
+{"i": 723, "id": "a2-0724", "w": "exciting", "pos": "adj", "tr": "захватывающий", "ex": "Travel is exciting.", "exRu": "Путешествия захватывающие.", "colloc": "exciting news"}
+{"i": 724, "id": "a2-0725", "w": "existing", "pos": "adj", "tr": "существующий", "ex": "Improve existing systems.", "exRu": "Улучши существующие системы.", "colloc": "existing customer"}
+{"i": 725, "id": "a2-0726", "w": "experienced", "pos": "adj", "tr": "опытный", "ex": "Hire an experienced teacher.", "exRu": "Найми опытного учителя.", "colloc": "experienced staff"}
+{"i": 726, "id": "a2-0727", "w": "extreme", "pos": "adj", "tr": "крайний", "ex": "Avoid extreme heat.", "exRu": "Избегай крайней жары.", "colloc": "extreme weather"}
+{"i": 727, "id": "a2-0728", "w": "familiar", "pos": "adj", "tr": "знакомый", "ex": "This place looks familiar.", "exRu": "Это место выглядит знакомым.", "colloc": "familiar with"}
+{"i": 728, "id": "a2-0729", "w": "fancy", "pos": "adj", "tr": "модный", "ex": "They booked a fancy hotel.", "exRu": "Они забронировали модный отель.", "colloc": "fancy restaurant"}
+{"i": 729, "id": "a2-0730", "w": "fantastic", "pos": "adj", "tr": "фантастический", "ex": "You did a fantastic job.", "exRu": "Ты сделал фантастическую работу.", "colloc": "fantastic idea"}
+{"i": 730, "id": "a2-0731", "w": "fashionable", "pos": "adj", "tr": "модный", "ex": "She wears fashionable clothes.", "exRu": "Она носит модную одежду.", "colloc": "fashionable area"}
+{"i": 731, "id": "a2-0732", "w": "favorable", "pos": "adj", "tr": "благоприятный", "ex": "We had favorable weather.", "exRu": "У нас была благоприятная погода.", "colloc": "favorable conditions"}
+{"i": 732, "id": "a2-0733", "w": "favorite", "pos": "adj", "tr": "любимый", "ex": "What is your favorite color?", "exRu": "Какой твой любимый цвет?", "colloc": "favorite book"}
+{"i": 733, "id": "a2-0734", "w": "fearful", "pos": "adj", "tr": "боязливый", "ex": "He felt fearful at night.", "exRu": "Ночью он чувствовал страх.", "colloc": "fearful of"}
+{"i": 734, "id": "a2-0735", "w": "federal", "pos": "adj", "tr": "федеральный", "ex": "Federal laws apply here.", "exRu": "Здесь действуют федеральные законы.", "colloc": "federal government"}
+{"i": 735, "id": "a2-0736", "w": "financial", "pos": "adj", "tr": "финансовый", "ex": "Seek financial advice.", "exRu": "Обратись за финансовым советом.", "colloc": "financial support"}
+{"i": 736, "id": "a2-0737", "w": "flexible", "pos": "adj", "tr": "гибкий", "ex": "We need flexible hours.", "exRu": "Нам нужен гибкий график.", "colloc": "flexible schedule"}
+{"i": 737, "id": "a2-0738", "w": "fluent", "pos": "adj", "tr": "бегло говорящий", "ex": "She is fluent in Spanish.", "exRu": "Она бегло говорит по-испански.", "colloc": "fluent speaker"}
+{"i": 738, "id": "a2-0739", "w": "foreign", "pos": "adj", "tr": "иностранный", "ex": "Learn a foreign language.", "exRu": "Учи иностранный язык.", "colloc": "foreign country"}
+{"i": 739, "id": "a2-0740", "w": "former", "pos": "adj", "tr": "бывший", "ex": "He is a former teacher.", "exRu": "Он бывший учитель.", "colloc": "former president"}
+{"i": 740, "id": "a2-0741", "w": "fortunate", "pos": "adj", "tr": "удачливый", "ex": "We were fortunate today.", "exRu": "Сегодня нам повезло.", "colloc": "fortunate enough"}
+{"i": 741, "id": "a2-0742", "w": "frequent", "pos": "adj", "tr": "частый", "ex": "He is a frequent traveler.", "exRu": "Он частый путешественник.", "colloc": "frequent visitor"}
+{"i": 742, "id": "a2-0743", "w": "frightened", "pos": "adj", "tr": "испуганный", "ex": "The child looked frightened.", "exRu": "Ребёнок выглядел испуганным.", "colloc": "frightened of"}
+{"i": 743, "id": "a2-0744", "w": "frozen", "pos": "adj", "tr": "замёрзший", "ex": "Buy frozen vegetables.", "exRu": "Купи замороженные овощи.", "colloc": "frozen food"}
+{"i": 744, "id": "a2-0745", "w": "general", "pos": "adj", "tr": "общий", "ex": "Give a general overview.", "exRu": "Дай общий обзор.", "colloc": "general public"}
+{"i": 745, "id": "a2-0746", "w": "generous", "pos": "adj", "tr": "щедрый", "ex": "Thank your generous friend.", "exRu": "Поблагодари щедрого друга.", "colloc": "generous offer"}
+{"i": 746, "id": "a2-0747", "w": "gentle", "pos": "adj", "tr": "нежный", "ex": "Speak in a gentle voice.", "exRu": "Говори нежным голосом.", "colloc": "gentle breeze"}
+{"i": 747, "id": "a2-0748", "w": "genuine", "pos": "adj", "tr": "подлинный", "ex": "Is this a genuine diamond?", "exRu": "Это подлинный бриллиант?", "colloc": "genuine smile"}
+{"i": 748, "id": "a2-0749", "w": "glad", "pos": "adj", "tr": "рад", "ex": "I am glad to see you.", "exRu": "Рад тебя видеть.", "colloc": "glad about"}
+{"i": 749, "id": "a2-0750", "w": "golden", "pos": "adj", "tr": "золотой", "ex": "Enjoy a golden sunset.", "exRu": "Наслаждайся золотым закатом.", "colloc": "golden opportunity"}
+{"i": 750, "id": "a2-0751", "w": "gorgeous", "pos": "adj", "tr": "великолепный", "ex": "The dress looks gorgeous.", "exRu": "Платье выглядит великолепно.", "colloc": "gorgeous view"}
+{"i": 751, "id": "a2-0752", "w": "gradual", "pos": "adj", "tr": "постепенный", "ex": "Progress was gradual.", "exRu": "Прогресс был постепенным.", "colloc": "gradual change"}
+{"i": 752, "id": "a2-0753", "w": "grateful", "pos": "adj", "tr": "благодарный", "ex": "I am grateful for help.", "exRu": "Я благодарен за помощь.", "colloc": "grateful to"}
+{"i": 753, "id": "a2-0754", "w": "guilty", "pos": "adj", "tr": "виновный", "ex": "He felt guilty about lying.", "exRu": "Он чувствовал вину за ложь.", "colloc": "guilty of"}
+{"i": 754, "id": "a2-0755", "w": "handsome", "pos": "adj", "tr": "красивый", "ex": "He is a handsome actor.", "exRu": "Он красивый актёр.", "colloc": "handsome face"}
+{"i": 755, "id": "a2-0756", "w": "handy", "pos": "adj", "tr": "удобный", "ex": "This tool is handy.", "exRu": "Этот инструмент удобный.", "colloc": "come in handy"}
+{"i": 756, "id": "a2-0757", "w": "harmful", "pos": "adj", "tr": "вредный", "ex": "Smoking is harmful.", "exRu": "Курение вредно.", "colloc": "harmful effects"}
+{"i": 757, "id": "a2-0758", "w": "harsh", "pos": "adj", "tr": "суровый", "ex": "Winter can be harsh.", "exRu": "Зима может быть суровой.", "colloc": "harsh words"}
+{"i": 758, "id": "a2-0759", "w": "helpful", "pos": "adj", "tr": "полезный", "ex": "Your advice was helpful.", "exRu": "Твой совет был полезен.", "colloc": "helpful tip"}
+{"i": 759, "id": "a2-0760", "w": "hidden", "pos": "adj", "tr": "скрытый", "ex": "Find the hidden meaning.", "exRu": "Найди скрытый смысл.", "colloc": "hidden costs"}
+{"i": 760, "id": "a2-0761", "w": "hilarious", "pos": "adj", "tr": "уморительный", "ex": "That joke was hilarious.", "exRu": "Та шутка была уморительной.", "colloc": "hilarious story"}
+{"i": 761, "id": "a2-0762", "w": "historic", "pos": "adj", "tr": "исторический", "ex": "Visit the historic center.", "exRu": "Посети исторический центр.", "colloc": "historic building"}
+{"i": 762, "id": "a2-0763", "w": "honest", "pos": "adj", "tr": "честный", "ex": "Give an honest answer.", "exRu": "Дай честный ответ.", "colloc": "honest opinion"}
+{"i": 763, "id": "a2-0764", "w": "horrible", "pos": "adj", "tr": "ужасный", "ex": "What horrible weather!", "exRu": "Какая ужасная погода!", "colloc": "horrible mistake"}
+{"i": 764, "id": "a2-0765", "w": "hostile", "pos": "adj", "tr": "враждебный", "ex": "Avoid hostile comments.", "exRu": "Избегай враждебных комментариев.", "colloc": "hostile attitude"}
+{"i": 765, "id": "a2-0766", "w": "huge", "pos": "adj", "tr": "огромный", "ex": "They live in a huge house.", "exRu": "Они живут в огромном доме.", "colloc": "huge success"}
+{"i": 766, "id": "a2-0767", "w": "ideal", "pos": "adj", "tr": "идеальный", "ex": "This is an ideal location.", "exRu": "Это идеальное место.", "colloc": "ideal world"}
+{"i": 767, "id": "a2-0768", "w": "identical", "pos": "adj", "tr": "идентичный", "ex": "The twins look identical.", "exRu": "Близнецы выглядят одинаково.", "colloc": "identical twins"}
+{"i": 768, "id": "a2-0769", "w": "ill", "pos": "adj", "tr": "больной", "ex": "She feels ill today.", "exRu": "Сегодня она больна.", "colloc": "fall ill"}
+{"i": 769, "id": "a2-0770", "w": "illegal", "pos": "adj", "tr": "незаконный", "ex": "Illegal parking costs money.", "exRu": "Незаконная парковка стоит денег.", "colloc": "illegal download"}
+{"i": 770, "id": "a2-0771", "w": "immediate", "pos": "adj", "tr": "немедленный", "ex": "Need immediate help?", "exRu": "Нужна немедленная помощь?", "colloc": "immediate action"}
+{"i": 771, "id": "a2-0772", "w": "immense", "pos": "adj", "tr": "огромный", "ex": "They faced immense pressure.", "exRu": "Они столкнулись с огромным давлением.", "colloc": "immense value"}
+{"i": 772, "id": "a2-0773", "w": "impressive", "pos": "adj", "tr": "впечатляющий", "ex": "That was an impressive speech.", "exRu": "Это была впечатляющая речь.", "colloc": "impressive result"}
+{"i": 773, "id": "a2-0774", "w": "independent", "pos": "adj", "tr": "независимый", "ex": "She is an independent thinker.", "exRu": "Она независимый мыслитель.", "colloc": "independent study"}
+{"i": 774, "id": "a2-0775", "w": "indirect", "pos": "adj", "tr": "косвенный", "ex": "Ask an indirect question.", "exRu": "Задай косвенный вопрос.", "colloc": "indirect route"}
+{"i": 775, "id": "a2-0776", "w": "indoor", "pos": "adj", "tr": "комнатный", "ex": "Try indoor sports today.", "exRu": "Попробуй сегодня комнатный спорт.", "colloc": "indoor pool"}
+{"i": 776, "id": "a2-0777", "w": "industrial", "pos": "adj", "tr": "промышленный", "ex": "This is an industrial area.", "exRu": "Это промышленный район.", "colloc": "industrial city"}
+{"i": 777, "id": "a2-0778", "w": "inexpensive", "pos": "adj", "tr": "недорогой", "ex": "Find an inexpensive hotel.", "exRu": "Найди недорогой отель.", "colloc": "inexpensive option"}
+{"i": 778, "id": "a2-0779", "w": "informal", "pos": "adj", "tr": "неофициальный", "ex": "Wear informal clothes.", "exRu": "Надень неофициальную одежду.", "colloc": "informal meeting"}
+{"i": 779, "id": "a2-0780", "w": "initial", "pos": "adj", "tr": "первоначальный", "ex": "My initial idea changed.", "exRu": "Моя первоначальная идея изменилась.", "colloc": "initial stage"}
+{"i": 780, "id": "a2-0781", "w": "absolutely", "pos": "adv", "tr": "абсолютно", "ex": "I absolutely agree.", "exRu": "Я абсолютно согласен.", "colloc": ""}
+{"i": 781, "id": "a2-0782", "w": "afterwards", "pos": "adv", "tr": "после этого", "ex": "We ate and left afterwards.", "exRu": "Мы поели и после этого ушли.", "colloc": ""}
+{"i": 782, "id": "a2-0783", "w": "anyway", "pos": "adv", "tr": "в любом случае", "ex": "Anyway, let's continue.", "exRu": "В любом случае, продолжим.", "colloc": ""}
+{"i": 783, "id": "a2-0784", "w": "approximately", "pos": "adv", "tr": "приблизительно", "ex": "It takes approximately an hour.", "exRu": "Это занимает приблизительно час.", "colloc": ""}
+{"i": 784, "id": "a2-0785", "w": "basically", "pos": "adv", "tr": "в основном", "ex": "Basically, the plan works.", "exRu": "В основном план работает.", "colloc": ""}
+{"i": 785, "id": "a2-0786", "w": "carefully", "pos": "adv", "tr": "осторожно", "ex": "Drive carefully in the rain.", "exRu": "Езжай осторожно под дождём.", "colloc": ""}
+{"i": 786, "id": "a2-0787", "w": "clearly", "pos": "adv", "tr": "ясно", "ex": "Speak clearly into the mic.", "exRu": "Говори ясно в микрофон.", "colloc": ""}
+{"i": 787, "id": "a2-0788", "w": "completely", "pos": "adv", "tr": "полностью", "ex": "I completely understand.", "exRu": "Я полностью понимаю.", "colloc": ""}
+{"i": 788, "id": "a2-0789", "w": "constantly", "pos": "adv", "tr": "постоянно", "ex": "She constantly checks her phone.", "exRu": "Она постоянно проверяет телефон.", "colloc": ""}
+{"i": 789, "id": "a2-0790", "w": "correctly", "pos": "adv", "tr": "правильно", "ex": "Answer the question correctly.", "exRu": "Ответь на вопрос правильно.", "colloc": ""}
+{"i": 790, "id": "a2-0791", "w": "currently", "pos": "adv", "tr": "сейчас", "ex": "I currently live downtown.", "exRu": "Сейчас я живу в центре.", "colloc": ""}
+{"i": 791, "id": "a2-0792", "w": "definitely", "pos": "adv", "tr": "определённо", "ex": "I will definitely come.", "exRu": "Я определённо приду.", "colloc": ""}
+{"i": 792, "id": "a2-0793", "w": "directly", "pos": "adv", "tr": "напрямую", "ex": "Go directly to the hotel.", "exRu": "Иди напрямую в отель.", "colloc": ""}
+{"i": 793, "id": "a2-0794", "w": "easily", "pos": "adv", "tr": "легко", "ex": "She learns languages easily.", "exRu": "Она легко учит языки.", "colloc": ""}
+{"i": 794, "id": "a2-0795", "w": "elsewhere", "pos": "adv", "tr": "в другом месте", "ex": "Try searching elsewhere.", "exRu": "Попробуй поискать в другом месте.", "colloc": ""}
+{"i": 795, "id": "a2-0796", "w": "extremely", "pos": "adv", "tr": "крайне", "ex": "It is extremely cold today.", "exRu": "Сегодня крайне холодно.", "colloc": ""}
+{"i": 796, "id": "a2-0797", "w": "fairly", "pos": "adv", "tr": "довольно", "ex": "The test was fairly easy.", "exRu": "Тест был довольно лёгким.", "colloc": ""}
+{"i": 797, "id": "a2-0798", "w": "fortunately", "pos": "adv", "tr": "к счастью", "ex": "Fortunately, nobody was hurt.", "exRu": "К счастью, никто не пострадал.", "colloc": ""}
+{"i": 798, "id": "a2-0799", "w": "frequently", "pos": "adv", "tr": "часто", "ex": "I frequently work late.", "exRu": "Я часто работаю допоздна.", "colloc": ""}
+{"i": 799, "id": "a2-0800", "w": "fully", "pos": "adv", "tr": "полностью", "ex": "I fully support the idea.", "exRu": "Я полностью поддерживаю идею.", "colloc": ""}
+{"i": 800, "id": "a2-0801", "w": "generally", "pos": "adv", "tr": "обычно", "ex": "I generally wake early.", "exRu": "Обычно я встаю рано.", "colloc": ""}
+{"i": 801, "id": "a2-0802", "w": "gently", "pos": "adv", "tr": "нежно", "ex": "Close the door gently.", "exRu": "Закрой дверь нежно.", "colloc": ""}
+{"i": 802, "id": "a2-0803", "w": "gradually", "pos": "adv", "tr": "постепенно", "ex": "Prices rose gradually.", "exRu": "Цены росли постепенно.", "colloc": ""}
+{"i": 803, "id": "a2-0804", "w": "hardly", "pos": "adv", "tr": "едва", "ex": "I can hardly hear you.", "exRu": "Я едва тебя слышу.", "colloc": ""}
+{"i": 804, "id": "a2-0805", "w": "highly", "pos": "adv", "tr": "весьма", "ex": "She is highly skilled.", "exRu": "Она весьма квалифицирована.", "colloc": ""}
+{"i": 805, "id": "a2-0806", "w": "honestly", "pos": "adv", "tr": "честно", "ex": "Honestly, I do not know.", "exRu": "Честно, я не знаю.", "colloc": ""}
+{"i": 806, "id": "a2-0807", "w": "increasingly", "pos": "adv", "tr": "всё более", "ex": "Traffic is increasingly heavy.", "exRu": "Движение всё более плотное.", "colloc": ""}
+{"i": 807, "id": "a2-0808", "w": "indeed", "pos": "adv", "tr": "действительно", "ex": "It was indeed a surprise.", "exRu": "Это действительно был сюрприз.", "colloc": ""}
+{"i": 808, "id": "a2-0809", "w": "instead", "pos": "adv", "tr": "вместо этого", "ex": "Take the bus instead.", "exRu": "Возьми автобус вместо этого.", "colloc": ""}
+{"i": 809, "id": "a2-0810", "w": "lately", "pos": "adv", "tr": "в последнее время", "ex": "I have been tired lately.", "exRu": "В последнее время я устал.", "colloc": ""}
+{"i": 810, "id": "a2-0811", "w": "mainly", "pos": "adv", "tr": "главным образом", "ex": "I mainly work from home.", "exRu": "Я главным образом работаю из дома.", "colloc": ""}
+{"i": 811, "id": "a2-0812", "w": "nearly", "pos": "adv", "tr": "почти", "ex": "I nearly missed the train.", "exRu": "Я почти опоздал на поезд.", "colloc": ""}
+{"i": 812, "id": "a2-0813", "w": "normally", "pos": "adv", "tr": "обычно", "ex": "I normally eat breakfast.", "exRu": "Обычно я завтракаю.", "colloc": ""}
+{"i": 813, "id": "a2-0814", "w": "obviously", "pos": "adv", "tr": "очевидно", "ex": "Obviously, we need more time.", "exRu": "Очевидно, нам нужно больше времени.", "colloc": ""}
+{"i": 814, "id": "a2-0815", "w": "otherwise", "pos": "adv", "tr": "иначе", "ex": "Hurry, otherwise we will be late.", "exRu": "Торопись, иначе опоздаем.", "colloc": ""}
+{"i": 815, "id": "a2-0816", "w": "particularly", "pos": "adv", "tr": "особенно", "ex": "I particularly enjoy jazz.", "exRu": "Я особенно люблю джаз.", "colloc": ""}
+{"i": 816, "id": "a2-0817", "w": "partly", "pos": "adv", "tr": "частично", "ex": "The museum is partly closed.", "exRu": "Музей частично закрыт.", "colloc": ""}
+{"i": 817, "id": "a2-0818", "w": "perfectly", "pos": "adv", "tr": "идеально", "ex": "The plan worked perfectly.", "exRu": "План сработал идеально.", "colloc": ""}
+{"i": 818, "id": "a2-0819", "w": "personally", "pos": "adv", "tr": "лично", "ex": "Personally, I disagree.", "exRu": "Лично я не согласен.", "colloc": ""}
+{"i": 819, "id": "a2-0820", "w": "possibly", "pos": "adv", "tr": "возможно", "ex": "It will possibly rain.", "exRu": "Возможно, будет дождь.", "colloc": ""}
+{"i": 820, "id": "a2-0821", "w": "previously", "pos": "adv", "tr": "ранее", "ex": "I previously worked there.", "exRu": "Ранее я там работал.", "colloc": ""}
+{"i": 821, "id": "a2-0822", "w": "properly", "pos": "adv", "tr": "как следует", "ex": "Fix it properly this time.", "exRu": "Почини это как следует.", "colloc": ""}
+{"i": 822, "id": "a2-0823", "w": "quietly", "pos": "adv", "tr": "тихо", "ex": "Speak quietly in the library.", "exRu": "Говори тихо в библиотеке.", "colloc": ""}
+{"i": 823, "id": "a2-0824", "w": "rarely", "pos": "adv", "tr": "редко", "ex": "I rarely eat fast food.", "exRu": "Я редко ем фастфуд.", "colloc": ""}
+{"i": 824, "id": "a2-0825", "w": "regularly", "pos": "adv", "tr": "регулярно", "ex": "Exercise regularly for health.", "exRu": "Занимайся спортом регулярно.", "colloc": ""}
+{"i": 825, "id": "a2-0826", "w": "relatively", "pos": "adv", "tr": "относительно", "ex": "The hotel is relatively cheap.", "exRu": "Отель относительно дешёвый.", "colloc": ""}
+{"i": 826, "id": "a2-0827", "w": "seriously", "pos": "adv", "tr": "серьёзно", "ex": "Take safety seriously.", "exRu": "Относись к безопасности серьёзно.", "colloc": ""}
+{"i": 827, "id": "a2-0828", "w": "significantly", "pos": "adv", "tr": "значительно", "ex": "Costs rose significantly.", "exRu": "Затраты значительно выросли.", "colloc": ""}
+{"i": 828, "id": "a2-0829", "w": "simply", "pos": "adv", "tr": "просто", "ex": "Simply press the button.", "exRu": "Просто нажми кнопку.", "colloc": ""}
+{"i": 829, "id": "a2-0830", "w": "slightly", "pos": "adv", "tr": "слегка", "ex": "The soup is slightly salty.", "exRu": "Суп слегка солёный.", "colloc": ""}
+{"i": 830, "id": "a2-0831", "w": "softly", "pos": "adv", "tr": "мягко", "ex": "She spoke softly to the baby.", "exRu": "Она мягко говорила с малышом.", "colloc": ""}
+{"i": 831, "id": "a2-0832", "w": "somehow", "pos": "adv", "tr": "как-то", "ex": "We somehow finished on time.", "exRu": "Мы как-то закончили вовремя.", "colloc": ""}
+{"i": 832, "id": "a2-0833", "w": "specifically", "pos": "adv", "tr": "конкретно", "ex": "I specifically asked for tea.", "exRu": "Я конкретно просил чай.", "colloc": ""}
+{"i": 833, "id": "a2-0834", "w": "surely", "pos": "adv", "tr": "наверняка", "ex": "Surely you remember her.", "exRu": "Наверняка ты её помнишь.", "colloc": ""}
+{"i": 834, "id": "a2-0835", "w": "therefore", "pos": "adv", "tr": "поэтому", "ex": "It rained; therefore we stayed.", "exRu": "Шёл дождь; поэтому мы остались.", "colloc": ""}
+{"i": 835, "id": "a2-0836", "w": "as soon as", "pos": "phrase", "tr": "как только", "ex": "Call me as soon as you arrive.", "exRu": "Позвони, как только приедешь.", "colloc": "as soon as possible"}
+{"i": 836, "id": "a2-0837", "w": "at least", "pos": "phrase", "tr": "по крайней мере", "ex": "Wait at least ten minutes.", "exRu": "Подожди по крайней мере десять минут.", "colloc": ""}
+{"i": 837, "id": "a2-0838", "w": "at once", "pos": "phrase", "tr": "сразу", "ex": "Come here at once.", "exRu": "Иди сюда сразу.", "colloc": ""}
+{"i": 838, "id": "a2-0839", "w": "by the way", "pos": "phrase", "tr": "кстати", "ex": "By the way, are you free?", "exRu": "Кстати, ты свободен?", "colloc": ""}
+{"i": 839, "id": "a2-0840", "w": "for example", "pos": "phrase", "tr": "например", "ex": "Eat fruit, for example apples.", "exRu": "Ешь фрукты, например яблоки.", "colloc": ""}
+{"i": 840, "id": "a2-0841", "w": "in fact", "pos": "phrase", "tr": "на самом деле", "ex": "In fact, I agree with you.", "exRu": "На самом деле я с тобой согласен.", "colloc": ""}
+{"i": 841, "id": "a2-0842", "w": "in order to", "pos": "phrase", "tr": "для того чтобы", "ex": "I study in order to improve.", "exRu": "Я учусь, чтобы улучшиться.", "colloc": ""}
+{"i": 842, "id": "a2-0843", "w": "instead of", "pos": "phrase", "tr": "вместо", "ex": "Walk instead of driving.", "exRu": "Иди пешком вместо вождения.", "colloc": ""}
+{"i": 843, "id": "a2-0844", "w": "look forward to", "pos": "phrase", "tr": "ждать с нетерпением", "ex": "I look forward to meeting you.", "exRu": "С нетерпением жду встречи.", "colloc": "look forward to doing"}
+{"i": 844, "id": "a2-0845", "w": "make sure", "pos": "phrase", "tr": "убедиться", "ex": "Make sure the door is locked.", "exRu": "Убедись, что дверь заперта.", "colloc": ""}
+{"i": 845, "id": "a2-0846", "w": "no longer", "pos": "phrase", "tr": "больше не", "ex": "She no longer lives here.", "exRu": "Она больше здесь не живёт.", "colloc": ""}
+{"i": 846, "id": "a2-0847", "w": "on purpose", "pos": "phrase", "tr": "нарочно", "ex": "I did not do it on purpose.", "exRu": "Я сделал это не нарочно.", "colloc": ""}
+{"i": 847, "id": "a2-0848", "w": "once again", "pos": "phrase", "tr": "ещё раз", "ex": "Try once again carefully.", "exRu": "Попробуй ещё раз осторожно.", "colloc": ""}
+{"i": 848, "id": "a2-0849", "w": "out of order", "pos": "phrase", "tr": "не работает", "ex": "The elevator is out of order.", "exRu": "Лифт не работает.", "colloc": ""}
+{"i": 849, "id": "a2-0850", "w": "right away", "pos": "phrase", "tr": "немедленно", "ex": "I will call right away.", "exRu": "Я позвоню немедленно.", "colloc": ""}
+{"i": 850, "id": "a2-0851", "w": "so far", "pos": "phrase", "tr": "до сих пор", "ex": "So far everything is fine.", "exRu": "До сих пор всё хорошо.", "colloc": ""}
+{"i": 851, "id": "a2-0852", "w": "take care", "pos": "phrase", "tr": "береги себя", "ex": "Take care and write soon.", "exRu": "Береги себя и пиши скорее.", "colloc": ""}
+{"i": 852, "id": "a2-0853", "w": "take place", "pos": "phrase", "tr": "происходить", "ex": "The meeting takes place tomorrow.", "exRu": "Встреча происходит завтра.", "colloc": ""}
+{"i": 853, "id": "a2-0854", "w": "used to", "pos": "phrase", "tr": "раньше делал", "ex": "I used to live in Chicago.", "exRu": "Я раньше жил в Чикаго.", "colloc": "used to do"}
+{"i": 854, "id": "a2-0855", "w": "according to", "pos": "phrase", "tr": "согласно", "ex": "According to the map, turn left.", "exRu": "Согласно карте, поверни налево.", "colloc": ""}
+{"i": 855, "id": "a2-0856", "w": "as well as", "pos": "phrase", "tr": "а также", "ex": "She speaks English as well as French.", "exRu": "Она говорит по-английски, а также по-французски.", "colloc": ""}
+{"i": 856, "id": "a2-0857", "w": "because of", "pos": "phrase", "tr": "из-за", "ex": "We stayed because of the rain.", "exRu": "Мы остались из-за дождя.", "colloc": ""}
+{"i": 857, "id": "a2-0858", "w": "even though", "pos": "phrase", "tr": "хотя", "ex": "Even though it rained, we walked.", "exRu": "Хотя шёл дождь, мы гуляли.", "colloc": ""}
+{"i": 858, "id": "a2-0859", "w": "in case", "pos": "phrase", "tr": "на случай", "ex": "Take a coat in case it rains.", "exRu": "Возьми пальто на случай дождя.", "colloc": ""}
+{"i": 859, "id": "a2-0860", "w": "in front of", "pos": "phrase", "tr": "перед", "ex": "Wait in front of the shop.", "exRu": "Жди перед магазином.", "colloc": ""}
+{"i": 860, "id": "a2-0861", "w": "next to", "pos": "phrase", "tr": "рядом с", "ex": "Sit next to me.", "exRu": "Сядь рядом со мной.", "colloc": ""}
+{"i": 861, "id": "a2-0862", "w": "thanks to", "pos": "phrase", "tr": "благодаря", "ex": "Thanks to you, we finished.", "exRu": "Благодаря тебе мы закончили.", "colloc": ""}
+{"i": 862, "id": "a2-0863", "w": "up to", "pos": "phrase", "tr": "до", "ex": "It costs up to fifty dollars.", "exRu": "Это стоит до пятидесяти долларов.", "colloc": ""}
+{"i": 863, "id": "a2-0864", "w": "as long as", "pos": "phrase", "tr": "пока", "ex": "Stay as long as you need.", "exRu": "Оставайся, пока нужно.", "colloc": ""}
+{"i": 864, "id": "a2-0865", "w": "get rid of", "pos": "phrase", "tr": "избавиться", "ex": "Get rid of old papers.", "exRu": "Избавься от старых бумаг.", "colloc": ""}
+{"i": 865, "id": "a2-0866", "w": "give up", "pos": "phrase", "tr": "сдаваться", "ex": "Do not give up now.", "exRu": "Не сдавайся сейчас.", "colloc": ""}
+{"i": 866, "id": "a2-0867", "w": "hang out", "pos": "phrase", "tr": "проводить время", "ex": "We hang out on weekends.", "exRu": "Мы проводим время по выходным.", "colloc": ""}
+{"i": 867, "id": "a2-0868", "w": "pick up", "pos": "phrase", "tr": "забирать", "ex": "Pick up the kids at three.", "exRu": "Забери детей в три.", "colloc": ""}
+{"i": 868, "id": "a2-0869", "w": "put off", "pos": "phrase", "tr": "откладывать", "ex": "Do not put off studying.", "exRu": "Не откладывай учёбу.", "colloc": ""}
+{"i": 869, "id": "a2-0870", "w": "run out of", "pos": "phrase", "tr": "закончиться", "ex": "We ran out of milk.", "exRu": "У нас закончилось молоко.", "colloc": ""}
+{"i": 870, "id": "a2-0871", "w": "set up", "pos": "phrase", "tr": "настраивать", "ex": "Set up the new laptop.", "exRu": "Настрой новый ноутбук.", "colloc": ""}
+{"i": 871, "id": "a2-0872", "w": "turn down", "pos": "phrase", "tr": "отклонять", "ex": "They turned down my offer.", "exRu": "Они отклонили моё предложение.", "colloc": ""}
+{"i": 872, "id": "a2-0873", "w": "turn up", "pos": "phrase", "tr": "появиться", "ex": "He turned up late.", "exRu": "Он появился поздно.", "colloc": ""}
+{"i": 873, "id": "a2-0874", "w": "work out", "pos": "phrase", "tr": "тренироваться", "ex": "I work out three times weekly.", "exRu": "Я тренируюсь три раза в неделю.", "colloc": ""}
+{"i": 874, "id": "a2-0875", "w": "find out", "pos": "phrase", "tr": "выяснять", "ex": "Find out the train times.", "exRu": "Выясни расписание поездов.", "colloc": ""}
+{"i": 875, "id": "a2-0876", "w": "billion", "pos": "other", "tr": "миллиард", "ex": "The company is worth billions.", "exRu": "Компания стоит миллиарды.", "colloc": "a billion people"}
+{"i": 876, "id": "a2-0877", "w": "effect", "pos": "noun", "tr": "эффект", "ex": "What is the side effect?", "exRu": "Какой побочный эффект?", "colloc": "cause and effect"}
+{"i": 877, "id": "a2-0878", "w": "effort", "pos": "noun", "tr": "усилие", "ex": "Success needs effort.", "exRu": "Успех требует усилий.", "colloc": "make an effort"}
+{"i": 878, "id": "a2-0879", "w": "election", "pos": "noun", "tr": "выборы", "ex": "Vote in the election.", "exRu": "Голосуй на выборах.", "colloc": "general election"}
+{"i": 879, "id": "a2-0880", "w": "electricity", "pos": "noun", "tr": "электричество", "ex": "Save electricity at home.", "exRu": "Экономь электричество дома.", "colloc": "electricity bill"}
+{"i": 880, "id": "a2-0881", "w": "element", "pos": "noun", "tr": "элемент", "ex": "Oxygen is an element.", "exRu": "Кислород — элемент.", "colloc": "key element"}
+{"i": 881, "id": "a2-0882", "w": "emergency", "pos": "noun", "tr": "чрезвычайная ситуация", "ex": "Call in an emergency.", "exRu": "Звони в чрезвычайной ситуации.", "colloc": "emergency exit"}
+{"i": 882, "id": "a2-0883", "w": "emotion", "pos": "noun", "tr": "эмоция", "ex": "Show your true emotion.", "exRu": "Покажи настоящую эмоцию.", "colloc": "strong emotion"}
+{"i": 883, "id": "a2-0884", "w": "emphasis", "pos": "noun", "tr": "акцент", "ex": "Put emphasis on safety.", "exRu": "Сделай акцент на безопасности.", "colloc": "place emphasis on"}
+{"i": 884, "id": "a2-0885", "w": "employee", "pos": "noun", "tr": "сотрудник", "ex": "Every employee needs training.", "exRu": "Каждому сотруднику нужно обучение.", "colloc": "full-time employee"}
+{"i": 885, "id": "a2-0886", "w": "employer", "pos": "noun", "tr": "работодатель", "ex": "Ask your employer for leave.", "exRu": "Попроси работодателя об отпуске.", "colloc": "former employer"}
+{"i": 886, "id": "a2-0887", "w": "employment", "pos": "noun", "tr": "занятость", "ex": "She found employment quickly.", "exRu": "Она быстро нашла работу.", "colloc": "full employment"}
+{"i": 887, "id": "a2-0888", "w": "enemy", "pos": "noun", "tr": "враг", "ex": "Do not create enemies.", "exRu": "Не создавай врагов.", "colloc": "make an enemy"}
+{"i": 888, "id": "a2-0889", "w": "energy", "pos": "noun", "tr": "энергия", "ex": "I have little energy today.", "exRu": "Сегодня у меня мало энергии.", "colloc": "solar energy"}
+{"i": 889, "id": "a2-0890", "w": "engine", "pos": "noun", "tr": "двигатель", "ex": "The engine needs repair.", "exRu": "Двигателю нужен ремонт.", "colloc": "car engine"}
+{"i": 890, "id": "a2-0891", "w": "entertainment", "pos": "noun", "tr": "развлечение", "ex": "The city offers entertainment.", "exRu": "Город предлагает развлечения.", "colloc": "live entertainment"}
+{"i": 891, "id": "a2-0892", "w": "enthusiasm", "pos": "noun", "tr": "энтузиазм", "ex": "Show enthusiasm at work.", "exRu": "Проявляй энтузиазм на работе.", "colloc": "with enthusiasm"}
+{"i": 892, "id": "a2-0893", "w": "entrance", "pos": "noun", "tr": "вход", "ex": "Use the main entrance.", "exRu": "Используй главный вход.", "colloc": "entrance fee"}
+{"i": 893, "id": "a2-0894", "w": "entry", "pos": "noun", "tr": "вход, запись", "ex": "No entry without a ticket.", "exRu": "Вход без билета запрещён.", "colloc": "diary entry"}
+{"i": 894, "id": "a2-0895", "w": "environment", "pos": "noun", "tr": "окружающая среда", "ex": "Protect the environment.", "exRu": "Защищай окружающую среду.", "colloc": "natural environment"}
+{"i": 895, "id": "a2-0896", "w": "episode", "pos": "noun", "tr": "эпизод", "ex": "Watch the next episode.", "exRu": "Посмотри следующий эпизод.", "colloc": "final episode"}
+{"i": 896, "id": "a2-0897", "w": "equipment", "pos": "noun", "tr": "оборудование", "ex": "Check the safety equipment.", "exRu": "Проверь защитное оборудование.", "colloc": "sports equipment"}
+{"i": 897, "id": "a2-0898", "w": "error", "pos": "noun", "tr": "ошибка", "ex": "Fix the typing error.", "exRu": "Исправь опечатку.", "colloc": "human error"}
+{"i": 898, "id": "a2-0899", "w": "essay", "pos": "noun", "tr": "эссе", "ex": "Write a short essay.", "exRu": "Напиши короткое эссе.", "colloc": "essay topic"}
+{"i": 899, "id": "a2-0900", "w": "essence", "pos": "noun", "tr": "суть", "ex": "That is the essence.", "exRu": "В этом суть.", "colloc": "in essence"}

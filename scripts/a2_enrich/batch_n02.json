@@ -1,0 +1,1789 @@
+{
+  "a2-0407": {
+    "examples": [
+      {
+        "en": "Our cabin faces the sea.",
+        "ru": "Наша каюта смотрит на море."
+      },
+      {
+        "en": "We stayed in a mountain cabin.",
+        "ru": "Мы остановились в горной хижине."
+      },
+      {
+        "en": "Please return to your cabin.",
+        "ru": "Вернитесь в свою каюту."
+      }
+    ],
+    "colloc": "cabin crew · log cabin"
+  },
+  "a2-0408": {
+    "examples": [
+      {
+        "en": "Connect the power cable.",
+        "ru": "Подключи кабель питания."
+      },
+      {
+        "en": "Connect the cable to the TV.",
+        "ru": "Подключи кабель к телевизору."
+      },
+      {
+        "en": "The cable company raised prices.",
+        "ru": "Кабельная компания подняла цены."
+      }
+    ],
+    "colloc": "cable car · USB cable"
+  },
+  "a2-0409": {
+    "examples": [
+      {
+        "en": "The bird left the cage.",
+        "ru": "Птица вышла из клетки."
+      },
+      {
+        "en": "The bird flew out of its cage.",
+        "ru": "Птица вылетела из клетки."
+      },
+      {
+        "en": "Don't keep wild animals in cages.",
+        "ru": "Не держи диких животных в клетках."
+      }
+    ],
+    "colloc": "bird cage · cage free"
+  },
+  "a2-0410": {
+    "examples": [
+      {
+        "en": "Mark it on the calendar.",
+        "ru": "Отметь в календаре."
+      },
+      {
+        "en": "Mark the date on your calendar.",
+        "ru": "Отметь дату в календаре."
+      },
+      {
+        "en": "The calendar is full this month.",
+        "ru": "В этом месяце календарь забит."
+      }
+    ],
+    "colloc": "calendar year · wall calendar"
+  },
+  "a2-0411": {
+    "examples": [
+      {
+        "en": "Join the recycling campaign.",
+        "ru": "Присоединись к кампании по переработке."
+      },
+      {
+        "en": "They launched an ad campaign.",
+        "ru": "Они запустили рекламную кампанию."
+      },
+      {
+        "en": "Join our recycling campaign.",
+        "ru": "Присоединяйся к нашей кампании по переработке."
+      }
+    ],
+    "colloc": "election campaign · campaign for"
+  },
+  "a2-0412": {
+    "examples": [
+      {
+        "en": "The campus is very green.",
+        "ru": "Кампус очень зелёный."
+      },
+      {
+        "en": "The campus has three libraries.",
+        "ru": "На кампусе три библиотеки."
+      },
+      {
+        "en": "Meet me on campus after class.",
+        "ru": "Встретимся на кампусе после занятий."
+      }
+    ],
+    "colloc": "college campus · on campus"
+  },
+  "a2-0413": {
+    "examples": [
+      {
+        "en": "She is a strong candidate.",
+        "ru": "Она сильный кандидат."
+      },
+      {
+        "en": "She is a strong candidate for the job.",
+        "ru": "Она сильный кандидат на должность."
+      },
+      {
+        "en": "Vote for your favorite candidate.",
+        "ru": "Голосуй за своего кандидата."
+      }
+    ],
+    "colloc": "job candidate · presidential candidate"
+  },
+  "a2-0414": {
+    "examples": [
+      {
+        "en": "Light a candle carefully.",
+        "ru": "Осторожно зажги свечу."
+      },
+      {
+        "en": "Light a candle for the cake.",
+        "ru": "Зажги свечу для торта."
+      },
+      {
+        "en": "The power went out — get candles.",
+        "ru": "Свет пропал — возьми свечи."
+      }
+    ],
+    "colloc": "candle light · blow out a candle"
+  },
+  "a2-0415": {
+    "examples": [
+      {
+        "en": "Paris is the capital.",
+        "ru": "Париж — столица."
+      },
+      {
+        "en": "Paris is the capital of France.",
+        "ru": "Париж — столица Франции."
+      },
+      {
+        "en": "Start a business with little capital.",
+        "ru": "Начни бизнес с небольшим капиталом."
+      }
+    ],
+    "colloc": "capital city · capital letter"
+  },
+  "a2-0416": {
+    "examples": [
+      {
+        "en": "The captain welcomed passengers.",
+        "ru": "Капитан поприветствовал пассажиров."
+      },
+      {
+        "en": "The captain welcomed us aboard.",
+        "ru": "Капитан поприветствовал нас на борту."
+      },
+      {
+        "en": "She is team captain this year.",
+        "ru": "В этом году она капитан команды."
+      }
+    ],
+    "colloc": "team captain · captain of"
+  },
+  "a2-0417": {
+    "examples": [
+      {
+        "en": "Plan your future career.",
+        "ru": "Спланируй будущую карьеру."
+      },
+      {
+        "en": "She built a career in design.",
+        "ru": "Она построила карьеру в дизайне."
+      },
+      {
+        "en": "Changing careers takes courage.",
+        "ru": "Смена карьеры требует смелости."
+      }
+    ],
+    "colloc": "career path · career change"
+  },
+  "a2-0418": {
+    "examples": [
+      {
+        "en": "Tourists visit the castle.",
+        "ru": "Туристы посещают замок."
+      },
+      {
+        "en": "We toured an old castle.",
+        "ru": "Мы осмотрели старый замок."
+      },
+      {
+        "en": "Kids built a sandcastle.",
+        "ru": "Дети построили замок из песка."
+      }
+    ],
+    "colloc": "medieval castle · castles in the air"
+  },
+  "a2-0419": {
+    "examples": [
+      {
+        "en": "Choose a product category.",
+        "ru": "Выбери категорию товара."
+      },
+      {
+        "en": "Put files in the right category.",
+        "ru": "Положи файлы в нужную категорию."
+      },
+      {
+        "en": "Which age category are you in?",
+        "ru": "В какой возрастной категории ты?"
+      }
+    ],
+    "colloc": "category of · main category"
+  },
+  "a2-0420": {
+    "examples": [
+      {
+        "en": "What is the cause?",
+        "ru": "Какова причина?"
+      },
+      {
+        "en": "What was the cause of the delay?",
+        "ru": "Какова была причина задержки?"
+      },
+      {
+        "en": "Smoking can cause serious illness.",
+        "ru": "Курение может вызвать тяжёлую болезнь."
+      }
+    ],
+    "colloc": "cause of · cause and effect"
+  },
+  "a2-0421": {
+    "examples": [
+      {
+        "en": "Join the celebration tonight.",
+        "ru": "Присоединяйся к празднованию вечером."
+      },
+      {
+        "en": "Join our anniversary celebration.",
+        "ru": "Присоединяйся к празднованию годовщины."
+      },
+      {
+        "en": "The celebration lasted all night.",
+        "ru": "Празднование длилось всю ночь."
+      }
+    ],
+    "colloc": "celebration of · join the celebration"
+  },
+  "a2-0422": {
+    "examples": [
+      {
+        "en": "A celebrity opened the store.",
+        "ru": "Знаменитость открыла магазин."
+      },
+      {
+        "en": "A local celebrity opened the store.",
+        "ru": "Местная знаменитость открыла магазин."
+      },
+      {
+        "en": "Don't trust every celebrity tip.",
+        "ru": "Не верь каждому совету знаменитости."
+      }
+    ],
+    "colloc": "celebrity chef · celebrity culture"
+  },
+  "a2-0423": {
+    "examples": [
+      {
+        "en": "Every living thing has cells.",
+        "ru": "У всего живого есть клетки."
+      },
+      {
+        "en": "Every living thing is made of cells.",
+        "ru": "Всё живое состоит из клеток."
+      },
+      {
+        "en": "He spent a night in a jail cell.",
+        "ru": "Он провёл ночь в тюремной камере."
+      }
+    ],
+    "colloc": "cell phone · prison cell"
+  },
+  "a2-0424": {
+    "examples": [
+      {
+        "en": "The ceremony starts at noon.",
+        "ru": "Церемония начинается в полдень."
+      },
+      {
+        "en": "The wedding ceremony was short.",
+        "ru": "Свадебная церемония была короткой."
+      },
+      {
+        "en": "Wear formal clothes to the ceremony.",
+        "ru": "Надень формальную одежду на церемонию."
+      }
+    ],
+    "colloc": "opening ceremony · award ceremony"
+  },
+  "a2-0425": {
+    "examples": [
+      {
+        "en": "I received a language certificate.",
+        "ru": "Я получил языковой сертификат."
+      },
+      {
+        "en": "I received a certificate of completion.",
+        "ru": "Я получил сертификат об окончании."
+      },
+      {
+        "en": "Keep your birth certificate safe.",
+        "ru": "Храни свидетельство о рождении в безопасности."
+      }
+    ],
+    "colloc": "birth certificate · certificate of"
+  },
+  "a2-0426": {
+    "examples": [
+      {
+        "en": "A bike chain needs oil.",
+        "ru": "Цепь велосипеда нужно смазать."
+      },
+      {
+        "en": "She wore a gold chain.",
+        "ru": "Она носила золотую цепочку."
+      },
+      {
+        "en": "A chain of cafés opened downtown.",
+        "ru": "В центре открылась сеть кафе."
+      }
+    ],
+    "colloc": "supply chain · chain reaction"
+  },
+  "a2-0427": {
+    "examples": [
+      {
+        "en": "Our team is the champion.",
+        "ru": "Наша команда — чемпион."
+      },
+      {
+        "en": "Our team is the league champion.",
+        "ru": "Наша команда — чемпион лиги."
+      },
+      {
+        "en": "She is a champion of equal rights.",
+        "ru": "Она защитница равных прав."
+      }
+    ],
+    "colloc": "world champion · defending champion"
+  },
+  "a2-0428": {
+    "examples": [
+      {
+        "en": "Change the TV channel.",
+        "ru": "Переключи телеканал."
+      },
+      {
+        "en": "Change the channel, please.",
+        "ru": "Переключи канал, пожалуйста."
+      },
+      {
+        "en": "Ships use this channel.",
+        "ru": "Корабли используют этот канал."
+      }
+    ],
+    "colloc": "TV channel · communication channel"
+  },
+  "a2-0429": {
+    "examples": [
+      {
+        "en": "Read the next chapter.",
+        "ru": "Прочитай следующую главу."
+      },
+      {
+        "en": "Read chapter five for tomorrow.",
+        "ru": "Прочитай пятую главу к завтра."
+      },
+      {
+        "en": "This chapter of my life is over.",
+        "ru": "Эта глава моей жизни закончена."
+      }
+    ],
+    "colloc": "chapter of · open a new chapter"
+  },
+  "a2-0430": {
+    "examples": [
+      {
+        "en": "My favorite character is brave.",
+        "ru": "Мой любимый персонаж смелый."
+      },
+      {
+        "en": "She has a strong character.",
+        "ru": "У неё сильный характер."
+      },
+      {
+        "en": "Harry is the main character.",
+        "ru": "Гарри — главный герой."
+      }
+    ],
+    "colloc": "main character · character trait"
+  },
+  "a2-0431": {
+    "examples": [
+      {
+        "en": "Is there an extra charge?",
+        "ru": "Есть ли доплата?"
+      },
+      {
+        "en": "Is there a charge for parking?",
+        "ru": "Есть плата за парковку?"
+      },
+      {
+        "en": "Leave your phone on charge.",
+        "ru": "Оставь телефон на зарядке."
+      }
+    ],
+    "colloc": "free of charge · take charge"
+  },
+  "a2-0432": {
+    "examples": [
+      {
+        "en": "Donate to a local charity.",
+        "ru": "Пожертвуй местной благотворительности."
+      },
+      {
+        "en": "We donate to a local charity.",
+        "ru": "Мы жертвуем местной благотворительности."
+      },
+      {
+        "en": "The charity raised thousands.",
+        "ru": "Благотворительная организация собрала тысячи."
+      }
+    ],
+    "colloc": "charity event · charity shop"
+  },
+  "a2-0433": {
+    "examples": [
+      {
+        "en": "Look at the sales chart.",
+        "ru": "Посмотри на диаграмму продаж."
+      },
+      {
+        "en": "This chart shows monthly sales.",
+        "ru": "Эта диаграмма показывает месячные продажи."
+      },
+      {
+        "en": "Check the seating chart.",
+        "ru": "Проверь схему мест."
+      }
+    ],
+    "colloc": "pie chart · chart topper"
+  },
+  "a2-0434": {
+    "examples": [
+      {
+        "en": "She kissed his cheek.",
+        "ru": "Она поцеловала его в щёку."
+      },
+      {
+        "en": "She kissed him on the cheek.",
+        "ru": "Она поцеловала его в щёку."
+      },
+      {
+        "en": "Don't turn the other cheek forever.",
+        "ru": "Не подставляй другую щёку вечно."
+      }
+    ],
+    "colloc": "cheek to cheek · rosy cheeks"
+  },
+  "a2-0435": {
+    "examples": [
+      {
+        "en": "Handle chemicals carefully.",
+        "ru": "Осторожно обращайся с химикатами."
+      },
+      {
+        "en": "This chemical is dangerous.",
+        "ru": "Это химическое вещество опасно."
+      },
+      {
+        "en": "Wash off any chemical spills.",
+        "ru": "Смой любые химические проливы."
+      }
+    ],
+    "colloc": "chemical reaction · chemical free"
+  },
+  "a2-0436": {
+    "examples": [
+      {
+        "en": "Chemistry class is interesting.",
+        "ru": "Урок химии интересный."
+      },
+      {
+        "en": "I failed chemistry once.",
+        "ru": "Я один раз провалил химию."
+      },
+      {
+        "en": "There's good chemistry in our team.",
+        "ru": "В нашей команде хорошая химия."
+      }
+    ],
+    "colloc": "chemistry class · chemistry between"
+  },
+  "a2-0437": {
+    "examples": [
+      {
+        "en": "He felt pain in his chest.",
+        "ru": "Он почувствовал боль в груди."
+      },
+      {
+        "en": "Keep important papers in a chest.",
+        "ru": "Храни важные бумаги в сундуке."
+      },
+      {
+        "en": "He felt pain in his chest.",
+        "ru": "Он почувствовал боль в груди."
+      }
+    ],
+    "colloc": "chest pain · treasure chest"
+  },
+  "a2-0438": {
+    "examples": [
+      {
+        "en": "She remembers her childhood.",
+        "ru": "Она помнит своё детство."
+      },
+      {
+        "en": "I spent my childhood by the sea.",
+        "ru": "Я провёл детство у моря."
+      },
+      {
+        "en": "Childhood friends reunited.",
+        "ru": "Друзья детства снова встретились."
+      }
+    ],
+    "colloc": "childhood memory · early childhood"
+  },
+  "a2-0439": {
+    "examples": [
+      {
+        "en": "He rested his chin on his hand.",
+        "ru": "Он опёрся подбородком о руку."
+      },
+      {
+        "en": "He rested his chin on his hand.",
+        "ru": "Он опёрся подбородком на руку."
+      },
+      {
+        "en": "Keep your chin up.",
+        "ru": "Не вешай нос."
+      }
+    ],
+    "colloc": "chin up · double chin"
+  },
+  "a2-0440": {
+    "examples": [
+      {
+        "en": "That was a hard choice.",
+        "ru": "Это был трудный выбор."
+      },
+      {
+        "en": "You have a difficult choice.",
+        "ru": "У тебя трудный выбор."
+      },
+      {
+        "en": "Healthy food is a smart choice.",
+        "ru": "Здоровая еда — умный выбор."
+      }
+    ],
+    "colloc": "make a choice · choice of"
+  },
+  "a2-0441": {
+    "examples": [
+      {
+        "en": "He quit cigarettes last year.",
+        "ru": "Он бросил сигареты в прошлом году."
+      },
+      {
+        "en": "He quit cigarettes last year.",
+        "ru": "Он бросил сигареты в прошлом году."
+      },
+      {
+        "en": "No cigarettes indoors.",
+        "ru": "В помещении без сигарет."
+      }
+    ],
+    "colloc": "cigarette smoke · quit cigarettes"
+  },
+  "a2-0442": {
+    "examples": [
+      {
+        "en": "Draw a perfect circle.",
+        "ru": "Нарисуй идеальный круг."
+      },
+      {
+        "en": "Sit in a circle for the game.",
+        "ru": "Сядьте в круг для игры."
+      },
+      {
+        "en": "We moved in the same social circle.",
+        "ru": "Мы вращались в одном кругу."
+      }
+    ],
+    "colloc": "circle of friends · full circle"
+  },
+  "a2-0443": {
+    "examples": [
+      {
+        "en": "Every citizen has rights.",
+        "ru": "У каждого гражданина есть права."
+      },
+      {
+        "en": "She became a US citizen.",
+        "ru": "Она стала гражданкой США."
+      },
+      {
+        "en": "Good citizens vote.",
+        "ru": "Хорошие граждане голосуют."
+      }
+    ],
+    "colloc": "senior citizen · fellow citizen"
+  },
+  "a2-0444": {
+    "examples": [
+      {
+        "en": "File an insurance claim.",
+        "ru": "Подай страховое заявление."
+      },
+      {
+        "en": "She made an insurance claim.",
+        "ru": "Она подала страховой иск."
+      },
+      {
+        "en": "I don't claim to know everything.",
+        "ru": "Не претендую на то, что знаю всё."
+      }
+    ],
+    "colloc": "claim that · baggage claim"
+  },
+  "a2-0445": {
+    "examples": [
+      {
+        "en": "My classmate sits next to me.",
+        "ru": "Мой одноклассник сидит рядом."
+      },
+      {
+        "en": "My classmate helped with notes.",
+        "ru": "Одноклассник помог с конспектом."
+      },
+      {
+        "en": "I still talk to old classmates.",
+        "ru": "Я всё ещё общаюсь со старыми одноклассниками."
+      }
+    ],
+    "colloc": "former classmate"
+  },
+  "a2-0446": {
+    "examples": [
+      {
+        "en": "The cleaner arrives early.",
+        "ru": "Уборщик приходит рано."
+      },
+      {
+        "en": "The cleaner comes on Fridays.",
+        "ru": "Уборщик приходит по пятницам."
+      },
+      {
+        "en": "Use a mild cleaner on wood.",
+        "ru": "Используй мягкое средство для дерева."
+      }
+    ],
+    "colloc": "window cleaner · vacuum cleaner"
+  },
+  "a2-0447": {
+    "examples": [
+      {
+        "en": "The climate is getting warmer.",
+        "ru": "Климат становится теплее."
+      },
+      {
+        "en": "The climate here is mild.",
+        "ru": "Климат здесь мягкий."
+      },
+      {
+        "en": "Climate change affects everyone.",
+        "ru": "Изменение климата затрагивает всех."
+      }
+    ],
+    "colloc": "climate change · mild climate"
+  },
+  "a2-0448": {
+    "examples": [
+      {
+        "en": "Visit the local clinic.",
+        "ru": "Посети местную клинику."
+      },
+      {
+        "en": "I went to a dental clinic.",
+        "ru": "Я ходил в стоматологическую клинику."
+      },
+      {
+        "en": "The clinic opens at eight.",
+        "ru": "Клиника открывается в восемь."
+      }
+    ],
+    "colloc": "health clinic · clinic appointment"
+  },
+  "a2-0449": {
+    "examples": [
+      {
+        "en": "Wipe it with a cloth.",
+        "ru": "Протри это тканью."
+      },
+      {
+        "en": "Wipe the table with a damp cloth.",
+        "ru": "Протри стол влажной тряпкой."
+      },
+      {
+        "en": "This cloth is soft cotton.",
+        "ru": "Эта ткань — мягкий хлопок."
+      }
+    ],
+    "colloc": "cloth bag · table cloth"
+  },
+  "a2-0450": {
+    "examples": [
+      {
+        "en": "Pack warm clothing.",
+        "ru": "Возьми тёплую одежду."
+      },
+      {
+        "en": "Pack warm clothing for winter.",
+        "ru": "Возьми тёплую одежду на зиму."
+      },
+      {
+        "en": "The store sells outdoor clothing.",
+        "ru": "Магазин продаёт одежду для улицы."
+      }
+    ],
+    "colloc": "clothing store · item of clothing"
+  },
+  "a2-0451": {
+    "examples": [
+      {
+        "en": "Join a sports club.",
+        "ru": "Вступи в спортклуб."
+      },
+      {
+        "en": "She joined a book club.",
+        "ru": "Она вступила в книжный клуб."
+      },
+      {
+        "en": "We danced at a jazz club.",
+        "ru": "Мы танцевали в джаз-клубе."
+      }
+    ],
+    "colloc": "sports club · club member"
+  },
+  "a2-0452": {
+    "examples": [
+      {
+        "en": "Give me a clue.",
+        "ru": "Дай мне подсказку."
+      },
+      {
+        "en": "Give me a clue about the gift.",
+        "ru": "Дай подсказку о подарке."
+      },
+      {
+        "en": "Police found an important clue.",
+        "ru": "Полиция нашла важный след."
+      }
+    ],
+    "colloc": "clue to · without a clue"
+  },
+  "a2-0453": {
+    "examples": [
+      {
+        "en": "Our coach is strict.",
+        "ru": "Наш тренер строгий."
+      },
+      {
+        "en": "Our coach pushed us hard.",
+        "ru": "Наш тренер сильно нас гнал."
+      },
+      {
+        "en": "She hired a career coach.",
+        "ru": "Она наняла карьерного коуча."
+      }
+    ],
+    "colloc": "soccer coach · life coach"
+  },
+  "a2-0454": {
+    "examples": [
+      {
+        "en": "Hotels line the coast.",
+        "ru": "Отели стоят вдоль побережья."
+      },
+      {
+        "en": "We drove along the coast.",
+        "ru": "Мы ехали вдоль побережья."
+      },
+      {
+        "en": "Houses on the coast cost more.",
+        "ru": "Дома на побережье дороже."
+      }
+    ],
+    "colloc": "east coast · coast guard"
+  },
+  "a2-0455": {
+    "examples": [
+      {
+        "en": "Enter the security code.",
+        "ru": "Введи код безопасности."
+      },
+      {
+        "en": "Enter the security code.",
+        "ru": "Введи код безопасности."
+      },
+      {
+        "en": "He writes code for a living.",
+        "ru": "Он зарабатывает написанием кода."
+      }
+    ],
+    "colloc": "zip code · code of conduct"
+  },
+  "a2-0456": {
+    "examples": [
+      {
+        "en": "My colleague is helpful.",
+        "ru": "Мой коллега отзывчивый."
+      },
+      {
+        "en": "I had lunch with a colleague.",
+        "ru": "Я обедал с коллегой."
+      },
+      {
+        "en": "Ask your colleagues for feedback.",
+        "ru": "Попроси коллег об обратной связи."
+      }
+    ],
+    "colloc": "close colleague · former colleague"
+  },
+  "a2-0457": {
+    "examples": [
+      {
+        "en": "She has a stamp collection.",
+        "ru": "У неё коллекция марок."
+      },
+      {
+        "en": "She has a stamp collection.",
+        "ru": "У неё коллекция марок."
+      },
+      {
+        "en": "The museum opened a new collection.",
+        "ru": "Музей открыл новую коллекцию."
+      }
+    ],
+    "colloc": "collection of · private collection"
+  },
+  "a2-0458": {
+    "examples": [
+      {
+        "en": "He starts college in autumn.",
+        "ru": "Он начинает колледж осенью."
+      },
+      {
+        "en": "She starts college in the fall.",
+        "ru": "Она поступает в колледж осенью."
+      },
+      {
+        "en": "Community college is more affordable.",
+        "ru": "Общественный колледж доступнее."
+      }
+    ],
+    "colloc": "college student · go to college"
+  },
+  "a2-0459": {
+    "examples": [
+      {
+        "en": "Ants live in a colony.",
+        "ru": "Муравьи живут в колонии."
+      },
+      {
+        "en": "Ants live in a colony.",
+        "ru": "Муравьи живут в колонии."
+      },
+      {
+        "en": "The island was once a colony.",
+        "ru": "Остров когда-то был колонией."
+      }
+    ],
+    "colloc": "artist colony · bacterial colony"
+  },
+  "a2-0460": {
+    "examples": [
+      {
+        "en": "Read the second column.",
+        "ru": "Прочитай второй столбец."
+      },
+      {
+        "en": "Read the newspaper column.",
+        "ru": "Прочитай газетную колонку."
+      },
+      {
+        "en": "A stone column held the roof.",
+        "ru": "Каменная колонна держала крышу."
+      }
+    ],
+    "colloc": "opinion column · column of"
+  },
+  "a2-0461": {
+    "examples": [
+      {
+        "en": "Try a new color combination.",
+        "ru": "Попробуй новое сочетание цветов."
+      },
+      {
+        "en": "Try a combination of both methods.",
+        "ru": "Попробуй комбинацию обоих методов."
+      },
+      {
+        "en": "The lock needs a combination.",
+        "ru": "Для замка нужен код."
+      }
+    ],
+    "colloc": "combination of · winning combination"
+  },
+  "a2-0462": {
+    "examples": [
+      {
+        "en": "We watched a funny comedy.",
+        "ru": "Мы смотрели смешную комедию."
+      },
+      {
+        "en": "We watched a comedy last night.",
+        "ru": "Вчера вечером смотрели комедию."
+      },
+      {
+        "en": "She performs stand-up comedy.",
+        "ru": "Она выступает со стендапом."
+      }
+    ],
+    "colloc": "romantic comedy · comedy show"
+  },
+  "a2-0463": {
+    "examples": [
+      {
+        "en": "This chair gives comfort.",
+        "ru": "Этот стул даёт комфорт."
+      },
+      {
+        "en": "Home brings me comfort.",
+        "ru": "Дом даёт мне уют."
+      },
+      {
+        "en": "Find comfort in small routines.",
+        "ru": "Найди утешение в маленьких привычках."
+      }
+    ],
+    "colloc": "comfort zone · for comfort"
+  },
+  "a2-0464": {
+    "examples": [
+      {
+        "en": "Leave a short comment.",
+        "ru": "Оставь короткий комментарий."
+      },
+      {
+        "en": "Leave a comment below.",
+        "ru": "Оставь комментарий ниже."
+      },
+      {
+        "en": "Her comment hurt his feelings.",
+        "ru": "Её комментарий задел его."
+      }
+    ],
+    "colloc": "comment on · no comment"
+  },
+  "a2-0465": {
+    "examples": [
+      {
+        "en": "Online commerce is growing.",
+        "ru": "Онлайн-торговля растёт."
+      },
+      {
+        "en": "E-commerce is growing fast.",
+        "ru": "Электронная коммерция быстро растёт."
+      },
+      {
+        "en": "The chamber of commerce meets monthly.",
+        "ru": "Торговая палата собирается ежемесячно."
+      }
+    ],
+    "colloc": "e-commerce · commerce department"
+  },
+  "a2-0466": {
+    "examples": [
+      {
+        "en": "Good communication matters.",
+        "ru": "Хорошее общение важно."
+      },
+      {
+        "en": "Clear communication prevents mistakes.",
+        "ru": "Ясная коммуникация предотвращает ошибки."
+      },
+      {
+        "en": "We lost communication for an hour.",
+        "ru": "Мы час были без связи."
+      }
+    ],
+    "colloc": "communication skills · means of communication"
+  },
+  "a2-0467": {
+    "examples": [
+      {
+        "en": "Help your local community.",
+        "ru": "Помоги местному сообществу."
+      },
+      {
+        "en": "Our community garden is open.",
+        "ru": "Наш общественный сад открыт."
+      },
+      {
+        "en": "Join a local community group.",
+        "ru": "Вступи в местную общинную группу."
+      }
+    ],
+    "colloc": "community center · sense of community"
+  },
+  "a2-0468": {
+    "examples": [
+      {
+        "en": "She works for a big company.",
+        "ru": "Она работает в большой компании."
+      },
+      {
+        "en": "She started a software company.",
+        "ru": "Она основала софтверную компанию."
+      },
+      {
+        "en": "I enjoy your company.",
+        "ru": "Мне нравится твоя компания."
+      }
+    ],
+    "colloc": "company of · keep company"
+  },
+  "a2-0469": {
+    "examples": [
+      {
+        "en": "Make a fair comparison.",
+        "ru": "Сделай честное сравнение."
+      },
+      {
+        "en": "In comparison, this phone is cheaper.",
+        "ru": "По сравнению этот телефон дешевле."
+      },
+      {
+        "en": "That's not a fair comparison.",
+        "ru": "Это нечестное сравнение."
+      }
+    ],
+    "colloc": "in comparison · comparison of"
+  },
+  "a2-0470": {
+    "examples": [
+      {
+        "en": "Join the writing competition.",
+        "ru": "Участвуй в конкурсе сочинений."
+      },
+      {
+        "en": "She entered a photo competition.",
+        "ru": "Она участвовала в фотоконкурсе."
+      },
+      {
+        "en": "Competition for jobs is tough.",
+        "ru": "Конкуренция за работу жёсткая."
+      }
+    ],
+    "colloc": "enter a competition · stiff competition"
+  },
+  "a2-0471": {
+    "examples": [
+      {
+        "en": "File a formal complaint.",
+        "ru": "Подай официальную жалобу."
+      },
+      {
+        "en": "I'd like to make a complaint.",
+        "ru": "Я хочу подать жалобу."
+      },
+      {
+        "en": "Customer complaints rose last month.",
+        "ru": "Жалобы клиентов выросли в прошлом месяце."
+      }
+    ],
+    "colloc": "complaint about · file a complaint"
+  },
+  "a2-0472": {
+    "examples": [
+      {
+        "en": "Explain the main concept.",
+        "ru": "Объясни главное понятие."
+      },
+      {
+        "en": "Explain the concept simply.",
+        "ru": "Объясни концепцию просто."
+      },
+      {
+        "en": "That's a new concept for me.",
+        "ru": "Для меня это новая концепция."
+      }
+    ],
+    "colloc": "concept of · basic concept"
+  },
+  "a2-0473": {
+    "examples": [
+      {
+        "en": "Pollution is a major concern.",
+        "ru": "Загрязнение — серьёзная проблема."
+      },
+      {
+        "en": "Safety is our main concern.",
+        "ru": "Безопасность — наша главная забота."
+      },
+      {
+        "en": "She expressed concern about costs.",
+        "ru": "Она выразила беспокойство о расходах."
+      }
+    ],
+    "colloc": "concern about · of concern"
+  },
+  "a2-0474": {
+    "examples": [
+      {
+        "en": "We bought concert tickets.",
+        "ru": "Мы купили билеты на концерт."
+      },
+      {
+        "en": "We got tickets to a jazz concert.",
+        "ru": "Мы достали билеты на джазовый концерт."
+      },
+      {
+        "en": "The concert starts at eight.",
+        "ru": "Концерт начинается в восемь."
+      }
+    ],
+    "colloc": "live concert · concert hall"
+  },
+  "a2-0475": {
+    "examples": [
+      {
+        "en": "Write a clear conclusion.",
+        "ru": "Напиши ясный вывод."
+      },
+      {
+        "en": "In conclusion, we need more time.",
+        "ru": "В заключение, нам нужно больше времени."
+      },
+      {
+        "en": "I came to the same conclusion.",
+        "ru": "Я пришёл к тому же выводу."
+      }
+    ],
+    "colloc": "reach a conclusion · in conclusion"
+  },
+  "a2-0476": {
+    "examples": [
+      {
+        "en": "The car is in good condition.",
+        "ru": "Машина в хорошем состоянии."
+      },
+      {
+        "en": "The bike is in good condition.",
+        "ru": "Велосипед в хорошем состоянии."
+      },
+      {
+        "en": "Weather conditions were poor.",
+        "ru": "Погодные условия были плохими."
+      }
+    ],
+    "colloc": "condition of · under the condition"
+  },
+  "a2-0477": {
+    "examples": [
+      {
+        "en": "She spoke at a conference.",
+        "ru": "Она выступила на конференции."
+      },
+      {
+        "en": "I'm at a conference this week.",
+        "ru": "На этой неделе я на конференции."
+      },
+      {
+        "en": "Book the conference room.",
+        "ru": "Забронируй конференц-зал."
+      }
+    ],
+    "colloc": "press conference · conference call"
+  },
+  "a2-0478": {
+    "examples": [
+      {
+        "en": "Practice builds confidence.",
+        "ru": "Практика укрепляет уверенность."
+      },
+      {
+        "en": "She spoke with confidence.",
+        "ru": "Она говорила уверенно."
+      },
+      {
+        "en": "Build confidence through practice.",
+        "ru": "Нарабатывай уверенность практикой."
+      }
+    ],
+    "colloc": "confidence in · boost confidence"
+  },
+  "a2-0479": {
+    "examples": [
+      {
+        "en": "Avoid unnecessary conflict.",
+        "ru": "Избегай ненужного конфликта."
+      },
+      {
+        "en": "Try to avoid conflict at work.",
+        "ru": "Старайся избегать конфликтов на работе."
+      },
+      {
+        "en": "The story has an inner conflict.",
+        "ru": "В истории есть внутренний конфликт."
+      }
+    ],
+    "colloc": "conflict with · conflict of interest"
+  },
+  "a2-0480": {
+    "examples": [
+      {
+        "en": "There was some confusion.",
+        "ru": "Была некоторая путаница."
+      },
+      {
+        "en": "There was confusion about the time.",
+        "ru": "Была путаница со временем."
+      },
+      {
+        "en": "His explanation caused more confusion.",
+        "ru": "Его объяснение вызвало ещё больше путаницы."
+      }
+    ],
+    "colloc": "confusion about · in confusion"
+  },
+  "a2-0481": {
+    "examples": [
+      {
+        "en": "Check your internet connection.",
+        "ru": "Проверь интернет-соединение."
+      },
+      {
+        "en": "Is there a connection between the events?",
+        "ru": "Есть связь между событиями?"
+      },
+      {
+        "en": "I lost my internet connection.",
+        "ru": "Я потерял интернет-соединение."
+      }
+    ],
+    "colloc": "in connection with · connection to"
+  },
+  "a2-0482": {
+    "examples": [
+      {
+        "en": "Think about the consequences.",
+        "ru": "Подумай о последствиях."
+      },
+      {
+        "en": "Think about the consequences.",
+        "ru": "Подумай о последствиях."
+      },
+      {
+        "en": "As a consequence, we left early.",
+        "ru": "Вследствие этого мы ушли рано."
+      }
+    ],
+    "colloc": "as a consequence · face the consequences"
+  },
+  "a2-0483": {
+    "examples": [
+      {
+        "en": "Wildlife conservation matters.",
+        "ru": "Охрана дикой природы важна."
+      },
+      {
+        "en": "Wildlife conservation matters.",
+        "ru": "Охрана дикой природы важна."
+      },
+      {
+        "en": "Energy conservation saves money.",
+        "ru": "Энергосбережение экономит деньги."
+      }
+    ],
+    "colloc": "conservation of · conservation area"
+  },
+  "a2-0484": {
+    "examples": [
+      {
+        "en": "Take cost into consideration.",
+        "ru": "Учти стоимость."
+      },
+      {
+        "en": "Thank you for your consideration.",
+        "ru": "Спасибо за внимание."
+      },
+      {
+        "en": "Take cost into consideration.",
+        "ru": "Учти стоимость."
+      }
+    ],
+    "colloc": "under consideration · out of consideration"
+  },
+  "a2-0485": {
+    "examples": [
+      {
+        "en": "Construction starts next month.",
+        "ru": "Строительство начнётся в следующем месяце."
+      },
+      {
+        "en": "Road construction delays traffic.",
+        "ru": "Дорожное строительство задерживает движение."
+      },
+      {
+        "en": "The building is under construction.",
+        "ru": "Здание на стадии строительства."
+      }
+    ],
+    "colloc": "under construction · construction site"
+  },
+  "a2-0486": {
+    "examples": [
+      {
+        "en": "Consumers want fair prices.",
+        "ru": "Потребители хотят честных цен."
+      },
+      {
+        "en": "Consumers want clear labels.",
+        "ru": "Потребители хотят понятные этикетки."
+      },
+      {
+        "en": "Consumer rights protect buyers.",
+        "ru": "Права потребителей защищают покупателей."
+      }
+    ],
+    "colloc": "consumer goods · consumer protection"
+  },
+  "a2-0487": {
+    "examples": [
+      {
+        "en": "Save my contact details.",
+        "ru": "Сохрани мои контакты."
+      },
+      {
+        "en": "Keep in contact after the trip.",
+        "ru": "Оставайтесь на связи после поездки."
+      },
+      {
+        "en": "Emergency contact is on the form.",
+        "ru": "Контакт для экстренных случаев — в форме."
+      }
+    ],
+    "colloc": "contact with · contact information"
+  },
+  "a2-0488": {
+    "examples": [
+      {
+        "en": "Put leftovers in a container.",
+        "ru": "Положи остатки в контейнер."
+      },
+      {
+        "en": "Put leftovers in a container.",
+        "ru": "Положи остатки в контейнер."
+      },
+      {
+        "en": "Shipping containers fill the port.",
+        "ru": "Порт заполнен контейнерами."
+      }
+    ],
+    "colloc": "food container · plastic container"
+  },
+  "a2-0489": {
+    "examples": [
+      {
+        "en": "Check the package contents.",
+        "ru": "Проверь содержимое посылки."
+      },
+      {
+        "en": "I'm content with the result.",
+        "ru": "Я доволен результатом."
+      },
+      {
+        "en": "Check the table of contents.",
+        "ru": "Проверь оглавление."
+      }
+    ],
+    "colloc": "content with · content of",
+    "note": "content = содержание / довольный"
+  },
+  "a2-0490": {
+    "examples": [
+      {
+        "en": "She won the cooking contest.",
+        "ru": "Она выиграла кулинарный конкурс."
+      },
+      {
+        "en": "She won a baking contest.",
+        "ru": "Она выиграла конкурс выпечки."
+      },
+      {
+        "en": "Enter the photo contest online.",
+        "ru": "Участвуй в фотоконкурсе онлайн."
+      }
+    ],
+    "colloc": "enter a contest · beauty contest"
+  },
+  "a2-0491": {
+    "examples": [
+      {
+        "en": "Guess the meaning from context.",
+        "ru": "Угадай значение из контекста."
+      },
+      {
+        "en": "Read the word in context.",
+        "ru": "Читай слово в контексте."
+      },
+      {
+        "en": "Without context, it sounds rude.",
+        "ru": "Без контекста это звучит грубо."
+      }
+    ],
+    "colloc": "in context · out of context"
+  },
+  "a2-0492": {
+    "examples": [
+      {
+        "en": "Read the contract carefully.",
+        "ru": "Внимательно прочитай контракт."
+      },
+      {
+        "en": "Read the contract before signing.",
+        "ru": "Прочитай договор перед подписью."
+      },
+      {
+        "en": "She signed a two-year contract.",
+        "ru": "Она подписала двухлетний контракт."
+      }
+    ],
+    "colloc": "sign a contract · contract with"
+  },
+  "a2-0493": {
+    "examples": [
+      {
+        "en": "Notice the sharp contrast.",
+        "ru": "Заметь резкий контраст."
+      },
+      {
+        "en": "In contrast, yesterday was quiet.",
+        "ru": "В отличие от этого, вчера было тихо."
+      },
+      {
+        "en": "There's a sharp contrast in colors.",
+        "ru": "Есть резкий контраз в цветах."
+      }
+    ],
+    "colloc": "in contrast · contrast with"
+  },
+  "a2-0494": {
+    "examples": [
+      {
+        "en": "Thank you for your contribution.",
+        "ru": "Спасибо за твой вклад."
+      },
+      {
+        "en": "Thank you for your contribution.",
+        "ru": "Спасибо за вклад."
+      },
+      {
+        "en": "Everyone made a contribution.",
+        "ru": "Каждый внёс вклад."
+      }
+    ],
+    "colloc": "make a contribution · contribution to"
+  },
+  "a2-0495": {
+    "examples": [
+      {
+        "en": "Online shopping offers convenience.",
+        "ru": "Онлайн-покупки дают удобство."
+      },
+      {
+        "en": "Online shopping is a convenience.",
+        "ru": "Онлайн-покупки — это удобство."
+      },
+      {
+        "en": "For your convenience, we stay open late.",
+        "ru": "Для вашего удобства мы работаем допоздна."
+      }
+    ],
+    "colloc": "at your convenience · convenience store"
+  },
+  "a2-0496": {
+    "examples": [
+      {
+        "en": "We had a long conversation.",
+        "ru": "У нас был долгий разговор."
+      },
+      {
+        "en": "We had a long conversation.",
+        "ru": "У нас был долгий разговор."
+      },
+      {
+        "en": "Join the conversation online.",
+        "ru": "Присоединяйся к разговору онлайн."
+      }
+    ],
+    "colloc": "conversation with · start a conversation"
+  },
+  "a2-0497": {
+    "examples": [
+      {
+        "en": "Turn off the cooker.",
+        "ru": "Выключи плиту."
+      },
+      {
+        "en": "The rice cooker beeps when ready.",
+        "ru": "Рисоварка пищит, когда готово."
+      },
+      {
+        "en": "Clean the cooker after use.",
+        "ru": "Почисти плиту после использования."
+      }
+    ],
+    "colloc": "pressure cooker · slow cooker",
+    "note": "BrE: cooker ≈ AmE stove"
+  },
+  "a2-0498": {
+    "examples": [
+      {
+        "en": "Meet me at the corner.",
+        "ru": "Встреть меня на углу."
+      },
+      {
+        "en": "Meet me on the corner.",
+        "ru": "Встретимся на углу."
+      },
+      {
+        "en": "There's a café around the corner.",
+        "ru": "За углом есть кафе."
+      }
+    ],
+    "colloc": "street corner · corner of"
+  },
+  "a2-0499": {
+    "examples": [
+      {
+        "en": "She wore a festival costume.",
+        "ru": "Она надела праздничный костюм."
+      },
+      {
+        "en": "She wore a Halloween costume.",
+        "ru": "Она надела костюм на Хэллоуин."
+      },
+      {
+        "en": "National costumes filled the parade.",
+        "ru": "Национальные костюмы заполнили парад."
+      }
+    ],
+    "colloc": "costume party · national costume"
+  },
+  "a2-0500": {
+    "examples": [
+      {
+        "en": "We stayed in a cottage.",
+        "ru": "Мы остановились в коттедже."
+      },
+      {
+        "en": "We rented a cottage by the lake.",
+        "ru": "Мы сняли коттедж у озера."
+      },
+      {
+        "en": "The cottage has a small garden.",
+        "ru": "У коттеджа маленький сад."
+      }
+    ],
+    "colloc": "cottage industry · holiday cottage"
+  },
+  "a2-0501": {
+    "examples": [
+      {
+        "en": "This shirt is pure cotton.",
+        "ru": "Эта рубашка из чистого хлопка."
+      },
+      {
+        "en": "This shirt is 100% cotton.",
+        "ru": "Эта рубашка — 100% хлопок."
+      },
+      {
+        "en": "Cotton grows in warm climates.",
+        "ru": "Хлопок растёт в тёплом климате."
+      }
+    ],
+    "colloc": "cotton shirt · cotton candy"
+  },
+  "a2-0502": {
+    "examples": [
+      {
+        "en": "He has a bad cough.",
+        "ru": "У него сильный кашель."
+      },
+      {
+        "en": "Cover your mouth when you cough.",
+        "ru": "Прикрывай рот, когда кашляешь."
+      },
+      {
+        "en": "I had a bad cough last week.",
+        "ru": "На прошлой неделе у меня был сильный кашель."
+      }
+    ],
+    "colloc": "cough syrup · dry cough"
+  },
+  "a2-0503": {
+    "examples": [
+      {
+        "en": "The city council meets weekly.",
+        "ru": "Городской совет встречается еженедельно."
+      },
+      {
+        "en": "The city council voted yes.",
+        "ru": "Городской совет проголосовал «за»."
+      },
+      {
+        "en": "Student council meets on Mondays.",
+        "ru": "Студсовет собирается по понедельникам."
+      }
+    ],
+    "colloc": "city council · council meeting"
+  },
+  "a2-0504": {
+    "examples": [
+      {
+        "en": "I love the quiet countryside.",
+        "ru": "Люблю тихую сельскую местность."
+      },
+      {
+        "en": "We spent Sunday in the countryside.",
+        "ru": "Мы провели воскресенье за городом."
+      },
+      {
+        "en": "The countryside looks green in spring.",
+        "ru": "Весной сельская местность зелёная."
+      }
+    ],
+    "colloc": "in the countryside · open countryside"
+  },
+  "a2-0505": {
+    "examples": [
+      {
+        "en": "A young couple walked by.",
+        "ru": "Мимо прошла молодая пара."
+      },
+      {
+        "en": "A couple sat by the window.",
+        "ru": "Пара сидела у окна."
+      },
+      {
+        "en": "Wait a couple of minutes.",
+        "ru": "Подожди пару минут."
+      }
+    ],
+    "colloc": "couple of · married couple"
+  },
+  "a2-0506": {
+    "examples": [
+      {
+        "en": "She showed great courage.",
+        "ru": "Она проявила большую смелость."
+      },
+      {
+        "en": "It takes courage to speak up.",
+        "ru": "Нужна смелость, чтобы высказаться."
+      },
+      {
+        "en": "She faced the challenge with courage.",
+        "ru": "Она встретила вызов со смелостью."
+      }
+    ],
+    "colloc": "courage to · take courage"
+  },
+  "a2-0507": {
+    "examples": [
+      {
+        "en": "I take an online course.",
+        "ru": "Я прохожу онлайн-курс."
+      },
+      {
+        "en": "I'm taking a cooking course.",
+        "ru": "Я прохожу кулинарный курс."
+      },
+      {
+        "en": "Of course I'll help.",
+        "ru": "Конечно, помогу."
+      }
+    ],
+    "colloc": "of course · course of"
+  },
+  "a2-0508": {
+    "examples": [
+      {
+        "en": "The case went to court.",
+        "ru": "Дело дошло до суда."
+      },
+      {
+        "en": "The case went to court.",
+        "ru": "Дело дошло до суда."
+      },
+      {
+        "en": "We played tennis on the court.",
+        "ru": "Мы играли в теннис на корте."
+      }
+    ],
+    "colloc": "court of law · tennis court"
+  },
+  "a2-0509": {
+    "examples": [
+      {
+        "en": "Design an attractive cover.",
+        "ru": "Сделай привлекательную обложку."
+      },
+      {
+        "en": "Put a cover on the pot.",
+        "ru": "Накрой кастрюлю крышкой."
+      },
+      {
+        "en": "The magazine cover featured her.",
+        "ru": "Она была на обложке журнала."
+      }
+    ],
+    "colloc": "under cover · cover story"
+  },
+  "a2-0510": {
+    "examples": [
+      {
+        "en": "There was a plane crash.",
+        "ru": "Произошла авиакатастрофа."
+      },
+      {
+        "en": "There was a crash on the highway.",
+        "ru": "На шоссе была авария."
+      },
+      {
+        "en": "My computer crashed again.",
+        "ru": "Компьютер снова завис."
+      }
+    ],
+    "colloc": "car crash · stock market crash"
+  },
+  "a2-0511": {
+    "examples": [
+      {
+        "en": "Add cream to the coffee.",
+        "ru": "Добавь сливки в кофе."
+      },
+      {
+        "en": "Add cream to the coffee.",
+        "ru": "Добавь сливки в кофе."
+      },
+      {
+        "en": "She uses face cream at night.",
+        "ru": "Она использует крем для лица на ночь."
+      }
+    ],
+    "colloc": "ice cream · whipped cream"
+  }
+}

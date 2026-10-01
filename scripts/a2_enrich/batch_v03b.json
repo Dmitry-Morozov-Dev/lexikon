@@ -1,0 +1,761 @@
+{
+  "a2-0179": {
+    "examples": [
+      {
+        "en": "Good food satisfies hunger.",
+        "ru": "Хорошая еда утоляет голод."
+      },
+      {
+        "en": "Nothing seems to satisfy him.",
+        "ru": "Кажется, ничто его не удовлетворяет."
+      },
+      {
+        "en": "The meal satisfied my hunger.",
+        "ru": "Еда утолила голод."
+      }
+    ],
+    "colloc": "satisfy needs · customer satisfaction",
+    "pattern": "satisfy + N"
+  },
+  "a2-0180": {
+    "examples": [
+      {
+        "en": "Horror films scare me.",
+        "ru": "Фильмы ужасов меня пугают."
+      },
+      {
+        "en": "Loud thunder scared the dog.",
+        "ru": "Гром напугал собаку."
+      },
+      {
+        "en": "Don't scare me like that!",
+        "ru": "Не пугай меня так!"
+      }
+    ],
+    "colloc": "scare away · scared of",
+    "pattern": "scare + N"
+  },
+  "a2-0181": {
+    "examples": [
+      {
+        "en": "Cats scratch furniture.",
+        "ru": "Кошки царапают мебель."
+      },
+      {
+        "en": "Don't scratch the new table.",
+        "ru": "Не царапай новый стол."
+      },
+      {
+        "en": "The cat scratched the door.",
+        "ru": "Кошка поцарапала дверь."
+      }
+    ],
+    "colloc": "scratch the surface · from scratch",
+    "pattern": "scratch + N"
+  },
+  "a2-0182": {
+    "examples": [
+      {
+        "en": "Fans scream with joy.",
+        "ru": "Болельщики кричат от радости."
+      },
+      {
+        "en": "Someone screamed for help.",
+        "ru": "Кто-то закричал о помощи."
+      },
+      {
+        "en": "Fans screamed when the band appeared.",
+        "ru": "Фанаты закричали, когда появилась группа."
+      }
+    ],
+    "colloc": "scream for · scream at",
+    "pattern": "scream + adv"
+  },
+  "a2-0183": {
+    "examples": [
+      {
+        "en": "Select your preferred language.",
+        "ru": "Выбери предпочитаемый язык."
+      },
+      {
+        "en": "Select the best option for you.",
+        "ru": "Выбери лучший вариант для себя."
+      },
+      {
+        "en": "She was selected for the team.",
+        "ru": "Её выбрали в команду."
+      }
+    ],
+    "colloc": "select from · carefully selected",
+    "pattern": "select + N",
+    "syn": "choose"
+  },
+  "a2-0184": {
+    "examples": [
+      {
+        "en": "Separate the dirty clothes.",
+        "ru": "Отдели грязную одежду."
+      },
+      {
+        "en": "Separate the whites from the yolks.",
+        "ru": "Отдели белки от желтков."
+      },
+      {
+        "en": "Work and rest should be separated.",
+        "ru": "Работу и отдых стоит разделять."
+      }
+    ],
+    "colloc": "separate from · separate into",
+    "pattern": "separate + N from"
+  },
+  "a2-0185": {
+    "examples": [
+      {
+        "en": "Waiters serve the guests.",
+        "ru": "Официанты обслуживают гостей."
+      },
+      {
+        "en": "They serve breakfast until ten.",
+        "ru": "Завтрак подают до десяти."
+      },
+      {
+        "en": "She served in the army.",
+        "ru": "Она служила в армии."
+      }
+    ],
+    "colloc": "serve food · serve as",
+    "pattern": "serve + N"
+  },
+  "a2-0186": {
+    "examples": [
+      {
+        "en": "They settle in a new city.",
+        "ru": "Они устраиваются в новом городе."
+      },
+      {
+        "en": "They settled in a quiet town.",
+        "ru": "Они поселились в тихом городке."
+      },
+      {
+        "en": "Let's settle this argument.",
+        "ru": "Давай уладим этот спор."
+      }
+    ],
+    "colloc": "settle down · settle in",
+    "pattern": "settle + adv"
+  },
+  "a2-0187": {
+    "examples": [
+      {
+        "en": "Shake the bottle well.",
+        "ru": "Хорошо встряхни бутылку."
+      },
+      {
+        "en": "Shake the bottle before use.",
+        "ru": "Встряхни бутылку перед использованием."
+      },
+      {
+        "en": "His hands shook with cold.",
+        "ru": "Руки дрожали от холода."
+      }
+    ],
+    "colloc": "shake hands · shake off",
+    "pattern": "shake + N"
+  },
+  "a2-0188": {
+    "examples": [
+      {
+        "en": "Do not shame children.",
+        "ru": "Не стыди детей."
+      },
+      {
+        "en": "Don't shame people for asking questions.",
+        "ru": "Не стыди людей за вопросы."
+      },
+      {
+        "en": "It shames me to admit it.",
+        "ru": "Мне стыдно признаться."
+      }
+    ],
+    "colloc": "what a shame · shame on",
+    "pattern": "shame + N"
+  },
+  "a2-0189": {
+    "examples": [
+      {
+        "en": "The news shocked everyone.",
+        "ru": "Новость шокировала всех."
+      },
+      {
+        "en": "The news shocked everyone.",
+        "ru": "Новость шокировала всех."
+      },
+      {
+        "en": "I was shocked by the prices.",
+        "ru": "Я был шокирован ценами."
+      }
+    ],
+    "colloc": "in shock · culture shock",
+    "pattern": "shock + N"
+  },
+  "a2-0190": {
+    "examples": [
+      {
+        "en": "They shoot a short film.",
+        "ru": "Они снимают короткий фильм."
+      },
+      {
+        "en": "They shoot the film in Italy.",
+        "ru": "Они снимают фильм в Италии."
+      },
+      {
+        "en": "Don't shoot until I say.",
+        "ru": "Не стреляй, пока не скажу."
+      }
+    ],
+    "colloc": "shoot a video · shoot for",
+    "pattern": "shoot + N"
+  },
+  "a2-0191": {
+    "examples": [
+      {
+        "en": "Shut the window, please.",
+        "ru": "Закрой окно, пожалуйста."
+      },
+      {
+        "en": "Shut the window — it's cold.",
+        "ru": "Закрой окно — холодно."
+      },
+      {
+        "en": "The shop shuts at six.",
+        "ru": "Магазин закрывается в шесть."
+      }
+    ],
+    "colloc": "shut down · shut up",
+    "pattern": "shut + N",
+    "syn": "close"
+  },
+  "a2-0192": {
+    "examples": [
+      {
+        "en": "Sign the contract today.",
+        "ru": "Подпиши контракт сегодня."
+      },
+      {
+        "en": "Please sign at the bottom.",
+        "ru": "Подпишитесь внизу."
+      },
+      {
+        "en": "She signed a new contract.",
+        "ru": "Она подписала новый контракт."
+      }
+    ],
+    "colloc": "sign up · sign in",
+    "pattern": "sign + N"
+  },
+  "a2-0193": {
+    "examples": [
+      {
+        "en": "We ski in winter.",
+        "ru": "Зимой мы катаемся на лыжах."
+      },
+      {
+        "en": "We ski every winter in Colorado.",
+        "ru": "Каждую зиму мы катаемся в Колорадо."
+      },
+      {
+        "en": "She learned to ski as a child.",
+        "ru": "Она научилась кататься на лыжах в детстве."
+      }
+    ],
+    "colloc": "go skiing · ski resort",
+    "pattern": "ski + adv"
+  },
+  "a2-0194": {
+    "examples": [
+      {
+        "en": "Be careful not to slip.",
+        "ru": "Осторожно, не поскользнись."
+      },
+      {
+        "en": "Be careful not to slip on the ice.",
+        "ru": "Осторожно, не поскользнись на льду."
+      },
+      {
+        "en": "The glass slipped from my hand.",
+        "ru": "Стакан выскользнул из руки."
+      }
+    ],
+    "colloc": "slip on · slip away",
+    "pattern": "slip + adv"
+  },
+  "a2-0195": {
+    "examples": [
+      {
+        "en": "Solve the math problem.",
+        "ru": "Реши математическую задачу."
+      },
+      {
+        "en": "Together we can solve this.",
+        "ru": "Вместе мы это решим."
+      },
+      {
+        "en": "She solved the puzzle in minutes.",
+        "ru": "Она решила головоломку за минуты."
+      }
+    ],
+    "colloc": "solve a problem · solve a mystery",
+    "pattern": "solve + N"
+  },
+  "a2-0196": {
+    "examples": [
+      {
+        "en": "Sort the papers by date.",
+        "ru": "Отсортируй бумаги по дате."
+      },
+      {
+        "en": "Sort the laundry by color.",
+        "ru": "Разбери бельё по цвету."
+      },
+      {
+        "en": "I need to sort out my schedule.",
+        "ru": "Мне нужно разобраться с расписанием."
+      }
+    ],
+    "colloc": "sort out · sort by",
+    "pattern": "sort + N / sort out"
+  },
+  "a2-0197": {
+    "examples": [
+      {
+        "en": "That sounds like a plan.",
+        "ru": "Это звучит как план."
+      },
+      {
+        "en": "That sounds like a good plan.",
+        "ru": "Звучит как хороший план."
+      },
+      {
+        "en": "The alarm sounded at dawn.",
+        "ru": "Сирена прозвучала на рассвете."
+      }
+    ],
+    "colloc": "sound like · sound good",
+    "pattern": "sound + adj / like"
+  },
+  "a2-0198": {
+    "examples": [
+      {
+        "en": "Do not spend too much.",
+        "ru": "Не трать слишком много."
+      },
+      {
+        "en": "We spent the weekend at the lake.",
+        "ru": "Мы провели выходные у озера."
+      },
+      {
+        "en": "Don't spend all your money at once.",
+        "ru": "Не трать все деньги сразу."
+      }
+    ],
+    "colloc": "spend time · spend money",
+    "pattern": "spend + N on"
+  },
+  "a2-0199": {
+    "examples": [
+      {
+        "en": "Do not spill the coffee.",
+        "ru": "Не пролей кофе."
+      },
+      {
+        "en": "Don't spill coffee on the laptop.",
+        "ru": "Не пролей кофе на ноутбук."
+      },
+      {
+        "en": "She spilled the beans about the party.",
+        "ru": "Она проболталась о вечеринке."
+      }
+    ],
+    "colloc": "spill on · spill the beans",
+    "pattern": "spill + N"
+  },
+  "a2-0200": {
+    "examples": [
+      {
+        "en": "Heat can spoil food.",
+        "ru": "Жара может испортить еду."
+      },
+      {
+        "en": "Heat will spoil the milk.",
+        "ru": "Жара испортит молоко."
+      },
+      {
+        "en": "Don't spoil the surprise.",
+        "ru": "Не испорти сюрприз."
+      }
+    ],
+    "colloc": "spoil the fun · spoiled food",
+    "pattern": "spoil + N"
+  },
+  "a2-0201": {
+    "examples": [
+      {
+        "en": "Butter spreads easily.",
+        "ru": "Масло легко намазывается."
+      },
+      {
+        "en": "News spread quickly online.",
+        "ru": "Новости быстро разлетелись онлайн."
+      },
+      {
+        "en": "Spread butter on the toast.",
+        "ru": "Намажь масло на тост."
+      }
+    ],
+    "colloc": "spread out · spread the word",
+    "pattern": "spread + N"
+  },
+  "a2-0202": {
+    "examples": [
+      {
+        "en": "Squeeze the lemon gently.",
+        "ru": "Осторожно сожми лимон."
+      },
+      {
+        "en": "Squeeze the lemon over the fish.",
+        "ru": "Выжми лимон на рыбу."
+      },
+      {
+        "en": "We squeezed into the crowded elevator.",
+        "ru": "Мы втиснулись в полный лифт."
+      }
+    ],
+    "colloc": "squeeze in · squeeze out",
+    "pattern": "squeeze + N"
+  },
+  "a2-0203": {
+    "examples": [
+      {
+        "en": "State your full name.",
+        "ru": "Назови своё полное имя."
+      },
+      {
+        "en": "Please state your full name.",
+        "ru": "Укажите полное имя."
+      },
+      {
+        "en": "The report states the facts clearly.",
+        "ru": "В отчёте ясно изложены факты."
+      }
+    ],
+    "colloc": "state clearly · state of",
+    "pattern": "state + N / that"
+  },
+  "a2-0204": {
+    "examples": [
+      {
+        "en": "Never steal from others.",
+        "ru": "Никогда не кради у других."
+      },
+      {
+        "en": "Someone stole my bike.",
+        "ru": "Кто-то украл мой велосипед."
+      },
+      {
+        "en": "Don't steal other people's ideas.",
+        "ru": "Не воруй чужие идеи."
+      }
+    ],
+    "colloc": "steal from · stolen goods",
+    "pattern": "steal + N"
+  },
+  "a2-0205": {
+    "examples": [
+      {
+        "en": "The stamp sticks well.",
+        "ru": "Марка хорошо клеится."
+      },
+      {
+        "en": "Stick the stamp on the envelope.",
+        "ru": "Наклей марку на конверт."
+      },
+      {
+        "en": "The name stuck in my mind.",
+        "ru": "Имя засело в голове."
+      }
+    ],
+    "colloc": "stick to · stick out",
+    "pattern": "stick + N / to"
+  },
+  "a2-0206": {
+    "examples": [
+      {
+        "en": "Stretch before exercise.",
+        "ru": "Растянись перед тренировкой."
+      },
+      {
+        "en": "Stretch before you run.",
+        "ru": "Потянись перед пробежкой."
+      },
+      {
+        "en": "The desert stretches for miles.",
+        "ru": "Пустыня тянется на мили."
+      }
+    ],
+    "colloc": "stretch out · stretch your legs",
+    "pattern": "stretch + N"
+  },
+  "a2-0207": {
+    "examples": [
+      {
+        "en": "Hard work helps you succeed.",
+        "ru": "Труд помогает добиться успеха."
+      },
+      {
+        "en": "She succeeded on her second try.",
+        "ru": "Она преуспела со второй попытки."
+      },
+      {
+        "en": "If at first you don't succeed, try again.",
+        "ru": "Не получилось с первого раза — попробуй снова."
+      }
+    ],
+    "colloc": "succeed in · succeed at",
+    "pattern": "succeed in + Ving",
+    "ant": "fail"
+  },
+  "a2-0208": {
+    "examples": [
+      {
+        "en": "Patients suffer from pain.",
+        "ru": "Пациенты страдают от боли."
+      },
+      {
+        "en": "Many people suffer from allergies.",
+        "ru": "Многие страдают от аллергии."
+      },
+      {
+        "en": "The business suffered during the crisis.",
+        "ru": "Бизнес пострадал во время кризиса."
+      }
+    ],
+    "colloc": "suffer from · suffer losses",
+    "pattern": "suffer from"
+  },
+  "a2-0209": {
+    "examples": [
+      {
+        "en": "I suggest a short walk.",
+        "ru": "Предлагаю короткую прогулку."
+      },
+      {
+        "en": "I suggest we leave early.",
+        "ru": "Предлагаю уйти пораньше."
+      },
+      {
+        "en": "Can you suggest a good hotel?",
+        "ru": "Можешь посоветовать хороший отель?"
+      }
+    ],
+    "colloc": "suggest that · suggest doing",
+    "pattern": "suggest + N / Ving / that"
+  },
+  "a2-0210": {
+    "examples": [
+      {
+        "en": "Shops supply fresh food.",
+        "ru": "Магазины снабжают свежей едой."
+      },
+      {
+        "en": "The farm supplies fresh eggs.",
+        "ru": "Ферма поставляет свежие яйца."
+      },
+      {
+        "en": "Who will supply the equipment?",
+        "ru": "Кто поставит оборудование?"
+      }
+    ],
+    "colloc": "supply with · water supply",
+    "pattern": "supply + N"
+  },
+  "a2-0211": {
+    "examples": [
+      {
+        "en": "Friends support each other.",
+        "ru": "Друзья поддерживают друг друга."
+      },
+      {
+        "en": "Friends supported me through hard times.",
+        "ru": "Друзья поддержали меня в трудные времена."
+      },
+      {
+        "en": "I support local businesses.",
+        "ru": "Я поддерживаю местный бизнес."
+      }
+    ],
+    "colloc": "support for · in support of",
+    "pattern": "support + N"
+  },
+  "a2-0212": {
+    "examples": [
+      {
+        "en": "I suppose you are right.",
+        "ru": "Полагаю, ты прав."
+      },
+      {
+        "en": "I suppose you're right.",
+        "ru": "Полагаю, ты прав."
+      },
+      {
+        "en": "Suppose we miss the train — then what?",
+        "ru": "Допустим, опоздаем на поезд — что тогда?"
+      }
+    ],
+    "colloc": "I suppose · supposed to",
+    "pattern": "suppose + that"
+  },
+  "a2-0213": {
+    "examples": [
+      {
+        "en": "Trees surround the house.",
+        "ru": "Деревья окружают дом."
+      },
+      {
+        "en": "Trees surround the house.",
+        "ru": "Дом окружён деревьями."
+      },
+      {
+        "en": "Fans surrounded the singer.",
+        "ru": "Фанаты окружили певца."
+      }
+    ],
+    "colloc": "surround with · surrounded by",
+    "pattern": "surround + N"
+  },
+  "a2-0214": {
+    "examples": [
+      {
+        "en": "Plants survive in deserts.",
+        "ru": "Растения выживают в пустынях."
+      },
+      {
+        "en": "Few plants survive this heat.",
+        "ru": "Мало растений переживает такую жару."
+      },
+      {
+        "en": "She survived a serious accident.",
+        "ru": "Она пережила серьёзную аварию."
+      }
+    ],
+    "colloc": "survive on · survival kit",
+    "pattern": "survive + N"
+  },
+  "a2-0215": {
+    "examples": [
+      {
+        "en": "Police suspect a stranger.",
+        "ru": "Полиция подозревает незнакомца."
+      },
+      {
+        "en": "Police suspect foul play.",
+        "ru": "Полиция подозревает преступление."
+      },
+      {
+        "en": "I suspect he's hiding something.",
+        "ru": "Подозреваю, что он что-то скрывает."
+      }
+    ],
+    "colloc": "suspect that · prime suspect",
+    "pattern": "suspect + N / that"
+  },
+  "a2-0216": {
+    "examples": [
+      {
+        "en": "Switch off the lights.",
+        "ru": "Выключи свет."
+      },
+      {
+        "en": "Switch off the lights when you leave.",
+        "ru": "Выключай свет, когда уходишь."
+      },
+      {
+        "en": "She switched jobs last year.",
+        "ru": "В прошлом году она сменила работу."
+      }
+    ],
+    "colloc": "switch on/off · switch to",
+    "pattern": "switch + N / to"
+  },
+  "a2-0217": {
+    "examples": [
+      {
+        "en": "Prices tend to rise.",
+        "ru": "Цены имеют тенденцию расти."
+      },
+      {
+        "en": "I tend to wake up early.",
+        "ru": "Я обычно рано встаю."
+      },
+      {
+        "en": "Nurses tend to injured patients.",
+        "ru": "Медсёстры ухаживают за ранеными."
+      }
+    ],
+    "colloc": "tend to · tend toward",
+    "pattern": "tend to + V"
+  },
+  "a2-0218": {
+    "examples": [
+      {
+        "en": "Storms threaten the coast.",
+        "ru": "Штормы угрожают побережью."
+      },
+      {
+        "en": "Rising seas threaten coastal towns.",
+        "ru": "Подъём моря угрожает прибрежным городам."
+      },
+      {
+        "en": "He threatened to quit.",
+        "ru": "Он пригрозил уволиться."
+      }
+    ],
+    "colloc": "threaten to · under threat",
+    "pattern": "threaten to + V"
+  },
+  "a2-0219": {
+    "examples": [
+      {
+        "en": "Tie your shoelaces.",
+        "ru": "Завяжи шнурки."
+      },
+      {
+        "en": "Tie your shoes before you run.",
+        "ru": "Завяжи шнурки перед пробежкой."
+      },
+      {
+        "en": "They tied for first place.",
+        "ru": "Они разделили первое место."
+      }
+    ],
+    "colloc": "tie up · necktie",
+    "pattern": "tie + N"
+  },
+  "a2-0220": {
+    "examples": [
+      {
+        "en": "Tighten the screw carefully.",
+        "ru": "Осторожно затяни винт."
+      },
+      {
+        "en": "Tighten the screws carefully.",
+        "ru": "Аккуратно затяни винты."
+      },
+      {
+        "en": "Security tightened after the incident.",
+        "ru": "После инцидента усилили охрану."
+      }
+    ],
+    "colloc": "tighten up · tighten your belt",
+    "pattern": "tighten + N"
+  }
+}

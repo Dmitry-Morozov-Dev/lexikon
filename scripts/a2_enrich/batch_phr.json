@@ -1,0 +1,683 @@
+{
+  "a2-0836": {
+    "examples": [
+      {
+        "en": "Call me as soon as you arrive.",
+        "ru": "Позвони, как только приедешь."
+      },
+      {
+        "en": "Call me as soon as you arrive.",
+        "ru": "Позвони, как только приедешь."
+      },
+      {
+        "en": "As soon as it stops raining, we'll leave.",
+        "ru": "Как только дождь кончится — уйдём."
+      }
+    ],
+    "colloc": "as soon as possible"
+  },
+  "a2-0837": {
+    "examples": [
+      {
+        "en": "Wait at least ten minutes.",
+        "ru": "Подожди по крайней мере десять минут."
+      },
+      {
+        "en": "At least try once.",
+        "ru": "По крайней мере попробуй раз."
+      },
+      {
+        "en": "We need at least an hour.",
+        "ru": "Нам нужен хотя бы час."
+      }
+    ],
+    "colloc": "at least · at the very least"
+  },
+  "a2-0838": {
+    "examples": [
+      {
+        "en": "Come here at once.",
+        "ru": "Иди сюда сразу."
+      },
+      {
+        "en": "Come here at once!",
+        "ru": "Иди сюда немедленно!"
+      },
+      {
+        "en": "Do both tasks at once.",
+        "ru": "Делай оба задания сразу."
+      }
+    ],
+    "colloc": "at once · all at once"
+  },
+  "a2-0839": {
+    "examples": [
+      {
+        "en": "By the way, are you free?",
+        "ru": "Кстати, ты свободен?"
+      },
+      {
+        "en": "By the way, did you eat?",
+        "ru": "Кстати, ты ел?"
+      },
+      {
+        "en": "By the way, thanks again.",
+        "ru": "Кстати, ещё раз спасибо."
+      }
+    ],
+    "colloc": "by the way"
+  },
+  "a2-0840": {
+    "examples": [
+      {
+        "en": "Eat fruit, for example apples.",
+        "ru": "Ешь фрукты, например яблоки."
+      },
+      {
+        "en": "Eat more fruit, for example apples.",
+        "ru": "Ешь больше фруктов, например яблок."
+      },
+      {
+        "en": "For example, try walking.",
+        "ru": "Например, попробуй ходить пешком."
+      }
+    ],
+    "colloc": "for example · for instance"
+  },
+  "a2-0841": {
+    "examples": [
+      {
+        "en": "In fact, I agree with you.",
+        "ru": "На самом деле я с тобой согласен."
+      },
+      {
+        "en": "In fact, I already knew.",
+        "ru": "На самом деле я уже знал."
+      },
+      {
+        "en": "She's new here — in fact, she started today.",
+        "ru": "Она здесь новенькая — на самом деле начала сегодня."
+      }
+    ],
+    "colloc": "in fact · as a matter of fact"
+  },
+  "a2-0842": {
+    "examples": [
+      {
+        "en": "I study in order to improve.",
+        "ru": "Я учусь, чтобы улучшиться."
+      },
+      {
+        "en": "I left early in order to catch the train.",
+        "ru": "Я ушёл рано, чтобы успеть на поезд."
+      },
+      {
+        "en": "Save money in order to travel.",
+        "ru": "Копи деньги, чтобы путешествовать."
+      }
+    ],
+    "colloc": "in order to · in order that"
+  },
+  "a2-0843": {
+    "examples": [
+      {
+        "en": "Walk instead of driving.",
+        "ru": "Иди пешком вместо вождения."
+      },
+      {
+        "en": "Take tea instead of coffee.",
+        "ru": "Возьми чай вместо кофе."
+      },
+      {
+        "en": "Walk instead of driving.",
+        "ru": "Иди пешком вместо езды."
+      }
+    ],
+    "colloc": "instead of"
+  },
+  "a2-0844": {
+    "examples": [
+      {
+        "en": "I look forward to meeting you.",
+        "ru": "С нетерпением жду встречи."
+      },
+      {
+        "en": "I look forward to meeting you.",
+        "ru": "Жду встречи с тобой."
+      },
+      {
+        "en": "We're looking forward to the weekend.",
+        "ru": "Мы ждём выходных."
+      }
+    ],
+    "colloc": "look forward to + Ving/N"
+  },
+  "a2-0845": {
+    "examples": [
+      {
+        "en": "Make sure the door is locked.",
+        "ru": "Убедись, что дверь заперта."
+      },
+      {
+        "en": "Make sure the door is locked.",
+        "ru": "Убедись, что дверь закрыта."
+      },
+      {
+        "en": "Make sure you pack your passport.",
+        "ru": "Убедись, что взял паспорт."
+      }
+    ],
+    "colloc": "make sure that"
+  },
+  "a2-0846": {
+    "examples": [
+      {
+        "en": "She no longer lives here.",
+        "ru": "Она больше здесь не живёт."
+      },
+      {
+        "en": "She no longer lives here.",
+        "ru": "Она больше здесь не живёт."
+      },
+      {
+        "en": "This ticket is no longer valid.",
+        "ru": "Этот билет больше не действителен."
+      }
+    ],
+    "colloc": "no longer · not any longer"
+  },
+  "a2-0847": {
+    "examples": [
+      {
+        "en": "I did not do it on purpose.",
+        "ru": "Я сделал это не нарочно."
+      },
+      {
+        "en": "I didn't do it on purpose.",
+        "ru": "Я сделал это не специально."
+      },
+      {
+        "en": "She spilled the tea on purpose.",
+        "ru": "Она специально пролила чай."
+      }
+    ],
+    "colloc": "on purpose · by accident"
+  },
+  "a2-0848": {
+    "examples": [
+      {
+        "en": "Try once again carefully.",
+        "ru": "Попробуй ещё раз осторожно."
+      },
+      {
+        "en": "Once again, thank you.",
+        "ru": "Ещё раз спасибо."
+      },
+      {
+        "en": "Let's try once again.",
+        "ru": "Давай попробуем ещё раз."
+      }
+    ],
+    "colloc": "once again · yet again"
+  },
+  "a2-0849": {
+    "examples": [
+      {
+        "en": "The elevator is out of order.",
+        "ru": "Лифт не работает."
+      },
+      {
+        "en": "The elevator is out of order.",
+        "ru": "Лифт не работает."
+      },
+      {
+        "en": "This machine is out of order.",
+        "ru": "Этот аппарат неисправен."
+      }
+    ],
+    "colloc": "out of order"
+  },
+  "a2-0850": {
+    "examples": [
+      {
+        "en": "I will call right away.",
+        "ru": "Я позвоню немедленно."
+      },
+      {
+        "en": "I'll do it right away.",
+        "ru": "Сделаю прямо сейчас."
+      },
+      {
+        "en": "Call the doctor right away.",
+        "ru": "Сразу вызови врача."
+      }
+    ],
+    "colloc": "right away · straight away"
+  },
+  "a2-0851": {
+    "examples": [
+      {
+        "en": "So far everything is fine.",
+        "ru": "До сих пор всё хорошо."
+      },
+      {
+        "en": "So far, everything is fine.",
+        "ru": "Пока всё хорошо."
+      },
+      {
+        "en": "Have you heard anything so far?",
+        "ru": "Ты что-нибудь слышал пока?"
+      }
+    ],
+    "colloc": "so far · so far so good"
+  },
+  "a2-0852": {
+    "examples": [
+      {
+        "en": "Take care and write soon.",
+        "ru": "Береги себя и пиши скорее."
+      },
+      {
+        "en": "Take care of yourself.",
+        "ru": "Береги себя."
+      },
+      {
+        "en": "Who will take care of the dog?",
+        "ru": "Кто присмотрит за собакой?"
+      }
+    ],
+    "colloc": "take care · take care of"
+  },
+  "a2-0853": {
+    "examples": [
+      {
+        "en": "The meeting takes place tomorrow.",
+        "ru": "Встреча происходит завтра."
+      },
+      {
+        "en": "The meeting takes place at noon.",
+        "ru": "Встреча проходит в полдень."
+      },
+      {
+        "en": "Where will the concert take place?",
+        "ru": "Где пройдёт концерт?"
+      }
+    ],
+    "colloc": "take place · take the place of"
+  },
+  "a2-0854": {
+    "examples": [
+      {
+        "en": "I used to live in Chicago.",
+        "ru": "Я раньше жил в Чикаго."
+      },
+      {
+        "en": "I used to live in Chicago.",
+        "ru": "Я раньше жил в Чикаго."
+      },
+      {
+        "en": "She used to play piano.",
+        "ru": "Она раньше играла на пианино."
+      }
+    ],
+    "colloc": "used to + V",
+    "note": "used to ≠ be used to"
+  },
+  "a2-0855": {
+    "examples": [
+      {
+        "en": "According to the map, turn left.",
+        "ru": "Согласно карте, поверни налево."
+      },
+      {
+        "en": "According to the forecast, it'll rain.",
+        "ru": "По прогнозу, будет дождь."
+      },
+      {
+        "en": "According to her, we're late.",
+        "ru": "По её словам, мы опаздываем."
+      }
+    ],
+    "colloc": "according to"
+  },
+  "a2-0856": {
+    "examples": [
+      {
+        "en": "She speaks English as well as French.",
+        "ru": "Она говорит по-английски, а также по-французски."
+      },
+      {
+        "en": "Bring water as well as snacks.",
+        "ru": "Возьми воду, а также закуски."
+      },
+      {
+        "en": "She's smart as well as kind.",
+        "ru": "Она умная, а также добрая."
+      }
+    ],
+    "colloc": "as well as"
+  },
+  "a2-0857": {
+    "examples": [
+      {
+        "en": "We stayed because of the rain.",
+        "ru": "Мы остались из-за дождя."
+      },
+      {
+        "en": "We stayed home because of the storm.",
+        "ru": "Мы остались дома из-за бури."
+      },
+      {
+        "en": "Flights were delayed because of fog.",
+        "ru": "Рейсы задержали из-за тумана."
+      }
+    ],
+    "colloc": "because of · because"
+  },
+  "a2-0858": {
+    "examples": [
+      {
+        "en": "Even though it rained, we walked.",
+        "ru": "Хотя шёл дождь, мы гуляли."
+      },
+      {
+        "en": "Even though it rained, we walked.",
+        "ru": "Хотя шёл дождь, мы гуляли."
+      },
+      {
+        "en": "I went even though I was tired.",
+        "ru": "Я пошёл, хотя устал."
+      }
+    ],
+    "colloc": "even though · even if"
+  },
+  "a2-0859": {
+    "examples": [
+      {
+        "en": "Take a coat in case it rains.",
+        "ru": "Возьми пальто на случай дождя."
+      },
+      {
+        "en": "Take an umbrella in case it rains.",
+        "ru": "Возьми зонт на случай дождя."
+      },
+      {
+        "en": "Write it down in case you forget.",
+        "ru": "Запиши на случай, если забудешь."
+      }
+    ],
+    "colloc": "in case · in case of"
+  },
+  "a2-0860": {
+    "examples": [
+      {
+        "en": "Wait in front of the shop.",
+        "ru": "Жди перед магазином."
+      },
+      {
+        "en": "Park in front of the store.",
+        "ru": "Припаркуйся перед магазином."
+      },
+      {
+        "en": "Don't talk with food in front of guests.",
+        "ru": "Не говори с едой во рту перед гостями."
+      }
+    ],
+    "colloc": "in front of · in front"
+  },
+  "a2-0861": {
+    "examples": [
+      {
+        "en": "Sit next to me.",
+        "ru": "Сядь рядом со мной."
+      },
+      {
+        "en": "Sit next to me.",
+        "ru": "Сядь рядом со мной."
+      },
+      {
+        "en": "The bank is next to the café.",
+        "ru": "Банк рядом с кафе."
+      }
+    ],
+    "colloc": "next to · next door to"
+  },
+  "a2-0862": {
+    "examples": [
+      {
+        "en": "Thanks to you, we finished.",
+        "ru": "Благодаря тебе мы закончили."
+      },
+      {
+        "en": "Thanks to you, we finished early.",
+        "ru": "Благодаря тебе мы закончили рано."
+      },
+      {
+        "en": "Thanks to the map, we found it.",
+        "ru": "Благодаря карте мы нашли."
+      }
+    ],
+    "colloc": "thanks to"
+  },
+  "a2-0863": {
+    "examples": [
+      {
+        "en": "It costs up to fifty dollars.",
+        "ru": "Это стоит до пятидесяти долларов."
+      },
+      {
+        "en": "It's up to you.",
+        "ru": "Решать тебе."
+      },
+      {
+        "en": "Up to ten people can join.",
+        "ru": "До десяти человек могут присоединиться."
+      }
+    ],
+    "colloc": "up to · up to date"
+  },
+  "a2-0864": {
+    "examples": [
+      {
+        "en": "Stay as long as you need.",
+        "ru": "Оставайся, пока нужно."
+      },
+      {
+        "en": "Stay as long as you like.",
+        "ru": "Оставайся сколько хочешь."
+      },
+      {
+        "en": "As long as you're careful, it's fine.",
+        "ru": "Пока ты осторожен — всё хорошо."
+      }
+    ],
+    "colloc": "as long as"
+  },
+  "a2-0865": {
+    "examples": [
+      {
+        "en": "Get rid of old papers.",
+        "ru": "Избавься от старых бумаг."
+      },
+      {
+        "en": "Get rid of old clothes.",
+        "ru": "Избавься от старой одежды."
+      },
+      {
+        "en": "I can't get rid of this cold.",
+        "ru": "Не могу избавиться от этой простуды."
+      }
+    ],
+    "colloc": "get rid of"
+  },
+  "a2-0866": {
+    "examples": [
+      {
+        "en": "Do not give up now.",
+        "ru": "Не сдавайся сейчас."
+      },
+      {
+        "en": "Don't give up now.",
+        "ru": "Не сдавайся сейчас."
+      },
+      {
+        "en": "She gave up smoking.",
+        "ru": "Она бросила курить."
+      }
+    ],
+    "colloc": "give up · give up on"
+  },
+  "a2-0867": {
+    "examples": [
+      {
+        "en": "We hang out on weekends.",
+        "ru": "Мы проводим время по выходным."
+      },
+      {
+        "en": "We hang out at the café.",
+        "ru": "Мы тусуемся в кафе."
+      },
+      {
+        "en": "Want to hang out later?",
+        "ru": "Хочешь потусить позже?"
+      }
+    ],
+    "colloc": "hang out with · hang out"
+  },
+  "a2-0868": {
+    "examples": [
+      {
+        "en": "Pick up the kids at three.",
+        "ru": "Забери детей в три."
+      },
+      {
+        "en": "I'll pick you up at six.",
+        "ru": "Заберу тебя в шесть."
+      },
+      {
+        "en": "Pick up some milk, please.",
+        "ru": "Купи молока, пожалуйста."
+      }
+    ],
+    "colloc": "pick up · pick up on"
+  },
+  "a2-0869": {
+    "examples": [
+      {
+        "en": "Do not put off studying.",
+        "ru": "Не откладывай учёбу."
+      },
+      {
+        "en": "Don't put off the dentist.",
+        "ru": "Не откладывай стоматолога."
+      },
+      {
+        "en": "The meeting was put off.",
+        "ru": "Встречу отложили."
+      }
+    ],
+    "colloc": "put off · put off by"
+  },
+  "a2-0870": {
+    "examples": [
+      {
+        "en": "We ran out of milk.",
+        "ru": "У нас закончилось молоко."
+      },
+      {
+        "en": "We ran out of milk.",
+        "ru": "У нас закончилось молоко."
+      },
+      {
+        "en": "Don't run out of time.",
+        "ru": "Не закончи время."
+      }
+    ],
+    "colloc": "run out of · run out"
+  },
+  "a2-0871": {
+    "examples": [
+      {
+        "en": "Set up the new laptop.",
+        "ru": "Настрой новый ноутбук."
+      },
+      {
+        "en": "She set up a new company.",
+        "ru": "Она основала новую компанию."
+      },
+      {
+        "en": "Can you set up the projector?",
+        "ru": "Можешь настроить проектор?"
+      }
+    ],
+    "colloc": "set up · set up for"
+  },
+  "a2-0872": {
+    "examples": [
+      {
+        "en": "They turned down my offer.",
+        "ru": "Они отклонили моё предложение."
+      },
+      {
+        "en": "Please turn down the music.",
+        "ru": "Сделай музыку тише."
+      },
+      {
+        "en": "They turned down my offer.",
+        "ru": "Они отклонили моё предложение."
+      }
+    ],
+    "colloc": "turn down · turn down for"
+  },
+  "a2-0873": {
+    "examples": [
+      {
+        "en": "He turned up late.",
+        "ru": "Он появился поздно."
+      },
+      {
+        "en": "Turn up the heat a little.",
+        "ru": "Чуть прибавь отопление."
+      },
+      {
+        "en": "He turned up late again.",
+        "ru": "Он снова появился поздно."
+      }
+    ],
+    "colloc": "turn up · turn up the volume"
+  },
+  "a2-0874": {
+    "examples": [
+      {
+        "en": "I work out three times weekly.",
+        "ru": "Я тренируюсь три раза в неделю."
+      },
+      {
+        "en": "Things will work out.",
+        "ru": "Всё получится."
+      },
+      {
+        "en": "I work out three times a week.",
+        "ru": "Я тренируюсь три раза в неделю."
+      }
+    ],
+    "colloc": "work out · work out a plan"
+  },
+  "a2-0875": {
+    "examples": [
+      {
+        "en": "Find out the train times.",
+        "ru": "Выясни расписание поездов."
+      },
+      {
+        "en": "I'll find out and tell you.",
+        "ru": "Узнаю и скажу."
+      },
+      {
+        "en": "Did you find out the truth?",
+        "ru": "Ты узнал правду?"
+      }
+    ],
+    "colloc": "find out · find out about"
+  }
+}

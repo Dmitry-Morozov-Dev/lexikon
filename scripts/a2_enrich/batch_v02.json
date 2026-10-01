@@ -1,0 +1,1357 @@
+{
+  "a2-0066": {
+    "examples": [
+      {
+        "en": "We experience cold winters.",
+        "ru": "Мы переживаем холодные зимы."
+      },
+      {
+        "en": "She experienced culture shock abroad.",
+        "ru": "За границей она испытала культурный шок."
+      },
+      {
+        "en": "Have you experienced this problem before?",
+        "ru": "Сталкивался ли ты с этой проблемой раньше?"
+      }
+    ],
+    "colloc": "experience problems · work experience",
+    "pattern": "experience + N"
+  },
+  "a2-0069": {
+    "examples": [
+      {
+        "en": "Feed the cat twice daily.",
+        "ru": "Корми кошку дважды в день."
+      },
+      {
+        "en": "Feed the cat before you leave.",
+        "ru": "Покорми кота, прежде чем уйти."
+      },
+      {
+        "en": "This cable feeds power to the screen.",
+        "ru": "Этот кабель подаёт питание на экран."
+      }
+    ],
+    "colloc": "feed on · feed the dog",
+    "pattern": "feed + N"
+  },
+  "a2-0070": {
+    "examples": [
+      {
+        "en": "Fetch a glass of water.",
+        "ru": "Принеси стакан воды."
+      },
+      {
+        "en": "Could you fetch my glasses?",
+        "ru": "Можешь принести мои очки?"
+      },
+      {
+        "en": "The dog fetched the ball.",
+        "ru": "Собака принесла мяч."
+      }
+    ],
+    "colloc": "fetch water · go and fetch",
+    "pattern": "fetch + N"
+  },
+  "a2-0071": {
+    "examples": [
+      {
+        "en": "Doctors fight disease.",
+        "ru": "Врачи борются с болезнью."
+      },
+      {
+        "en": "They fought against the new law.",
+        "ru": "Они боролись против нового закона."
+      },
+      {
+        "en": "Don't fight over small things.",
+        "ru": "Не ругайтесь из-за мелочей."
+      }
+    ],
+    "colloc": "fight for · fight against",
+    "pattern": "fight for / against"
+  },
+  "a2-0072": {
+    "examples": [
+      {
+        "en": "These shoes fit perfectly.",
+        "ru": "Эти туфли идеально сидят."
+      },
+      {
+        "en": "These shoes don't fit me.",
+        "ru": "Эти туфли мне не подходят."
+      },
+      {
+        "en": "She fits perfectly into the team.",
+        "ru": "Она идеально вписывается в команду."
+      }
+    ],
+    "colloc": "fit in · keep fit",
+    "pattern": "fit + N / fit in"
+  },
+  "a2-0073": {
+    "examples": [
+      {
+        "en": "Focus on one task.",
+        "ru": "Сосредоточься на одной задаче."
+      },
+      {
+        "en": "Focus on what you can control.",
+        "ru": "Сосредоточься на том, что можешь контролировать."
+      },
+      {
+        "en": "The camera won't focus.",
+        "ru": "Камера не наводится."
+      }
+    ],
+    "colloc": "focus on · stay focused",
+    "pattern": "focus on + N"
+  },
+  "a2-0074": {
+    "examples": [
+      {
+        "en": "Fold the clean clothes.",
+        "ru": "Сложи чистую одежду."
+      },
+      {
+        "en": "Fold the letter and put it in the envelope.",
+        "ru": "Сложи письмо и положи в конверт."
+      },
+      {
+        "en": "She folded her arms and waited.",
+        "ru": "Она скрестила руки и ждала."
+      }
+    ],
+    "colloc": "fold up · fold in half",
+    "pattern": "fold + N"
+  },
+  "a2-0075": {
+    "examples": [
+      {
+        "en": "Do not force him to go.",
+        "ru": "Не заставляй его идти."
+      },
+      {
+        "en": "Don't force the door — you'll break it.",
+        "ru": "Не силой открывай дверь — сломаешь."
+      },
+      {
+        "en": "They forced him to leave.",
+        "ru": "Они заставили его уйти."
+      }
+    ],
+    "colloc": "force sb to · by force",
+    "pattern": "force sb to + V"
+  },
+  "a2-0076": {
+    "examples": [
+      {
+        "en": "Please forgive my mistake.",
+        "ru": "Пожалуйста, прости мою ошибку."
+      },
+      {
+        "en": "Please forgive me for the delay.",
+        "ru": "Прости меня за задержку."
+      },
+      {
+        "en": "I can't forgive that kind of lie.",
+        "ru": "Не могу простить такую ложь."
+      }
+    ],
+    "colloc": "forgive sb for · forgive and forget",
+    "pattern": "forgive sb for"
+  },
+  "a2-0077": {
+    "examples": [
+      {
+        "en": "Loud noises frighten babies.",
+        "ru": "Громкие звуки пугают малышей."
+      },
+      {
+        "en": "Loud noises frighten the dog.",
+        "ru": "Громкие звуки пугают собаку."
+      },
+      {
+        "en": "Don't frighten the kids with stories.",
+        "ru": "Не пугай детей страшилками."
+      }
+    ],
+    "colloc": "frighten away · be frightened",
+    "pattern": "frighten + N"
+  },
+  "a2-0078": {
+    "examples": [
+      {
+        "en": "Gather your documents.",
+        "ru": "Собери документы."
+      },
+      {
+        "en": "We gathered around the table.",
+        "ru": "Мы собрались вокруг стола."
+      },
+      {
+        "en": "Gather your things — we're leaving.",
+        "ru": "Собери вещи — уходим."
+      }
+    ],
+    "colloc": "gather information · gather around",
+    "pattern": "gather + N"
+  },
+  "a2-0079": {
+    "examples": [
+      {
+        "en": "Guess the correct answer.",
+        "ru": "Угадай правильный ответ."
+      },
+      {
+        "en": "Guess who called me today!",
+        "ru": "Угадай, кто мне сегодня звонил!"
+      },
+      {
+        "en": "I guessed the answer correctly.",
+        "ru": "Я правильно угадал ответ."
+      }
+    ],
+    "colloc": "guess what · make a guess",
+    "pattern": "guess + N / that"
+  },
+  "a2-0080": {
+    "examples": [
+      {
+        "en": "Guides guide tourists carefully.",
+        "ru": "Гиды аккуратно ведут туристов."
+      },
+      {
+        "en": "A local guide showed us the ruins.",
+        "ru": "Местный гид показал нам руины."
+      },
+      {
+        "en": "This book guides beginners step by step.",
+        "ru": "Эта книга шаг за шагом ведёт новичков."
+      }
+    ],
+    "colloc": "tour guide · guided tour",
+    "pattern": "guide + N"
+  },
+  "a2-0081": {
+    "examples": [
+      {
+        "en": "Hang your coat there.",
+        "ru": "Повесь пальто туда."
+      },
+      {
+        "en": "Hang your coat by the door.",
+        "ru": "Повесь пальто у двери."
+      },
+      {
+        "en": "Pictures hang on every wall.",
+        "ru": "Картины висят на каждой стене."
+      }
+    ],
+    "colloc": "hang up · hang on",
+    "pattern": "hang + N / hang up"
+  },
+  "a2-0082": {
+    "examples": [
+      {
+        "en": "Heat the soup gently.",
+        "ru": "Осторожно нагрей суп."
+      },
+      {
+        "en": "Heat the soup before serving.",
+        "ru": "Подогрей суп перед подачей."
+      },
+      {
+        "en": "The sun heats the water quickly.",
+        "ru": "Солнце быстро нагревает воду."
+      }
+    ],
+    "colloc": "heat up · central heating",
+    "pattern": "heat + N"
+  },
+  "a2-0083": {
+    "examples": [
+      {
+        "en": "Do not hesitate to ask.",
+        "ru": "Не стесняйся спрашивать."
+      },
+      {
+        "en": "Don't hesitate to ask for help.",
+        "ru": "Не стесняйся просить о помощи."
+      },
+      {
+        "en": "She hesitated before answering.",
+        "ru": "Она замешкалась перед ответом."
+      }
+    ],
+    "colloc": "hesitate to · without hesitation",
+    "pattern": "hesitate to + V"
+  },
+  "a2-0084": {
+    "examples": [
+      {
+        "en": "Companies hire new staff.",
+        "ru": "Компании нанимают персонал."
+      },
+      {
+        "en": "They hired two new designers.",
+        "ru": "Они наняли двух новых дизайнеров."
+      },
+      {
+        "en": "We hired a car for the weekend.",
+        "ru": "Мы взяли машину напрокат на выходные."
+      }
+    ],
+    "colloc": "hire sb · for hire",
+    "note": "AmE: hire (нанять); также rent",
+    "pattern": "hire + N"
+  },
+  "a2-0085": {
+    "examples": [
+      {
+        "en": "Identify the main idea.",
+        "ru": "Определи главную идею."
+      },
+      {
+        "en": "Can you identify the person in the photo?",
+        "ru": "Можешь опознать человека на фото?"
+      },
+      {
+        "en": "Scientists identified the virus.",
+        "ru": "Учёные идентифицировали вирус."
+      }
+    ],
+    "colloc": "identify as · identify with",
+    "pattern": "identify + N"
+  },
+  "a2-0086": {
+    "examples": [
+      {
+        "en": "Do not ignore warnings.",
+        "ru": "Не игнорируй предупреждения."
+      },
+      {
+        "en": "Don't ignore the warning lights.",
+        "ru": "Не игнорируй предупреждающие сигналы."
+      },
+      {
+        "en": "She ignored my message.",
+        "ru": "Она проигнорировала моё сообщение."
+      }
+    ],
+    "colloc": "ignore advice · simply ignore",
+    "pattern": "ignore + N"
+  },
+  "a2-0087": {
+    "examples": [
+      {
+        "en": "Imagine a quiet beach.",
+        "ru": "Представь тихий пляж."
+      },
+      {
+        "en": "Imagine living by the sea.",
+        "ru": "Представь жизнь у моря."
+      },
+      {
+        "en": "I can't imagine traveling alone.",
+        "ru": "Не могу представить путешествие в одиночку."
+      }
+    ],
+    "colloc": "imagine that · hard to imagine",
+    "pattern": "imagine + Ving / that"
+  },
+  "a2-0088": {
+    "examples": [
+      {
+        "en": "Practice improves your English.",
+        "ru": "Практика улучшает английский."
+      },
+      {
+        "en": "My English improved after the trip.",
+        "ru": "После поездки мой английский улучшился."
+      },
+      {
+        "en": "We need to improve customer service.",
+        "ru": "Нам нужно улучшить обслуживание."
+      }
+    ],
+    "colloc": "improve skills · improve on",
+    "pattern": "improve + N"
+  },
+  "a2-0089": {
+    "examples": [
+      {
+        "en": "The price includes breakfast.",
+        "ru": "В цену входит завтрак."
+      },
+      {
+        "en": "The price includes breakfast.",
+        "ru": "В цену входит завтрак."
+      },
+      {
+        "en": "Did you include my name on the list?",
+        "ru": "Ты включил моё имя в список?"
+      }
+    ],
+    "colloc": "include in · including",
+    "pattern": "include + N"
+  },
+  "a2-0090": {
+    "examples": [
+      {
+        "en": "Prices increase each year.",
+        "ru": "Цены растут каждый год."
+      },
+      {
+        "en": "Sales increased by 10%.",
+        "ru": "Продажи выросли на 10%."
+      },
+      {
+        "en": "They increased my salary.",
+        "ru": "Мне повысили зарплату."
+      }
+    ],
+    "colloc": "increase by · increase in",
+    "pattern": "increase + N",
+    "syn": "decrease"
+  },
+  "a2-0091": {
+    "examples": [
+      {
+        "en": "Friends influence our choices.",
+        "ru": "Друзья влияют на наш выбор."
+      },
+      {
+        "en": "Parents influence children's habits.",
+        "ru": "Родители влияют на привычки детей."
+      },
+      {
+        "en": "Don't let ads influence your choices.",
+        "ru": "Не дай рекламе влиять на выбор."
+      }
+    ],
+    "colloc": "influence on · under the influence",
+    "pattern": "influence + N"
+  },
+  "a2-0092": {
+    "examples": [
+      {
+        "en": "Please inform the manager.",
+        "ru": "Пожалуйста, сообщи менеджеру."
+      },
+      {
+        "en": "Please inform us of any changes.",
+        "ru": "Сообщите нам о любых изменениях."
+      },
+      {
+        "en": "She informed the police immediately.",
+        "ru": "Она сразу сообщила в полицию."
+      }
+    ],
+    "colloc": "inform sb of · keep informed",
+    "pattern": "inform sb of / about"
+  },
+  "a2-0093": {
+    "examples": [
+      {
+        "en": "She insists on paying.",
+        "ru": "Она настаивает на оплате."
+      },
+      {
+        "en": "He insisted on paying the bill.",
+        "ru": "Он настоял на том, чтобы оплатить счёт."
+      },
+      {
+        "en": "I insist that you rest.",
+        "ru": "Я настаиваю, чтобы ты отдохнул."
+      }
+    ],
+    "colloc": "insist on · insist that",
+    "pattern": "insist on + Ving / that"
+  },
+  "a2-0094": {
+    "examples": [
+      {
+        "en": "Instruct the new workers.",
+        "ru": "Проинструктируй новых работников."
+      },
+      {
+        "en": "The coach instructed us carefully.",
+        "ru": "Тренер тщательно нас проинструктировал."
+      },
+      {
+        "en": "Instruct students to turn off phones.",
+        "ru": "Попросите студентов выключить телефоны."
+      }
+    ],
+    "colloc": "instruct sb to · follow instructions",
+    "pattern": "instruct sb to + V"
+  },
+  "a2-0095": {
+    "examples": [
+      {
+        "en": "I intend to travel soon.",
+        "ru": "Я намерен скоро путешествовать."
+      },
+      {
+        "en": "I intend to finish this tonight.",
+        "ru": "Я намерен закончить это сегодня вечером."
+      },
+      {
+        "en": "What do you intend to do next?",
+        "ru": "Что ты собираешься делать дальше?"
+      }
+    ],
+    "colloc": "intend to · intended for",
+    "pattern": "intend to + V"
+  },
+  "a2-0096": {
+    "examples": [
+      {
+        "en": "Introduce me to your sister.",
+        "ru": "Представь меня своей сестре."
+      },
+      {
+        "en": "Let me introduce my colleague.",
+        "ru": "Позволь представить коллегу."
+      },
+      {
+        "en": "The company introduced a new policy.",
+        "ru": "Компания ввела новую политику."
+      }
+    ],
+    "colloc": "introduce sb to · introduce yourself",
+    "pattern": "introduce sb to"
+  },
+  "a2-0097": {
+    "examples": [
+      {
+        "en": "Scientists invent new tools.",
+        "ru": "Учёные изобретают новые инструменты."
+      },
+      {
+        "en": "Who invented the telephone?",
+        "ru": "Кто изобрёл телефон?"
+      },
+      {
+        "en": "Kids invent games all the time.",
+        "ru": "Дети постоянно придумывают игры."
+      }
+    ],
+    "colloc": "invent a story · newly invented",
+    "pattern": "invent + N"
+  },
+  "a2-0098": {
+    "examples": [
+      {
+        "en": "Invest money carefully.",
+        "ru": "Инвестируй деньги осторожно."
+      },
+      {
+        "en": "She invested money in the startup.",
+        "ru": "Она вложила деньги в стартап."
+      },
+      {
+        "en": "Invest time in learning skills.",
+        "ru": "Вкладывай время в навыки."
+      }
+    ],
+    "colloc": "invest in · investment",
+    "pattern": "invest in + N"
+  },
+  "a2-0099": {
+    "examples": [
+      {
+        "en": "The project involves travel.",
+        "ru": "Проект предполагает поездки."
+      },
+      {
+        "en": "The job involves a lot of travel.",
+        "ru": "Работа предполагает много поездок."
+      },
+      {
+        "en": "Don't involve me in your argument.",
+        "ru": "Не втягивай меня в ваш спор."
+      }
+    ],
+    "colloc": "involve in · get involved",
+    "pattern": "involve + N / involve sb in"
+  },
+  "a2-0100": {
+    "examples": [
+      {
+        "en": "Iron your shirt tonight.",
+        "ru": "Погладь рубашку сегодня вечером."
+      },
+      {
+        "en": "I need to iron this shirt.",
+        "ru": "Мне нужно погладить эту рубашку."
+      },
+      {
+        "en": "She ironed the curtains.",
+        "ru": "Она погладила шторы."
+      }
+    ],
+    "colloc": "iron clothes · iron out",
+    "pattern": "iron + N"
+  },
+  "a2-0101": {
+    "examples": [
+      {
+        "en": "I jog every morning.",
+        "ru": "Я бегаю трусцой каждое утро."
+      },
+      {
+        "en": "I jog along the river path.",
+        "ru": "Я бегаю трусцой вдоль реки."
+      },
+      {
+        "en": "She jogs three times a week.",
+        "ru": "Она бегает три раза в неделю."
+      }
+    ],
+    "colloc": "jog in the park · go jogging",
+    "pattern": "jog + adv"
+  },
+  "a2-0102": {
+    "examples": [
+      {
+        "en": "Do not judge too quickly.",
+        "ru": "Не суди слишком быстро."
+      },
+      {
+        "en": "Don't judge people by looks.",
+        "ru": "Не суди людей по внешности."
+      },
+      {
+        "en": "A panel will judge the contest.",
+        "ru": "Жюри будет судить конкурс."
+      }
+    ],
+    "colloc": "judge by · judge fairly",
+    "pattern": "judge + N"
+  },
+  "a2-0103": {
+    "examples": [
+      {
+        "en": "Knock before you enter.",
+        "ru": "Постучи, прежде чем войти."
+      },
+      {
+        "en": "Someone knocked on the door.",
+        "ru": "Кто-то постучал в дверь."
+      },
+      {
+        "en": "Knock before you enter.",
+        "ru": "Постучи, прежде чем войти."
+      }
+    ],
+    "colloc": "knock on · knock down",
+    "pattern": "knock on / at"
+  },
+  "a2-0104": {
+    "examples": [
+      {
+        "en": "Label each box clearly.",
+        "ru": "Чётко подпиши каждую коробку."
+      },
+      {
+        "en": "Label each box clearly.",
+        "ru": "Чётко промаркируй каждую коробку."
+      },
+      {
+        "en": "They labeled him a troublemaker.",
+        "ru": "Его заклеймили смутьяном."
+      }
+    ],
+    "colloc": "label as · food label",
+    "pattern": "label + N"
+  },
+  "a2-0105": {
+    "examples": [
+      {
+        "en": "Lay the book on the desk.",
+        "ru": "Положи книгу на стол."
+      },
+      {
+        "en": "Lay the map on the table.",
+        "ru": "Положи карту на стол."
+      },
+      {
+        "en": "Birds lay eggs in spring.",
+        "ru": "Весной птицы откладывают яйца."
+      }
+    ],
+    "colloc": "lay down · lay the table",
+    "note": "lay/laid/laid ≠ lie/lay/lain",
+    "pattern": "lay + N"
+  },
+  "a2-0106": {
+    "examples": [
+      {
+        "en": "Lift the box carefully.",
+        "ru": "Осторожно подними коробку."
+      },
+      {
+        "en": "Can you help me lift this sofa?",
+        "ru": "Поможешь поднять диван?"
+      },
+      {
+        "en": "The fog lifted by noon.",
+        "ru": "К полудню туман рассеялся."
+      }
+    ],
+    "colloc": "lift weights · give a lift",
+    "pattern": "lift + N"
+  },
+  "a2-0107": {
+    "examples": [
+      {
+        "en": "Link your accounts online.",
+        "ru": "Свяжи аккаунты онлайн."
+      },
+      {
+        "en": "Link your account to the app.",
+        "ru": "Привяжи аккаунт к приложению."
+      },
+      {
+        "en": "The two events are linked.",
+        "ru": "Эти два события связаны."
+      }
+    ],
+    "colloc": "link to · link between",
+    "pattern": "link + N to"
+  },
+  "a2-0108": {
+    "examples": [
+      {
+        "en": "Load the bags into the car.",
+        "ru": "Загрузи сумки в машину."
+      },
+      {
+        "en": "Load the dishwasher, please.",
+        "ru": "Загрузи посудомойку, пожалуйста."
+      },
+      {
+        "en": "We loaded the car with bags.",
+        "ru": "Мы загрузили машину сумками."
+      }
+    ],
+    "colloc": "load up · heavy load",
+    "pattern": "load + N"
+  },
+  "a2-0109": {
+    "examples": [
+      {
+        "en": "She manages a small team.",
+        "ru": "Она управляет небольшой командой."
+      },
+      {
+        "en": "She manages a small team.",
+        "ru": "Она руководит небольшой командой."
+      },
+      {
+        "en": "Did you manage to finish on time?",
+        "ru": "Тебе удалось закончить вовремя?"
+      }
+    ],
+    "colloc": "manage to · manage a project",
+    "pattern": "manage + N / manage to + V"
+  },
+  "a2-0110": {
+    "examples": [
+      {
+        "en": "Mark the correct answers.",
+        "ru": "Отметь правильные ответы."
+      },
+      {
+        "en": "Mark the important dates on the calendar.",
+        "ru": "Отметь важные даты в календаре."
+      },
+      {
+        "en": "The teacher marked our essays.",
+        "ru": "Учитель проверил наши эссе."
+      }
+    ],
+    "colloc": "mark as · high marks",
+    "pattern": "mark + N"
+  },
+  "a2-0111": {
+    "examples": [
+      {
+        "en": "Your socks do not match.",
+        "ru": "Твои носки не сочетаются."
+      },
+      {
+        "en": "Your socks don't match.",
+        "ru": "Носки не пара."
+      },
+      {
+        "en": "The curtains match the sofa.",
+        "ru": "Шторы сочетаются с диваном."
+      }
+    ],
+    "colloc": "match with · perfect match",
+    "pattern": "match + N"
+  },
+  "a2-0112": {
+    "examples": [
+      {
+        "en": "Measure the room carefully.",
+        "ru": "Тщательно измерь комнату."
+      },
+      {
+        "en": "Measure the window before buying curtains.",
+        "ru": "Измерь окно перед покупкой штор."
+      },
+      {
+        "en": "Success isn't only measured by money.",
+        "ru": "Успех измеряется не только деньгами."
+      }
+    ],
+    "colloc": "measure up · tape measure",
+    "pattern": "measure + N"
+  },
+  "a2-0113": {
+    "examples": [
+      {
+        "en": "Do not mention the surprise.",
+        "ru": "Не упоминай сюрприз."
+      },
+      {
+        "en": "She mentioned your name twice.",
+        "ru": "Она дважды упомянула твоё имя."
+      },
+      {
+        "en": "Don't mention it.",
+        "ru": "Не за что. / Не стоит."
+      }
+    ],
+    "colloc": "mention that · not to mention",
+    "pattern": "mention + N / that"
+  },
+  "a2-0114": {
+    "examples": [
+      {
+        "en": "Do you mind waiting?",
+        "ru": "Ты не возражаешь подождать?"
+      },
+      {
+        "en": "Do you mind if I open the window?",
+        "ru": "Ты не против, если я открою окно?"
+      },
+      {
+        "en": "Never mind — I'll do it.",
+        "ru": "Ничего — я сделаю."
+      }
+    ],
+    "colloc": "mind if · never mind",
+    "pattern": "mind + if / Ving"
+  },
+  "a2-0115": {
+    "examples": [
+      {
+        "en": "Did you notice the sign?",
+        "ru": "Ты заметил знак?"
+      },
+      {
+        "en": "Did you notice the new sign?",
+        "ru": "Ты заметил новый знак?"
+      },
+      {
+        "en": "I noticed she seemed tired.",
+        "ru": "Я заметил, что она выглядит уставшей."
+      }
+    ],
+    "colloc": "notice that · take notice",
+    "pattern": "notice + N / that"
+  },
+  "a2-0116": {
+    "examples": [
+      {
+        "en": "Children should obey rules.",
+        "ru": "Дети должны слушаться правил."
+      },
+      {
+        "en": "Drivers must obey traffic laws.",
+        "ru": "Водители должны соблюдать ПДД."
+      },
+      {
+        "en": "The dog obeys simple commands.",
+        "ru": "Собака слушается простых команд."
+      }
+    ],
+    "colloc": "obey rules · obey orders",
+    "pattern": "obey + N"
+  },
+  "a2-0117": {
+    "examples": [
+      {
+        "en": "Observe the birds quietly.",
+        "ru": "Тихо наблюдай за птицами."
+      },
+      {
+        "en": "Scientists observe animal behavior.",
+        "ru": "Учёные наблюдают за поведением животных."
+      },
+      {
+        "en": "Observe the speed limit.",
+        "ru": "Соблюдай ограничение скорости."
+      }
+    ],
+    "colloc": "observe carefully · observe rules",
+    "pattern": "observe + N"
+  },
+  "a2-0118": {
+    "examples": [
+      {
+        "en": "They offer free delivery.",
+        "ru": "Они предлагают бесплатную доставку."
+      },
+      {
+        "en": "They offered me a better salary.",
+        "ru": "Они предложили мне лучшую зарплату."
+      },
+      {
+        "en": "Can I offer you a drink?",
+        "ru": "Могу предложить напиток?"
+      }
+    ],
+    "colloc": "offer help · special offer",
+    "pattern": "offer sb sth / offer to + V"
+  },
+  "a2-0119": {
+    "examples": [
+      {
+        "en": "Nurses operate equipment.",
+        "ru": "Медсёстры работают с оборудованием."
+      },
+      {
+        "en": "She operates heavy machinery.",
+        "ru": "Она управляет тяжёлой техникой."
+      },
+      {
+        "en": "The clinic operates 24 hours.",
+        "ru": "Клиника работает круглосуточно."
+      }
+    ],
+    "colloc": "operate on · in operation",
+    "pattern": "operate + N"
+  },
+  "a2-0120": {
+    "examples": [
+      {
+        "en": "Organize your files today.",
+        "ru": "Организуй файлы сегодня."
+      },
+      {
+        "en": "We organized a charity run.",
+        "ru": "Мы организовали благотворительный забег."
+      },
+      {
+        "en": "Organize your files by date.",
+        "ru": "Организуй файлы по дате."
+      }
+    ],
+    "colloc": "organize an event · well organized",
+    "note": "AmE: organize",
+    "pattern": "organize + N"
+  },
+  "a2-0121": {
+    "examples": [
+      {
+        "en": "She overcame her fear.",
+        "ru": "Она преодолела страх."
+      },
+      {
+        "en": "She overcame her fear of flying.",
+        "ru": "Она преодолела страх полётов."
+      },
+      {
+        "en": "Together we can overcome this.",
+        "ru": "Вместе мы это преодолеем."
+      }
+    ],
+    "colloc": "overcome obstacles · overcome fear",
+    "pattern": "overcome + N"
+  },
+  "a2-0122": {
+    "examples": [
+      {
+        "en": "I owe you twenty dollars.",
+        "ru": "Я должен тебе двадцать долларов."
+      },
+      {
+        "en": "I owe you twenty dollars.",
+        "ru": "Я должен тебе двадцать долларов."
+      },
+      {
+        "en": "We owe our success to the team.",
+        "ru": "Мы обязаны успехом команде."
+      }
+    ],
+    "colloc": "owe money · owe sb",
+    "pattern": "owe sb sth"
+  },
+  "a2-0123": {
+    "examples": [
+      {
+        "en": "Pack your suitcase tonight.",
+        "ru": "Собери чемодан сегодня вечером."
+      },
+      {
+        "en": "Pack light for a weekend trip.",
+        "ru": "Бери мало вещей на уикенд."
+      },
+      {
+        "en": "She packed her suitcase last night.",
+        "ru": "Она собрала чемодан прошлой ночью."
+      }
+    ],
+    "colloc": "pack a bag · pack up",
+    "pattern": "pack + N"
+  },
+  "a2-0124": {
+    "examples": [
+      {
+        "en": "Paint the walls white.",
+        "ru": "Покрась стены в белый."
+      },
+      {
+        "en": "They painted the kitchen blue.",
+        "ru": "Они покрасили кухню в синий."
+      },
+      {
+        "en": "She paints landscapes on weekends.",
+        "ru": "По выходным она пишет пейзажи."
+      }
+    ],
+    "colloc": "paint a picture · wet paint",
+    "pattern": "paint + N"
+  },
+  "a2-0125": {
+    "examples": [
+      {
+        "en": "Participate in the discussion.",
+        "ru": "Участвуй в обсуждении."
+      },
+      {
+        "en": "Students participated in the debate.",
+        "ru": "Студенты участвовали в дебатах."
+      },
+      {
+        "en": "I'd love to participate if I can.",
+        "ru": "С удовольствием поучаствую, если смогу."
+      }
+    ],
+    "colloc": "participate in",
+    "pattern": "participate in + N"
+  },
+  "a2-0126": {
+    "examples": [
+      {
+        "en": "They perform on stage.",
+        "ru": "Они выступают на сцене."
+      },
+      {
+        "en": "The band performed three songs.",
+        "ru": "Группа исполнила три песни."
+      },
+      {
+        "en": "Surgeons performed the operation.",
+        "ru": "Хирурги провели операцию."
+      }
+    ],
+    "colloc": "perform well · live performance",
+    "pattern": "perform + N"
+  },
+  "a2-0127": {
+    "examples": [
+      {
+        "en": "She persuaded him to stay.",
+        "ru": "Она убедила его остаться."
+      },
+      {
+        "en": "I persuaded her to stay another day.",
+        "ru": "Я уговорил её остаться ещё на день."
+      },
+      {
+        "en": "Nothing will persuade him otherwise.",
+        "ru": "Ничто не переубедит его."
+      }
+    ],
+    "colloc": "persuade sb to",
+    "pattern": "persuade sb to + V"
+  },
+  "a2-0128": {
+    "examples": [
+      {
+        "en": "Pick a fresh apple.",
+        "ru": "Выбери свежее яблоко."
+      },
+      {
+        "en": "Pick a color you like.",
+        "ru": "Выбери цвет, который нравится."
+      },
+      {
+        "en": "She picked fresh strawberries.",
+        "ru": "Она нарвала свежей клубники."
+      }
+    ],
+    "colloc": "pick up · pick out",
+    "pattern": "pick + N / pick up"
+  },
+  "a2-0129": {
+    "examples": [
+      {
+        "en": "Point to the correct picture.",
+        "ru": "Укажи на правильную картинку."
+      },
+      {
+        "en": "She pointed at the map.",
+        "ru": "Она указала на карту."
+      },
+      {
+        "en": "I see your point.",
+        "ru": "Понимаю твою мысль."
+      }
+    ],
+    "colloc": "point out · point of view",
+    "pattern": "point at / to / out"
+  },
+  "a2-0130": {
+    "examples": [
+      {
+        "en": "Polish your shoes.",
+        "ru": "Начисти туфли."
+      },
+      {
+        "en": "Polish your shoes before the interview.",
+        "ru": "Почисти туфли перед собеседованием."
+      },
+      {
+        "en": "He polished the speech overnight.",
+        "ru": "Он отшлифовал речь за ночь."
+      }
+    ],
+    "colloc": "polish off · nail polish",
+    "pattern": "polish + N"
+  },
+  "a2-0131": {
+    "examples": [
+      {
+        "en": "They postpone the meeting.",
+        "ru": "Они откладывают встречу."
+      },
+      {
+        "en": "They postponed the meeting until Monday.",
+        "ru": "Они перенесли встречу на понедельник."
+      },
+      {
+        "en": "Don't postpone important decisions.",
+        "ru": "Не откладывай важные решения."
+      }
+    ],
+    "colloc": "postpone until · postpone doing",
+    "pattern": "postpone + N"
+  },
+  "a2-0132": {
+    "examples": [
+      {
+        "en": "Experts predict rain tomorrow.",
+        "ru": "Эксперты предсказывают дождь."
+      },
+      {
+        "en": "Experts predict warmer winters.",
+        "ru": "Эксперты предсказывают более тёплые зимы."
+      },
+      {
+        "en": "It's hard to predict the result.",
+        "ru": "Трудно предсказать результат."
+      }
+    ],
+    "colloc": "predict that · hard to predict",
+    "pattern": "predict + N / that"
+  },
+  "a2-0133": {
+    "examples": [
+      {
+        "en": "Press the red button.",
+        "ru": "Нажми красную кнопку."
+      },
+      {
+        "en": "Press the green button to start.",
+        "ru": "Нажми зелёную кнопку, чтобы начать."
+      },
+      {
+        "en": "Don't press me for an answer yet.",
+        "ru": "Пока не дави на меня с ответом."
+      }
+    ],
+    "colloc": "press for · press conference",
+    "pattern": "press + N"
+  },
+  "a2-0134": {
+    "examples": [
+      {
+        "en": "Exercise prevents many problems.",
+        "ru": "Спорт предотвращает многие проблемы."
+      },
+      {
+        "en": "Locks prevent theft.",
+        "ru": "Замки предотвращают кражи."
+      },
+      {
+        "en": "Nothing prevented her from leaving.",
+        "ru": "Ничто не помешало ей уйти."
+      }
+    ],
+    "colloc": "prevent from · prevent accidents",
+    "pattern": "prevent + N / prevent sb from"
+  },
+  "a2-0135": {
+    "examples": [
+      {
+        "en": "Factories produce cars.",
+        "ru": "Заводы производят машины."
+      },
+      {
+        "en": "This factory produces electric cars.",
+        "ru": "Этот завод производит электромобили."
+      },
+      {
+        "en": "The soil produces excellent grapes.",
+        "ru": "Почва даёт отличный виноград."
+      }
+    ],
+    "colloc": "produce goods · mass produce",
+    "pattern": "produce + N"
+  },
+  "a2-0136": {
+    "examples": [
+      {
+        "en": "I promise to call you.",
+        "ru": "Обещаю позвонить тебе."
+      },
+      {
+        "en": "I promise I'll call tonight.",
+        "ru": "Обещаю позвонить сегодня вечером."
+      },
+      {
+        "en": "Don't promise what you can't deliver.",
+        "ru": "Не обещай того, чего не сможешь."
+      }
+    ],
+    "colloc": "promise to · keep a promise",
+    "pattern": "promise to + V / that"
+  },
+  "a2-0137": {
+    "examples": [
+      {
+        "en": "Helmets protect your head.",
+        "ru": "Шлемы защищают голову."
+      },
+      {
+        "en": "Sunscreen protects your skin.",
+        "ru": "Солнцезащитный крем защищает кожу."
+      },
+      {
+        "en": "Laws protect consumers.",
+        "ru": "Законы защищают потребителей."
+      }
+    ],
+    "colloc": "protect from · protect against",
+    "pattern": "protect + N from"
+  },
+  "a2-0138": {
+    "examples": [
+      {
+        "en": "Prove your idea with facts.",
+        "ru": "Докажи идею фактами."
+      },
+      {
+        "en": "Can you prove your claim?",
+        "ru": "Можешь доказать своё утверждение?"
+      },
+      {
+        "en": "The results proved her right.",
+        "ru": "Результаты доказали её правоту."
+      }
+    ],
+    "colloc": "prove that · prove useful",
+    "pattern": "prove + that / adj"
+  },
+  "a2-0139": {
+    "examples": [
+      {
+        "en": "Hotels provide free Wi-Fi.",
+        "ru": "Отели предоставляют Wi-Fi."
+      },
+      {
+        "en": "The hotel provides free Wi-Fi.",
+        "ru": "Отель предоставляет бесплатный Wi-Fi."
+      },
+      {
+        "en": "Parents provide for their children.",
+        "ru": "Родители обеспечивают детей."
+      }
+    ],
+    "colloc": "provide with · provide for",
+    "pattern": "provide + N / provide sb with"
+  },
+  "a2-0140": {
+    "examples": [
+      {
+        "en": "They publish a weekly magazine.",
+        "ru": "Они публикуют еженедельный журнал."
+      },
+      {
+        "en": "They published her first novel.",
+        "ru": "Они опубликовали её первый роман."
+      },
+      {
+        "en": "The report will be published next week.",
+        "ru": "Отчёт опубликуют на следующей неделе."
+      }
+    ],
+    "colloc": "publish a book · published author",
+    "pattern": "publish + N"
+  },
+  "a2-0141": {
+    "examples": [
+      {
+        "en": "Do not punish unfairly.",
+        "ru": "Не наказывай несправедливо."
+      },
+      {
+        "en": "Schools shouldn't punish curiosity.",
+        "ru": "Школы не должны наказывать любопытство."
+      },
+      {
+        "en": "He was punished for cheating.",
+        "ru": "Его наказали за списывание."
+      }
+    ],
+    "colloc": "punish for · harsh punishment",
+    "pattern": "punish sb for"
+  },
+  "a2-0142": {
+    "examples": [
+      {
+        "en": "Purchase tickets online.",
+        "ru": "Купи билеты онлайн."
+      },
+      {
+        "en": "I purchased tickets online.",
+        "ru": "Я купил билеты онлайн."
+      },
+      {
+        "en": "Companies purchase supplies in bulk.",
+        "ru": "Компании закупают материалы оптом."
+      }
+    ],
+    "colloc": "purchase order · make a purchase",
+    "pattern": "purchase + N",
+    "syn": "buy"
+  }
+}

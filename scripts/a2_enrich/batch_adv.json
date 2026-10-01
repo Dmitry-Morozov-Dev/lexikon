@@ -1,0 +1,938 @@
+{
+  "a2-0781": {
+    "examples": [
+      {
+        "en": "I absolutely agree.",
+        "ru": "Я абсолютно согласен."
+      },
+      {
+        "en": "I absolutely agree.",
+        "ru": "Я абсолютно согласен."
+      },
+      {
+        "en": "That's absolutely correct.",
+        "ru": "Это абсолютно верно."
+      }
+    ],
+    "colloc": "absolutely right · absolutely not"
+  },
+  "a2-0782": {
+    "examples": [
+      {
+        "en": "We ate and left afterwards.",
+        "ru": "Мы поели и после этого ушли."
+      },
+      {
+        "en": "We ate, and afterwards we walked.",
+        "ru": "Мы поели, а потом погуляли."
+      },
+      {
+        "en": "Call me afterwards.",
+        "ru": "Позвони потом."
+      }
+    ],
+    "colloc": "soon afterwards · shortly afterwards"
+  },
+  "a2-0783": {
+    "examples": [
+      {
+        "en": "Anyway, let's continue.",
+        "ru": "В любом случае, продолжим."
+      },
+      {
+        "en": "Anyway, let's move on.",
+        "ru": "Так или иначе, давай дальше."
+      },
+      {
+        "en": "It might rain, but I'll go anyway.",
+        "ru": "Может пойти дождь, но я всё равно пойду."
+      }
+    ],
+    "colloc": "anyway · any way"
+  },
+  "a2-0784": {
+    "examples": [
+      {
+        "en": "It takes approximately an hour.",
+        "ru": "Это занимает приблизительно час."
+      },
+      {
+        "en": "It takes approximately an hour.",
+        "ru": "Это занимает примерно час."
+      },
+      {
+        "en": "Approximately 200 people came.",
+        "ru": "Пришло примерно 200 человек."
+      }
+    ],
+    "colloc": "approximately equal · approximately correct"
+  },
+  "a2-0785": {
+    "examples": [
+      {
+        "en": "Basically, the plan works.",
+        "ru": "В основном план работает."
+      },
+      {
+        "en": "Basically, we agree.",
+        "ru": "В основном мы согласны."
+      },
+      {
+        "en": "The plan is basically ready.",
+        "ru": "План в основном готов."
+      }
+    ],
+    "colloc": "basically the same · basically means"
+  },
+  "a2-0786": {
+    "examples": [
+      {
+        "en": "Drive carefully in the rain.",
+        "ru": "Езжай осторожно под дождём."
+      },
+      {
+        "en": "Drive carefully in the rain.",
+        "ru": "В дождь води осторожно."
+      },
+      {
+        "en": "Read the contract carefully.",
+        "ru": "Внимательно читай договор."
+      }
+    ],
+    "colloc": "listen carefully · carefully planned"
+  },
+  "a2-0787": {
+    "examples": [
+      {
+        "en": "Speak clearly into the mic.",
+        "ru": "Говори ясно в микрофон."
+      },
+      {
+        "en": "Speak clearly into the mic.",
+        "ru": "Говори ясно в микрофон."
+      },
+      {
+        "en": "She clearly needs help.",
+        "ru": "Ей явно нужна помощь."
+      }
+    ],
+    "colloc": "clearly visible · see clearly"
+  },
+  "a2-0788": {
+    "examples": [
+      {
+        "en": "I completely understand.",
+        "ru": "Я полностью понимаю."
+      },
+      {
+        "en": "I'm completely exhausted.",
+        "ru": "Я полностью вымотан."
+      },
+      {
+        "en": "The room was completely empty.",
+        "ru": "Комната была совершенно пуста."
+      }
+    ],
+    "colloc": "completely different · completely wrong"
+  },
+  "a2-0789": {
+    "examples": [
+      {
+        "en": "She constantly checks her phone.",
+        "ru": "Она постоянно проверяет телефон."
+      },
+      {
+        "en": "She constantly checks her phone.",
+        "ru": "Она постоянно проверяет телефон."
+      },
+      {
+        "en": "The rules are constantly changing.",
+        "ru": "Правила постоянно меняются."
+      }
+    ],
+    "colloc": "constantly improving · constantly reminded"
+  },
+  "a2-0790": {
+    "examples": [
+      {
+        "en": "Answer the question correctly.",
+        "ru": "Ответь на вопрос правильно."
+      },
+      {
+        "en": "Did I pronounce it correctly?",
+        "ru": "Я правильно произнёс?"
+      },
+      {
+        "en": "Fill the form correctly.",
+        "ru": "Заполни форму правильно."
+      }
+    ],
+    "colloc": "answer correctly · correctly spelled"
+  },
+  "a2-0791": {
+    "examples": [
+      {
+        "en": "I currently live downtown.",
+        "ru": "Сейчас я живу в центре."
+      },
+      {
+        "en": "She's currently unemployed.",
+        "ru": "Сейчас она без работы."
+      },
+      {
+        "en": "Currently, we have no vacancies.",
+        "ru": "Сейчас вакансий нет."
+      }
+    ],
+    "colloc": "currently available · currently working"
+  },
+  "a2-0792": {
+    "examples": [
+      {
+        "en": "I will definitely come.",
+        "ru": "Я определённо приду."
+      },
+      {
+        "en": "I'll definitely call you.",
+        "ru": "Я определённо позвоню."
+      },
+      {
+        "en": "That's definitely worth trying.",
+        "ru": "Это определённо стоит попробовать."
+      }
+    ],
+    "colloc": "definitely not · definitely yes"
+  },
+  "a2-0793": {
+    "examples": [
+      {
+        "en": "Go directly to the hotel.",
+        "ru": "Иди напрямую в отель."
+      },
+      {
+        "en": "Go directly to gate B.",
+        "ru": "Иди прямо к выходу B."
+      },
+      {
+        "en": "Talk to her directly.",
+        "ru": "Поговори с ней напрямую."
+      }
+    ],
+    "colloc": "directly related · directly opposite"
+  },
+  "a2-0794": {
+    "examples": [
+      {
+        "en": "She learns languages easily.",
+        "ru": "Она легко учит языки."
+      },
+      {
+        "en": "This puzzle is easily solved.",
+        "ru": "Эту головоломку легко решить."
+      },
+      {
+        "en": "I can easily walk there.",
+        "ru": "Я легко дойду туда пешком."
+      }
+    ],
+    "colloc": "easily available · easily forgotten"
+  },
+  "a2-0795": {
+    "examples": [
+      {
+        "en": "Try searching elsewhere.",
+        "ru": "Попробуй поискать в другом месте."
+      },
+      {
+        "en": "Look elsewhere for cheaper tickets.",
+        "ru": "Ищи билеты дешевле в другом месте."
+      },
+      {
+        "en": "If not here, try elsewhere.",
+        "ru": "Если не здесь — попробуй в другом месте."
+      }
+    ],
+    "colloc": "elsewhere in · look elsewhere"
+  },
+  "a2-0796": {
+    "examples": [
+      {
+        "en": "It is extremely cold today.",
+        "ru": "Сегодня крайне холодно."
+      },
+      {
+        "en": "It's extremely important.",
+        "ru": "Это крайне важно."
+      },
+      {
+        "en": "She was extremely helpful.",
+        "ru": "Она была крайне полезна."
+      }
+    ],
+    "colloc": "extremely cold · extremely rare"
+  },
+  "a2-0797": {
+    "examples": [
+      {
+        "en": "The test was fairly easy.",
+        "ru": "Тест был довольно лёгким."
+      },
+      {
+        "en": "I'm fairly sure.",
+        "ru": "Я довольно уверен."
+      },
+      {
+        "en": "The test was fairly easy.",
+        "ru": "Тест был довольно лёгким."
+      }
+    ],
+    "colloc": "fairly well · fairly common"
+  },
+  "a2-0798": {
+    "examples": [
+      {
+        "en": "Fortunately, nobody was hurt.",
+        "ru": "К счастью, никто не пострадал."
+      },
+      {
+        "en": "Fortunately, nobody was hurt.",
+        "ru": "К счастью, никто не пострадал."
+      },
+      {
+        "en": "Fortunately, we found a taxi.",
+        "ru": "К счастью, мы нашли такси."
+      }
+    ],
+    "colloc": "fortunately for"
+  },
+  "a2-0799": {
+    "examples": [
+      {
+        "en": "I frequently work late.",
+        "ru": "Я часто работаю допоздна."
+      },
+      {
+        "en": "I frequently work from home.",
+        "ru": "Я часто работаю из дома."
+      },
+      {
+        "en": "Trains run frequently.",
+        "ru": "Поезда ходят часто."
+      }
+    ],
+    "colloc": "frequently asked · frequently used"
+  },
+  "a2-0800": {
+    "examples": [
+      {
+        "en": "I fully support the idea.",
+        "ru": "Я полностью поддерживаю идею."
+      },
+      {
+        "en": "I fully understand.",
+        "ru": "Я полностью понимаю."
+      },
+      {
+        "en": "The hotel is fully booked.",
+        "ru": "Отель полностью забронирован."
+      }
+    ],
+    "colloc": "fully aware · fully charged"
+  },
+  "a2-0801": {
+    "examples": [
+      {
+        "en": "I generally wake early.",
+        "ru": "Обычно я встаю рано."
+      },
+      {
+        "en": "Generally, I wake up early.",
+        "ru": "Обычно я встаю рано."
+      },
+      {
+        "en": "Prices are generally higher downtown.",
+        "ru": "В центре цены обычно выше."
+      }
+    ],
+    "colloc": "generally speaking · generally accepted"
+  },
+  "a2-0802": {
+    "examples": [
+      {
+        "en": "Close the door gently.",
+        "ru": "Закрой дверь нежно."
+      },
+      {
+        "en": "Close the door gently.",
+        "ru": "Закрой дверь тихо."
+      },
+      {
+        "en": "She spoke gently to the child.",
+        "ru": "Она мягко говорила с ребёнком."
+      }
+    ],
+    "colloc": "gently push · treat gently"
+  },
+  "a2-0803": {
+    "examples": [
+      {
+        "en": "Prices rose gradually.",
+        "ru": "Цены росли постепенно."
+      },
+      {
+        "en": "Prices rose gradually.",
+        "ru": "Цены росли постепенно."
+      },
+      {
+        "en": "Gradually, she gained confidence.",
+        "ru": "Постепенно она обрела уверенность."
+      }
+    ],
+    "colloc": "gradually increase · gradually improve"
+  },
+  "a2-0804": {
+    "examples": [
+      {
+        "en": "I can hardly hear you.",
+        "ru": "Я едва тебя слышу."
+      },
+      {
+        "en": "I can hardly hear you.",
+        "ru": "Я едва тебя слышу."
+      },
+      {
+        "en": "There's hardly any milk left.",
+        "ru": "Молока почти не осталось."
+      }
+    ],
+    "colloc": "hardly ever · hardly any",
+    "note": "hardly ≠ hard"
+  },
+  "a2-0805": {
+    "examples": [
+      {
+        "en": "She is highly skilled.",
+        "ru": "Она весьма квалифицирована."
+      },
+      {
+        "en": "I highly recommend this book.",
+        "ru": "Настоятельно рекомендую эту книгу."
+      },
+      {
+        "en": "She's highly skilled.",
+        "ru": "Она высококвалифицирована."
+      }
+    ],
+    "colloc": "highly likely · highly successful"
+  },
+  "a2-0806": {
+    "examples": [
+      {
+        "en": "Honestly, I do not know.",
+        "ru": "Честно, я не знаю."
+      },
+      {
+        "en": "Honestly, I don't know.",
+        "ru": "Честно, не знаю."
+      },
+      {
+        "en": "Speak honestly with your team.",
+        "ru": "Говори честно с командой."
+      }
+    ],
+    "colloc": "honestly speaking · honestly believe"
+  },
+  "a2-0807": {
+    "examples": [
+      {
+        "en": "Traffic is increasingly heavy.",
+        "ru": "Движение всё более плотное."
+      },
+      {
+        "en": "Life is increasingly digital.",
+        "ru": "Жизнь всё более цифровая."
+      },
+      {
+        "en": "I'm increasingly worried.",
+        "ru": "Я всё больше беспокоюсь."
+      }
+    ],
+    "colloc": "increasingly important · increasingly common"
+  },
+  "a2-0808": {
+    "examples": [
+      {
+        "en": "It was indeed a surprise.",
+        "ru": "Это действительно был сюрприз."
+      },
+      {
+        "en": "The food was good indeed.",
+        "ru": "Еда действительно была хорошей."
+      },
+      {
+        "en": "Indeed, we should leave now.",
+        "ru": "Действительно, нам пора уходить."
+      }
+    ],
+    "colloc": "indeed · yes indeed"
+  },
+  "a2-0809": {
+    "examples": [
+      {
+        "en": "Take the bus instead.",
+        "ru": "Возьми автобус вместо этого."
+      },
+      {
+        "en": "Take the bus instead.",
+        "ru": "Поезжай на автобусе вместо этого."
+      },
+      {
+        "en": "Instead of coffee, I drank tea.",
+        "ru": "Вместо кофе я выпил чай."
+      }
+    ],
+    "colloc": "instead of · do it instead"
+  },
+  "a2-0810": {
+    "examples": [
+      {
+        "en": "I have been tired lately.",
+        "ru": "В последнее время я устал."
+      },
+      {
+        "en": "Have you seen her lately?",
+        "ru": "Ты видел её в последнее время?"
+      },
+      {
+        "en": "I've been tired lately.",
+        "ru": "В последнее время я устал."
+      }
+    ],
+    "colloc": "lately · until lately"
+  },
+  "a2-0811": {
+    "examples": [
+      {
+        "en": "I mainly work from home.",
+        "ru": "Я главным образом работаю из дома."
+      },
+      {
+        "en": "We mainly eat at home.",
+        "ru": "Мы в основном едим дома."
+      },
+      {
+        "en": "The delay was mainly due to weather.",
+        "ru": "Задержка в основном из-за погоды."
+      }
+    ],
+    "colloc": "mainly because · mainly used"
+  },
+  "a2-0812": {
+    "examples": [
+      {
+        "en": "I nearly missed the train.",
+        "ru": "Я почти опоздал на поезд."
+      },
+      {
+        "en": "We're nearly there.",
+        "ru": "Мы почти на месте."
+      },
+      {
+        "en": "I nearly missed the train.",
+        "ru": "Я почти опоздал на поезд."
+      }
+    ],
+    "colloc": "nearly finished · nearly all"
+  },
+  "a2-0813": {
+    "examples": [
+      {
+        "en": "I normally eat breakfast.",
+        "ru": "Обычно я завтракаю."
+      },
+      {
+        "en": "I normally wake at seven.",
+        "ru": "Обычно я встаю в семь."
+      },
+      {
+        "en": "Normally, this takes an hour.",
+        "ru": "Обычно это занимает час."
+      }
+    ],
+    "colloc": "normally open · as normally"
+  },
+  "a2-0814": {
+    "examples": [
+      {
+        "en": "Obviously, we need more time.",
+        "ru": "Очевидно, нам нужно больше времени."
+      },
+      {
+        "en": "Obviously, we need more time.",
+        "ru": "Очевидно, нужно больше времени."
+      },
+      {
+        "en": "She's obviously upset.",
+        "ru": "Она явно расстроена."
+      }
+    ],
+    "colloc": "obviously wrong · quite obviously"
+  },
+  "a2-0815": {
+    "examples": [
+      {
+        "en": "Hurry, otherwise we will be late.",
+        "ru": "Торопись, иначе опоздаем."
+      },
+      {
+        "en": "Hurry, otherwise we'll be late.",
+        "ru": "Поторопись, иначе опоздаем."
+      },
+      {
+        "en": "The food was cold; otherwise, fine.",
+        "ru": "Еда была холодной; в остальном — нормально."
+      }
+    ],
+    "colloc": "otherwise · or otherwise"
+  },
+  "a2-0816": {
+    "examples": [
+      {
+        "en": "I particularly enjoy jazz.",
+        "ru": "Я особенно люблю джаз."
+      },
+      {
+        "en": "I particularly like jazz.",
+        "ru": "Мне особенно нравится джаз."
+      },
+      {
+        "en": "Be particularly careful on ice.",
+        "ru": "Будь особенно осторожен на льду."
+      }
+    ],
+    "colloc": "particularly important · not particularly"
+  },
+  "a2-0817": {
+    "examples": [
+      {
+        "en": "The museum is partly closed.",
+        "ru": "Музей частично закрыт."
+      },
+      {
+        "en": "I'm partly responsible.",
+        "ru": "Я частично виноват."
+      },
+      {
+        "en": "The delay was partly our fault.",
+        "ru": "Задержка частично наша вина."
+      }
+    ],
+    "colloc": "partly because · partly cloudy"
+  },
+  "a2-0818": {
+    "examples": [
+      {
+        "en": "The plan worked perfectly.",
+        "ru": "План сработал идеально."
+      },
+      {
+        "en": "That works perfectly.",
+        "ru": "Это работает идеально."
+      },
+      {
+        "en": "I understand perfectly.",
+        "ru": "Я прекрасно понимаю."
+      }
+    ],
+    "colloc": "perfectly clear · perfectly fine"
+  },
+  "a2-0819": {
+    "examples": [
+      {
+        "en": "Personally, I disagree.",
+        "ru": "Лично я не согласен."
+      },
+      {
+        "en": "Personally, I disagree.",
+        "ru": "Лично я не согласен."
+      },
+      {
+        "en": "I'd like to thank you personally.",
+        "ru": "Хочу поблагодарить лично."
+      }
+    ],
+    "colloc": "personally speaking · personally involved"
+  },
+  "a2-0820": {
+    "examples": [
+      {
+        "en": "It will possibly rain.",
+        "ru": "Возможно, будет дождь."
+      },
+      {
+        "en": "Could you possibly help?",
+        "ru": "Не мог бы ты помочь?"
+      },
+      {
+        "en": "We'll leave as soon as possible.",
+        "ru": "Уедем как можно скорее."
+      }
+    ],
+    "colloc": "possibly true · as soon as possible"
+  },
+  "a2-0821": {
+    "examples": [
+      {
+        "en": "I previously worked there.",
+        "ru": "Ранее я там работал."
+      },
+      {
+        "en": "I previously lived in Boston.",
+        "ru": "Раньше я жил в Бостоне."
+      },
+      {
+        "en": "As previously mentioned…",
+        "ru": "Как упоминалось ранее…"
+      }
+    ],
+    "colloc": "previously owned · previously known"
+  },
+  "a2-0822": {
+    "examples": [
+      {
+        "en": "Fix it properly this time.",
+        "ru": "Почини это как следует."
+      },
+      {
+        "en": "Fix it properly this time.",
+        "ru": "Исправь правильно на этот раз."
+      },
+      {
+        "en": "Are you eating properly?",
+        "ru": "Ты нормально питаешься?"
+      }
+    ],
+    "colloc": "properly trained · work properly"
+  },
+  "a2-0823": {
+    "examples": [
+      {
+        "en": "Speak quietly in the library.",
+        "ru": "Говори тихо в библиотеке."
+      },
+      {
+        "en": "Speak quietly in the library.",
+        "ru": "В библиотеке говори тихо."
+      },
+      {
+        "en": "She quietly closed the door.",
+        "ru": "Она тихо закрыла дверь."
+      }
+    ],
+    "colloc": "sit quietly · quietly leave"
+  },
+  "a2-0824": {
+    "examples": [
+      {
+        "en": "I rarely eat fast food.",
+        "ru": "Я редко ем фастфуд."
+      },
+      {
+        "en": "I rarely eat out.",
+        "ru": "Я редко ем вне дома."
+      },
+      {
+        "en": "She rarely complains.",
+        "ru": "Она редко жалуется."
+      }
+    ],
+    "colloc": "rarely seen · rarely used"
+  },
+  "a2-0825": {
+    "examples": [
+      {
+        "en": "Exercise regularly for health.",
+        "ru": "Занимайся спортом регулярно."
+      },
+      {
+        "en": "Exercise regularly.",
+        "ru": "Занимайся спортом регулярно."
+      },
+      {
+        "en": "Trains run regularly.",
+        "ru": "Поезда ходят регулярно."
+      }
+    ],
+    "colloc": "regularly updated · visit regularly"
+  },
+  "a2-0826": {
+    "examples": [
+      {
+        "en": "The hotel is relatively cheap.",
+        "ru": "Отель относительно дешёвый."
+      },
+      {
+        "en": "It's relatively cheap.",
+        "ru": "Это относительно дёшево."
+      },
+      {
+        "en": "The test was relatively easy.",
+        "ru": "Тест был относительно лёгким."
+      }
+    ],
+    "colloc": "relatively speaking · relatively new"
+  },
+  "a2-0827": {
+    "examples": [
+      {
+        "en": "Take safety seriously.",
+        "ru": "Относись к безопасности серьёзно."
+      },
+      {
+        "en": "Take this seriously.",
+        "ru": "Отнесись к этому серьёзно."
+      },
+      {
+        "en": "Are you seriously leaving?",
+        "ru": "Ты серьёзно уходишь?"
+      }
+    ],
+    "colloc": "seriously ill · take seriously"
+  },
+  "a2-0828": {
+    "examples": [
+      {
+        "en": "Costs rose significantly.",
+        "ru": "Затраты значительно выросли."
+      },
+      {
+        "en": "Costs rose significantly.",
+        "ru": "Расходы значительно выросли."
+      },
+      {
+        "en": "She improved significantly.",
+        "ru": "Она значительно улучшилась."
+      }
+    ],
+    "colloc": "significantly different · significantly higher"
+  },
+  "a2-0829": {
+    "examples": [
+      {
+        "en": "Simply press the button.",
+        "ru": "Просто нажми кнопку."
+      },
+      {
+        "en": "Simply press the button.",
+        "ru": "Просто нажми кнопку."
+      },
+      {
+        "en": "I simply don't know.",
+        "ru": "Я просто не знаю."
+      }
+    ],
+    "colloc": "simply put · simply amazing"
+  },
+  "a2-0830": {
+    "examples": [
+      {
+        "en": "The soup is slightly salty.",
+        "ru": "Суп слегка солёный."
+      },
+      {
+        "en": "I'm slightly late.",
+        "ru": "Я немного опаздываю."
+      },
+      {
+        "en": "Turn the heat up slightly.",
+        "ru": "Чуть прибавь огонь."
+      }
+    ],
+    "colloc": "slightly different · slightly open"
+  },
+  "a2-0831": {
+    "examples": [
+      {
+        "en": "She spoke softly to the baby.",
+        "ru": "Она мягко говорила с малышом."
+      },
+      {
+        "en": "She spoke softly.",
+        "ru": "Она говорила тихо."
+      },
+      {
+        "en": "Knock softly on the door.",
+        "ru": "Постучи тихо в дверь."
+      }
+    ],
+    "colloc": "sing softly · softly lit"
+  },
+  "a2-0832": {
+    "examples": [
+      {
+        "en": "We somehow finished on time.",
+        "ru": "Мы как-то закончили вовремя."
+      },
+      {
+        "en": "We'll somehow manage.",
+        "ru": "Мы как-нибудь справимся."
+      },
+      {
+        "en": "Somehow, the door unlocked.",
+        "ru": "Как-то дверь открылась."
+      }
+    ],
+    "colloc": "somehow or other · somehow manage"
+  },
+  "a2-0833": {
+    "examples": [
+      {
+        "en": "I specifically asked for tea.",
+        "ru": "Я конкретно просил чай."
+      },
+      {
+        "en": "I specifically asked for tea.",
+        "ru": "Я специально просил чай."
+      },
+      {
+        "en": "Specifically, we need more staff.",
+        "ru": "Конкретно, нам нужно больше персонала."
+      }
+    ],
+    "colloc": "specifically designed · more specifically"
+  },
+  "a2-0834": {
+    "examples": [
+      {
+        "en": "Surely you remember her.",
+        "ru": "Наверняка ты её помнишь."
+      },
+      {
+        "en": "Surely you remember.",
+        "ru": "Ты же наверняка помнишь."
+      },
+      {
+        "en": "Surely we can wait.",
+        "ru": "Наверняка мы можем подождать."
+      }
+    ],
+    "colloc": "surely not · slowly but surely"
+  },
+  "a2-0835": {
+    "examples": [
+      {
+        "en": "It rained; therefore we stayed.",
+        "ru": "Шёл дождь; поэтому мы остались."
+      },
+      {
+        "en": "I was tired; therefore I left.",
+        "ru": "Я устал; поэтому ушёл."
+      },
+      {
+        "en": "Therefore, we need a new plan.",
+        "ru": "Поэтому нужен новый план."
+      }
+    ],
+    "colloc": "and therefore · therefore means"
+  }
+}

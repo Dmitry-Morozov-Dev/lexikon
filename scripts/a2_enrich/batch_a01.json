@@ -1,0 +1,1633 @@
+{
+  "a2-0625": {
+    "examples": [
+      {
+        "en": "She is able to swim.",
+        "ru": "Она умеет плавать."
+      },
+      {
+        "en": "She's able to swim well.",
+        "ru": "Она умеет хорошо плавать."
+      },
+      {
+        "en": "Will you be able to come?",
+        "ru": "Сможешь прийти?"
+      }
+    ],
+    "colloc": "able to · be able to"
+  },
+  "a2-0626": {
+    "examples": [
+      {
+        "en": "I need absolute silence.",
+        "ru": "Мне нужна абсолютная тишина."
+      },
+      {
+        "en": "That's absolute nonsense.",
+        "ru": "Это абсолютная чушь."
+      },
+      {
+        "en": "I have absolute confidence in her.",
+        "ru": "У меня абсолютная уверенность в ней."
+      }
+    ],
+    "colloc": "absolute must · absolute silence"
+  },
+  "a2-0627": {
+    "examples": [
+      {
+        "en": "Give an accurate answer.",
+        "ru": "Дай точный ответ."
+      },
+      {
+        "en": "Is this information accurate?",
+        "ru": "Эта информация точная?"
+      },
+      {
+        "en": "Her description was accurate.",
+        "ru": "Её описание было точным."
+      }
+    ],
+    "colloc": "accurate information · highly accurate",
+    "pattern": "precise",
+    "ant": "inaccurate"
+  },
+  "a2-0628": {
+    "examples": [
+      {
+        "en": "Stay active every day.",
+        "ru": "Оставайся активным каждый день."
+      },
+      {
+        "en": "Stay active after retirement.",
+        "ru": "Оставайся активным после пенсии."
+      },
+      {
+        "en": "She's an active member.",
+        "ru": "Она активный член."
+      }
+    ],
+    "colloc": "active in · active lifestyle",
+    "pattern": "passive"
+  },
+  "a2-0629": {
+    "examples": [
+      {
+        "en": "What is the actual cost?",
+        "ru": "Какова фактическая стоимость?"
+      },
+      {
+        "en": "What's the actual cost?",
+        "ru": "Какова реальная стоимость?"
+      },
+      {
+        "en": "The actual problem is different.",
+        "ru": "Реальная проблема другая."
+      }
+    ],
+    "colloc": "actual size · in actual fact",
+    "note": "actual ≠ текущий (current)"
+  },
+  "a2-0630": {
+    "examples": [
+      {
+        "en": "Need additional help?",
+        "ru": "Нужна дополнительная помощь?"
+      },
+      {
+        "en": "Is there an additional fee?",
+        "ru": "Есть дополнительная плата?"
+      },
+      {
+        "en": "She needs additional time.",
+        "ru": "Ей нужно дополнительное время."
+      }
+    ],
+    "colloc": "additional information · additional cost",
+    "pattern": "extra"
+  },
+  "a2-0631": {
+    "examples": [
+      {
+        "en": "Is the salary adequate?",
+        "ru": "Достаточна ли зарплата?"
+      },
+      {
+        "en": "Is the heating adequate?",
+        "ru": "Отопление достаточное?"
+      },
+      {
+        "en": "The food was adequate but plain.",
+        "ru": "Еда была приемлемой, но простой."
+      }
+    ],
+    "colloc": "adequate for · more than adequate",
+    "pattern": "sufficient",
+    "ant": "inadequate"
+  },
+  "a2-0632": {
+    "examples": [
+      {
+        "en": "She takes advanced classes.",
+        "ru": "Она ходит на продвинутые занятия."
+      },
+      {
+        "en": "She's in an advanced class.",
+        "ru": "Она в продвинутом классе."
+      },
+      {
+        "en": "This phone has advanced features.",
+        "ru": "У телефона продвинутые функции."
+      }
+    ],
+    "colloc": "advanced level · advanced technology"
+  },
+  "a2-0633": {
+    "examples": [
+      {
+        "en": "Avoid aggressive drivers.",
+        "ru": "Избегай агрессивных водителей."
+      },
+      {
+        "en": "Don't be aggressive in meetings.",
+        "ru": "Не будь агрессивным на встречах."
+      },
+      {
+        "en": "The dog isn't aggressive.",
+        "ru": "Собака не агрессивна."
+      }
+    ],
+    "colloc": "aggressive behavior · too aggressive",
+    "pattern": "gentle"
+  },
+  "a2-0634": {
+    "examples": [
+      {
+        "en": "The view is amazing.",
+        "ru": "Вид удивительный."
+      },
+      {
+        "en": "The view was amazing.",
+        "ru": "Вид был потрясающим."
+      },
+      {
+        "en": "You did an amazing job.",
+        "ru": "Ты проделал потрясающую работу."
+      }
+    ],
+    "colloc": "amazing experience · simply amazing",
+    "pattern": "wonderful"
+  },
+  "a2-0635": {
+    "examples": [
+      {
+        "en": "She is an ambitious student.",
+        "ru": "Она амбициозная студентка."
+      },
+      {
+        "en": "She's ambitious about her career.",
+        "ru": "Она амбициозна насчёт карьеры."
+      },
+      {
+        "en": "That's an ambitious plan.",
+        "ru": "Это амбициозный план."
+      }
+    ],
+    "colloc": "ambitious goal · highly ambitious"
+  },
+  "a2-0636": {
+    "examples": [
+      {
+        "en": "That noise is annoying.",
+        "ru": "Этот шум раздражает."
+      },
+      {
+        "en": "The noise is annoying.",
+        "ru": "Шум раздражает."
+      },
+      {
+        "en": "His habit is annoying.",
+        "ru": "Его привычка раздражает."
+      }
+    ],
+    "colloc": "annoying habit · really annoying"
+  },
+  "a2-0637": {
+    "examples": [
+      {
+        "en": "We have an annual meeting.",
+        "ru": "У нас ежегодная встреча."
+      },
+      {
+        "en": "The annual meeting is in May.",
+        "ru": "Ежегодная встреча — в мае."
+      },
+      {
+        "en": "What's your annual salary?",
+        "ru": "Какая годовая зарплата?"
+      }
+    ],
+    "colloc": "annual report · annual fee"
+  },
+  "a2-0638": {
+    "examples": [
+      {
+        "en": "She feels anxious before tests.",
+        "ru": "Она тревожится перед тестами."
+      },
+      {
+        "en": "I'm anxious about the results.",
+        "ru": "Я тревожусь о результатах."
+      },
+      {
+        "en": "She looked anxious.",
+        "ru": "Она выглядела встревоженной."
+      }
+    ],
+    "colloc": "anxious about · feel anxious",
+    "pattern": "nervous"
+  },
+  "a2-0639": {
+    "examples": [
+      {
+        "en": "The problem is apparent.",
+        "ru": "Проблема очевидна."
+      },
+      {
+        "en": "It was apparent she was upset.",
+        "ru": "Было очевидно, что она расстроена."
+      },
+      {
+        "en": "For no apparent reason, he left.",
+        "ru": "Без видимой причины он ушёл."
+      }
+    ],
+    "colloc": "apparent to · become apparent",
+    "pattern": "obvious"
+  },
+  "a2-0640": {
+    "examples": [
+      {
+        "en": "Wear appropriate clothes.",
+        "ru": "Надень подходящую одежду."
+      },
+      {
+        "en": "Wear appropriate clothes.",
+        "ru": "Надень подходящую одежду."
+      },
+      {
+        "en": "Is this an appropriate time?",
+        "ru": "Подходящее ли это время?"
+      }
+    ],
+    "colloc": "appropriate for · appropriate behavior",
+    "pattern": "suitable",
+    "ant": "inappropriate"
+  },
+  "a2-0641": {
+    "examples": [
+      {
+        "en": "The baby is asleep.",
+        "ru": "Малыш спит."
+      },
+      {
+        "en": "The baby is finally asleep.",
+        "ru": "Малыш наконец спит."
+      },
+      {
+        "en": "I fell asleep on the couch.",
+        "ru": "Я заснул на диване."
+      }
+    ],
+    "colloc": "fall asleep · fast asleep",
+    "pattern": "awake"
+  },
+  "a2-0642": {
+    "examples": [
+      {
+        "en": "See the attached file.",
+        "ru": "См. прикреплённый файл."
+      },
+      {
+        "en": "Please find the file attached.",
+        "ru": "Во вложении файл."
+      },
+      {
+        "en": "She's deeply attached to this town.",
+        "ru": "Она сильно привязана к этому городу."
+      }
+    ],
+    "colloc": "attached to · attached file"
+  },
+  "a2-0643": {
+    "examples": [
+      {
+        "en": "The offer looks attractive.",
+        "ru": "Предложение выглядит привлекательным."
+      },
+      {
+        "en": "The offer looks attractive.",
+        "ru": "Предложение выглядит привлекательным."
+      },
+      {
+        "en": "Downtown is attractive to tourists.",
+        "ru": "Центр привлекателен для туристов."
+      }
+    ],
+    "colloc": "attractive to · attractive offer"
+  },
+  "a2-0644": {
+    "examples": [
+      {
+        "en": "Is this seat available?",
+        "ru": "Это место свободно?"
+      },
+      {
+        "en": "Is this seat available?",
+        "ru": "Это место свободно?"
+      },
+      {
+        "en": "Tickets are still available.",
+        "ru": "Билеты ещё есть."
+      }
+    ],
+    "colloc": "available for · make available",
+    "pattern": "unavailable"
+  },
+  "a2-0645": {
+    "examples": [
+      {
+        "en": "Be aware of the risks.",
+        "ru": "Будь осведомлён о рисках."
+      },
+      {
+        "en": "Are you aware of the risk?",
+        "ru": "Ты осознаёшь риск?"
+      },
+      {
+        "en": "Stay aware of your surroundings.",
+        "ru": "Будь внимателен к окружению."
+      }
+    ],
+    "colloc": "aware of · fully aware",
+    "pattern": "unaware"
+  },
+  "a2-0646": {
+    "examples": [
+      {
+        "en": "That was an awful movie.",
+        "ru": "Это был ужасный фильм."
+      },
+      {
+        "en": "The traffic was awful.",
+        "ru": "Пробки были ужасными."
+      },
+      {
+        "en": "I feel awful about the mistake.",
+        "ru": "Мне ужасно из-за ошибки."
+      }
+    ],
+    "colloc": "awful weather · feel awful",
+    "pattern": "terrible"
+  },
+  "a2-0647": {
+    "examples": [
+      {
+        "en": "An awkward silence followed.",
+        "ru": "Последовала неловкая тишина."
+      },
+      {
+        "en": "There was an awkward silence.",
+        "ru": "Была неловкая тишина."
+      },
+      {
+        "en": "This box is awkward to carry.",
+        "ru": "Эту коробку неудобно нести."
+      }
+    ],
+    "colloc": "awkward silence · feel awkward"
+  },
+  "a2-0648": {
+    "examples": [
+      {
+        "en": "Eat a balanced diet.",
+        "ru": "Ешь сбалансированную еду."
+      },
+      {
+        "en": "Eat a balanced diet.",
+        "ru": "Ешь сбалансированную диету."
+      },
+      {
+        "en": "She gave a balanced opinion.",
+        "ru": "Она дала взвешенное мнение."
+      }
+    ],
+    "colloc": "balanced diet · well balanced"
+  },
+  "a2-0649": {
+    "examples": [
+      {
+        "en": "Walk on bare feet carefully.",
+        "ru": "Осторожно ходи босиком."
+      },
+      {
+        "en": "Walk on bare feet carefully.",
+        "ru": "Ходи босиком осторожно."
+      },
+      {
+        "en": "The cupboard is bare.",
+        "ru": "Шкаф пуст."
+      }
+    ],
+    "colloc": "bare feet · bare minimum"
+  },
+  "a2-0602": {
+    "examples": [
+      {
+        "en": "Learn the basic rules first.",
+        "ru": "Сначала выучи базовые правила."
+      },
+      {
+        "en": "Learn the basic rules first.",
+        "ru": "Сначала выучи базовые правила."
+      },
+      {
+        "en": "This is basic common sense.",
+        "ru": "Это базовый здравый смысл."
+      }
+    ],
+    "colloc": "basic needs · basic knowledge"
+  },
+  "a2-0650": {
+    "examples": [
+      {
+        "en": "Dark chocolate tastes bitter.",
+        "ru": "Тёмный шоколад горький."
+      },
+      {
+        "en": "The coffee tastes bitter.",
+        "ru": "Кофе горький на вкус."
+      },
+      {
+        "en": "She felt bitter about the loss.",
+        "ru": "Она горевала из-за потери."
+      }
+    ],
+    "colloc": "bitter cold · bitter taste",
+    "pattern": "sweet"
+  },
+  "a2-0651": {
+    "examples": [
+      {
+        "en": "Fill in the blank spaces.",
+        "ru": "Заполни пустые места."
+      },
+      {
+        "en": "Leave the last line blank.",
+        "ru": "Оставь последнюю строку пустой."
+      },
+      {
+        "en": "My mind went blank.",
+        "ru": "У меня опустела голова."
+      }
+    ],
+    "colloc": "blank page · blank stare"
+  },
+  "a2-0652": {
+    "examples": [
+      {
+        "en": "Guide dogs help blind people.",
+        "ru": "Собаки-поводыри помогают слепым."
+      },
+      {
+        "en": "He's blind in one eye.",
+        "ru": "Он не видит одним глазом."
+      },
+      {
+        "en": "Love is blind.",
+        "ru": "Любовь слепа."
+      }
+    ],
+    "colloc": "blind to · turn a blind eye"
+  },
+  "a2-0653": {
+    "examples": [
+      {
+        "en": "Make a bold decision.",
+        "ru": "Прими смелое решение."
+      },
+      {
+        "en": "That's a bold decision.",
+        "ru": "Это смелое решение."
+      },
+      {
+        "en": "Use bold text for titles.",
+        "ru": "Используй жирный шрифт для заголовков."
+      }
+    ],
+    "colloc": "bold move · bold colors"
+  },
+  "a2-0654": {
+    "examples": [
+      {
+        "en": "The train is bound for Boston.",
+        "ru": "Поезд идёт в Бостон."
+      },
+      {
+        "en": "We're bound to succeed.",
+        "ru": "Мы обязательно добьёмся успеха."
+      },
+      {
+        "en": "The train is bound for Chicago.",
+        "ru": "Поезд идёт в Чикаго."
+      }
+    ],
+    "colloc": "bound to · bound for"
+  },
+  "a2-0655": {
+    "examples": [
+      {
+        "en": "Firefighters are brave.",
+        "ru": "Пожарные храбрые."
+      },
+      {
+        "en": "She was brave during surgery.",
+        "ru": "Она была храброй во время операции."
+      },
+      {
+        "en": "It was a brave choice.",
+        "ru": "Это был смелый выбор."
+      }
+    ],
+    "colloc": "brave enough · brave face",
+    "pattern": "cowardly"
+  },
+  "a2-0603": {
+    "examples": [
+      {
+        "en": "Give a brief summary.",
+        "ru": "Дай краткое резюме."
+      },
+      {
+        "en": "Keep your email brief.",
+        "ru": "Держи письмо кратким."
+      },
+      {
+        "en": "We had a brief meeting.",
+        "ru": "У нас была короткая встреча."
+      }
+    ],
+    "colloc": "brief description · in brief",
+    "pattern": "short"
+  },
+  "a2-0604": {
+    "examples": [
+      {
+        "en": "That was a brilliant idea.",
+        "ru": "Это была блестящая идея."
+      },
+      {
+        "en": "That's a brilliant idea!",
+        "ru": "Блестящая идея!"
+      },
+      {
+        "en": "She gave a brilliant talk.",
+        "ru": "Она выступила блестяще."
+      }
+    ],
+    "colloc": "brilliant idea · absolutely brilliant",
+    "pattern": "excellent"
+  },
+  "a2-0605": {
+    "examples": [
+      {
+        "en": "A broad smile appeared.",
+        "ru": "Появилась широкая улыбка."
+      },
+      {
+        "en": "He has broad shoulders.",
+        "ru": "У него широкие плечи."
+      },
+      {
+        "en": "We need a broader view.",
+        "ru": "Нужен более широкий взгляд."
+      }
+    ],
+    "colloc": "broad smile · broad range",
+    "pattern": "wide",
+    "ant": "narrow"
+  },
+  "a2-0656": {
+    "examples": [
+      {
+        "en": "Fix the broken chair.",
+        "ru": "Почини сломанный стул."
+      },
+      {
+        "en": "My phone screen is broken.",
+        "ru": "Экран телефона разбит."
+      },
+      {
+        "en": "She spoke with a broken voice.",
+        "ru": "Она говорила сорванным голосом."
+      }
+    ],
+    "colloc": "broken heart · broken promise"
+  },
+  "a2-0606": {
+    "examples": [
+      {
+        "en": "Stay calm during exams.",
+        "ru": "Сохраняй спокойствие на экзаменах."
+      },
+      {
+        "en": "Stay calm in an emergency.",
+        "ru": "Сохраняй спокойствие в ЧС."
+      },
+      {
+        "en": "The sea looks calm today.",
+        "ru": "Сегодня море спокойное."
+      }
+    ],
+    "colloc": "stay calm · calm voice",
+    "pattern": "nervous"
+  },
+  "a2-0657": {
+    "examples": [
+      {
+        "en": "She is capable of leading.",
+        "ru": "Она способна руководить."
+      },
+      {
+        "en": "She's capable of leading.",
+        "ru": "Она способна руководить."
+      },
+      {
+        "en": "He's a capable engineer.",
+        "ru": "Он способный инженер."
+      }
+    ],
+    "colloc": "capable of · highly capable",
+    "pattern": "unable"
+  },
+  "a2-0658": {
+    "examples": [
+      {
+        "en": "Careless mistakes cost money.",
+        "ru": "Неосторожные ошибки стоят денег."
+      },
+      {
+        "en": "Don't be careless with money.",
+        "ru": "Не будь беспечен с деньгами."
+      },
+      {
+        "en": "A careless mistake cost us.",
+        "ru": "Беспечная ошибка нам дорого обошлась."
+      }
+    ],
+    "colloc": "careless with · careless mistake",
+    "pattern": "careful"
+  },
+  "a2-0659": {
+    "examples": [
+      {
+        "en": "Wear casual clothes Friday.",
+        "ru": "В пятницу носи повседневную одежду."
+      },
+      {
+        "en": "Wear casual clothes to the picnic.",
+        "ru": "На пикник — повседневную одежду."
+      },
+      {
+        "en": "It was a casual conversation.",
+        "ru": "Это был непринуждённый разговор."
+      }
+    ],
+    "colloc": "casual wear · casual meeting",
+    "pattern": "formal"
+  },
+  "a2-0660": {
+    "examples": [
+      {
+        "en": "Meet at the central station.",
+        "ru": "Встретимся на центральной станции."
+      },
+      {
+        "en": "The hotel is in a central location.",
+        "ru": "Отель в центральном месте."
+      },
+      {
+        "en": "Central heating keeps us warm.",
+        "ru": "Центральное отопление согревает."
+      }
+    ],
+    "colloc": "central to · central location"
+  },
+  "a2-0661": {
+    "examples": [
+      {
+        "en": "I am certain about this.",
+        "ru": "Я уверен в этом."
+      },
+      {
+        "en": "I'm certain she'll come.",
+        "ru": "Я уверен, что она придёт."
+      },
+      {
+        "en": "For certain reasons, I can't go.",
+        "ru": "По определённым причинам не могу."
+      }
+    ],
+    "colloc": "certain of · for certain",
+    "pattern": "sure",
+    "ant": "uncertain"
+  },
+  "a2-0662": {
+    "examples": [
+      {
+        "en": "This task is challenging.",
+        "ru": "Это задание сложное."
+      },
+      {
+        "en": "This job is challenging.",
+        "ru": "Эта работа сложная."
+      },
+      {
+        "en": "She likes challenging puzzles.",
+        "ru": "Она любит сложные головоломки."
+      }
+    ],
+    "colloc": "challenging task · highly challenging"
+  },
+  "a2-0663": {
+    "examples": [
+      {
+        "en": "She has a cheerful smile.",
+        "ru": "У неё весёлая улыбка."
+      },
+      {
+        "en": "She has a cheerful smile.",
+        "ru": "У неё весёлая улыбка."
+      },
+      {
+        "en": "Keep a cheerful attitude.",
+        "ru": "Сохраняй бодрый настрой."
+      }
+    ],
+    "colloc": "cheerful voice · cheerful mood",
+    "pattern": "gloomy"
+  },
+  "a2-0664": {
+    "examples": [
+      {
+        "en": "That is the chief reason.",
+        "ru": "Это главная причина."
+      },
+      {
+        "en": "He's the chief engineer.",
+        "ru": "Он главный инженер."
+      },
+      {
+        "en": "Safety is our chief concern.",
+        "ru": "Безопасность — наша главная забота."
+      }
+    ],
+    "colloc": "chief executive · chief concern",
+    "pattern": "main"
+  },
+  "a2-0607": {
+    "examples": [
+      {
+        "en": "I love classic films.",
+        "ru": "Я люблю классические фильмы."
+      },
+      {
+        "en": "This is a classic mistake.",
+        "ru": "Это классическая ошибка."
+      },
+      {
+        "en": "I love classic films.",
+        "ru": "Люблю классические фильмы."
+      }
+    ],
+    "colloc": "classic example · classic car"
+  },
+  "a2-0665": {
+    "examples": [
+      {
+        "en": "That was a clever solution.",
+        "ru": "Это было умное решение."
+      },
+      {
+        "en": "That was a clever solution.",
+        "ru": "Это было умное решение."
+      },
+      {
+        "en": "She's clever with computers.",
+        "ru": "Она ловко обращается с компьютерами."
+      }
+    ],
+    "colloc": "clever idea · clever enough",
+    "pattern": "smart"
+  },
+  "a2-0666": {
+    "examples": [
+      {
+        "en": "It is cloudy today.",
+        "ru": "Сегодня облачно."
+      },
+      {
+        "en": "It's cloudy and cool today.",
+        "ru": "Сегодня облачно и прохладно."
+      },
+      {
+        "en": "Cloudy water isn't safe to drink.",
+        "ru": "Мутную воду пить небезопасно."
+      }
+    ],
+    "colloc": "cloudy sky · cloudy day",
+    "pattern": "sunny"
+  },
+  "a2-0667": {
+    "examples": [
+      {
+        "en": "I feel clumsy today.",
+        "ru": "Сегодня я неуклюж."
+      },
+      {
+        "en": "I feel clumsy on ice skates.",
+        "ru": "На коньках я неуклюж."
+      },
+      {
+        "en": "That was a clumsy apology.",
+        "ru": "Это было неуклюжее извинение."
+      }
+    ],
+    "colloc": "clumsy with · clumsy mistake"
+  },
+  "a2-0668": {
+    "examples": [
+      {
+        "en": "They live in a coastal town.",
+        "ru": "Они живут в прибрежном городе."
+      },
+      {
+        "en": "We live in a coastal town.",
+        "ru": "Мы живём в прибрежном городе."
+      },
+      {
+        "en": "Coastal roads offer great views.",
+        "ru": "Прибрежные дороги дают отличные виды."
+      }
+    ],
+    "colloc": "coastal area · coastal city"
+  },
+  "a2-0669": {
+    "examples": [
+      {
+        "en": "This chair is comfortable.",
+        "ru": "Этот стул удобный."
+      },
+      {
+        "en": "Are you comfortable?",
+        "ru": "Тебе удобно?"
+      },
+      {
+        "en": "This chair is very comfortable.",
+        "ru": "Этот стул очень удобный."
+      }
+    ],
+    "colloc": "comfortable with · feel comfortable",
+    "pattern": "uncomfortable"
+  },
+  "a2-0608": {
+    "examples": [
+      {
+        "en": "This is a common problem.",
+        "ru": "Это обычная проблема."
+      },
+      {
+        "en": "That's a common problem.",
+        "ru": "Это распространённая проблема."
+      },
+      {
+        "en": "We have a lot in common.",
+        "ru": "У нас много общего."
+      }
+    ],
+    "colloc": "common sense · in common",
+    "pattern": "rare"
+  },
+  "a2-0670": {
+    "examples": [
+      {
+        "en": "The market is competitive.",
+        "ru": "Рынок конкурентный."
+      },
+      {
+        "en": "She's competitive in sports.",
+        "ru": "Она конкурентна в спорте."
+      },
+      {
+        "en": "The job market is competitive.",
+        "ru": "Рынок труда конкурентный."
+      }
+    ],
+    "colloc": "competitive price · highly competitive"
+  },
+  "a2-0609": {
+    "examples": [
+      {
+        "en": "This is a complex problem.",
+        "ru": "Это сложная проблема."
+      },
+      {
+        "en": "That's a complex issue.",
+        "ru": "Это сложный вопрос."
+      },
+      {
+        "en": "The machine looks complex.",
+        "ru": "Машина выглядит сложной."
+      }
+    ],
+    "colloc": "complex problem · complex system",
+    "pattern": "simple"
+  },
+  "a2-0671": {
+    "examples": [
+      {
+        "en": "Speak in a confident voice.",
+        "ru": "Говори уверенным голосом."
+      },
+      {
+        "en": "She sounds confident.",
+        "ru": "Она звучит уверенно."
+      },
+      {
+        "en": "Stay confident during interviews.",
+        "ru": "Будь уверен на собеседованиях."
+      }
+    ],
+    "colloc": "confident about · feel confident",
+    "pattern": "unsure"
+  },
+  "a2-0672": {
+    "examples": [
+      {
+        "en": "I feel confused now.",
+        "ru": "Сейчас я озадачен."
+      },
+      {
+        "en": "I'm confused about the schedule.",
+        "ru": "Я запутался в расписании."
+      },
+      {
+        "en": "Don't look so confused.",
+        "ru": "Не выгляди таким растерянным."
+      }
+    ],
+    "colloc": "confused about · get confused"
+  },
+  "a2-0673": {
+    "examples": [
+      {
+        "en": "Stay conscious of risks.",
+        "ru": "Оставайся сознательным к рискам."
+      },
+      {
+        "en": "She's conscious of the risk.",
+        "ru": "Она осознаёт риск."
+      },
+      {
+        "en": "He became conscious after surgery.",
+        "ru": "Он пришёл в сознание после операции."
+      }
+    ],
+    "colloc": "conscious of · fully conscious",
+    "pattern": "unconscious"
+  },
+  "a2-0674": {
+    "examples": [
+      {
+        "en": "There is constant noise.",
+        "ru": "Есть постоянный шум."
+      },
+      {
+        "en": "There's constant noise outside.",
+        "ru": "Снаружи постоянный шум."
+      },
+      {
+        "en": "Keep a constant temperature.",
+        "ru": "Поддерживай постоянную температуру."
+      }
+    ],
+    "colloc": "constant change · constant companion"
+  },
+  "a2-0675": {
+    "examples": [
+      {
+        "en": "Online booking is convenient.",
+        "ru": "Онлайн-бронирование удобно."
+      },
+      {
+        "en": "Is this time convenient?",
+        "ru": "Это время удобно?"
+      },
+      {
+        "en": "Online banking is convenient.",
+        "ru": "Онлайн-банкинг удобен."
+      }
+    ],
+    "colloc": "convenient for · convenient location",
+    "pattern": "inconvenient"
+  },
+  "a2-0676": {
+    "examples": [
+      {
+        "en": "That idea sounds crazy.",
+        "ru": "Эта идея звучит безумно."
+      },
+      {
+        "en": "That's a crazy idea.",
+        "ru": "Это безумная идея."
+      },
+      {
+        "en": "The schedule is crazy this week.",
+        "ru": "На этой неделе безумное расписание."
+      }
+    ],
+    "colloc": "crazy about · go crazy"
+  },
+  "a2-0677": {
+    "examples": [
+      {
+        "en": "She is a creative writer.",
+        "ru": "Она творческий писатель."
+      },
+      {
+        "en": "She's a creative thinker.",
+        "ru": "Она креативный мыслитель."
+      },
+      {
+        "en": "Try a creative approach.",
+        "ru": "Попробуй креативный подход."
+      }
+    ],
+    "colloc": "creative writing · creative solution"
+  },
+  "a2-0678": {
+    "examples": [
+      {
+        "en": "This is a critical moment.",
+        "ru": "Это критический момент."
+      },
+      {
+        "en": "This is a critical moment.",
+        "ru": "Это критический момент."
+      },
+      {
+        "en": "Don't be too critical.",
+        "ru": "Не будь слишком критичным."
+      }
+    ],
+    "colloc": "critical of · critical thinking"
+  },
+  "a2-0679": {
+    "examples": [
+      {
+        "en": "The subway is crowded.",
+        "ru": "Метро переполнено."
+      },
+      {
+        "en": "The train was crowded.",
+        "ru": "В поезде было тесно."
+      },
+      {
+        "en": "Avoid crowded beaches.",
+        "ru": "Избегай людных пляжей."
+      }
+    ],
+    "colloc": "crowded with · crowded street",
+    "pattern": "empty"
+  },
+  "a2-0680": {
+    "examples": [
+      {
+        "en": "Do not be cruel.",
+        "ru": "Не будь жестоким."
+      },
+      {
+        "en": "Don't be cruel to animals.",
+        "ru": "Не будь жесток к животным."
+      },
+      {
+        "en": "That was a cruel joke.",
+        "ru": "Это была жестокая шутка."
+      }
+    ],
+    "colloc": "cruel to · cruel joke",
+    "pattern": "kind"
+  },
+  "a2-0681": {
+    "examples": [
+      {
+        "en": "Kids are naturally curious.",
+        "ru": "Дети от природы любопытны."
+      },
+      {
+        "en": "Kids are naturally curious.",
+        "ru": "Дети от природы любопытны."
+      },
+      {
+        "en": "I'm curious about your trip.",
+        "ru": "Мне любопытна твоя поездка."
+      }
+    ],
+    "colloc": "curious about · curious mind"
+  },
+  "a2-0610": {
+    "examples": [
+      {
+        "en": "Check the current price.",
+        "ru": "Проверь текущую цену."
+      },
+      {
+        "en": "What's the current situation?",
+        "ru": "Какова текущая ситуация?"
+      },
+      {
+        "en": "Current events fill the news.",
+        "ru": "Текущие события заполняют новости."
+      }
+    ],
+    "colloc": "current affairs · current address",
+    "note": "current ≠ actual"
+  },
+  "a2-0682": {
+    "examples": [
+      {
+        "en": "Exercise is a daily habit.",
+        "ru": "Спорт — ежедневная привычка."
+      },
+      {
+        "en": "I take a daily walk.",
+        "ru": "Я гуляю ежедневно."
+      },
+      {
+        "en": "This is a daily routine.",
+        "ru": "Это ежедневная рутина."
+      }
+    ],
+    "colloc": "daily life · daily basis"
+  },
+  "a2-0683": {
+    "examples": [
+      {
+        "en": "Return the damaged item.",
+        "ru": "Верни повреждённый товар."
+      },
+      {
+        "en": "The package arrived damaged.",
+        "ru": "Посылка пришла повреждённой."
+      },
+      {
+        "en": "Avoid damaged goods.",
+        "ru": "Избегай повреждённых товаров."
+      }
+    ],
+    "colloc": "damaged goods · badly damaged"
+  },
+  "a2-0684": {
+    "examples": [
+      {
+        "en": "She works with deaf children.",
+        "ru": "Она работает с глухими детьми."
+      },
+      {
+        "en": "She's deaf in one ear.",
+        "ru": "Она глухая на одно ухо."
+      },
+      {
+        "en": "The music was deafening.",
+        "ru": "Музыка была оглушительной."
+      }
+    ],
+    "colloc": "deaf to · go deaf"
+  },
+  "a2-0685": {
+    "examples": [
+      {
+        "en": "Find a decent hotel.",
+        "ru": "Найди приличный отель."
+      },
+      {
+        "en": "That's a decent salary.",
+        "ru": "Это приличная зарплата."
+      },
+      {
+        "en": "Find a decent hotel.",
+        "ru": "Найди приличный отель."
+      }
+    ],
+    "colloc": "decent job · decent enough"
+  },
+  "a2-0686": {
+    "examples": [
+      {
+        "en": "The lake is deep.",
+        "ru": "Озеро глубокое."
+      },
+      {
+        "en": "The lake is deep here.",
+        "ru": "Здесь озеро глубокое."
+      },
+      {
+        "en": "Take a deep breath.",
+        "ru": "Сделай глубокий вдох."
+      }
+    ],
+    "colloc": "deep sleep · deep voice",
+    "pattern": "shallow"
+  },
+  "a2-0687": {
+    "examples": [
+      {
+        "en": "Give a definite answer.",
+        "ru": "Дай определённый ответ."
+      },
+      {
+        "en": "We need a definite answer.",
+        "ru": "Нужен определённый ответ."
+      },
+      {
+        "en": "Is that a definite no?",
+        "ru": "Это определённое «нет»?"
+      }
+    ],
+    "colloc": "definite plan · definite article",
+    "pattern": "uncertain"
+  },
+  "a2-0688": {
+    "examples": [
+      {
+        "en": "Handle delicate glass carefully.",
+        "ru": "Осторожно обращайся с хрупким стеклом."
+      },
+      {
+        "en": "Handle delicate glass carefully.",
+        "ru": "Аккуратно обращайся с хрупким стеклом."
+      },
+      {
+        "en": "That's a delicate subject.",
+        "ru": "Это деликатная тема."
+      }
+    ],
+    "colloc": "delicate balance · delicate fabric"
+  },
+  "a2-0689": {
+    "examples": [
+      {
+        "en": "This soup is delicious.",
+        "ru": "Этот суп вкусный."
+      },
+      {
+        "en": "This soup is delicious.",
+        "ru": "Этот суп восхитителен."
+      },
+      {
+        "en": "Thanks — dinner was delicious.",
+        "ru": "Спасибо — ужин был восхитительным."
+      }
+    ],
+    "colloc": "delicious meal · absolutely delicious",
+    "pattern": "tasty"
+  },
+  "a2-0690": {
+    "examples": [
+      {
+        "en": "I am delighted to help.",
+        "ru": "Я в восторге помочь."
+      },
+      {
+        "en": "I'm delighted to help.",
+        "ru": "Я рад помочь."
+      },
+      {
+        "en": "She looked delighted.",
+        "ru": "Она выглядела в восторге."
+      }
+    ],
+    "colloc": "delighted with · delighted to",
+    "pattern": "pleased"
+  },
+  "a2-0691": {
+    "examples": [
+      {
+        "en": "She felt depressed after failure.",
+        "ru": "Она чувствовала себя подавленной."
+      },
+      {
+        "en": "He felt depressed after the loss.",
+        "ru": "После потери он чувствовал себя подавленным."
+      },
+      {
+        "en": "Don't stay depressed alone.",
+        "ru": "Не оставайся в депрессии один."
+      }
+    ],
+    "colloc": "depressed about · feel depressed"
+  },
+  "a2-0692": {
+    "examples": [
+      {
+        "en": "He made a desperate call.",
+        "ru": "Он сделал отчаянный звонок."
+      },
+      {
+        "en": "I'm desperate for a vacation.",
+        "ru": "Мне отчаянно нужен отпуск."
+      },
+      {
+        "en": "She made a desperate attempt.",
+        "ru": "Она сделала отчаянную попытку."
+      }
+    ],
+    "colloc": "desperate for · desperate situation"
+  },
+  "a2-0693": {
+    "examples": [
+      {
+        "en": "Write a detailed report.",
+        "ru": "Напиши подробный отчёт."
+      },
+      {
+        "en": "Give a detailed report.",
+        "ru": "Дай подробный отчёт."
+      },
+      {
+        "en": "Her notes are detailed.",
+        "ru": "Её записи подробные."
+      }
+    ],
+    "colloc": "detailed description · highly detailed"
+  },
+  "a2-0694": {
+    "examples": [
+      {
+        "en": "She is determined to succeed.",
+        "ru": "Она решительно настроена на успех."
+      },
+      {
+        "en": "She's determined to succeed.",
+        "ru": "Она полна решимости добиться успеха."
+      },
+      {
+        "en": "Stay determined.",
+        "ru": "Оставайся решительным."
+      }
+    ],
+    "colloc": "determined to · determined look"
+  },
+  "a2-0611": {
+    "examples": [
+      {
+        "en": "I prefer digital photos.",
+        "ru": "Я предпочитаю цифровые фото."
+      },
+      {
+        "en": "I prefer digital photos.",
+        "ru": "Я предпочитаю цифровые фото."
+      },
+      {
+        "en": "Digital skills matter at work.",
+        "ru": "Цифровые навыки важны на работе."
+      }
+    ],
+    "colloc": "digital age · digital camera"
+  },
+  "a2-0695": {
+    "examples": [
+      {
+        "en": "Take a direct flight.",
+        "ru": "Возьми прямой рейс."
+      },
+      {
+        "en": "Take a direct flight.",
+        "ru": "Лети прямым рейсом."
+      },
+      {
+        "en": "Be direct but polite.",
+        "ru": "Будь прямым, но вежливым."
+      }
+    ],
+    "colloc": "direct flight · direct contact",
+    "pattern": "indirect"
+  },
+  "a2-0696": {
+    "examples": [
+      {
+        "en": "Provide access for disabled visitors.",
+        "ru": "Обеспечь доступ для посетителей с ограничениями."
+      },
+      {
+        "en": "The building is accessible for disabled visitors.",
+        "ru": "Здание доступно для посетителей с ограниченными возможностями."
+      },
+      {
+        "en": "Disabled parking is near the door.",
+        "ru": "Парковка для инвалидов у двери."
+      }
+    ],
+    "colloc": "disabled access · disabled person"
+  },
+  "a2-0697": {
+    "examples": [
+      {
+        "en": "I feel disappointed today.",
+        "ru": "Сегодня я разочарован."
+      },
+      {
+        "en": "I was disappointed by the ending.",
+        "ru": "Концовка меня разочаровала."
+      },
+      {
+        "en": "Don't look so disappointed.",
+        "ru": "Не выгляди таким разочарованным."
+      }
+    ],
+    "colloc": "disappointed with · feel disappointed"
+  },
+  "a2-0698": {
+    "examples": [
+      {
+        "en": "A distant mountain appeared.",
+        "ru": "Появилась далёкая гора."
+      },
+      {
+        "en": "We heard a distant train.",
+        "ru": "Мы слышали далёкий поезд."
+      },
+      {
+        "en": "He seemed distant and quiet.",
+        "ru": "Он казался отстранённым и тихим."
+      }
+    ],
+    "colloc": "distant relative · distant past",
+    "pattern": "close"
+  },
+  "a2-0699": {
+    "examples": [
+      {
+        "en": "There is a distinct smell.",
+        "ru": "Есть отчётливый запах."
+      },
+      {
+        "en": "There's a distinct smell of smoke.",
+        "ru": "Чувствуется отчётливый запах дыма."
+      },
+      {
+        "en": "Keep the two ideas distinct.",
+        "ru": "Держи две идеи раздельно."
+      }
+    ],
+    "colloc": "distinct from · distinct advantage"
+  },
+  "a2-0700": {
+    "examples": [
+      {
+        "en": "Our city is diverse.",
+        "ru": "Наш город разнообразен."
+      },
+      {
+        "en": "Our team is diverse.",
+        "ru": "Наша команда разнообразна."
+      },
+      {
+        "en": "The city has a diverse culture.",
+        "ru": "В городе разнообразная культура."
+      }
+    ],
+    "colloc": "diverse group · culturally diverse"
+  },
+  "a2-0612": {
+    "examples": [
+      {
+        "en": "Book a domestic flight.",
+        "ru": "Забронируй внутренний рейс."
+      },
+      {
+        "en": "Domestic flights are cheaper.",
+        "ru": "Внутренние рейсы дешевле."
+      },
+      {
+        "en": "She prefers domestic travel.",
+        "ru": "Она предпочитает внутренние поездки."
+      }
+    ],
+    "colloc": "domestic flight · domestic violence"
+  },
+  "a2-0701": {
+    "examples": [
+      {
+        "en": "There was a dramatic change.",
+        "ru": "Произошло драматичное изменение."
+      },
+      {
+        "en": "There was a dramatic change.",
+        "ru": "Произошло драматическое изменение."
+      },
+      {
+        "en": "She made a dramatic entrance.",
+        "ru": "Она сделала драматичный вход."
+      }
+    ],
+    "colloc": "dramatic increase · dramatic effect"
+  },
+  "a2-0702": {
+    "examples": [
+      {
+        "en": "Never drive when drunk.",
+        "ru": "Никогда не води пьяным."
+      },
+      {
+        "en": "He was drunk after the party.",
+        "ru": "После вечеринки он был пьян."
+      },
+      {
+        "en": "Don't drive drunk.",
+        "ru": "Не садись пьяным за руль."
+      }
+    ],
+    "colloc": "get drunk · drunk driving",
+    "pattern": "sober"
+  },
+  "a2-0703": {
+    "examples": [
+      {
+        "en": "The rent is due today.",
+        "ru": "Аренда должна быть сегодня."
+      },
+      {
+        "en": "The rent is due tomorrow.",
+        "ru": "Аренда завтра."
+      },
+      {
+        "en": "She's due to arrive at six.",
+        "ru": "Она должна приехать в шесть."
+      }
+    ],
+    "colloc": "due to · due date"
+  },
+  "a2-0704": {
+    "examples": [
+      {
+        "en": "The lecture was dull.",
+        "ru": "Лекция была скучной."
+      },
+      {
+        "en": "The lecture was dull.",
+        "ru": "Лекция была скучной."
+      },
+      {
+        "en": "Dull weather makes me sleepy.",
+        "ru": "Пасмурная погода вызывает сонливость."
+      }
+    ],
+    "colloc": "dull ache · dull day",
+    "pattern": "interesting"
+  },
+  "a2-0705": {
+    "examples": [
+      {
+        "en": "Students are eager to learn.",
+        "ru": "Ученики стремятся учиться."
+      },
+      {
+        "en": "I'm eager to start.",
+        "ru": "Мне не терпится начать."
+      },
+      {
+        "en": "Kids were eager for the trip.",
+        "ru": "Дети с нетерпением ждали поездки."
+      }
+    ],
+    "colloc": "eager to · eager for"
+  },
+  "a2-0706": {
+    "examples": [
+      {
+        "en": "We live on the eastern coast.",
+        "ru": "Мы живём на восточном побережье."
+      },
+      {
+        "en": "Eastern winds brought rain.",
+        "ru": "Восточные ветры принесли дождь."
+      },
+      {
+        "en": "She lives on the eastern coast.",
+        "ru": "Она живёт на восточном побережье."
+      }
+    ],
+    "colloc": "eastern part · eastern Europe"
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "a2-0143": {
+    "examples": [
+      {
+        "en": "She qualifies for the final.",
+        "ru": "Она проходит в финал."
+      },
+      {
+        "en": "She qualified for the finals.",
+        "ru": "Она прошла в финал."
+      },
+      {
+        "en": "This course qualifies you to teach.",
+        "ru": "Этот курс даёт право преподавать."
+      }
+    ],
+    "colloc": "qualify for · highly qualified",
+    "pattern": "qualify for + N"
+  },
+  "a2-0144": {
+    "examples": [
+      {
+        "en": "Raise your hand to speak.",
+        "ru": "Подними руку, чтобы говорить."
+      },
+      {
+        "en": "They raised prices last month.",
+        "ru": "В прошлом месяце они подняли цены."
+      },
+      {
+        "en": "Raise your hand if you agree.",
+        "ru": "Подними руку, если согласен."
+      }
+    ],
+    "colloc": "raise money · raise a child",
+    "note": "raise ≠ rise",
+    "pattern": "raise + N"
+  },
+  "a2-0145": {
+    "examples": [
+      {
+        "en": "We reach the station early.",
+        "ru": "Мы рано добираемся до станции."
+      },
+      {
+        "en": "We reached the hotel after midnight.",
+        "ru": "Мы добрались до отеля после полуночи."
+      },
+      {
+        "en": "Call me when you reach the station.",
+        "ru": "Позвони, когда доедешь до станции."
+      }
+    ],
+    "colloc": "reach an agreement · out of reach",
+    "pattern": "reach + N"
+  },
+  "a2-0146": {
+    "examples": [
+      {
+        "en": "How did she react?",
+        "ru": "Как она отреагировала?"
+      },
+      {
+        "en": "How did she react to the news?",
+        "ru": "Как она отреагировала на новости?"
+      },
+      {
+        "en": "Kids react differently to stress.",
+        "ru": "Дети по-разному реагируют на стресс."
+      }
+    ],
+    "colloc": "react to · quick reaction",
+    "pattern": "react to + N"
+  },
+  "a2-0147": {
+    "examples": [
+      {
+        "en": "I realize my mistake.",
+        "ru": "Я осознаю свою ошибку."
+      },
+      {
+        "en": "I realized I left my wallet at home.",
+        "ru": "Я понял, что оставил кошелёк дома."
+      },
+      {
+        "en": "Do you realize how late it is?",
+        "ru": "Ты понимаешь, как поздно?"
+      }
+    ],
+    "colloc": "realize that · suddenly realize",
+    "note": "AmE: realize",
+    "pattern": "realize + that"
+  },
+  "a2-0148": {
+    "examples": [
+      {
+        "en": "I recognize that song.",
+        "ru": "Я узнаю эту песню."
+      },
+      {
+        "en": "I recognized her voice immediately.",
+        "ru": "Я сразу узнал её голос."
+      },
+      {
+        "en": "Doctors recognized the symptoms.",
+        "ru": "Врачи распознали симптомы."
+      }
+    ],
+    "colloc": "recognize as · hard to recognize",
+    "note": "AmE: recognize",
+    "pattern": "recognize + N"
+  },
+  "a2-0149": {
+    "examples": [
+      {
+        "en": "I recommend this restaurant.",
+        "ru": "Рекомендую этот ресторан."
+      },
+      {
+        "en": "I recommend this café.",
+        "ru": "Рекомендую это кафе."
+      },
+      {
+        "en": "Doctors recommend walking daily.",
+        "ru": "Врачи рекомендуют ходить пешком каждый день."
+      }
+    ],
+    "colloc": "recommend doing · highly recommend",
+    "pattern": "recommend + N / Ving"
+  },
+  "a2-0150": {
+    "examples": [
+      {
+        "en": "Record your voice clearly.",
+        "ru": "Чётко запиши свой голос."
+      },
+      {
+        "en": "She recorded a podcast yesterday.",
+        "ru": "Вчера она записала подкаст."
+      },
+      {
+        "en": "The thermometer recorded thirty-five degrees.",
+        "ru": "Термометр показал тридцать пять градусов."
+      }
+    ],
+    "colloc": "record a video · break a record",
+    "pattern": "record + N"
+  },
+  "a2-0151": {
+    "examples": [
+      {
+        "en": "Reduce plastic waste.",
+        "ru": "Сократи пластиковые отходы."
+      },
+      {
+        "en": "We need to reduce plastic waste.",
+        "ru": "Нам нужно сократить пластиковые отходы."
+      },
+      {
+        "en": "Exercise can reduce stress.",
+        "ru": "Спорт может снизить стресс."
+      }
+    ],
+    "colloc": "reduce by · reduce costs",
+    "pattern": "reduce + N"
+  },
+  "a2-0152": {
+    "examples": [
+      {
+        "en": "Refer to page ten.",
+        "ru": "Обратись к странице десять."
+      },
+      {
+        "en": "Please refer to page twelve.",
+        "ru": "См. страницу двенадцать."
+      },
+      {
+        "en": "She referred me to a specialist.",
+        "ru": "Она направила меня к специалисту."
+      }
+    ],
+    "colloc": "refer to · reference",
+    "pattern": "refer to + N"
+  },
+  "a2-0153": {
+    "examples": [
+      {
+        "en": "Mirrors reflect light.",
+        "ru": "Зеркала отражают свет."
+      },
+      {
+        "en": "The mirror reflects light.",
+        "ru": "Зеркало отражает свет."
+      },
+      {
+        "en": "Take time to reflect on your goals.",
+        "ru": "Найди время подумать о целях."
+      }
+    ],
+    "colloc": "reflect on · reflect light",
+    "pattern": "reflect on / + N"
+  },
+  "a2-0154": {
+    "examples": [
+      {
+        "en": "He refuses to leave.",
+        "ru": "Он отказывается уходить."
+      },
+      {
+        "en": "She refused to sign the contract.",
+        "ru": "Она отказалась подписывать контракт."
+      },
+      {
+        "en": "They refused our offer.",
+        "ru": "Они отклонили наше предложение."
+      }
+    ],
+    "colloc": "refuse to · flatly refuse",
+    "pattern": "refuse to + V / refuse + N"
+  },
+  "a2-0155": {
+    "examples": [
+      {
+        "en": "I regard her as a friend.",
+        "ru": "Я считаю её другом."
+      },
+      {
+        "en": "I regard her as a mentor.",
+        "ru": "Я считаю её наставником."
+      },
+      {
+        "en": "Please give my regards to your family.",
+        "ru": "Передай привет семье."
+      }
+    ],
+    "colloc": "regard as · with regard to",
+    "pattern": "regard + N as"
+  },
+  "a2-0156": {
+    "examples": [
+      {
+        "en": "I regret my decision.",
+        "ru": "Я сожалею о своём решении."
+      },
+      {
+        "en": "I regret shouting at you.",
+        "ru": "Жалею, что накричал на тебя."
+      },
+      {
+        "en": "She regrets not studying harder.",
+        "ru": "Она жалеет, что не училась усерднее."
+      }
+    ],
+    "colloc": "regret doing · deep regret",
+    "pattern": "regret + Ving / that"
+  },
+  "a2-0157": {
+    "examples": [
+      {
+        "en": "They reject the offer.",
+        "ru": "Они отклоняют предложение."
+      },
+      {
+        "en": "They rejected my application.",
+        "ru": "Они отклонили мою заявку."
+      },
+      {
+        "en": "Don't reject new ideas too quickly.",
+        "ru": "Не отвергай новые идеи слишком быстро."
+      }
+    ],
+    "colloc": "reject an offer · reject outright",
+    "pattern": "reject + N",
+    "ant": "accept"
+  },
+  "a2-0158": {
+    "examples": [
+      {
+        "en": "How does this relate?",
+        "ru": "Как это связано?"
+      },
+      {
+        "en": "How does this relate to our topic?",
+        "ru": "Как это связано с нашей темой?"
+      },
+      {
+        "en": "I can relate to her story.",
+        "ru": "Мне близка её история."
+      }
+    ],
+    "colloc": "relate to · related to",
+    "pattern": "relate to + N"
+  },
+  "a2-0159": {
+    "examples": [
+      {
+        "en": "They release a new app.",
+        "ru": "Они выпускают новое приложение."
+      },
+      {
+        "en": "They released the film last Friday.",
+        "ru": "Они выпустили фильм в прошлую пятницу."
+      },
+      {
+        "en": "Release the brake slowly.",
+        "ru": "Плавно отпусти тормоз."
+      }
+    ],
+    "colloc": "release a song · press release",
+    "pattern": "release + N"
+  },
+  "a2-0160": {
+    "examples": [
+      {
+        "en": "I rely on my friends.",
+        "ru": "Я полагаюсь на друзей."
+      },
+      {
+        "en": "You can rely on me.",
+        "ru": "На меня можно положиться."
+      },
+      {
+        "en": "Don't rely only on memory.",
+        "ru": "Не полагайся только на память."
+      }
+    ],
+    "colloc": "rely on",
+    "pattern": "rely on + N"
+  },
+  "a2-0161": {
+    "examples": [
+      {
+        "en": "Remain calm in danger.",
+        "ru": "Оставайся спокойным в опасности."
+      },
+      {
+        "en": "Only two tickets remain.",
+        "ru": "Осталось только два билета."
+      },
+      {
+        "en": "She remained calm under pressure.",
+        "ru": "Под давлением она оставалась спокойной."
+      }
+    ],
+    "colloc": "remain calm · remain in",
+    "pattern": "remain + adj"
+  },
+  "a2-0162": {
+    "examples": [
+      {
+        "en": "Remind me to call.",
+        "ru": "Напомни мне позвонить."
+      },
+      {
+        "en": "Remind me to call Mom.",
+        "ru": "Напомни позвонить маме."
+      },
+      {
+        "en": "This song reminds me of summer.",
+        "ru": "Эта песня напоминает мне о лете."
+      }
+    ],
+    "colloc": "remind sb to · remind of",
+    "pattern": "remind sb to + V / of"
+  },
+  "a2-0163": {
+    "examples": [
+      {
+        "en": "Remove the old sticker.",
+        "ru": "Удали старую наклейку."
+      },
+      {
+        "en": "Please remove your shoes.",
+        "ru": "Пожалуйста, сними обувь."
+      },
+      {
+        "en": "They removed the old carpet.",
+        "ru": "Они убрали старый ковёр."
+      }
+    ],
+    "colloc": "remove from · remove stains",
+    "pattern": "remove + N"
+  },
+  "a2-0164": {
+    "examples": [
+      {
+        "en": "We rent a small flat.",
+        "ru": "Мы снимаем маленькую квартиру."
+      },
+      {
+        "en": "We rent a small apartment.",
+        "ru": "Мы снимаем маленькую квартиру."
+      },
+      {
+        "en": "Can we rent bikes here?",
+        "ru": "Можно здесь взять велосипеды напрокат?"
+      }
+    ],
+    "colloc": "for rent · rent out",
+    "pattern": "rent + N"
+  },
+  "a2-0165": {
+    "examples": [
+      {
+        "en": "Repair the broken chair.",
+        "ru": "Почини сломанный стул."
+      },
+      {
+        "en": "Can you repair my bike?",
+        "ru": "Можешь починить велосипед?"
+      },
+      {
+        "en": "They repaired the leaking roof.",
+        "ru": "Они починили протекающую крышу."
+      }
+    ],
+    "colloc": "under repair · repair shop",
+    "pattern": "repair + N",
+    "syn": "fix"
+  },
+  "a2-0166": {
+    "examples": [
+      {
+        "en": "Replace the old battery.",
+        "ru": "Замени старую батарею."
+      },
+      {
+        "en": "Replace the battery when it dies.",
+        "ru": "Замени батарею, когда сядет."
+      },
+      {
+        "en": "Nothing can replace a good friend.",
+        "ru": "Ничто не заменит хорошего друга."
+      }
+    ],
+    "colloc": "replace with · replace by",
+    "pattern": "replace + N with"
+  },
+  "a2-0167": {
+    "examples": [
+      {
+        "en": "Reply to the email soon.",
+        "ru": "Скоро ответь на письмо."
+      },
+      {
+        "en": "Please reply to my email.",
+        "ru": "Ответь, пожалуйста, на письмо."
+      },
+      {
+        "en": "She replied with a smile.",
+        "ru": "Она ответила улыбкой."
+      }
+    ],
+    "colloc": "reply to · quick reply",
+    "pattern": "reply to + N"
+  },
+  "a2-0168": {
+    "examples": [
+      {
+        "en": "Report the problem quickly.",
+        "ru": "Быстро сообщи о проблеме."
+      },
+      {
+        "en": "Report any problems to the manager.",
+        "ru": "Сообщай о проблемах менеджеру."
+      },
+      {
+        "en": "Journalists reported from the scene.",
+        "ru": "Журналисты вели репортаж с места событий."
+      }
+    ],
+    "colloc": "report on · news report",
+    "pattern": "report + N / that"
+  },
+  "a2-0169": {
+    "examples": [
+      {
+        "en": "She represents our company.",
+        "ru": "Она представляет нашу компанию."
+      },
+      {
+        "en": "She represents our company abroad.",
+        "ru": "Она представляет нашу компанию за границей."
+      },
+      {
+        "en": "This chart represents last year's sales.",
+        "ru": "Эта диаграмма показывает продажи за прошлый год."
+      }
+    ],
+    "colloc": "represent sb · representative",
+    "pattern": "represent + N"
+  },
+  "a2-0170": {
+    "examples": [
+      {
+        "en": "I request more time.",
+        "ru": "Я прошу больше времени."
+      },
+      {
+        "en": "Guests requested extra towels.",
+        "ru": "Гости попросили дополнительные полотенца."
+      },
+      {
+        "en": "I requested a late checkout.",
+        "ru": "Я запросил поздний выезд."
+      }
+    ],
+    "colloc": "on request · request for",
+    "pattern": "request + N"
+  },
+  "a2-0171": {
+    "examples": [
+      {
+        "en": "Jobs require experience.",
+        "ru": "Работа требует опыта."
+      },
+      {
+        "en": "This job requires patience.",
+        "ru": "Эта работа требует терпения."
+      },
+      {
+        "en": "Students are required to register.",
+        "ru": "Студенты обязаны зарегистрироваться."
+      }
+    ],
+    "colloc": "require that · required reading",
+    "pattern": "require + N"
+  },
+  "a2-0172": {
+    "examples": [
+      {
+        "en": "Respect other people.",
+        "ru": "Уважай других людей."
+      },
+      {
+        "en": "I respect your decision.",
+        "ru": "Я уважаю твоё решение."
+      },
+      {
+        "en": "Respect other people's time.",
+        "ru": "Уважай чужое время."
+      }
+    ],
+    "colloc": "respect for · mutual respect",
+    "pattern": "respect + N"
+  },
+  "a2-0173": {
+    "examples": [
+      {
+        "en": "Respond to messages quickly.",
+        "ru": "Быстро отвечай на сообщения."
+      },
+      {
+        "en": "Please respond as soon as possible.",
+        "ru": "Ответьте как можно скорее."
+      },
+      {
+        "en": "How did the market respond?",
+        "ru": "Как отреагировал рынок?"
+      }
+    ],
+    "colloc": "respond to · quick response",
+    "pattern": "respond to + N"
+  },
+  "a2-0174": {
+    "examples": [
+      {
+        "en": "He will retire next year.",
+        "ru": "Он уйдёт на пенсию в следующем году."
+      },
+      {
+        "en": "He plans to retire next year.",
+        "ru": "Он планирует выйти на пенсию в следующем году."
+      },
+      {
+        "en": "She retired from teaching in 2020.",
+        "ru": "Она ушла из преподавания в 2020."
+      }
+    ],
+    "colloc": "retire from · early retirement",
+    "pattern": "retire from"
+  },
+  "a2-0175": {
+    "examples": [
+      {
+        "en": "Review your notes before class.",
+        "ru": "Просмотри записи перед уроком."
+      },
+      {
+        "en": "Please review the contract carefully.",
+        "ru": "Внимательно просмотри договор."
+      },
+      {
+        "en": "Critics reviewed the film positively.",
+        "ru": "Критики положительно отозвались о фильме."
+      }
+    ],
+    "colloc": "review notes · in review",
+    "pattern": "review + N"
+  },
+  "a2-0176": {
+    "examples": [
+      {
+        "en": "Do not risk your health.",
+        "ru": "Не рискуй здоровьем."
+      },
+      {
+        "en": "Don't risk your health for work.",
+        "ru": "Не рискуй здоровьем ради работы."
+      },
+      {
+        "en": "They risked everything on the idea.",
+        "ru": "Они рискнули всем ради идеи."
+      }
+    ],
+    "colloc": "take a risk · at risk",
+    "pattern": "risk + N / Ving"
+  },
+  "a2-0177": {
+    "examples": [
+      {
+        "en": "Roll the ball gently.",
+        "ru": "Осторожно кати мяч."
+      },
+      {
+        "en": "Roll the dough thin.",
+        "ru": "Раскатай тесто тонко."
+      },
+      {
+        "en": "Tears rolled down her cheeks.",
+        "ru": "Слёзы катились по щекам."
+      }
+    ],
+    "colloc": "roll up · roll out",
+    "pattern": "roll + N"
+  },
+  "a2-0178": {
+    "examples": [
+      {
+        "en": "Do not rush your work.",
+        "ru": "Не торопись с работой."
+      },
+      {
+        "en": "Don't rush — we have time.",
+        "ru": "Не торопись — у нас есть время."
+      },
+      {
+        "en": "She rushed to catch the bus.",
+        "ru": "Она бросилась, чтобы успеть на автобус."
+      }
+    ],
+    "colloc": "rush hour · in a rush",
+    "pattern": "rush to"
+  }
+}
