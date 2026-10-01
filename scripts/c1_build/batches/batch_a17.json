@@ -1,0 +1,1156 @@
+[
+  {
+    "word": "meteorological",
+    "lemma": "meteorological",
+    "ipa": "/ˌmitiˌɔrəˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "метеорологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less meteorological option.",
+        "ru": "Выберите менее метеорологический вариант."
+      },
+      {
+        "en": "The design feels meteorological.",
+        "ru": "Дизайн кажется метеорологическим."
+      },
+      {
+        "en": "A meteorological policy risks backlash.",
+        "ru": "Метеорологическая политика может вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "meteorological tone · remain meteorological"
+  },
+  {
+    "word": "meteorology",
+    "lemma": "meteorology",
+    "ipa": "/ˌmitiərˈɑləʤi/",
+    "pos": "noun",
+    "tr": "метеорология",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the meteorology closely.",
+        "ru": "Исследователи внимательно изучили метеорологию."
+      },
+      {
+        "en": "The meteorology shaped the final decision.",
+        "ru": "Метеорология определила окончательное решение."
+      },
+      {
+        "en": "Without the meteorology, the argument collapses.",
+        "ru": "Без метеорологии аргумент рухнет."
+      }
+    ],
+    "colloc": "clear meteorology · meteorology of"
+  },
+  {
+    "word": "methodical",
+    "lemma": "methodical",
+    "ipa": "/məˈθɑdɪkəl/",
+    "pos": "adj",
+    "tr": "методический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a methodical strategy.",
+        "ru": "Это была методическая стратегия."
+      },
+      {
+        "en": "The tone grew methodical.",
+        "ru": "Тон стал методичным."
+      },
+      {
+        "en": "They rejected the methodical proposal.",
+        "ru": "Они отвергли методическое предложение."
+      }
+    ],
+    "colloc": "methodical tone · remain methodical"
+  },
+  {
+    "word": "methodological",
+    "lemma": "methodological",
+    "ipa": "/ˌmɛθədəˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "методологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly methodological.",
+        "ru": "Доказательства вряд ли методологические."
+      },
+      {
+        "en": "She remained methodological under stress.",
+        "ru": "Она оставалась методологической в стрессе."
+      },
+      {
+        "en": "Results looked only methodological.",
+        "ru": "Результаты выглядели только методологически."
+      }
+    ],
+    "colloc": "methodological tone · methodological result"
+  },
+  {
+    "word": "methodologically",
+    "lemma": "methodologically",
+    "ipa": "/methodologically/",
+    "pos": "adv",
+    "tr": "методологически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued methodologically for reform.",
+        "ru": "Он методологически выступал за реформы."
+      },
+      {
+        "en": "The rule was applied methodologically.",
+        "ru": "Правило применялось методологически."
+      },
+      {
+        "en": "Costs rose methodologically last year.",
+        "ru": "В прошлом году методологически выросли затраты."
+      }
+    ],
+    "colloc": "respond methodologically · methodologically"
+  },
+  {
+    "word": "meticulous",
+    "lemma": "meticulous",
+    "ipa": "/məˈtɪkjələs/",
+    "pos": "adj",
+    "tr": "дотошный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less meticulous option.",
+        "ru": "Выберите менее тщательный вариант."
+      },
+      {
+        "en": "The design feels meticulous.",
+        "ru": "Дизайн кажется дотошным."
+      },
+      {
+        "en": "A meticulous policy risks backlash.",
+        "ru": "Тщательная политика рискует вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "meticulous tone · meticulous result"
+  },
+  {
+    "word": "meticulously",
+    "lemma": "meticulously",
+    "ipa": "/məˈtɪkjələsli/",
+    "pos": "adv",
+    "tr": "тщательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued meticulously for reform.",
+        "ru": "Он дотошно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied meticulously.",
+        "ru": "Правило применялось скрупулезно."
+      },
+      {
+        "en": "Costs rose meticulously last year.",
+        "ru": "Затраты в прошлом году резко выросли."
+      }
+    ],
+    "colloc": "respond meticulously · meticulously"
+  },
+  {
+    "word": "midwife",
+    "lemma": "midwife",
+    "ipa": "/ˈmɪdˌwaɪf/",
+    "pos": "noun",
+    "tr": "акушерка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one midwife.",
+        "ru": "Ее карьера перевернулась на одну акушерку."
+      },
+      {
+        "en": "Public debate ignored the midwife.",
+        "ru": "Публичные дебаты проигнорировали акушерку."
+      },
+      {
+        "en": "Document every midwife in the log.",
+        "ru": "Документируйте каждую акушерку в журнале."
+      }
+    ],
+    "colloc": "the midwife · address the midwife"
+  },
+  {
+    "word": "midwifery",
+    "lemma": "midwifery",
+    "ipa": "/ˈmɪdˌwaɪfəri/",
+    "pos": "noun",
+    "tr": "акушерство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the midwifery closely.",
+        "ru": "Исследователи внимательно изучили акушерство."
+      },
+      {
+        "en": "The midwifery shaped the final decision.",
+        "ru": "Акушерство определило окончательное решение."
+      },
+      {
+        "en": "Without the midwifery, the argument collapses.",
+        "ru": "Без акушерства аргумент рухнет."
+      }
+    ],
+    "colloc": "clear midwifery · midwifery of"
+  },
+  {
+    "word": "migrate",
+    "lemma": "migrate",
+    "ipa": "/ˈmaɪˌgreɪt/",
+    "pos": "noun",
+    "tr": "мигрировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple migrate.",
+        "ru": "Простой миграции не было."
+      },
+      {
+        "en": "Critics mocked the migrate.",
+        "ru": "Критики высмеяли миграцию."
+      },
+      {
+        "en": "We need a working definition of migrate.",
+        "ru": "Нам нужно рабочее определение миграции."
+      }
+    ],
+    "colloc": "clear migrate · address the migrate"
+  },
+  {
+    "word": "milieu",
+    "lemma": "milieu",
+    "ipa": "/mɪˈljʊ/",
+    "pos": "noun",
+    "tr": "среда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the milieu closely.",
+        "ru": "Исследователи внимательно изучили обстановку."
+      },
+      {
+        "en": "The milieu shaped the final decision.",
+        "ru": "Среда сформировала окончательное решение."
+      },
+      {
+        "en": "Without the milieu, the argument collapses.",
+        "ru": "Без среды аргументы рушатся."
+      }
+    ],
+    "colloc": "clear milieu · milieu of"
+  },
+  {
+    "word": "minefield",
+    "lemma": "minefield",
+    "ipa": "/ˈmaɪnˌfild/",
+    "pos": "noun",
+    "tr": "минное поле",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple minefield.",
+        "ru": "Простого минного поля не было."
+      },
+      {
+        "en": "Critics mocked the minefield.",
+        "ru": "Критики высмеяли минное поле."
+      },
+      {
+        "en": "We need a working definition of minefield.",
+        "ru": "Нам нужно рабочее определение минного поля."
+      }
+    ],
+    "colloc": "the minefield · address the minefield"
+  },
+  {
+    "word": "mingle",
+    "lemma": "mingle",
+    "ipa": "/ˈmɪŋgəl/",
+    "pos": "verb",
+    "tr": "смешивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers mingle resources each week.",
+        "ru": "Менеджеры обмениваются ресурсами каждую неделю."
+      },
+      {
+        "en": "He tends to mingle too quickly.",
+        "ru": "Он слишком быстро смешивается."
+      },
+      {
+        "en": "They mingle only after a full review.",
+        "ru": "Они смешиваются только после полного обзора."
+      }
+    ],
+    "colloc": "mingle the claim · mingle + N",
+    "pattern": "mingle + to-INF"
+  },
+  {
+    "word": "minimise",
+    "lemma": "minimise",
+    "ipa": "/minimise/",
+    "pos": "noun",
+    "tr": "Минимизировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking minimise.",
+        "ru": "В докладе приводится поразительный минимум."
+      },
+      {
+        "en": "Funding hinges on this minimise.",
+        "ru": "Финансирование зависит от этого минимума."
+      },
+      {
+        "en": "Students often confuse minimise with related terms.",
+        "ru": "Студенты часто путают минимизацию с соответствующими терминами."
+      }
+    ],
+    "colloc": "the minimise · minimise of"
+  },
+  {
+    "word": "minster",
+    "lemma": "minster",
+    "ipa": "/ˈmɪnstər/",
+    "pos": "verb",
+    "tr": "Минстер",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers minster resources each week.",
+        "ru": "Менеджеры размещают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to minster too quickly.",
+        "ru": "Он слишком быстро менструирует."
+      },
+      {
+        "en": "They minster only after a full review.",
+        "ru": "Они мелькают только после полного обзора."
+      }
+    ],
+    "colloc": "minster the claim · minster + N",
+    "pattern": "minster + to-INF"
+  },
+  {
+    "word": "minutiae",
+    "lemma": "minutiae",
+    "ipa": "/mɪˈnuʃiə/",
+    "pos": "noun",
+    "tr": "Минуты",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple minutiae.",
+        "ru": "Не было простых мелочей."
+      },
+      {
+        "en": "Critics mocked the minutiae.",
+        "ru": "Критики высмеивали мелочи."
+      },
+      {
+        "en": "We need a working definition of minutiae.",
+        "ru": "Нам нужно рабочее определение мелочей."
+      }
+    ],
+    "colloc": "clear minutiae · minutiae of"
+  },
+  {
+    "word": "misplace",
+    "lemma": "misplace",
+    "ipa": "/mɪˈspleɪs/",
+    "pos": "verb",
+    "tr": "неуместно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers misplace resources each week.",
+        "ru": "Менеджеры теряют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to misplace too quickly.",
+        "ru": "Он слишком быстро ошибается."
+      },
+      {
+        "en": "They misplace only after a full review.",
+        "ru": "Они теряются только после полного обзора."
+      }
+    ],
+    "colloc": "misplace carefully · refuse to misplace",
+    "pattern": "misplace + N"
+  },
+  {
+    "word": "modernism",
+    "lemma": "modernism",
+    "ipa": "/ˈmɑdərˌnɪzəm/",
+    "pos": "noun",
+    "tr": "модернизм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the modernism.",
+        "ru": "Они недооценивают современность."
+      },
+      {
+        "en": "A clear modernism emerged from the data.",
+        "ru": "Из этих данных возник явный модернизм."
+      },
+      {
+        "en": "Address the modernism before it grows.",
+        "ru": "Обратимся к модернизму до его развития."
+      }
+    ],
+    "colloc": "clear modernism · address the modernism"
+  },
+  {
+    "word": "monastic",
+    "lemma": "monastic",
+    "ipa": "/məˈnæstɪk/",
+    "pos": "adj",
+    "tr": "монашеский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly monastic.",
+        "ru": "Доказательства вряд ли монашеские."
+      },
+      {
+        "en": "She remained monastic under stress.",
+        "ru": "Она оставалась монашеской в стрессе."
+      },
+      {
+        "en": "Results looked only monastic.",
+        "ru": "Результаты выглядели только монашескими."
+      }
+    ],
+    "colloc": "monastic tone · remain monastic"
+  },
+  {
+    "word": "monotonous",
+    "lemma": "monotonous",
+    "ipa": "/məˈnɑtənəs/",
+    "pos": "adj",
+    "tr": "однообразный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a monotonous strategy.",
+        "ru": "Это была монотонная стратегия."
+      },
+      {
+        "en": "The tone grew monotonous.",
+        "ru": "Тон стал монотонным."
+      },
+      {
+        "en": "They rejected the monotonous proposal.",
+        "ru": "Они отвергли монотонное предложение."
+      }
+    ],
+    "colloc": "monotonous approach · remain monotonous"
+  },
+  {
+    "word": "monotonously",
+    "lemma": "monotonously",
+    "ipa": "/monotonously/",
+    "pos": "adv",
+    "tr": "монотонно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued monotonously overnight.",
+        "ru": "Работа продолжалась монотонно всю ночь."
+      },
+      {
+        "en": "She answered monotonously and clearly.",
+        "ru": "Она ответила монотонно и ясно."
+      },
+      {
+        "en": "The claim was monotonously dismissed.",
+        "ru": "Это было позором."
+      }
+    ],
+    "colloc": "act monotonously · monotonously"
+  },
+  {
+    "word": "monotony",
+    "lemma": "monotony",
+    "ipa": "/məˈnɑtəni/",
+    "pos": "noun",
+    "tr": "монотонность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple monotony.",
+        "ru": "Не было простой монотонности."
+      },
+      {
+        "en": "Critics mocked the monotony.",
+        "ru": "Критики высмеивали монотонность."
+      },
+      {
+        "en": "We need a working definition of monotony.",
+        "ru": "Нам нужно рабочее определение монотонности."
+      }
+    ],
+    "colloc": "clear monotony · monotony of"
+  },
+  {
+    "word": "moribund",
+    "lemma": "moribund",
+    "ipa": "/ˈmɔrəbənd/",
+    "pos": "adj",
+    "tr": "умирающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a moribund strategy.",
+        "ru": "Это была устаревшая стратегия."
+      },
+      {
+        "en": "The tone grew moribund.",
+        "ru": "Тон угасал."
+      },
+      {
+        "en": "They rejected the moribund proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "moribund approach · moribund result"
+  },
+  {
+    "word": "motley",
+    "lemma": "motley",
+    "ipa": "/ˈmɑtli/",
+    "pos": "adj",
+    "tr": "пестрый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly motley.",
+        "ru": "Доказательства едва ли пестрые."
+      },
+      {
+        "en": "She remained motley under stress.",
+        "ru": "Она оставалась пестрой в стрессе."
+      },
+      {
+        "en": "Results looked only motley.",
+        "ru": "Результаты выглядели только пестрыми."
+      }
+    ],
+    "colloc": "motley tone · motley result"
+  },
+  {
+    "word": "mottled",
+    "lemma": "mottled",
+    "ipa": "/ˈmɑtəld/",
+    "pos": "adj",
+    "tr": "пестрый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a mottled strategy.",
+        "ru": "Это была мягкая стратегия."
+      },
+      {
+        "en": "The tone grew mottled.",
+        "ru": "Тон затуманился."
+      },
+      {
+        "en": "They rejected the mottled proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "mottled tone · remain mottled"
+  },
+  {
+    "word": "mountaineer",
+    "lemma": "mountaineer",
+    "ipa": "/ˈmaʊntɪˌnɪr/",
+    "pos": "noun",
+    "tr": "альпинист",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking mountaineer.",
+        "ru": "В докладе приводится поразительный альпинист."
+      },
+      {
+        "en": "Funding hinges on this mountaineer.",
+        "ru": "Финансирование зависит от этого альпиниста."
+      },
+      {
+        "en": "Students often confuse mountaineer with related terms.",
+        "ru": "Студенты часто путают альпинистов с родственными терминами."
+      }
+    ],
+    "colloc": "the mountaineer · mountaineer of"
+  },
+  {
+    "word": "munch",
+    "lemma": "munch",
+    "ipa": "/mənʧ/",
+    "pos": "verb",
+    "tr": "мучить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to munch with precision.",
+        "ru": "Она научилась работать с точностью."
+      },
+      {
+        "en": "We will munch the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics munch the choice harshly.",
+        "ru": "Критики жестко критикуют выбор."
+      }
+    ],
+    "colloc": "munch carefully · refuse to munch",
+    "pattern": "munch + N"
+  },
+  {
+    "word": "mundanity",
+    "lemma": "mundanity",
+    "ipa": "/mundanity/",
+    "pos": "noun",
+    "tr": "мундантность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the mundanity closely.",
+        "ru": "Исследователи внимательно изучили мундантность."
+      },
+      {
+        "en": "The mundanity shaped the final decision.",
+        "ru": "Манданность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the mundanity, the argument collapses.",
+        "ru": "Без мундантности аргумент рухнет."
+      }
+    ],
+    "colloc": "the mundanity · mundanity of"
+  },
+  {
+    "word": "munificence",
+    "lemma": "munificence",
+    "ipa": "/munificence/",
+    "pos": "noun",
+    "tr": "щедрость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the munificence closely.",
+        "ru": "Исследователи внимательно изучили великолепие."
+      },
+      {
+        "en": "The munificence shaped the final decision.",
+        "ru": "Великолепие сформировало окончательное решение."
+      },
+      {
+        "en": "Without the munificence, the argument collapses.",
+        "ru": "Без щедрости аргументы рушатся."
+      }
+    ],
+    "colloc": "the munificence · address the munificence"
+  },
+  {
+    "word": "muscle-bound",
+    "lemma": "muscle-bound",
+    "ipa": "/muscle-bound/",
+    "pos": "adj",
+    "tr": "связанный мышцами",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly muscle-bound.",
+        "ru": "Доказательства едва ли связаны мышцами."
+      },
+      {
+        "en": "She remained muscle-bound under stress.",
+        "ru": "Она оставалась связанной мышцами под стрессом."
+      },
+      {
+        "en": "Results looked only muscle-bound.",
+        "ru": "Результаты выглядели только мускулистыми."
+      }
+    ],
+    "colloc": "highly muscle-bound · remain muscle-bound"
+  },
+  {
+    "word": "muscular",
+    "lemma": "muscular",
+    "ipa": "/ˈməskjələr/",
+    "pos": "adj",
+    "tr": "мускулистый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly muscular.",
+        "ru": "Доказательства вряд ли мускулистые."
+      },
+      {
+        "en": "She remained muscular under stress.",
+        "ru": "Она оставалась мускулистой в стрессе."
+      },
+      {
+        "en": "Results looked only muscular.",
+        "ru": "Результаты выглядели только мускулистыми."
+      }
+    ],
+    "colloc": "muscular tone · remain muscular"
+  },
+  {
+    "word": "mutinous",
+    "lemma": "mutinous",
+    "ipa": "/mˈjutənəs/",
+    "pos": "adj",
+    "tr": "мятежный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A mutinous approach may help.",
+        "ru": "Может помочь мятежный подход."
+      },
+      {
+        "en": "His answer sounded mutinous.",
+        "ru": "Его ответ прозвучал мятежно."
+      },
+      {
+        "en": "Avoid mutinous claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "mutinous tone · mutinous result"
+  },
+  {
+    "word": "mutinously",
+    "lemma": "mutinously",
+    "ipa": "/mutinously/",
+    "pos": "adv",
+    "tr": "мятежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample mutinously.",
+        "ru": "Обрабатывайте образец мятежно."
+      },
+      {
+        "en": "Support arrived mutinously.",
+        "ru": "Поддержка пришла мятежно."
+      },
+      {
+        "en": "The plan failed mutinously.",
+        "ru": "План провалился мятежно."
+      }
+    ],
+    "colloc": "act mutinously · mutinously"
+  },
+  {
+    "word": "mutually",
+    "lemma": "mutually",
+    "ipa": "/mˈjuʧuəli/",
+    "pos": "adv",
+    "tr": "взаимно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke mutually about the issue.",
+        "ru": "Она обоюдно говорила по этому вопросу."
+      },
+      {
+        "en": "The team responded mutually.",
+        "ru": "Команда ответила взаимно."
+      },
+      {
+        "en": "Progress moved mutually after the fix.",
+        "ru": "Прогресс двигался взаимно после исправления."
+      }
+    ],
+    "colloc": "speak mutually · mutually"
+  },
+  {
+    "word": "mystique",
+    "lemma": "mystique",
+    "ipa": "/mɪˈstik/",
+    "pos": "noun",
+    "tr": "мистический",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the mystique closely.",
+        "ru": "Исследователи внимательно изучили мистику."
+      },
+      {
+        "en": "The mystique shaped the final decision.",
+        "ru": "Мистика сформировала окончательное решение."
+      },
+      {
+        "en": "Without the mystique, the argument collapses.",
+        "ru": "Без мистики аргумент рушится."
+      }
+    ],
+    "colloc": "the mystique · address the mystique"
+  },
+  {
+    "word": "mythological",
+    "lemma": "mythological",
+    "ipa": "/ˌmɪθəˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "мифологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less mythological option.",
+        "ru": "Выбирайте менее мифологический вариант."
+      },
+      {
+        "en": "The design feels mythological.",
+        "ru": "Дизайн кажется мифологическим."
+      },
+      {
+        "en": "A mythological policy risks backlash.",
+        "ru": "Мифологическая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "mythological approach · mythological result"
+  },
+  {
+    "word": "mythology",
+    "lemma": "mythology",
+    "ipa": "/məˈθɑləˌʤi/",
+    "pos": "noun",
+    "tr": "мифология",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one mythology.",
+        "ru": "Ее карьера перевернулась на одну мифологию."
+      },
+      {
+        "en": "Public debate ignored the mythology.",
+        "ru": "Публичные дебаты игнорировали мифологию."
+      },
+      {
+        "en": "Document every mythology in the log.",
+        "ru": "Документируйте каждую мифологию в журнале."
+      }
+    ],
+    "colloc": "clear mythology · address the mythology"
+  },
+  {
+    "word": "naive",
+    "lemma": "naive",
+    "ipa": "/naɪiv/",
+    "pos": "adj",
+    "tr": "наивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly naive.",
+        "ru": "Доказательства вряд ли наивны."
+      },
+      {
+        "en": "She remained naive under stress.",
+        "ru": "Она оставалась наивной в стрессе."
+      },
+      {
+        "en": "Results looked only naive.",
+        "ru": "Результаты выглядели только наивными."
+      }
+    ],
+    "colloc": "naive approach · remain naive"
+  },
+  {
+    "word": "naively",
+    "lemma": "naively",
+    "ipa": "/nɑˈivli/",
+    "pos": "adv",
+    "tr": "наивно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke naively about the issue.",
+        "ru": "Она наивно высказалась по этому поводу."
+      },
+      {
+        "en": "The team responded naively.",
+        "ru": "Команда ответила наивно."
+      },
+      {
+        "en": "Progress moved naively after the fix.",
+        "ru": "Прогресс двигался наивно после исправления."
+      }
+    ],
+    "colloc": "speak naively · naively"
+  },
+  {
+    "word": "naivety",
+    "lemma": "naivety",
+    "ipa": "/naivety/",
+    "pos": "noun",
+    "tr": "наивность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple naivety.",
+        "ru": "Не было простой наивности."
+      },
+      {
+        "en": "Critics mocked the naivety.",
+        "ru": "Критики высмеивали наивность."
+      },
+      {
+        "en": "We need a working definition of naivety.",
+        "ru": "Нам нужно рабочее определение наивности."
+      }
+    ],
+    "colloc": "clear naivety · address the naivety"
+  },
+  {
+    "word": "nascent",
+    "lemma": "nascent",
+    "ipa": "/ˈneɪsənt/",
+    "pos": "adj",
+    "tr": "зарождающийся",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a nascent strategy.",
+        "ru": "Это была зарождающаяся стратегия."
+      },
+      {
+        "en": "The tone grew nascent.",
+        "ru": "Тон зародился."
+      },
+      {
+        "en": "They rejected the nascent proposal.",
+        "ru": "Они отвергли возникшее предложение."
+      }
+    ],
+    "colloc": "nascent tone · remain nascent"
+  },
+  {
+    "word": "naturalness",
+    "lemma": "naturalness",
+    "ipa": "/naturalness/",
+    "pos": "noun",
+    "tr": "естественность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one naturalness.",
+        "ru": "Ее карьера перевернулась на одну естественность."
+      },
+      {
+        "en": "Public debate ignored the naturalness.",
+        "ru": "Общественные дебаты игнорируют естественность."
+      },
+      {
+        "en": "Document every naturalness in the log.",
+        "ru": "Документируйте каждую естественность в журнале."
+      }
+    ],
+    "colloc": "clear naturalness · address the naturalness"
+  },
+  {
+    "word": "nature",
+    "lemma": "nature",
+    "ipa": "/ˈneɪʧər/",
+    "pos": "noun",
+    "tr": "природа",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking nature.",
+        "ru": "В докладе приводится поразительный характер."
+      },
+      {
+        "en": "Funding hinges on this nature.",
+        "ru": "Финансирование зависит от этой природы."
+      },
+      {
+        "en": "Students often confuse nature with related terms.",
+        "ru": "Студенты часто путают природу со связанными терминами."
+      }
+    ],
+    "colloc": "clear nature · nature of"
+  },
+  {
+    "word": "negate",
+    "lemma": "negate",
+    "ipa": "/nɪˈgeɪt/",
+    "pos": "noun",
+    "tr": "отрицать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one negate.",
+        "ru": "Ее карьера обернулась одним отрицанием."
+      },
+      {
+        "en": "Public debate ignored the negate.",
+        "ru": "Общественные дебаты проигнорировали отрицание."
+      },
+      {
+        "en": "Document every negate in the log.",
+        "ru": "Документируйте все отрицания в журнале."
+      }
+    ],
+    "colloc": "the negate · address the negate"
+  },
+  {
+    "word": "neglectful",
+    "lemma": "neglectful",
+    "ipa": "/nɪˈglɛktfəl/",
+    "pos": "adj",
+    "tr": "пренебрегать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly neglectful.",
+        "ru": "Доказательства вряд ли пренебрежительно."
+      },
+      {
+        "en": "She remained neglectful under stress.",
+        "ru": "Она оставалась небрежной в стрессе."
+      },
+      {
+        "en": "Results looked only neglectful.",
+        "ru": "Результаты выглядели просто пренебрежительно."
+      }
+    ],
+    "colloc": "neglectful tone · neglectful result"
+  },
+  {
+    "word": "negligent",
+    "lemma": "negligent",
+    "ipa": "/ˈnɛglɪʤənt/",
+    "pos": "adj",
+    "tr": "небрежный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a negligent strategy.",
+        "ru": "Это была небрежная стратегия."
+      },
+      {
+        "en": "The tone grew negligent.",
+        "ru": "Тон стал небрежным."
+      },
+      {
+        "en": "They rejected the negligent proposal.",
+        "ru": "Они отвергли небрежное предложение."
+      }
+    ],
+    "colloc": "negligent tone · remain negligent"
+  },
+  {
+    "word": "negligently",
+    "lemma": "negligently",
+    "ipa": "/ˈnɛglɪʤəntli/",
+    "pos": "adv",
+    "tr": "небрежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued negligently overnight.",
+        "ru": "Работа продолжалась по неосторожности всю ночь."
+      },
+      {
+        "en": "She answered negligently and clearly.",
+        "ru": "Она ответила небрежно и ясно."
+      },
+      {
+        "en": "The claim was negligently dismissed.",
+        "ru": "Иск был небрежно отклонен."
+      }
+    ],
+    "colloc": "respond negligently · negligently"
+  },
+  {
+    "word": "negligible",
+    "lemma": "negligible",
+    "ipa": "/ˈnɛglɪʤəbəl/",
+    "pos": "adj",
+    "tr": "незначительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly negligible.",
+        "ru": "Доказательства едва ли незначительны."
+      },
+      {
+        "en": "She remained negligible under stress.",
+        "ru": "Она оставалась незначительной в стрессе."
+      },
+      {
+        "en": "Results looked only negligible.",
+        "ru": "Результаты выглядели лишь незначительными."
+      }
+    ],
+    "colloc": "negligible approach · negligible result"
+  },
+  {
+    "word": "neophyte",
+    "lemma": "neophyte",
+    "ipa": "/ˈniəˌfaɪt/",
+    "pos": "noun",
+    "tr": "неофит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one neophyte.",
+        "ru": "Ее карьера перевернулась на одного неофита."
+      },
+      {
+        "en": "Public debate ignored the neophyte.",
+        "ru": "Публичные дебаты проигнорировали неофита."
+      },
+      {
+        "en": "Document every neophyte in the log.",
+        "ru": "Документируйте каждого неофита в журнале."
+      }
+    ],
+    "colloc": "clear neophyte · neophyte of"
+  },
+  {
+    "word": "nocturnal",
+    "lemma": "nocturnal",
+    "ipa": "/nɑkˈtərnəl/",
+    "pos": "adj",
+    "tr": "ночной",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A nocturnal approach may help.",
+        "ru": "Может помочь ночной подход."
+      },
+      {
+        "en": "His answer sounded nocturnal.",
+        "ru": "Ответ прозвучал ночной."
+      },
+      {
+        "en": "Avoid nocturnal claims without proof.",
+        "ru": "Избегайте ночных претензий без доказательств."
+      }
+    ],
+    "colloc": "highly nocturnal · remain nocturnal"
+  }
+]

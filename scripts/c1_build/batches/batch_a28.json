@@ -1,0 +1,1161 @@
+[
+  {
+    "word": "vitality",
+    "lemma": "vitality",
+    "ipa": "/vaɪˈtæləti/",
+    "pos": "noun",
+    "tr": "жизнеспособность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple vitality.",
+        "ru": "Не было простой жизненной силы."
+      },
+      {
+        "en": "Critics mocked the vitality.",
+        "ru": "Критики высмеивали жизненную силу."
+      },
+      {
+        "en": "We need a working definition of vitality.",
+        "ru": "Нам нужно рабочее определение жизненной силы."
+      }
+    ],
+    "colloc": "the vitality · vitality of"
+  },
+  {
+    "word": "vocab",
+    "lemma": "vocab",
+    "ipa": "/vocab/",
+    "pos": "noun",
+    "tr": "вокаб",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the vocab.",
+        "ru": "Они недооценили вокаб."
+      },
+      {
+        "en": "A clear vocab emerged from the data.",
+        "ru": "Из данных появился четкий вокаб."
+      },
+      {
+        "en": "Address the vocab before it grows.",
+        "ru": "Обращайтесь к вокабу, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear vocab · vocab of"
+  },
+  {
+    "word": "vocal",
+    "lemma": "vocal",
+    "ipa": "/ˈvoʊkəl/",
+    "pos": "adj",
+    "tr": "голос",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A vocal approach may help.",
+        "ru": "Вокальный подход может помочь."
+      },
+      {
+        "en": "His answer sounded vocal.",
+        "ru": "Его ответ прозвучал вокально."
+      },
+      {
+        "en": "Avoid vocal claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "vocal tone · remain vocal"
+  },
+  {
+    "word": "voice",
+    "lemma": "voice",
+    "ipa": "/vɔɪs/",
+    "pos": "verb",
+    "tr": "Голос",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers voice resources each week.",
+        "ru": "Менеджеры голосовых ресурсов каждую неделю."
+      },
+      {
+        "en": "He tends to voice too quickly.",
+        "ru": "Он слишком быстро голосует."
+      },
+      {
+        "en": "They voice only after a full review.",
+        "ru": "Голосуют только после полного обзора."
+      }
+    ],
+    "colloc": "voice carefully · refuse to voice",
+    "pattern": "voice + N"
+  },
+  {
+    "word": "voluntarily",
+    "lemma": "voluntarily",
+    "ipa": "/ˌvɑlənˈtɛrəli/",
+    "pos": "adv",
+    "tr": "добровольно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample voluntarily.",
+        "ru": "Проводите пробу добровольно."
+      },
+      {
+        "en": "Support arrived voluntarily.",
+        "ru": "Поддержка пришла добровольно."
+      },
+      {
+        "en": "The plan failed voluntarily.",
+        "ru": "План провалился добровольно."
+      }
+    ],
+    "colloc": "respond voluntarily · voluntarily"
+  },
+  {
+    "word": "voracious",
+    "lemma": "voracious",
+    "ipa": "/vɔˈreɪʃəs/",
+    "pos": "adj",
+    "tr": "прожорливый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly voracious.",
+        "ru": "Доказательства едва ли прожорливы."
+      },
+      {
+        "en": "She remained voracious under stress.",
+        "ru": "Она оставалась ненасытной в стрессе."
+      },
+      {
+        "en": "Results looked only voracious.",
+        "ru": "Результаты выглядели просто прожорливыми."
+      }
+    ],
+    "colloc": "voracious approach · voracious result"
+  },
+  {
+    "word": "voraciously",
+    "lemma": "voraciously",
+    "ipa": "/voraciously/",
+    "pos": "adv",
+    "tr": "ненасытно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke voraciously about the issue.",
+        "ru": "Она ненасытно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded voraciously.",
+        "ru": "Команда ответила ненасытно."
+      },
+      {
+        "en": "Progress moved voraciously after the fix.",
+        "ru": "Прогресс двигался ненасытно после исправления."
+      }
+    ],
+    "colloc": "respond voraciously · voraciously"
+  },
+  {
+    "word": "vow",
+    "lemma": "vow",
+    "ipa": "/vaʊ/",
+    "pos": "verb",
+    "tr": "поклясться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to vow with precision.",
+        "ru": "Она научилась клясться с точностью."
+      },
+      {
+        "en": "We will vow the policy next quarter.",
+        "ru": "Мы обещаем политику в следующем квартале."
+      },
+      {
+        "en": "Critics vow the choice harshly.",
+        "ru": "Критики жестко клянутся в выборе."
+      }
+    ],
+    "colloc": "vow the claim · vow + N",
+    "pattern": "vow (+ prep)"
+  },
+  {
+    "word": "vulnerability",
+    "lemma": "vulnerability",
+    "ipa": "/ˌvəlnərəˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "уязвимость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the vulnerability closely.",
+        "ru": "Исследователи внимательно изучили уязвимость."
+      },
+      {
+        "en": "The vulnerability shaped the final decision.",
+        "ru": "Уязвимость сформировала окончательное решение."
+      },
+      {
+        "en": "Without the vulnerability, the argument collapses.",
+        "ru": "Без уязвимости аргумент рухнет."
+      }
+    ],
+    "colloc": "clear vulnerability · vulnerability of"
+  },
+  {
+    "word": "vulnerable",
+    "lemma": "vulnerable",
+    "ipa": "/ˈvəlnərəbəl/",
+    "pos": "adj",
+    "tr": "уязвимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly vulnerable.",
+        "ru": "Доказательства едва ли уязвимы."
+      },
+      {
+        "en": "She remained vulnerable under stress.",
+        "ru": "Она оставалась уязвимой в условиях стресса."
+      },
+      {
+        "en": "Results looked only vulnerable.",
+        "ru": "Результаты выглядели только уязвимыми."
+      }
+    ],
+    "colloc": "highly vulnerable · vulnerable result"
+  },
+  {
+    "word": "ward",
+    "lemma": "ward",
+    "ipa": "/wɔrd/",
+    "pos": "noun",
+    "tr": "подопечный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the ward.",
+        "ru": "Они недооценили подопечных."
+      },
+      {
+        "en": "A clear ward emerged from the data.",
+        "ru": "Из данных вышла четкая палата."
+      },
+      {
+        "en": "Address the ward before it grows.",
+        "ru": "Обращайтесь в палату, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the ward · ward of"
+  },
+  {
+    "word": "warehouse",
+    "lemma": "warehouse",
+    "ipa": "/ˈwɛˌrhaʊs/",
+    "pos": "noun",
+    "tr": "склад",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the warehouse.",
+        "ru": "Они недооценили склад."
+      },
+      {
+        "en": "A clear warehouse emerged from the data.",
+        "ru": "Из данных вышел четкий склад."
+      },
+      {
+        "en": "Address the warehouse before it grows.",
+        "ru": "Обратитесь к складу, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the warehouse · warehouse of"
+  },
+  {
+    "word": "wares",
+    "lemma": "wares",
+    "ipa": "/wɛrz/",
+    "pos": "noun",
+    "tr": "товары",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the wares closely.",
+        "ru": "Исследователи внимательно изучили изделия."
+      },
+      {
+        "en": "The wares shaped the final decision.",
+        "ru": "Товары сформировали окончательное решение."
+      },
+      {
+        "en": "Without the wares, the argument collapses.",
+        "ru": "Без товаров спор рушится."
+      }
+    ],
+    "colloc": "the wares · address the wares"
+  },
+  {
+    "word": "warfare",
+    "lemma": "warfare",
+    "ipa": "/ˈwɔrˌfɛr/",
+    "pos": "noun",
+    "tr": "война",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the warfare closely.",
+        "ru": "Исследователи внимательно изучили войну."
+      },
+      {
+        "en": "The warfare shaped the final decision.",
+        "ru": "Война сформировала окончательное решение."
+      },
+      {
+        "en": "Without the warfare, the argument collapses.",
+        "ru": "Без войны аргументы рушатся."
+      }
+    ],
+    "colloc": "clear warfare · warfare of"
+  },
+  {
+    "word": "warrant",
+    "lemma": "warrant",
+    "ipa": "/ˈwɔrənt/",
+    "pos": "noun",
+    "tr": "ордер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the warrant closely.",
+        "ru": "Исследователи внимательно изучили ордер."
+      },
+      {
+        "en": "The warrant shaped the final decision.",
+        "ru": "Ордер определил окончательное решение."
+      },
+      {
+        "en": "Without the warrant, the argument collapses.",
+        "ru": "Без ордера аргумент рухнет."
+      }
+    ],
+    "colloc": "the warrant · warrant of"
+  },
+  {
+    "word": "warrior",
+    "lemma": "warrior",
+    "ipa": "/ˈwɔrjər/",
+    "pos": "noun",
+    "tr": "воин",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the warrior closely.",
+        "ru": "Исследователи внимательно изучили воина."
+      },
+      {
+        "en": "The warrior shaped the final decision.",
+        "ru": "Воин принял окончательное решение."
+      },
+      {
+        "en": "Without the warrior, the argument collapses.",
+        "ru": "Без воина спор рушится."
+      }
+    ],
+    "colloc": "clear warrior · warrior of"
+  },
+  {
+    "word": "wary",
+    "lemma": "wary",
+    "ipa": "/ˈwɛri/",
+    "pos": "adj",
+    "tr": "осторожный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly wary.",
+        "ru": "Доказательства едва ли насторожены."
+      },
+      {
+        "en": "She remained wary under stress.",
+        "ru": "Она оставалась настороженной в стрессе."
+      },
+      {
+        "en": "Results looked only wary.",
+        "ru": "Результаты выглядели только настороженно."
+      }
+    ],
+    "colloc": "highly wary · remain wary"
+  },
+  {
+    "word": "washtub",
+    "lemma": "washtub",
+    "ipa": "/ˈwɑʃˌtəb/",
+    "pos": "noun",
+    "tr": "умывальник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the washtub closely.",
+        "ru": "Исследователи внимательно изучили ванну."
+      },
+      {
+        "en": "The washtub shaped the final decision.",
+        "ru": "Мочалка сформировала окончательное решение."
+      },
+      {
+        "en": "Without the washtub, the argument collapses.",
+        "ru": "Без умывальника аргумент рухнет."
+      }
+    ],
+    "colloc": "clear washtub · washtub of"
+  },
+  {
+    "word": "waterfront",
+    "lemma": "waterfront",
+    "ipa": "/ˈwɔtərˌfrənt/",
+    "pos": "noun",
+    "tr": "набережная",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one waterfront.",
+        "ru": "Ее карьера перевернулась на одной набережной."
+      },
+      {
+        "en": "Public debate ignored the waterfront.",
+        "ru": "В то же время, народные массы проигнорировали"
+      },
+      {
+        "en": "Document every waterfront in the log.",
+        "ru": "Документируйте каждую набережную в журнале."
+      }
+    ],
+    "colloc": "the waterfront · waterfront of"
+  },
+  {
+    "word": "wayside",
+    "lemma": "wayside",
+    "ipa": "/ˈweɪˌsaɪd/",
+    "pos": "noun",
+    "tr": "на обочине",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking wayside.",
+        "ru": "В докладе приводится поразительная обратная сторона."
+      },
+      {
+        "en": "Funding hinges on this wayside.",
+        "ru": "Финансирование зависит от этой стороны."
+      },
+      {
+        "en": "Students often confuse wayside with related terms.",
+        "ru": "Студенты часто путают перепутывание с родственными терминами."
+      }
+    ],
+    "colloc": "the wayside · wayside of"
+  },
+  {
+    "word": "weaken",
+    "lemma": "weaken",
+    "ipa": "/ˈwikən/",
+    "pos": "verb",
+    "tr": "ослаблять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to weaken with precision.",
+        "ru": "Она научилась ослабевать с точностью."
+      },
+      {
+        "en": "We will weaken the policy next quarter.",
+        "ru": "Мы ослабим политику в следующем квартале."
+      },
+      {
+        "en": "Critics weaken the choice harshly.",
+        "ru": "Критики резко ослабляют выбор."
+      }
+    ],
+    "colloc": "weaken the claim · weaken + N",
+    "pattern": "weaken + that"
+  },
+  {
+    "word": "weave",
+    "lemma": "weave",
+    "ipa": "/wiv/",
+    "pos": "verb",
+    "tr": "плести",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you weave this for the board?",
+        "ru": "Можешь сплести это для доски?"
+      },
+      {
+        "en": "Analysts weave the numbers overnight.",
+        "ru": "Аналитики сплетают цифры за одну ночь."
+      },
+      {
+        "en": "Do not weave under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "weave pressure · weave + N",
+    "pattern": "weave + N"
+  },
+  {
+    "word": "weed",
+    "lemma": "weed",
+    "ipa": "/wid/",
+    "pos": "noun",
+    "tr": "сорняк",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the weed.",
+        "ru": "Они недооценили сорняки."
+      },
+      {
+        "en": "A clear weed emerged from the data.",
+        "ru": "Явный сорняк появился из данных."
+      },
+      {
+        "en": "Address the weed before it grows.",
+        "ru": "Обращайтесь к сорняку, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the weed · weed of"
+  },
+  {
+    "word": "well-being",
+    "lemma": "well-being",
+    "ipa": "/ˌwɛlˈbiɪŋ/",
+    "pos": "noun",
+    "tr": "благополучия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one well-being.",
+        "ru": "Ее карьера перевернулась на одно благополучие."
+      },
+      {
+        "en": "Public debate ignored the well-being.",
+        "ru": "Общественные дебаты игнорируют благополучие."
+      },
+      {
+        "en": "Document every well-being in the log.",
+        "ru": "Документируйте каждое благополучие в журнале."
+      }
+    ],
+    "colloc": "the well-being · address the well-being"
+  },
+  {
+    "word": "whatsoever",
+    "lemma": "whatsoever",
+    "ipa": "/ˌwətsoʊˈɛvər/",
+    "pos": "adv",
+    "tr": "какой бы то ни было",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued whatsoever overnight.",
+        "ru": "Работа продолжалась всю ночь."
+      },
+      {
+        "en": "She answered whatsoever and clearly.",
+        "ru": "На что она ответила, что была несправедлива."
+      },
+      {
+        "en": "The claim was whatsoever dismissed.",
+        "ru": "Иск был отклонен."
+      }
+    ],
+    "colloc": "act whatsoever · whatsoever"
+  },
+  {
+    "word": "whereby",
+    "lemma": "whereby",
+    "ipa": "/wɛrˈbaɪ/",
+    "pos": "adv",
+    "tr": "посредством",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke whereby about the issue.",
+        "ru": "Она рассказала, как обстоят дела."
+      },
+      {
+        "en": "The team responded whereby.",
+        "ru": "Команда ответила тем самым."
+      },
+      {
+        "en": "Progress moved whereby after the fix.",
+        "ru": "Прогресс двинулся вперед после исправления."
+      }
+    ],
+    "colloc": "respond whereby · whereby"
+  },
+  {
+    "word": "whilst",
+    "lemma": "whilst",
+    "ipa": "/waɪlst/",
+    "pos": "conj",
+    "tr": "когда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The fix worked, whilst slowly.",
+        "ru": "Ремонт сработал, хотя и медленно."
+      },
+      {
+        "en": "He agreed, whilst with doubts.",
+        "ru": "Он согласился, хотя и сомневался."
+      },
+      {
+        "en": "Useful, whilst imperfect.",
+        "ru": "Полезно, но несовершенно."
+      }
+    ],
+    "colloc": "whilst"
+  },
+  {
+    "word": "whip",
+    "lemma": "whip",
+    "ipa": "/wɪp/",
+    "pos": "verb",
+    "tr": "кнут",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to whip with precision.",
+        "ru": "Она научилась хлестать с точностью."
+      },
+      {
+        "en": "We will whip the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics whip the choice harshly.",
+        "ru": "Критики резко критикуют выбор."
+      }
+    ],
+    "colloc": "whip carefully · whip + N",
+    "pattern": "whip + N"
+  },
+  {
+    "word": "wholly",
+    "lemma": "wholly",
+    "ipa": "/ˈhoʊli/",
+    "pos": "adv",
+    "tr": "полностью",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued wholly for reform.",
+        "ru": "Он выступал исключительно за реформы."
+      },
+      {
+        "en": "The rule was applied wholly.",
+        "ru": "Правило применялось полностью."
+      },
+      {
+        "en": "Costs rose wholly last year.",
+        "ru": "Затраты выросли полностью в прошлом году."
+      }
+    ],
+    "colloc": "speak wholly · wholly"
+  },
+  {
+    "word": "wicked",
+    "lemma": "wicked",
+    "ipa": "/ˈwɪkəd/",
+    "pos": "adj",
+    "tr": "злой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly wicked.",
+        "ru": "Доказательства вряд ли неверны."
+      },
+      {
+        "en": "She remained wicked under stress.",
+        "ru": "Она оставалась злой в стрессе."
+      },
+      {
+        "en": "Results looked only wicked.",
+        "ru": "Результаты выглядели только злыми."
+      }
+    ],
+    "colloc": "highly wicked · remain wicked"
+  },
+  {
+    "word": "wickedly",
+    "lemma": "wickedly",
+    "ipa": "/ˈwɪkɪdli/",
+    "pos": "adv",
+    "tr": "злобный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued wickedly for reform.",
+        "ru": "Он выступал за реформы."
+      },
+      {
+        "en": "The rule was applied wickedly.",
+        "ru": "Правило применялось злобно."
+      },
+      {
+        "en": "Costs rose wickedly last year.",
+        "ru": "Затраты резко выросли в прошлом году."
+      }
+    ],
+    "colloc": "respond wickedly · wickedly"
+  },
+  {
+    "word": "widen",
+    "lemma": "widen",
+    "ipa": "/ˈwaɪdən/",
+    "pos": "verb",
+    "tr": "расширять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please widen the proposal carefully.",
+        "ru": "Пожалуйста, внимательно расширьте предложение."
+      },
+      {
+        "en": "They refuse to widen without evidence.",
+        "ru": "Они отказываются расширяться без доказательств."
+      },
+      {
+        "en": "Leaders must widen when stakes are high.",
+        "ru": "Лидеры должны расширяться, когда ставки высоки."
+      }
+    ],
+    "colloc": "widen carefully · refuse to widen",
+    "pattern": "widen + to-INF"
+  },
+  {
+    "word": "widow",
+    "lemma": "widow",
+    "ipa": "/ˈwɪdoʊ/",
+    "pos": "noun",
+    "tr": "Вдова",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the widow.",
+        "ru": "Они недооценили вдову."
+      },
+      {
+        "en": "A clear widow emerged from the data.",
+        "ru": "Из данных вышла явная вдова."
+      },
+      {
+        "en": "Address the widow before it grows.",
+        "ru": "Обращайтесь к вдове, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the widow · widow of"
+  },
+  {
+    "word": "width",
+    "lemma": "width",
+    "ipa": "/wɪdθ/",
+    "pos": "noun",
+    "tr": "ширина",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking width.",
+        "ru": "В докладе приводится поразительная ширина."
+      },
+      {
+        "en": "Funding hinges on this width.",
+        "ru": "Финансирование зависит от этой ширины."
+      },
+      {
+        "en": "Students often confuse width with related terms.",
+        "ru": "Студенты часто путают ширину с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear width · width of"
+  },
+  {
+    "word": "willingness",
+    "lemma": "willingness",
+    "ipa": "/ˈwɪlɪŋnəs/",
+    "pos": "noun",
+    "tr": "готовность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the willingness.",
+        "ru": "Они недооценили свою готовность."
+      },
+      {
+        "en": "A clear willingness emerged from the data.",
+        "ru": "Явная готовность появилась из данных."
+      },
+      {
+        "en": "Address the willingness before it grows.",
+        "ru": "Решайте проблему до того, как она вырастет."
+      }
+    ],
+    "colloc": "the willingness · willingness of"
+  },
+  {
+    "word": "wing",
+    "lemma": "wing",
+    "ipa": "/wɪŋ/",
+    "pos": "noun",
+    "tr": "крыло",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one wing.",
+        "ru": "Ее карьера перевернулась на одном крыле."
+      },
+      {
+        "en": "Public debate ignored the wing.",
+        "ru": "Публичные дебаты проигнорировали крыло."
+      },
+      {
+        "en": "Document every wing in the log.",
+        "ru": "Документируйте каждое крыло в журнале."
+      }
+    ],
+    "colloc": "clear wing · wing of"
+  },
+  {
+    "word": "wipe",
+    "lemma": "wipe",
+    "ipa": "/waɪp/",
+    "pos": "verb",
+    "tr": "стирать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers wipe resources each week.",
+        "ru": "Менеджеры стирают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to wipe too quickly.",
+        "ru": "Он слишком быстро вытирается."
+      },
+      {
+        "en": "They wipe only after a full review.",
+        "ru": "Они стираются только после полного обзора."
+      }
+    ],
+    "colloc": "wipe the claim · wipe + N",
+    "pattern": "wipe + N"
+  },
+  {
+    "word": "wit",
+    "lemma": "wit",
+    "ipa": "/wɪt/",
+    "pos": "noun",
+    "tr": "остроумный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple wit.",
+        "ru": "Простого остроумия не было."
+      },
+      {
+        "en": "Critics mocked the wit.",
+        "ru": "Критики высмеяли остроумие."
+      },
+      {
+        "en": "We need a working definition of wit.",
+        "ru": "Нам нужно рабочее определение остроумия."
+      }
+    ],
+    "colloc": "the wit · wit of"
+  },
+  {
+    "word": "withdrawal",
+    "lemma": "withdrawal",
+    "ipa": "/wɪθˈdrɔəl/",
+    "pos": "noun",
+    "tr": "вывод",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the withdrawal closely.",
+        "ru": "Исследователям не удалось."
+      },
+      {
+        "en": "The withdrawal shaped the final decision.",
+        "ru": "Выход сформировал окончательное решение."
+      },
+      {
+        "en": "Without the withdrawal, the argument collapses.",
+        "ru": "Без отзыва аргумент рушится."
+      }
+    ],
+    "colloc": "clear withdrawal · withdrawal of"
+  },
+  {
+    "word": "withdrawn",
+    "lemma": "withdrawn",
+    "ipa": "/wɪθˈdrɔn/",
+    "pos": "adj",
+    "tr": "снятый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a withdrawn strategy.",
+        "ru": "Это была отозванная стратегия."
+      },
+      {
+        "en": "The tone grew withdrawn.",
+        "ru": "Тон стал замкнутым."
+      },
+      {
+        "en": "They rejected the withdrawn proposal.",
+        "ru": "Они отклонили отозванное предложение."
+      }
+    ],
+    "colloc": "highly withdrawn · remain withdrawn"
+  },
+  {
+    "word": "wizened",
+    "lemma": "wizened",
+    "ipa": "/ˈwaɪzənd/",
+    "pos": "adj",
+    "tr": "высушенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a wizened strategy.",
+        "ru": "Это была мудрая стратегия."
+      },
+      {
+        "en": "The tone grew wizened.",
+        "ru": "Тон нарастал."
+      },
+      {
+        "en": "They rejected the wizened proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "wizened tone · remain wizened"
+  },
+  {
+    "word": "wooded",
+    "lemma": "wooded",
+    "ipa": "/ˈwʊdɪd/",
+    "pos": "adj",
+    "tr": "лесистый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less wooded option.",
+        "ru": "Выберите менее деревянный вариант."
+      },
+      {
+        "en": "The design feels wooded.",
+        "ru": "Дизайн кажется деревянным."
+      },
+      {
+        "en": "A wooded policy risks backlash.",
+        "ru": "Политика в лесу рискует вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "wooded approach · wooded result"
+  },
+  {
+    "word": "workout",
+    "lemma": "workout",
+    "ipa": "/ˈwərˌkaʊt/",
+    "pos": "noun",
+    "tr": "тренировка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the workout.",
+        "ru": "Они недооценили работу."
+      },
+      {
+        "en": "A clear workout emerged from the data.",
+        "ru": "Из данных вытекала четкая тренировка."
+      },
+      {
+        "en": "Address the workout before it grows.",
+        "ru": "Управляйте тренировкой, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear workout · workout of"
+  },
+  {
+    "word": "worship",
+    "lemma": "worship",
+    "ipa": "/ˈwərʃɪp/",
+    "pos": "noun",
+    "tr": "поклонение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple worship.",
+        "ru": "Простого поклонения не было."
+      },
+      {
+        "en": "Critics mocked the worship.",
+        "ru": "Критики насмехались над поклонением."
+      },
+      {
+        "en": "We need a working definition of worship.",
+        "ru": "Нам нужно рабочее определение поклонения."
+      }
+    ],
+    "colloc": "clear worship · worship of"
+  },
+  {
+    "word": "worthwhile",
+    "lemma": "worthwhile",
+    "ipa": "/ˈwərθˈwaɪl/",
+    "pos": "adj",
+    "tr": "стоящий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less worthwhile option.",
+        "ru": "Выберите менее стоящий вариант."
+      },
+      {
+        "en": "The design feels worthwhile.",
+        "ru": "Дизайн кажется стоящим."
+      },
+      {
+        "en": "A worthwhile policy risks backlash.",
+        "ru": "Достойная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "worthwhile approach · remain worthwhile"
+  },
+  {
+    "word": "worthy",
+    "lemma": "worthy",
+    "ipa": "/ˈwərði/",
+    "pos": "adj",
+    "tr": "достойный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less worthy option.",
+        "ru": "Выберите менее достойный вариант."
+      },
+      {
+        "en": "The design feels worthy.",
+        "ru": "Дизайн кажется достойным."
+      },
+      {
+        "en": "A worthy policy risks backlash.",
+        "ru": "Достойная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "worthy approach · worthy result"
+  },
+  {
+    "word": "wrangle",
+    "lemma": "wrangle",
+    "ipa": "/ˈræŋgəl/",
+    "pos": "verb",
+    "tr": "запутаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you wrangle this for the board?",
+        "ru": "Можешь поспорить об этом с советом?"
+      },
+      {
+        "en": "Analysts wrangle the numbers overnight.",
+        "ru": "Аналитики ломают цифры в одночасье."
+      },
+      {
+        "en": "Do not wrangle under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "wrangle carefully · refuse to wrangle",
+    "pattern": "wrangle + N"
+  },
+  {
+    "word": "wrench",
+    "lemma": "wrench",
+    "ipa": "/rɛnʧ/",
+    "pos": "verb",
+    "tr": "гаечный ключ",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please wrench the proposal carefully.",
+        "ru": "Пожалуйста, внесите предложение осторожно."
+      },
+      {
+        "en": "They refuse to wrench without evidence.",
+        "ru": "Они отказываются выдавать показания без доказательств."
+      },
+      {
+        "en": "Leaders must wrench when stakes are high.",
+        "ru": "Лидеры должны бороться, когда ставки высоки."
+      }
+    ],
+    "colloc": "wrench pressure · wrench + N",
+    "pattern": "wrench + to-INF"
+  },
+  {
+    "word": "wryly",
+    "lemma": "wryly",
+    "ipa": "/ˈraɪli/",
+    "pos": "adv",
+    "tr": "хитроумно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued wryly for reform.",
+        "ru": "Он решительно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied wryly.",
+        "ru": "Правило было применено хитро."
+      },
+      {
+        "en": "Costs rose wryly last year.",
+        "ru": "В прошлом году цены резко выросли."
+      }
+    ],
+    "colloc": "act wryly · wryly"
+  },
+  {
+    "word": "yield",
+    "lemma": "yield",
+    "ipa": "/jild/",
+    "pos": "noun",
+    "tr": "доходность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the yield.",
+        "ru": "Они недооценили доходность."
+      },
+      {
+        "en": "A clear yield emerged from the data.",
+        "ru": "Явный результат был получен из данных."
+      },
+      {
+        "en": "Address the yield before it grows.",
+        "ru": "Устраните доходность до ее роста."
+      }
+    ],
+    "colloc": "clear yield · yield of"
+  }
+]

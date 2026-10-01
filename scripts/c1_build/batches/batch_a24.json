@@ -1,0 +1,1159 @@
+[
+  {
+    "word": "stretching",
+    "lemma": "stretching",
+    "ipa": "/ˈstrɛʧɪŋ/",
+    "pos": "noun",
+    "tr": "растяжка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the stretching.",
+        "ru": "Они недооценили растяжку."
+      },
+      {
+        "en": "A clear stretching emerged from the data.",
+        "ru": "Из данных проявилась четкая растяжка."
+      },
+      {
+        "en": "Address the stretching before it grows.",
+        "ru": "Обратитесь к растяжению, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear stretching · address the stretching"
+  },
+  {
+    "word": "strip",
+    "lemma": "strip",
+    "ipa": "/strɪp/",
+    "pos": "noun",
+    "tr": "полоса",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the strip closely.",
+        "ru": "Исследователи внимательно изучили полосу."
+      },
+      {
+        "en": "The strip shaped the final decision.",
+        "ru": "Полоса сформировала окончательное решение."
+      },
+      {
+        "en": "Without the strip, the argument collapses.",
+        "ru": "Без полосы аргумент рушится."
+      }
+    ],
+    "colloc": "clear strip · address the strip"
+  },
+  {
+    "word": "strive",
+    "lemma": "strive",
+    "ipa": "/straɪv/",
+    "pos": "verb",
+    "tr": "стремиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers strive resources each week.",
+        "ru": "Менеджеры стремятся к ресурсам каждую неделю."
+      },
+      {
+        "en": "He tends to strive too quickly.",
+        "ru": "Он стремится слишком быстро."
+      },
+      {
+        "en": "They strive only after a full review.",
+        "ru": "Они стремятся только после полного обзора."
+      }
+    ],
+    "colloc": "strive the claim · strive + N",
+    "pattern": "strive (+ prep)"
+  },
+  {
+    "word": "structural",
+    "lemma": "structural",
+    "ipa": "/ˈstrəkʧərəl/",
+    "pos": "adj",
+    "tr": "структурный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly structural.",
+        "ru": "Доказательства вряд ли структурные."
+      },
+      {
+        "en": "She remained structural under stress.",
+        "ru": "Она оставалась структурной в состоянии стресса."
+      },
+      {
+        "en": "Results looked only structural.",
+        "ru": "Результаты выглядели только структурно."
+      }
+    ],
+    "colloc": "structural approach · remain structural"
+  },
+  {
+    "word": "structurally",
+    "lemma": "structurally",
+    "ipa": "/ˈstrəkʧərəli/",
+    "pos": "adv",
+    "tr": "структурно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued structurally for reform.",
+        "ru": "Он выступал за структурные реформы."
+      },
+      {
+        "en": "The rule was applied structurally.",
+        "ru": "Правило применялось структурно."
+      },
+      {
+        "en": "Costs rose structurally last year.",
+        "ru": "В прошлом году затраты выросли структурно."
+      }
+    ],
+    "colloc": "respond structurally · structurally"
+  },
+  {
+    "word": "stuffily",
+    "lemma": "stuffily",
+    "ipa": "/stuffily/",
+    "pos": "adv",
+    "tr": "душно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued stuffily for reform.",
+        "ru": "Он упорно боролся за реформы."
+      },
+      {
+        "en": "The rule was applied stuffily.",
+        "ru": "Правило применялось душно."
+      },
+      {
+        "en": "Costs rose stuffily last year.",
+        "ru": "В прошлом году цены сильно выросли."
+      }
+    ],
+    "colloc": "respond stuffily · stuffily"
+  },
+  {
+    "word": "stuffiness",
+    "lemma": "stuffiness",
+    "ipa": "/stuffiness/",
+    "pos": "noun",
+    "tr": "заложенность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one stuffiness.",
+        "ru": "Ее карьера обернулась одной душой."
+      },
+      {
+        "en": "Public debate ignored the stuffiness.",
+        "ru": "Публичные дебаты игнорировали душность."
+      },
+      {
+        "en": "Document every stuffiness in the log.",
+        "ru": "Задокументируйте каждую штучность в журнале."
+      }
+    ],
+    "colloc": "the stuffiness · address the stuffiness"
+  },
+  {
+    "word": "stuffy",
+    "lemma": "stuffy",
+    "ipa": "/ˈstəfi/",
+    "pos": "adj",
+    "tr": "душный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less stuffy option.",
+        "ru": "Выберите менее мягкий вариант."
+      },
+      {
+        "en": "The design feels stuffy.",
+        "ru": "Дизайн кажется душным."
+      },
+      {
+        "en": "A stuffy policy risks backlash.",
+        "ru": "Захудалая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "stuffy approach · remain stuffy"
+  },
+  {
+    "word": "stumble",
+    "lemma": "stumble",
+    "ipa": "/ˈstəmbəl/",
+    "pos": "verb",
+    "tr": "споткнуться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers stumble resources each week.",
+        "ru": "Менеджеры спотыкаются ресурсами каждую неделю."
+      },
+      {
+        "en": "He tends to stumble too quickly.",
+        "ru": "Он склонен спотыкаться слишком быстро."
+      },
+      {
+        "en": "They stumble only after a full review.",
+        "ru": "Они спотыкаются только после полного обзора."
+      }
+    ],
+    "colloc": "stumble carefully · refuse to stumble",
+    "pattern": "stumble + that"
+  },
+  {
+    "word": "stun",
+    "lemma": "stun",
+    "ipa": "/stən/",
+    "pos": "verb",
+    "tr": "оглушать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please stun the proposal carefully.",
+        "ru": "Пожалуйста, тщательно оглушите предложение."
+      },
+      {
+        "en": "They refuse to stun without evidence.",
+        "ru": "Они отказываются оглушаться без доказательств."
+      },
+      {
+        "en": "Leaders must stun when stakes are high.",
+        "ru": "Лидеры должны оглушаться, когда ставки высоки."
+      }
+    ],
+    "colloc": "stun carefully · stun + N",
+    "pattern": "stun + to-INF"
+  },
+  {
+    "word": "stylistic",
+    "lemma": "stylistic",
+    "ipa": "/staɪˈlɪstɪk/",
+    "pos": "adj",
+    "tr": "стилистический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less stylistic option.",
+        "ru": "Выберите менее стилистичный вариант."
+      },
+      {
+        "en": "The design feels stylistic.",
+        "ru": "Дизайн кажется стилистическим."
+      },
+      {
+        "en": "A stylistic policy risks backlash.",
+        "ru": "Стильная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "stylistic tone · remain stylistic"
+  },
+  {
+    "word": "stylistically",
+    "lemma": "stylistically",
+    "ipa": "/staɪˈlɪstɪkli/",
+    "pos": "adv",
+    "tr": "стилистически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample stylistically.",
+        "ru": "Обработайте образец стилистически."
+      },
+      {
+        "en": "Support arrived stylistically.",
+        "ru": "Поддержка пришла стилистически."
+      },
+      {
+        "en": "The plan failed stylistically.",
+        "ru": "План провалился стилистически."
+      }
+    ],
+    "colloc": "speak stylistically · stylistically"
+  },
+  {
+    "word": "submission",
+    "lemma": "submission",
+    "ipa": "/səbˈmɪʃən/",
+    "pos": "noun",
+    "tr": "представление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one submission.",
+        "ru": "Ее карьера обернулась одним представлением."
+      },
+      {
+        "en": "Public debate ignored the submission.",
+        "ru": "Общественные дебаты проигнорировали представление."
+      },
+      {
+        "en": "Document every submission in the log.",
+        "ru": "Документируйте каждое представление в журнале."
+      }
+    ],
+    "colloc": "clear submission · submission of"
+  },
+  {
+    "word": "subordinate",
+    "lemma": "subordinate",
+    "ipa": "/səˈbɔrdəˌneɪt/",
+    "pos": "noun",
+    "tr": "подчиненный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the subordinate closely.",
+        "ru": "Исследователи внимательно изучили подчиненного."
+      },
+      {
+        "en": "The subordinate shaped the final decision.",
+        "ru": "Подчиненный формировал окончательное решение."
+      },
+      {
+        "en": "Without the subordinate, the argument collapses.",
+        "ru": "Без подчиненного аргумент рушится."
+      }
+    ],
+    "colloc": "the subordinate · subordinate of"
+  },
+  {
+    "word": "subscriber",
+    "lemma": "subscriber",
+    "ipa": "/səbˈskraɪbər/",
+    "pos": "noun",
+    "tr": "Подписчику",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the subscriber.",
+        "ru": "Они недооценили подписчика."
+      },
+      {
+        "en": "A clear subscriber emerged from the data.",
+        "ru": "Явный подписчик появился из данных."
+      },
+      {
+        "en": "Address the subscriber before it grows.",
+        "ru": "Обратитесь к абоненту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear subscriber · address the subscriber"
+  },
+  {
+    "word": "subscription",
+    "lemma": "subscription",
+    "ipa": "/səbˈskrɪpʃən/",
+    "pos": "noun",
+    "tr": "подписка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the subscription closely.",
+        "ru": "Исследователи внимательно изучили подписку."
+      },
+      {
+        "en": "The subscription shaped the final decision.",
+        "ru": "Подписка определила окончательное решение."
+      },
+      {
+        "en": "Without the subscription, the argument collapses.",
+        "ru": "Без подписки аргумент рухнет."
+      }
+    ],
+    "colloc": "the subscription · address the subscription"
+  },
+  {
+    "word": "subsidy",
+    "lemma": "subsidy",
+    "ipa": "/ˈsəbsɪdi/",
+    "pos": "noun",
+    "tr": "субсидия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the subsidy.",
+        "ru": "Они недооценили субсидии."
+      },
+      {
+        "en": "A clear subsidy emerged from the data.",
+        "ru": "Из данных вытекала четкая субсидия."
+      },
+      {
+        "en": "Address the subsidy before it grows.",
+        "ru": "Оформляйте субсидию до ее роста."
+      }
+    ],
+    "colloc": "the subsidy · address the subsidy"
+  },
+  {
+    "word": "substantial",
+    "lemma": "substantial",
+    "ipa": "/səbˈstænʃəl/",
+    "pos": "adj",
+    "tr": "существенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly substantial.",
+        "ru": "Доказательства вряд ли существенны."
+      },
+      {
+        "en": "She remained substantial under stress.",
+        "ru": "Она оставалась значительной в стрессе."
+      },
+      {
+        "en": "Results looked only substantial.",
+        "ru": "Результаты выглядели только существенными."
+      }
+    ],
+    "colloc": "substantial tone · remain substantial"
+  },
+  {
+    "word": "substantially",
+    "lemma": "substantially",
+    "ipa": "/səbˈstænʃəli/",
+    "pos": "adv",
+    "tr": "существенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke substantially about the issue.",
+        "ru": "Она много говорила по этому вопросу."
+      },
+      {
+        "en": "The team responded substantially.",
+        "ru": "Команда ответила существенно."
+      },
+      {
+        "en": "Progress moved substantially after the fix.",
+        "ru": "Прогресс существенно продвинулся после исправления."
+      }
+    ],
+    "colloc": "speak substantially · substantially"
+  },
+  {
+    "word": "substitute",
+    "lemma": "substitute",
+    "ipa": "/ˈsəbstəˌtut/",
+    "pos": "noun",
+    "tr": "заменить",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple substitute.",
+        "ru": "Простой замены не было."
+      },
+      {
+        "en": "Critics mocked the substitute.",
+        "ru": "Критики высмеяли замену."
+      },
+      {
+        "en": "We need a working definition of substitute.",
+        "ru": "Нам нужно рабочее определение замены."
+      }
+    ],
+    "colloc": "clear substitute · address the substitute"
+  },
+  {
+    "word": "substitution",
+    "lemma": "substitution",
+    "ipa": "/ˌsəbstɪˈtuʃən/",
+    "pos": "noun",
+    "tr": "Замена",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple substitution.",
+        "ru": "Простой замены не было."
+      },
+      {
+        "en": "Critics mocked the substitution.",
+        "ru": "Критики высмеяли подмену."
+      },
+      {
+        "en": "We need a working definition of substitution.",
+        "ru": "Необходимо рабочее определение замены."
+      }
+    ],
+    "colloc": "the substitution · address the substitution"
+  },
+  {
+    "word": "subtle",
+    "lemma": "subtle",
+    "ipa": "/ˈsətəl/",
+    "pos": "adj",
+    "tr": "тонкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly subtle.",
+        "ru": "Доказательства едва ли тонкие."
+      },
+      {
+        "en": "She remained subtle under stress.",
+        "ru": "Она оставалась тонкой в стрессе."
+      },
+      {
+        "en": "Results looked only subtle.",
+        "ru": "Результаты выглядели только тонкими."
+      }
+    ],
+    "colloc": "subtle tone · subtle result"
+  },
+  {
+    "word": "subtly",
+    "lemma": "subtly",
+    "ipa": "/ˈsətəli/",
+    "pos": "adv",
+    "tr": "тонко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued subtly for reform.",
+        "ru": "Он тонко поспорил о реформе."
+      },
+      {
+        "en": "The rule was applied subtly.",
+        "ru": "Правило применялось тонко."
+      },
+      {
+        "en": "Costs rose subtly last year.",
+        "ru": "Затраты в прошлом году незначительно выросли."
+      }
+    ],
+    "colloc": "respond subtly · subtly"
+  },
+  {
+    "word": "suburban",
+    "lemma": "suburban",
+    "ipa": "/səˈbərbən/",
+    "pos": "adj",
+    "tr": "пригородный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less suburban option.",
+        "ru": "Выберите менее пригородный вариант."
+      },
+      {
+        "en": "The design feels suburban.",
+        "ru": "Дизайн чувствуется пригородным."
+      },
+      {
+        "en": "A suburban policy risks backlash.",
+        "ru": "Пригородная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "suburban tone · remain suburban"
+  },
+  {
+    "word": "suburbia",
+    "lemma": "suburbia",
+    "ipa": "/səˈbərbiə/",
+    "pos": "noun",
+    "tr": "пригород",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one suburbia.",
+        "ru": "Ее карьера перевернулась на одном пригороде."
+      },
+      {
+        "en": "Public debate ignored the suburbia.",
+        "ru": "Общественные дебаты проигнорировали пригород."
+      },
+      {
+        "en": "Document every suburbia in the log.",
+        "ru": "Документируйте все пригороды в журнале."
+      }
+    ],
+    "colloc": "the suburbia · address the suburbia"
+  },
+  {
+    "word": "succession",
+    "lemma": "succession",
+    "ipa": "/səkˈsɛʃən/",
+    "pos": "noun",
+    "tr": "преемственность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking succession.",
+        "ru": "В докладе приводится поразительная последовательность."
+      },
+      {
+        "en": "Funding hinges on this succession.",
+        "ru": "Финансирование зависит от этой преемственности."
+      },
+      {
+        "en": "Students often confuse succession with related terms.",
+        "ru": "Студенты часто путают преемственность с родственными терминами."
+      }
+    ],
+    "colloc": "clear succession · succession of"
+  },
+  {
+    "word": "successive",
+    "lemma": "successive",
+    "ipa": "/səkˈsɛsɪv/",
+    "pos": "adj",
+    "tr": "последовательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a successive strategy.",
+        "ru": "Это была последовательная стратегия."
+      },
+      {
+        "en": "The tone grew successive.",
+        "ru": "Тон рос последовательно."
+      },
+      {
+        "en": "They rejected the successive proposal.",
+        "ru": "Они отвергли последующее предложение."
+      }
+    ],
+    "colloc": "successive tone · successive result"
+  },
+  {
+    "word": "successor",
+    "lemma": "successor",
+    "ipa": "/səkˈsɛsər/",
+    "pos": "noun",
+    "tr": "преемник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one successor.",
+        "ru": "Ее карьера перевернулась на одного преемника."
+      },
+      {
+        "en": "Public debate ignored the successor.",
+        "ru": "Публичные дебаты проигнорировали преемника."
+      },
+      {
+        "en": "Document every successor in the log.",
+        "ru": "Документируйте каждого преемника в журнале."
+      }
+    ],
+    "colloc": "clear successor · address the successor"
+  },
+  {
+    "word": "succulent",
+    "lemma": "succulent",
+    "ipa": "/ˈsəkjəlɪnt/",
+    "pos": "noun",
+    "tr": "суккулентный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the succulent.",
+        "ru": "Они недооценили суккулентность."
+      },
+      {
+        "en": "A clear succulent emerged from the data.",
+        "ru": "Явный суккулент появился из данных."
+      },
+      {
+        "en": "Address the succulent before it grows.",
+        "ru": "Обращайтесь к суккуленту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the succulent · succulent of"
+  },
+  {
+    "word": "succulently",
+    "lemma": "succulently",
+    "ipa": "/succulently/",
+    "pos": "adv",
+    "tr": "сообразительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample succulently.",
+        "ru": "Обработайте образец суккулентно."
+      },
+      {
+        "en": "Support arrived succulently.",
+        "ru": "Поддержка пришла суккулентно."
+      },
+      {
+        "en": "The plan failed succulently.",
+        "ru": "План провалился суккулентно."
+      }
+    ],
+    "colloc": "speak succulently · succulently"
+  },
+  {
+    "word": "suck",
+    "lemma": "suck",
+    "ipa": "/sək/",
+    "pos": "verb",
+    "tr": "сосать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers suck resources each week.",
+        "ru": "Менеджеры высасывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to suck too quickly.",
+        "ru": "Он слишком быстро сосет."
+      },
+      {
+        "en": "They suck only after a full review.",
+        "ru": "Они отстойны только после полного обзора."
+      }
+    ],
+    "colloc": "suck the claim · refuse to suck",
+    "pattern": "suck (+ prep)"
+  },
+  {
+    "word": "suds",
+    "lemma": "suds",
+    "ipa": "/sədz/",
+    "pos": "noun",
+    "tr": "сады",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the suds.",
+        "ru": "Они недооценивали супы."
+      },
+      {
+        "en": "A clear suds emerged from the data.",
+        "ru": "Из данных вытекали четкие суды."
+      },
+      {
+        "en": "Address the suds before it grows.",
+        "ru": "Обращайтесь к суду, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear suds · address the suds"
+  },
+  {
+    "word": "suffice",
+    "lemma": "suffice",
+    "ipa": "/səˈfaɪs/",
+    "pos": "verb",
+    "tr": "достаточно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you suffice this for the board?",
+        "ru": "Достаточно ли этого для совета директоров?"
+      },
+      {
+        "en": "Analysts suffice the numbers overnight.",
+        "ru": "Аналитикам достаточно данных за одну ночь."
+      },
+      {
+        "en": "Do not suffice under political pressure.",
+        "ru": "Недостаточно под политическим давлением."
+      }
+    ],
+    "colloc": "suffice the claim · suffice + N",
+    "pattern": "suffice + to-INF"
+  },
+  {
+    "word": "suicide",
+    "lemma": "suicide",
+    "ipa": "/ˈsuɪˌsaɪd/",
+    "pos": "noun",
+    "tr": "самоубийство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple suicide.",
+        "ru": "Простого самоубийства не было."
+      },
+      {
+        "en": "Critics mocked the suicide.",
+        "ru": "Критики высмеяли самоубийство."
+      },
+      {
+        "en": "We need a working definition of suicide.",
+        "ru": "Нам нужно рабочее определение самоубийства."
+      }
+    ],
+    "colloc": "clear suicide · address the suicide"
+  },
+  {
+    "word": "suite",
+    "lemma": "suite",
+    "ipa": "/swit/",
+    "pos": "noun",
+    "tr": "люкс",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the suite.",
+        "ru": "Они недооценили номер."
+      },
+      {
+        "en": "A clear suite emerged from the data.",
+        "ru": "Из данных вышел четкий набор."
+      },
+      {
+        "en": "Address the suite before it grows.",
+        "ru": "Обратитесь к люксу, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear suite · suite of"
+  },
+  {
+    "word": "suitor",
+    "lemma": "suitor",
+    "ipa": "/ˈsutər/",
+    "pos": "noun",
+    "tr": "истец",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the suitor.",
+        "ru": "Они недооценили жениха."
+      },
+      {
+        "en": "A clear suitor emerged from the data.",
+        "ru": "Из данных вышел явный претендент."
+      },
+      {
+        "en": "Address the suitor before it grows.",
+        "ru": "Обращайтесь к жениху, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear suitor · address the suitor"
+  },
+  {
+    "word": "summit",
+    "lemma": "summit",
+    "ipa": "/ˈsəmɪt/",
+    "pos": "noun",
+    "tr": "Саммит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one summit.",
+        "ru": "Ее карьера перевернулась на один саммит."
+      },
+      {
+        "en": "Public debate ignored the summit.",
+        "ru": "Общественные дебаты проигнорировали саммит."
+      },
+      {
+        "en": "Document every summit in the log.",
+        "ru": "Документируйте каждую вершину в журнале."
+      }
+    ],
+    "colloc": "clear summit · address the summit"
+  },
+  {
+    "word": "superb",
+    "lemma": "superb",
+    "ipa": "/sʊˈpərb/",
+    "pos": "adj",
+    "tr": "превосходно",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A superb approach may help.",
+        "ru": "Отличный подход может помочь."
+      },
+      {
+        "en": "His answer sounded superb.",
+        "ru": "Его ответ звучал превосходно."
+      },
+      {
+        "en": "Avoid superb claims without proof.",
+        "ru": "Избегайте превосходных утверждений без доказательств."
+      }
+    ],
+    "colloc": "superb approach · superb result"
+  },
+  {
+    "word": "superficial",
+    "lemma": "superficial",
+    "ipa": "/ˌsupərˈfɪʃəl/",
+    "pos": "adj",
+    "tr": "поверхностный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a superficial strategy.",
+        "ru": "Это была поверхностная стратегия."
+      },
+      {
+        "en": "The tone grew superficial.",
+        "ru": "Тон стал поверхностным."
+      },
+      {
+        "en": "They rejected the superficial proposal.",
+        "ru": "Они отвергли поверхностное предложение."
+      }
+    ],
+    "colloc": "superficial tone · superficial result"
+  },
+  {
+    "word": "superficially",
+    "lemma": "superficially",
+    "ipa": "/ˈsupərˌfɪʃəli/",
+    "pos": "adv",
+    "tr": "поверхностно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued superficially for reform.",
+        "ru": "Он открыто выступал за реформы."
+      },
+      {
+        "en": "The rule was applied superficially.",
+        "ru": "Правило применялось поверхностно."
+      },
+      {
+        "en": "Costs rose superficially last year.",
+        "ru": "Затраты выросли поверхностно в прошлом году."
+      }
+    ],
+    "colloc": "act superficially · superficially"
+  },
+  {
+    "word": "superintendent",
+    "lemma": "superintendent",
+    "ipa": "/ˌsupərɪnˈtɛndənt/",
+    "pos": "noun",
+    "tr": "суперинтендант",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one superintendent.",
+        "ru": "Ее карьера перевернулась на одного суперинтенданта."
+      },
+      {
+        "en": "Public debate ignored the superintendent.",
+        "ru": "Публичные дебаты проигнорировали суперинтенданта."
+      },
+      {
+        "en": "Document every superintendent in the log.",
+        "ru": "Документируйте каждого суперинтенданта в журнале."
+      }
+    ],
+    "colloc": "clear superintendent · address the superintendent"
+  },
+  {
+    "word": "superior",
+    "lemma": "superior",
+    "ipa": "/suˈpɪriər/",
+    "pos": "adj",
+    "tr": "превосходящий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly superior.",
+        "ru": "Доказательства вряд ли выше."
+      },
+      {
+        "en": "She remained superior under stress.",
+        "ru": "Она оставалась выше в стрессе."
+      },
+      {
+        "en": "Results looked only superior.",
+        "ru": "Результаты выглядели только лучше."
+      }
+    ],
+    "colloc": "highly superior · superior result"
+  },
+  {
+    "word": "supervise",
+    "lemma": "supervise",
+    "ipa": "/ˈsupərˌvaɪz/",
+    "pos": "verb",
+    "tr": "контролировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you supervise this for the board?",
+        "ru": "Можете ли вы контролировать это для совета?"
+      },
+      {
+        "en": "Analysts supervise the numbers overnight.",
+        "ru": "Аналитики следят за цифрами в одночасье."
+      },
+      {
+        "en": "Do not supervise under political pressure.",
+        "ru": "Не под политическим давлением."
+      }
+    ],
+    "colloc": "supervise pressure · supervise + N",
+    "pattern": "supervise + that"
+  },
+  {
+    "word": "supervision",
+    "lemma": "supervision",
+    "ipa": "/ˌsupərˈvɪʒən/",
+    "pos": "noun",
+    "tr": "надзор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the supervision closely.",
+        "ru": "Исследователи внимательно изучили наблюдение."
+      },
+      {
+        "en": "The supervision shaped the final decision.",
+        "ru": "Надзор сформировал окончательное решение."
+      },
+      {
+        "en": "Without the supervision, the argument collapses.",
+        "ru": "Без надзора аргумент рухнет."
+      }
+    ],
+    "colloc": "clear supervision · supervision of"
+  },
+  {
+    "word": "supervisor",
+    "lemma": "supervisor",
+    "ipa": "/ˈsupərˌvaɪzər/",
+    "pos": "noun",
+    "tr": "руководитель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the supervisor closely.",
+        "ru": "Исследователи внимательно изучили руководителя."
+      },
+      {
+        "en": "The supervisor shaped the final decision.",
+        "ru": "Руководитель принял окончательное решение."
+      },
+      {
+        "en": "Without the supervisor, the argument collapses.",
+        "ru": "Без руководителя, аргумент рухнет."
+      }
+    ],
+    "colloc": "clear supervisor · supervisor of"
+  },
+  {
+    "word": "supple",
+    "lemma": "supple",
+    "ipa": "/ˈsəpəl/",
+    "pos": "adj",
+    "tr": "упругий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly supple.",
+        "ru": "Доказательства вряд ли упругие."
+      },
+      {
+        "en": "She remained supple under stress.",
+        "ru": "Она оставалась в состоянии стресса."
+      },
+      {
+        "en": "Results looked only supple.",
+        "ru": "Результаты выглядели только эластичными."
+      }
+    ],
+    "colloc": "supple tone · supple result"
+  },
+  {
+    "word": "supplement",
+    "lemma": "supplement",
+    "ipa": "/ˌsəpləˈmɛnt/",
+    "pos": "noun",
+    "tr": "дополнение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one supplement.",
+        "ru": "Ее карьера перевернулась на одно дополнение."
+      },
+      {
+        "en": "Public debate ignored the supplement.",
+        "ru": "Общественные дебаты проигнорировали дополнение."
+      },
+      {
+        "en": "Document every supplement in the log.",
+        "ru": "Документируйте каждое дополнение в журнале."
+      }
+    ],
+    "colloc": "clear supplement · supplement of"
+  },
+  {
+    "word": "supportive",
+    "lemma": "supportive",
+    "ipa": "/səˈpɔrtɪv/",
+    "pos": "adj",
+    "tr": "поддерживающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less supportive option.",
+        "ru": "Выберите менее благоприятный вариант."
+      },
+      {
+        "en": "The design feels supportive.",
+        "ru": "Дизайн чувствует поддержку."
+      },
+      {
+        "en": "A supportive policy risks backlash.",
+        "ru": "Поддерживающая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "supportive tone · supportive result"
+  },
+  {
+    "word": "supposedly",
+    "lemma": "supposedly",
+    "ipa": "/səˈpoʊzədli/",
+    "pos": "adv",
+    "tr": "предположительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued supposedly for reform.",
+        "ru": "Он якобы выступал за реформы."
+      },
+      {
+        "en": "The rule was applied supposedly.",
+        "ru": "Правило применялось якобы."
+      },
+      {
+        "en": "Costs rose supposedly last year.",
+        "ru": "Расходы выросли предположительно в прошлом году."
+      }
+    ],
+    "colloc": "act supposedly · supposedly"
+  },
+  {
+    "word": "suppress",
+    "lemma": "suppress",
+    "ipa": "/səˈprɛs/",
+    "pos": "verb",
+    "tr": "подавлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers suppress resources each week.",
+        "ru": "Менеджеры подавляют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to suppress too quickly.",
+        "ru": "Он склонен подавлять слишком быстро."
+      },
+      {
+        "en": "They suppress only after a full review.",
+        "ru": "Они подавляются только после полного пересмотра."
+      }
+    ],
+    "colloc": "suppress the claim · suppress + N",
+    "pattern": "suppress (+ prep)"
+  }
+]

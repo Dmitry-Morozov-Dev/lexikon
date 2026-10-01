@@ -1,0 +1,1168 @@
+[
+  {
+    "word": "recount",
+    "lemma": "recount",
+    "ipa": "/ˌriˈkaʊnt/",
+    "pos": "verb",
+    "tr": "пересчитать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to recount with precision.",
+        "ru": "Она научилась пересказывать с точностью."
+      },
+      {
+        "en": "We will recount the policy next quarter.",
+        "ru": "Мы расскажем о политике в следующем квартале."
+      },
+      {
+        "en": "Critics recount the choice harshly.",
+        "ru": "Критики жестко пересказывают выбор."
+      }
+    ],
+    "colloc": "recount pressure · recount + N",
+    "pattern": "recount + to-INF"
+  },
+  {
+    "word": "rediscover",
+    "lemma": "rediscover",
+    "ipa": "/ridɪˈskəvər/",
+    "pos": "verb",
+    "tr": "вновь открыть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you rediscover this for the board?",
+        "ru": "Ты можешь заново открыть это для совета?"
+      },
+      {
+        "en": "Analysts rediscover the numbers overnight.",
+        "ru": "Аналитики заново открывают цифры за одну ночь."
+      },
+      {
+        "en": "Do not rediscover under political pressure.",
+        "ru": "Не возвращайтесь под политическим давлением."
+      }
+    ],
+    "colloc": "rediscover the claim · rediscover + N",
+    "pattern": "rediscover + that"
+  },
+  {
+    "word": "reenact",
+    "lemma": "reenact",
+    "ipa": "/riɪˈnækt/",
+    "pos": "verb",
+    "tr": "чтобы воссоздать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to reenact with precision.",
+        "ru": "Она научилась реконструировать с точностью."
+      },
+      {
+        "en": "We will reenact the policy next quarter.",
+        "ru": "Мы пересмотрим политику в следующем квартале."
+      },
+      {
+        "en": "Critics reenact the choice harshly.",
+        "ru": "Критики жестко повторяют выбор."
+      }
+    ],
+    "colloc": "reenact pressure · refuse to reenact",
+    "pattern": "reenact + to-INF"
+  },
+  {
+    "word": "refine",
+    "lemma": "refine",
+    "ipa": "/rɪˈfaɪn/",
+    "pos": "noun",
+    "tr": "уточнение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking refine.",
+        "ru": "В докладе приводится поразительное уточнение."
+      },
+      {
+        "en": "Funding hinges on this refine.",
+        "ru": "Финансирование зависит от этого уточнения."
+      },
+      {
+        "en": "Students often confuse refine with related terms.",
+        "ru": "Студенты часто путают уточнение с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear refine · refine of"
+  },
+  {
+    "word": "refresh",
+    "lemma": "refresh",
+    "ipa": "/rɪˈfrɛʃ/",
+    "pos": "verb",
+    "tr": "освежать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you refresh this for the board?",
+        "ru": "Можешь освежить это для совета?"
+      },
+      {
+        "en": "Analysts refresh the numbers overnight.",
+        "ru": "Аналитики обновляют цифры за ночь."
+      },
+      {
+        "en": "Do not refresh under political pressure.",
+        "ru": "Не расслабляйтесь под политическим давлением."
+      }
+    ],
+    "colloc": "refresh pressure · refresh + N",
+    "pattern": "refresh + to-INF"
+  },
+  {
+    "word": "refreshing",
+    "lemma": "refreshing",
+    "ipa": "/rɪˈfrɛʃɪŋ/",
+    "pos": "adj",
+    "tr": "освежающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly refreshing.",
+        "ru": "Доказательства вряд ли освежают."
+      },
+      {
+        "en": "She remained refreshing under stress.",
+        "ru": "Она освежалась под стрессом."
+      },
+      {
+        "en": "Results looked only refreshing.",
+        "ru": "Результаты выглядели только освежающе."
+      }
+    ],
+    "colloc": "refreshing approach · refreshing result"
+  },
+  {
+    "word": "refreshingly",
+    "lemma": "refreshingly",
+    "ipa": "/riˈfrɛʃɪŋli/",
+    "pos": "adv",
+    "tr": "освежающе",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued refreshingly for reform.",
+        "ru": "Он решительно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied refreshingly.",
+        "ru": "Правило применялось освежающе."
+      },
+      {
+        "en": "Costs rose refreshingly last year.",
+        "ru": "Затраты в прошлом году резко выросли."
+      }
+    ],
+    "colloc": "speak refreshingly · refreshingly"
+  },
+  {
+    "word": "refurbish",
+    "lemma": "refurbish",
+    "ipa": "/riˈfərbɪʃ/",
+    "pos": "verb",
+    "tr": "ремонтировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers refurbish resources each week.",
+        "ru": "Менеджеры перерабатывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to refurbish too quickly.",
+        "ru": "Он слишком быстро восстанавливается."
+      },
+      {
+        "en": "They refurbish only after a full review.",
+        "ru": "Они восстанавливаются только после полного пересмотра."
+      }
+    ],
+    "colloc": "refurbish pressure · refurbish + N",
+    "pattern": "refurbish + to-INF"
+  },
+  {
+    "word": "refurbishment",
+    "lemma": "refurbishment",
+    "ipa": "/riˈfərbɪʃmənt/",
+    "pos": "noun",
+    "tr": "восстановление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the refurbishment.",
+        "ru": "Они недооценили ремонт."
+      },
+      {
+        "en": "A clear refurbishment emerged from the data.",
+        "ru": "Из этих данных была сделана четкая реконструкция."
+      },
+      {
+        "en": "Address the refurbishment before it grows.",
+        "ru": "Обратиться к ремонту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the refurbishment · address the refurbishment"
+  },
+  {
+    "word": "relapse",
+    "lemma": "relapse",
+    "ipa": "/riˈlæps/",
+    "pos": "verb",
+    "tr": "рецидивировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to relapse with precision.",
+        "ru": "Она научилась рецидивировать с точностью."
+      },
+      {
+        "en": "We will relapse the policy next quarter.",
+        "ru": "Мы пересмотрим политику в следующем квартале."
+      },
+      {
+        "en": "Critics relapse the choice harshly.",
+        "ru": "Критики резко отзываются о выборе."
+      }
+    ],
+    "colloc": "relapse carefully · refuse to relapse",
+    "pattern": "relapse + N"
+  },
+  {
+    "word": "relinquish",
+    "lemma": "relinquish",
+    "ipa": "/rɪˈlɪŋkwɪʃ/",
+    "pos": "verb",
+    "tr": "отказаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to relinquish with precision.",
+        "ru": "Она научилась отступать с точностью."
+      },
+      {
+        "en": "We will relinquish the policy next quarter.",
+        "ru": "Мы откажемся от политики в следующем квартале."
+      },
+      {
+        "en": "Critics relinquish the choice harshly.",
+        "ru": "Критики резко отказываются от выбора."
+      }
+    ],
+    "colloc": "relinquish carefully · relinquish + N",
+    "pattern": "relinquish + to-INF"
+  },
+  {
+    "word": "reluctance",
+    "lemma": "reluctance",
+    "ipa": "/rɪˈləktəns/",
+    "pos": "noun",
+    "tr": "нежелание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the reluctance closely.",
+        "ru": "Исследователи внимательно изучили это нежелание."
+      },
+      {
+        "en": "The reluctance shaped the final decision.",
+        "ru": "Нежелание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the reluctance, the argument collapses.",
+        "ru": "Без этого нежелания аргумент рухнет."
+      }
+    ],
+    "colloc": "the reluctance · address the reluctance"
+  },
+  {
+    "word": "reluctantly",
+    "lemma": "reluctantly",
+    "ipa": "/rɪˈləktəntli/",
+    "pos": "adv",
+    "tr": "неохотно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued reluctantly for reform.",
+        "ru": "Он неохотно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied reluctantly.",
+        "ru": "Правило применялось неохотно."
+      },
+      {
+        "en": "Costs rose reluctantly last year.",
+        "ru": "Затраты неохотно выросли в прошлом году."
+      }
+    ],
+    "colloc": "respond reluctantly · reluctantly"
+  },
+  {
+    "word": "remedial",
+    "lemma": "remedial",
+    "ipa": "/rɪˈmidiəl/",
+    "pos": "adj",
+    "tr": "исправительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less remedial option.",
+        "ru": "Выберите менее коррективный вариант."
+      },
+      {
+        "en": "The design feels remedial.",
+        "ru": "Дизайн кажется исправительным."
+      },
+      {
+        "en": "A remedial policy risks backlash.",
+        "ru": "Реабилитационная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "remedial tone · remedial result"
+  },
+  {
+    "word": "reminisce",
+    "lemma": "reminisce",
+    "ipa": "/ˌrɛməˈnɪs/",
+    "pos": "verb",
+    "tr": "Напоминать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you reminisce this for the board?",
+        "ru": "Можешь вспомнить это для совета?"
+      },
+      {
+        "en": "Analysts reminisce the numbers overnight.",
+        "ru": "Аналитики вспоминают цифры за ночь."
+      },
+      {
+        "en": "Do not reminisce under political pressure.",
+        "ru": "Не вспоминай под политическим давлением."
+      }
+    ],
+    "colloc": "reminisce carefully · refuse to reminisce",
+    "pattern": "reminisce (+ prep)"
+  },
+  {
+    "word": "reminiscent",
+    "lemma": "reminiscent",
+    "ipa": "/ˌrɛməˈnɪsənt/",
+    "pos": "adj",
+    "tr": "напоминающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A reminiscent approach may help.",
+        "ru": "Напоминающий подход может помочь."
+      },
+      {
+        "en": "His answer sounded reminiscent.",
+        "ru": "Его ответ звучал напоминающим."
+      },
+      {
+        "en": "Avoid reminiscent claims without proof.",
+        "ru": "Избегайте напоминаний без доказательств."
+      }
+    ],
+    "colloc": "reminiscent tone · reminiscent result"
+  },
+  {
+    "word": "remorse",
+    "lemma": "remorse",
+    "ipa": "/rɪˈmɔrs/",
+    "pos": "noun",
+    "tr": "раскаяние",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking remorse.",
+        "ru": "В докладе приводится поразительное раскаяние."
+      },
+      {
+        "en": "Funding hinges on this remorse.",
+        "ru": "Финансирование зависит от этого раскаяния."
+      },
+      {
+        "en": "Students often confuse remorse with related terms.",
+        "ru": "Студенты часто путают угрызения совести с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear remorse · remorse of"
+  },
+  {
+    "word": "remorsefully",
+    "lemma": "remorsefully",
+    "ipa": "/remorsefully/",
+    "pos": "adv",
+    "tr": "с раскаянием",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample remorsefully.",
+        "ru": "Обработайте образец с раскаянием."
+      },
+      {
+        "en": "Support arrived remorsefully.",
+        "ru": "Поддержка пришла с сожалением."
+      },
+      {
+        "en": "The plan failed remorsefully.",
+        "ru": "План провалился с сожалением."
+      }
+    ],
+    "colloc": "respond remorsefully · remorsefully"
+  },
+  {
+    "word": "remorseless",
+    "lemma": "remorseless",
+    "ipa": "/rɪˈmɔrsləs/",
+    "pos": "adj",
+    "tr": "безжалостный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less remorseless option.",
+        "ru": "Выберите менее беспощадный вариант."
+      },
+      {
+        "en": "The design feels remorseless.",
+        "ru": "Дизайн кажется беспощадным."
+      },
+      {
+        "en": "A remorseless policy risks backlash.",
+        "ru": "Беспощадная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "remorseless tone · remorseless result"
+  },
+  {
+    "word": "remorselessly",
+    "lemma": "remorselessly",
+    "ipa": "/remorselessly/",
+    "pos": "adv",
+    "tr": "безжалостно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke remorselessly about the issue.",
+        "ru": "Она безжалостно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded remorselessly.",
+        "ru": "Команда ответила безжалостно."
+      },
+      {
+        "en": "Progress moved remorselessly after the fix.",
+        "ru": "Прогресс беспощадно двигался после исправления."
+      }
+    ],
+    "colloc": "speak remorselessly · remorselessly"
+  },
+  {
+    "word": "remotely",
+    "lemma": "remotely",
+    "ipa": "/riˈmoʊtli/",
+    "pos": "adv",
+    "tr": "удаленно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued remotely for reform.",
+        "ru": "Он отдалённо выступал за реформы."
+      },
+      {
+        "en": "The rule was applied remotely.",
+        "ru": "Правило применялось дистанционно."
+      },
+      {
+        "en": "Costs rose remotely last year.",
+        "ru": "Затраты выросли дистанционно в прошлом году."
+      }
+    ],
+    "colloc": "respond remotely · remotely"
+  },
+  {
+    "word": "removed",
+    "lemma": "removed",
+    "ipa": "/riˈmuvd/",
+    "pos": "adj",
+    "tr": "удалять",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A removed approach may help.",
+        "ru": "Снятый подход может помочь."
+      },
+      {
+        "en": "His answer sounded removed.",
+        "ru": "Его ответ был удален."
+      },
+      {
+        "en": "Avoid removed claims without proof.",
+        "ru": "Избегайте удаленных претензий без доказательств."
+      }
+    ],
+    "colloc": "highly removed · remain removed"
+  },
+  {
+    "word": "rendering",
+    "lemma": "rendering",
+    "ipa": "/ˈrɛndərɪŋ/",
+    "pos": "noun",
+    "tr": "рендеринг",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the rendering closely.",
+        "ru": "Исследователи внимательно изучили рендеринг."
+      },
+      {
+        "en": "The rendering shaped the final decision.",
+        "ru": "Выдача сформировала окончательное решение."
+      },
+      {
+        "en": "Without the rendering, the argument collapses.",
+        "ru": "Без рендеринга аргумент рушится."
+      }
+    ],
+    "colloc": "clear rendering · address the rendering"
+  },
+  {
+    "word": "renown",
+    "lemma": "renown",
+    "ipa": "/rɪˈnaʊn/",
+    "pos": "noun",
+    "tr": "славный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one renown.",
+        "ru": "Ее карьера обернулась одной славой."
+      },
+      {
+        "en": "Public debate ignored the renown.",
+        "ru": "Публичные дебаты проигнорировали известность."
+      },
+      {
+        "en": "Document every renown in the log.",
+        "ru": "Документ, каждый известный в журнале."
+      }
+    ],
+    "colloc": "clear renown · renown of"
+  },
+  {
+    "word": "repel",
+    "lemma": "repel",
+    "ipa": "/rɪˈpɛl/",
+    "pos": "verb",
+    "tr": "отражать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers repel resources each week.",
+        "ru": "Менеджеры отбрасывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to repel too quickly.",
+        "ru": "Он склонен отталкиваться слишком быстро."
+      },
+      {
+        "en": "They repel only after a full review.",
+        "ru": "Они отталкиваются только после полного пересмотра."
+      }
+    ],
+    "colloc": "repel the claim · refuse to repel",
+    "pattern": "repel (+ prep)"
+  },
+  {
+    "word": "repellant",
+    "lemma": "repellant",
+    "ipa": "/repellant/",
+    "pos": "noun",
+    "tr": "переговорщик",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the repellant.",
+        "ru": "Они недооценили репеллента."
+      },
+      {
+        "en": "A clear repellant emerged from the data.",
+        "ru": "Явный репеллент появился из данных."
+      },
+      {
+        "en": "Address the repellant before it grows.",
+        "ru": "Обращайтесь к репелленту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear repellant · repellant of"
+  },
+  {
+    "word": "repertory",
+    "lemma": "repertory",
+    "ipa": "/ˈrɛpərˌtɔri/",
+    "pos": "noun",
+    "tr": "репертуар",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the repertory.",
+        "ru": "Они недооценили репертуар."
+      },
+      {
+        "en": "A clear repertory emerged from the data.",
+        "ru": "Из данных вышел четкий репертуар."
+      },
+      {
+        "en": "Address the repertory before it grows.",
+        "ru": "Обращайтесь к репертуару, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear repertory · address the repertory"
+  },
+  {
+    "word": "repute",
+    "lemma": "repute",
+    "ipa": "/riˈpjut/",
+    "pos": "verb",
+    "tr": "чтобы почитать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers repute resources each week.",
+        "ru": "Менеджеры оценивают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to repute too quickly.",
+        "ru": "Он склонен слишком быстро расхваливать."
+      },
+      {
+        "en": "They repute only after a full review.",
+        "ru": "Они ругаются только после полного обзора."
+      }
+    ],
+    "colloc": "repute carefully · repute + N",
+    "pattern": "repute + to-INF"
+  },
+  {
+    "word": "resent",
+    "lemma": "resent",
+    "ipa": "/rɪˈzɛnt/",
+    "pos": "verb",
+    "tr": "возмущаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers resent resources each week.",
+        "ru": "Менеджеры возмущаются ресурсами каждую неделю."
+      },
+      {
+        "en": "He tends to resent too quickly.",
+        "ru": "Он склонен возмущаться слишком быстро."
+      },
+      {
+        "en": "They resent only after a full review.",
+        "ru": "Они возмущаются только после полного пересмотра."
+      }
+    ],
+    "colloc": "resent the claim · refuse to resent",
+    "pattern": "resent + to-INF"
+  },
+  {
+    "word": "resilience",
+    "lemma": "resilience",
+    "ipa": "/rɪˈzɪljəns/",
+    "pos": "noun",
+    "tr": "устойчивость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one resilience.",
+        "ru": "Ее карьера перевернулась на одну стойкость."
+      },
+      {
+        "en": "Public debate ignored the resilience.",
+        "ru": "Общественные дебаты проигнорировали устойчивость."
+      },
+      {
+        "en": "Document every resilience in the log.",
+        "ru": "Документируйте каждую устойчивость в журнале."
+      }
+    ],
+    "colloc": "clear resilience · resilience of"
+  },
+  {
+    "word": "resilient",
+    "lemma": "resilient",
+    "ipa": "/rɪˈzɪljənt/",
+    "pos": "adj",
+    "tr": "устойчивый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A resilient approach may help.",
+        "ru": "Устойчивый подход может помочь."
+      },
+      {
+        "en": "His answer sounded resilient.",
+        "ru": "Его ответ звучал устойчиво."
+      },
+      {
+        "en": "Avoid resilient claims without proof.",
+        "ru": "Избегайте устойчивых претензий без доказательств."
+      }
+    ],
+    "colloc": "resilient approach · remain resilient"
+  },
+  {
+    "word": "resin",
+    "lemma": "resin",
+    "ipa": "/ˈrɛzɪn/",
+    "pos": "noun",
+    "tr": "смола",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking resin.",
+        "ru": "В докладе приводится поразительная смола."
+      },
+      {
+        "en": "Funding hinges on this resin.",
+        "ru": "Финансирование зависит от этой смолы."
+      },
+      {
+        "en": "Students often confuse resin with related terms.",
+        "ru": "Студенты часто путают смолу с родственными терминами."
+      }
+    ],
+    "colloc": "clear resin · resin of"
+  },
+  {
+    "word": "resonate",
+    "lemma": "resonate",
+    "ipa": "/ˈrɛzəˌneɪt/",
+    "pos": "verb",
+    "tr": "резонировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to resonate with precision.",
+        "ru": "Она научилась резонировать с точностью."
+      },
+      {
+        "en": "We will resonate the policy next quarter.",
+        "ru": "Мы резонируем политику в следующем квартале."
+      },
+      {
+        "en": "Critics resonate the choice harshly.",
+        "ru": "Критики жестко резонируют с выбором."
+      }
+    ],
+    "colloc": "resonate carefully · refuse to resonate",
+    "pattern": "resonate + N"
+  },
+  {
+    "word": "respite",
+    "lemma": "respite",
+    "ipa": "/ˈrɛspɪt/",
+    "pos": "noun",
+    "tr": "передышка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the respite closely.",
+        "ru": "Исследователи внимательно изучили передышку."
+      },
+      {
+        "en": "The respite shaped the final decision.",
+        "ru": "Отдых сформировал окончательное решение."
+      },
+      {
+        "en": "Without the respite, the argument collapses.",
+        "ru": "Без передышки аргумент рухнет."
+      }
+    ],
+    "colloc": "the respite · address the respite"
+  },
+  {
+    "word": "restorative",
+    "lemma": "restorative",
+    "ipa": "/rəˈstɔrətɪv/",
+    "pos": "adj",
+    "tr": "восстанавливающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a restorative strategy.",
+        "ru": "Это была восстановительная стратегия."
+      },
+      {
+        "en": "The tone grew restorative.",
+        "ru": "Тон стал восстанавливающим."
+      },
+      {
+        "en": "They rejected the restorative proposal.",
+        "ru": "Они отвергли восстановительное предложение."
+      }
+    ],
+    "colloc": "restorative tone · restorative result"
+  },
+  {
+    "word": "restrain",
+    "lemma": "restrain",
+    "ipa": "/riˈstreɪn/",
+    "pos": "noun",
+    "tr": "сдерживать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple restrain.",
+        "ru": "Простого ограничения не было."
+      },
+      {
+        "en": "Critics mocked the restrain.",
+        "ru": "Критики высмеяли сдержанность."
+      },
+      {
+        "en": "We need a working definition of restrain.",
+        "ru": "Нам нужно рабочее определение сдерживания."
+      }
+    ],
+    "colloc": "clear restrain · restrain of"
+  },
+  {
+    "word": "retention",
+    "lemma": "retention",
+    "ipa": "/riˈtɛnʃən/",
+    "pos": "noun",
+    "tr": "сохранение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking retention.",
+        "ru": "В докладе приводится поразительное удержание."
+      },
+      {
+        "en": "Funding hinges on this retention.",
+        "ru": "Финансирование зависит от этого удержания."
+      },
+      {
+        "en": "Students often confuse retention with related terms.",
+        "ru": "Студенты часто путают удержание с соответствующими терминами."
+      }
+    ],
+    "colloc": "the retention · address the retention"
+  },
+  {
+    "word": "retrace",
+    "lemma": "retrace",
+    "ipa": "/riˈtreɪs/",
+    "pos": "verb",
+    "tr": "чтобы восстановить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to retrace with precision.",
+        "ru": "Она научилась восстанавливаться с точностью."
+      },
+      {
+        "en": "We will retrace the policy next quarter.",
+        "ru": "Мы пересмотрим политику в следующем квартале."
+      },
+      {
+        "en": "Critics retrace the choice harshly.",
+        "ru": "Критики резко повторяют выбор."
+      }
+    ],
+    "colloc": "retrace the claim · refuse to retrace",
+    "pattern": "retrace + to-INF"
+  },
+  {
+    "word": "revealing",
+    "lemma": "revealing",
+    "ipa": "/rɪˈvilɪŋ/",
+    "pos": "adj",
+    "tr": "раскрывающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a revealing strategy.",
+        "ru": "Это была показательная стратегия."
+      },
+      {
+        "en": "The tone grew revealing.",
+        "ru": "Тон стал раскрываться."
+      },
+      {
+        "en": "They rejected the revealing proposal.",
+        "ru": "Они отвергли открытое предложение."
+      }
+    ],
+    "colloc": "revealing tone · remain revealing"
+  },
+  {
+    "word": "revere",
+    "lemma": "revere",
+    "ipa": "/rɪˈvɪr/",
+    "pos": "verb",
+    "tr": "почитать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to revere with precision.",
+        "ru": "Она научилась почитать с точностью."
+      },
+      {
+        "en": "We will revere the policy next quarter.",
+        "ru": "Мы будем уважать политику в следующем квартале."
+      },
+      {
+        "en": "Critics revere the choice harshly.",
+        "ru": "Критики жестко почитают выбор."
+      }
+    ],
+    "colloc": "revere the claim · revere + N",
+    "pattern": "revere + N"
+  },
+  {
+    "word": "rigid",
+    "lemma": "rigid",
+    "ipa": "/ˈrɪʤɪd/",
+    "pos": "noun",
+    "tr": "жесткий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the rigid.",
+        "ru": "Они недооценили жесткость."
+      },
+      {
+        "en": "A clear rigid emerged from the data.",
+        "ru": "Из данных возникла явная жесткость."
+      },
+      {
+        "en": "Address the rigid before it grows.",
+        "ru": "Обращайтесь к жесткому, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear rigid · rigid of"
+  },
+  {
+    "word": "riveting",
+    "lemma": "riveting",
+    "ipa": "/ˈrɪvətɪŋ/",
+    "pos": "adj",
+    "tr": "клепать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less riveting option.",
+        "ru": "Выберите менее привлекательный вариант."
+      },
+      {
+        "en": "The design feels riveting.",
+        "ru": "Дизайн кажется захватывающим."
+      },
+      {
+        "en": "A riveting policy risks backlash.",
+        "ru": "Заманчивая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "riveting approach · riveting result"
+  },
+  {
+    "word": "robustly",
+    "lemma": "robustly",
+    "ipa": "/ˌroʊˈbəstli/",
+    "pos": "adv",
+    "tr": "надежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke robustly about the issue.",
+        "ru": "Она решительно высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded robustly.",
+        "ru": "Команда ответила решительно."
+      },
+      {
+        "en": "Progress moved robustly after the fix.",
+        "ru": "Прогресс сильно продвинулся после исправления."
+      }
+    ],
+    "colloc": "speak robustly · robustly"
+  },
+  {
+    "word": "roundup",
+    "lemma": "roundup",
+    "ipa": "/ˈraʊnˌdəp/",
+    "pos": "noun",
+    "tr": "округление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple roundup.",
+        "ru": "Простого обхода не было."
+      },
+      {
+        "en": "Critics mocked the roundup.",
+        "ru": "Критики высмеяли округление."
+      },
+      {
+        "en": "We need a working definition of roundup.",
+        "ru": "Нам нужно рабочее определение округления."
+      }
+    ],
+    "colloc": "clear roundup · roundup of"
+  },
+  {
+    "word": "rudimentary",
+    "lemma": "rudimentary",
+    "ipa": "/ˌrudəˈmɛntəri/",
+    "pos": "adj",
+    "tr": "элементарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly rudimentary.",
+        "ru": "Доказательства вряд ли рудиментарны."
+      },
+      {
+        "en": "She remained rudimentary under stress.",
+        "ru": "Она оставалась рудиментарной в стрессе."
+      },
+      {
+        "en": "Results looked only rudimentary.",
+        "ru": "Результаты выглядели только рудиментарно."
+      }
+    ],
+    "colloc": "rudimentary approach · rudimentary result"
+  },
+  {
+    "word": "rudiments",
+    "lemma": "rudiments",
+    "ipa": "/ˈrudɪmənts/",
+    "pos": "noun",
+    "tr": "рудименты",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple rudiments.",
+        "ru": "Не было простых зачатков."
+      },
+      {
+        "en": "Critics mocked the rudiments.",
+        "ru": "Критики высмеивали зачатки."
+      },
+      {
+        "en": "We need a working definition of rudiments.",
+        "ru": "Нам нужно рабочее определение зачатков."
+      }
+    ],
+    "colloc": "clear rudiments · rudiments of"
+  },
+  {
+    "word": "rumble",
+    "lemma": "rumble",
+    "ipa": "/ˈrəmbəl/",
+    "pos": "verb",
+    "tr": "грохотать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please rumble the proposal carefully.",
+        "ru": "Пожалуйста, аккуратно прокрутите предложение."
+      },
+      {
+        "en": "They refuse to rumble without evidence.",
+        "ru": "Они отказываются рычать без доказательств."
+      },
+      {
+        "en": "Leaders must rumble when stakes are high.",
+        "ru": "Лидеры должны рычать, когда ставки высоки."
+      }
+    ],
+    "colloc": "rumble the claim · rumble + N",
+    "pattern": "rumble + N"
+  },
+  {
+    "word": "rustle",
+    "lemma": "rustle",
+    "ipa": "/ˈrəsəl/",
+    "pos": "verb",
+    "tr": "шуршать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to rustle with precision.",
+        "ru": "Она научилась шуршать с точностью."
+      },
+      {
+        "en": "We will rustle the policy next quarter.",
+        "ru": "В следующем квартале мы будем проводить политику."
+      },
+      {
+        "en": "Critics rustle the choice harshly.",
+        "ru": "Критики жестко шорохнули выбором."
+      }
+    ],
+    "colloc": "rustle the claim · rustle + N",
+    "pattern": "rustle + that"
+  },
+  {
+    "word": "ruthless",
+    "lemma": "ruthless",
+    "ipa": "/ˈruθləs/",
+    "pos": "adj",
+    "tr": "безжалостный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly ruthless.",
+        "ru": "Доказательства вряд ли безжалостны."
+      },
+      {
+        "en": "She remained ruthless under stress.",
+        "ru": "Она оставалась безжалостной в стрессе."
+      },
+      {
+        "en": "Results looked only ruthless.",
+        "ru": "Результаты выглядели просто безжалостными."
+      }
+    ],
+    "colloc": "highly ruthless · remain ruthless"
+  },
+  {
+    "word": "ruthlessness",
+    "lemma": "ruthlessness",
+    "ipa": "/ˈruθləsnəs/",
+    "pos": "noun",
+    "tr": "беспощадность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the ruthlessness.",
+        "ru": "Они недооценили жестокость."
+      },
+      {
+        "en": "A clear ruthlessness emerged from the data.",
+        "ru": "Из данных вытекала явная беспощадность."
+      },
+      {
+        "en": "Address the ruthlessness before it grows.",
+        "ru": "Обращайтесь к беспощадности, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear ruthlessness · ruthlessness of"
+  }
+]

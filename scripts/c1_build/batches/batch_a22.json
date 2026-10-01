@@ -1,0 +1,1162 @@
+[
+  {
+    "word": "salivate",
+    "lemma": "salivate",
+    "ipa": "/ˈsæləˌveɪt/",
+    "pos": "verb",
+    "tr": "слюноотделение",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please salivate the proposal carefully.",
+        "ru": "Пожалуйста, внимательно отнеситесь к предложению."
+      },
+      {
+        "en": "They refuse to salivate without evidence.",
+        "ru": "Они отказываются от слюны без доказательств."
+      },
+      {
+        "en": "Leaders must salivate when stakes are high.",
+        "ru": "Лидеры должны слюноотделяться, когда ставки высоки."
+      }
+    ],
+    "colloc": "salivate pressure · salivate + N",
+    "pattern": "salivate (+ prep)"
+  },
+  {
+    "word": "saloon",
+    "lemma": "saloon",
+    "ipa": "/səˈlun/",
+    "pos": "noun",
+    "tr": "салон",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the saloon closely.",
+        "ru": "Исследователи внимательно изучили салон."
+      },
+      {
+        "en": "The saloon shaped the final decision.",
+        "ru": "Салон сформировал окончательное решение."
+      },
+      {
+        "en": "Without the saloon, the argument collapses.",
+        "ru": "Без салуна аргумент рухнет."
+      }
+    ],
+    "colloc": "the saloon · saloon of"
+  },
+  {
+    "word": "salvage",
+    "lemma": "salvage",
+    "ipa": "/ˈsælvɪʤ/",
+    "pos": "verb",
+    "tr": "спасать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to salvage with precision.",
+        "ru": "Она научилась спасать с точностью."
+      },
+      {
+        "en": "We will salvage the policy next quarter.",
+        "ru": "Мы спасем политику в следующем квартале."
+      },
+      {
+        "en": "Critics salvage the choice harshly.",
+        "ru": "Критики резко спасают выбор."
+      }
+    ],
+    "colloc": "salvage the claim · refuse to salvage",
+    "pattern": "salvage (+ prep)"
+  },
+  {
+    "word": "salvation",
+    "lemma": "salvation",
+    "ipa": "/sælˈveɪʃən/",
+    "pos": "noun",
+    "tr": "спасение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the salvation closely.",
+        "ru": "Исследователи внимательно изучили спасение."
+      },
+      {
+        "en": "The salvation shaped the final decision.",
+        "ru": "Спасение определило окончательное решение."
+      },
+      {
+        "en": "Without the salvation, the argument collapses.",
+        "ru": "Без спасения спор рушится."
+      }
+    ],
+    "colloc": "clear salvation · salvation of"
+  },
+  {
+    "word": "salve",
+    "lemma": "salve",
+    "ipa": "/sɑv/",
+    "pos": "noun",
+    "tr": "спасать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one salve.",
+        "ru": "Ее карьера перевернулась на один лосось."
+      },
+      {
+        "en": "Public debate ignored the salve.",
+        "ru": "Общественные дебаты проигнорировали мазь."
+      },
+      {
+        "en": "Document every salve in the log.",
+        "ru": "Задокументируйте каждый мазок в журнале."
+      }
+    ],
+    "colloc": "the salve · address the salve"
+  },
+  {
+    "word": "sanctity",
+    "lemma": "sanctity",
+    "ipa": "/ˈsæŋktɪti/",
+    "pos": "noun",
+    "tr": "святость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking sanctity.",
+        "ru": "В докладе упоминается поразительная святость."
+      },
+      {
+        "en": "Funding hinges on this sanctity.",
+        "ru": "Финансирование зависит от этой святости."
+      },
+      {
+        "en": "Students often confuse sanctity with related terms.",
+        "ru": "Студенты часто путают святость с родственными терминами."
+      }
+    ],
+    "colloc": "clear sanctity · sanctity of"
+  },
+  {
+    "word": "sarcasm",
+    "lemma": "sarcasm",
+    "ipa": "/ˈsɑrˌkæzəm/",
+    "pos": "noun",
+    "tr": "сарказм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple sarcasm.",
+        "ru": "Простого сарказма не было."
+      },
+      {
+        "en": "Critics mocked the sarcasm.",
+        "ru": "Критики высмеивали сарказм."
+      },
+      {
+        "en": "We need a working definition of sarcasm.",
+        "ru": "Нам нужно рабочее определение сарказма."
+      }
+    ],
+    "colloc": "clear sarcasm · sarcasm of"
+  },
+  {
+    "word": "sarcastic",
+    "lemma": "sarcastic",
+    "ipa": "/sɑrˈkæstɪk/",
+    "pos": "adj",
+    "tr": "саркастичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less sarcastic option.",
+        "ru": "Выберите менее саркастический вариант."
+      },
+      {
+        "en": "The design feels sarcastic.",
+        "ru": "Дизайн кажется саркастическим."
+      },
+      {
+        "en": "A sarcastic policy risks backlash.",
+        "ru": "Саркастическая политика может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "sarcastic tone · remain sarcastic"
+  },
+  {
+    "word": "sarcastically",
+    "lemma": "sarcastically",
+    "ipa": "/sɑrˈkæstɪkli/",
+    "pos": "adv",
+    "tr": "саркастически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued sarcastically for reform.",
+        "ru": "Он саркастически выступал за реформы."
+      },
+      {
+        "en": "The rule was applied sarcastically.",
+        "ru": "Правило применялось саркастически."
+      },
+      {
+        "en": "Costs rose sarcastically last year.",
+        "ru": "В прошлом году цены саркастически выросли."
+      }
+    ],
+    "colloc": "respond sarcastically · sarcastically"
+  },
+  {
+    "word": "sauna",
+    "lemma": "sauna",
+    "ipa": "/ˈsɔnə/",
+    "pos": "noun",
+    "tr": "сауна",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the sauna closely.",
+        "ru": "Исследователи внимательно изучили сауну."
+      },
+      {
+        "en": "The sauna shaped the final decision.",
+        "ru": "Сауна определила окончательное решение."
+      },
+      {
+        "en": "Without the sauna, the argument collapses.",
+        "ru": "Без сауны спор разваливается."
+      }
+    ],
+    "colloc": "clear sauna · sauna of"
+  },
+  {
+    "word": "scathing",
+    "lemma": "scathing",
+    "ipa": "/ˈskeɪðɪŋ/",
+    "pos": "adj",
+    "tr": "обжигающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a scathing strategy.",
+        "ru": "Это была ужасная стратегия."
+      },
+      {
+        "en": "The tone grew scathing.",
+        "ru": "Тон стал резким."
+      },
+      {
+        "en": "They rejected the scathing proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "highly scathing · remain scathing"
+  },
+  {
+    "word": "scoff",
+    "lemma": "scoff",
+    "ipa": "/skɔf/",
+    "pos": "verb",
+    "tr": "издеваться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers scoff resources each week.",
+        "ru": "Менеджеры каждую неделю издеваются над ресурсами."
+      },
+      {
+        "en": "He tends to scoff too quickly.",
+        "ru": "Он слишком быстро насмехается."
+      },
+      {
+        "en": "They scoff only after a full review.",
+        "ru": "Они издеваются только после полного обзора."
+      }
+    ],
+    "colloc": "scoff carefully · scoff + N",
+    "pattern": "scoff + that"
+  },
+  {
+    "word": "scorn",
+    "lemma": "scorn",
+    "ipa": "/skɔrn/",
+    "pos": "noun",
+    "tr": "презрение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking scorn.",
+        "ru": "В докладе приводится поразительное презрение."
+      },
+      {
+        "en": "Funding hinges on this scorn.",
+        "ru": "Финансирование зависит от этого презрения."
+      },
+      {
+        "en": "Students often confuse scorn with related terms.",
+        "ru": "Студенты часто путают презрение со связанными терминами."
+      }
+    ],
+    "colloc": "the scorn · scorn of"
+  },
+  {
+    "word": "scornful",
+    "lemma": "scornful",
+    "ipa": "/ˈskɔrnfəl/",
+    "pos": "adj",
+    "tr": "презрительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less scornful option.",
+        "ru": "Выберите менее презрительный вариант."
+      },
+      {
+        "en": "The design feels scornful.",
+        "ru": "Дизайн выглядит презрительно."
+      },
+      {
+        "en": "A scornful policy risks backlash.",
+        "ru": "Презрительная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "scornful tone · remain scornful"
+  },
+  {
+    "word": "scornfully",
+    "lemma": "scornfully",
+    "ipa": "/scornfully/",
+    "pos": "adv",
+    "tr": "презрительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke scornfully about the issue.",
+        "ru": "Она пренебрежительно отзывалась о проблеме."
+      },
+      {
+        "en": "The team responded scornfully.",
+        "ru": "Команда ответила презрительно."
+      },
+      {
+        "en": "Progress moved scornfully after the fix.",
+        "ru": "Прогресс шел презрительно после исправления."
+      }
+    ],
+    "colloc": "respond scornfully · scornfully"
+  },
+  {
+    "word": "scramble",
+    "lemma": "scramble",
+    "ipa": "/ˈskræmbəl/",
+    "pos": "noun",
+    "tr": "скремблировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the scramble.",
+        "ru": "Они недооценили схватку."
+      },
+      {
+        "en": "A clear scramble emerged from the data.",
+        "ru": "Из данных возникла четкая схватка."
+      },
+      {
+        "en": "Address the scramble before it grows.",
+        "ru": "Решите проблему, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the scramble · address the scramble"
+  },
+  {
+    "word": "screenplay",
+    "lemma": "screenplay",
+    "ipa": "/ˈskrinˌpleɪ/",
+    "pos": "noun",
+    "tr": "сценарий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple screenplay.",
+        "ru": "Простого сценария не было."
+      },
+      {
+        "en": "Critics mocked the screenplay.",
+        "ru": "Критики высмеяли сценарий."
+      },
+      {
+        "en": "We need a working definition of screenplay.",
+        "ru": "Нам нужно рабочее определение сценария."
+      }
+    ],
+    "colloc": "clear screenplay · screenplay of"
+  },
+  {
+    "word": "screenwriter",
+    "lemma": "screenwriter",
+    "ipa": "/ˈskrinˌraɪtər/",
+    "pos": "noun",
+    "tr": "сценарист",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple screenwriter.",
+        "ru": "Простого сценариста не было."
+      },
+      {
+        "en": "Critics mocked the screenwriter.",
+        "ru": "Критики высмеяли сценариста."
+      },
+      {
+        "en": "We need a working definition of screenwriter.",
+        "ru": "Нам нужно рабочее определение сценариста."
+      }
+    ],
+    "colloc": "the screenwriter · address the screenwriter"
+  },
+  {
+    "word": "sedate",
+    "lemma": "sedate",
+    "ipa": "/sɪˈdeɪt/",
+    "pos": "verb",
+    "tr": "успокоить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers sedate resources each week.",
+        "ru": "Менеджеры успокаивают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to sedate too quickly.",
+        "ru": "Он слишком быстро успокаивается."
+      },
+      {
+        "en": "They sedate only after a full review.",
+        "ru": "Они успокоились только после полного обзора."
+      }
+    ],
+    "colloc": "sedate carefully · refuse to sedate",
+    "pattern": "sedate (+ prep)"
+  },
+  {
+    "word": "sedately",
+    "lemma": "sedately",
+    "ipa": "/sɪˈdeɪtli/",
+    "pos": "adv",
+    "tr": "успокаивающий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample sedately.",
+        "ru": "Успокойся с образцом."
+      },
+      {
+        "en": "Support arrived sedately.",
+        "ru": "Поддержка пришла спокойно."
+      },
+      {
+        "en": "The plan failed sedately.",
+        "ru": "План провалился успокаивающе."
+      }
+    ],
+    "colloc": "speak sedately · sedately"
+  },
+  {
+    "word": "sedentary",
+    "lemma": "sedentary",
+    "ipa": "/ˈsɛdənˌtɛri/",
+    "pos": "adj",
+    "tr": "сидячий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A sedentary approach may help.",
+        "ru": "Сидячий подход может помочь."
+      },
+      {
+        "en": "His answer sounded sedentary.",
+        "ru": "Его ответ звучал оседло."
+      },
+      {
+        "en": "Avoid sedentary claims without proof.",
+        "ru": "Избегайте сидячих заявлений без доказательств."
+      }
+    ],
+    "colloc": "highly sedentary · sedentary result"
+  },
+  {
+    "word": "seedling",
+    "lemma": "seedling",
+    "ipa": "/ˈsidlɪŋ/",
+    "pos": "noun",
+    "tr": "саженец",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple seedling.",
+        "ru": "Простого саженца не было."
+      },
+      {
+        "en": "Critics mocked the seedling.",
+        "ru": "Критики высмеяли саженец."
+      },
+      {
+        "en": "We need a working definition of seedling.",
+        "ru": "Нам нужно рабочее определение саженца."
+      }
+    ],
+    "colloc": "the seedling · seedling of"
+  },
+  {
+    "word": "self-conscious",
+    "lemma": "self-conscious",
+    "ipa": "/ˌsɛlfˈkɑnʃəs/",
+    "pos": "adj",
+    "tr": "сознательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly self-conscious.",
+        "ru": "Доказательства вряд ли застенчивы."
+      },
+      {
+        "en": "She remained self-conscious under stress.",
+        "ru": "Она оставалась застенчивой в стрессе."
+      },
+      {
+        "en": "Results looked only self-conscious.",
+        "ru": "Результаты выглядели просто застенчивыми."
+      }
+    ],
+    "colloc": "self-conscious tone · remain self-conscious"
+  },
+  {
+    "word": "self-worth",
+    "lemma": "self-worth",
+    "ipa": "/self-worth/",
+    "pos": "noun",
+    "tr": "самооценка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one self-worth.",
+        "ru": "Ее карьера перевернулась на одну самооценку."
+      },
+      {
+        "en": "Public debate ignored the self-worth.",
+        "ru": "Общественные дебаты игнорировали самооценку."
+      },
+      {
+        "en": "Document every self-worth in the log.",
+        "ru": "Документируйте каждую самооценку в журнале."
+      }
+    ],
+    "colloc": "the self-worth · address the self-worth"
+  },
+  {
+    "word": "sentient",
+    "lemma": "sentient",
+    "ipa": "/sentient/",
+    "pos": "adj",
+    "tr": "разумный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly sentient.",
+        "ru": "Доказательства едва ли разумны."
+      },
+      {
+        "en": "She remained sentient under stress.",
+        "ru": "Она оставалась разумной в стрессе."
+      },
+      {
+        "en": "Results looked only sentient.",
+        "ru": "Результаты выглядели только разумными."
+      }
+    ],
+    "colloc": "sentient approach · sentient result"
+  },
+  {
+    "word": "sentimental",
+    "lemma": "sentimental",
+    "ipa": "/ˌsɛnəˈmɛnəl/",
+    "pos": "adj",
+    "tr": "чувственный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a sentimental strategy.",
+        "ru": "Это была сентиментальная стратегия."
+      },
+      {
+        "en": "The tone grew sentimental.",
+        "ru": "Тон стал сентиментальным."
+      },
+      {
+        "en": "They rejected the sentimental proposal.",
+        "ru": "Они отвергли сентиментальное предложение."
+      }
+    ],
+    "colloc": "sentimental tone · sentimental result"
+  },
+  {
+    "word": "sentimentally",
+    "lemma": "sentimentally",
+    "ipa": "/sentimentally/",
+    "pos": "adv",
+    "tr": "чувственно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample sentimentally.",
+        "ru": "Смысл его в том, чтобы стереть с лица земли."
+      },
+      {
+        "en": "Support arrived sentimentally.",
+        "ru": "Поддержка пришла сентиментально."
+      },
+      {
+        "en": "The plan failed sentimentally.",
+        "ru": "План провалился сентиментально."
+      }
+    ],
+    "colloc": "respond sentimentally · sentimentally"
+  },
+  {
+    "word": "sequel",
+    "lemma": "sequel",
+    "ipa": "/ˈsikwəl/",
+    "pos": "noun",
+    "tr": "продолжение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the sequel closely.",
+        "ru": "Исследователям удалось рассмотреть сиквел."
+      },
+      {
+        "en": "The sequel shaped the final decision.",
+        "ru": "Сиквел сформировал окончательное решение."
+      },
+      {
+        "en": "Without the sequel, the argument collapses.",
+        "ru": "Без сиквела аргумент рухнет."
+      }
+    ],
+    "colloc": "the sequel · sequel of"
+  },
+  {
+    "word": "settee",
+    "lemma": "settee",
+    "ipa": "/settee/",
+    "pos": "noun",
+    "tr": "дирижер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple settee.",
+        "ru": "Не было простого сета."
+      },
+      {
+        "en": "Critics mocked the settee.",
+        "ru": "Критики высмеивали сетти."
+      },
+      {
+        "en": "We need a working definition of settee.",
+        "ru": "Нам нужно рабочее определение набора."
+      }
+    ],
+    "colloc": "clear settee · address the settee"
+  },
+  {
+    "word": "shambles",
+    "lemma": "shambles",
+    "ipa": "/ˈʃæmbəlz/",
+    "pos": "noun",
+    "tr": "хлам",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the shambles.",
+        "ru": "Они недооценили пробелы."
+      },
+      {
+        "en": "A clear shambles emerged from the data.",
+        "ru": "Из данных образовалась явная путаница."
+      },
+      {
+        "en": "Address the shambles before it grows.",
+        "ru": "Обращайтесь к руинам, прежде чем они вырастут."
+      }
+    ],
+    "colloc": "the shambles · address the shambles"
+  },
+  {
+    "word": "shortlist",
+    "lemma": "shortlist",
+    "ipa": "/shortlist/",
+    "pos": "verb",
+    "tr": "в шорт-лист",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers shortlist resources each week.",
+        "ru": "Менеджеры перечисляют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to shortlist too quickly.",
+        "ru": "Он слишком быстро сокращает список."
+      },
+      {
+        "en": "They shortlist only after a full review.",
+        "ru": "Они попадают в шорт-лист только после полного обзора."
+      }
+    ],
+    "colloc": "shortlist the claim · shortlist + N",
+    "pattern": "shortlist + N"
+  },
+  {
+    "word": "showy",
+    "lemma": "showy",
+    "ipa": "/ʃoʊi/",
+    "pos": "adj",
+    "tr": "демонический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A showy approach may help.",
+        "ru": "Показной подход может помочь."
+      },
+      {
+        "en": "His answer sounded showy.",
+        "ru": "Его ответ прозвучал эффектно."
+      },
+      {
+        "en": "Avoid showy claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "showy approach · remain showy"
+  },
+  {
+    "word": "signal",
+    "lemma": "signal",
+    "ipa": "/ˈsɪgnəl/",
+    "pos": "verb",
+    "tr": "сигнализировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers signal resources each week.",
+        "ru": "Менеджеры подают сигналы каждую неделю."
+      },
+      {
+        "en": "He tends to signal too quickly.",
+        "ru": "Он слишком быстро сигнализирует."
+      },
+      {
+        "en": "They signal only after a full review.",
+        "ru": "Они подают сигнал только после полного обзора."
+      }
+    ],
+    "colloc": "signal carefully · refuse to signal",
+    "pattern": "signal + N"
+  },
+  {
+    "word": "silhouette",
+    "lemma": "silhouette",
+    "ipa": "/ˌsɪləˈwɛt/",
+    "pos": "noun",
+    "tr": "силуэт",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the silhouette closely.",
+        "ru": "Исследователи внимательно изучили силуэт."
+      },
+      {
+        "en": "The silhouette shaped the final decision.",
+        "ru": "Силуэт сформировал окончательное решение."
+      },
+      {
+        "en": "Without the silhouette, the argument collapses.",
+        "ru": "Без силуэта аргумент рухнет."
+      }
+    ],
+    "colloc": "clear silhouette · address the silhouette"
+  },
+  {
+    "word": "simplicity",
+    "lemma": "simplicity",
+    "ipa": "/sɪmˈplɪsɪti/",
+    "pos": "noun",
+    "tr": "простота",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one simplicity.",
+        "ru": "Ее карьера обернулась одной простотой."
+      },
+      {
+        "en": "Public debate ignored the simplicity.",
+        "ru": "Общественные дебаты проигнорировали простоту."
+      },
+      {
+        "en": "Document every simplicity in the log.",
+        "ru": "Документируйте каждую простоту в журнале."
+      }
+    ],
+    "colloc": "clear simplicity · simplicity of"
+  },
+  {
+    "word": "simultaneously",
+    "lemma": "simultaneously",
+    "ipa": "/ˌsaɪməlˈteɪniəsli/",
+    "pos": "adv",
+    "tr": "одновременно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued simultaneously for reform.",
+        "ru": "Одновременно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied simultaneously.",
+        "ru": "Правило применялось одновременно."
+      },
+      {
+        "en": "Costs rose simultaneously last year.",
+        "ru": "В прошлом году расходы выросли одновременно."
+      }
+    ],
+    "colloc": "speak simultaneously · simultaneously"
+  },
+  {
+    "word": "sketchbook",
+    "lemma": "sketchbook",
+    "ipa": "/ˈskɛʧˌbʊk/",
+    "pos": "noun",
+    "tr": "Скетчбук",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the sketchbook.",
+        "ru": "Они недооценили книгу."
+      },
+      {
+        "en": "A clear sketchbook emerged from the data.",
+        "ru": "Из данных вышел четкий скетчбук."
+      },
+      {
+        "en": "Address the sketchbook before it grows.",
+        "ru": "Обратитесь к скетчбуку, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear sketchbook · sketchbook of"
+  },
+  {
+    "word": "slack",
+    "lemma": "slack",
+    "ipa": "/slæk/",
+    "pos": "verb",
+    "tr": "чтобы расслабиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to slack with precision.",
+        "ru": "Она научилась работать с точностью."
+      },
+      {
+        "en": "We will slack the policy next quarter.",
+        "ru": "Мы ослабим политику в следующем квартале."
+      },
+      {
+        "en": "Critics slack the choice harshly.",
+        "ru": "Критики резко отбрасывают выбор."
+      }
+    ],
+    "colloc": "slack carefully · refuse to slack",
+    "pattern": "slack + to-INF"
+  },
+  {
+    "word": "slackly",
+    "lemma": "slackly",
+    "ipa": "/slackly/",
+    "pos": "adv",
+    "tr": "небрежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample slackly.",
+        "ru": "Отнеситесь к выборке небрежно."
+      },
+      {
+        "en": "Support arrived slackly.",
+        "ru": "Поддержка прибыла вяло."
+      },
+      {
+        "en": "The plan failed slackly.",
+        "ru": "План провалился вяло."
+      }
+    ],
+    "colloc": "respond slackly · slackly"
+  },
+  {
+    "word": "slob",
+    "lemma": "slob",
+    "ipa": "/slɑb/",
+    "pos": "noun",
+    "tr": "неряха",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the slob.",
+        "ru": "Они недооценили слюну."
+      },
+      {
+        "en": "A clear slob emerged from the data.",
+        "ru": "Из данных выплыл явный порыв."
+      },
+      {
+        "en": "Address the slob before it grows.",
+        "ru": "Обращайтесь к слюне, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear slob · slob of"
+  },
+  {
+    "word": "smug",
+    "lemma": "smug",
+    "ipa": "/sməg/",
+    "pos": "adj",
+    "tr": "самодовольный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less smug option.",
+        "ru": "Выберите менее самодовольный вариант."
+      },
+      {
+        "en": "The design feels smug.",
+        "ru": "Дизайн кажется самодовольным."
+      },
+      {
+        "en": "A smug policy risks backlash.",
+        "ru": "Самодовольная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly smug · smug result"
+  },
+  {
+    "word": "smugly",
+    "lemma": "smugly",
+    "ipa": "/sˈməgli/",
+    "pos": "adv",
+    "tr": "самодовольно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued smugly for reform.",
+        "ru": "Он самодовольно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied smugly.",
+        "ru": "Правило применялось самодовольно."
+      },
+      {
+        "en": "Costs rose smugly last year.",
+        "ru": "В прошлом году цены выросли самодовольно."
+      }
+    ],
+    "colloc": "respond smugly · smugly"
+  },
+  {
+    "word": "snail",
+    "lemma": "snail",
+    "ipa": "/sneɪl/",
+    "pos": "noun",
+    "tr": "улитка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple snail.",
+        "ru": "Не было простой улитки."
+      },
+      {
+        "en": "Critics mocked the snail.",
+        "ru": "Критики издевались над улиткой."
+      },
+      {
+        "en": "We need a working definition of snail.",
+        "ru": "Нам нужно рабочее определение улитки."
+      }
+    ],
+    "colloc": "clear snail · address the snail"
+  },
+  {
+    "word": "snooze",
+    "lemma": "snooze",
+    "ipa": "/snuz/",
+    "pos": "verb",
+    "tr": "дрочить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please snooze the proposal carefully.",
+        "ru": "Пожалуйста, внимательно следите за предложением."
+      },
+      {
+        "en": "They refuse to snooze without evidence.",
+        "ru": "Они отказываются нырять без доказательств."
+      },
+      {
+        "en": "Leaders must snooze when stakes are high.",
+        "ru": "Лидеры должны дрожать, когда ставки высоки."
+      }
+    ],
+    "colloc": "snooze pressure · snooze + N",
+    "pattern": "snooze + to-INF"
+  },
+  {
+    "word": "socialization",
+    "lemma": "socialization",
+    "ipa": "/ˌsoʊʃəlɪˈzeɪʃən/",
+    "pos": "noun",
+    "tr": "социализация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking socialization.",
+        "ru": "В докладе приводится поразительная социализация."
+      },
+      {
+        "en": "Funding hinges on this socialization.",
+        "ru": "Финансирование зависит от этой социализации."
+      },
+      {
+        "en": "Students often confuse socialization with related terms.",
+        "ru": "Студенты часто путают социализацию с родственными терминами."
+      }
+    ],
+    "colloc": "clear socialization · address the socialization"
+  },
+  {
+    "word": "solely",
+    "lemma": "solely",
+    "ipa": "/ˈsoʊəli/",
+    "pos": "adv",
+    "tr": "исключительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued solely for reform.",
+        "ru": "Он выступал исключительно за реформы."
+      },
+      {
+        "en": "The rule was applied solely.",
+        "ru": "Правило применялось исключительно."
+      },
+      {
+        "en": "Costs rose solely last year.",
+        "ru": "Затраты выросли только в прошлом году."
+      }
+    ],
+    "colloc": "speak solely · solely"
+  },
+  {
+    "word": "somersault",
+    "lemma": "somersault",
+    "ipa": "/ˈsəmərˌsɔlt/",
+    "pos": "noun",
+    "tr": "сальто",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the somersault.",
+        "ru": "Они недооценили сальто."
+      },
+      {
+        "en": "A clear somersault emerged from the data.",
+        "ru": "Явный сальто возник из данных."
+      },
+      {
+        "en": "Address the somersault before it grows.",
+        "ru": "Обратись к сальто, пока оно не выросло."
+      }
+    ],
+    "colloc": "clear somersault · address the somersault"
+  },
+  {
+    "word": "spacious",
+    "lemma": "spacious",
+    "ipa": "/ˈspeɪʃəs/",
+    "pos": "adj",
+    "tr": "просторный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a spacious strategy.",
+        "ru": "Это была просторная стратегия."
+      },
+      {
+        "en": "The tone grew spacious.",
+        "ru": "Тон стал просторным."
+      },
+      {
+        "en": "They rejected the spacious proposal.",
+        "ru": "Они отвергли просторное предложение."
+      }
+    ],
+    "colloc": "spacious tone · remain spacious"
+  },
+  {
+    "word": "span",
+    "lemma": "span",
+    "ipa": "/spæn/",
+    "pos": "verb",
+    "tr": "Продолжить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers span resources each week.",
+        "ru": "Менеджеры распределяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to span too quickly.",
+        "ru": "Он, как правило, пролетает слишком быстро."
+      },
+      {
+        "en": "They span only after a full review.",
+        "ru": "Они охватывают только после полного обзора."
+      }
+    ],
+    "colloc": "span carefully · span + N",
+    "pattern": "span + to-INF"
+  },
+  {
+    "word": "spark",
+    "lemma": "spark",
+    "ipa": "/spɑrk/",
+    "pos": "verb",
+    "tr": "искра",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to spark with precision.",
+        "ru": "Она научилась искриться с точностью."
+      },
+      {
+        "en": "We will spark the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics spark the choice harshly.",
+        "ru": "Критики резко разжигают выбор."
+      }
+    ],
+    "colloc": "spark carefully · refuse to spark",
+    "pattern": "spark + that"
+  }
+]

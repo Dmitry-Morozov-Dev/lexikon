@@ -1,0 +1,2326 @@
+[
+  {
+    "word": "aberration",
+    "lemma": "aberration",
+    "ipa": "/ˌæbərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "аномалия; отклонение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The result was a statistical aberration.",
+        "ru": "Результат был статистической аномалией."
+      },
+      {
+        "en": "Call it a one-time aberration.",
+        "ru": "Назови это разовым отклонением."
+      },
+      {
+        "en": "Such cruelty is an aberration, not the norm.",
+        "ru": "Такая жестокость — аномалия, а не норма."
+      }
+    ],
+    "colloc": "statistical aberration · temporary aberration"
+  },
+  {
+    "word": "abhor",
+    "lemma": "abhor",
+    "ipa": "/æˈbhɔr/",
+    "pos": "verb",
+    "tr": "ненавидеть; питать отвращение",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "I abhor senseless violence.",
+        "ru": "Я ненавижу бессмысленное насилие."
+      },
+      {
+        "en": "She abhors hypocrisy in politics.",
+        "ru": "Она питает отвращение к лицемерию в политике."
+      },
+      {
+        "en": "We abhor any form of discrimination.",
+        "ru": "Мы ненавидим любую форму дискриминации."
+      }
+    ],
+    "colloc": "abhor violence · abhor hypocrisy",
+    "pattern": "abhor + N"
+  },
+  {
+    "word": "abhorrent",
+    "lemma": "abhorrent",
+    "ipa": "/æˈbhɔrənt/",
+    "pos": "adj",
+    "tr": "отвратительный; ненавистный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The practice is morally abhorrent.",
+        "ru": "Эта практика морально отвратительна."
+      },
+      {
+        "en": "Abhorrent views have no place here.",
+        "ru": "Отвратительным взглядам здесь нет места."
+      },
+      {
+        "en": "He found the suggestion abhorrent.",
+        "ru": "Он счёл предложение отвратительным."
+      }
+    ],
+    "colloc": "morally abhorrent · abhorrent to"
+  },
+  {
+    "word": "abhorrently",
+    "lemma": "abhorrently",
+    "ipa": "/abhorrently/",
+    "pos": "adv",
+    "tr": "отвратительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They behaved abhorrently toward staff.",
+        "ru": "Они отвратительно вели себя с персоналом."
+      },
+      {
+        "en": "The law was abhorrently unfair.",
+        "ru": "Закон был отвратительно несправедлив."
+      },
+      {
+        "en": "She spoke abhorrently of rivals.",
+        "ru": "Она отвратительно отзывалась о соперниках."
+      }
+    ],
+    "colloc": "behave abhorrently"
+  },
+  {
+    "word": "abject",
+    "lemma": "abject",
+    "ipa": "/ˈæbʤɛkt/",
+    "pos": "adj",
+    "tr": "жалкий; полный (о нищете, страхе)",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "They lived in abject poverty.",
+        "ru": "Они жили в крайней нищете."
+      },
+      {
+        "en": "His apology was abject and sincere.",
+        "ru": "Его извинение было жалким и искренним."
+      },
+      {
+        "en": "Abject failure forced a redesign.",
+        "ru": "Полный провал заставил переделать проект."
+      }
+    ],
+    "colloc": "abject poverty · abject failure",
+    "note": "часто с poverty/fear/failure"
+  },
+  {
+    "word": "aboard",
+    "lemma": "aboard",
+    "ipa": "/əˈbɔrd/",
+    "pos": "prep",
+    "tr": "на борту; на (транспорт)",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Welcome aboard the flight.",
+        "ru": "Добро пожаловать на борт рейса."
+      },
+      {
+        "en": "All passengers are safely aboard.",
+        "ru": "Все пассажиры благополучно на борту."
+      },
+      {
+        "en": "She climbed aboard the bus.",
+        "ru": "Она села в автобус."
+      }
+    ],
+    "colloc": "welcome aboard · climb aboard"
+  },
+  {
+    "word": "abound",
+    "lemma": "abound",
+    "ipa": "/əˈbaʊnd/",
+    "pos": "verb",
+    "tr": "изобиловать; быть в изобилии",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Ideas abound in the early draft.",
+        "ru": "В раннем черновике идей в изобилии."
+      },
+      {
+        "en": "Errors abound when you rush.",
+        "ru": "Ошибок становится много, когда спешишь."
+      },
+      {
+        "en": "Wildlife abounds in the reserve.",
+        "ru": "В заповеднике изобилие дикой природы."
+      }
+    ],
+    "colloc": "abound in/with · rumors abound",
+    "pattern": "abound in/with + N"
+  },
+  {
+    "word": "abstraction",
+    "lemma": "abstraction",
+    "ipa": "/æbˈstrækʃən/",
+    "pos": "noun",
+    "tr": "абстракция; отвлечение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The theory stays at a high level of abstraction.",
+        "ru": "Теория остаётся на высоком уровне абстракции."
+      },
+      {
+        "en": "Art can move from realism to abstraction.",
+        "ru": "Искусство может идти от реализма к абстракции."
+      },
+      {
+        "en": "Avoid useless abstraction in the brief.",
+        "ru": "Избегай бесполезной абстракции в брифе."
+      }
+    ],
+    "colloc": "level of abstraction · pure abstraction"
+  },
+  {
+    "word": "abundance",
+    "lemma": "abundance",
+    "ipa": "/əˈbəndəns/",
+    "pos": "noun",
+    "tr": "изобилие; избыток",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There is an abundance of evidence.",
+        "ru": "Есть изобилие доказательств."
+      },
+      {
+        "en": "The garden grew in abundance this year.",
+        "ru": "Сад в этом году дал урожай в изобилии."
+      },
+      {
+        "en": "We have an abundance of skilled staff.",
+        "ru": "У нас избыток квалифицированных сотрудников."
+      }
+    ],
+    "colloc": "abundance of · in abundance"
+  },
+  {
+    "word": "abundant",
+    "lemma": "abundant",
+    "ipa": "/əˈbəndənt/",
+    "pos": "adj",
+    "tr": "обильный; изобильный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Rainfall was abundant this spring.",
+        "ru": "Этой весной осадков было обильно."
+      },
+      {
+        "en": "Abundant data supports the claim.",
+        "ru": "Обильные данные подтверждают утверждение."
+      },
+      {
+        "en": "The region has abundant natural resources.",
+        "ru": "В регионе обильные природные ресурсы."
+      }
+    ],
+    "colloc": "abundant evidence · abundant resources"
+  },
+  {
+    "word": "abundantly",
+    "lemma": "abundantly",
+    "ipa": "/əˈbəndəntli/",
+    "pos": "adv",
+    "tr": "обильно; в полной мере",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "It is abundantly clear that we failed.",
+        "ru": "Совершенно ясно, что мы провалились."
+      },
+      {
+        "en": "The trees fruited abundantly.",
+        "ru": "Деревья обильно плодоносили."
+      },
+      {
+        "en": "She made her point abundantly.",
+        "ru": "Она с избытком донесла свою мысль."
+      }
+    ],
+    "colloc": "abundantly clear · produce abundantly"
+  },
+  {
+    "word": "accessibility",
+    "lemma": "accessibility",
+    "ipa": "/ˌæksɛsəˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "доступность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "We improved the site's accessibility.",
+        "ru": "Мы улучшили доступность сайта."
+      },
+      {
+        "en": "Accessibility matters for every user.",
+        "ru": "Доступность важна для каждого пользователя."
+      },
+      {
+        "en": "Check wheelchair accessibility first.",
+        "ru": "Сначала проверь доступность для инвалидных колясок."
+      }
+    ],
+    "colloc": "improve accessibility · wheelchair accessibility"
+  },
+  {
+    "word": "accrue",
+    "lemma": "accrue",
+    "ipa": "/əˈkru/",
+    "pos": "verb",
+    "tr": "накапливаться; начисляться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Interest will accrue daily.",
+        "ru": "Проценты будут начисляться ежедневно."
+      },
+      {
+        "en": "Benefits accrue over years of service.",
+        "ru": "Льготы накапливаются за годы службы."
+      },
+      {
+        "en": "Costs accrued faster than expected.",
+        "ru": "Затраты накапливались быстрее, чем ждали."
+      }
+    ],
+    "colloc": "interest accrues · accrue benefits",
+    "pattern": "accrue (to)"
+  },
+  {
+    "word": "accustomed",
+    "lemma": "accustomed",
+    "ipa": "/əˈkəstəmd/",
+    "pos": "adj",
+    "tr": "привыкший; обычный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "She is accustomed to early meetings.",
+        "ru": "Она привыкла к ранним встречам."
+      },
+      {
+        "en": "We grew accustomed to the noise.",
+        "ru": "Мы привыкли к шуму."
+      },
+      {
+        "en": "He took his accustomed seat.",
+        "ru": "Он занял своё обычное место."
+      }
+    ],
+    "colloc": "accustomed to · grow accustomed"
+  },
+  {
+    "word": "acidic",
+    "lemma": "acidic",
+    "ipa": "/əˈsɪdɪk/",
+    "pos": "adj",
+    "tr": "кислотный; кислый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The soil is too acidic for roses.",
+        "ru": "Почва слишком кислая для роз."
+      },
+      {
+        "en": "Acidic foods can bother your stomach.",
+        "ru": "Кислая еда может раздражать желудок."
+      },
+      {
+        "en": "The tone of the review was acidic.",
+        "ru": "Тон рецензии был язвительным."
+      }
+    ],
+    "colloc": "acidic soil · acidic tone"
+  },
+  {
+    "word": "acoustic",
+    "lemma": "acoustic",
+    "ipa": "/əˈkustɪk/",
+    "pos": "adj",
+    "tr": "акустический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "They played an acoustic set.",
+        "ru": "Они сыграли акустический сет."
+      },
+      {
+        "en": "The hall has excellent acoustic properties.",
+        "ru": "У зала отличные акустические свойства."
+      },
+      {
+        "en": "I prefer the acoustic version.",
+        "ru": "Я предпочитаю акустическую версию."
+      }
+    ],
+    "colloc": "acoustic guitar · acoustic properties"
+  },
+  {
+    "word": "acoustically",
+    "lemma": "acoustically",
+    "ipa": "/əˈkustɪkli/",
+    "pos": "adv",
+    "tr": "в акустическом плане",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The room is acoustically treated.",
+        "ru": "Комната обработана в акустическом плане."
+      },
+      {
+        "en": "Acoustically, the venue is perfect.",
+        "ru": "С точки зрения акустики площадка идеальна."
+      },
+      {
+        "en": "The track was recorded acoustically.",
+        "ru": "Трек записали акустически."
+      }
+    ],
+    "colloc": "acoustically treated"
+  },
+  {
+    "word": "acoustics",
+    "lemma": "acoustics",
+    "ipa": "/əˈkustɪks/",
+    "pos": "noun",
+    "tr": "акустика",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The acoustics in this theater are superb.",
+        "ru": "Акустика в этом театре превосходна."
+      },
+      {
+        "en": "Poor acoustics ruined the recording.",
+        "ru": "Плохая акустика испортила запись."
+      },
+      {
+        "en": "They studied architectural acoustics.",
+        "ru": "Они изучали архитектурную акустику."
+      }
+    ],
+    "colloc": "good acoustics · room acoustics"
+  },
+  {
+    "word": "acreage",
+    "lemma": "acreage",
+    "ipa": "/ˈeɪkərɪʤ/",
+    "pos": "noun",
+    "tr": "площадь в акрах; землевладение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The farm has significant acreage.",
+        "ru": "У фермы значительная площадь."
+      },
+      {
+        "en": "Developers bought the remaining acreage.",
+        "ru": "Застройщики купили оставшиеся земли."
+      },
+      {
+        "en": "What is the total acreage of the park?",
+        "ru": "Какова общая площадь парка в акрах?"
+      }
+    ],
+    "colloc": "total acreage · vast acreage"
+  },
+  {
+    "word": "acrobatic",
+    "lemma": "acrobatic",
+    "ipa": "/ˌækrəˈbætɪk/",
+    "pos": "adj",
+    "tr": "акробатический; ловкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The dancers performed acrobatic moves.",
+        "ru": "Танцоры выполнили акробатические движения."
+      },
+      {
+        "en": "An acrobatic catch won the game.",
+        "ru": "Акробатическая ловля выиграла матч."
+      },
+      {
+        "en": "She has an acrobatic style on stage.",
+        "ru": "У неё акробатический стиль на сцене."
+      }
+    ],
+    "colloc": "acrobatic feat · acrobatic move"
+  },
+  {
+    "word": "acrobatically",
+    "lemma": "acrobatically",
+    "ipa": "/acrobatically/",
+    "pos": "adv",
+    "tr": "акробатически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He leaped acrobatically over the barrier.",
+        "ru": "Он акробатически перепрыгнул барьер."
+      },
+      {
+        "en": "The cat landed acrobatically.",
+        "ru": "Кошка акробатически приземлилась."
+      },
+      {
+        "en": "She twisted acrobatically in midair.",
+        "ru": "Она акробатически крутанулась в воздухе."
+      }
+    ],
+    "colloc": "leap acrobatically"
+  },
+  {
+    "word": "acrobatics",
+    "lemma": "acrobatics",
+    "ipa": "/ˌækrəˈbætɪks/",
+    "pos": "noun",
+    "tr": "акробатика",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Aerial acrobatics amazed the crowd.",
+        "ru": "Воздушная акробатика поразила толпу."
+      },
+      {
+        "en": "He trained in circus acrobatics.",
+        "ru": "Он тренировался в цирковой акробатике."
+      },
+      {
+        "en": "Political acrobatics won't fix the budget.",
+        "ru": "Политическая акробатика бюджет не спасёт."
+      }
+    ],
+    "colloc": "aerial acrobatics · verbal acrobatics"
+  },
+  {
+    "word": "acutely",
+    "lemma": "acutely",
+    "ipa": "/əˈkjutli/",
+    "pos": "adv",
+    "tr": "остро; крайне",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She was acutely aware of the risk.",
+        "ru": "Она остро осознавала риск."
+      },
+      {
+        "en": "The shortage is acutely felt.",
+        "ru": "Нехватку ощущают особенно остро."
+      },
+      {
+        "en": "He felt acutely embarrassed.",
+        "ru": "Ему было крайне неловко."
+      }
+    ],
+    "colloc": "acutely aware · feel acutely"
+  },
+  {
+    "word": "ad-lib",
+    "lemma": "ad-lib",
+    "ipa": "/ˈæˈdlɪb/",
+    "pos": "verb",
+    "tr": "импровизировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "The host had to ad-lib when the feed failed.",
+        "ru": "Ведущему пришлось импровизировать, когда пропал эфир."
+      },
+      {
+        "en": "Don't ad-lib during the formal speech.",
+        "ru": "Не импровизируй во время официальной речи."
+      },
+      {
+        "en": "She ad-libbed a witty reply.",
+        "ru": "Она экспромтом выдала остроумный ответ."
+      }
+    ],
+    "colloc": "ad-lib a line · ad-lib on stage",
+    "pattern": "ad-lib (+ N)"
+  },
+  {
+    "word": "additive",
+    "lemma": "additive",
+    "ipa": "/ˈædɪtɪv/",
+    "pos": "noun",
+    "tr": "добавка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Check the food for artificial additives.",
+        "ru": "Проверь еду на искусственные добавки."
+      },
+      {
+        "en": "This fuel additive improves efficiency.",
+        "ru": "Эта топливная добавка повышает КПД."
+      },
+      {
+        "en": "Some additives trigger allergies.",
+        "ru": "Некоторые добавки вызывают аллергию."
+      }
+    ],
+    "colloc": "food additive · chemical additive"
+  },
+  {
+    "word": "adept",
+    "lemma": "adept",
+    "ipa": "/əˈdɛpt/",
+    "pos": "adj",
+    "tr": "искусный; умелый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "She is adept at negotiation.",
+        "ru": "Она искусна в переговорах."
+      },
+      {
+        "en": "An adept analyst spotted the flaw.",
+        "ru": "Умелый аналитик заметил изъян."
+      },
+      {
+        "en": "He became adept with the new tools.",
+        "ru": "Он стал умело работать с новыми инструментами."
+      }
+    ],
+    "colloc": "adept at · become adept"
+  },
+  {
+    "word": "adhesion",
+    "lemma": "adhesion",
+    "ipa": "/æˈdhiʒən/",
+    "pos": "noun",
+    "tr": "адгезия; прилипание; приверженность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Poor adhesion caused the paint to peel.",
+        "ru": "Плохая адгезия заставила краску отслаиваться."
+      },
+      {
+        "en": "Cell adhesion is vital in biology.",
+        "ru": "Клеточная адгезия важна в биологии."
+      },
+      {
+        "en": "Their adhesion to the treaty held.",
+        "ru": "Их приверженность договору сохранилась."
+      }
+    ],
+    "colloc": "poor adhesion · adhesion to"
+  },
+  {
+    "word": "adjoin",
+    "lemma": "adjoin",
+    "ipa": "/əˈʤɔɪn/",
+    "pos": "verb",
+    "tr": "примыкать; граничить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Our yard adjoins the park.",
+        "ru": "Наш двор примыкает к парку."
+      },
+      {
+        "en": "Two offices adjoin along the hall.",
+        "ru": "Два офиса примыкают вдоль коридора."
+      },
+      {
+        "en": "The wing adjoins the main building.",
+        "ru": "Флигель примыкает к главному зданию."
+      }
+    ],
+    "colloc": "adjoin the property",
+    "pattern": "adjoin + N"
+  },
+  {
+    "word": "adjoining",
+    "lemma": "adjoining",
+    "ipa": "/əˈʤɔɪnɪŋ/",
+    "pos": "adj",
+    "tr": "соседний; примыкающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "We booked adjoining rooms.",
+        "ru": "Мы забронировали смежные номера."
+      },
+      {
+        "en": "Noise came from the adjoining office.",
+        "ru": "Шум шёл из соседнего офиса."
+      },
+      {
+        "en": "An adjoining lot is for sale.",
+        "ru": "Примыкающий участок продаётся."
+      }
+    ],
+    "colloc": "adjoining rooms · adjoining property"
+  },
+  {
+    "word": "adjustable",
+    "lemma": "adjustable",
+    "ipa": "/əˈʤəstəbəl/",
+    "pos": "adj",
+    "tr": "регулируемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Buy an adjustable desk chair.",
+        "ru": "Купи регулируемый офисный стул."
+      },
+      {
+        "en": "The strap is fully adjustable.",
+        "ru": "Ремень полностью регулируется."
+      },
+      {
+        "en": "Adjustable rates can rise quickly.",
+        "ru": "Регулируемые ставки могут быстро вырасти."
+      }
+    ],
+    "colloc": "adjustable rate · fully adjustable"
+  },
+  {
+    "word": "administrate",
+    "lemma": "administrate",
+    "ipa": "/ædˈmɪnɪˌstreɪt/",
+    "pos": "verb",
+    "tr": "администрировать; управлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Who will administrate the grant?",
+        "ru": "Кто будет администрировать грант?"
+      },
+      {
+        "en": "She administrates several programs.",
+        "ru": "Она администрирует несколько программ."
+      },
+      {
+        "en": "The board asked him to administrate carefully.",
+        "ru": "Совет попросил его аккуратно управлять."
+      }
+    ],
+    "colloc": "administrate a program",
+    "note": "чаще: administer",
+    "pattern": "administrate + N"
+  },
+  {
+    "word": "adorn",
+    "lemma": "adorn",
+    "ipa": "/əˈdɔrn/",
+    "pos": "verb",
+    "tr": "украшать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Flowers adorned the table.",
+        "ru": "Цветы украшали стол."
+      },
+      {
+        "en": "She adorned the gift with a ribbon.",
+        "ru": "Она украсила подарок лентой."
+      },
+      {
+        "en": "Statues adorn the plaza.",
+        "ru": "Статуи украшают площадь."
+      }
+    ],
+    "colloc": "adorn with · richly adorned",
+    "pattern": "adorn (+ with)"
+  },
+  {
+    "word": "adornment",
+    "lemma": "adornment",
+    "ipa": "/əˈdɔrnmənt/",
+    "pos": "noun",
+    "tr": "украшение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The dress needed no further adornment.",
+        "ru": "Платью не нужны были дополнительные украшения."
+      },
+      {
+        "en": "Simple adornment can elevate a room.",
+        "ru": "Простое убранство может преобразить комнату."
+      },
+      {
+        "en": "Avoid excessive adornment in formal writing.",
+        "ru": "Избегай излишних украшений в официальном письме."
+      }
+    ],
+    "colloc": "personal adornment · without adornment"
+  },
+  {
+    "word": "adrenaline",
+    "lemma": "adrenaline",
+    "ipa": "/əˈdrɛnələn/",
+    "pos": "noun",
+    "tr": "адреналин",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Adrenaline surged before the jump.",
+        "ru": "Адреналин хлынул перед прыжком."
+      },
+      {
+        "en": "The chase gave him an adrenaline rush.",
+        "ru": "Погоня дала ему выброс адреналина."
+      },
+      {
+        "en": "Stay calm when adrenaline spikes.",
+        "ru": "Сохраняй спокойствие, когда адреналин скачет."
+      }
+    ],
+    "colloc": "adrenaline rush · adrenaline surge"
+  },
+  {
+    "word": "adulterate",
+    "lemma": "adulterate",
+    "ipa": "/əˈdəltərˌeɪt/",
+    "pos": "verb",
+    "tr": "фальсифицировать; разбавлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't adulterate the sample.",
+        "ru": "Не фальсифицируй образец."
+      },
+      {
+        "en": "The milk was adulterated with water.",
+        "ru": "Молоко разбавили водой."
+      },
+      {
+        "en": "Companies that adulterate food face fines.",
+        "ru": "Компании, фальсифицирующие еду, платят штрафы."
+      }
+    ],
+    "colloc": "adulterate food · adulterated with",
+    "pattern": "adulterate + N"
+  },
+  {
+    "word": "advantageous",
+    "lemma": "advantageous",
+    "ipa": "/ˌædvənˈteɪʤəs/",
+    "pos": "adj",
+    "tr": "выгодный; благоприятный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The terms are highly advantageous.",
+        "ru": "Условия крайне выгодны."
+      },
+      {
+        "en": "An advantageous position helped us.",
+        "ru": "Выгодная позиция нам помогла."
+      },
+      {
+        "en": "It would be advantageous to wait.",
+        "ru": "Было бы выгодно подождать."
+      }
+    ],
+    "colloc": "advantageous terms · mutually advantageous"
+  },
+  {
+    "word": "adversely",
+    "lemma": "adversely",
+    "ipa": "/ædˈvərsli/",
+    "pos": "adv",
+    "tr": "негативно; неблагоприятно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The delay adversely affected delivery.",
+        "ru": "Задержка негативно повлияла на поставку."
+      },
+      {
+        "en": "Pollution can adversely impact health.",
+        "ru": "Загрязнение может неблагоприятно влиять на здоровье."
+      },
+      {
+        "en": "Markets reacted adversely to the news.",
+        "ru": "Рынки негативно отреагировали на новости."
+      }
+    ],
+    "colloc": "adversely affect · adversely impact"
+  },
+  {
+    "word": "advisory",
+    "lemma": "advisory",
+    "ipa": "/ædˈvaɪzəri/",
+    "pos": "adj",
+    "tr": "совещательный; рекомендательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "She sits on an advisory board.",
+        "ru": "Она входит в консультативный совет."
+      },
+      {
+        "en": "The agency issued a travel advisory.",
+        "ru": "Агентство выпустило рекомендацию по поездкам."
+      },
+      {
+        "en": "His role is purely advisory.",
+        "ru": "Его роль чисто совещательная."
+      }
+    ],
+    "colloc": "advisory board · travel advisory"
+  },
+  {
+    "word": "aesthetically",
+    "lemma": "aesthetically",
+    "ipa": "/ɛsˈθɛtɪkli/",
+    "pos": "adv",
+    "tr": "эстетически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The design is aesthetically pleasing.",
+        "ru": "Дизайн эстетически приятен."
+      },
+      {
+        "en": "Aesthetically, the facade works well.",
+        "ru": "Эстетически фасад смотрится удачно."
+      },
+      {
+        "en": "They chose materials aesthetically.",
+        "ru": "Они выбирали материалы с эстетической точки зрения."
+      }
+    ],
+    "colloc": "aesthetically pleasing"
+  },
+  {
+    "word": "affectation",
+    "lemma": "affectation",
+    "ipa": "/ˌæfɛkˈteɪʃən/",
+    "pos": "noun",
+    "tr": "манерность; напускное поведение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "His accent sounded like an affectation.",
+        "ru": "Его акцент звучал как манерность."
+      },
+      {
+        "en": "Drop the affectation and speak plainly.",
+        "ru": "Брось напускное и говори просто."
+      },
+      {
+        "en": "The essay was free of affectation.",
+        "ru": "В эссе не было манерности."
+      }
+    ],
+    "colloc": "without affectation · mere affectation"
+  },
+  {
+    "word": "aggregate",
+    "lemma": "aggregate",
+    "ipa": "/ˈægrəgət/",
+    "pos": "noun",
+    "tr": "совокупность; агрегат",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Look at the aggregate of all scores.",
+        "ru": "Смотри на совокупность всех баллов."
+      },
+      {
+        "en": "In the aggregate, results improved.",
+        "ru": "В совокупности результаты улучшились."
+      },
+      {
+        "en": "The firm is an aggregate of smaller units.",
+        "ru": "Фирма — агрегат более мелких подразделений."
+      }
+    ],
+    "colloc": "in the aggregate · aggregate demand",
+    "note": "также глагол: суммировать"
+  },
+  {
+    "word": "aghast",
+    "lemma": "aghast",
+    "ipa": "/əˈgæst/",
+    "pos": "adj",
+    "tr": "ошеломлённый; в ужасе",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "She stood aghast at the news.",
+        "ru": "Она стояла ошеломлённая новостью."
+      },
+      {
+        "en": "We were aghast at the cost.",
+        "ru": "Мы были в ужасе от стоимости."
+      },
+      {
+        "en": "He looked aghast and speechless.",
+        "ru": "Он выглядел ошеломлённым и безмолвным."
+      }
+    ],
+    "colloc": "aghast at"
+  },
+  {
+    "word": "agile",
+    "lemma": "agile",
+    "ipa": "/ˈæʤəl/",
+    "pos": "adj",
+    "tr": "ловкий; гибкий (в т.ч. о мышлении)",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An agile climber reached the ledge.",
+        "ru": "Ловкий скалолаз добрался до уступа."
+      },
+      {
+        "en": "We need a more agile workflow.",
+        "ru": "Нам нужен более гибкий рабочий процесс."
+      },
+      {
+        "en": "Agile thinking saved the launch.",
+        "ru": "Гибкое мышление спасло запуск."
+      }
+    ],
+    "colloc": "agile mind · agile approach"
+  },
+  {
+    "word": "agility",
+    "lemma": "agility",
+    "ipa": "/əˈʤɪləti/",
+    "pos": "noun",
+    "tr": "ловкость; гибкость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The test measured physical agility.",
+        "ru": "Тест измерял физическую ловкость."
+      },
+      {
+        "en": "Business agility is a competitive edge.",
+        "ru": "Гибкость бизнеса — конкурентное преимущество."
+      },
+      {
+        "en": "Yoga improves balance and agility.",
+        "ru": "Йога улучшает баланс и ловкость."
+      }
+    ],
+    "colloc": "mental agility · business agility"
+  },
+  {
+    "word": "agonize",
+    "lemma": "agonize",
+    "ipa": "/ˈægəˌnaɪz/",
+    "pos": "verb",
+    "tr": "мучиться; терзаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't agonize over every detail.",
+        "ru": "Не терзайся из-за каждой детали."
+      },
+      {
+        "en": "She agonized for days before deciding.",
+        "ru": "Она мучилась днями, прежде чем решить."
+      },
+      {
+        "en": "He agonized about the confession.",
+        "ru": "Он терзался из-за признания."
+      }
+    ],
+    "colloc": "agonize over/about",
+    "pattern": "agonize over/about + N"
+  },
+  {
+    "word": "agreeable",
+    "lemma": "agreeable",
+    "ipa": "/əˈgriəbəl/",
+    "pos": "adj",
+    "tr": "приятный; приемлемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The weather was agreeable all week.",
+        "ru": "Погода всю неделю была приятной."
+      },
+      {
+        "en": "We reached an agreeable compromise.",
+        "ru": "Мы достигли приемлемого компромисса."
+      },
+      {
+        "en": "He is polite and agreeable.",
+        "ru": "Он вежлив и приятен в общении."
+      }
+    ],
+    "colloc": "agreeable weather · mutually agreeable"
+  },
+  {
+    "word": "aimless",
+    "lemma": "aimless",
+    "ipa": "/ˈeɪmləs/",
+    "pos": "adj",
+    "tr": "бесцельный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "He wandered in aimless circles.",
+        "ru": "Он бродил бесцельными кругами."
+      },
+      {
+        "en": "Aimless scrolling wastes evenings.",
+        "ru": "Бесцельный скроллинг убивает вечера."
+      },
+      {
+        "en": "Avoid aimless meetings without agendas.",
+        "ru": "Избегай бесцельных встреч без повесток."
+      }
+    ],
+    "colloc": "aimless wandering · aimless life"
+  },
+  {
+    "word": "aimlessly",
+    "lemma": "aimlessly",
+    "ipa": "/ˈeɪmləsli/",
+    "pos": "adv",
+    "tr": "бесцельно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They drove aimlessly around town.",
+        "ru": "Они бесцельно ездили по городу."
+      },
+      {
+        "en": "She stared aimlessly out the window.",
+        "ru": "Она бесцельно смотрела в окно."
+      },
+      {
+        "en": "Don't browse aimlessly for hours.",
+        "ru": "Не сиди бесцельно в сети часами."
+      }
+    ],
+    "colloc": "wander aimlessly"
+  },
+  {
+    "word": "albeit",
+    "lemma": "albeit",
+    "ipa": "/ɔlˈbiɪt/",
+    "pos": "conj",
+    "tr": "хотя; пусть и",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The plan worked, albeit slowly.",
+        "ru": "План сработал, хотя и медленно."
+      },
+      {
+        "en": "He agreed, albeit with reservations.",
+        "ru": "Он согласился, хотя и с оговорками."
+      },
+      {
+        "en": "It is useful, albeit imperfect.",
+        "ru": "Это полезно, пусть и несовершенно."
+      }
+    ],
+    "colloc": "albeit reluctantly"
+  },
+  {
+    "word": "alienate",
+    "lemma": "alienate",
+    "ipa": "/ˈeɪljəˌneɪt/",
+    "pos": "verb",
+    "tr": "отчуждать; отдалять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Harsh rules can alienate customers.",
+        "ru": "Жёсткие правила могут оттолкнуть клиентов."
+      },
+      {
+        "en": "Don't alienate your closest allies.",
+        "ru": "Не отчуждай ближайших союзников."
+      },
+      {
+        "en": "The remark alienated half the room.",
+        "ru": "Замечание оттолкнуло половину зала."
+      }
+    ],
+    "colloc": "alienate voters · feel alienated",
+    "pattern": "alienate + N"
+  },
+  {
+    "word": "all-encompassing",
+    "lemma": "all-encompassing",
+    "ipa": "/all-encompassing/",
+    "pos": "adj",
+    "tr": "всеобъемлющий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "They proposed an all-encompassing reform.",
+        "ru": "Они предложили всеобъемлющую реформу."
+      },
+      {
+        "en": "An all-encompassing view is rare.",
+        "ru": "Всеобъемлющий взгляд — редкость."
+      },
+      {
+        "en": "Avoid all-encompassing claims without proof.",
+        "ru": "Избегай всеобъемлющих утверждений без доказательств."
+      }
+    ],
+    "colloc": "all-encompassing approach"
+  },
+  {
+    "word": "allegorical",
+    "lemma": "allegorical",
+    "ipa": "/ˌæləˈgɔrɪkəl/",
+    "pos": "adj",
+    "tr": "аллегорический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The novel has an allegorical layer.",
+        "ru": "У романа есть аллегорический слой."
+      },
+      {
+        "en": "An allegorical painting hung in the hall.",
+        "ru": "В зале висела аллегорическая картина."
+      },
+      {
+        "en": "Read the tale as allegorical, not literal.",
+        "ru": "Читай сказку как аллегорию, а не буквально."
+      }
+    ],
+    "colloc": "allegorical meaning · allegorical figure"
+  },
+  {
+    "word": "allegory",
+    "lemma": "allegory",
+    "ipa": "/ˈæləˌgɔri/",
+    "pos": "noun",
+    "tr": "аллегория",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The story is a political allegory.",
+        "ru": "История — политическая аллегория."
+      },
+      {
+        "en": "Students analyzed the allegory carefully.",
+        "ru": "Студенты тщательно разобрали аллегорию."
+      },
+      {
+        "en": "Allegory lets writers critique power safely.",
+        "ru": "Аллегория позволяет писателям безопасно критиковать власть."
+      }
+    ],
+    "colloc": "political allegory · extended allegory"
+  },
+  {
+    "word": "alleviate",
+    "lemma": "alleviate",
+    "ipa": "/əˈliviˌeɪt/",
+    "pos": "verb",
+    "tr": "облегчать; смягчать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Medicine can alleviate the pain.",
+        "ru": "Лекарство может облегчить боль."
+      },
+      {
+        "en": "Aid will alleviate the shortage.",
+        "ru": "Помощь смягчит нехватку."
+      },
+      {
+        "en": "We need policies that alleviate poverty.",
+        "ru": "Нужна политика, которая облегчает бедность."
+      }
+    ],
+    "colloc": "alleviate pain · alleviate pressure",
+    "pattern": "alleviate + N"
+  },
+  {
+    "word": "allot",
+    "lemma": "allot",
+    "ipa": "/əˈlɑt/",
+    "pos": "verb",
+    "tr": "выделять; распределять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "They allotted thirty minutes per talk.",
+        "ru": "Они выделили по тридцать минут на доклад."
+      },
+      {
+        "en": "Allot funds fairly across teams.",
+        "ru": "Распределяй средства справедливо по командам."
+      },
+      {
+        "en": "Each student was allotted a mentor.",
+        "ru": "Каждому студенту выделили наставника."
+      }
+    ],
+    "colloc": "allot time · allot funds",
+    "pattern": "allot + N + to"
+  },
+  {
+    "word": "allotment",
+    "lemma": "allotment",
+    "ipa": "/əˈlɑtmənt/",
+    "pos": "noun",
+    "tr": "выделение; пай; участок",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Your allotment of tickets is ready.",
+        "ru": "Твоё выделение билетов готово."
+      },
+      {
+        "en": "She tends a small allotment garden.",
+        "ru": "Она ухаживает за небольшим огородом-паем."
+      },
+      {
+        "en": "The budget allotment was cut.",
+        "ru": "Бюджетное выделение урезали."
+      }
+    ],
+    "colloc": "budget allotment · allotment garden"
+  },
+  {
+    "word": "allude",
+    "lemma": "allude",
+    "ipa": "/əˈlud/",
+    "pos": "verb",
+    "tr": "намекать; упоминать косвенно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "He alluded to a past scandal.",
+        "ru": "Он намекнул на прошлый скандал."
+      },
+      {
+        "en": "The essay alludes to classical myths.",
+        "ru": "Эссе отсылает к античным мифам."
+      },
+      {
+        "en": "Don't allude to private matters in public.",
+        "ru": "Не намекай на личное на публике."
+      }
+    ],
+    "colloc": "allude to",
+    "pattern": "allude to + N"
+  },
+  {
+    "word": "allusion",
+    "lemma": "allusion",
+    "ipa": "/əˈluʒən/",
+    "pos": "noun",
+    "tr": "аллюзия; намёк",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The title is an allusion to Shakespeare.",
+        "ru": "Название — аллюзия на Шекспира."
+      },
+      {
+        "en": "I missed the cultural allusion.",
+        "ru": "Я не уловил культурную аллюзию."
+      },
+      {
+        "en": "Her speech was full of subtle allusions.",
+        "ru": "Её речь была полна тонких намёков."
+      }
+    ],
+    "colloc": "literary allusion · make an allusion"
+  },
+  {
+    "word": "altruism",
+    "lemma": "altruism",
+    "ipa": "/ˈæltruˌɪzəm/",
+    "pos": "noun",
+    "tr": "альтруизм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "True altruism asks nothing in return.",
+        "ru": "Истинный альтруизм ничего не требует взамен."
+      },
+      {
+        "en": "The study measured everyday altruism.",
+        "ru": "Исследование измеряло повседневный альтруизм."
+      },
+      {
+        "en": "Effective altruism focuses on impact.",
+        "ru": "Эффективный альтруизм фокусируется на эффекте."
+      }
+    ],
+    "colloc": "pure altruism · acts of altruism"
+  },
+  {
+    "word": "altruistic",
+    "lemma": "altruistic",
+    "ipa": "/ˌɔltruˈɪstɪk/",
+    "pos": "adj",
+    "tr": "альтруистический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an altruistic donation.",
+        "ru": "Это было альтруистическое пожертвование."
+      },
+      {
+        "en": "Altruistic motives guided the team.",
+        "ru": "Командой двигали альтруистические мотивы."
+      },
+      {
+        "en": "She is known for altruistic work.",
+        "ru": "Она известна альтруистической работой."
+      }
+    ],
+    "colloc": "altruistic act · altruistic motive"
+  },
+  {
+    "word": "ambiguous",
+    "lemma": "ambiguous",
+    "ipa": "/æmˈbɪgjuəs/",
+    "pos": "adj",
+    "tr": "двусмысленный; неоднозначный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The clause is legally ambiguous.",
+        "ru": "Пункт юридически неоднозначен."
+      },
+      {
+        "en": "Avoid ambiguous instructions.",
+        "ru": "Избегай двусмысленных инструкций."
+      },
+      {
+        "en": "His smile was ambiguous.",
+        "ru": "Его улыбка была двусмысленной."
+      }
+    ],
+    "colloc": "ambiguous wording · deliberately ambiguous"
+  },
+  {
+    "word": "amorphous",
+    "lemma": "amorphous",
+    "ipa": "/əˈmɔrfəs/",
+    "pos": "adj",
+    "tr": "аморфный; бесформенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The plan remained amorphous for weeks.",
+        "ru": "План неделями оставался бесформенным."
+      },
+      {
+        "en": "An amorphous cloud hung over the bay.",
+        "ru": "Над заливом висело аморфное облако."
+      },
+      {
+        "en": "The organization felt amorphous and slow.",
+        "ru": "Организация казалась аморфной и медлительной."
+      }
+    ],
+    "colloc": "amorphous mass · amorphous structure"
+  },
+  {
+    "word": "amorphously",
+    "lemma": "amorphously",
+    "ipa": "/amorphously/",
+    "pos": "adv",
+    "tr": "аморфно; расплывчато",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Ideas were amorphously sketched.",
+        "ru": "Идеи были аморфно набросаны."
+      },
+      {
+        "en": "The group amorphously drifted apart.",
+        "ru": "Группа аморфно разбрелась."
+      },
+      {
+        "en": "Goals were stated amorphously.",
+        "ru": "Цели сформулировали расплывчато."
+      }
+    ],
+    "colloc": "defined amorphously"
+  },
+  {
+    "word": "amplification",
+    "lemma": "amplification",
+    "ipa": "/ˌæmpləfəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "усиление; расширение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Signal amplification improved clarity.",
+        "ru": "Усиление сигнала улучшило ясность."
+      },
+      {
+        "en": "The paper is an amplification of earlier notes.",
+        "ru": "Статья — расширение более ранних заметок."
+      },
+      {
+        "en": "Avoid needless amplification of fears.",
+        "ru": "Избегай ненужного раздувания страхов."
+      }
+    ],
+    "colloc": "signal amplification · further amplification"
+  },
+  {
+    "word": "amply",
+    "lemma": "amply",
+    "ipa": "/ˈæmpli/",
+    "pos": "adv",
+    "tr": "с избытком; вполне",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The evidence amply supports the claim.",
+        "ru": "Доказательства с избытком подтверждают тезис."
+      },
+      {
+        "en": "She was amply rewarded for the work.",
+        "ru": "Её с избытком вознаградили за работу."
+      },
+      {
+        "en": "The room is amply lit.",
+        "ru": "Комната вполне освещена."
+      }
+    ],
+    "colloc": "amply demonstrate · amply supplied"
+  },
+  {
+    "word": "anarchic",
+    "lemma": "anarchic",
+    "ipa": "/æˈnɑrkɪk/",
+    "pos": "adj",
+    "tr": "анархический; хаотичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The streets felt anarchic after the blackout.",
+        "ru": "Улицы после отключения казались анархичными."
+      },
+      {
+        "en": "An anarchic workflow slows delivery.",
+        "ru": "Хаотичный процесс тормозит поставку."
+      },
+      {
+        "en": "Critics called the debate anarchic.",
+        "ru": "Критики назвали дебаты хаотичными."
+      }
+    ],
+    "colloc": "anarchic system · anarchic scene"
+  },
+  {
+    "word": "anchored",
+    "lemma": "anchored",
+    "ipa": "/ˈæŋkərd/",
+    "pos": "adj",
+    "tr": "закреплённый; укоренённый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The boat stayed firmly anchored.",
+        "ru": "Лодка оставалась крепко на якоре."
+      },
+      {
+        "en": "Her views are anchored in evidence.",
+        "ru": "Её взгляды укоренены в фактах."
+      },
+      {
+        "en": "Keep the narrative anchored in reality.",
+        "ru": "Держи повествование закреплённым в реальности."
+      }
+    ],
+    "colloc": "firmly anchored · anchored in"
+  },
+  {
+    "word": "angst",
+    "lemma": "angst",
+    "ipa": "/ɑŋkst/",
+    "pos": "noun",
+    "tr": "тревога; тоска",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Teen angst filled the diary.",
+        "ru": "Подростковая тоска наполняла дневник."
+      },
+      {
+        "en": "Market angst rose overnight.",
+        "ru": "Рыночная тревога выросла за ночь."
+      },
+      {
+        "en": "He wrote songs full of existential angst.",
+        "ru": "Он писал песни, полные экзистенциальной тоски."
+      }
+    ],
+    "colloc": "existential angst · teen angst"
+  },
+  {
+    "word": "angsty",
+    "lemma": "angsty",
+    "ipa": "/angsty/",
+    "pos": "adj",
+    "tr": "тревожный; полный тоски",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The album has an angsty tone.",
+        "ru": "У альбома тревожный тон."
+      },
+      {
+        "en": "Angsty posts flooded the feed.",
+        "ru": "Ленту заполнили тревожные посты."
+      },
+      {
+        "en": "She dismissed it as angsty drama.",
+        "ru": "Она сбросила это со счетов как тоскливую драму."
+      }
+    ],
+    "colloc": "angsty teen · angsty lyrics"
+  },
+  {
+    "word": "angular",
+    "lemma": "angular",
+    "ipa": "/ˈæŋgjələr/",
+    "pos": "adj",
+    "tr": "угловатый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The building has an angular design.",
+        "ru": "У здания угловатый дизайн."
+      },
+      {
+        "en": "His angular face was striking.",
+        "ru": "Его угловатое лицо бросалось в глаза."
+      },
+      {
+        "en": "Choose softer lines over angular ones.",
+        "ru": "Выбери более мягкие линии вместо угловатых."
+      }
+    ],
+    "colloc": "angular features · angular shape"
+  },
+  {
+    "word": "angularity",
+    "lemma": "angularity",
+    "ipa": "/angularity/",
+    "pos": "noun",
+    "tr": "угловатость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The angularity of the sculpture stood out.",
+        "ru": "Угловатость скульптуры выделялась."
+      },
+      {
+        "en": "Reduce angularity in the UI layout.",
+        "ru": "Уменьши угловатость в макете интерфейса."
+      },
+      {
+        "en": "Age softened the angularity of his face.",
+        "ru": "Возраст смягчил угловатость его лица."
+      }
+    ],
+    "colloc": "facial angularity"
+  },
+  {
+    "word": "animatedly",
+    "lemma": "animatedly",
+    "ipa": "/animatedly/",
+    "pos": "adv",
+    "tr": "оживлённо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They talked animatedly about the film.",
+        "ru": "Они оживлённо говорили о фильме."
+      },
+      {
+        "en": "She gestured animatedly on stage.",
+        "ru": "Она оживлённо жестикулировала на сцене."
+      },
+      {
+        "en": "The kids argued animatedly.",
+        "ru": "Дети оживлённо спорили."
+      }
+    ],
+    "colloc": "talk animatedly"
+  },
+  {
+    "word": "annex",
+    "lemma": "annex",
+    "ipa": "/ˈæˌnɛks/",
+    "pos": "noun",
+    "tr": "пристройка; приложение; аннексия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The museum opened a new annex.",
+        "ru": "Музей открыл новую пристройку."
+      },
+      {
+        "en": "See the data in the annex.",
+        "ru": "См. данные в приложении."
+      },
+      {
+        "en": "The annex of territory sparked protest.",
+        "ru": "Аннексия территории вызвала протест."
+      }
+    ],
+    "colloc": "building annex · see annex",
+    "note": "также глагол: присоединять"
+  },
+  {
+    "word": "anonymity",
+    "lemma": "anonymity",
+    "ipa": "/ˌænəˈnɪmɪti/",
+    "pos": "noun",
+    "tr": "анонимность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Whistleblowers often need anonymity.",
+        "ru": "Разоблачителям часто нужна анонимность."
+      },
+      {
+        "en": "Online anonymity can hide abuse.",
+        "ru": "Онлайн-анонимность может скрывать злоупотребления."
+      },
+      {
+        "en": "She valued the anonymity of the city.",
+        "ru": "Она ценила анонимность большого города."
+      }
+    ],
+    "colloc": "preserve anonymity · under anonymity"
+  },
+  {
+    "word": "antediluvian",
+    "lemma": "antediluvian",
+    "ipa": "/antediluvian/",
+    "pos": "adj",
+    "tr": "допотопный; устаревший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Those rules feel antediluvian.",
+        "ru": "Эти правила кажутся допотопными."
+      },
+      {
+        "en": "He owns an antediluvian radio set.",
+        "ru": "У него допотопный радиоприёмник."
+      },
+      {
+        "en": "Replace the antediluvian process.",
+        "ru": "Замени допотопный процесс."
+      }
+    ],
+    "colloc": "antediluvian attitudes",
+    "note": "букв. «до потопа»; шутл. об устаревшем"
+  },
+  {
+    "word": "anthology",
+    "lemma": "anthology",
+    "ipa": "/ænˈθɔləˌʤi/",
+    "pos": "noun",
+    "tr": "антология; сборник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I bought a poetry anthology.",
+        "ru": "Я купил антологию поэзии."
+      },
+      {
+        "en": "The anthology spans three decades.",
+        "ru": "Антология охватывает три десятилетия."
+      },
+      {
+        "en": "Her story appears in a new anthology.",
+        "ru": "Её рассказ вошёл в новую антологию."
+      }
+    ],
+    "colloc": "poetry anthology · edited anthology"
+  },
+  {
+    "word": "anthropological",
+    "lemma": "anthropological",
+    "ipa": "/ˌænθrəpəˈlɑʤəkəl/",
+    "pos": "adj",
+    "tr": "антропологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "They took an anthropological approach.",
+        "ru": "Они применили антропологический подход."
+      },
+      {
+        "en": "Anthropological fieldwork takes years.",
+        "ru": "Антропологическая полевая работа длится годы."
+      },
+      {
+        "en": "The film has anthropological value.",
+        "ru": "У фильма есть антропологическая ценность."
+      }
+    ],
+    "colloc": "anthropological study · anthropological lens"
+  },
+  {
+    "word": "anthropologically",
+    "lemma": "anthropologically",
+    "ipa": "/anthropologically/",
+    "pos": "adv",
+    "tr": "с антропологической точки зрения",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The ritual is anthropologically significant.",
+        "ru": "Ритуал значим с антропологической точки зрения."
+      },
+      {
+        "en": "Anthropologically, kinship shapes the plot.",
+        "ru": "Антропологически родство формирует сюжет."
+      },
+      {
+        "en": "They framed the question anthropologically.",
+        "ru": "Они сформулировали вопрос антропологически."
+      }
+    ],
+    "colloc": "anthropologically speaking"
+  },
+  {
+    "word": "anthropologist",
+    "lemma": "anthropologist",
+    "ipa": "/ˌænθrəˈpɑləʤɪst/",
+    "pos": "noun",
+    "tr": "антрополог",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The anthropologist lived with the community.",
+        "ru": "Антрополог жил вместе с общиной."
+      },
+      {
+        "en": "She trained as a cultural anthropologist.",
+        "ru": "Она училась на культурного антрополога."
+      },
+      {
+        "en": "Anthropologists debated the findings.",
+        "ru": "Антропологи спорили о находках."
+      }
+    ],
+    "colloc": "cultural anthropologist · forensic anthropologist"
+  },
+  {
+    "word": "anthropology",
+    "lemma": "anthropology",
+    "ipa": "/ˌænθrəˈpɑləʤi/",
+    "pos": "noun",
+    "tr": "антропология",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He majored in anthropology.",
+        "ru": "Он специализировался по антропологии."
+      },
+      {
+        "en": "Medical anthropology bridges two fields.",
+        "ru": "Медицинская антропология связывает две области."
+      },
+      {
+        "en": "Anthropology challenges ethnocentric views.",
+        "ru": "Антропология бросает вызов этноцентричным взглядам."
+      }
+    ],
+    "colloc": "cultural anthropology · study anthropology"
+  },
+  {
+    "word": "anticlimactic",
+    "lemma": "anticlimactic",
+    "ipa": "/ˌæntiklaɪˈmæktɪk/",
+    "pos": "adj",
+    "tr": "разочаровывающий после подъёма",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The finale felt anticlimactic.",
+        "ru": "Финал показался разочаровывающим."
+      },
+      {
+        "en": "After the hype, the reveal was anticlimactic.",
+        "ru": "После хайпа раскрытие вышло скучным."
+      },
+      {
+        "en": "Avoid an anticlimactic last chapter.",
+        "ru": "Избегай провальной последней главы."
+      }
+    ],
+    "colloc": "anticlimactic ending"
+  },
+  {
+    "word": "anticlimactically",
+    "lemma": "anticlimactically",
+    "ipa": "/anticlimactically/",
+    "pos": "adv",
+    "tr": "с разочаровывающей развязкой",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The series ended anticlimactically.",
+        "ru": "Сериал закончился разочаровывающе."
+      },
+      {
+        "en": "The vote concluded anticlimactically.",
+        "ru": "Голосование завершилось без кульминации."
+      },
+      {
+        "en": "Excitement faded anticlimactically.",
+        "ru": "Восторг угас разочаровывающе."
+      }
+    ],
+    "colloc": "end anticlimactically"
+  },
+  {
+    "word": "antics",
+    "lemma": "antics",
+    "ipa": "/ˈæntɪks/",
+    "pos": "noun",
+    "tr": "выходки; кривлянье",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The puppy's antics made us laugh.",
+        "ru": "Выходки щенка нас рассмешили."
+      },
+      {
+        "en": "Stop these childish antics at work.",
+        "ru": "Прекрати эти детские выходки на работе."
+      },
+      {
+        "en": "Camera crews filmed the crowd's antics.",
+        "ru": "Операторы снимали выходки толпы."
+      }
+    ],
+    "colloc": "childish antics · comic antics"
+  },
+  {
+    "word": "antidote",
+    "lemma": "antidote",
+    "ipa": "/ˈænɪˌdoʊt/",
+    "pos": "noun",
+    "tr": "противоядие; средство от",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There is no perfect antidote to stress.",
+        "ru": "Нет идеального противоядия от стресса."
+      },
+      {
+        "en": "Humor can be an antidote to fear.",
+        "ru": "Юмор может быть противоядием от страха."
+      },
+      {
+        "en": "Doctors administered the antidote quickly.",
+        "ru": "Врачи быстро ввели противоядие."
+      }
+    ],
+    "colloc": "antidote to · administer an antidote"
+  },
+  {
+    "word": "antiquated",
+    "lemma": "antiquated",
+    "ipa": "/ˈæntəkˌweɪtɪd/",
+    "pos": "adj",
+    "tr": "устаревший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The code relies on antiquated libraries.",
+        "ru": "Код опирается на устаревшие библиотеки."
+      },
+      {
+        "en": "Antiquated laws need reform.",
+        "ru": "Устаревшие законы требуют реформы."
+      },
+      {
+        "en": "Replace that antiquated printer.",
+        "ru": "Замени этот устаревший принтер."
+      }
+    ],
+    "colloc": "antiquated system · antiquated notions"
+  },
+  {
+    "word": "antiquity",
+    "lemma": "antiquity",
+    "ipa": "/ænˈtɪkwəti/",
+    "pos": "noun",
+    "tr": "древность; античность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Artifacts from antiquity filled the case.",
+        "ru": "Витрину заполнили артефакты древности."
+      },
+      {
+        "en": "The temple dates to classical antiquity.",
+        "ru": "Храм относится к классической античности."
+      },
+      {
+        "en": "Scholars of antiquity debated the text.",
+        "ru": "Исследователи древности спорили о тексте."
+      }
+    ],
+    "colloc": "classical antiquity · late antiquity"
+  },
+  {
+    "word": "antithesis",
+    "lemma": "antithesis",
+    "ipa": "/ænˈtɪθəsəs/",
+    "pos": "noun",
+    "tr": "антитеза; полная противоположность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She is the antithesis of her brother.",
+        "ru": "Она — полная противоположность брата."
+      },
+      {
+        "en": "Order is the antithesis of chaos.",
+        "ru": "Порядок — антитеза хаоса."
+      },
+      {
+        "en": "The speech used sharp antithesis.",
+        "ru": "В речи использовали острую антитезу."
+      }
+    ],
+    "colloc": "the antithesis of · stark antithesis"
+  },
+  {
+    "word": "antithetical",
+    "lemma": "antithetical",
+    "ipa": "/ˌæntəˈθɛtɪkəl/",
+    "pos": "adj",
+    "tr": "противоположный; антитетичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Their goals are antithetical.",
+        "ru": "Их цели противоположны."
+      },
+      {
+        "en": "Secrecy is antithetical to open science.",
+        "ru": "Секретность противоположна открытой науке."
+      },
+      {
+        "en": "He holds antithetical views on tax.",
+        "ru": "У него противоположные взгляды на налоги."
+      }
+    ],
+    "colloc": "antithetical to"
+  },
+  {
+    "word": "apostle",
+    "lemma": "apostle",
+    "ipa": "/əˈpɔsəl/",
+    "pos": "noun",
+    "tr": "апостол; ярый сторонник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He became an apostle of free software.",
+        "ru": "Он стал апостолом свободного ПО."
+      },
+      {
+        "en": "The museum shows icons of the apostles.",
+        "ru": "В музее иконы апостолов."
+      },
+      {
+        "en": "She is an apostle of slow travel.",
+        "ru": "Она ярый сторонник медленных путешествий."
+      }
+    ],
+    "colloc": "apostle of · the twelve apostles"
+  },
+  {
+    "word": "appalling",
+    "lemma": "appalling",
+    "ipa": "/əˈpɔlɪŋ/",
+    "pos": "adj",
+    "tr": "ужасный; возмутительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The conditions were appalling.",
+        "ru": "Условия были ужасными."
+      },
+      {
+        "en": "An appalling error cost the match.",
+        "ru": "Возмутительная ошибка стоила матча."
+      },
+      {
+        "en": "His manners were simply appalling.",
+        "ru": "Его манеры были просто ужасны."
+      }
+    ],
+    "colloc": "appalling conditions · appalling behavior"
+  },
+  {
+    "word": "appallingly",
+    "lemma": "appallingly",
+    "ipa": "/əˈpɔlɪŋli/",
+    "pos": "adv",
+    "tr": "ужасающе; возмутительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The team played appallingly.",
+        "ru": "Команда сыграла ужасающе."
+      },
+      {
+        "en": "Housing was appallingly expensive.",
+        "ru": "Жильё было возмутительно дорогим."
+      },
+      {
+        "en": "She was treated appallingly.",
+        "ru": "С ней обошлись ужасающе."
+      }
+    ],
+    "colloc": "appallingly bad · treat appallingly"
+  },
+  {
+    "word": "append",
+    "lemma": "append",
+    "ipa": "/əˈpɛnd/",
+    "pos": "verb",
+    "tr": "присоединять; добавлять в конец",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Append the chart to the report.",
+        "ru": "Присоедини график к отчёту."
+      },
+      {
+        "en": "Please append your signature below.",
+        "ru": "Пожалуйста, добавь подпись ниже."
+      },
+      {
+        "en": "They appended a note clarifying scope.",
+        "ru": "Они добавили примечание, уточняющее объём."
+      }
+    ],
+    "colloc": "append to · append a note",
+    "pattern": "append + N (+ to)"
+  },
+  {
+    "word": "applaud",
+    "lemma": "applaud",
+    "ipa": "/əˈplɔd/",
+    "pos": "verb",
+    "tr": "аплодировать; одобрять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "The audience stood to applaud.",
+        "ru": "Публика встала, чтобы аплодировать."
+      },
+      {
+        "en": "I applaud your honesty.",
+        "ru": "Я одобряю твою честность."
+      },
+      {
+        "en": "Critics applauded the bold casting.",
+        "ru": "Критики приветствовали смелый кастинг."
+      }
+    ],
+    "colloc": "applaud loudly · applaud the decision",
+    "pattern": "applaud (+ N)"
+  },
+  {
+    "word": "apprehend",
+    "lemma": "apprehend",
+    "ipa": "/ˌæprɪˈhɛnd/",
+    "pos": "verb",
+    "tr": "задерживать; понимать; опасаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Police apprehended the suspect.",
+        "ru": "Полиция задержала подозреваемого."
+      },
+      {
+        "en": "Few fully apprehend the risk.",
+        "ru": "Мало кто полностью осознаёт риск."
+      },
+      {
+        "en": "She apprehended trouble ahead.",
+        "ru": "Она предчувствовала беду впереди."
+      }
+    ],
+    "colloc": "apprehend a suspect · fail to apprehend",
+    "note": "значения: арестовать / понять / опасаться",
+    "pattern": "apprehend + N"
+  },
+  {
+    "word": "apprehensive",
+    "lemma": "apprehensive",
+    "ipa": "/ˌæprɪˈhɛnsɪv/",
+    "pos": "adj",
+    "tr": "опасающийся; тревожный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "He felt apprehensive before surgery.",
+        "ru": "Он чувствовал тревогу перед операцией."
+      },
+      {
+        "en": "Parents are apprehensive about fees.",
+        "ru": "Родители опасаются из-за взносов."
+      },
+      {
+        "en": "She gave an apprehensive smile.",
+        "ru": "Она тревожно улыбнулась."
+      }
+    ],
+    "colloc": "apprehensive about · feel apprehensive"
+  },
+  {
+    "word": "apprentice",
+    "lemma": "apprentice",
+    "ipa": "/əˈprɛntɪs/",
+    "pos": "noun",
+    "tr": "ученик; подмастерье",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She started as an apprentice chef.",
+        "ru": "Она начинала ученицей повара."
+      },
+      {
+        "en": "The apprentice shadowed a master.",
+        "ru": "Подмастерье ходил за мастером."
+      },
+      {
+        "en": "Hire an apprentice for the workshop.",
+        "ru": "Найми ученика в мастерскую."
+      }
+    ],
+    "colloc": "apprentice electrician · take on an apprentice"
+  },
+  {
+    "word": "apprenticeship",
+    "lemma": "apprenticeship",
+    "ipa": "/əˈprɛntəsˌʃɪp/",
+    "pos": "noun",
+    "tr": "ученичество; стажировка у мастера",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He completed a two-year apprenticeship.",
+        "ru": "Он прошёл двухлетнее ученичество."
+      },
+      {
+        "en": "Apprenticeship programs fill skill gaps.",
+        "ru": "Программы ученичества закрывают нехватку навыков."
+      },
+      {
+        "en": "Apply for a paid apprenticeship.",
+        "ru": "Подай заявку на оплачиваемое ученичество."
+      }
+    ],
+    "colloc": "complete an apprenticeship · apprenticeship program"
+  },
+  {
+    "word": "approximate",
+    "lemma": "approximate",
+    "ipa": "/əˈprɑksəˌmeɪt/",
+    "pos": "verb",
+    "tr": "приближать(ся); оценивать примерно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Approximate the cost within ten percent.",
+        "ru": "Оцени стоимость примерно в пределах десяти процентов."
+      },
+      {
+        "en": "The model approximates real traffic.",
+        "ru": "Модель приближает реальный трафик."
+      },
+      {
+        "en": "Can you approximate how long it takes?",
+        "ru": "Можешь примерно сказать, сколько это займёт?"
+      }
+    ],
+    "colloc": "approximate the cost · roughly approximate",
+    "pattern": "approximate + N"
+  },
+  {
+    "word": "apt",
+    "lemma": "apt",
+    "ipa": "/æpt/",
+    "pos": "adj",
+    "tr": "уместный; склонный; способный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "That was an apt remark.",
+        "ru": "Это было уместное замечание."
+      },
+      {
+        "en": "She is apt to worry at night.",
+        "ru": "Она склонна тревожиться ночью."
+      },
+      {
+        "en": "He is an apt pupil.",
+        "ru": "Он способный ученик."
+      }
+    ],
+    "colloc": "apt description · apt to",
+    "note": "apt to = склонен к"
+  },
+  {
+    "word": "aptitude",
+    "lemma": "aptitude",
+    "ipa": "/ˈæptəˌtud/",
+    "pos": "noun",
+    "tr": "склонность; способность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She has an aptitude for languages.",
+        "ru": "У неё склонность к языкам."
+      },
+      {
+        "en": "The test measures mechanical aptitude.",
+        "ru": "Тест измеряет технические способности."
+      },
+      {
+        "en": "Natural aptitude still needs practice.",
+        "ru": "Природной склонности всё равно нужна практика."
+      }
+    ],
+    "colloc": "aptitude for · aptitude test"
+  }
+]

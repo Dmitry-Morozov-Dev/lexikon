@@ -1,0 +1,1260 @@
+[
+  {
+    "word": "posture",
+    "lemma": "posture",
+    "ipa": "/ˈpɑsʧər/",
+    "pos": "noun",
+    "tr": "положение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one posture.",
+        "ru": "Ее карьера перевернулась на одну позу."
+      },
+      {
+        "en": "Public debate ignored the posture.",
+        "ru": "Общественные дебаты проигнорировали позицию."
+      },
+      {
+        "en": "Document every posture in the log.",
+        "ru": "Документируйте каждую позу в журнале."
+      }
+    ],
+    "colloc": "clear posture · address the posture",
+    "ex": "Her career turned on one posture.",
+    "exRu": "Ее карьера перевернулась на одну позу."
+  },
+  {
+    "word": "pounce",
+    "lemma": "pounce",
+    "ipa": "/paʊns/",
+    "pos": "verb",
+    "tr": "наброситься",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers pounce resources each week.",
+        "ru": "Менеджеры набрасывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to pounce too quickly.",
+        "ru": "Он склонен набрасываться слишком быстро."
+      },
+      {
+        "en": "They pounce only after a full review.",
+        "ru": "Они набрасываются только после полного обзора."
+      }
+    ],
+    "colloc": "pounce pressure · pounce + N",
+    "pattern": "pounce (+ prep)",
+    "ex": "Managers pounce resources each week.",
+    "exRu": "Менеджеры набрасывают ресурсы каждую неделю."
+  },
+  {
+    "word": "preacher",
+    "lemma": "preacher",
+    "ipa": "/ˈpriʧər/",
+    "pos": "noun",
+    "tr": "проповедник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple preacher.",
+        "ru": "Простого проповедника не было."
+      },
+      {
+        "en": "Critics mocked the preacher.",
+        "ru": "Критики издевались над проповедником."
+      },
+      {
+        "en": "We need a working definition of preacher.",
+        "ru": "Нам нужно рабочее определение проповедника."
+      }
+    ],
+    "colloc": "the preacher · preacher of",
+    "ex": "There was no simple preacher.",
+    "exRu": "Простого проповедника не было."
+  },
+  {
+    "word": "predominant",
+    "lemma": "predominant",
+    "ipa": "/prɪˈdɑmənənt/",
+    "pos": "noun",
+    "tr": "преобладающим",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the predominant closely.",
+        "ru": "Исследователи внимательно изучили преобладающее."
+      },
+      {
+        "en": "The predominant shaped the final decision.",
+        "ru": "Преобладание формировало окончательное решение."
+      },
+      {
+        "en": "Without the predominant, the argument collapses.",
+        "ru": "Без преобладающего аргумент рухнет."
+      }
+    ],
+    "colloc": "the predominant · predominant of",
+    "ex": "Researchers examined the predominant closely.",
+    "exRu": "Исследователи внимательно изучили преобладающее."
+  },
+  {
+    "word": "predominantly",
+    "lemma": "predominantly",
+    "ipa": "/ˌprɪˈdɑmənənˌtli/",
+    "pos": "adv",
+    "tr": "преимущественно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke predominantly about the issue.",
+        "ru": "Она говорила преимущественно о проблеме."
+      },
+      {
+        "en": "The team responded predominantly.",
+        "ru": "Команда ответила преимущественно."
+      },
+      {
+        "en": "Progress moved predominantly after the fix.",
+        "ru": "Прогресс двигался преимущественно после исправления."
+      }
+    ],
+    "colloc": "act predominantly · predominantly",
+    "ex": "She spoke predominantly about the issue.",
+    "exRu": "Она говорила преимущественно о проблеме."
+  },
+  {
+    "word": "premises",
+    "lemma": "premises",
+    "ipa": "/ˈprɛməsəz/",
+    "pos": "noun",
+    "tr": "помещение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple premises.",
+        "ru": "Простых помещений не было."
+      },
+      {
+        "en": "Critics mocked the premises.",
+        "ru": "Критики высмеивали помещения."
+      },
+      {
+        "en": "We need a working definition of premises.",
+        "ru": "Нам нужно рабочее определение помещений."
+      }
+    ],
+    "colloc": "the premises · address the premises",
+    "ex": "There was no simple premises.",
+    "exRu": "Простых помещений не было."
+  },
+  {
+    "word": "presently",
+    "lemma": "presently",
+    "ipa": "/ˈprɛzəntli/",
+    "pos": "adv",
+    "tr": "в настоящее время",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample presently.",
+        "ru": "Обработайте образец прямо сейчас."
+      },
+      {
+        "en": "Support arrived presently.",
+        "ru": "Поддержка пришла уже сейчас."
+      },
+      {
+        "en": "The plan failed presently.",
+        "ru": "В настоящее время план провалился."
+      }
+    ],
+    "colloc": "respond presently · presently",
+    "ex": "Handle the sample presently.",
+    "exRu": "Обработайте образец прямо сейчас."
+  },
+  {
+    "word": "presumably",
+    "lemma": "presumably",
+    "ipa": "/prɪˈzuməbli/",
+    "pos": "adv",
+    "tr": "предположительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued presumably for reform.",
+        "ru": "Предположительно, он выступал за реформы."
+      },
+      {
+        "en": "The rule was applied presumably.",
+        "ru": "Правило применялось предположительно."
+      },
+      {
+        "en": "Costs rose presumably last year.",
+        "ru": "Расходы, предположительно, выросли в прошлом году."
+      }
+    ],
+    "colloc": "act presumably · presumably",
+    "ex": "He argued presumably for reform.",
+    "exRu": "Предположительно, он выступал за реформы."
+  },
+  {
+    "word": "primitively",
+    "lemma": "primitively",
+    "ipa": "/primitively/",
+    "pos": "adv",
+    "tr": "примитивно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke primitively about the issue.",
+        "ru": "Она говорила о проблеме примитивно."
+      },
+      {
+        "en": "The team responded primitively.",
+        "ru": "Команда ответила примитивно."
+      },
+      {
+        "en": "Progress moved primitively after the fix.",
+        "ru": "Прогресс двигался примитивно после исправления."
+      }
+    ],
+    "colloc": "speak primitively · primitively",
+    "ex": "She spoke primitively about the issue.",
+    "exRu": "Она говорила о проблеме примитивно."
+  },
+  {
+    "word": "principally",
+    "lemma": "principally",
+    "ipa": "/ˈprɪnsɪpli/",
+    "pos": "adv",
+    "tr": "главным образом",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued principally overnight.",
+        "ru": "Продолжение работы, в первую очередь, на ночь."
+      },
+      {
+        "en": "She answered principally and clearly.",
+        "ru": "Она ответила принципиально и ясно."
+      },
+      {
+        "en": "The claim was principally dismissed.",
+        "ru": "Претензия была в основном отклонена."
+      }
+    ],
+    "colloc": "respond principally · principally",
+    "ex": "Work continued principally overnight.",
+    "exRu": "Продолжение работы, в первую очередь, на ночь."
+  },
+  {
+    "word": "privileged",
+    "lemma": "privileged",
+    "ipa": "/ˈprɪvɪlɪʤd/",
+    "pos": "adj",
+    "tr": "привилегированный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a privileged strategy.",
+        "ru": "Это была привилегированная стратегия."
+      },
+      {
+        "en": "The tone grew privileged.",
+        "ru": "Тон стал привилегированным."
+      },
+      {
+        "en": "They rejected the privileged proposal.",
+        "ru": "Они отвергли это привилегированное предложение."
+      }
+    ],
+    "colloc": "privileged approach · remain privileged",
+    "ex": "It was a privileged strategy.",
+    "exRu": "Это была привилегированная стратегия."
+  },
+  {
+    "word": "profess",
+    "lemma": "profess",
+    "ipa": "/prəˈfɛs/",
+    "pos": "verb",
+    "tr": "исповедовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to profess with precision.",
+        "ru": "Она научилась говорить с точностью."
+      },
+      {
+        "en": "We will profess the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics profess the choice harshly.",
+        "ru": "Критики жестко заявляют о своем выборе."
+      }
+    ],
+    "colloc": "profess pressure · refuse to profess",
+    "pattern": "profess (+ prep)",
+    "ex": "She learned to profess with precision.",
+    "exRu": "Она научилась говорить с точностью."
+  },
+  {
+    "word": "professionalism",
+    "lemma": "professionalism",
+    "ipa": "/prəˈfɛʃənəˌlɪzəm/",
+    "pos": "noun",
+    "tr": "профессионализм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple professionalism.",
+        "ru": "Простого профессионализма не было."
+      },
+      {
+        "en": "Critics mocked the professionalism.",
+        "ru": "Критики высмеивали профессионализм."
+      },
+      {
+        "en": "We need a working definition of professionalism.",
+        "ru": "Нам нужно рабочее определение профессионализма."
+      }
+    ],
+    "colloc": "clear professionalism · professionalism of",
+    "ex": "There was no simple professionalism.",
+    "exRu": "Простого профессионализма не было."
+  },
+  {
+    "word": "profoundly",
+    "lemma": "profoundly",
+    "ipa": "/proʊˈfaʊndli/",
+    "pos": "adv",
+    "tr": "глубоко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample profoundly.",
+        "ru": "Глубоко обработайте образец."
+      },
+      {
+        "en": "Support arrived profoundly.",
+        "ru": "Поддержка пришла глубоко."
+      },
+      {
+        "en": "The plan failed profoundly.",
+        "ru": "План провалился глубоко."
+      }
+    ],
+    "colloc": "act profoundly · profoundly",
+    "ex": "Handle the sample profoundly.",
+    "exRu": "Глубоко обработайте образец."
+  },
+  {
+    "word": "prohibitive",
+    "lemma": "prohibitive",
+    "ipa": "/proʊˈhɪbətɪv/",
+    "pos": "adj",
+    "tr": "запрещающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A prohibitive approach may help.",
+        "ru": "Запретительный подход может помочь."
+      },
+      {
+        "en": "His answer sounded prohibitive.",
+        "ru": "Его ответ звучал запретительно."
+      },
+      {
+        "en": "Avoid prohibitive claims without proof.",
+        "ru": "Избегайте запретительных заявлений без доказательств."
+      }
+    ],
+    "colloc": "prohibitive approach · prohibitive result",
+    "ex": "A prohibitive approach may help.",
+    "exRu": "Запретительный подход может помочь."
+  },
+  {
+    "word": "prohibitively",
+    "lemma": "prohibitively",
+    "ipa": "/proʊˈhɪbətɪvli/",
+    "pos": "adv",
+    "tr": "запретительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample prohibitively.",
+        "ru": "Обрабатывайте образец запретительно."
+      },
+      {
+        "en": "Support arrived prohibitively.",
+        "ru": "Поддержка пришла непомерно."
+      },
+      {
+        "en": "The plan failed prohibitively.",
+        "ru": "План провалился непомерно."
+      }
+    ],
+    "colloc": "speak prohibitively · prohibitively",
+    "ex": "Handle the sample prohibitively.",
+    "exRu": "Обрабатывайте образец запретительно."
+  },
+  {
+    "word": "proliferate",
+    "lemma": "proliferate",
+    "ipa": "/proʊˈlɪfərˌeɪt/",
+    "pos": "verb",
+    "tr": "распространяться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers proliferate resources each week.",
+        "ru": "Менеджеры распределяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to proliferate too quickly.",
+        "ru": "Он слишком быстро размножается."
+      },
+      {
+        "en": "They proliferate only after a full review.",
+        "ru": "Они размножаются только после полного обзора."
+      }
+    ],
+    "colloc": "proliferate the claim · proliferate + N",
+    "pattern": "proliferate + to-INF",
+    "ex": "Managers proliferate resources each week.",
+    "exRu": "Менеджеры распределяют ресурсы каждую неделю."
+  },
+  {
+    "word": "prolific",
+    "lemma": "prolific",
+    "ipa": "/proʊˈlɪfɪk/",
+    "pos": "adj",
+    "tr": "плодовитый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly prolific.",
+        "ru": "Доказательства вряд ли плодовиты."
+      },
+      {
+        "en": "She remained prolific under stress.",
+        "ru": "Она оставалась плодовитой в стрессе."
+      },
+      {
+        "en": "Results looked only prolific.",
+        "ru": "Результаты выглядели только плодовитыми."
+      }
+    ],
+    "colloc": "prolific approach · prolific result",
+    "ex": "The evidence is hardly prolific.",
+    "exRu": "Доказательства вряд ли плодовиты."
+  },
+  {
+    "word": "prolifically",
+    "lemma": "prolifically",
+    "ipa": "/proʊˈlɪfɪkli/",
+    "pos": "adv",
+    "tr": "плодовитый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued prolifically for reform.",
+        "ru": "Он много выступал за реформы."
+      },
+      {
+        "en": "The rule was applied prolifically.",
+        "ru": "Правило применялось обильно."
+      },
+      {
+        "en": "Costs rose prolifically last year.",
+        "ru": "Затраты выросли в прошлом году."
+      }
+    ],
+    "colloc": "speak prolifically · prolifically",
+    "ex": "He argued prolifically for reform.",
+    "exRu": "Он много выступал за реформы."
+  },
+  {
+    "word": "prop",
+    "lemma": "prop",
+    "ipa": "/prɑp/",
+    "pos": "verb",
+    "tr": "поддерживать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please prop the proposal carefully.",
+        "ru": "Пожалуйста, поддержите предложение осторожно."
+      },
+      {
+        "en": "They refuse to prop without evidence.",
+        "ru": "Они отказываются выступать без доказательств."
+      },
+      {
+        "en": "Leaders must prop when stakes are high.",
+        "ru": "Лидеры должны поддерживать, когда ставки высоки."
+      }
+    ],
+    "colloc": "prop pressure · refuse to prop",
+    "pattern": "prop + that",
+    "ex": "Please prop the proposal carefully.",
+    "exRu": "Пожалуйста, поддержите предложение осторожно."
+  },
+  {
+    "word": "prophet",
+    "lemma": "prophet",
+    "ipa": "/ˈprɑfət/",
+    "pos": "noun",
+    "tr": "Пророк",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one prophet.",
+        "ru": "Ее карьера перевернулась на одного пророка."
+      },
+      {
+        "en": "Public debate ignored the prophet.",
+        "ru": "Публичные дебаты проигнорировали пророка."
+      },
+      {
+        "en": "Document every prophet in the log.",
+        "ru": "Документируйте каждого пророка в журнале."
+      }
+    ],
+    "colloc": "clear prophet · address the prophet",
+    "ex": "Her career turned on one prophet.",
+    "exRu": "Ее карьера перевернулась на одного пророка."
+  },
+  {
+    "word": "prophetic",
+    "lemma": "prophetic",
+    "ipa": "/prəˈfɛtɪk/",
+    "pos": "adj",
+    "tr": "пророческий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less prophetic option.",
+        "ru": "Выберите менее пророческий вариант."
+      },
+      {
+        "en": "The design feels prophetic.",
+        "ru": "Дизайн кажется пророческим."
+      },
+      {
+        "en": "A prophetic policy risks backlash.",
+        "ru": "Пророческая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly prophetic · remain prophetic",
+    "ex": "Choose a less prophetic option.",
+    "exRu": "Выберите менее пророческий вариант."
+  },
+  {
+    "word": "protagonist",
+    "lemma": "protagonist",
+    "ipa": "/proʊˈtægənəst/",
+    "pos": "noun",
+    "tr": "главный герой",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one protagonist.",
+        "ru": "Ее карьера перевернулась на одного главного героя."
+      },
+      {
+        "en": "Public debate ignored the protagonist.",
+        "ru": "Общественные дебаты проигнорировали главного героя."
+      },
+      {
+        "en": "Document every protagonist in the log.",
+        "ru": "Документируйте каждого главного героя в журнале."
+      }
+    ],
+    "colloc": "the protagonist · protagonist of",
+    "ex": "Her career turned on one protagonist.",
+    "exRu": "Ее карьера перевернулась на одного главного героя."
+  },
+  {
+    "word": "provisions",
+    "lemma": "provisions",
+    "ipa": "/prəˈvɪʒənz/",
+    "pos": "noun",
+    "tr": "положения",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one provisions.",
+        "ru": "Ее карьера перевернулась на одно положение."
+      },
+      {
+        "en": "Public debate ignored the provisions.",
+        "ru": "Общественные дебаты проигнорировали эти положения."
+      },
+      {
+        "en": "Document every provisions in the log.",
+        "ru": "Документируйте все положения в журнале."
+      }
+    ],
+    "colloc": "the provisions · provisions of",
+    "ex": "Her career turned on one provisions.",
+    "exRu": "Ее карьера перевернулась на одно положение."
+  },
+  {
+    "word": "provocative",
+    "lemma": "provocative",
+    "ipa": "/proʊˈvɑkətɪv/",
+    "pos": "adj",
+    "tr": "вызывающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly provocative.",
+        "ru": "Доказательства вряд ли провокационные."
+      },
+      {
+        "en": "She remained provocative under stress.",
+        "ru": "Она оставалась провокационной в состоянии стресса."
+      },
+      {
+        "en": "Results looked only provocative.",
+        "ru": "Результаты выглядели только провокационно."
+      }
+    ],
+    "colloc": "provocative approach · remain provocative",
+    "ex": "The evidence is hardly provocative.",
+    "exRu": "Доказательства вряд ли провокационные."
+  },
+  {
+    "word": "provocatively",
+    "lemma": "provocatively",
+    "ipa": "/proʊˈvɑkətɪvli/",
+    "pos": "adv",
+    "tr": "провокационно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample provocatively.",
+        "ru": "Провоцируйте образец."
+      },
+      {
+        "en": "Support arrived provocatively.",
+        "ru": "Поддержка прибыла провокационно."
+      },
+      {
+        "en": "The plan failed provocatively.",
+        "ru": "План провалился провокационно."
+      }
+    ],
+    "colloc": "respond provocatively · provocatively",
+    "ex": "Handle the sample provocatively.",
+    "exRu": "Провоцируйте образец."
+  },
+  {
+    "word": "prowl",
+    "lemma": "prowl",
+    "ipa": "/praʊl/",
+    "pos": "verb",
+    "tr": "бродить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to prowl with precision.",
+        "ru": "Она научилась рыскать с точностью."
+      },
+      {
+        "en": "We will prowl the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics prowl the choice harshly.",
+        "ru": "Критики жестко рыщут по выбору."
+      }
+    ],
+    "colloc": "prowl pressure · refuse to prowl",
+    "pattern": "prowl (+ prep)",
+    "ex": "She learned to prowl with precision.",
+    "exRu": "Она научилась рыскать с точностью."
+  },
+  {
+    "word": "psyche",
+    "lemma": "psyche",
+    "ipa": "/ˈsaɪki/",
+    "pos": "noun",
+    "tr": "психика",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the psyche closely.",
+        "ru": "Исследователи внимательно изучили психику."
+      },
+      {
+        "en": "The psyche shaped the final decision.",
+        "ru": "Психика сформировала окончательное решение."
+      },
+      {
+        "en": "Without the psyche, the argument collapses.",
+        "ru": "Без психики аргумент рушится."
+      }
+    ],
+    "colloc": "clear psyche · address the psyche",
+    "ex": "Researchers examined the psyche closely.",
+    "exRu": "Исследователи внимательно изучили психику."
+  },
+  {
+    "word": "psychiatrist",
+    "lemma": "psychiatrist",
+    "ipa": "/səˈkaɪətrəst/",
+    "pos": "noun",
+    "tr": "психиатр",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the psychiatrist.",
+        "ru": "Они недооценили психиатра."
+      },
+      {
+        "en": "A clear psychiatrist emerged from the data.",
+        "ru": "Из данных вышел явный психиатр."
+      },
+      {
+        "en": "Address the psychiatrist before it grows.",
+        "ru": "Обратитесь к психиатру, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear psychiatrist · address the psychiatrist",
+    "ex": "They underestimated the psychiatrist.",
+    "exRu": "Они недооценили психиатра."
+  },
+  {
+    "word": "purity",
+    "lemma": "purity",
+    "ipa": "/ˈpjʊrɪti/",
+    "pos": "noun",
+    "tr": "чистота",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the purity.",
+        "ru": "Они недооценили чистоту."
+      },
+      {
+        "en": "A clear purity emerged from the data.",
+        "ru": "Из данных вытекала четкая чистота."
+      },
+      {
+        "en": "Address the purity before it grows.",
+        "ru": "Обращайтесь к чистоте, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear purity · purity of",
+    "ex": "They underestimated the purity.",
+    "exRu": "Они недооценили чистоту."
+  },
+  {
+    "word": "qualitative",
+    "lemma": "qualitative",
+    "ipa": "/kˈwɑləˌteɪtɪv/",
+    "pos": "noun",
+    "tr": "качественный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple qualitative.",
+        "ru": "Простого качественного не было."
+      },
+      {
+        "en": "Critics mocked the qualitative.",
+        "ru": "Критики высмеивали качество."
+      },
+      {
+        "en": "We need a working definition of qualitative.",
+        "ru": "Нам необходимо рабочее определение качества."
+      }
+    ],
+    "colloc": "clear qualitative · qualitative of",
+    "ex": "There was no simple qualitative.",
+    "exRu": "Простого качественного не было."
+  },
+  {
+    "word": "quarry",
+    "lemma": "quarry",
+    "ipa": "/kˈwɔri/",
+    "pos": "noun",
+    "tr": "карьер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking quarry.",
+        "ru": "В докладе приводится поразительный карьер."
+      },
+      {
+        "en": "Funding hinges on this quarry.",
+        "ru": "Финансирование зависит от этого карьера."
+      },
+      {
+        "en": "Students often confuse quarry with related terms.",
+        "ru": "Студенты часто путают карьер с родственными терминами."
+      }
+    ],
+    "colloc": "clear quarry · quarry of",
+    "ex": "The report cites a striking quarry.",
+    "exRu": "В докладе приводится поразительный карьер."
+  },
+  {
+    "word": "quip",
+    "lemma": "quip",
+    "ipa": "/kwɪp/",
+    "pos": "noun",
+    "tr": "острая шутка; колкость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one quip.",
+        "ru": "Ее карьера перевернулась на одно перо."
+      },
+      {
+        "en": "Public debate ignored the quip.",
+        "ru": "Публичные дебаты проигнорировали шутку."
+      },
+      {
+        "en": "Document every quip in the log.",
+        "ru": "Задокументируйте каждый пункт в журнале."
+      }
+    ],
+    "colloc": "clear quip · address the quip",
+    "ex": "Her career turned on one quip.",
+    "exRu": "Ее карьера перевернулась на одно перо."
+  },
+  {
+    "word": "quirk",
+    "lemma": "quirk",
+    "ipa": "/kwərk/",
+    "pos": "noun",
+    "tr": "причуда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one quirk.",
+        "ru": "Ее карьера перевернулась на одну причуду."
+      },
+      {
+        "en": "Public debate ignored the quirk.",
+        "ru": "Публичные дебаты проигнорировали причуду."
+      },
+      {
+        "en": "Document every quirk in the log.",
+        "ru": "Документируйте каждую причуду в журнале."
+      }
+    ],
+    "colloc": "the quirk · quirk of",
+    "ex": "Her career turned on one quirk.",
+    "exRu": "Ее карьера перевернулась на одну причуду."
+  },
+  {
+    "word": "quirky",
+    "lemma": "quirky",
+    "ipa": "/kˈwərki/",
+    "pos": "adj",
+    "tr": "причудливый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less quirky option.",
+        "ru": "Выберите менее странный вариант."
+      },
+      {
+        "en": "The design feels quirky.",
+        "ru": "Дизайн кажется причудливым."
+      },
+      {
+        "en": "A quirky policy risks backlash.",
+        "ru": "Причудливая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "quirky tone · remain quirky",
+    "ex": "Choose a less quirky option.",
+    "exRu": "Выберите менее странный вариант."
+  },
+  {
+    "word": "radiator",
+    "lemma": "radiator",
+    "ipa": "/ˈreɪdiˌeɪtər/",
+    "pos": "noun",
+    "tr": "радиатор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the radiator.",
+        "ru": "Они недооценили радиатор."
+      },
+      {
+        "en": "A clear radiator emerged from the data.",
+        "ru": "Из данных вышел четкий радиатор."
+      },
+      {
+        "en": "Address the radiator before it grows.",
+        "ru": "Обратитесь к радиатору, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear radiator · address the radiator",
+    "ex": "They underestimated the radiator.",
+    "exRu": "Они недооценили радиатор."
+  },
+  {
+    "word": "rapport",
+    "lemma": "rapport",
+    "ipa": "/ræˈpɔr/",
+    "pos": "noun",
+    "tr": "взаимопонимание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one rapport.",
+        "ru": "Ее карьера перевернулась на один раппорт."
+      },
+      {
+        "en": "Public debate ignored the rapport.",
+        "ru": "Публичные дебаты игнорировали взаимопонимание."
+      },
+      {
+        "en": "Document every rapport in the log.",
+        "ru": "Документируйте каждый раппорт в журнале."
+      }
+    ],
+    "colloc": "the rapport · rapport of",
+    "ex": "Her career turned on one rapport.",
+    "exRu": "Ее карьера перевернулась на один раппорт."
+  },
+  {
+    "word": "rarity",
+    "lemma": "rarity",
+    "ipa": "/ˈrɛrɪti/",
+    "pos": "noun",
+    "tr": "редкость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple rarity.",
+        "ru": "Простой редкости не было."
+      },
+      {
+        "en": "Critics mocked the rarity.",
+        "ru": "Критики высмеяли редкость."
+      },
+      {
+        "en": "We need a working definition of rarity.",
+        "ru": "Нам нужно рабочее определение редкости."
+      }
+    ],
+    "colloc": "clear rarity · address the rarity",
+    "ex": "There was no simple rarity.",
+    "exRu": "Простой редкости не было."
+  },
+  {
+    "word": "raunchily",
+    "lemma": "raunchily",
+    "ipa": "/raunchily/",
+    "pos": "adv",
+    "tr": "Раунчили",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke raunchily about the issue.",
+        "ru": "Она говорила по этому поводу шумно."
+      },
+      {
+        "en": "The team responded raunchily.",
+        "ru": "Команда ответила раунчили."
+      },
+      {
+        "en": "Progress moved raunchily after the fix.",
+        "ru": "Прогресс двигался раунчильно после исправления."
+      }
+    ],
+    "colloc": "act raunchily · raunchily",
+    "ex": "She spoke raunchily about the issue.",
+    "exRu": "Она говорила по этому поводу шумно."
+  },
+  {
+    "word": "raunchy",
+    "lemma": "raunchy",
+    "ipa": "/ˈrɔnʧi/",
+    "pos": "adj",
+    "tr": "хриплый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less raunchy option.",
+        "ru": "Выберите менее резкий вариант."
+      },
+      {
+        "en": "The design feels raunchy.",
+        "ru": "Дизайн кажется неуклюжим."
+      },
+      {
+        "en": "A raunchy policy risks backlash.",
+        "ru": "Жестокая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly raunchy · raunchy result",
+    "ex": "Choose a less raunchy option.",
+    "exRu": "Выберите менее резкий вариант."
+  },
+  {
+    "word": "readable",
+    "lemma": "readable",
+    "ipa": "/ˈridəbəl/",
+    "pos": "adj",
+    "tr": "читаемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A readable approach may help.",
+        "ru": "Приемлемый подход может помочь."
+      },
+      {
+        "en": "His answer sounded readable.",
+        "ru": "Его ответ звучал читабельно."
+      },
+      {
+        "en": "Avoid readable claims without proof.",
+        "ru": "Избегайте читабельных утверждений без доказательств."
+      }
+    ],
+    "colloc": "readable tone · remain readable",
+    "ex": "A readable approach may help.",
+    "exRu": "Приемлемый подход может помочь."
+  },
+  {
+    "word": "realism",
+    "lemma": "realism",
+    "ipa": "/ˈriəlɪzm/",
+    "pos": "noun",
+    "tr": "Реализм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple realism.",
+        "ru": "Простого реализма не было."
+      },
+      {
+        "en": "Critics mocked the realism.",
+        "ru": "Критики высмеивали реализм."
+      },
+      {
+        "en": "We need a working definition of realism.",
+        "ru": "Нам нужно рабочее определение реализма."
+      }
+    ],
+    "colloc": "clear realism · realism of",
+    "ex": "There was no simple realism.",
+    "exRu": "Простого реализма не было."
+  },
+  {
+    "word": "realist",
+    "lemma": "realist",
+    "ipa": "/ˈriəlɪst/",
+    "pos": "noun",
+    "tr": "реалист",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the realist.",
+        "ru": "Они недооценивают реалистов."
+      },
+      {
+        "en": "A clear realist emerged from the data.",
+        "ru": "Из этих данных вышел явный реалист."
+      },
+      {
+        "en": "Address the realist before it grows.",
+        "ru": "Обращайтесь к реалисту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the realist · realist of",
+    "ex": "They underestimated the realist.",
+    "exRu": "Они недооценивают реалистов."
+  },
+  {
+    "word": "reap",
+    "lemma": "reap",
+    "ipa": "/rip/",
+    "pos": "verb",
+    "tr": "пожинать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to reap with precision.",
+        "ru": "Она научилась пожинать с точностью."
+      },
+      {
+        "en": "We will reap the policy next quarter.",
+        "ru": "Мы будем пожинать политику в следующем квартале."
+      },
+      {
+        "en": "Critics reap the choice harshly.",
+        "ru": "Критики жёстко пожинают выбор."
+      }
+    ],
+    "colloc": "reap pressure · reap + N",
+    "pattern": "reap (+ prep)",
+    "ex": "She learned to reap with precision.",
+    "exRu": "Она научилась пожинать с точностью."
+  },
+  {
+    "word": "reassurance",
+    "lemma": "reassurance",
+    "ipa": "/ˌriəˈʃʊrəns/",
+    "pos": "noun",
+    "tr": "заверения",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the reassurance.",
+        "ru": "Они недооценили уверенность."
+      },
+      {
+        "en": "A clear reassurance emerged from the data.",
+        "ru": "Явная уверенность появилась из данных."
+      },
+      {
+        "en": "Address the reassurance before it grows.",
+        "ru": "Успокойтесь до того, как она вырастет."
+      }
+    ],
+    "colloc": "clear reassurance · reassurance of",
+    "ex": "They underestimated the reassurance.",
+    "exRu": "Они недооценили уверенность."
+  },
+  {
+    "word": "recess",
+    "lemma": "recess",
+    "ipa": "/ˈrisɛs/",
+    "pos": "noun",
+    "tr": "перерыв",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the recess closely.",
+        "ru": "Исследователи внимательно изучили перерыв."
+      },
+      {
+        "en": "The recess shaped the final decision.",
+        "ru": "Перерыв сформировал окончательное решение."
+      },
+      {
+        "en": "Without the recess, the argument collapses.",
+        "ru": "Без перерыва аргумент рухнет."
+      }
+    ],
+    "colloc": "clear recess · address the recess",
+    "ex": "Researchers examined the recess closely.",
+    "exRu": "Исследователи внимательно изучили перерыв."
+  },
+  {
+    "word": "recessive",
+    "lemma": "recessive",
+    "ipa": "/rəˈsɛsɪv/",
+    "pos": "adj",
+    "tr": "рецессивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a recessive strategy.",
+        "ru": "Это была рецессивная стратегия."
+      },
+      {
+        "en": "The tone grew recessive.",
+        "ru": "Тон стал рецессивным."
+      },
+      {
+        "en": "They rejected the recessive proposal.",
+        "ru": "Они отвергли рецессивное предложение."
+      }
+    ],
+    "colloc": "highly recessive · remain recessive",
+    "ex": "It was a recessive strategy.",
+    "exRu": "Это была рецессивная стратегия."
+  },
+  {
+    "word": "recharge",
+    "lemma": "recharge",
+    "ipa": "/riˈʧɑrʤ/",
+    "pos": "verb",
+    "tr": "чтобы зарядить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers recharge resources each week.",
+        "ru": "Менеджеры перезаряжают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to recharge too quickly.",
+        "ru": "Он слишком быстро перезаряжается."
+      },
+      {
+        "en": "They recharge only after a full review.",
+        "ru": "Они перезаряжаются только после полного обзора."
+      }
+    ],
+    "colloc": "recharge the claim · recharge + N",
+    "pattern": "recharge + that",
+    "ex": "Managers recharge resources each week.",
+    "exRu": "Менеджеры перезаряжают ресурсы каждую неделю."
+  },
+  {
+    "word": "recite",
+    "lemma": "recite",
+    "ipa": "/rəˈsaɪt/",
+    "pos": "verb",
+    "tr": "читать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to recite with precision.",
+        "ru": "Она научилась читать с точностью."
+      },
+      {
+        "en": "We will recite the policy next quarter.",
+        "ru": "Мы прочитаем политику в следующем квартале."
+      },
+      {
+        "en": "Critics recite the choice harshly.",
+        "ru": "Критики жестко цитируют выбор."
+      }
+    ],
+    "colloc": "recite carefully · refuse to recite",
+    "pattern": "recite + to-INF",
+    "ex": "She learned to recite with precision.",
+    "exRu": "Она научилась читать с точностью."
+  },
+  {
+    "word": "recollection",
+    "lemma": "recollection",
+    "ipa": "/ˌrɛkəˈlɛkʃən/",
+    "pos": "noun",
+    "tr": "Воспоминание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking recollection.",
+        "ru": "В докладе приводится поразительное воспоминание."
+      },
+      {
+        "en": "Funding hinges on this recollection.",
+        "ru": "Финансирование зависит от этого воспоминания."
+      },
+      {
+        "en": "Students often confuse recollection with related terms.",
+        "ru": "Студенты часто путают воспоминания с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear recollection · address the recollection",
+    "ex": "The report cites a striking recollection.",
+    "exRu": "В докладе приводится поразительное воспоминание."
+  }
+]

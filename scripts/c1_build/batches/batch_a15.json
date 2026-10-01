@@ -1,0 +1,1258 @@
+[
+  {
+    "word": "intrinsic",
+    "lemma": "intrinsic",
+    "ipa": "/ˌɪnˈtrɪnsɪk/",
+    "pos": "noun",
+    "tr": "внутренний",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple intrinsic.",
+        "ru": "Не было простого внутреннего."
+      },
+      {
+        "en": "Critics mocked the intrinsic.",
+        "ru": "Критики высмеивали внутреннее."
+      },
+      {
+        "en": "We need a working definition of intrinsic.",
+        "ru": "Нам нужно рабочее определение внутреннего."
+      }
+    ],
+    "colloc": "clear intrinsic · intrinsic of",
+    "ex": "There was no simple intrinsic.",
+    "exRu": "Не было простого внутреннего."
+  },
+  {
+    "word": "intrinsically",
+    "lemma": "intrinsically",
+    "ipa": "/ˌɪnˈtrɪnsɪkəli/",
+    "pos": "adv",
+    "tr": "внутренне",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke intrinsically about the issue.",
+        "ru": "Она по сути говорила о проблеме."
+      },
+      {
+        "en": "The team responded intrinsically.",
+        "ru": "Команда отреагировала внутренне."
+      },
+      {
+        "en": "Progress moved intrinsically after the fix.",
+        "ru": "Прогресс двигался внутренне после исправления."
+      }
+    ],
+    "colloc": "respond intrinsically · intrinsically",
+    "ex": "She spoke intrinsically about the issue.",
+    "exRu": "Она по сути говорила о проблеме."
+  },
+  {
+    "word": "intuit",
+    "lemma": "intuit",
+    "ipa": "/ˌɪnˈtuət/",
+    "pos": "verb",
+    "tr": "интуитивно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please intuit the proposal carefully.",
+        "ru": "Пожалуйста, внимательно изучите предложение."
+      },
+      {
+        "en": "They refuse to intuit without evidence.",
+        "ru": "Они отказываются от интуиции без доказательств."
+      },
+      {
+        "en": "Leaders must intuit when stakes are high.",
+        "ru": "Лидеры должны интуиции, когда ставки высоки."
+      }
+    ],
+    "colloc": "intuit pressure · intuit + N",
+    "pattern": "intuit + that",
+    "ex": "Please intuit the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно изучите предложение."
+  },
+  {
+    "word": "intuition",
+    "lemma": "intuition",
+    "ipa": "/ˌɪntuˈɪʃən/",
+    "pos": "noun",
+    "tr": "интуиция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the intuition.",
+        "ru": "Они недооценили интуицию."
+      },
+      {
+        "en": "A clear intuition emerged from the data.",
+        "ru": "Ясная интуиция появилась из данных."
+      },
+      {
+        "en": "Address the intuition before it grows.",
+        "ru": "Обратитесь к интуиции, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear intuition · intuition of",
+    "ex": "They underestimated the intuition.",
+    "exRu": "Они недооценили интуицию."
+  },
+  {
+    "word": "intuitive",
+    "lemma": "intuitive",
+    "ipa": "/ˌɪnˈtuətɪv/",
+    "pos": "adj",
+    "tr": "интуитивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less intuitive option.",
+        "ru": "Выберите менее интуитивный вариант."
+      },
+      {
+        "en": "The design feels intuitive.",
+        "ru": "Дизайн кажется интуитивным."
+      },
+      {
+        "en": "An intuitive policy risks backlash.",
+        "ru": "Интуитивная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "intuitive approach · intuitive result",
+    "ex": "Choose a less intuitive option.",
+    "exRu": "Выберите менее интуитивный вариант."
+  },
+  {
+    "word": "intuitively",
+    "lemma": "intuitively",
+    "ipa": "/ˌɪnˈtuɪtɪvli/",
+    "pos": "adv",
+    "tr": "интуитивно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued intuitively for reform.",
+        "ru": "Он интуитивно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied intuitively.",
+        "ru": "Правило применялось интуитивно."
+      },
+      {
+        "en": "Costs rose intuitively last year.",
+        "ru": "В прошлом году цены выросли интуитивно."
+      }
+    ],
+    "colloc": "speak intuitively · intuitively",
+    "ex": "He argued intuitively for reform.",
+    "exRu": "Он интуитивно выступал за реформы."
+  },
+  {
+    "word": "invoice",
+    "lemma": "invoice",
+    "ipa": "/ˈɪnvɔɪs/",
+    "pos": "noun",
+    "tr": "счет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the invoice closely.",
+        "ru": "Исследователи внимательно изучили счет."
+      },
+      {
+        "en": "The invoice shaped the final decision.",
+        "ru": "Счет сформировал окончательное решение."
+      },
+      {
+        "en": "Without the invoice, the argument collapses.",
+        "ru": "Без счета-фактуры аргумент рухнет."
+      }
+    ],
+    "colloc": "the invoice · invoice of",
+    "ex": "Researchers examined the invoice closely.",
+    "exRu": "Исследователи внимательно изучили счет."
+  },
+  {
+    "word": "irate",
+    "lemma": "irate",
+    "ipa": "/aɪˈreɪt/",
+    "pos": "adj",
+    "tr": "разгневанный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less irate option.",
+        "ru": "Выберите менее раздражающий вариант."
+      },
+      {
+        "en": "The design feels irate.",
+        "ru": "Дизайн кажется раздражающим."
+      },
+      {
+        "en": "An irate policy risks backlash.",
+        "ru": "Разгневанная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly irate · irate result",
+    "ex": "Choose a less irate option.",
+    "exRu": "Выберите менее раздражающий вариант."
+  },
+  {
+    "word": "irately",
+    "lemma": "irately",
+    "ipa": "/irately/",
+    "pos": "adv",
+    "tr": "неистово",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke irately about the issue.",
+        "ru": "Она гневно высказалась по этому поводу."
+      },
+      {
+        "en": "The team responded irately.",
+        "ru": "Команда отреагировала гневно."
+      },
+      {
+        "en": "Progress moved irately after the fix.",
+        "ru": "Прогресс сильно продвинулся после исправления."
+      }
+    ],
+    "colloc": "speak irately · irately",
+    "ex": "She spoke irately about the issue.",
+    "exRu": "Она гневно высказалась по этому поводу."
+  },
+  {
+    "word": "irrelevancy",
+    "lemma": "irrelevancy",
+    "ipa": "/ˌɪˈrɛləvənsi/",
+    "pos": "noun",
+    "tr": "нерелевантность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the irrelevancy closely.",
+        "ru": "Исследователи внимательно изучили нерелевантность."
+      },
+      {
+        "en": "The irrelevancy shaped the final decision.",
+        "ru": "Неактуальность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the irrelevancy, the argument collapses.",
+        "ru": "Без нерелевантности аргумент рушится."
+      }
+    ],
+    "colloc": "clear irrelevancy · irrelevancy of",
+    "ex": "Researchers examined the irrelevancy closely.",
+    "exRu": "Исследователи внимательно изучили нерелевантность."
+  },
+  {
+    "word": "irrevocable",
+    "lemma": "irrevocable",
+    "ipa": "/ˌɪˈrɛvəkəbəl/",
+    "pos": "adj",
+    "tr": "безвозвратный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less irrevocable option.",
+        "ru": "Выберите менее безотзывный вариант."
+      },
+      {
+        "en": "The design feels irrevocable.",
+        "ru": "Дизайн кажется безотзывным."
+      },
+      {
+        "en": "An irrevocable policy risks backlash.",
+        "ru": "Безотзывная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "irrevocable tone · remain irrevocable",
+    "ex": "Choose a less irrevocable option.",
+    "exRu": "Выберите менее безотзывный вариант."
+  },
+  {
+    "word": "irrevocably",
+    "lemma": "irrevocably",
+    "ipa": "/ˌɪˌrɛˈvoʊkəbli/",
+    "pos": "adv",
+    "tr": "необратимо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued irrevocably for reform.",
+        "ru": "Он безвозвратно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied irrevocably.",
+        "ru": "Правило применялось безвозвратно."
+      },
+      {
+        "en": "Costs rose irrevocably last year.",
+        "ru": "Затраты в прошлом году выросли безвозвратно."
+      }
+    ],
+    "colloc": "act irrevocably · irrevocably",
+    "ex": "He argued irrevocably for reform.",
+    "exRu": "Он безвозвратно выступал за реформы."
+  },
+  {
+    "word": "itinerary",
+    "lemma": "itinerary",
+    "ipa": "/aɪˈtɪnərˌɛri/",
+    "pos": "noun",
+    "tr": "маршрут",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple itinerary.",
+        "ru": "Простого маршрута не было."
+      },
+      {
+        "en": "Critics mocked the itinerary.",
+        "ru": "Критики высмеяли маршрут."
+      },
+      {
+        "en": "We need a working definition of itinerary.",
+        "ru": "Нам нужно рабочее определение маршрута."
+      }
+    ],
+    "colloc": "clear itinerary · itinerary of",
+    "ex": "There was no simple itinerary.",
+    "exRu": "Простого маршрута не было."
+  },
+  {
+    "word": "jargon",
+    "lemma": "jargon",
+    "ipa": "/ˈʤɑrgən/",
+    "pos": "noun",
+    "tr": "жаргон",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the jargon closely.",
+        "ru": "Исследователи внимательно изучили жаргон."
+      },
+      {
+        "en": "The jargon shaped the final decision.",
+        "ru": "Жаргон сформировал окончательное решение."
+      },
+      {
+        "en": "Without the jargon, the argument collapses.",
+        "ru": "Без жаргона аргумент рухнет."
+      }
+    ],
+    "colloc": "clear jargon · jargon of",
+    "ex": "Researchers examined the jargon closely.",
+    "exRu": "Исследователи внимательно изучили жаргон."
+  },
+  {
+    "word": "jarring",
+    "lemma": "jarring",
+    "ipa": "/ˈʤɑrɪŋ/",
+    "pos": "adj",
+    "tr": "резкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a jarring strategy.",
+        "ru": "Это была жёсткая стратегия."
+      },
+      {
+        "en": "The tone grew jarring.",
+        "ru": "Тон стал резким."
+      },
+      {
+        "en": "They rejected the jarring proposal.",
+        "ru": "Они отвергли резкое предложение."
+      }
+    ],
+    "colloc": "jarring tone · remain jarring",
+    "ex": "It was a jarring strategy.",
+    "exRu": "Это была жёсткая стратегия."
+  },
+  {
+    "word": "jersey",
+    "lemma": "jersey",
+    "ipa": "/ˈʤərzi/",
+    "pos": "noun",
+    "tr": "майка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the jersey.",
+        "ru": "Они недооценили футболку."
+      },
+      {
+        "en": "A clear jersey emerged from the data.",
+        "ru": "Из данных вышла четкая майка."
+      },
+      {
+        "en": "Address the jersey before it grows.",
+        "ru": "Обращайтесь к майке, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear jersey · address the jersey",
+    "ex": "They underestimated the jersey.",
+    "exRu": "Они недооценили футболку."
+  },
+  {
+    "word": "justly",
+    "lemma": "justly",
+    "ipa": "/ˈʤəstli/",
+    "pos": "adv",
+    "tr": "только",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke justly about the issue.",
+        "ru": "Она справедливо высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded justly.",
+        "ru": "Команда ответила справедливо."
+      },
+      {
+        "en": "Progress moved justly after the fix.",
+        "ru": "Прогресс двигался только после исправления."
+      }
+    ],
+    "colloc": "act justly · justly",
+    "ex": "She spoke justly about the issue.",
+    "exRu": "Она справедливо высказалась по этому вопросу."
+  },
+  {
+    "word": "juvenile",
+    "lemma": "juvenile",
+    "ipa": "/ˈʤuvəˌnaɪl/",
+    "pos": "noun",
+    "tr": "несовершеннолетний",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking juvenile.",
+        "ru": "В докладе приводится поразительный пример несовершеннолетних."
+      },
+      {
+        "en": "Funding hinges on this juvenile.",
+        "ru": "Финансирование зависит от этого несовершеннолетнего."
+      },
+      {
+        "en": "Students often confuse juvenile with related terms.",
+        "ru": "Студенты часто путают несовершеннолетних с родственными терминами."
+      }
+    ],
+    "colloc": "clear juvenile · juvenile of",
+    "ex": "The report cites a striking juvenile.",
+    "exRu": "В докладе приводится поразительный пример несовершеннолетних."
+  },
+  {
+    "word": "kinetic",
+    "lemma": "kinetic",
+    "ipa": "/kɪˈnɛtɪk/",
+    "pos": "adj",
+    "tr": "кинетический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly kinetic.",
+        "ru": "Доказательства вряд ли кинетические."
+      },
+      {
+        "en": "She remained kinetic under stress.",
+        "ru": "Она оставалась кинетической в стрессе."
+      },
+      {
+        "en": "Results looked only kinetic.",
+        "ru": "Результаты выглядели только кинетически."
+      }
+    ],
+    "colloc": "kinetic approach · kinetic result",
+    "ex": "The evidence is hardly kinetic.",
+    "exRu": "Доказательства вряд ли кинетические."
+  },
+  {
+    "word": "kinetically",
+    "lemma": "kinetically",
+    "ipa": "/kinetically/",
+    "pos": "adv",
+    "tr": "кинетически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued kinetically overnight.",
+        "ru": "Работа продолжалась кинетически всю ночь."
+      },
+      {
+        "en": "She answered kinetically and clearly.",
+        "ru": "Она ответила кинетически и ясно."
+      },
+      {
+        "en": "The claim was kinetically dismissed.",
+        "ru": "Иск был кинетически отклонен."
+      }
+    ],
+    "colloc": "act kinetically · kinetically",
+    "ex": "Work continued kinetically overnight.",
+    "exRu": "Работа продолжалась кинетически всю ночь."
+  },
+  {
+    "word": "knowledgeable",
+    "lemma": "knowledgeable",
+    "ipa": "/ˈnɑləʤəbəl/",
+    "pos": "adj",
+    "tr": "обладающий знаниями",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less knowledgeable option.",
+        "ru": "Выберите менее осведомленный вариант."
+      },
+      {
+        "en": "The design feels knowledgeable.",
+        "ru": "Дизайн кажется знающим."
+      },
+      {
+        "en": "A knowledgeable policy risks backlash.",
+        "ru": "Осведомленная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "knowledgeable tone · remain knowledgeable",
+    "ex": "Choose a less knowledgeable option.",
+    "exRu": "Выберите менее осведомленный вариант."
+  },
+  {
+    "word": "labour",
+    "lemma": "labour",
+    "ipa": "/ˈleɪbər/",
+    "pos": "noun",
+    "tr": "труд",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking labour.",
+        "ru": "В докладе приводится поразительная работа."
+      },
+      {
+        "en": "Funding hinges on this labour.",
+        "ru": "Финансирование зависит от этой работы."
+      },
+      {
+        "en": "Students often confuse labour with related terms.",
+        "ru": "Студенты часто путают труд с родственными терминами."
+      }
+    ],
+    "colloc": "clear labour · labour of",
+    "ex": "The report cites a striking labour.",
+    "exRu": "В докладе приводится поразительная работа."
+  },
+  {
+    "word": "lament",
+    "lemma": "lament",
+    "ipa": "/ləˈmɛnt/",
+    "pos": "verb",
+    "tr": "оплакивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers lament resources each week.",
+        "ru": "Менеджеры жалуются на ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to lament too quickly.",
+        "ru": "Он склонен оплакивать слишком быстро."
+      },
+      {
+        "en": "They lament only after a full review.",
+        "ru": "Они жалуются только после полного обзора."
+      }
+    ],
+    "colloc": "lament the claim · lament + N",
+    "pattern": "lament + N",
+    "ex": "Managers lament resources each week.",
+    "exRu": "Менеджеры жалуются на ресурсы каждую неделю."
+  },
+  {
+    "word": "lamentation",
+    "lemma": "lamentation",
+    "ipa": "/lamentation/",
+    "pos": "noun",
+    "tr": "скорбь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one lamentation.",
+        "ru": "Ее карьера обернулась одним прискорбием."
+      },
+      {
+        "en": "Public debate ignored the lamentation.",
+        "ru": "Публичные дебаты проигнорировали плач."
+      },
+      {
+        "en": "Document every lamentation in the log.",
+        "ru": "Документируйте каждую жалобу в журнале."
+      }
+    ],
+    "colloc": "clear lamentation · lamentation of",
+    "ex": "Her career turned on one lamentation.",
+    "exRu": "Ее карьера обернулась одним прискорбием."
+  },
+  {
+    "word": "lapse",
+    "lemma": "lapse",
+    "ipa": "/læps/",
+    "pos": "noun",
+    "tr": "провал",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the lapse.",
+        "ru": "Они недооценили промах."
+      },
+      {
+        "en": "A clear lapse emerged from the data.",
+        "ru": "Явный пробел возник из данных."
+      },
+      {
+        "en": "Address the lapse before it grows.",
+        "ru": "Устраните упущение до того, как оно вырастет."
+      }
+    ],
+    "colloc": "the lapse · lapse of",
+    "ex": "They underestimated the lapse.",
+    "exRu": "Они недооценили промах."
+  },
+  {
+    "word": "large-scale",
+    "lemma": "large-scale",
+    "ipa": "/ˈlɑrʤˌskeɪl/",
+    "pos": "adj",
+    "tr": "крупномасштабный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly large-scale.",
+        "ru": "Доказательства вряд ли масштабные."
+      },
+      {
+        "en": "She remained large-scale under stress.",
+        "ru": "Она оставалась масштабной в условиях стресса."
+      },
+      {
+        "en": "Results looked only large-scale.",
+        "ru": "Результаты выглядели только масштабно."
+      }
+    ],
+    "colloc": "large-scale approach · large-scale result",
+    "ex": "The evidence is hardly large-scale.",
+    "exRu": "Доказательства вряд ли масштабные."
+  },
+  {
+    "word": "laryngitis",
+    "lemma": "laryngitis",
+    "ipa": "/ˌlɑrɪnˈʤaɪtəs/",
+    "pos": "noun",
+    "tr": "ларингит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one laryngitis.",
+        "ru": "Ее карьера перевернулась на один ларингит."
+      },
+      {
+        "en": "Public debate ignored the laryngitis.",
+        "ru": "Общественные дебаты проигнорировали ларингит."
+      },
+      {
+        "en": "Document every laryngitis in the log.",
+        "ru": "Документируйте каждый ларингит в журнале."
+      }
+    ],
+    "colloc": "clear laryngitis · laryngitis of",
+    "ex": "Her career turned on one laryngitis.",
+    "exRu": "Ее карьера перевернулась на один ларингит."
+  },
+  {
+    "word": "lassitude",
+    "lemma": "lassitude",
+    "ipa": "/lassitude/",
+    "pos": "noun",
+    "tr": "неловкость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking lassitude.",
+        "ru": "В докладе приводится поразительная слабость."
+      },
+      {
+        "en": "Funding hinges on this lassitude.",
+        "ru": "Финансирование зависит от этой слабости."
+      },
+      {
+        "en": "Students often confuse lassitude with related terms.",
+        "ru": "Студенты часто путают лассив с родственными терминами."
+      }
+    ],
+    "colloc": "clear lassitude · address the lassitude",
+    "ex": "The report cites a striking lassitude.",
+    "exRu": "В докладе приводится поразительная слабость."
+  },
+  {
+    "word": "latent",
+    "lemma": "latent",
+    "ipa": "/ˈleɪtənt/",
+    "pos": "adj",
+    "tr": "латентный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less latent option.",
+        "ru": "Выберите менее скрытый вариант."
+      },
+      {
+        "en": "The design feels latent.",
+        "ru": "Дизайн кажется скрытым."
+      },
+      {
+        "en": "A latent policy risks backlash.",
+        "ru": "Скрытая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "latent tone · remain latent",
+    "ex": "Choose a less latent option.",
+    "exRu": "Выберите менее скрытый вариант."
+  },
+  {
+    "word": "laudatory",
+    "lemma": "laudatory",
+    "ipa": "/ˈlɔdəˌtɔri/",
+    "pos": "adj",
+    "tr": "похвальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less laudatory option.",
+        "ru": "Выберите менее похвальный вариант."
+      },
+      {
+        "en": "The design feels laudatory.",
+        "ru": "Дизайн кажется похвальным."
+      },
+      {
+        "en": "A laudatory policy risks backlash.",
+        "ru": "Политика похвалы грозит ответной реакцией."
+      }
+    ],
+    "colloc": "laudatory approach · remain laudatory",
+    "ex": "Choose a less laudatory option.",
+    "exRu": "Выберите менее похвальный вариант."
+  },
+  {
+    "word": "lavatory",
+    "lemma": "lavatory",
+    "ipa": "/ˈlævəˌtɔri/",
+    "pos": "noun",
+    "tr": "туалет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the lavatory.",
+        "ru": "Они недооценили туалет."
+      },
+      {
+        "en": "A clear lavatory emerged from the data.",
+        "ru": "Из данных вышел чистый туалет."
+      },
+      {
+        "en": "Address the lavatory before it grows.",
+        "ru": "Обратитесь в туалет, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear lavatory · address the lavatory",
+    "ex": "They underestimated the lavatory.",
+    "exRu": "Они недооценили туалет."
+  },
+  {
+    "word": "leaven",
+    "lemma": "leaven",
+    "ipa": "/ˈlɛvən/",
+    "pos": "verb",
+    "tr": "оставлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please leaven the proposal carefully.",
+        "ru": "Пожалуйста, тщательно оставьте предложение."
+      },
+      {
+        "en": "They refuse to leaven without evidence.",
+        "ru": "Они отказываются уходить без доказательств."
+      },
+      {
+        "en": "Leaders must leaven when stakes are high.",
+        "ru": "Лидеры должны уйти, когда ставки высоки."
+      }
+    ],
+    "colloc": "leaven pressure · refuse to leaven",
+    "pattern": "leaven + to-INF",
+    "ex": "Please leaven the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно оставьте предложение."
+  },
+  {
+    "word": "leavening",
+    "lemma": "leavening",
+    "ipa": "/ˈlɛvənɪŋ/",
+    "pos": "noun",
+    "tr": "закваска",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple leavening.",
+        "ru": "Не было никакого простого увольнения."
+      },
+      {
+        "en": "Critics mocked the leavening.",
+        "ru": "Критики высмеяли подлость."
+      },
+      {
+        "en": "We need a working definition of leavening.",
+        "ru": "Нам нужно рабочее определение увольнения."
+      }
+    ],
+    "colloc": "clear leavening · address the leavening",
+    "ex": "There was no simple leavening.",
+    "exRu": "Не было никакого простого увольнения."
+  },
+  {
+    "word": "legion",
+    "lemma": "legion",
+    "ipa": "/ˈliʤən/",
+    "pos": "noun",
+    "tr": "легион",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one legion.",
+        "ru": "Ее карьера перевернулась на один легион."
+      },
+      {
+        "en": "Public debate ignored the legion.",
+        "ru": "Общественные дебаты проигнорировали легион."
+      },
+      {
+        "en": "Document every legion in the log.",
+        "ru": "Документируйте каждый легион в журнале."
+      }
+    ],
+    "colloc": "clear legion · address the legion",
+    "ex": "Her career turned on one legion.",
+    "exRu": "Ее карьера перевернулась на один легион."
+  },
+  {
+    "word": "lethargic",
+    "lemma": "lethargic",
+    "ipa": "/ləˈθɑrʤɪk/",
+    "pos": "adj",
+    "tr": "летаргический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A lethargic approach may help.",
+        "ru": "Летаргический подход может помочь."
+      },
+      {
+        "en": "His answer sounded lethargic.",
+        "ru": "Его ответ звучал вялым."
+      },
+      {
+        "en": "Avoid lethargic claims without proof.",
+        "ru": "Избегайте вялых утверждений без доказательств."
+      }
+    ],
+    "colloc": "lethargic tone · lethargic result",
+    "ex": "A lethargic approach may help.",
+    "exRu": "Летаргический подход может помочь."
+  },
+  {
+    "word": "lethargically",
+    "lemma": "lethargically",
+    "ipa": "/lethargically/",
+    "pos": "adv",
+    "tr": "вялый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued lethargically for reform.",
+        "ru": "Он беспощадно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied lethargically.",
+        "ru": "Правило применялось летаргично."
+      },
+      {
+        "en": "Costs rose lethargically last year.",
+        "ru": "Затраты в прошлом году резко выросли."
+      }
+    ],
+    "colloc": "act lethargically · lethargically",
+    "ex": "He argued lethargically for reform.",
+    "exRu": "Он беспощадно выступал за реформы."
+  },
+  {
+    "word": "lethargy",
+    "lemma": "lethargy",
+    "ipa": "/ˈlɛθərʤi/",
+    "pos": "noun",
+    "tr": "летаргия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking lethargy.",
+        "ru": "В докладе приводится поразительная летаргия."
+      },
+      {
+        "en": "Funding hinges on this lethargy.",
+        "ru": "Финансирование зависит от этой летаргии."
+      },
+      {
+        "en": "Students often confuse lethargy with related terms.",
+        "ru": "Студенты часто путают летаргию с родственными терминами."
+      }
+    ],
+    "colloc": "the lethargy · address the lethargy",
+    "ex": "The report cites a striking lethargy.",
+    "exRu": "В докладе приводится поразительная летаргия."
+  },
+  {
+    "word": "levy",
+    "lemma": "levy",
+    "ipa": "/ˈlɛvi/",
+    "pos": "noun",
+    "tr": "сбор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one levy.",
+        "ru": "Ее карьера обернулась одним сбором."
+      },
+      {
+        "en": "Public debate ignored the levy.",
+        "ru": "Общественные дебаты проигнорировали налог."
+      },
+      {
+        "en": "Document every levy in the log.",
+        "ru": "Документируйте каждый сбор в журнале."
+      }
+    ],
+    "colloc": "clear levy · levy of",
+    "ex": "Her career turned on one levy.",
+    "exRu": "Ее карьера обернулась одним сбором."
+  },
+  {
+    "word": "liaise",
+    "lemma": "liaise",
+    "ipa": "/liaise/",
+    "pos": "verb",
+    "tr": "поддерживать связь",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please liaise the proposal carefully.",
+        "ru": "Пожалуйста, внимательно свяжитесь с предложением."
+      },
+      {
+        "en": "They refuse to liaise without evidence.",
+        "ru": "Они отказываются поддерживать связь без доказательств."
+      },
+      {
+        "en": "Leaders must liaise when stakes are high.",
+        "ru": "Лидеры должны поддерживать связь, когда ставки высоки."
+      }
+    ],
+    "colloc": "liaise pressure · liaise + N",
+    "pattern": "liaise + to-INF",
+    "ex": "Please liaise the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно свяжитесь с предложением."
+  },
+  {
+    "word": "liaison",
+    "lemma": "liaison",
+    "ipa": "/liˈeɪˌzɑn/",
+    "pos": "noun",
+    "tr": "связь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the liaison.",
+        "ru": "Они недооценили связь."
+      },
+      {
+        "en": "A clear liaison emerged from the data.",
+        "ru": "Из этих данных была установлена четкая связь."
+      },
+      {
+        "en": "Address the liaison before it grows.",
+        "ru": "Обратись к связи до того, как она вырастет."
+      }
+    ],
+    "colloc": "clear liaison · address the liaison",
+    "ex": "They underestimated the liaison.",
+    "exRu": "Они недооценили связь."
+  },
+  {
+    "word": "licence",
+    "lemma": "licence",
+    "ipa": "/ˈlaɪsəns/",
+    "pos": "noun",
+    "tr": "лицензия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the licence closely.",
+        "ru": "Исследователи внимательно изучили лицензию."
+      },
+      {
+        "en": "The licence shaped the final decision.",
+        "ru": "Лицензия определила окончательное решение."
+      },
+      {
+        "en": "Without the licence, the argument collapses.",
+        "ru": "Без лицензии спор рушится."
+      }
+    ],
+    "colloc": "clear licence · address the licence",
+    "ex": "Researchers examined the licence closely.",
+    "exRu": "Исследователи внимательно изучили лицензию."
+  },
+  {
+    "word": "limitless",
+    "lemma": "limitless",
+    "ipa": "/ˈlɪmətləs/",
+    "pos": "adj",
+    "tr": "безграничный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less limitless option.",
+        "ru": "Выберите менее безграничный вариант."
+      },
+      {
+        "en": "The design feels limitless.",
+        "ru": "Дизайн кажется безграничным."
+      },
+      {
+        "en": "A limitless policy risks backlash.",
+        "ru": "Безграничная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly limitless · limitless result",
+    "ex": "Choose a less limitless option.",
+    "exRu": "Выберите менее безграничный вариант."
+  },
+  {
+    "word": "linearly",
+    "lemma": "linearly",
+    "ipa": "/ˈlɪniərli/",
+    "pos": "adv",
+    "tr": "линейно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke linearly about the issue.",
+        "ru": "Она линейно говорила о проблеме."
+      },
+      {
+        "en": "The team responded linearly.",
+        "ru": "Команда ответила линейно."
+      },
+      {
+        "en": "Progress moved linearly after the fix.",
+        "ru": "Прогресс двигался линейно после исправления."
+      }
+    ],
+    "colloc": "speak linearly · linearly",
+    "ex": "She spoke linearly about the issue.",
+    "exRu": "Она линейно говорила о проблеме."
+  },
+  {
+    "word": "locomotion",
+    "lemma": "locomotion",
+    "ipa": "/ˌloʊkəˈmoʊʃən/",
+    "pos": "noun",
+    "tr": "движение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the locomotion closely.",
+        "ru": "Исследователи внимательно изучили локомоцию."
+      },
+      {
+        "en": "The locomotion shaped the final decision.",
+        "ru": "Локомоция сформировала окончательное решение."
+      },
+      {
+        "en": "Without the locomotion, the argument collapses.",
+        "ru": "Без локомоции аргумент рухнет."
+      }
+    ],
+    "colloc": "clear locomotion · address the locomotion",
+    "ex": "Researchers examined the locomotion closely.",
+    "exRu": "Исследователи внимательно изучили локомоцию."
+  },
+  {
+    "word": "locomotive",
+    "lemma": "locomotive",
+    "ipa": "/ˌloʊkəˈmoʊtɪv/",
+    "pos": "noun",
+    "tr": "Локомотив",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the locomotive.",
+        "ru": "Они недооценили локомотив."
+      },
+      {
+        "en": "A clear locomotive emerged from the data.",
+        "ru": "Из данных вышел четкий локомотив."
+      },
+      {
+        "en": "Address the locomotive before it grows.",
+        "ru": "Обратись к локомотиву, пока он не вырос."
+      }
+    ],
+    "colloc": "the locomotive · address the locomotive",
+    "ex": "They underestimated the locomotive.",
+    "exRu": "Они недооценили локомотив."
+  },
+  {
+    "word": "lodge",
+    "lemma": "lodge",
+    "ipa": "/lɑʤ/",
+    "pos": "verb",
+    "tr": "ложиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please lodge the proposal carefully.",
+        "ru": "Пожалуйста, внесите предложение осторожно."
+      },
+      {
+        "en": "They refuse to lodge without evidence.",
+        "ru": "Они отказываются подавать документы без доказательств."
+      },
+      {
+        "en": "Leaders must lodge when stakes are high.",
+        "ru": "Лидеры должны подавать заявки, когда ставки высоки."
+      }
+    ],
+    "colloc": "lodge the claim · refuse to lodge",
+    "pattern": "lodge + that",
+    "ex": "Please lodge the proposal carefully.",
+    "exRu": "Пожалуйста, внесите предложение осторожно."
+  },
+  {
+    "word": "loiter",
+    "lemma": "loiter",
+    "ipa": "/ˈlɔɪtər/",
+    "pos": "verb",
+    "tr": "слоняться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers loiter resources each week.",
+        "ru": "Менеджеры размещают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to loiter too quickly.",
+        "ru": "Он склонен слоняться слишком быстро."
+      },
+      {
+        "en": "They loiter only after a full review.",
+        "ru": "Они появляются только после полного обзора."
+      }
+    ],
+    "colloc": "loiter pressure · refuse to loiter",
+    "pattern": "loiter + that",
+    "ex": "Managers loiter resources each week.",
+    "exRu": "Менеджеры размещают ресурсы каждую неделю."
+  },
+  {
+    "word": "long-standing",
+    "lemma": "long-standing",
+    "ipa": "/long-standing/",
+    "pos": "adj",
+    "tr": "давний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly long-standing.",
+        "ru": "Доказательства вряд ли давние."
+      },
+      {
+        "en": "She remained long-standing under stress.",
+        "ru": "Она долгое время находилась в состоянии стресса."
+      },
+      {
+        "en": "Results looked only long-standing.",
+        "ru": "Результаты выглядели только давними."
+      }
+    ],
+    "colloc": "long-standing tone · long-standing result",
+    "ex": "The evidence is hardly long-standing.",
+    "exRu": "Доказательства вряд ли давние."
+  },
+  {
+    "word": "ludicrous",
+    "lemma": "ludicrous",
+    "ipa": "/ˈludəkrəs/",
+    "pos": "adj",
+    "tr": "нелепый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less ludicrous option.",
+        "ru": "Выберите менее нелепый вариант."
+      },
+      {
+        "en": "The design feels ludicrous.",
+        "ru": "Дизайн кажется нелепым."
+      },
+      {
+        "en": "A ludicrous policy risks backlash.",
+        "ru": "Нелепая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "ludicrous tone · ludicrous result",
+    "ex": "Choose a less ludicrous option.",
+    "exRu": "Выберите менее нелепый вариант."
+  },
+  {
+    "word": "ludicrously",
+    "lemma": "ludicrously",
+    "ipa": "/ˈludəkrəsli/",
+    "pos": "adv",
+    "tr": "нелепо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued ludicrously overnight.",
+        "ru": "Работа продолжалась нелепо всю ночь."
+      },
+      {
+        "en": "She answered ludicrously and clearly.",
+        "ru": "Она ответила нелепо и ясно."
+      },
+      {
+        "en": "The claim was ludicrously dismissed.",
+        "ru": "Иск был смехотворно отклонен."
+      }
+    ],
+    "colloc": "act ludicrously · ludicrously",
+    "ex": "Work continued ludicrously overnight.",
+    "exRu": "Работа продолжалась нелепо всю ночь."
+  }
+]

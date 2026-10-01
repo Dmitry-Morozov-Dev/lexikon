@@ -1,0 +1,1163 @@
+[
+  {
+    "word": "gambit",
+    "lemma": "gambit",
+    "ipa": "/ˈgæmbɪt/",
+    "pos": "noun",
+    "tr": "гамбит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the gambit closely.",
+        "ru": "Исследователи внимательно изучили гамбит."
+      },
+      {
+        "en": "The gambit shaped the final decision.",
+        "ru": "Гамбит определил окончательное решение."
+      },
+      {
+        "en": "Without the gambit, the argument collapses.",
+        "ru": "Без гамбита аргумент рухнет."
+      }
+    ],
+    "colloc": "clear gambit · address the gambit"
+  },
+  {
+    "word": "gamely",
+    "lemma": "gamely",
+    "ipa": "/ˈgeɪmli/",
+    "pos": "adv",
+    "tr": "игривый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued gamely for reform.",
+        "ru": "Он активно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied gamely.",
+        "ru": "Правило применялось игриво."
+      },
+      {
+        "en": "Costs rose gamely last year.",
+        "ru": "Затраты выросли в прошлом году."
+      }
+    ],
+    "colloc": "respond gamely · gamely"
+  },
+  {
+    "word": "gape",
+    "lemma": "gape",
+    "ipa": "/geɪp/",
+    "pos": "verb",
+    "tr": "пробить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to gape with precision.",
+        "ru": "Она научилась лазить с точностью."
+      },
+      {
+        "en": "We will gape the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics gape the choice harshly.",
+        "ru": "Критики резко игнорируют выбор."
+      }
+    ],
+    "colloc": "gape the claim · refuse to gape",
+    "pattern": "gape + to-INF"
+  },
+  {
+    "word": "gauche",
+    "lemma": "gauche",
+    "ipa": "/goʊʃ/",
+    "pos": "adj",
+    "tr": "гауч",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a gauche strategy.",
+        "ru": "Это была грубая стратегия."
+      },
+      {
+        "en": "The tone grew gauche.",
+        "ru": "Тон вырос гауч."
+      },
+      {
+        "en": "They rejected the gauche proposal.",
+        "ru": "Они отвергли предложение Гауче."
+      }
+    ],
+    "colloc": "gauche tone · gauche result"
+  },
+  {
+    "word": "genome",
+    "lemma": "genome",
+    "ipa": "/ˈʤiˌnoʊm/",
+    "pos": "noun",
+    "tr": "геном",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one genome.",
+        "ru": "Ее карьера перевернулась на один геном."
+      },
+      {
+        "en": "Public debate ignored the genome.",
+        "ru": "Публичные дебаты проигнорировали геном."
+      },
+      {
+        "en": "Document every genome in the log.",
+        "ru": "Документируйте каждый геном в журнале."
+      }
+    ],
+    "colloc": "the genome · genome of"
+  },
+  {
+    "word": "genomic",
+    "lemma": "genomic",
+    "ipa": "/genomic/",
+    "pos": "adj",
+    "tr": "геномный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A genomic approach may help.",
+        "ru": "Геномный подход может помочь."
+      },
+      {
+        "en": "His answer sounded genomic.",
+        "ru": "Его ответ звучал геномно."
+      },
+      {
+        "en": "Avoid genomic claims without proof.",
+        "ru": "Избегайте геномных утверждений без доказательств."
+      }
+    ],
+    "colloc": "genomic approach · remain genomic"
+  },
+  {
+    "word": "genomically",
+    "lemma": "genomically",
+    "ipa": "/genomically/",
+    "pos": "adv",
+    "tr": "геномно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued genomically for reform.",
+        "ru": "Геномно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied genomically.",
+        "ru": "Правило применялось геномно."
+      },
+      {
+        "en": "Costs rose genomically last year.",
+        "ru": "В прошлом году расходы выросли геномно."
+      }
+    ],
+    "colloc": "speak genomically · genomically"
+  },
+  {
+    "word": "geological",
+    "lemma": "geological",
+    "ipa": "/ˌʤiəˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "геологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly geological.",
+        "ru": "Доказательства вряд ли геологические."
+      },
+      {
+        "en": "She remained geological under stress.",
+        "ru": "Она оставалась геологической в состоянии стресса."
+      },
+      {
+        "en": "Results looked only geological.",
+        "ru": "Результаты выглядели только геологически."
+      }
+    ],
+    "colloc": "geological tone · remain geological"
+  },
+  {
+    "word": "geologically",
+    "lemma": "geologically",
+    "ipa": "/geologically/",
+    "pos": "adv",
+    "tr": "геологически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued geologically for reform.",
+        "ru": "Он выступал за проведение геологических реформ."
+      },
+      {
+        "en": "The rule was applied geologically.",
+        "ru": "Правило применялось геологически."
+      },
+      {
+        "en": "Costs rose geologically last year.",
+        "ru": "Затраты в прошлом году геологически выросли."
+      }
+    ],
+    "colloc": "act geologically · geologically"
+  },
+  {
+    "word": "ghostly",
+    "lemma": "ghostly",
+    "ipa": "/ˈgoʊstli/",
+    "pos": "adj",
+    "tr": "призрачный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A ghostly approach may help.",
+        "ru": "Призрачный подход может помочь."
+      },
+      {
+        "en": "His answer sounded ghostly.",
+        "ru": "Его ответ звучал призрачно."
+      },
+      {
+        "en": "Avoid ghostly claims without proof.",
+        "ru": "Избегайте призрачных заявлений без доказательств."
+      }
+    ],
+    "colloc": "highly ghostly · remain ghostly"
+  },
+  {
+    "word": "glean",
+    "lemma": "glean",
+    "ipa": "/glin/",
+    "pos": "verb",
+    "tr": "сглазить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please glean the proposal carefully.",
+        "ru": "Пожалуйста, внимательно изучите предложение."
+      },
+      {
+        "en": "They refuse to glean without evidence.",
+        "ru": "Они отказываются искать доказательства."
+      },
+      {
+        "en": "Leaders must glean when stakes are high.",
+        "ru": "Лидеры должны сглазить, когда ставки высоки."
+      }
+    ],
+    "colloc": "glean carefully · refuse to glean",
+    "pattern": "glean + to-INF"
+  },
+  {
+    "word": "glitzy",
+    "lemma": "glitzy",
+    "ipa": "/ˈglɪtsi/",
+    "pos": "adj",
+    "tr": "блестящий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a glitzy strategy.",
+        "ru": "Это была блестящая стратегия."
+      },
+      {
+        "en": "The tone grew glitzy.",
+        "ru": "Тон стал блестящим."
+      },
+      {
+        "en": "They rejected the glitzy proposal.",
+        "ru": "Они отвергли блестящее предложение."
+      }
+    ],
+    "colloc": "highly glitzy · remain glitzy"
+  },
+  {
+    "word": "glum",
+    "lemma": "glum",
+    "ipa": "/gləm/",
+    "pos": "adj",
+    "tr": "слизь",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A glum approach may help.",
+        "ru": "Грубый подход может помочь."
+      },
+      {
+        "en": "His answer sounded glum.",
+        "ru": "Его ответ звучал мрачно."
+      },
+      {
+        "en": "Avoid glum claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "glum approach · remain glum"
+  },
+  {
+    "word": "glumly",
+    "lemma": "glumly",
+    "ipa": "/ˈgləmli/",
+    "pos": "adv",
+    "tr": "мрачно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued glumly for reform.",
+        "ru": "Он настойчиво выступал за реформы."
+      },
+      {
+        "en": "The rule was applied glumly.",
+        "ru": "Правило применялось мрачно."
+      },
+      {
+        "en": "Costs rose glumly last year.",
+        "ru": "Затраты в прошлом году резко выросли."
+      }
+    ],
+    "colloc": "respond glumly · glumly"
+  },
+  {
+    "word": "gnaw",
+    "lemma": "gnaw",
+    "ipa": "/nɔ/",
+    "pos": "verb",
+    "tr": "грызть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers gnaw resources each week.",
+        "ru": "Менеджеры грызут ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to gnaw too quickly.",
+        "ru": "Он склонен грызть слишком быстро."
+      },
+      {
+        "en": "They gnaw only after a full review.",
+        "ru": "Они грызут только после полного обзора."
+      }
+    ],
+    "colloc": "gnaw carefully · refuse to gnaw",
+    "pattern": "gnaw + N"
+  },
+  {
+    "word": "goose",
+    "lemma": "goose",
+    "ipa": "/gus/",
+    "pos": "noun",
+    "tr": "гусь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one goose.",
+        "ru": "Ее карьера перевернулась на одного гуся."
+      },
+      {
+        "en": "Public debate ignored the goose.",
+        "ru": "Публичные дебаты проигнорировали гуся."
+      },
+      {
+        "en": "Document every goose in the log.",
+        "ru": "Все документы на входе."
+      }
+    ],
+    "colloc": "clear goose · address the goose"
+  },
+  {
+    "word": "gourmet",
+    "lemma": "gourmet",
+    "ipa": "/ˈgʊrˌmeɪ/",
+    "pos": "adj",
+    "tr": "гурман",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly gourmet.",
+        "ru": "Доказательства вряд ли гурманские."
+      },
+      {
+        "en": "She remained gourmet under stress.",
+        "ru": "Она оставалась гурманом в состоянии стресса."
+      },
+      {
+        "en": "Results looked only gourmet.",
+        "ru": "Результаты выглядели только гурманами."
+      }
+    ],
+    "colloc": "gourmet tone · remain gourmet"
+  },
+  {
+    "word": "grace",
+    "lemma": "grace",
+    "ipa": "/greɪs/",
+    "pos": "noun",
+    "tr": "благодать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking grace.",
+        "ru": "В докладе приводится поразительная благодать."
+      },
+      {
+        "en": "Funding hinges on this grace.",
+        "ru": "Финансирование зависит от этой благодати."
+      },
+      {
+        "en": "Students often confuse grace with related terms.",
+        "ru": "Студенты часто путают благодать с родственными терминами."
+      }
+    ],
+    "colloc": "clear grace · address the grace"
+  },
+  {
+    "word": "graft",
+    "lemma": "graft",
+    "ipa": "/græft/",
+    "pos": "verb",
+    "tr": "пересадить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers graft resources each week.",
+        "ru": "Менеджеры переводят ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to graft too quickly.",
+        "ru": "Он слишком быстро пересаживается."
+      },
+      {
+        "en": "They graft only after a full review.",
+        "ru": "Пересаживают только после полного обзора."
+      }
+    ],
+    "colloc": "graft the claim · graft + N",
+    "pattern": "graft + N"
+  },
+  {
+    "word": "grapefruit",
+    "lemma": "grapefruit",
+    "ipa": "/ˈgreɪpˌfrut/",
+    "pos": "noun",
+    "tr": "грейпфрут",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one grapefruit.",
+        "ru": "Ее карьера обернулась одним грейпфрутом."
+      },
+      {
+        "en": "Public debate ignored the grapefruit.",
+        "ru": "Общественные дебаты проигнорировали грейпфрут."
+      },
+      {
+        "en": "Document every grapefruit in the log.",
+        "ru": "Документируйте каждый грейпфрут в журнале."
+      }
+    ],
+    "colloc": "the grapefruit · grapefruit of"
+  },
+  {
+    "word": "grave",
+    "lemma": "grave",
+    "ipa": "/greɪv/",
+    "pos": "noun",
+    "tr": "могила",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one grave.",
+        "ru": "Ее карьера перевернулась на одной могиле."
+      },
+      {
+        "en": "Public debate ignored the grave.",
+        "ru": "Общественные дебаты проигнорировали могилу."
+      },
+      {
+        "en": "Document every grave in the log.",
+        "ru": "Документируйте каждую могилу в журнале."
+      }
+    ],
+    "colloc": "clear grave · address the grave"
+  },
+  {
+    "word": "gravitate",
+    "lemma": "gravitate",
+    "ipa": "/ˈgrævɪˌteɪt/",
+    "pos": "verb",
+    "tr": "тяготеть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please gravitate the proposal carefully.",
+        "ru": "Пожалуйста, внимательно изучите это предложение."
+      },
+      {
+        "en": "They refuse to gravitate without evidence.",
+        "ru": "Они отказываются тяготеть без доказательств."
+      },
+      {
+        "en": "Leaders must gravitate when stakes are high.",
+        "ru": "Лидеры должны тяготеть, когда ставки высоки."
+      }
+    ],
+    "colloc": "gravitate pressure · gravitate + N",
+    "pattern": "gravitate + that"
+  },
+  {
+    "word": "gravitational",
+    "lemma": "gravitational",
+    "ipa": "/ˌgrævɪˈteɪʃənəl/",
+    "pos": "adj",
+    "tr": "гравитационный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less gravitational option.",
+        "ru": "Выберите менее гравитационный вариант."
+      },
+      {
+        "en": "The design feels gravitational.",
+        "ru": "Дизайн ощущается гравитационным."
+      },
+      {
+        "en": "A gravitational policy risks backlash.",
+        "ru": "Гравитационная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly gravitational · remain gravitational"
+  },
+  {
+    "word": "gravitationally",
+    "lemma": "gravitationally",
+    "ipa": "/ˌgrævəˈteɪʃnəli/",
+    "pos": "adv",
+    "tr": "гравитационно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample gravitationally.",
+        "ru": "Обработайте образец гравитационно."
+      },
+      {
+        "en": "Support arrived gravitationally.",
+        "ru": "Поддержка пришла гравитационно."
+      },
+      {
+        "en": "The plan failed gravitationally.",
+        "ru": "План провалился гравитационно."
+      }
+    ],
+    "colloc": "act gravitationally · gravitationally"
+  },
+  {
+    "word": "grid",
+    "lemma": "grid",
+    "ipa": "/grɪd/",
+    "pos": "noun",
+    "tr": "сетка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the grid.",
+        "ru": "Они недооценили грязь."
+      },
+      {
+        "en": "A clear grid emerged from the data.",
+        "ru": "Из данных возникла четкая сетка."
+      },
+      {
+        "en": "Address the grid before it grows.",
+        "ru": "Обращайтесь к сетке, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the grid · address the grid"
+  },
+  {
+    "word": "grievance",
+    "lemma": "grievance",
+    "ipa": "/ˈgrivəns/",
+    "pos": "noun",
+    "tr": "жалоба",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the grievance.",
+        "ru": "Они недооценили обиду."
+      },
+      {
+        "en": "A clear grievance emerged from the data.",
+        "ru": "Явное недовольство возникло из данных."
+      },
+      {
+        "en": "Address the grievance before it grows.",
+        "ru": "Устраните обиду до того, как она вырастет."
+      }
+    ],
+    "colloc": "the grievance · address the grievance"
+  },
+  {
+    "word": "grounds",
+    "lemma": "grounds",
+    "ipa": "/graʊnz/",
+    "pos": "noun",
+    "tr": "основания",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the grounds.",
+        "ru": "Они недооценили основания."
+      },
+      {
+        "en": "A clear grounds emerged from the data.",
+        "ru": "Явные основания появились из данных."
+      },
+      {
+        "en": "Address the grounds before it grows.",
+        "ru": "Устраните почву, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the grounds · address the grounds"
+  },
+  {
+    "word": "gruelling",
+    "lemma": "gruelling",
+    "ipa": "/gruelling/",
+    "pos": "adj",
+    "tr": "изнурительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A gruelling approach may help.",
+        "ru": "Изнурительный подход может помочь."
+      },
+      {
+        "en": "His answer sounded gruelling.",
+        "ru": "Его ответ звучал изнурительно."
+      },
+      {
+        "en": "Avoid gruelling claims without proof.",
+        "ru": "Избегайте изнурительных претензий без доказательств."
+      }
+    ],
+    "colloc": "highly gruelling · remain gruelling"
+  },
+  {
+    "word": "gruesome",
+    "lemma": "gruesome",
+    "ipa": "/ˈgrusəm/",
+    "pos": "adj",
+    "tr": "ужасный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A gruesome approach may help.",
+        "ru": "Ужасный подход может помочь."
+      },
+      {
+        "en": "His answer sounded gruesome.",
+        "ru": "Его ответ звучал ужасно."
+      },
+      {
+        "en": "Avoid gruesome claims without proof.",
+        "ru": "Избегайте ужасных заявлений без доказательств."
+      }
+    ],
+    "colloc": "gruesome tone · gruesome result"
+  },
+  {
+    "word": "gruesomely",
+    "lemma": "gruesomely",
+    "ipa": "/gruesomely/",
+    "pos": "adv",
+    "tr": "ужасно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke gruesomely about the issue.",
+        "ru": "Она ужасно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded gruesomely.",
+        "ru": "Команда отреагировала ужасно."
+      },
+      {
+        "en": "Progress moved gruesomely after the fix.",
+        "ru": "Прогресс ужасно двигался после исправления."
+      }
+    ],
+    "colloc": "act gruesomely · gruesomely"
+  },
+  {
+    "word": "grumble",
+    "lemma": "grumble",
+    "ipa": "/ˈgrəmbəl/",
+    "pos": "verb",
+    "tr": "ворчать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers grumble resources each week.",
+        "ru": "Менеджеры каждую неделю жалуются на ресурсы."
+      },
+      {
+        "en": "He tends to grumble too quickly.",
+        "ru": "Он слишком быстро ворчит."
+      },
+      {
+        "en": "They grumble only after a full review.",
+        "ru": "Они ворчат только после полного обзора."
+      }
+    ],
+    "colloc": "grumble the claim · grumble + N",
+    "pattern": "grumble (+ prep)"
+  },
+  {
+    "word": "guerrilla",
+    "lemma": "guerrilla",
+    "ipa": "/gərˈɪlə/",
+    "pos": "noun",
+    "tr": "партизан",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the guerrilla.",
+        "ru": "Они недооценили партизан."
+      },
+      {
+        "en": "A clear guerrilla emerged from the data.",
+        "ru": "Из данных вышел явный партизан."
+      },
+      {
+        "en": "Address the guerrilla before it grows.",
+        "ru": "Обращайтесь к партизанам, пока они не выросли."
+      }
+    ],
+    "colloc": "the guerrilla · guerrilla of"
+  },
+  {
+    "word": "gush",
+    "lemma": "gush",
+    "ipa": "/gəʃ/",
+    "pos": "verb",
+    "tr": "хлынуть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you gush this for the board?",
+        "ru": "Можете ли вы повесить это на доску?"
+      },
+      {
+        "en": "Analysts gush the numbers overnight.",
+        "ru": "Аналитики выдают цифры за ночь."
+      },
+      {
+        "en": "Do not gush under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "gush carefully · refuse to gush",
+    "pattern": "gush (+ prep)"
+  },
+  {
+    "word": "gushing",
+    "lemma": "gushing",
+    "ipa": "/ˈgəʃɪŋ/",
+    "pos": "adj",
+    "tr": "блеск",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A gushing approach may help.",
+        "ru": "Блестящий подход может помочь."
+      },
+      {
+        "en": "His answer sounded gushing.",
+        "ru": "Его ответ прозвучал блестяще."
+      },
+      {
+        "en": "Avoid gushing claims without proof.",
+        "ru": "Избегайте резких заявлений без доказательств."
+      }
+    ],
+    "colloc": "gushing approach · gushing result"
+  },
+  {
+    "word": "gushingly",
+    "lemma": "gushingly",
+    "ipa": "/gushingly/",
+    "pos": "adv",
+    "tr": "порывисто",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke gushingly about the issue.",
+        "ru": "Она резко высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded gushingly.",
+        "ru": "Команда отреагировала бурно."
+      },
+      {
+        "en": "Progress moved gushingly after the fix.",
+        "ru": "Прогресс стремительно двигался после исправления."
+      }
+    ],
+    "colloc": "speak gushingly · gushingly"
+  },
+  {
+    "word": "gusto",
+    "lemma": "gusto",
+    "ipa": "/ˈgəˌstoʊ/",
+    "pos": "noun",
+    "tr": "вкус",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking gusto.",
+        "ru": "В докладе говорится о поразительном удовольствии."
+      },
+      {
+        "en": "Funding hinges on this gusto.",
+        "ru": "Финансирование зависит от этого удовольствия."
+      },
+      {
+        "en": "Students often confuse gusto with related terms.",
+        "ru": "Студенты часто путают вкус с родственными терминами."
+      }
+    ],
+    "colloc": "clear gusto · address the gusto"
+  },
+  {
+    "word": "gutsy",
+    "lemma": "gutsy",
+    "ipa": "/ˈgətˈsi/",
+    "pos": "adj",
+    "tr": "дерзкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly gutsy.",
+        "ru": "Доказательства вряд ли дерзкие."
+      },
+      {
+        "en": "She remained gutsy under stress.",
+        "ru": "Она оставалась дерзкой в стрессе."
+      },
+      {
+        "en": "Results looked only gutsy.",
+        "ru": "Результаты выглядели просто дерзкими."
+      }
+    ],
+    "colloc": "gutsy approach · gutsy result"
+  },
+  {
+    "word": "gypsy",
+    "lemma": "gypsy",
+    "ipa": "/ˈʤɪpsi/",
+    "pos": "noun",
+    "tr": "цыганка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the gypsy.",
+        "ru": "Они недооценили цыган."
+      },
+      {
+        "en": "A clear gypsy emerged from the data.",
+        "ru": "Из данных вышел явный цыган."
+      },
+      {
+        "en": "Address the gypsy before it grows.",
+        "ru": "Обратись к цыганам, пока они не выросли."
+      }
+    ],
+    "colloc": "clear gypsy · address the gypsy"
+  },
+  {
+    "word": "habitation",
+    "lemma": "habitation",
+    "ipa": "/ˌhæbəˈteɪʃən/",
+    "pos": "noun",
+    "tr": "жилье",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the habitation.",
+        "ru": "Они недооценили жилье."
+      },
+      {
+        "en": "A clear habitation emerged from the data.",
+        "ru": "Из данных появилось четкое жилье."
+      },
+      {
+        "en": "Address the habitation before it grows.",
+        "ru": "Обратиться к жилью, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear habitation · habitation of"
+  },
+  {
+    "word": "hack",
+    "lemma": "hack",
+    "ipa": "/hæk/",
+    "pos": "verb",
+    "tr": "взламывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you hack this for the board?",
+        "ru": "Ты можешь взломать это для доски?"
+      },
+      {
+        "en": "Analysts hack the numbers overnight.",
+        "ru": "Аналитики взламывают цифры в одночасье."
+      },
+      {
+        "en": "Do not hack under political pressure.",
+        "ru": "Не взламывайте под политическим давлением."
+      }
+    ],
+    "colloc": "hack carefully · hack + N",
+    "pattern": "hack + that"
+  },
+  {
+    "word": "haggle",
+    "lemma": "haggle",
+    "ipa": "/ˈhægəl/",
+    "pos": "verb",
+    "tr": "торговаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to haggle with precision.",
+        "ru": "Она научилась торговаться с точностью."
+      },
+      {
+        "en": "We will haggle the policy next quarter.",
+        "ru": "Мы будем торговаться в следующем квартале."
+      },
+      {
+        "en": "Critics haggle the choice harshly.",
+        "ru": "Критики жестко торгуют выбором."
+      }
+    ],
+    "colloc": "haggle carefully · haggle + N",
+    "pattern": "haggle + N"
+  },
+  {
+    "word": "halfway",
+    "lemma": "halfway",
+    "ipa": "/ˈhæfˈweɪ/",
+    "pos": "adv",
+    "tr": "полпути",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued halfway for reform.",
+        "ru": "Он выступал на полпути к реформе."
+      },
+      {
+        "en": "The rule was applied halfway.",
+        "ru": "Правило применялось на полпути."
+      },
+      {
+        "en": "Costs rose halfway last year.",
+        "ru": "В прошлом году расходы выросли наполовину."
+      }
+    ],
+    "colloc": "act halfway · halfway"
+  },
+  {
+    "word": "hamper",
+    "lemma": "hamper",
+    "ipa": "/ˈhæmpər/",
+    "pos": "verb",
+    "tr": "препятствовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you hamper this for the board?",
+        "ru": "Ты можешь помешать этому совету?"
+      },
+      {
+        "en": "Analysts hamper the numbers overnight.",
+        "ru": "Аналитики задерживают цифры на ночь."
+      },
+      {
+        "en": "Do not hamper under political pressure.",
+        "ru": "Не препятствуйте политическому давлению."
+      }
+    ],
+    "colloc": "hamper carefully · refuse to hamper",
+    "pattern": "hamper + N"
+  },
+  {
+    "word": "hanging",
+    "lemma": "hanging",
+    "ipa": "/ˈhæŋɪŋ/",
+    "pos": "noun",
+    "tr": "вешать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking hanging.",
+        "ru": "В докладе упоминается поразительное повешение."
+      },
+      {
+        "en": "Funding hinges on this hanging.",
+        "ru": "Финансирование зависит от этого повешения."
+      },
+      {
+        "en": "Students often confuse hanging with related terms.",
+        "ru": "Студенты часто путают повешение с родственными терминами."
+      }
+    ],
+    "colloc": "clear hanging · hanging of"
+  },
+  {
+    "word": "haphazard",
+    "lemma": "haphazard",
+    "ipa": "/hæˈphæzərd/",
+    "pos": "adj",
+    "tr": "Хафхазард",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less haphazard option.",
+        "ru": "Выберите менее случайный вариант."
+      },
+      {
+        "en": "The design feels haphazard.",
+        "ru": "Дизайн кажется случайным."
+      },
+      {
+        "en": "A haphazard policy risks backlash.",
+        "ru": "Беспорядочная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly haphazard · remain haphazard"
+  },
+  {
+    "word": "haphazardly",
+    "lemma": "haphazardly",
+    "ipa": "/ˈhæfəzərdli/",
+    "pos": "adv",
+    "tr": "случайно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke haphazardly about the issue.",
+        "ru": "Она бессистемно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded haphazardly.",
+        "ru": "Команда отреагировала беспорядочно."
+      },
+      {
+        "en": "Progress moved haphazardly after the fix.",
+        "ru": "Прогресс двигался беспорядочно после исправления."
+      }
+    ],
+    "colloc": "act haphazardly · haphazardly"
+  },
+  {
+    "word": "hapless",
+    "lemma": "hapless",
+    "ipa": "/ˈhæpləs/",
+    "pos": "adj",
+    "tr": "несчастный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less hapless option.",
+        "ru": "Выберите менее неудачный вариант."
+      },
+      {
+        "en": "The design feels hapless.",
+        "ru": "Дизайн кажется неудачным."
+      },
+      {
+        "en": "A hapless policy risks backlash.",
+        "ru": "Неудачная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly hapless · remain hapless"
+  },
+  {
+    "word": "happenstance",
+    "lemma": "happenstance",
+    "ipa": "/ˈhæpənˌstæns/",
+    "pos": "noun",
+    "tr": "случайность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the happenstance.",
+        "ru": "Они недооценили случайность."
+      },
+      {
+        "en": "A clear happenstance emerged from the data.",
+        "ru": "Явный случай произошел из данных."
+      },
+      {
+        "en": "Address the happenstance before it grows.",
+        "ru": "Обращайтесь к случаю, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the happenstance · address the happenstance"
+  },
+  {
+    "word": "harass",
+    "lemma": "harass",
+    "ipa": "/həræs/",
+    "pos": "verb",
+    "tr": "преследовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you harass this for the board?",
+        "ru": "Связанные с нею в СПЧ данные по СПЧ ОЗХО ОЗХО ОЗХО ОЗХО СПЗ СК ОЗ краткосрочно ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗХО ОЗ"
+      },
+      {
+        "en": "Analysts harass the numbers overnight.",
+        "ru": "Аналитики беспокоят цифры в одночасье."
+      },
+      {
+        "en": "Do not harass under political pressure.",
+        "ru": "Не подвергайтесь политическому давлению."
+      }
+    ],
+    "colloc": "harass the claim · harass + N",
+    "pattern": "harass (+ prep)"
+  },
+  {
+    "word": "haughtily",
+    "lemma": "haughtily",
+    "ipa": "/ˈhɔtɪli/",
+    "pos": "adv",
+    "tr": "высокомерно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample haughtily.",
+        "ru": "Управляйте образцом высокомерно."
+      },
+      {
+        "en": "Support arrived haughtily.",
+        "ru": "Поддержка пришла высокомерно."
+      },
+      {
+        "en": "The plan failed haughtily.",
+        "ru": "План провалился высокомерно."
+      }
+    ],
+    "colloc": "speak haughtily · haughtily"
+  }
+]

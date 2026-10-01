@@ -1,0 +1,1257 @@
+[
+  {
+    "word": "arcane",
+    "lemma": "arcane",
+    "ipa": "/ˌɑrˈkeɪn/",
+    "pos": "adj",
+    "tr": "тайный; эзотерический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly arcane.",
+        "ru": "Доказательства вряд ли являются тайными."
+      },
+      {
+        "en": "She remained arcane under stress.",
+        "ru": "Она оставалась под напряжением."
+      },
+      {
+        "en": "Results looked only arcane.",
+        "ru": "Результаты выглядели только загадочно."
+      }
+    ],
+    "colloc": "highly arcane · arcane result",
+    "ex": "The evidence is hardly arcane.",
+    "exRu": "Доказательства вряд ли являются тайными."
+  },
+  {
+    "word": "arcanely",
+    "lemma": "arcanely",
+    "ipa": "/arcanely/",
+    "pos": "adv",
+    "tr": "тайно; эзотерически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued arcanely overnight.",
+        "ru": "Работа продолжалась тайком всю ночь."
+      },
+      {
+        "en": "She answered arcanely and clearly.",
+        "ru": "Она ответила ясно и ясно."
+      },
+      {
+        "en": "The claim was arcanely dismissed.",
+        "ru": "Иск был тайно отклонен."
+      }
+    ],
+    "colloc": "act arcanely · arcanely",
+    "ex": "Work continued arcanely overnight.",
+    "exRu": "Работа продолжалась тайком всю ночь."
+  },
+  {
+    "word": "archetypal",
+    "lemma": "archetypal",
+    "ipa": "/ˈɑrkˈtaɪpəl/",
+    "pos": "adj",
+    "tr": "архетипический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An archetypal approach may help.",
+        "ru": "Архетипический подход может помочь."
+      },
+      {
+        "en": "His answer sounded archetypal.",
+        "ru": "Его ответ звучал архетипично."
+      },
+      {
+        "en": "Avoid archetypal claims without proof.",
+        "ru": "Избегайте архетипических утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly archetypal · archetypal result",
+    "ex": "An archetypal approach may help.",
+    "exRu": "Архетипический подход может помочь."
+  },
+  {
+    "word": "archetype",
+    "lemma": "archetype",
+    "ipa": "/ˈɑrkɪˌtaɪp/",
+    "pos": "noun",
+    "tr": "архетип",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple archetype.",
+        "ru": "Не было простого архетипа."
+      },
+      {
+        "en": "Critics mocked the archetype.",
+        "ru": "Критики высмеивали архетип."
+      },
+      {
+        "en": "We need a working definition of archetype.",
+        "ru": "Нам нужно рабочее определение архетипа."
+      }
+    ],
+    "colloc": "clear archetype · address the archetype",
+    "ex": "There was no simple archetype.",
+    "exRu": "Не было простого архетипа."
+  },
+  {
+    "word": "archival",
+    "lemma": "archival",
+    "ipa": "/ɑrˈkaɪvəl/",
+    "pos": "adj",
+    "tr": "архивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An archival approach may help.",
+        "ru": "Архивный подход может помочь."
+      },
+      {
+        "en": "His answer sounded archival.",
+        "ru": "Его ответ звучал архивно."
+      },
+      {
+        "en": "Avoid archival claims without proof.",
+        "ru": "Избегайте архивных заявлений без доказательств."
+      }
+    ],
+    "colloc": "archival tone · archival result",
+    "ex": "An archival approach may help.",
+    "exRu": "Архивный подход может помочь."
+  },
+  {
+    "word": "arduous",
+    "lemma": "arduous",
+    "ipa": "/ˈɑrʤuəs/",
+    "pos": "adj",
+    "tr": "трудный; изнурительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly arduous.",
+        "ru": "Доказательства едва ли трудные."
+      },
+      {
+        "en": "She remained arduous under stress.",
+        "ru": "Она оставалась напряженной в стрессе."
+      },
+      {
+        "en": "Results looked only arduous.",
+        "ru": "Результаты выглядели только трудными."
+      }
+    ],
+    "colloc": "arduous tone · remain arduous",
+    "ex": "The evidence is hardly arduous.",
+    "exRu": "Доказательства едва ли трудные."
+  },
+  {
+    "word": "arduously",
+    "lemma": "arduously",
+    "ipa": "/arduously/",
+    "pos": "adv",
+    "tr": "с трудом; изнурительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued arduously overnight.",
+        "ru": "Работа продолжалась мучительно всю ночь."
+      },
+      {
+        "en": "She answered arduously and clearly.",
+        "ru": "Она ответила жестко и ясно."
+      },
+      {
+        "en": "The claim was arduously dismissed.",
+        "ru": "Иск был тяжело отклонен."
+      }
+    ],
+    "colloc": "act arduously · arduously",
+    "ex": "Work continued arduously overnight.",
+    "exRu": "Работа продолжалась мучительно всю ночь."
+  },
+  {
+    "word": "articulation",
+    "lemma": "articulation",
+    "ipa": "/ˌɑrtɪkjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "артикуляция; формулировка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the articulation closely.",
+        "ru": "Исследователи внимательно изучили артикуляцию."
+      },
+      {
+        "en": "The articulation shaped the final decision.",
+        "ru": "Артикуляция сформировала окончательное решение."
+      },
+      {
+        "en": "Without the articulation, the argument collapses.",
+        "ru": "Без артикуляции аргумент рушится."
+      }
+    ],
+    "colloc": "clear articulation · address the articulation",
+    "ex": "Researchers examined the articulation closely.",
+    "exRu": "Исследователи внимательно изучили артикуляцию."
+  },
+  {
+    "word": "artifact",
+    "lemma": "artifact",
+    "ipa": "/ˈɑrtəˌfækt/",
+    "pos": "noun",
+    "tr": "артефакт",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the artifact closely.",
+        "ru": "Исследователи внимательно изучили артефакт."
+      },
+      {
+        "en": "The artifact shaped the final decision.",
+        "ru": "Артефакт сформировал окончательное решение."
+      },
+      {
+        "en": "Without the artifact, the argument collapses.",
+        "ru": "Без артефакта аргумент рухнет."
+      }
+    ],
+    "colloc": "the artifact · address the artifact",
+    "ex": "Researchers examined the artifact closely.",
+    "exRu": "Исследователи внимательно изучили артефакт."
+  },
+  {
+    "word": "artifice",
+    "lemma": "artifice",
+    "ipa": "/ˈɑrtəfɪs/",
+    "pos": "noun",
+    "tr": "ухищрение; искусственность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking artifice.",
+        "ru": "В докладе приводится поразительная хитрость."
+      },
+      {
+        "en": "Funding hinges on this artifice.",
+        "ru": "Финансирование зависит от этой хитрости."
+      },
+      {
+        "en": "Students often confuse artifice with related terms.",
+        "ru": "Студенты часто путают искусство с родственными терминами."
+      }
+    ],
+    "colloc": "the artifice · address the artifice",
+    "ex": "The report cites a striking artifice.",
+    "exRu": "В докладе приводится поразительная хитрость."
+  },
+  {
+    "word": "artistically",
+    "lemma": "artistically",
+    "ipa": "/ɑrˈtɪstɪkli/",
+    "pos": "adv",
+    "tr": "художественно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample artistically.",
+        "ru": "Обработайте образец художественно."
+      },
+      {
+        "en": "Support arrived artistically.",
+        "ru": "Поддержка пришла художественно."
+      },
+      {
+        "en": "The plan failed artistically.",
+        "ru": "План провалился художественно."
+      }
+    ],
+    "colloc": "speak artistically · artistically",
+    "ex": "Handle the sample artistically.",
+    "exRu": "Обработайте образец художественно."
+  },
+  {
+    "word": "assimilate",
+    "lemma": "assimilate",
+    "ipa": "/əˈsɪməˌleɪt/",
+    "pos": "verb",
+    "tr": "усваивать; ассимилировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you assimilate this for the board?",
+        "ru": "Вы можете ассимилировать это для правления?"
+      },
+      {
+        "en": "Analysts assimilate the numbers overnight.",
+        "ru": "Аналитики усваивают цифры за одну ночь."
+      },
+      {
+        "en": "Do not assimilate under political pressure.",
+        "ru": "Не ассимилируйтесь под политическим давлением."
+      }
+    ],
+    "colloc": "assimilate the claim · assimilate + N",
+    "pattern": "assimilate + to-INF",
+    "ex": "Can you assimilate this for the board?",
+    "exRu": "Вы можете ассимилировать это для правления?"
+  },
+  {
+    "word": "assimilation",
+    "lemma": "assimilation",
+    "ipa": "/əˌsɪməˈleɪʃən/",
+    "pos": "noun",
+    "tr": "усвоение; ассимиляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the assimilation closely.",
+        "ru": "Исследователи внимательно изучили ассимиляцию."
+      },
+      {
+        "en": "The assimilation shaped the final decision.",
+        "ru": "Ассимиляция определила окончательное решение."
+      },
+      {
+        "en": "Without the assimilation, the argument collapses.",
+        "ru": "Без ассимиляции аргумент рухнет."
+      }
+    ],
+    "colloc": "clear assimilation · address the assimilation",
+    "ex": "Researchers examined the assimilation closely.",
+    "exRu": "Исследователи внимательно изучили ассимиляцию."
+  },
+  {
+    "word": "astray",
+    "lemma": "astray",
+    "ipa": "/əˈstreɪ/",
+    "pos": "adv",
+    "tr": "по ложному пути; в сторону",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke astray about the issue.",
+        "ru": "Она сбилась с пути в этом вопросе."
+      },
+      {
+        "en": "The team responded astray.",
+        "ru": "Команда сбилась с пути."
+      },
+      {
+        "en": "Progress moved astray after the fix.",
+        "ru": "Прогресс сбился с пути после исправления."
+      }
+    ],
+    "colloc": "respond astray · astray",
+    "ex": "She spoke astray about the issue.",
+    "exRu": "Она сбилась с пути в этом вопросе."
+  },
+  {
+    "word": "astringent",
+    "lemma": "astringent",
+    "ipa": "/əˈstrɪnʤənt/",
+    "pos": "adj",
+    "tr": "вяжущий; резкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly astringent.",
+        "ru": "Доказательства едва ли вяжущие."
+      },
+      {
+        "en": "She remained astringent under stress.",
+        "ru": "Она оставалась вяжущей в стрессе."
+      },
+      {
+        "en": "Results looked only astringent.",
+        "ru": "Результаты выглядели только вяжущими."
+      }
+    ],
+    "colloc": "highly astringent · astringent result",
+    "ex": "The evidence is hardly astringent.",
+    "exRu": "Доказательства едва ли вяжущие."
+  },
+  {
+    "word": "athleticism",
+    "lemma": "athleticism",
+    "ipa": "/æθˈlɛtɪˌsɪzm/",
+    "pos": "noun",
+    "tr": "атлетизм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one athleticism.",
+        "ru": "Ее карьера обернулась одним атлетизмом."
+      },
+      {
+        "en": "Public debate ignored the athleticism.",
+        "ru": "Общественные дебаты проигнорировали атлетизм."
+      },
+      {
+        "en": "Document every athleticism in the log.",
+        "ru": "Документируйте каждый атлетизм в журнале."
+      }
+    ],
+    "colloc": "clear athleticism · athleticism of",
+    "ex": "Her career turned on one athleticism.",
+    "exRu": "Ее карьера обернулась одним атлетизмом."
+  },
+  {
+    "word": "atmospheric",
+    "lemma": "atmospheric",
+    "ipa": "/ˌætməsˈfɛrɪk/",
+    "pos": "adj",
+    "tr": "атмосферный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less atmospheric option.",
+        "ru": "Выберите менее атмосферный вариант."
+      },
+      {
+        "en": "The design feels atmospheric.",
+        "ru": "Дизайн кажется атмосферным."
+      },
+      {
+        "en": "An atmospheric policy risks backlash.",
+        "ru": "Атмосферная политика может вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "atmospheric approach · atmospheric result",
+    "ex": "Choose a less atmospheric option.",
+    "exRu": "Выберите менее атмосферный вариант."
+  },
+  {
+    "word": "attributive",
+    "lemma": "attributive",
+    "ipa": "/attributive/",
+    "pos": "adj",
+    "tr": "атрибутивный; определяющий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly attributive.",
+        "ru": "Доказательства вряд ли являются атрибутивными."
+      },
+      {
+        "en": "She remained attributive under stress.",
+        "ru": "Она оставалась атрибутивной в условиях стресса."
+      },
+      {
+        "en": "Results looked only attributive.",
+        "ru": "Результаты выглядели только атрибутивными."
+      }
+    ],
+    "colloc": "attributive approach · remain attributive",
+    "ex": "The evidence is hardly attributive.",
+    "exRu": "Доказательства вряд ли являются атрибутивными."
+  },
+  {
+    "word": "attrition",
+    "lemma": "attrition",
+    "ipa": "/əˈtrɪʃən/",
+    "pos": "noun",
+    "tr": "истощение; естественная убыль",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the attrition.",
+        "ru": "Они недооценили истощение."
+      },
+      {
+        "en": "A clear attrition emerged from the data.",
+        "ru": "Из данных вытекало явное истощение."
+      },
+      {
+        "en": "Address the attrition before it grows.",
+        "ru": "Обращайтесь к истощению, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear attrition · attrition of",
+    "ex": "They underestimated the attrition.",
+    "exRu": "Они недооценили истощение."
+  },
+  {
+    "word": "attuned",
+    "lemma": "attuned",
+    "ipa": "/əˈtund/",
+    "pos": "adj",
+    "tr": "настроенный; чуткий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An attuned approach may help.",
+        "ru": "Настроенный подход может помочь."
+      },
+      {
+        "en": "His answer sounded attuned.",
+        "ru": "Его ответ звучал настроенно."
+      },
+      {
+        "en": "Avoid attuned claims without proof.",
+        "ru": "Избегайте настроенных утверждений без доказательств."
+      }
+    ],
+    "colloc": "attuned tone · attuned result",
+    "ex": "An attuned approach may help.",
+    "exRu": "Настроенный подход может помочь."
+  },
+  {
+    "word": "austere",
+    "lemma": "austere",
+    "ipa": "/ɔˈstɪr/",
+    "pos": "adj",
+    "tr": "суровый; аскетичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An austere approach may help.",
+        "ru": "Строгий подход может помочь."
+      },
+      {
+        "en": "His answer sounded austere.",
+        "ru": "Его ответ звучал строго."
+      },
+      {
+        "en": "Avoid austere claims without proof.",
+        "ru": "Избегайте строгих требований без доказательств."
+      }
+    ],
+    "colloc": "austere tone · remain austere",
+    "ex": "An austere approach may help.",
+    "exRu": "Строгий подход может помочь."
+  },
+  {
+    "word": "austerely",
+    "lemma": "austerely",
+    "ipa": "/ˌɔˈstɪrli/",
+    "pos": "adv",
+    "tr": "сурово; аскетично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued austerely overnight.",
+        "ru": "Работа строго продолжалась всю ночь."
+      },
+      {
+        "en": "She answered austerely and clearly.",
+        "ru": "Она ответила строго и ясно."
+      },
+      {
+        "en": "The claim was austerely dismissed.",
+        "ru": "Иск был строго отклонен."
+      }
+    ],
+    "colloc": "speak austerely · austerely",
+    "ex": "Work continued austerely overnight.",
+    "exRu": "Работа строго продолжалась всю ночь."
+  },
+  {
+    "word": "austerity",
+    "lemma": "austerity",
+    "ipa": "/ˌɔˈstɛrɪti/",
+    "pos": "noun",
+    "tr": "аскетизм; режим экономии",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple austerity.",
+        "ru": "Простой экономии не было."
+      },
+      {
+        "en": "Critics mocked the austerity.",
+        "ru": "Критики высмеивали жесткую экономию."
+      },
+      {
+        "en": "We need a working definition of austerity.",
+        "ru": "Нам нужно рабочее определение жесткой экономии."
+      }
+    ],
+    "colloc": "clear austerity · address the austerity",
+    "ex": "There was no simple austerity.",
+    "exRu": "Простой экономии не было."
+  },
+  {
+    "word": "authenticity",
+    "lemma": "authenticity",
+    "ipa": "/ˌɔθənˈtɪsɪti/",
+    "pos": "noun",
+    "tr": "подлинность; аутентичность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the authenticity closely.",
+        "ru": "Исследователи внимательно изучили подлинность."
+      },
+      {
+        "en": "The authenticity shaped the final decision.",
+        "ru": "Аутентичность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the authenticity, the argument collapses.",
+        "ru": "Без подлинности аргумент рушится."
+      }
+    ],
+    "colloc": "the authenticity · authenticity of",
+    "ex": "Researchers examined the authenticity closely.",
+    "exRu": "Исследователи внимательно изучили подлинность."
+  },
+  {
+    "word": "automate",
+    "lemma": "automate",
+    "ipa": "/ˈɔtəˌmeɪt/",
+    "pos": "verb",
+    "tr": "автоматизировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers automate resources each week.",
+        "ru": "Менеджеры автоматизируют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to automate too quickly.",
+        "ru": "Он слишком быстро автоматизируется."
+      },
+      {
+        "en": "They automate only after a full review.",
+        "ru": "Они автоматизируются только после полного обзора."
+      }
+    ],
+    "colloc": "automate carefully · automate + N",
+    "pattern": "automate (+ prep)",
+    "ex": "Managers automate resources each week.",
+    "exRu": "Менеджеры автоматизируют ресурсы каждую неделю."
+  },
+  {
+    "word": "automatic",
+    "lemma": "automatic",
+    "ipa": "/ˌɔtəˈmætɪk/",
+    "pos": "adj",
+    "tr": "автоматический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an automatic strategy.",
+        "ru": "Это была автоматическая стратегия."
+      },
+      {
+        "en": "The tone grew automatic.",
+        "ru": "То есть, автоматически."
+      },
+      {
+        "en": "They rejected the automatic proposal.",
+        "ru": "Они отвергли автоматическое предложение."
+      }
+    ],
+    "colloc": "highly automatic · remain automatic",
+    "ex": "It was an automatic strategy.",
+    "exRu": "Это была автоматическая стратегия."
+  },
+  {
+    "word": "automatically",
+    "lemma": "automatically",
+    "ipa": "/ˌɔtəˈmætɪkli/",
+    "pos": "adv",
+    "tr": "автоматически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample automatically.",
+        "ru": "Обработайте образец автоматически."
+      },
+      {
+        "en": "Support arrived automatically.",
+        "ru": "Поддержка приходит автоматически."
+      },
+      {
+        "en": "The plan failed automatically.",
+        "ru": "План провалился автоматически."
+      }
+    ],
+    "colloc": "respond automatically · automatically",
+    "ex": "Handle the sample automatically.",
+    "exRu": "Обработайте образец автоматически."
+  },
+  {
+    "word": "autonomous",
+    "lemma": "autonomous",
+    "ipa": "/ɔˈtɑnəməs/",
+    "pos": "adj",
+    "tr": "автономный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an autonomous strategy.",
+        "ru": "Это была автономная стратегия."
+      },
+      {
+        "en": "The tone grew autonomous.",
+        "ru": "Тон стал автономным."
+      },
+      {
+        "en": "They rejected the autonomous proposal.",
+        "ru": "Они отвергли автономное предложение."
+      }
+    ],
+    "colloc": "autonomous tone · remain autonomous",
+    "ex": "It was an autonomous strategy.",
+    "exRu": "Это была автономная стратегия."
+  },
+  {
+    "word": "autonomously",
+    "lemma": "autonomously",
+    "ipa": "/ˌɔˈtɑnoʊməsli/",
+    "pos": "adv",
+    "tr": "автономно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued autonomously overnight.",
+        "ru": "Работа автономно продолжалась всю ночь."
+      },
+      {
+        "en": "She answered autonomously and clearly.",
+        "ru": "Она ответила автономно и четко."
+      },
+      {
+        "en": "The claim was autonomously dismissed.",
+        "ru": "Иск был отклонен автономно."
+      }
+    ],
+    "colloc": "act autonomously · autonomously",
+    "ex": "Work continued autonomously overnight.",
+    "exRu": "Работа автономно продолжалась всю ночь."
+  },
+  {
+    "word": "autopilot",
+    "lemma": "autopilot",
+    "ipa": "/ˈɔtoʊˌpaɪlət/",
+    "pos": "noun",
+    "tr": "автопилот",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the autopilot.",
+        "ru": "Они недооценили автопилот."
+      },
+      {
+        "en": "A clear autopilot emerged from the data.",
+        "ru": "Из данных вышел четкий автопилот."
+      },
+      {
+        "en": "Address the autopilot before it grows.",
+        "ru": "Обратитесь к автопилоту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear autopilot · autopilot of",
+    "ex": "They underestimated the autopilot.",
+    "exRu": "Они недооценили автопилот."
+  },
+  {
+    "word": "averse",
+    "lemma": "averse",
+    "ipa": "/əˈvərs/",
+    "pos": "adj",
+    "tr": "не расположенный; против",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less averse option.",
+        "ru": "Выберите менее неприятный вариант."
+      },
+      {
+        "en": "The design feels averse.",
+        "ru": "Дизайн кажется неприятным."
+      },
+      {
+        "en": "An averse policy risks backlash.",
+        "ru": "Неприятная политика грозит ответной реакцией."
+      }
+    ],
+    "colloc": "averse tone · averse result",
+    "ex": "Choose a less averse option.",
+    "exRu": "Выберите менее неприятный вариант."
+  },
+  {
+    "word": "avid",
+    "lemma": "avid",
+    "ipa": "/ˈævɪd/",
+    "pos": "adj",
+    "tr": "страстный; жадный до",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An avid approach may help.",
+        "ru": "Жадный подход может помочь."
+      },
+      {
+        "en": "His answer sounded avid.",
+        "ru": "Его ответ звучал жадно."
+      },
+      {
+        "en": "Avoid avid claims without proof.",
+        "ru": "Избегайте заядлых утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly avid · avid result",
+    "ex": "An avid approach may help.",
+    "exRu": "Жадный подход может помочь."
+  },
+  {
+    "word": "axiomatic",
+    "lemma": "axiomatic",
+    "ipa": "/ˌæksiəˈmætɪk/",
+    "pos": "adj",
+    "tr": "аксиоматичный; самоочевидный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less axiomatic option.",
+        "ru": "Выберите менее аксиоматический вариант."
+      },
+      {
+        "en": "The design feels axiomatic.",
+        "ru": "Дизайн кажется аксиоматичным."
+      },
+      {
+        "en": "An axiomatic policy risks backlash.",
+        "ru": "Аксиоматическая политика может вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "axiomatic approach · axiomatic result",
+    "ex": "Choose a less axiomatic option.",
+    "exRu": "Выберите менее аксиоматический вариант."
+  },
+  {
+    "word": "babble",
+    "lemma": "babble",
+    "ipa": "/ˈbæbəl/",
+    "pos": "verb",
+    "tr": "лепетать; бормотать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you babble this for the board?",
+        "ru": "Ты можешь выговорить это для совета?"
+      },
+      {
+        "en": "Analysts babble the numbers overnight.",
+        "ru": "Аналитики отмечают, что цифры меняются."
+      },
+      {
+        "en": "Do not babble under political pressure.",
+        "ru": "Не болтайте под политическим давлением."
+      }
+    ],
+    "colloc": "babble pressure · refuse to babble",
+    "pattern": "babble + N",
+    "ex": "Can you babble this for the board?",
+    "exRu": "Ты можешь выговорить это для совета?"
+  },
+  {
+    "word": "bald",
+    "lemma": "bald",
+    "ipa": "/bɔld/",
+    "pos": "adj",
+    "tr": "лысый; голый (о факте)",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly bald.",
+        "ru": "Доказательства едва ли лысые."
+      },
+      {
+        "en": "She remained bald under stress.",
+        "ru": "Она оставалась лысой в стрессе."
+      },
+      {
+        "en": "Results looked only bald.",
+        "ru": "Результаты выглядели только лысыми."
+      }
+    ],
+    "colloc": "highly bald · bald result",
+    "ex": "The evidence is hardly bald.",
+    "exRu": "Доказательства едва ли лысые."
+  },
+  {
+    "word": "baldly",
+    "lemma": "baldly",
+    "ipa": "/ˈbɔldli/",
+    "pos": "adv",
+    "tr": "прямо; без прикрас",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample baldly.",
+        "ru": "Обработать образец лысым способом."
+      },
+      {
+        "en": "Support arrived baldly.",
+        "ru": "Поддержка пришла лысая."
+      },
+      {
+        "en": "The plan failed baldly.",
+        "ru": "План провалился лысым образом."
+      }
+    ],
+    "colloc": "speak baldly · baldly",
+    "ex": "Handle the sample baldly.",
+    "exRu": "Обработать образец лысым способом."
+  },
+  {
+    "word": "banish",
+    "lemma": "banish",
+    "ipa": "/ˈbænɪʃ/",
+    "pos": "verb",
+    "tr": "изгонять; прогонять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers banish resources each week.",
+        "ru": "Менеджеры изгоняют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to banish too quickly.",
+        "ru": "Он слишком быстро изгоняется."
+      },
+      {
+        "en": "They banish only after a full review.",
+        "ru": "Они исчезают только после полного пересмотра."
+      }
+    ],
+    "colloc": "banish pressure · banish + N",
+    "pattern": "banish + that",
+    "ex": "Managers banish resources each week.",
+    "exRu": "Менеджеры изгоняют ресурсы каждую неделю."
+  },
+  {
+    "word": "banishment",
+    "lemma": "banishment",
+    "ipa": "/ˈbænɪʃmənt/",
+    "pos": "noun",
+    "tr": "изгнание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the banishment closely.",
+        "ru": "Исследователи внимательно изучили процесс изгнания."
+      },
+      {
+        "en": "The banishment shaped the final decision.",
+        "ru": "Изгнание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the banishment, the argument collapses.",
+        "ru": "Без изгнания аргумент рухнет."
+      }
+    ],
+    "colloc": "the banishment · banishment of",
+    "ex": "Researchers examined the banishment closely.",
+    "exRu": "Исследователи внимательно изучили процесс изгнания."
+  },
+  {
+    "word": "baroque",
+    "lemma": "baroque",
+    "ipa": "/bəroʊk/",
+    "pos": "adj",
+    "tr": "барочный; вычурный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less baroque option.",
+        "ru": "Выберите менее барочный вариант."
+      },
+      {
+        "en": "The design feels baroque.",
+        "ru": "Дизайн ощущается как барокко."
+      },
+      {
+        "en": "A baroque policy risks backlash.",
+        "ru": "Политика барокко рискует вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "baroque approach · baroque result",
+    "ex": "Choose a less baroque option.",
+    "exRu": "Выберите менее барочный вариант."
+  },
+  {
+    "word": "batter",
+    "lemma": "batter",
+    "ipa": "/ˈbætər/",
+    "pos": "verb",
+    "tr": "колотить; сильно бить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you batter this for the board?",
+        "ru": "Можешь побить это за доску?"
+      },
+      {
+        "en": "Analysts batter the numbers overnight.",
+        "ru": "Аналитики бьют цифры в одночасье."
+      },
+      {
+        "en": "Do not batter under political pressure.",
+        "ru": "Не поддаваться политическому давлению."
+      }
+    ],
+    "colloc": "batter the claim · batter + N",
+    "pattern": "batter + that",
+    "ex": "Can you batter this for the board?",
+    "exRu": "Можешь побить это за доску?"
+  },
+  {
+    "word": "battered",
+    "lemma": "battered",
+    "ipa": "/ˈbætərd/",
+    "pos": "adj",
+    "tr": "потрёпанный; избитый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less battered option.",
+        "ru": "Выберите менее избитый вариант."
+      },
+      {
+        "en": "The design feels battered.",
+        "ru": "Дизайн чувствует себя избитым."
+      },
+      {
+        "en": "A battered policy risks backlash.",
+        "ru": "Потрепанная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly battered · remain battered",
+    "ex": "Choose a less battered option.",
+    "exRu": "Выберите менее избитый вариант."
+  },
+  {
+    "word": "bauble",
+    "lemma": "bauble",
+    "ipa": "/ˈbɔbəl/",
+    "pos": "noun",
+    "tr": "дешёвая безделушка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the bauble.",
+        "ru": "Они недооценили булочку."
+      },
+      {
+        "en": "A clear bauble emerged from the data.",
+        "ru": "Из этих данных вытекала четкая чепуха."
+      },
+      {
+        "en": "Address the bauble before it grows.",
+        "ru": "Обратись к пузырьку, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the bauble · address the bauble",
+    "ex": "They underestimated the bauble.",
+    "exRu": "Они недооценили булочку."
+  },
+  {
+    "word": "bearded",
+    "lemma": "bearded",
+    "ipa": "/ˈbɪrdəd/",
+    "pos": "adj",
+    "tr": "бородатый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a bearded strategy.",
+        "ru": "Это была бородатая стратегия."
+      },
+      {
+        "en": "The tone grew bearded.",
+        "ru": "Тон стал бородатым."
+      },
+      {
+        "en": "They rejected the bearded proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "bearded tone · bearded result",
+    "ex": "It was a bearded strategy.",
+    "exRu": "Это была бородатая стратегия."
+  },
+  {
+    "word": "beforehand",
+    "lemma": "beforehand",
+    "ipa": "/bɪˈfɔˌrhænd/",
+    "pos": "adv",
+    "tr": "заранее",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke beforehand about the issue.",
+        "ru": "Она заблаговременно рассказала об этой проблеме."
+      },
+      {
+        "en": "The team responded beforehand.",
+        "ru": "Команда ответила заранее."
+      },
+      {
+        "en": "Progress moved beforehand after the fix.",
+        "ru": "Прогресс двигался заранее после исправления."
+      }
+    ],
+    "colloc": "act beforehand · beforehand",
+    "ex": "She spoke beforehand about the issue.",
+    "exRu": "Она заблаговременно рассказала об этой проблеме."
+  },
+  {
+    "word": "beguiling",
+    "lemma": "beguiling",
+    "ipa": "/bɪˈgaɪlɪŋ/",
+    "pos": "adj",
+    "tr": "обманчиво привлекательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less beguiling option.",
+        "ru": "Выберите менее привлекательный вариант."
+      },
+      {
+        "en": "The design feels beguiling.",
+        "ru": "Дизайн чувствует себя обманчивым."
+      },
+      {
+        "en": "A beguiling policy risks backlash.",
+        "ru": "Заманчивая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "beguiling tone · remain beguiling",
+    "ex": "Choose a less beguiling option.",
+    "exRu": "Выберите менее привлекательный вариант."
+  },
+  {
+    "word": "beguilingly",
+    "lemma": "beguilingly",
+    "ipa": "/beguilingly/",
+    "pos": "adv",
+    "tr": "обманчиво привлекательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued beguilingly for reform.",
+        "ru": "Он настойчиво выступал за реформы."
+      },
+      {
+        "en": "The rule was applied beguilingly.",
+        "ru": "Правило применялось обманчиво."
+      },
+      {
+        "en": "Costs rose beguilingly last year.",
+        "ru": "Затраты в прошлом году заметно выросли."
+      }
+    ],
+    "colloc": "act beguilingly · beguilingly",
+    "ex": "He argued beguilingly for reform.",
+    "exRu": "Он настойчиво выступал за реформы."
+  },
+  {
+    "word": "behest",
+    "lemma": "behest",
+    "ipa": "/bɪˈhɛst/",
+    "pos": "noun",
+    "tr": "повеление; просьба",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the behest.",
+        "ru": "Они недооценили завещание."
+      },
+      {
+        "en": "A clear behest emerged from the data.",
+        "ru": "Из данных вытекала явная просьба."
+      },
+      {
+        "en": "Address the behest before it grows.",
+        "ru": "Обращайтесь к повелению прежде, чем оно вырастет."
+      }
+    ],
+    "colloc": "clear behest · behest of",
+    "ex": "They underestimated the behest.",
+    "exRu": "Они недооценили завещание."
+  },
+  {
+    "word": "behind",
+    "lemma": "behind",
+    "ipa": "/bɪˈhaɪnd/",
+    "pos": "prep",
+    "tr": "позади; за",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Keep the note behind the file.",
+        "ru": "Держите записку за файлом."
+      },
+      {
+        "en": "Talks continued behind closed doors.",
+        "ru": "Переговоры продолжались за закрытыми дверями."
+      },
+      {
+        "en": "Nothing moves behind consent.",
+        "ru": "Ничто не стоит за согласием."
+      }
+    ],
+    "colloc": "behind",
+    "ex": "Keep the note behind the file.",
+    "exRu": "Держите записку за файлом."
+  },
+  {
+    "word": "believably",
+    "lemma": "believably",
+    "ipa": "/believably/",
+    "pos": "adv",
+    "tr": "правдоподобно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke believably about the issue.",
+        "ru": "Она убедительно высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded believably.",
+        "ru": "Команда отреагировала правдоподобно."
+      },
+      {
+        "en": "Progress moved believably after the fix.",
+        "ru": "Прогресс сдвинулся после исправления."
+      }
+    ],
+    "colloc": "speak believably · believably",
+    "ex": "She spoke believably about the issue.",
+    "exRu": "Она убедительно высказалась по этому вопросу."
+  },
+  {
+    "word": "belligerence",
+    "lemma": "belligerence",
+    "ipa": "/bəˈlɪʤərəns/",
+    "pos": "noun",
+    "tr": "воинственность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the belligerence closely.",
+        "ru": "Исследователи внимательно изучили воинственность."
+      },
+      {
+        "en": "The belligerence shaped the final decision.",
+        "ru": "Воинственность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the belligerence, the argument collapses.",
+        "ru": "Без воинственности аргумент рухнет."
+      }
+    ],
+    "colloc": "clear belligerence · address the belligerence",
+    "ex": "Researchers examined the belligerence closely.",
+    "exRu": "Исследователи внимательно изучили воинственность."
+  }
+]

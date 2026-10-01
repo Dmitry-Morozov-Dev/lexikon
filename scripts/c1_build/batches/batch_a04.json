@@ -1,0 +1,1163 @@
+[
+  {
+    "word": "combustion",
+    "lemma": "combustion",
+    "ipa": "/kəmˈbəsʧən/",
+    "pos": "noun",
+    "tr": "горение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the combustion closely.",
+        "ru": "Исследователи внимательно изучили горение."
+      },
+      {
+        "en": "The combustion shaped the final decision.",
+        "ru": "Сгорание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the combustion, the argument collapses.",
+        "ru": "Без горения аргумент рушится."
+      }
+    ],
+    "colloc": "clear combustion · combustion of"
+  },
+  {
+    "word": "commend",
+    "lemma": "commend",
+    "ipa": "/kəˈmɛnd/",
+    "pos": "verb",
+    "tr": "хвалить; рекомендовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to commend with precision.",
+        "ru": "Она научилась хвалить с точностью."
+      },
+      {
+        "en": "We will commend the policy next quarter.",
+        "ru": "Мы будем поддерживать политику в следующем квартале."
+      },
+      {
+        "en": "Critics commend the choice harshly.",
+        "ru": "Критики жестко оценивают выбор."
+      }
+    ],
+    "colloc": "commend the claim · commend + N",
+    "pattern": "commend (+ prep)"
+  },
+  {
+    "word": "commendation",
+    "lemma": "commendation",
+    "ipa": "/ˌkɑmənˈdeɪʃən/",
+    "pos": "noun",
+    "tr": "похвала; награждение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking commendation.",
+        "ru": "В докладе приводится поразительная похвала."
+      },
+      {
+        "en": "Funding hinges on this commendation.",
+        "ru": "Финансирование зависит от этой похвалы."
+      },
+      {
+        "en": "Students often confuse commendation with related terms.",
+        "ru": "Студенты часто путают похвалу с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear commendation · address the commendation"
+  },
+  {
+    "word": "commensurate",
+    "lemma": "commensurate",
+    "ipa": "/kəˈmɛnsərɪt/",
+    "pos": "adj",
+    "tr": "соразмерный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less commensurate option.",
+        "ru": "Выберите менее соразмерный вариант."
+      },
+      {
+        "en": "The design feels commensurate.",
+        "ru": "Дизайн кажется соразмерным."
+      },
+      {
+        "en": "A commensurate policy risks backlash.",
+        "ru": "Соразмерная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "commensurate tone · remain commensurate"
+  },
+  {
+    "word": "commensurately",
+    "lemma": "commensurately",
+    "ipa": "/kəˈmɛnʃərətli/",
+    "pos": "adv",
+    "tr": "соразмерно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued commensurately for reform.",
+        "ru": "Он соразмерно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied commensurately.",
+        "ru": "Правило применялось соразмерно."
+      },
+      {
+        "en": "Costs rose commensurately last year.",
+        "ru": "Затраты выросли соразмерно в прошлом году."
+      }
+    ],
+    "colloc": "act commensurately · commensurately"
+  },
+  {
+    "word": "commercially",
+    "lemma": "commercially",
+    "ipa": "/kəˈmərʃəli/",
+    "pos": "adv",
+    "tr": "коммерчески",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample commercially.",
+        "ru": "Обработайте образец коммерчески."
+      },
+      {
+        "en": "Support arrived commercially.",
+        "ru": "Поддержка пришла коммерчески."
+      },
+      {
+        "en": "The plan failed commercially.",
+        "ru": "План провалился коммерчески."
+      }
+    ],
+    "colloc": "act commercially · commercially"
+  },
+  {
+    "word": "commode",
+    "lemma": "commode",
+    "ipa": "/kəˈmoʊd/",
+    "pos": "noun",
+    "tr": "комод",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the commode.",
+        "ru": "Они недооценили товар."
+      },
+      {
+        "en": "A clear commode emerged from the data.",
+        "ru": "Из данных вышел четкий комод."
+      },
+      {
+        "en": "Address the commode before it grows.",
+        "ru": "Обратитесь к коммоду, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear commode · commode of"
+  },
+  {
+    "word": "compellingly",
+    "lemma": "compellingly",
+    "ipa": "/kəmˈpɛlɪŋli/",
+    "pos": "adv",
+    "tr": "убедительно; захватывающе",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke compellingly about the issue.",
+        "ru": "Она убедительно высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded compellingly.",
+        "ru": "Команда отреагировала убедительно."
+      },
+      {
+        "en": "Progress moved compellingly after the fix.",
+        "ru": "Прогресс двигался убедительно после исправления."
+      }
+    ],
+    "colloc": "speak compellingly · compellingly"
+  },
+  {
+    "word": "complementary",
+    "lemma": "complementary",
+    "ipa": "/ˌkɑmpləˈmɛnʧi/",
+    "pos": "adj",
+    "tr": "дополняющий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a complementary strategy.",
+        "ru": "Это была дополнительная стратегия."
+      },
+      {
+        "en": "The tone grew complementary.",
+        "ru": "Тон стал дополняющим."
+      },
+      {
+        "en": "They rejected the complementary proposal.",
+        "ru": "Они отвергли дополнительное предложение."
+      }
+    ],
+    "colloc": "highly complementary · remain complementary"
+  },
+  {
+    "word": "compliant",
+    "lemma": "compliant",
+    "ipa": "/kəmˈplaɪənt/",
+    "pos": "adj",
+    "tr": "податливый; соответствующий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly compliant.",
+        "ru": "Доказательства вряд ли соответствуют действительности."
+      },
+      {
+        "en": "She remained compliant under stress.",
+        "ru": "Она оставалась послушной в стрессе."
+      },
+      {
+        "en": "Results looked only compliant.",
+        "ru": "Результаты выглядели только удовлетворительными."
+      }
+    ],
+    "colloc": "compliant approach · compliant result"
+  },
+  {
+    "word": "compliantly",
+    "lemma": "compliantly",
+    "ipa": "/compliantly/",
+    "pos": "adv",
+    "tr": "податливо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued compliantly for reform.",
+        "ru": "Он последовательно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied compliantly.",
+        "ru": "Правило применялось с соблюдением."
+      },
+      {
+        "en": "Costs rose compliantly last year.",
+        "ru": "В прошлом году расходы выросли соответственно."
+      }
+    ],
+    "colloc": "speak compliantly · compliantly"
+  },
+  {
+    "word": "complimentary",
+    "lemma": "complimentary",
+    "ipa": "/ˌkɑmpləˈmɛntəri/",
+    "pos": "adj",
+    "tr": "бесплатный; комплиментарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less complimentary option.",
+        "ru": "Выберите менее комплиментарный вариант."
+      },
+      {
+        "en": "The design feels complimentary.",
+        "ru": "Дизайн кажется комплиментарным."
+      },
+      {
+        "en": "A complimentary policy risks backlash.",
+        "ru": "Бесплатная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "complimentary tone · remain complimentary"
+  },
+  {
+    "word": "compromised",
+    "lemma": "compromised",
+    "ipa": "/ˈkɑmprəˌmaɪzd/",
+    "pos": "adj",
+    "tr": "скомпрометированный; под угрозой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a compromised strategy.",
+        "ru": "Это была скомпрометированная стратегия."
+      },
+      {
+        "en": "The tone grew compromised.",
+        "ru": "Тон стал скомпрометированным."
+      },
+      {
+        "en": "They rejected the compromised proposal.",
+        "ru": "Они отвергли скомпрометированное предложение."
+      }
+    ],
+    "colloc": "compromised tone · compromised result"
+  },
+  {
+    "word": "compulsion",
+    "lemma": "compulsion",
+    "ipa": "/kəmˈpəlʃən/",
+    "pos": "noun",
+    "tr": "принуждение; непреодолимое влечение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the compulsion.",
+        "ru": "Они недооценили принуждение."
+      },
+      {
+        "en": "A clear compulsion emerged from the data.",
+        "ru": "Из данных вытекало явное принуждение."
+      },
+      {
+        "en": "Address the compulsion before it grows.",
+        "ru": "Устраните принуждение до того, как оно вырастет."
+      }
+    ],
+    "colloc": "clear compulsion · compulsion of"
+  },
+  {
+    "word": "conceivable",
+    "lemma": "conceivable",
+    "ipa": "/kənˈsivəbəl/",
+    "pos": "adj",
+    "tr": "мыслимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly conceivable.",
+        "ru": "Доказательства вряд ли можно представить."
+      },
+      {
+        "en": "She remained conceivable under stress.",
+        "ru": "Она оставалась мыслимой в состоянии стресса."
+      },
+      {
+        "en": "Results looked only conceivable.",
+        "ru": "Результаты выглядели только мыслимыми."
+      }
+    ],
+    "colloc": "conceivable approach · remain conceivable"
+  },
+  {
+    "word": "concerto",
+    "lemma": "concerto",
+    "ipa": "/kənˈʧɛrtoʊ/",
+    "pos": "noun",
+    "tr": "концерт (муз.)",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple concerto.",
+        "ru": "Простого концерта не было."
+      },
+      {
+        "en": "Critics mocked the concerto.",
+        "ru": "Критики высмеяли концерт."
+      },
+      {
+        "en": "We need a working definition of concerto.",
+        "ru": "Нам нужно рабочее определение концерта."
+      }
+    ],
+    "colloc": "clear concerto · concerto of"
+  },
+  {
+    "word": "conciliation",
+    "lemma": "conciliation",
+    "ipa": "/kənˌsɪliˈeɪʃən/",
+    "pos": "noun",
+    "tr": "примирение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple conciliation.",
+        "ru": "Простого примирения не было."
+      },
+      {
+        "en": "Critics mocked the conciliation.",
+        "ru": "Критики высмеяли примирение."
+      },
+      {
+        "en": "We need a working definition of conciliation.",
+        "ru": "Нам необходимо рабочее определение примирения."
+      }
+    ],
+    "colloc": "the conciliation · conciliation of"
+  },
+  {
+    "word": "conciliatory",
+    "lemma": "conciliatory",
+    "ipa": "/kənˈsɪˌliəˌtɔri/",
+    "pos": "adj",
+    "tr": "примирительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less conciliatory option.",
+        "ru": "Выбирайте менее примирительный вариант."
+      },
+      {
+        "en": "The design feels conciliatory.",
+        "ru": "Дизайн кажется примирительным."
+      },
+      {
+        "en": "A conciliatory policy risks backlash.",
+        "ru": "Примирительная политика может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "highly conciliatory · remain conciliatory"
+  },
+  {
+    "word": "concur",
+    "lemma": "concur",
+    "ipa": "/kənˈkər/",
+    "pos": "verb",
+    "tr": "соглашаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to concur with precision.",
+        "ru": "Она научилась соглашаться с точностью."
+      },
+      {
+        "en": "We will concur the policy next quarter.",
+        "ru": "Мы согласуем политику в следующем квартале."
+      },
+      {
+        "en": "Critics concur the choice harshly.",
+        "ru": "Критики жестко соглашаются с выбором."
+      }
+    ],
+    "colloc": "concur pressure · concur + N",
+    "pattern": "concur + N"
+  },
+  {
+    "word": "concurrence",
+    "lemma": "concurrence",
+    "ipa": "/kənˈkərəns/",
+    "pos": "noun",
+    "tr": "согласие; совпадение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple concurrence.",
+        "ru": "Простого согласия не было."
+      },
+      {
+        "en": "Critics mocked the concurrence.",
+        "ru": "Критики высмеяли совпадение."
+      },
+      {
+        "en": "We need a working definition of concurrence.",
+        "ru": "Нам нужно рабочее определение согласия."
+      }
+    ],
+    "colloc": "clear concurrence · address the concurrence"
+  },
+  {
+    "word": "concurrent",
+    "lemma": "concurrent",
+    "ipa": "/kənˈkərənt/",
+    "pos": "noun",
+    "tr": "одновременный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the concurrent.",
+        "ru": "Они недооценили параллель."
+      },
+      {
+        "en": "A clear concurrent emerged from the data.",
+        "ru": "Из данных вытекала явная параллель."
+      },
+      {
+        "en": "Address the concurrent before it grows.",
+        "ru": "Обращайтесь к параллельному, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear concurrent · concurrent of"
+  },
+  {
+    "word": "condensation",
+    "lemma": "condensation",
+    "ipa": "/ˌkɑndənˈseɪʃən/",
+    "pos": "noun",
+    "tr": "конденсация; сжатие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple condensation.",
+        "ru": "Простой конденсации не было."
+      },
+      {
+        "en": "Critics mocked the condensation.",
+        "ru": "Критики высмеяли конденсацию."
+      },
+      {
+        "en": "We need a working definition of condensation.",
+        "ru": "Нам нужно рабочее определение конденсации."
+      }
+    ],
+    "colloc": "clear condensation · condensation of"
+  },
+  {
+    "word": "conditional",
+    "lemma": "conditional",
+    "ipa": "/kənˈdɪʃənəl/",
+    "pos": "adj",
+    "tr": "условный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A conditional approach may help.",
+        "ru": "Условный подход может помочь."
+      },
+      {
+        "en": "His answer sounded conditional.",
+        "ru": "Его ответ звучал условно."
+      },
+      {
+        "en": "Avoid conditional claims without proof.",
+        "ru": "Избегайте условных претензий без доказательств."
+      }
+    ],
+    "colloc": "highly conditional · remain conditional"
+  },
+  {
+    "word": "conditionally",
+    "lemma": "conditionally",
+    "ipa": "/kənˈdɪʃənəli/",
+    "pos": "adv",
+    "tr": "условно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample conditionally.",
+        "ru": "Обработайте образец условно."
+      },
+      {
+        "en": "Support arrived conditionally.",
+        "ru": "Поддержка пришла условно."
+      },
+      {
+        "en": "The plan failed conditionally.",
+        "ru": "План провалился условно."
+      }
+    ],
+    "colloc": "act conditionally · conditionally"
+  },
+  {
+    "word": "condone",
+    "lemma": "condone",
+    "ipa": "/kənˈdoʊn/",
+    "pos": "verb",
+    "tr": "потворствовать; смотреть сквозь пальцы",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers condone resources each week.",
+        "ru": "Менеджеры потворствуют ресурсам каждую неделю."
+      },
+      {
+        "en": "He tends to condone too quickly.",
+        "ru": "Он склонен оправдываться слишком быстро."
+      },
+      {
+        "en": "They condone only after a full review.",
+        "ru": "Они оправдываются только после полного пересмотра."
+      }
+    ],
+    "colloc": "condone pressure · refuse to condone",
+    "pattern": "condone + to-INF"
+  },
+  {
+    "word": "conduit",
+    "lemma": "conduit",
+    "ipa": "/ˈkɑnʤuɪt/",
+    "pos": "noun",
+    "tr": "канал; проводник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking conduit.",
+        "ru": "В докладе приводится поразительный канал."
+      },
+      {
+        "en": "Funding hinges on this conduit.",
+        "ru": "Финансирование зависит от этого канала."
+      },
+      {
+        "en": "Students often confuse conduit with related terms.",
+        "ru": "Студенты часто путают канал с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear conduit · conduit of"
+  },
+  {
+    "word": "confabulate",
+    "lemma": "confabulate",
+    "ipa": "/confabulate/",
+    "pos": "verb",
+    "tr": "беседовать; конфабулировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you confabulate this for the board?",
+        "ru": "Можете ли вы сговориться об этом для совета?"
+      },
+      {
+        "en": "Analysts confabulate the numbers overnight.",
+        "ru": "Аналитики сопоставляют цифры за одну ночь."
+      },
+      {
+        "en": "Do not confabulate under political pressure.",
+        "ru": "Не поддавайся политическому давлению."
+      }
+    ],
+    "colloc": "confabulate carefully · refuse to confabulate",
+    "pattern": "confabulate (+ prep)"
+  },
+  {
+    "word": "confabulation",
+    "lemma": "confabulation",
+    "ipa": "/kənˌfæbjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "беседа; конфабуляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking confabulation.",
+        "ru": "В докладе приводится поразительная конфабуляция."
+      },
+      {
+        "en": "Funding hinges on this confabulation.",
+        "ru": "Финансирование зависит от этой конфабуляции."
+      },
+      {
+        "en": "Students often confuse confabulation with related terms.",
+        "ru": "Студенты часто путают конфабуляцию с родственными терминами."
+      }
+    ],
+    "colloc": "the confabulation · address the confabulation"
+  },
+  {
+    "word": "confection",
+    "lemma": "confection",
+    "ipa": "/kənˈfɛkʃən/",
+    "pos": "noun",
+    "tr": "кондитерское изделие; изысканная вещь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the confection.",
+        "ru": "Они недооценили кондитерскую."
+      },
+      {
+        "en": "A clear confection emerged from the data.",
+        "ru": "Из данных получилась четкая конфета."
+      },
+      {
+        "en": "Address the confection before it grows.",
+        "ru": "Обращайтесь к кондитерской до того, как она вырастет."
+      }
+    ],
+    "colloc": "the confection · confection of"
+  },
+  {
+    "word": "confide",
+    "lemma": "confide",
+    "ipa": "/kənˈfaɪd/",
+    "pos": "verb",
+    "tr": "доверять (секрет)",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you confide this for the board?",
+        "ru": "Вы можете доверить это совету?"
+      },
+      {
+        "en": "Analysts confide the numbers overnight.",
+        "ru": "Аналитики уверены в цифрах за одну ночь."
+      },
+      {
+        "en": "Do not confide under political pressure.",
+        "ru": "Не доверяйте под политическим давлением."
+      }
+    ],
+    "colloc": "confide the claim · refuse to confide",
+    "pattern": "confide + to-INF"
+  },
+  {
+    "word": "confinement",
+    "lemma": "confinement",
+    "ipa": "/kənˈfaɪnmənt/",
+    "pos": "noun",
+    "tr": "заключение; ограничение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the confinement.",
+        "ru": "Они недооценили содержание под стражей."
+      },
+      {
+        "en": "A clear confinement emerged from the data.",
+        "ru": "Из данных вытекало четкое ограничение."
+      },
+      {
+        "en": "Address the confinement before it grows.",
+        "ru": "Устраните ограничение до того, как оно вырастет."
+      }
+    ],
+    "colloc": "clear confinement · confinement of"
+  },
+  {
+    "word": "conform",
+    "lemma": "conform",
+    "ipa": "/kənˈfɔrm/",
+    "pos": "verb",
+    "tr": "соответствовать; подчиняться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers conform resources each week.",
+        "ru": "Менеджеры выделяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to conform too quickly.",
+        "ru": "Он склонен приспосабливаться слишком быстро."
+      },
+      {
+        "en": "They conform only after a full review.",
+        "ru": "Они согласуются только после полного обзора."
+      }
+    ],
+    "colloc": "conform carefully · conform + N",
+    "pattern": "conform + that"
+  },
+  {
+    "word": "conformity",
+    "lemma": "conformity",
+    "ipa": "/kənˈfɔrməti/",
+    "pos": "noun",
+    "tr": "соответствие; конформизм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking conformity.",
+        "ru": "В докладе отмечается поразительное соответствие."
+      },
+      {
+        "en": "Funding hinges on this conformity.",
+        "ru": "Финансирование зависит от этого соответствия."
+      },
+      {
+        "en": "Students often confuse conformity with related terms.",
+        "ru": "Студенты часто путают соответствие с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear conformity · conformity of"
+  },
+  {
+    "word": "confrontational",
+    "lemma": "confrontational",
+    "ipa": "/ˌkɑnfrənˈteɪʃənəl/",
+    "pos": "adj",
+    "tr": "конфронтационный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less confrontational option.",
+        "ru": "Выберите менее конфронтационный вариант."
+      },
+      {
+        "en": "The design feels confrontational.",
+        "ru": "Дизайн кажется конфронтационным."
+      },
+      {
+        "en": "A confrontational policy risks backlash.",
+        "ru": "Конфронтационная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly confrontational · confrontational result"
+  },
+  {
+    "word": "confrontationally",
+    "lemma": "confrontationally",
+    "ipa": "/confrontationally/",
+    "pos": "adv",
+    "tr": "конфронтационно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke confrontationally about the issue.",
+        "ru": "Она конфронтационно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded confrontationally.",
+        "ru": "Команда отреагировала конфронтационно."
+      },
+      {
+        "en": "Progress moved confrontationally after the fix.",
+        "ru": "Прогресс двигался конфронтационно после исправления."
+      }
+    ],
+    "colloc": "act confrontationally · confrontationally"
+  },
+  {
+    "word": "conglomerate",
+    "lemma": "conglomerate",
+    "ipa": "/kənˈglɑmərət/",
+    "pos": "noun",
+    "tr": "конгломерат",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the conglomerate.",
+        "ru": "Они недооценили конгломерат."
+      },
+      {
+        "en": "A clear conglomerate emerged from the data.",
+        "ru": "Из этих данных вышел четкий конгломерат."
+      },
+      {
+        "en": "Address the conglomerate before it grows.",
+        "ru": "Обращайтесь к конгломерату, пока он не вырос."
+      }
+    ],
+    "colloc": "the conglomerate · conglomerate of"
+  },
+  {
+    "word": "congregate",
+    "lemma": "congregate",
+    "ipa": "/ˈkɑŋgrəˌgeɪt/",
+    "pos": "verb",
+    "tr": "собираться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to congregate with precision.",
+        "ru": "Она научилась собираться с точностью."
+      },
+      {
+        "en": "We will congregate the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics congregate the choice harshly.",
+        "ru": "Критики жестко конгрегируют выбор."
+      }
+    ],
+    "colloc": "congregate the claim · congregate + N",
+    "pattern": "congregate (+ prep)"
+  },
+  {
+    "word": "conjecture",
+    "lemma": "conjecture",
+    "ipa": "/kənˈʤɛkʧər/",
+    "pos": "verb",
+    "tr": "предположение; строить догадки",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please conjecture the proposal carefully.",
+        "ru": "Пожалуйста, тщательно продумайте предложение."
+      },
+      {
+        "en": "They refuse to conjecture without evidence.",
+        "ru": "Они отказываются строить предположения без доказательств."
+      },
+      {
+        "en": "Leaders must conjecture when stakes are high.",
+        "ru": "Лидеры должны догадываться, когда ставки высоки."
+      }
+    ],
+    "colloc": "conjecture pressure · conjecture + N",
+    "pattern": "conjecture + that"
+  },
+  {
+    "word": "conjure",
+    "lemma": "conjure",
+    "ipa": "/ˈkɑnʤər/",
+    "pos": "verb",
+    "tr": "вызывать (в воображении); колдовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers conjure resources each week.",
+        "ru": "Менеджеры заставляют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to conjure too quickly.",
+        "ru": "Он склонен заклинать слишком быстро."
+      },
+      {
+        "en": "They conjure only after a full review.",
+        "ru": "Они появляются только после полного обзора."
+      }
+    ],
+    "colloc": "conjure the claim · conjure + N",
+    "pattern": "conjure + to-INF"
+  },
+  {
+    "word": "connoisseur",
+    "lemma": "connoisseur",
+    "ipa": "/ˌkɑnəˈsər/",
+    "pos": "noun",
+    "tr": "знаток; ценитель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking connoisseur.",
+        "ru": "В докладе приводится поразительный знаток."
+      },
+      {
+        "en": "Funding hinges on this connoisseur.",
+        "ru": "Финансирование зависит от этого знатока."
+      },
+      {
+        "en": "Students often confuse connoisseur with related terms.",
+        "ru": "Студенты часто путают знатока с родственными терминами."
+      }
+    ],
+    "colloc": "clear connoisseur · address the connoisseur"
+  },
+  {
+    "word": "connotation",
+    "lemma": "connotation",
+    "ipa": "/ˌkɑnəˈteɪʃən/",
+    "pos": "noun",
+    "tr": "коннотация; оттенок значения",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the connotation closely.",
+        "ru": "Исследователи внимательно изучили коннотацию."
+      },
+      {
+        "en": "The connotation shaped the final decision.",
+        "ru": "Коннотация сформировала окончательное решение."
+      },
+      {
+        "en": "Without the connotation, the argument collapses.",
+        "ru": "Без коннотации аргумент рушится."
+      }
+    ],
+    "colloc": "clear connotation · connotation of"
+  },
+  {
+    "word": "connote",
+    "lemma": "connote",
+    "ipa": "/kəˈnoʊt/",
+    "pos": "verb",
+    "tr": "подразумевать; иметь коннотацию",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you connote this for the board?",
+        "ru": "Можете ли вы обозначить это для совета?"
+      },
+      {
+        "en": "Analysts connote the numbers overnight.",
+        "ru": "Аналитики отмечают цифры за ночь."
+      },
+      {
+        "en": "Do not connote under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "connote pressure · refuse to connote",
+    "pattern": "connote (+ prep)"
+  },
+  {
+    "word": "conscientious",
+    "lemma": "conscientious",
+    "ipa": "/ˌkɑnʃiˈɛnʃəs/",
+    "pos": "adj",
+    "tr": "добросовестный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less conscientious option.",
+        "ru": "Выбирайте менее добросовестный вариант."
+      },
+      {
+        "en": "The design feels conscientious.",
+        "ru": "Дизайн кажется добросовестным."
+      },
+      {
+        "en": "A conscientious policy risks backlash.",
+        "ru": "Добросовестная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "conscientious tone · conscientious result"
+  },
+  {
+    "word": "conscientiously",
+    "lemma": "conscientiously",
+    "ipa": "/ˌkɑnʧiˈɛnʧəsli/",
+    "pos": "adv",
+    "tr": "добросовестно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample conscientiously.",
+        "ru": "Обработайте образец добросовестно."
+      },
+      {
+        "en": "Support arrived conscientiously.",
+        "ru": "Поддержка пришла осознанно."
+      },
+      {
+        "en": "The plan failed conscientiously.",
+        "ru": "План провалился сознательно."
+      }
+    ],
+    "colloc": "respond conscientiously · conscientiously"
+  },
+  {
+    "word": "consequent",
+    "lemma": "consequent",
+    "ipa": "/ˈkɑnsəkwənt/",
+    "pos": "noun",
+    "tr": "последующий; вытекающий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one consequent.",
+        "ru": "Ее карьера перевернулась на одну последующую."
+      },
+      {
+        "en": "Public debate ignored the consequent.",
+        "ru": "Публичные дебаты проигнорировали последствия."
+      },
+      {
+        "en": "Document every consequent in the log.",
+        "ru": "Документируйте все последующие в журнале."
+      }
+    ],
+    "colloc": "clear consequent · address the consequent"
+  },
+  {
+    "word": "conservatory",
+    "lemma": "conservatory",
+    "ipa": "/kənˈsərvətɔri/",
+    "pos": "noun",
+    "tr": "консерватория; оранжерея",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the conservatory.",
+        "ru": "Они недооценили консерваторию."
+      },
+      {
+        "en": "A clear conservatory emerged from the data.",
+        "ru": "Из этих данных возникла четкая консерватория."
+      },
+      {
+        "en": "Address the conservatory before it grows.",
+        "ru": "Обратитесь в консерваторию, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the conservatory · address the conservatory"
+  },
+  {
+    "word": "consign",
+    "lemma": "consign",
+    "ipa": "/kənˈsaɪn/",
+    "pos": "verb",
+    "tr": "передавать; отправлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you consign this for the board?",
+        "ru": "Можешь передать это на доску?"
+      },
+      {
+        "en": "Analysts consign the numbers overnight.",
+        "ru": "Аналитики отправляют цифры на ночь."
+      },
+      {
+        "en": "Do not consign under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "consign carefully · consign + N",
+    "pattern": "consign (+ prep)"
+  },
+  {
+    "word": "consignment",
+    "lemma": "consignment",
+    "ipa": "/kənˈsaɪnmənt/",
+    "pos": "noun",
+    "tr": "партия товара; отправка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one consignment.",
+        "ru": "Ее карьера перевернулась на одну партию."
+      },
+      {
+        "en": "Public debate ignored the consignment.",
+        "ru": "Общественные дебаты проигнорировали партию."
+      },
+      {
+        "en": "Document every consignment in the log.",
+        "ru": "Документируйте каждую партию в журнале."
+      }
+    ],
+    "colloc": "clear consignment · address the consignment"
+  },
+  {
+    "word": "consternation",
+    "lemma": "consternation",
+    "ipa": "/ˌkɑnstərˈneɪʃən/",
+    "pos": "noun",
+    "tr": "ужас; глубокое беспокойство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking consternation.",
+        "ru": "В докладе приводится поразительный ужас."
+      },
+      {
+        "en": "Funding hinges on this consternation.",
+        "ru": "Финансирование зависит от этого ужаса."
+      },
+      {
+        "en": "Students often confuse consternation with related terms.",
+        "ru": "Студенты часто путают ужас с соответствующими терминами."
+      }
+    ],
+    "colloc": "the consternation · address the consternation"
+  },
+  {
+    "word": "constrain",
+    "lemma": "constrain",
+    "ipa": "/kənˈstreɪn/",
+    "pos": "noun",
+    "tr": "ограничивать; сдерживать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple constrain.",
+        "ru": "Простого ограничения не было."
+      },
+      {
+        "en": "Critics mocked the constrain.",
+        "ru": "Критики высмеяли ограничение."
+      },
+      {
+        "en": "We need a working definition of constrain.",
+        "ru": "Нам нужно рабочее определение ограничения."
+      }
+    ],
+    "colloc": "the constrain · address the constrain"
+  }
+]

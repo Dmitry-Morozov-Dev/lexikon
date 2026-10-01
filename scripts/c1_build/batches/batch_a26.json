@@ -1,0 +1,1258 @@
+[
+  {
+    "word": "terrific",
+    "lemma": "terrific",
+    "ipa": "/tərˈɪfɪk/",
+    "pos": "adj",
+    "tr": "потрясающе",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A terrific approach may help.",
+        "ru": "Отличный подход может помочь."
+      },
+      {
+        "en": "His answer sounded terrific.",
+        "ru": "Его ответ звучал потрясающе."
+      },
+      {
+        "en": "Avoid terrific claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "terrific approach · terrific result",
+    "ex": "A terrific approach may help.",
+    "exRu": "Отличный подход может помочь."
+  },
+  {
+    "word": "testament",
+    "lemma": "testament",
+    "ipa": "/ˈtɛstəmənt/",
+    "pos": "noun",
+    "tr": "Завещание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking testament.",
+        "ru": "В докладе приводится поразительное завещание."
+      },
+      {
+        "en": "Funding hinges on this testament.",
+        "ru": "Финансирование зависит от этого завещания."
+      },
+      {
+        "en": "Students often confuse testament with related terms.",
+        "ru": "Студенты часто путают завещание с соответствующими терминами."
+      }
+    ],
+    "colloc": "the testament · address the testament",
+    "ex": "The report cites a striking testament.",
+    "exRu": "В докладе приводится поразительное завещание."
+  },
+  {
+    "word": "testify",
+    "lemma": "testify",
+    "ipa": "/ˈtɛstɪˌfaɪ/",
+    "pos": "verb",
+    "tr": "давать показания",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please testify the proposal carefully.",
+        "ru": "Пожалуйста, внимательно засвидетельствуйте это предложение."
+      },
+      {
+        "en": "They refuse to testify without evidence.",
+        "ru": "Они отказываются давать показания без доказательств."
+      },
+      {
+        "en": "Leaders must testify when stakes are high.",
+        "ru": "Лидеры должны давать показания, когда ставки высоки."
+      }
+    ],
+    "colloc": "testify the claim · refuse to testify",
+    "pattern": "testify + N",
+    "ex": "Please testify the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно засвидетельствуйте это предложение."
+  },
+  {
+    "word": "testimony",
+    "lemma": "testimony",
+    "ipa": "/ˈtɛstɪˌmoʊni/",
+    "pos": "noun",
+    "tr": "свидетельство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple testimony.",
+        "ru": "Простого свидетельства не было."
+      },
+      {
+        "en": "Critics mocked the testimony.",
+        "ru": "Критики высмеяли показания."
+      },
+      {
+        "en": "We need a working definition of testimony.",
+        "ru": "Нам нужно рабочее определение показаний."
+      }
+    ],
+    "colloc": "clear testimony · address the testimony",
+    "ex": "There was no simple testimony.",
+    "exRu": "Простого свидетельства не было."
+  },
+  {
+    "word": "texture",
+    "lemma": "texture",
+    "ipa": "/ˈtɛksʧər/",
+    "pos": "noun",
+    "tr": "текстура",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one texture.",
+        "ru": "Ее карьера перевернулась на одной фактуре."
+      },
+      {
+        "en": "Public debate ignored the texture.",
+        "ru": "Общественные дебаты игнорируют текстуру."
+      },
+      {
+        "en": "Document every texture in the log.",
+        "ru": "Документируйте каждую текстуру в журнале."
+      }
+    ],
+    "colloc": "clear texture · address the texture",
+    "ex": "Her career turned on one texture.",
+    "exRu": "Ее карьера перевернулась на одной фактуре."
+  },
+  {
+    "word": "thankfully",
+    "lemma": "thankfully",
+    "ipa": "/ˈθæŋkfəli/",
+    "pos": "adv",
+    "tr": "К счастью",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke thankfully about the issue.",
+        "ru": "Она с благодарностью высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded thankfully.",
+        "ru": "Команда отреагировала с благодарностью."
+      },
+      {
+        "en": "Progress moved thankfully after the fix.",
+        "ru": "Прогресс, к счастью, сдвинулся после исправления."
+      }
+    ],
+    "colloc": "act thankfully · thankfully",
+    "ex": "She spoke thankfully about the issue.",
+    "exRu": "Она с благодарностью высказалась по этому вопросу."
+  },
+  {
+    "word": "theatrical",
+    "lemma": "theatrical",
+    "ipa": "/θiˈætrɪkəl/",
+    "pos": "adj",
+    "tr": "театральный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly theatrical.",
+        "ru": "Доказательства вряд ли театральные."
+      },
+      {
+        "en": "She remained theatrical under stress.",
+        "ru": "Она оставалась театральной в состоянии стресса."
+      },
+      {
+        "en": "Results looked only theatrical.",
+        "ru": "Результаты выглядели только театрально."
+      }
+    ],
+    "colloc": "theatrical tone · theatrical result",
+    "ex": "The evidence is hardly theatrical.",
+    "exRu": "Доказательства вряд ли театральные."
+  },
+  {
+    "word": "theology",
+    "lemma": "theology",
+    "ipa": "/θiˈɑləʤi/",
+    "pos": "noun",
+    "tr": "теология",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple theology.",
+        "ru": "Не было простой теологии."
+      },
+      {
+        "en": "Critics mocked the theology.",
+        "ru": "Критики высмеивали теологию."
+      },
+      {
+        "en": "We need a working definition of theology.",
+        "ru": "Нам нужно рабочее определение теологии."
+      }
+    ],
+    "colloc": "clear theology · theology of",
+    "ex": "There was no simple theology.",
+    "exRu": "Не было простой теологии."
+  },
+  {
+    "word": "theoretical",
+    "lemma": "theoretical",
+    "ipa": "/ˌθiərˈɛtɪkəl/",
+    "pos": "adj",
+    "tr": "теоретический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a theoretical strategy.",
+        "ru": "Это была теоретическая стратегия."
+      },
+      {
+        "en": "The tone grew theoretical.",
+        "ru": "Для того, чтобы развиться."
+      },
+      {
+        "en": "They rejected the theoretical proposal.",
+        "ru": "Они отвергли теоретическое предложение."
+      }
+    ],
+    "colloc": "theoretical tone · remain theoretical",
+    "ex": "It was a theoretical strategy.",
+    "exRu": "Это была теоретическая стратегия."
+  },
+  {
+    "word": "thereafter",
+    "lemma": "thereafter",
+    "ipa": "/ðɛˈræftər/",
+    "pos": "adv",
+    "tr": "После этого",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued thereafter overnight.",
+        "ru": "После этого работа продолжалась всю ночь."
+      },
+      {
+        "en": "She answered thereafter and clearly.",
+        "ru": "После этого она ответила ясно и ясно."
+      },
+      {
+        "en": "The claim was thereafter dismissed.",
+        "ru": "После этого иск был отклонен."
+      }
+    ],
+    "colloc": "speak thereafter · thereafter",
+    "ex": "Work continued thereafter overnight.",
+    "exRu": "После этого работа продолжалась всю ночь."
+  },
+  {
+    "word": "thereby",
+    "lemma": "thereby",
+    "ipa": "/ˈðɛrˈbaɪ/",
+    "pos": "adv",
+    "tr": "тем самым",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke thereby about the issue.",
+        "ru": "Тем самым она высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded thereby.",
+        "ru": "Команда отреагировала на это."
+      },
+      {
+        "en": "Progress moved thereby after the fix.",
+        "ru": "Прогресс двигался таким образом после исправления."
+      }
+    ],
+    "colloc": "act thereby · thereby",
+    "ex": "She spoke thereby about the issue.",
+    "exRu": "Тем самым она высказалась по этому вопросу."
+  },
+  {
+    "word": "thought-provoking",
+    "lemma": "thought-provoking",
+    "ipa": "/thought-provoking/",
+    "pos": "adj",
+    "tr": "вызывающий мысли",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less thought-provoking option.",
+        "ru": "Выберите менее продуманный вариант."
+      },
+      {
+        "en": "The design feels thought-provoking.",
+        "ru": "Дизайн вызывает мысли."
+      },
+      {
+        "en": "A thought-provoking policy risks backlash.",
+        "ru": "Провоцирующая мысль политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly thought-provoking · remain thought-provoking",
+    "ex": "Choose a less thought-provoking option.",
+    "exRu": "Выберите менее продуманный вариант."
+  },
+  {
+    "word": "thoughtful",
+    "lemma": "thoughtful",
+    "ipa": "/ˈθɔtfəl/",
+    "pos": "adj",
+    "tr": "задумчивый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a thoughtful strategy.",
+        "ru": "Это была продуманная стратегия."
+      },
+      {
+        "en": "The tone grew thoughtful.",
+        "ru": "Тон стал вдумчивым."
+      },
+      {
+        "en": "They rejected the thoughtful proposal.",
+        "ru": "Они отвергли вдумчивое предложение."
+      }
+    ],
+    "colloc": "thoughtful tone · thoughtful result",
+    "ex": "It was a thoughtful strategy.",
+    "exRu": "Это была продуманная стратегия."
+  },
+  {
+    "word": "till",
+    "lemma": "till",
+    "ipa": "/tɪl/",
+    "pos": "noun",
+    "tr": "дождевик",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple till.",
+        "ru": "До этого не было простого."
+      },
+      {
+        "en": "Critics mocked the till.",
+        "ru": "Критики высмеяли кассу."
+      },
+      {
+        "en": "We need a working definition of till.",
+        "ru": "Нам нужно рабочее определение до тех пор."
+      }
+    ],
+    "colloc": "the till · till of",
+    "ex": "There was no simple till.",
+    "exRu": "До этого не было простого."
+  },
+  {
+    "word": "timid",
+    "lemma": "timid",
+    "ipa": "/ˈtɪmɪd/",
+    "pos": "adj",
+    "tr": "робкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly timid.",
+        "ru": "Доказательства вряд ли робкие."
+      },
+      {
+        "en": "She remained timid under stress.",
+        "ru": "Она оставалась робкой в стрессе."
+      },
+      {
+        "en": "Results looked only timid.",
+        "ru": "Результаты выглядели только робкими."
+      }
+    ],
+    "colloc": "highly timid · remain timid",
+    "ex": "The evidence is hardly timid.",
+    "exRu": "Доказательства вряд ли робкие."
+  },
+  {
+    "word": "tinker",
+    "lemma": "tinker",
+    "ipa": "/ˈtɪŋkər/",
+    "pos": "verb",
+    "tr": "возиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you tinker this for the board?",
+        "ru": "Ты можешь починить это для совета?"
+      },
+      {
+        "en": "Analysts tinker the numbers overnight.",
+        "ru": "Аналитики ломают цифры в одночасье."
+      },
+      {
+        "en": "Do not tinker under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "tinker pressure · tinker + N",
+    "pattern": "tinker + that",
+    "ex": "Can you tinker this for the board?",
+    "exRu": "Ты можешь починить это для совета?"
+  },
+  {
+    "word": "tomb",
+    "lemma": "tomb",
+    "ipa": "/tum/",
+    "pos": "noun",
+    "tr": "Гробница",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple tomb.",
+        "ru": "Не было простой гробницы."
+      },
+      {
+        "en": "Critics mocked the tomb.",
+        "ru": "Критики высмеяли гробницу."
+      },
+      {
+        "en": "We need a working definition of tomb.",
+        "ru": "Нам нужно рабочее определение гробницы."
+      }
+    ],
+    "colloc": "clear tomb · address the tomb",
+    "ex": "There was no simple tomb.",
+    "exRu": "Не было простой гробницы."
+  },
+  {
+    "word": "torment",
+    "lemma": "torment",
+    "ipa": "/ˈtɔrˌmɛnt/",
+    "pos": "verb",
+    "tr": "мучение; мучить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you torment this for the board?",
+        "ru": "Ты можешь мучить это за доску?"
+      },
+      {
+        "en": "Analysts torment the numbers overnight.",
+        "ru": "Документируй каждое мучение в журнале."
+      },
+      {
+        "en": "Do not torment under political pressure.",
+        "ru": "Не мучить под политическим давлением."
+      }
+    ],
+    "colloc": "torment carefully · torment + N",
+    "pattern": "torment + that",
+    "ex": "Can you torment this for the board?",
+    "exRu": "Ты можешь мучить это за доску?"
+  },
+  {
+    "word": "torturous",
+    "lemma": "torturous",
+    "ipa": "/ˈtɔˌrʧuəs/",
+    "pos": "adj",
+    "tr": "мучительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a torturous strategy.",
+        "ru": "Это была мучительная стратегия."
+      },
+      {
+        "en": "The tone grew torturous.",
+        "ru": "Тон стал мучительным."
+      },
+      {
+        "en": "They rejected the torturous proposal.",
+        "ru": "Они отвергли мучительное предложение."
+      }
+    ],
+    "colloc": "torturous approach · torturous result",
+    "ex": "It was a torturous strategy.",
+    "exRu": "Это была мучительная стратегия."
+  },
+  {
+    "word": "toughness",
+    "lemma": "toughness",
+    "ipa": "/ˈtəfnəs/",
+    "pos": "noun",
+    "tr": "твердость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the toughness closely.",
+        "ru": "Исследователи внимательно изучили прочность."
+      },
+      {
+        "en": "The toughness shaped the final decision.",
+        "ru": "Жесткость сформировала окончательное решение."
+      },
+      {
+        "en": "Without the toughness, the argument collapses.",
+        "ru": "Без жесткости аргумент рушится."
+      }
+    ],
+    "colloc": "clear toughness · address the toughness",
+    "ex": "Researchers examined the toughness closely.",
+    "exRu": "Исследователи внимательно изучили прочность."
+  },
+  {
+    "word": "tract",
+    "lemma": "tract",
+    "ipa": "/trækt/",
+    "pos": "noun",
+    "tr": "тракт",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the tract.",
+        "ru": "Они недооценили тракт."
+      },
+      {
+        "en": "A clear tract emerged from the data.",
+        "ru": "Из данных вышел четкий трактат."
+      },
+      {
+        "en": "Address the tract before it grows.",
+        "ru": "Обращайтесь к тракту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear tract · tract of",
+    "ex": "They underestimated the tract.",
+    "exRu": "Они недооценили тракт."
+  },
+  {
+    "word": "trampoline",
+    "lemma": "trampoline",
+    "ipa": "/ˌtræmpəˈlin/",
+    "pos": "noun",
+    "tr": "батут",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one trampoline.",
+        "ru": "Ее карьера перевернулась на одном батуте."
+      },
+      {
+        "en": "Public debate ignored the trampoline.",
+        "ru": "Общественные дебаты проигнорировали батут."
+      },
+      {
+        "en": "Document every trampoline in the log.",
+        "ru": "Документируйте каждый батут в журнале."
+      }
+    ],
+    "colloc": "the trampoline · address the trampoline",
+    "ex": "Her career turned on one trampoline.",
+    "exRu": "Ее карьера перевернулась на одном батуте."
+  },
+  {
+    "word": "tranquil",
+    "lemma": "tranquil",
+    "ipa": "/ˈtræŋkwɪl/",
+    "pos": "adj",
+    "tr": "спокойный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a tranquil strategy.",
+        "ru": "Это была спокойная стратегия."
+      },
+      {
+        "en": "The tone grew tranquil.",
+        "ru": "Тон стал спокойным."
+      },
+      {
+        "en": "They rejected the tranquil proposal.",
+        "ru": "Они отвергли спокойное предложение."
+      }
+    ],
+    "colloc": "tranquil tone · tranquil result",
+    "ex": "It was a tranquil strategy.",
+    "exRu": "Это была спокойная стратегия."
+  },
+  {
+    "word": "tranquility",
+    "lemma": "tranquility",
+    "ipa": "/træŋkˈwɪlɪti/",
+    "pos": "noun",
+    "tr": "спокойствие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the tranquility.",
+        "ru": "Они недооценили спокойствие."
+      },
+      {
+        "en": "A clear tranquility emerged from the data.",
+        "ru": "Явное спокойствие появилось из данных."
+      },
+      {
+        "en": "Address the tranquility before it grows.",
+        "ru": "Обратись к спокойствию, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear tranquility · address the tranquility",
+    "ex": "They underestimated the tranquility.",
+    "exRu": "Они недооценили спокойствие."
+  },
+  {
+    "word": "transatlantic",
+    "lemma": "transatlantic",
+    "ipa": "/ˌtrænzəˈtlænɪk/",
+    "pos": "adj",
+    "tr": "трансатлантический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a transatlantic strategy.",
+        "ru": "Это была трансатлантическая стратегия."
+      },
+      {
+        "en": "The tone grew transatlantic.",
+        "ru": "Тон стал трансатлантическим."
+      },
+      {
+        "en": "They rejected the transatlantic proposal.",
+        "ru": "Они отвергли трансатлантическое предложение."
+      }
+    ],
+    "colloc": "transatlantic approach · remain transatlantic",
+    "ex": "It was a transatlantic strategy.",
+    "exRu": "Это была трансатлантическая стратегия."
+  },
+  {
+    "word": "transfix",
+    "lemma": "transfix",
+    "ipa": "/trænsˈfɪks/",
+    "pos": "verb",
+    "tr": "трансфиксировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to transfix with precision.",
+        "ru": "Вперед Вперед Вперед Вперед Впереди"
+      },
+      {
+        "en": "We will transfix the policy next quarter.",
+        "ru": "Мы исправим политику в следующем квартале."
+      },
+      {
+        "en": "Critics transfix the choice harshly.",
+        "ru": "Критики жестко преобразуют выбор."
+      }
+    ],
+    "colloc": "transfix the claim · refuse to transfix",
+    "pattern": "transfix + to-INF",
+    "ex": "She learned to transfix with precision.",
+    "exRu": "Вперед Вперед Вперед Вперед Впереди"
+  },
+  {
+    "word": "traumatic",
+    "lemma": "traumatic",
+    "ipa": "/trɔˈmætɪk/",
+    "pos": "adj",
+    "tr": "травмирующий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly traumatic.",
+        "ru": "Доказательства вряд ли травматичны."
+      },
+      {
+        "en": "She remained traumatic under stress.",
+        "ru": "Она оставалась травматичной при стрессе."
+      },
+      {
+        "en": "Results looked only traumatic.",
+        "ru": "Результаты выглядели только травматично."
+      }
+    ],
+    "colloc": "traumatic tone · remain traumatic",
+    "ex": "The evidence is hardly traumatic.",
+    "exRu": "Доказательства вряд ли травматичны."
+  },
+  {
+    "word": "tread",
+    "lemma": "tread",
+    "ipa": "/trɛd/",
+    "pos": "noun",
+    "tr": "протектор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the tread.",
+        "ru": "Они недооценили протекцию."
+      },
+      {
+        "en": "A clear tread emerged from the data.",
+        "ru": "Из данных вышел четкий след."
+      },
+      {
+        "en": "Address the tread before it grows.",
+        "ru": "Обращайтесь к протектору, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the tread · address the tread",
+    "ex": "They underestimated the tread.",
+    "exRu": "Они недооценили протекцию."
+  },
+  {
+    "word": "trying",
+    "lemma": "trying",
+    "ipa": "/traɪɪŋ/",
+    "pos": "adj",
+    "tr": "пытаться",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A trying approach may help.",
+        "ru": "Старательный подход может помочь."
+      },
+      {
+        "en": "His answer sounded trying.",
+        "ru": "Его ответ звучал как попытка."
+      },
+      {
+        "en": "Avoid trying claims without proof.",
+        "ru": "Старайтесь избегать претензий без доказательств."
+      }
+    ],
+    "colloc": "highly trying · trying result",
+    "ex": "A trying approach may help.",
+    "exRu": "Старательный подход может помочь."
+  },
+  {
+    "word": "turmoil",
+    "lemma": "turmoil",
+    "ipa": "/ˈtərˌmɔɪl/",
+    "pos": "noun",
+    "tr": "суматоха",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one turmoil.",
+        "ru": "Ее карьера перевернулась на одну суматоху."
+      },
+      {
+        "en": "Public debate ignored the turmoil.",
+        "ru": "Общественные дебаты проигнорировали беспорядки."
+      },
+      {
+        "en": "Document every turmoil in the log.",
+        "ru": "Документируйте каждую суматоху в журнале."
+      }
+    ],
+    "colloc": "the turmoil · turmoil of",
+    "ex": "Her career turned on one turmoil.",
+    "exRu": "Ее карьера перевернулась на одну суматоху."
+  },
+  {
+    "word": "twitch",
+    "lemma": "twitch",
+    "ipa": "/twɪʧ/",
+    "pos": "verb",
+    "tr": "дергаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you twitch this for the board?",
+        "ru": "Ты можешь подергать это за доску?"
+      },
+      {
+        "en": "Analysts twitch the numbers overnight.",
+        "ru": "Аналитики дергают цифры за ночь."
+      },
+      {
+        "en": "Do not twitch under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "twitch the claim · twitch + N",
+    "pattern": "twitch + to-INF",
+    "ex": "Can you twitch this for the board?",
+    "exRu": "Ты можешь подергать это за доску?"
+  },
+  {
+    "word": "tycoon",
+    "lemma": "tycoon",
+    "ipa": "/taɪˈkun/",
+    "pos": "noun",
+    "tr": "магнат",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the tycoon.",
+        "ru": "По его словам, «сделай так, чтобы это случилось»."
+      },
+      {
+        "en": "A clear tycoon emerged from the data.",
+        "ru": "Из данных вышел явный магнат."
+      },
+      {
+        "en": "Address the tycoon before it grows.",
+        "ru": "Обращайтесь к магнату, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear tycoon · address the tycoon",
+    "ex": "They underestimated the tycoon.",
+    "exRu": "По его словам, «сделай так, чтобы это случилось»."
+  },
+  {
+    "word": "unassisted",
+    "lemma": "unassisted",
+    "ipa": "/ˌənəˈsɪstɪd/",
+    "pos": "adj",
+    "tr": "без помощи",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less unassisted option.",
+        "ru": "Выберите менее безопасный вариант."
+      },
+      {
+        "en": "The design feels unassisted.",
+        "ru": "Дизайн чувствует себя без посторонней помощи."
+      },
+      {
+        "en": "An unassisted policy risks backlash.",
+        "ru": "Политика без посторонней помощи может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "unassisted approach · unassisted result",
+    "ex": "Choose a less unassisted option.",
+    "exRu": "Выберите менее безопасный вариант."
+  },
+  {
+    "word": "unconventional",
+    "lemma": "unconventional",
+    "ipa": "/ˌənkənˈvɛnʃənəl/",
+    "pos": "adj",
+    "tr": "нетрадиционный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unconventional.",
+        "ru": "Доказательства вряд ли нетрадиционны."
+      },
+      {
+        "en": "She remained unconventional under stress.",
+        "ru": "При стрессе она оставалась нетрадиционной."
+      },
+      {
+        "en": "Results looked only unconventional.",
+        "ru": "Результаты выглядели только нетрадиционно."
+      }
+    ],
+    "colloc": "unconventional tone · remain unconventional",
+    "ex": "The evidence is hardly unconventional.",
+    "exRu": "Доказательства вряд ли нетрадиционны."
+  },
+  {
+    "word": "unconvincing",
+    "lemma": "unconvincing",
+    "ipa": "/ˌənkənˈvɪnsɪŋ/",
+    "pos": "adj",
+    "tr": "неубедительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An unconvincing approach may help.",
+        "ru": "Неубедительный подход может помочь."
+      },
+      {
+        "en": "His answer sounded unconvincing.",
+        "ru": "Его ответ звучал неубедительно."
+      },
+      {
+        "en": "Avoid unconvincing claims without proof.",
+        "ru": "Избегайте неубедительных утверждений без доказательств."
+      }
+    ],
+    "colloc": "unconvincing tone · remain unconvincing",
+    "ex": "An unconvincing approach may help.",
+    "exRu": "Неубедительный подход может помочь."
+  },
+  {
+    "word": "unconvincingly",
+    "lemma": "unconvincingly",
+    "ipa": "/unconvincingly/",
+    "pos": "adv",
+    "tr": "неубедительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample unconvincingly.",
+        "ru": "Обработайте образец неубедительно."
+      },
+      {
+        "en": "Support arrived unconvincingly.",
+        "ru": "Поддержка пришла неубедительно."
+      },
+      {
+        "en": "The plan failed unconvincingly.",
+        "ru": "План провалился неубедительно."
+      }
+    ],
+    "colloc": "speak unconvincingly · unconvincingly",
+    "ex": "Handle the sample unconvincingly.",
+    "exRu": "Обработайте образец неубедительно."
+  },
+  {
+    "word": "undaunted",
+    "lemma": "undaunted",
+    "ipa": "/ənˈdɔntɪd/",
+    "pos": "adj",
+    "tr": "бесстрашный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less undaunted option.",
+        "ru": "Выберите менее бесстрашный вариант."
+      },
+      {
+        "en": "The design feels undaunted.",
+        "ru": "Дизайн чувствует себя неустрашимым."
+      },
+      {
+        "en": "An undaunted policy risks backlash.",
+        "ru": "Безудержная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "undaunted approach · remain undaunted",
+    "ex": "Choose a less undaunted option.",
+    "exRu": "Выберите менее бесстрашный вариант."
+  },
+  {
+    "word": "underlie",
+    "lemma": "underlie",
+    "ipa": "/ˌəndərˈlaɪ/",
+    "pos": "noun",
+    "tr": "основа",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple underlie.",
+        "ru": "Не было простой основы."
+      },
+      {
+        "en": "Critics mocked the underlie.",
+        "ru": "Критики высмеяли подложку."
+      },
+      {
+        "en": "We need a working definition of underlie.",
+        "ru": "Нам нужно рабочее определение основы."
+      }
+    ],
+    "colloc": "clear underlie · address the underlie",
+    "ex": "There was no simple underlie.",
+    "exRu": "Не было простой основы."
+  },
+  {
+    "word": "unenviable",
+    "lemma": "unenviable",
+    "ipa": "/əˈnɛnˌviəbəl/",
+    "pos": "adj",
+    "tr": "незавидный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unenviable.",
+        "ru": "Доказательства вряд ли незавидны."
+      },
+      {
+        "en": "She remained unenviable under stress.",
+        "ru": "Она оставалась незавидной при стрессе."
+      },
+      {
+        "en": "Results looked only unenviable.",
+        "ru": "Результаты выглядели просто незавидными."
+      }
+    ],
+    "colloc": "unenviable approach · remain unenviable",
+    "ex": "The evidence is hardly unenviable.",
+    "exRu": "Доказательства вряд ли незавидны."
+  },
+  {
+    "word": "unenviably",
+    "lemma": "unenviably",
+    "ipa": "/unenviably/",
+    "pos": "adv",
+    "tr": "незавидно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke unenviably about the issue.",
+        "ru": "Она незавидно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded unenviably.",
+        "ru": "Команда отреагировала незавидно."
+      },
+      {
+        "en": "Progress moved unenviably after the fix.",
+        "ru": "Прогресс двигался незавидно после исправления."
+      }
+    ],
+    "colloc": "speak unenviably · unenviably",
+    "ex": "She spoke unenviably about the issue.",
+    "exRu": "Она незавидно говорила об этом вопросе."
+  },
+  {
+    "word": "uneventful",
+    "lemma": "uneventful",
+    "ipa": "/ˌəniˈvɛntfəl/",
+    "pos": "adj",
+    "tr": "непроизвольный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an uneventful strategy.",
+        "ru": "Это была неудачная стратегия."
+      },
+      {
+        "en": "The tone grew uneventful.",
+        "ru": "Тон стал неровным."
+      },
+      {
+        "en": "They rejected the uneventful proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "highly uneventful · remain uneventful",
+    "ex": "It was an uneventful strategy.",
+    "exRu": "Это была неудачная стратегия."
+  },
+  {
+    "word": "uniformity",
+    "lemma": "uniformity",
+    "ipa": "/ˌjunəˈfɔrməti/",
+    "pos": "noun",
+    "tr": "единообразие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the uniformity.",
+        "ru": "Они недооценили единообразие."
+      },
+      {
+        "en": "A clear uniformity emerged from the data.",
+        "ru": "Из данных вытекала четкая однородность."
+      },
+      {
+        "en": "Address the uniformity before it grows.",
+        "ru": "Устраните единообразие до того, как оно вырастет."
+      }
+    ],
+    "colloc": "clear uniformity · uniformity of",
+    "ex": "They underestimated the uniformity.",
+    "exRu": "Они недооценили единообразие."
+  },
+  {
+    "word": "uninspiring",
+    "lemma": "uninspiring",
+    "ipa": "/ənɪnˈspaɪrɪŋ/",
+    "pos": "adj",
+    "tr": "не вдохновляющий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less uninspiring option.",
+        "ru": "Выберите менее вдохновляющий вариант."
+      },
+      {
+        "en": "The design feels uninspiring.",
+        "ru": "Дизайн кажется не вдохновляющим."
+      },
+      {
+        "en": "A uninspiring policy risks backlash.",
+        "ru": "Не вдохновляющая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly uninspiring · remain uninspiring",
+    "ex": "Choose a less uninspiring option.",
+    "exRu": "Выберите менее вдохновляющий вариант."
+  },
+  {
+    "word": "unison",
+    "lemma": "unison",
+    "ipa": "/ˈjunɪsən/",
+    "pos": "noun",
+    "tr": "унисон",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple unison.",
+        "ru": "Не было простого объединения."
+      },
+      {
+        "en": "Critics mocked the unison.",
+        "ru": "Критики высмеяли унисон."
+      },
+      {
+        "en": "We need a working definition of unison.",
+        "ru": "Нам нужно рабочее определение унисон."
+      }
+    ],
+    "colloc": "clear unison · address the unison",
+    "ex": "There was no simple unison.",
+    "exRu": "Не было простого объединения."
+  },
+  {
+    "word": "unmanageable",
+    "lemma": "unmanageable",
+    "ipa": "/ənˈmænɪʤəbəl/",
+    "pos": "adj",
+    "tr": "неуправляемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unmanageable.",
+        "ru": "Доказательства вряд ли неуправляемы."
+      },
+      {
+        "en": "She remained unmanageable under stress.",
+        "ru": "Она оставалась неуправляемой в условиях стресса."
+      },
+      {
+        "en": "Results looked only unmanageable.",
+        "ru": "Результаты выглядели просто неуправляемыми."
+      }
+    ],
+    "colloc": "unmanageable tone · unmanageable result",
+    "ex": "The evidence is hardly unmanageable.",
+    "exRu": "Доказательства вряд ли неуправляемы."
+  },
+  {
+    "word": "unmanned",
+    "lemma": "unmanned",
+    "ipa": "/ənˈmænd/",
+    "pos": "adj",
+    "tr": "беспилотный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an unmanned strategy.",
+        "ru": "Это была беспилотная стратегия."
+      },
+      {
+        "en": "The tone grew unmanned.",
+        "ru": "Тон вырос беспилотным."
+      },
+      {
+        "en": "They rejected the unmanned proposal.",
+        "ru": "Они отвергли предложение о беспилотных летательных аппаратах."
+      }
+    ],
+    "colloc": "unmanned tone · unmanned result",
+    "ex": "It was an unmanned strategy.",
+    "exRu": "Это была беспилотная стратегия."
+  },
+  {
+    "word": "unmusical",
+    "lemma": "unmusical",
+    "ipa": "/unmusical/",
+    "pos": "adj",
+    "tr": "немузыкальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an unmusical strategy.",
+        "ru": "Это была немузыкальная стратегия."
+      },
+      {
+        "en": "The tone grew unmusical.",
+        "ru": "Тон стал немузыкальным."
+      },
+      {
+        "en": "They rejected the unmusical proposal.",
+        "ru": "Они отвергли немузыкальное предложение."
+      }
+    ],
+    "colloc": "highly unmusical · unmusical result",
+    "ex": "It was an unmusical strategy.",
+    "exRu": "Это была немузыкальная стратегия."
+  },
+  {
+    "word": "unmusically",
+    "lemma": "unmusically",
+    "ipa": "/unmusically/",
+    "pos": "adv",
+    "tr": "немузыкальный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued unmusically overnight.",
+        "ru": "Работа продолжалась немузыкально всю ночь."
+      },
+      {
+        "en": "She answered unmusically and clearly.",
+        "ru": "Она ответила немузыкально и ясно."
+      },
+      {
+        "en": "The claim was unmusically dismissed.",
+        "ru": "Иск был немузыкально отклонен."
+      }
+    ],
+    "colloc": "act unmusically · unmusically",
+    "ex": "Work continued unmusically overnight.",
+    "exRu": "Работа продолжалась немузыкально всю ночь."
+  },
+  {
+    "word": "unoccupied",
+    "lemma": "unoccupied",
+    "ipa": "/əˈnɑkjəˌpaɪd/",
+    "pos": "adj",
+    "tr": "незанятый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An unoccupied approach may help.",
+        "ru": "Незанятый подход может помочь."
+      },
+      {
+        "en": "His answer sounded unoccupied.",
+        "ru": "Его ответ звучал незанято."
+      },
+      {
+        "en": "Avoid unoccupied claims without proof.",
+        "ru": "Избегайте незанятых претензий без доказательств."
+      }
+    ],
+    "colloc": "unoccupied approach · unoccupied result",
+    "ex": "An unoccupied approach may help.",
+    "exRu": "Незанятый подход может помочь."
+  },
+  {
+    "word": "unplug",
+    "lemma": "unplug",
+    "ipa": "/ənˈpləg/",
+    "pos": "verb",
+    "tr": "отключить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers unplug resources each week.",
+        "ru": "Менеджеры отключают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to unplug too quickly.",
+        "ru": "Он слишком быстро отключается."
+      },
+      {
+        "en": "They unplug only after a full review.",
+        "ru": "Они отключаются только после полного обзора."
+      }
+    ],
+    "colloc": "unplug carefully · unplug + N",
+    "pattern": "unplug (+ prep)",
+    "ex": "Managers unplug resources each week.",
+    "exRu": "Менеджеры отключают ресурсы каждую неделю."
+  }
+]

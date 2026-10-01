@@ -1,0 +1,1156 @@
+[
+  {
+    "word": "parasite",
+    "lemma": "parasite",
+    "ipa": "/ˈpɛrəˌsaɪt/",
+    "pos": "noun",
+    "tr": "паразит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the parasite closely.",
+        "ru": "Исследователи внимательно изучили паразита."
+      },
+      {
+        "en": "The parasite shaped the final decision.",
+        "ru": "Паразит сформировал окончательное решение."
+      },
+      {
+        "en": "Without the parasite, the argument collapses.",
+        "ru": "Без паразита аргумент рушится."
+      }
+    ],
+    "colloc": "clear parasite · address the parasite"
+  },
+  {
+    "word": "parasitic",
+    "lemma": "parasitic",
+    "ipa": "/ˌpɛrəˈsɪtɪk/",
+    "pos": "adj",
+    "tr": "паразитирующий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly parasitic.",
+        "ru": "Доказательства вряд ли паразитируют."
+      },
+      {
+        "en": "She remained parasitic under stress.",
+        "ru": "Она оставалась паразитом в состоянии стресса."
+      },
+      {
+        "en": "Results looked only parasitic.",
+        "ru": "Результаты выглядели только паразитарно."
+      }
+    ],
+    "colloc": "parasitic approach · parasitic result"
+  },
+  {
+    "word": "parochial",
+    "lemma": "parochial",
+    "ipa": "/pərˈoʊkiəl/",
+    "pos": "adj",
+    "tr": "приходский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly parochial.",
+        "ru": "Доказательства вряд ли случайны."
+      },
+      {
+        "en": "She remained parochial under stress.",
+        "ru": "Она оставалась приходской в стрессе."
+      },
+      {
+        "en": "Results looked only parochial.",
+        "ru": "Результаты выглядели только придирчиво."
+      }
+    ],
+    "colloc": "parochial approach · parochial result"
+  },
+  {
+    "word": "partially",
+    "lemma": "partially",
+    "ipa": "/ˈpɑrʃəli/",
+    "pos": "adv",
+    "tr": "частично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued partially for reform.",
+        "ru": "Он частично выступал за реформы."
+      },
+      {
+        "en": "The rule was applied partially.",
+        "ru": "Правило применялось частично."
+      },
+      {
+        "en": "Costs rose partially last year.",
+        "ru": "Затраты выросли частично в прошлом году."
+      }
+    ],
+    "colloc": "respond partially · partially"
+  },
+  {
+    "word": "patchily",
+    "lemma": "patchily",
+    "ipa": "/patchily/",
+    "pos": "adv",
+    "tr": "лоскутно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued patchily overnight.",
+        "ru": "Работа продолжалась неспешно всю ночь."
+      },
+      {
+        "en": "She answered patchily and clearly.",
+        "ru": "Она ответила мягко и ясно."
+      },
+      {
+        "en": "The claim was patchily dismissed.",
+        "ru": "Претензия была отклонена."
+      }
+    ],
+    "colloc": "speak patchily · patchily"
+  },
+  {
+    "word": "paternal",
+    "lemma": "paternal",
+    "ipa": "/pəˈtərnəl/",
+    "pos": "adj",
+    "tr": "отцовский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly paternal.",
+        "ru": "Доказательства вряд ли отцовские."
+      },
+      {
+        "en": "She remained paternal under stress.",
+        "ru": "Она осталась отцовской в стрессе."
+      },
+      {
+        "en": "Results looked only paternal.",
+        "ru": "Результаты выглядели только отцовскими."
+      }
+    ],
+    "colloc": "highly paternal · paternal result"
+  },
+  {
+    "word": "paternalistic",
+    "lemma": "paternalistic",
+    "ipa": "/pəˌtərnəˈlɪstɪk/",
+    "pos": "adj",
+    "tr": "патерналистский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a paternalistic strategy.",
+        "ru": "Это была патерналистская стратегия."
+      },
+      {
+        "en": "The tone grew paternalistic.",
+        "ru": "Тон стал патерналистским."
+      },
+      {
+        "en": "They rejected the paternalistic proposal.",
+        "ru": "Они отвергли патерналистское предложение."
+      }
+    ],
+    "colloc": "paternalistic tone · remain paternalistic"
+  },
+  {
+    "word": "pathos",
+    "lemma": "pathos",
+    "ipa": "/ˈpeɪθɑs/",
+    "pos": "noun",
+    "tr": "пафос",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one pathos.",
+        "ru": "Ее карьера перевернулась на один пафос."
+      },
+      {
+        "en": "Public debate ignored the pathos.",
+        "ru": "Публичные дебаты проигнорировали пафос."
+      },
+      {
+        "en": "Document every pathos in the log.",
+        "ru": "Документируйте каждый пафос в журнале."
+      }
+    ],
+    "colloc": "clear pathos · pathos of"
+  },
+  {
+    "word": "paywall",
+    "lemma": "paywall",
+    "ipa": "/paywall/",
+    "pos": "noun",
+    "tr": "платная вакансия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the paywall closely.",
+        "ru": "Исследователи внимательно изучили платный доступ."
+      },
+      {
+        "en": "The paywall shaped the final decision.",
+        "ru": "Платежная система сформировала окончательное решение."
+      },
+      {
+        "en": "Without the paywall, the argument collapses.",
+        "ru": "Без платной стены аргумент рухнет."
+      }
+    ],
+    "colloc": "clear paywall · address the paywall"
+  },
+  {
+    "word": "peacock",
+    "lemma": "peacock",
+    "ipa": "/ˈpiˌkɑk/",
+    "pos": "noun",
+    "tr": "павлин",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the peacock.",
+        "ru": "Они недооценили павлина."
+      },
+      {
+        "en": "A clear peacock emerged from the data.",
+        "ru": "Из данных вышел явный павлин."
+      },
+      {
+        "en": "Address the peacock before it grows.",
+        "ru": "Обратитесь к павлину, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear peacock · peacock of"
+  },
+  {
+    "word": "pedestal",
+    "lemma": "pedestal",
+    "ipa": "/ˈpɛdəstəl/",
+    "pos": "noun",
+    "tr": "пьедестал",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple pedestal.",
+        "ru": "Простого постамента не было."
+      },
+      {
+        "en": "Critics mocked the pedestal.",
+        "ru": "Критики издевались над пьедесталом."
+      },
+      {
+        "en": "We need a working definition of pedestal.",
+        "ru": "Нам нужно рабочее определение пьедестала."
+      }
+    ],
+    "colloc": "clear pedestal · address the pedestal"
+  },
+  {
+    "word": "pedicure",
+    "lemma": "pedicure",
+    "ipa": "/ˈpɛdɪkjər/",
+    "pos": "noun",
+    "tr": "педикюр",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one pedicure.",
+        "ru": "Ее карьера перевернулась на одном педикюре."
+      },
+      {
+        "en": "Public debate ignored the pedicure.",
+        "ru": "Общественные дебаты проигнорировали педикюр."
+      },
+      {
+        "en": "Document every pedicure in the log.",
+        "ru": "Документируйте каждый педикюр в журнале."
+      }
+    ],
+    "colloc": "clear pedicure · address the pedicure"
+  },
+  {
+    "word": "pendulous",
+    "lemma": "pendulous",
+    "ipa": "/ˈpɛnʤələs/",
+    "pos": "adj",
+    "tr": "легкомысленный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less pendulous option.",
+        "ru": "Выберите менее мягкий вариант."
+      },
+      {
+        "en": "The design feels pendulous.",
+        "ru": "Дизайн кажется внушающим доверие."
+      },
+      {
+        "en": "A pendulous policy risks backlash.",
+        "ru": "Безрассудная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "pendulous tone · pendulous result"
+  },
+  {
+    "word": "pendulum",
+    "lemma": "pendulum",
+    "ipa": "/ˈpɛnʤələm/",
+    "pos": "noun",
+    "tr": "маятник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the pendulum closely.",
+        "ru": "Исследователи внимательно изучили маятник."
+      },
+      {
+        "en": "The pendulum shaped the final decision.",
+        "ru": "Маятник сформировал окончательное решение."
+      },
+      {
+        "en": "Without the pendulum, the argument collapses.",
+        "ru": "Без маятника аргумент рухнет."
+      }
+    ],
+    "colloc": "clear pendulum · pendulum of"
+  },
+  {
+    "word": "peninsula",
+    "lemma": "peninsula",
+    "ipa": "/pəˈnɪnsələ/",
+    "pos": "noun",
+    "tr": "полуостров",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the peninsula closely.",
+        "ru": "Исследователи внимательно изучили полуостров."
+      },
+      {
+        "en": "The peninsula shaped the final decision.",
+        "ru": "Полуостров сформировал окончательное решение."
+      },
+      {
+        "en": "Without the peninsula, the argument collapses.",
+        "ru": "Без полуострова аргументы рушатся."
+      }
+    ],
+    "colloc": "clear peninsula · peninsula of"
+  },
+  {
+    "word": "perceptive",
+    "lemma": "perceptive",
+    "ipa": "/pərˈsɛptɪv/",
+    "pos": "adj",
+    "tr": "проницательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less perceptive option.",
+        "ru": "Выберите менее проницательный вариант."
+      },
+      {
+        "en": "The design feels perceptive.",
+        "ru": "Дизайн кажется проницательным."
+      },
+      {
+        "en": "A perceptive policy risks backlash.",
+        "ru": "Проницательная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "perceptive tone · remain perceptive"
+  },
+  {
+    "word": "perceptively",
+    "lemma": "perceptively",
+    "ipa": "/perceptively/",
+    "pos": "adv",
+    "tr": "проницательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued perceptively overnight.",
+        "ru": "Работа продолжалась в течение ночи."
+      },
+      {
+        "en": "She answered perceptively and clearly.",
+        "ru": "Она ответила проницательно и ясно."
+      },
+      {
+        "en": "The claim was perceptively dismissed.",
+        "ru": "Иск был проницательно отклонен."
+      }
+    ],
+    "colloc": "act perceptively · perceptively"
+  },
+  {
+    "word": "perfect",
+    "lemma": "perfect",
+    "ipa": "/ˈpərˌfɪkt/",
+    "pos": "verb",
+    "tr": "совершенствовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers perfect resources each week.",
+        "ru": "Менеджеры совершенствуют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to perfect too quickly.",
+        "ru": "Он стремится к совершенству слишком быстро."
+      },
+      {
+        "en": "They perfect only after a full review.",
+        "ru": "Идеально подходит только после полного обзора."
+      }
+    ],
+    "colloc": "perfect carefully · refuse to perfect",
+    "pattern": "perfect (+ prep)"
+  },
+  {
+    "word": "perpetuate",
+    "lemma": "perpetuate",
+    "ipa": "/pərˈpɛʧəˌweɪt/",
+    "pos": "verb",
+    "tr": "Увековечить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please perpetuate the proposal carefully.",
+        "ru": "Пожалуйста, тщательно увековечивайте это предложение."
+      },
+      {
+        "en": "They refuse to perpetuate without evidence.",
+        "ru": "Они отказываются увековечивать без доказательств."
+      },
+      {
+        "en": "Leaders must perpetuate when stakes are high.",
+        "ru": "Лидеры должны увековечивать, когда ставки высоки."
+      }
+    ],
+    "colloc": "perpetuate pressure · perpetuate + N",
+    "pattern": "perpetuate + N"
+  },
+  {
+    "word": "persecute",
+    "lemma": "persecute",
+    "ipa": "/ˈpərsəˌkjut/",
+    "pos": "verb",
+    "tr": "Чтобы преследовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers persecute resources each week.",
+        "ru": "Менеджеры преследуют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to persecute too quickly.",
+        "ru": "Он слишком быстро преследует."
+      },
+      {
+        "en": "They persecute only after a full review.",
+        "ru": "Они преследуют только после полного пересмотра."
+      }
+    ],
+    "colloc": "persecute the claim · refuse to persecute",
+    "pattern": "persecute + N"
+  },
+  {
+    "word": "persecution",
+    "lemma": "persecution",
+    "ipa": "/ˌpərsəˈkjuʃən/",
+    "pos": "noun",
+    "tr": "Преследование",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one persecution.",
+        "ru": "Ее карьера обернулась одним преследованием."
+      },
+      {
+        "en": "Public debate ignored the persecution.",
+        "ru": "Общественные дебаты проигнорировали преследование."
+      },
+      {
+        "en": "Document every persecution in the log.",
+        "ru": "Документируйте каждое преследование в журнале."
+      }
+    ],
+    "colloc": "clear persecution · address the persecution"
+  },
+  {
+    "word": "personification",
+    "lemma": "personification",
+    "ipa": "/pərˌsɑnəfəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "персонификация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the personification closely.",
+        "ru": "Исследователи внимательно изучили персонификацию."
+      },
+      {
+        "en": "The personification shaped the final decision.",
+        "ru": "Персонификация сформировала окончательное решение."
+      },
+      {
+        "en": "Without the personification, the argument collapses.",
+        "ru": "Без персонификации аргумент рушится."
+      }
+    ],
+    "colloc": "clear personification · address the personification"
+  },
+  {
+    "word": "persuasively",
+    "lemma": "persuasively",
+    "ipa": "/pərsˈweɪsɪvli/",
+    "pos": "adv",
+    "tr": "убедительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued persuasively for reform.",
+        "ru": "Он настойчиво выступал за реформы."
+      },
+      {
+        "en": "The rule was applied persuasively.",
+        "ru": "Правило применялось убедительно."
+      },
+      {
+        "en": "Costs rose persuasively last year.",
+        "ru": "Затраты в прошлом году убедительно выросли."
+      }
+    ],
+    "colloc": "respond persuasively · persuasively"
+  },
+  {
+    "word": "pertinent",
+    "lemma": "pertinent",
+    "ipa": "/ˈpərtɪnɪnt/",
+    "pos": "adj",
+    "tr": "относящийся",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a pertinent strategy.",
+        "ru": "Это была уместная стратегия."
+      },
+      {
+        "en": "The tone grew pertinent.",
+        "ru": "Тон стал уместным."
+      },
+      {
+        "en": "They rejected the pertinent proposal.",
+        "ru": "Они отклонили соответствующее предложение."
+      }
+    ],
+    "colloc": "pertinent tone · pertinent result"
+  },
+  {
+    "word": "pervasive",
+    "lemma": "pervasive",
+    "ipa": "/pərˈveɪsɪv/",
+    "pos": "adj",
+    "tr": "всепроникающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly pervasive.",
+        "ru": "Доказательства едва ли распространены."
+      },
+      {
+        "en": "She remained pervasive under stress.",
+        "ru": "Она оставалась всепроникающей в стрессе."
+      },
+      {
+        "en": "Results looked only pervasive.",
+        "ru": "Результаты выглядели только повсеместными."
+      }
+    ],
+    "colloc": "highly pervasive · remain pervasive"
+  },
+  {
+    "word": "pervasiveness",
+    "lemma": "pervasiveness",
+    "ipa": "/pərˈveɪsɪvnɪs/",
+    "pos": "noun",
+    "tr": "вездесущность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple pervasiveness.",
+        "ru": "Не было простого распространения."
+      },
+      {
+        "en": "Critics mocked the pervasiveness.",
+        "ru": "Критики высмеивали распространенность."
+      },
+      {
+        "en": "We need a working definition of pervasiveness.",
+        "ru": "Нам нужно рабочее определение распространенности."
+      }
+    ],
+    "colloc": "clear pervasiveness · address the pervasiveness"
+  },
+  {
+    "word": "perverse",
+    "lemma": "perverse",
+    "ipa": "/pərˈvərs/",
+    "pos": "adj",
+    "tr": "извращенец",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less perverse option.",
+        "ru": "Выберите менее извращенный вариант."
+      },
+      {
+        "en": "The design feels perverse.",
+        "ru": "Дизайн кажется извращенным."
+      },
+      {
+        "en": "A perverse policy risks backlash.",
+        "ru": "Извращенная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly perverse · perverse result"
+  },
+  {
+    "word": "phenomenal",
+    "lemma": "phenomenal",
+    "ipa": "/fəˈnɑmənəl/",
+    "pos": "adj",
+    "tr": "феноменальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A phenomenal approach may help.",
+        "ru": "Может помочь феноменальный подход."
+      },
+      {
+        "en": "His answer sounded phenomenal.",
+        "ru": "Его ответ звучал феноменально."
+      },
+      {
+        "en": "Avoid phenomenal claims without proof.",
+        "ru": "Избегайте феноменальных утверждений без доказательств."
+      }
+    ],
+    "colloc": "phenomenal tone · phenomenal result"
+  },
+  {
+    "word": "phenomenally",
+    "lemma": "phenomenally",
+    "ipa": "/fəˈnɑmənəli/",
+    "pos": "adv",
+    "tr": "феноменально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample phenomenally.",
+        "ru": "Обработайте образец феноменально."
+      },
+      {
+        "en": "Support arrived phenomenally.",
+        "ru": "Поддержка пришла феноменально."
+      },
+      {
+        "en": "The plan failed phenomenally.",
+        "ru": "План провалился феноменально."
+      }
+    ],
+    "colloc": "act phenomenally · phenomenally"
+  },
+  {
+    "word": "physicality",
+    "lemma": "physicality",
+    "ipa": "/physicality/",
+    "pos": "noun",
+    "tr": "физическая",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the physicality.",
+        "ru": "Они недооценили физическую силу."
+      },
+      {
+        "en": "A clear physicality emerged from the data.",
+        "ru": "Из данных вытекала четкая физикальность."
+      },
+      {
+        "en": "Address the physicality before it grows.",
+        "ru": "Обращайтесь к физике, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear physicality · physicality of"
+  },
+  {
+    "word": "physique",
+    "lemma": "physique",
+    "ipa": "/fəˈzik/",
+    "pos": "noun",
+    "tr": "телосложение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the physique.",
+        "ru": "Они недооценили телосложение."
+      },
+      {
+        "en": "A clear physique emerged from the data.",
+        "ru": "Из данных вытекало четкое телосложение."
+      },
+      {
+        "en": "Address the physique before it grows.",
+        "ru": "Обращайтесь к телу, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "the physique · physique of"
+  },
+  {
+    "word": "pigeon",
+    "lemma": "pigeon",
+    "ipa": "/ˈpɪʤɪn/",
+    "pos": "noun",
+    "tr": "голубь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking pigeon.",
+        "ru": "В докладе приводится поразительный голубь."
+      },
+      {
+        "en": "Funding hinges on this pigeon.",
+        "ru": "Финансирование зависит от этого голубя."
+      },
+      {
+        "en": "Students often confuse pigeon with related terms.",
+        "ru": "Студенты часто путают голубя с родственными терминами."
+      }
+    ],
+    "colloc": "clear pigeon · pigeon of"
+  },
+  {
+    "word": "pinnacle",
+    "lemma": "pinnacle",
+    "ipa": "/ˈpɪnəkəl/",
+    "pos": "noun",
+    "tr": "вершина",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the pinnacle closely.",
+        "ru": "Исследователи внимательно изучили вершину."
+      },
+      {
+        "en": "The pinnacle shaped the final decision.",
+        "ru": "Вершина сформировала окончательное решение."
+      },
+      {
+        "en": "Without the pinnacle, the argument collapses.",
+        "ru": "Без вершины аргумент рухнет."
+      }
+    ],
+    "colloc": "the pinnacle · address the pinnacle"
+  },
+  {
+    "word": "placid",
+    "lemma": "placid",
+    "ipa": "/ˈplæsɪd/",
+    "pos": "adj",
+    "tr": "спокойный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less placid option.",
+        "ru": "Выберите менее спокойный вариант."
+      },
+      {
+        "en": "The design feels placid.",
+        "ru": "Дизайн кажется спокойным."
+      },
+      {
+        "en": "A placid policy risks backlash.",
+        "ru": "Безмятежная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "placid tone · placid result"
+  },
+  {
+    "word": "placidly",
+    "lemma": "placidly",
+    "ipa": "/ˈplæsɪdli/",
+    "pos": "adv",
+    "tr": "спокойно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke placidly about the issue.",
+        "ru": "Она спокойно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded placidly.",
+        "ru": "Команда отреагировала спокойно."
+      },
+      {
+        "en": "Progress moved placidly after the fix.",
+        "ru": "Прогресс двигался спокойно после исправления."
+      }
+    ],
+    "colloc": "act placidly · placidly"
+  },
+  {
+    "word": "plaque",
+    "lemma": "plaque",
+    "ipa": "/plæk/",
+    "pos": "noun",
+    "tr": "бюллетень",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one plaque.",
+        "ru": "Ее карьера перевернулась на одной табличке."
+      },
+      {
+        "en": "Public debate ignored the plaque.",
+        "ru": "Публичные дебаты проигнорировали табличку."
+      },
+      {
+        "en": "Document every plaque in the log.",
+        "ru": "Документируйте каждую табличку в журнале."
+      }
+    ],
+    "colloc": "clear plaque · plaque of"
+  },
+  {
+    "word": "plaster",
+    "lemma": "plaster",
+    "ipa": "/ˈplæstər/",
+    "pos": "noun",
+    "tr": "штукатурка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking plaster.",
+        "ru": "В докладе приводится поразительная штукатурка."
+      },
+      {
+        "en": "Funding hinges on this plaster.",
+        "ru": "Финансирование зависит от этой штукатурки."
+      },
+      {
+        "en": "Students often confuse plaster with related terms.",
+        "ru": "Студенты часто путают гипс со связанными терминами."
+      }
+    ],
+    "colloc": "clear plaster · plaster of"
+  },
+  {
+    "word": "plausibility",
+    "lemma": "plausibility",
+    "ipa": "/ˌplɔzɪˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "правдоподобность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking plausibility.",
+        "ru": "В докладе приводится поразительная правдоподобность."
+      },
+      {
+        "en": "Funding hinges on this plausibility.",
+        "ru": "Финансирование зависит от этой правдоподобности."
+      },
+      {
+        "en": "Students often confuse plausibility with related terms.",
+        "ru": "Студенты часто путают правдоподобие с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear plausibility · address the plausibility"
+  },
+  {
+    "word": "plausible",
+    "lemma": "plausible",
+    "ipa": "/ˈplɔzəbəl/",
+    "pos": "adj",
+    "tr": "правдоподобный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly plausible.",
+        "ru": "Доказательства вряд ли правдоподобны."
+      },
+      {
+        "en": "She remained plausible under stress.",
+        "ru": "Она оставалась правдоподобной при стрессе."
+      },
+      {
+        "en": "Results looked only plausible.",
+        "ru": "Результаты выглядели только правдоподобными."
+      }
+    ],
+    "colloc": "highly plausible · plausible result"
+  },
+  {
+    "word": "plausibly",
+    "lemma": "plausibly",
+    "ipa": "/ˈplɔzəbli/",
+    "pos": "adv",
+    "tr": "вероятно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke plausibly about the issue.",
+        "ru": "Она убедительно высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded plausibly.",
+        "ru": "Команда ответила правдоподобно."
+      },
+      {
+        "en": "Progress moved plausibly after the fix.",
+        "ru": "Прогресс двигался правдоподобно после исправления."
+      }
+    ],
+    "colloc": "speak plausibly · plausibly"
+  },
+  {
+    "word": "pleasurable",
+    "lemma": "pleasurable",
+    "ipa": "/ˈplɛʒərəbəl/",
+    "pos": "adj",
+    "tr": "приятный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a pleasurable strategy.",
+        "ru": "Это была приятная стратегия."
+      },
+      {
+        "en": "The tone grew pleasurable.",
+        "ru": "Тон стал приятным."
+      },
+      {
+        "en": "They rejected the pleasurable proposal.",
+        "ru": "Они отвергли приятное предложение."
+      }
+    ],
+    "colloc": "highly pleasurable · remain pleasurable"
+  },
+  {
+    "word": "ploy",
+    "lemma": "ploy",
+    "ipa": "/plɔɪ/",
+    "pos": "noun",
+    "tr": "уловка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the ploy.",
+        "ru": "Они недооценили уловку."
+      },
+      {
+        "en": "A clear ploy emerged from the data.",
+        "ru": "Явная уловка появилась из данных."
+      },
+      {
+        "en": "Address the ploy before it grows.",
+        "ru": "Обращайтесь к уловке, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the ploy · ploy of"
+  },
+  {
+    "word": "plumbing",
+    "lemma": "plumbing",
+    "ipa": "/ˈpləmɪŋ/",
+    "pos": "noun",
+    "tr": "сантехника",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the plumbing.",
+        "ru": "Они недооценили водопровод."
+      },
+      {
+        "en": "A clear plumbing emerged from the data.",
+        "ru": "Из данных вышла четкая сантехника."
+      },
+      {
+        "en": "Address the plumbing before it grows.",
+        "ru": "Обратитесь к водопроводу, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear plumbing · address the plumbing"
+  },
+  {
+    "word": "plummet",
+    "lemma": "plummet",
+    "ipa": "/ˈpləmət/",
+    "pos": "verb",
+    "tr": "падать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to plummet with precision.",
+        "ru": "Она научилась падать с точностью."
+      },
+      {
+        "en": "We will plummet the policy next quarter.",
+        "ru": "В следующем квартале мы будем снижать политику."
+      },
+      {
+        "en": "Critics plummet the choice harshly.",
+        "ru": "Критики резко сократили выбор."
+      }
+    ],
+    "colloc": "plummet carefully · plummet + N",
+    "pattern": "plummet + that"
+  },
+  {
+    "word": "poetess",
+    "lemma": "poetess",
+    "ipa": "/poetess/",
+    "pos": "noun",
+    "tr": "поэтесса",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking poetess.",
+        "ru": "В докладе приводится поразительная поэтесса."
+      },
+      {
+        "en": "Funding hinges on this poetess.",
+        "ru": "Финансирование зависит от этой поэтессы."
+      },
+      {
+        "en": "Students often confuse poetess with related terms.",
+        "ru": "Студенты часто путают поэтессу с родственными терминами."
+      }
+    ],
+    "colloc": "clear poetess · address the poetess"
+  },
+  {
+    "word": "poise",
+    "lemma": "poise",
+    "ipa": "/pɔɪz/",
+    "pos": "noun",
+    "tr": "уравновешенный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the poise closely.",
+        "ru": "Исследователи внимательно изучили положение."
+      },
+      {
+        "en": "The poise shaped the final decision.",
+        "ru": "Уравновешенность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the poise, the argument collapses.",
+        "ru": "Без уравновешенности аргумент рушится."
+      }
+    ],
+    "colloc": "the poise · poise of"
+  },
+  {
+    "word": "popularization",
+    "lemma": "popularization",
+    "ipa": "/ˌpɑpjələrəˈzeɪʃən/",
+    "pos": "noun",
+    "tr": "популяризация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the popularization.",
+        "ru": "Они недооценили популярность."
+      },
+      {
+        "en": "A clear popularization emerged from the data.",
+        "ru": "Из данных возникла явная популяризация."
+      },
+      {
+        "en": "Address the popularization before it grows.",
+        "ru": "Решите проблему популяризации до ее роста."
+      }
+    ],
+    "colloc": "clear popularization · popularization of"
+  },
+  {
+    "word": "portable",
+    "lemma": "portable",
+    "ipa": "/ˈpɔrtəbəl/",
+    "pos": "adj",
+    "tr": "портативный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A portable approach may help.",
+        "ru": "Портативный подход может помочь."
+      },
+      {
+        "en": "His answer sounded portable.",
+        "ru": "Его ответ звучал портативно."
+      },
+      {
+        "en": "Avoid portable claims without proof.",
+        "ru": "Избегайте портативных претензий без доказательств."
+      }
+    ],
+    "colloc": "portable tone · portable result"
+  },
+  {
+    "word": "portrayal",
+    "lemma": "portrayal",
+    "ipa": "/pɔrˈtreɪəl/",
+    "pos": "noun",
+    "tr": "изображение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple portrayal.",
+        "ru": "Не было простого изображения."
+      },
+      {
+        "en": "Critics mocked the portrayal.",
+        "ru": "Критики высмеяли изображение."
+      },
+      {
+        "en": "We need a working definition of portrayal.",
+        "ru": "Нам нужно рабочее определение изображения."
+      }
+    ],
+    "colloc": "clear portrayal · portrayal of"
+  },
+  {
+    "word": "possessor",
+    "lemma": "possessor",
+    "ipa": "/pəˈzɛsər/",
+    "pos": "noun",
+    "tr": "обладатель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one possessor.",
+        "ru": "Ее карьера перевернулась на одного владельца."
+      },
+      {
+        "en": "Public debate ignored the possessor.",
+        "ru": "Публичные дебаты игнорировали владельца."
+      },
+      {
+        "en": "Document every possessor in the log.",
+        "ru": "Документируйте каждого владельца в журнале."
+      }
+    ],
+    "colloc": "clear possessor · possessor of"
+  }
+]

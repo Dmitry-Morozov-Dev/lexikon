@@ -1,0 +1,1163 @@
+[
+  {
+    "word": "spartan",
+    "lemma": "spartan",
+    "ipa": "/ˈspɑrtən/",
+    "pos": "adj",
+    "tr": "спартанский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly spartan.",
+        "ru": "Доказательства вряд ли спартанские."
+      },
+      {
+        "en": "She remained spartan under stress.",
+        "ru": "Она оставалась спартанской в стрессе."
+      },
+      {
+        "en": "Results looked only spartan.",
+        "ru": "Результаты выглядели только спартанскими."
+      }
+    ],
+    "colloc": "highly spartan · remain spartan"
+  },
+  {
+    "word": "specialized",
+    "lemma": "specialized",
+    "ipa": "/ˈspɛʃəˌlaɪzd/",
+    "pos": "adj",
+    "tr": "специализированный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less specialized option.",
+        "ru": "Выберите менее специализированный вариант."
+      },
+      {
+        "en": "The design feels specialized.",
+        "ru": "Дизайн кажется специализированным."
+      },
+      {
+        "en": "A specialized policy risks backlash.",
+        "ru": "Специализированная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "specialized approach · remain specialized"
+  },
+  {
+    "word": "specification",
+    "lemma": "specification",
+    "ipa": "/ˌspɛsɪfɪˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "спецификация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one specification.",
+        "ru": "Ее карьера пошла по одной спецификации."
+      },
+      {
+        "en": "Public debate ignored the specification.",
+        "ru": "Публичные дебаты проигнорировали спецификацию."
+      },
+      {
+        "en": "Document every specification in the log.",
+        "ru": "Документируйте каждую спецификацию в журнале."
+      }
+    ],
+    "colloc": "clear specification · address the specification"
+  },
+  {
+    "word": "specimen",
+    "lemma": "specimen",
+    "ipa": "/ˈspɛsəmən/",
+    "pos": "noun",
+    "tr": "образец",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one specimen.",
+        "ru": "Ее карьера перевернулась на одном экземпляре."
+      },
+      {
+        "en": "Public debate ignored the specimen.",
+        "ru": "Публичные дебаты проигнорировали образец."
+      },
+      {
+        "en": "Document every specimen in the log.",
+        "ru": "Документируйте каждый образец в журнале."
+      }
+    ],
+    "colloc": "clear specimen · address the specimen"
+  },
+  {
+    "word": "spectacle",
+    "lemma": "spectacle",
+    "ipa": "/ˈspɛktəkəl/",
+    "pos": "noun",
+    "tr": "Спектакль",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the spectacle closely.",
+        "ru": "Исследователи внимательно изучили зрелище."
+      },
+      {
+        "en": "The spectacle shaped the final decision.",
+        "ru": "Зрелище сформировало окончательное решение."
+      },
+      {
+        "en": "Without the spectacle, the argument collapses.",
+        "ru": "Без спектакля аргумент рухнет."
+      }
+    ],
+    "colloc": "the spectacle · address the spectacle"
+  },
+  {
+    "word": "spectrum",
+    "lemma": "spectrum",
+    "ipa": "/ˈspɛktrəm/",
+    "pos": "noun",
+    "tr": "спектр",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking spectrum.",
+        "ru": "В докладе приводится поразительный спектр."
+      },
+      {
+        "en": "Funding hinges on this spectrum.",
+        "ru": "Финансирование зависит от этого спектра."
+      },
+      {
+        "en": "Students often confuse spectrum with related terms.",
+        "ru": "Студенты часто путают спектр с соответствующими терминами."
+      }
+    ],
+    "colloc": "the spectrum · address the spectrum"
+  },
+  {
+    "word": "speculative",
+    "lemma": "speculative",
+    "ipa": "/ˈspɛkjələtɪv/",
+    "pos": "adj",
+    "tr": "спекулятивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A speculative approach may help.",
+        "ru": "Спекулятивный подход может помочь."
+      },
+      {
+        "en": "His answer sounded speculative.",
+        "ru": "Его ответ прозвучал умозрительно."
+      },
+      {
+        "en": "Avoid speculative claims without proof.",
+        "ru": "Избегайте спекулятивных заявлений без доказательств."
+      }
+    ],
+    "colloc": "speculative tone · remain speculative"
+  },
+  {
+    "word": "sphere",
+    "lemma": "sphere",
+    "ipa": "/sfɪr/",
+    "pos": "noun",
+    "tr": "сфера",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the sphere.",
+        "ru": "Они недооценили сферу."
+      },
+      {
+        "en": "A clear sphere emerged from the data.",
+        "ru": "Из данных возникла четкая сфера."
+      },
+      {
+        "en": "Address the sphere before it grows.",
+        "ru": "Обращайтесь к сфере, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear sphere · sphere of"
+  },
+  {
+    "word": "spin",
+    "lemma": "spin",
+    "ipa": "/spɪn/",
+    "pos": "verb",
+    "tr": "вращаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to spin with precision.",
+        "ru": "Она научилась плавать с точностью."
+      },
+      {
+        "en": "We will spin the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics spin the choice harshly.",
+        "ru": "Критики жестко раскручивают выбор."
+      }
+    ],
+    "colloc": "spin the claim · spin + N",
+    "pattern": "spin + that"
+  },
+  {
+    "word": "spine",
+    "lemma": "spine",
+    "ipa": "/spaɪn/",
+    "pos": "noun",
+    "tr": "позвоночник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple spine.",
+        "ru": "Простого позвоночника не было."
+      },
+      {
+        "en": "Critics mocked the spine.",
+        "ru": "Критики издевались над позвоночником."
+      },
+      {
+        "en": "We need a working definition of spine.",
+        "ru": "Нам нужно рабочее определение позвоночника."
+      }
+    ],
+    "colloc": "clear spine · address the spine"
+  },
+  {
+    "word": "splatter",
+    "lemma": "splatter",
+    "ipa": "/ˈsplætər/",
+    "pos": "verb",
+    "tr": "брызгать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers splatter resources each week.",
+        "ru": "Менеджеры разбрасывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to splatter too quickly.",
+        "ru": "Он слишком быстро брызгает."
+      },
+      {
+        "en": "They splatter only after a full review.",
+        "ru": "Они разлетаются только после полного обзора."
+      }
+    ],
+    "colloc": "splatter carefully · refuse to splatter",
+    "pattern": "splatter + to-INF"
+  },
+  {
+    "word": "spontaneous",
+    "lemma": "spontaneous",
+    "ipa": "/spɑnˈteɪniəs/",
+    "pos": "adj",
+    "tr": "спонтанный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less spontaneous option.",
+        "ru": "Выберите менее спонтанный вариант."
+      },
+      {
+        "en": "The design feels spontaneous.",
+        "ru": "Дизайн выглядит спонтанно."
+      },
+      {
+        "en": "A spontaneous policy risks backlash.",
+        "ru": "Спонтанная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "spontaneous approach · spontaneous result"
+  },
+  {
+    "word": "spontaneously",
+    "lemma": "spontaneously",
+    "ipa": "/spɑnˈteɪniəsli/",
+    "pos": "adv",
+    "tr": "спонтанно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued spontaneously overnight.",
+        "ru": "Работа продолжалась спонтанно в одночасье."
+      },
+      {
+        "en": "She answered spontaneously and clearly.",
+        "ru": "Она ответила спонтанно и ясно."
+      },
+      {
+        "en": "The claim was spontaneously dismissed.",
+        "ru": "Иск был спонтанно отклонен."
+      }
+    ],
+    "colloc": "act spontaneously · spontaneously"
+  },
+  {
+    "word": "spotlight",
+    "lemma": "spotlight",
+    "ipa": "/ˈspɑˌtlaɪt/",
+    "pos": "noun",
+    "tr": "прожектор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one spotlight.",
+        "ru": "Ее карьера оказалась в центре внимания."
+      },
+      {
+        "en": "Public debate ignored the spotlight.",
+        "ru": "Публичные дебаты проигнорировали внимание общественности."
+      },
+      {
+        "en": "Document every spotlight in the log.",
+        "ru": "Документируйте каждый прожектор в журнале."
+      }
+    ],
+    "colloc": "the spotlight · address the spotlight"
+  },
+  {
+    "word": "spouse",
+    "lemma": "spouse",
+    "ipa": "/spaʊs/",
+    "pos": "noun",
+    "tr": "супруга",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the spouse closely.",
+        "ru": "Исследователи внимательно изучили супруга."
+      },
+      {
+        "en": "The spouse shaped the final decision.",
+        "ru": "Супруг принял окончательное решение."
+      },
+      {
+        "en": "Without the spouse, the argument collapses.",
+        "ru": "Без супруга спор рушится."
+      }
+    ],
+    "colloc": "clear spouse · spouse of"
+  },
+  {
+    "word": "sprawl",
+    "lemma": "sprawl",
+    "ipa": "/sprɔl/",
+    "pos": "noun",
+    "tr": "разрастание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the sprawl closely.",
+        "ru": "Исследователи внимательно изучили разрастание."
+      },
+      {
+        "en": "The sprawl shaped the final decision.",
+        "ru": "Разрастание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the sprawl, the argument collapses.",
+        "ru": "Без разрастания спор рушится."
+      }
+    ],
+    "colloc": "clear sprawl · address the sprawl"
+  },
+  {
+    "word": "sprout",
+    "lemma": "sprout",
+    "ipa": "/spraʊt/",
+    "pos": "verb",
+    "tr": "прорасти",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers sprout resources each week.",
+        "ru": "Вылигивающие менеджеры вырабатывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to sprout too quickly.",
+        "ru": "Он имеет тенденцию прорастать слишком быстро."
+      },
+      {
+        "en": "They sprout only after a full review.",
+        "ru": "Они прорастают только после полного обзора."
+      }
+    ],
+    "colloc": "sprout the claim · sprout + N",
+    "pattern": "sprout + to-INF"
+  },
+  {
+    "word": "squad",
+    "lemma": "squad",
+    "ipa": "/skwɑd/",
+    "pos": "noun",
+    "tr": "отряд",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking squad.",
+        "ru": "В докладе приводится ударный отряд."
+      },
+      {
+        "en": "Funding hinges on this squad.",
+        "ru": "Оцените, какова вероятность."
+      },
+      {
+        "en": "Students often confuse squad with related terms.",
+        "ru": "Студенты часто путают команду с родственными терминами."
+      }
+    ],
+    "colloc": "the squad · squad of"
+  },
+  {
+    "word": "squander",
+    "lemma": "squander",
+    "ipa": "/skˈwɑndər/",
+    "pos": "verb",
+    "tr": "растратить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you squander this for the board?",
+        "ru": "Ты можешь растратить это на доску?"
+      },
+      {
+        "en": "Analysts squander the numbers overnight.",
+        "ru": "Аналитики растрачивают цифры за одну ночь."
+      },
+      {
+        "en": "Do not squander under political pressure.",
+        "ru": "Не ленитесь под политическим давлением."
+      }
+    ],
+    "colloc": "squander carefully · refuse to squander",
+    "pattern": "squander + N"
+  },
+  {
+    "word": "stability",
+    "lemma": "stability",
+    "ipa": "/stəˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "стабильность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking stability.",
+        "ru": "В докладе отмечается поразительная стабильность."
+      },
+      {
+        "en": "Funding hinges on this stability.",
+        "ru": "Ф 20 учебное за, по этой стабильности."
+      },
+      {
+        "en": "Students often confuse stability with related terms.",
+        "ru": "Учащиеся часто путают стабильность с стабильностью."
+      }
+    ],
+    "colloc": "the stability · address the stability"
+  },
+  {
+    "word": "stabilize",
+    "lemma": "stabilize",
+    "ipa": "/ˈsteɪbəˌlaɪz/",
+    "pos": "verb",
+    "tr": "стабилизировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please stabilize the proposal carefully.",
+        "ru": "Пожалуйста, тщательно стабилизируйте предложение."
+      },
+      {
+        "en": "They refuse to stabilize without evidence.",
+        "ru": "Они отказываются стабилизироваться без доказательств."
+      },
+      {
+        "en": "Leaders must stabilize when stakes are high.",
+        "ru": "По его словам, у них есть соответствующие посты."
+      }
+    ],
+    "colloc": "stabilize the claim · stabilize + N",
+    "pattern": "stabilize + N"
+  },
+  {
+    "word": "staccato",
+    "lemma": "staccato",
+    "ipa": "/stəˈkɑˌtoʊ/",
+    "pos": "adj",
+    "tr": "Несколько один человек, несколько сестрой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less staccato option.",
+        "ru": "Выберите вариант с меньшим количеством стаккато."
+      },
+      {
+        "en": "The design feels staccato.",
+        "ru": "Дизайн ощущается как стаккато."
+      },
+      {
+        "en": "A staccato policy risks backlash.",
+        "ru": "Политика стаккато может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "highly staccato · staccato result"
+  },
+  {
+    "word": "stagger",
+    "lemma": "stagger",
+    "ipa": "/ˈstægər/",
+    "pos": "verb",
+    "tr": "шататься",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers stagger resources each week.",
+        "ru": "Менеджеры тратят ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to stagger too quickly.",
+        "ru": "Он слишком быстро шатается."
+      },
+      {
+        "en": "They stagger only after a full review.",
+        "ru": "Они шатаются только после полного обзора."
+      }
+    ],
+    "colloc": "stagger carefully · stagger + N",
+    "pattern": "stagger + that"
+  },
+  {
+    "word": "staggering",
+    "lemma": "staggering",
+    "ipa": "/ˈstægərˌɪŋ/",
+    "pos": "adj",
+    "tr": "ошеломляющий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less staggering option.",
+        "ru": "Выберите менее ошеломляющий вариант."
+      },
+      {
+        "en": "The design feels staggering.",
+        "ru": "Дизайн кажется ошеломляющим."
+      },
+      {
+        "en": "A staggering policy risks backlash.",
+        "ru": "Ошеломляющая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly staggering · staggering result"
+  },
+  {
+    "word": "stake",
+    "lemma": "stake",
+    "ipa": "/steɪk/",
+    "pos": "noun",
+    "tr": "кол",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple stake.",
+        "ru": "Не было простой ставки."
+      },
+      {
+        "en": "Critics mocked the stake.",
+        "ru": "Критики высмеяли кол."
+      },
+      {
+        "en": "We need a working definition of stake.",
+        "ru": "Нам нужно рабочее определение ставки."
+      }
+    ],
+    "colloc": "the stake · address the stake"
+  },
+  {
+    "word": "stamina",
+    "lemma": "stamina",
+    "ipa": "/ˈstæmənə/",
+    "pos": "noun",
+    "tr": "выносливость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one stamina.",
+        "ru": "Ее карьера обернулась одной выносливостью."
+      },
+      {
+        "en": "Public debate ignored the stamina.",
+        "ru": "Публичные дебаты проигнорировали выносливость."
+      },
+      {
+        "en": "Document every stamina in the log.",
+        "ru": "Документируйте каждую выносливость в журнале."
+      }
+    ],
+    "colloc": "the stamina · address the stamina"
+  },
+  {
+    "word": "standing",
+    "lemma": "standing",
+    "ipa": "/ˈstændɪŋ/",
+    "pos": "adj",
+    "tr": "стоять",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less standing option.",
+        "ru": "Выберите менее стоящий вариант."
+      },
+      {
+        "en": "The design feels standing.",
+        "ru": "Дизайн чувствует себя стоящим."
+      },
+      {
+        "en": "A standing policy risks backlash.",
+        "ru": "Действующая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "standing approach · standing result"
+  },
+  {
+    "word": "staple",
+    "lemma": "staple",
+    "ipa": "/ˈsteɪpəl/",
+    "pos": "noun",
+    "tr": "основной",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the staple closely.",
+        "ru": "Исследователи внимательно изучили основной продукт."
+      },
+      {
+        "en": "The staple shaped the final decision.",
+        "ru": "Основной продукт сформировал окончательное решение."
+      },
+      {
+        "en": "Without the staple, the argument collapses.",
+        "ru": "Без основного элемента аргумент рушится."
+      }
+    ],
+    "colloc": "the staple · staple of"
+  },
+  {
+    "word": "stark",
+    "lemma": "stark",
+    "ipa": "/stɑrk/",
+    "pos": "adj",
+    "tr": "сильный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A stark approach may help.",
+        "ru": "Резкий подход может помочь."
+      },
+      {
+        "en": "His answer sounded stark.",
+        "ru": "Его ответ прозвучал резко."
+      },
+      {
+        "en": "Avoid stark claims without proof.",
+        "ru": "Избегайте резких заявлений без доказательств."
+      }
+    ],
+    "colloc": "stark approach · remain stark"
+  },
+  {
+    "word": "startling",
+    "lemma": "startling",
+    "ipa": "/ˈstɑrtlɪŋ/",
+    "pos": "adj",
+    "tr": "поразительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly startling.",
+        "ru": "Доказательства вряд ли поразительны."
+      },
+      {
+        "en": "She remained startling under stress.",
+        "ru": "Она оставалась поразительной под напряжением."
+      },
+      {
+        "en": "Results looked only startling.",
+        "ru": "Результаты выглядели просто поразительно."
+      }
+    ],
+    "colloc": "startling approach · remain startling"
+  },
+  {
+    "word": "startlingly",
+    "lemma": "startlingly",
+    "ipa": "/ˈstɑrtlɪŋˌli/",
+    "pos": "adv",
+    "tr": "поразительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample startlingly.",
+        "ru": "Поразительно обработать образец."
+      },
+      {
+        "en": "Support arrived startlingly.",
+        "ru": "Поддержка пришла поразительно."
+      },
+      {
+        "en": "The plan failed startlingly.",
+        "ru": "План провалился поразительно."
+      }
+    ],
+    "colloc": "respond startlingly · startlingly"
+  },
+  {
+    "word": "stately",
+    "lemma": "stately",
+    "ipa": "/ˈsteɪtli/",
+    "pos": "adj",
+    "tr": "государственный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a stately strategy.",
+        "ru": "Это была государственная стратегия."
+      },
+      {
+        "en": "The tone grew stately.",
+        "ru": "Тон рос величественно."
+      },
+      {
+        "en": "They rejected the stately proposal.",
+        "ru": "Они отвергли это предложение."
+      }
+    ],
+    "colloc": "stately tone · remain stately"
+  },
+  {
+    "word": "statistical",
+    "lemma": "statistical",
+    "ipa": "/stəˈtɪstɪkəl/",
+    "pos": "adj",
+    "tr": "статистические данные",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less statistical option.",
+        "ru": "Выбирайте менее статистический вариант."
+      },
+      {
+        "en": "The design feels statistical.",
+        "ru": "Дизайн кажется статистическим."
+      },
+      {
+        "en": "A statistical policy risks backlash.",
+        "ru": "Статистическая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "statistical tone · remain statistical"
+  },
+  {
+    "word": "steer",
+    "lemma": "steer",
+    "ipa": "/stɪr/",
+    "pos": "verb",
+    "tr": "управлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers steer resources each week.",
+        "ru": "Менеджеры управляют ресурсами каждую неделю."
+      },
+      {
+        "en": "He tends to steer too quickly.",
+        "ru": "Он слишком быстро бегает."
+      },
+      {
+        "en": "They steer only after a full review.",
+        "ru": "Они управляются только после полного обзора."
+      }
+    ],
+    "colloc": "steer pressure · refuse to steer",
+    "pattern": "steer + that"
+  },
+  {
+    "word": "stem",
+    "lemma": "stem",
+    "ipa": "/stɛm/",
+    "pos": "noun",
+    "tr": "стебель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking stem.",
+        "ru": "В докладе приводится поразительный стебель."
+      },
+      {
+        "en": "Funding hinges on this stem.",
+        "ru": "Финансирование зависит от этого стебля."
+      },
+      {
+        "en": "Students often confuse stem with related terms.",
+        "ru": "Студенты часто путают стебель с родственными терминами."
+      }
+    ],
+    "colloc": "the stem · stem of"
+  },
+  {
+    "word": "stereotype",
+    "lemma": "stereotype",
+    "ipa": "/ˈstɛrioʊˌtaɪp/",
+    "pos": "noun",
+    "tr": "стереотип",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the stereotype.",
+        "ru": "Они недооценили стереотип."
+      },
+      {
+        "en": "A clear stereotype emerged from the data.",
+        "ru": "Из данных возник четкий стереотип."
+      },
+      {
+        "en": "Address the stereotype before it grows.",
+        "ru": "Разберитесь со стереотипом, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the stereotype · stereotype of"
+  },
+  {
+    "word": "stiffen",
+    "lemma": "stiffen",
+    "ipa": "/ˈstɪfən/",
+    "pos": "verb",
+    "tr": "застыть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers stiffen resources each week.",
+        "ru": "Менеджеры напрягают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to stiffen too quickly.",
+        "ru": "Он слишком быстро застывает."
+      },
+      {
+        "en": "They stiffen only after a full review.",
+        "ru": "Они застывают только после полного обзора."
+      }
+    ],
+    "colloc": "stiffen carefully · refuse to stiffen",
+    "pattern": "stiffen + to-INF"
+  },
+  {
+    "word": "stimuli",
+    "lemma": "stimuli",
+    "ipa": "/ˈstɪmjəˌlaɪ/",
+    "pos": "noun",
+    "tr": "стимулы",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking stimuli.",
+        "ru": "В докладе приводятся поразительные стимулы."
+      },
+      {
+        "en": "Funding hinges on this stimuli.",
+        "ru": "Финансирование зависит от этих стимулов."
+      },
+      {
+        "en": "Students often confuse stimuli with related terms.",
+        "ru": "Студенты часто путают стимулы с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear stimuli · address the stimuli"
+  },
+  {
+    "word": "stimulus",
+    "lemma": "stimulus",
+    "ipa": "/ˈstɪmjələs/",
+    "pos": "noun",
+    "tr": "стимул",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the stimulus closely.",
+        "ru": "Исследователи внимательно изучили стимул."
+      },
+      {
+        "en": "The stimulus shaped the final decision.",
+        "ru": "Стимулы сформировали окончательное решение."
+      },
+      {
+        "en": "Without the stimulus, the argument collapses.",
+        "ru": "Без стимула аргумент рухнет."
+      }
+    ],
+    "colloc": "clear stimulus · stimulus of"
+  },
+  {
+    "word": "stir",
+    "lemma": "stir",
+    "ipa": "/stər/",
+    "pos": "verb",
+    "tr": "перемешивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers stir resources each week.",
+        "ru": "Менеджеры перемешивают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to stir too quickly.",
+        "ru": "Он склонен перемешиваться слишком быстро."
+      },
+      {
+        "en": "They stir only after a full review.",
+        "ru": "Они появляются только после полного обзора."
+      }
+    ],
+    "colloc": "stir pressure · stir + N",
+    "pattern": "stir + N"
+  },
+  {
+    "word": "stoke",
+    "lemma": "stoke",
+    "ipa": "/stoʊk/",
+    "pos": "verb",
+    "tr": "топить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you stoke this for the board?",
+        "ru": "Ты можешь разогреть это для доски?"
+      },
+      {
+        "en": "Analysts stoke the numbers overnight.",
+        "ru": "Аналитики подсчитывают цифры за ночь."
+      },
+      {
+        "en": "Do not stoke under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "stoke pressure · refuse to stoke",
+    "pattern": "stoke + to-INF"
+  },
+  {
+    "word": "storage",
+    "lemma": "storage",
+    "ipa": "/ˈstɔrɪʤ/",
+    "pos": "noun",
+    "tr": "хранение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking storage.",
+        "ru": "В отчете упоминается поразительное хранилище."
+      },
+      {
+        "en": "Funding hinges on this storage.",
+        "ru": "Финансирование зависит от этого хранилища."
+      },
+      {
+        "en": "Students often confuse storage with related terms.",
+        "ru": "Студенты часто путают хранение с соответствующими терминами."
+      }
+    ],
+    "colloc": "the storage · address the storage"
+  },
+  {
+    "word": "straightforward",
+    "lemma": "straightforward",
+    "ipa": "/ˈstreɪtˈfɔrwərd/",
+    "pos": "adj",
+    "tr": "прямой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A straightforward approach may help.",
+        "ru": "Простой подход может помочь."
+      },
+      {
+        "en": "His answer sounded straightforward.",
+        "ru": "Его ответ звучал просто."
+      },
+      {
+        "en": "Avoid straightforward claims without proof.",
+        "ru": "Избегайте прямых утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly straightforward · straightforward result"
+  },
+  {
+    "word": "strain",
+    "lemma": "strain",
+    "ipa": "/streɪn/",
+    "pos": "noun",
+    "tr": "напряжение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one strain.",
+        "ru": "Ее карьера перевернулась на одно напряжение."
+      },
+      {
+        "en": "Public debate ignored the strain.",
+        "ru": "Общественные дебаты проигнорировали напряжение."
+      },
+      {
+        "en": "Document every strain in the log.",
+        "ru": "Документируйте каждый штамм в журнале."
+      }
+    ],
+    "colloc": "clear strain · address the strain"
+  },
+  {
+    "word": "strand",
+    "lemma": "strand",
+    "ipa": "/strænd/",
+    "pos": "noun",
+    "tr": "цепь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the strand.",
+        "ru": "Они недооценили ситуацию."
+      },
+      {
+        "en": "A clear strand emerged from the data.",
+        "ru": "Из данных вытекала четкая нить."
+      },
+      {
+        "en": "Address the strand before it grows.",
+        "ru": "Обращайтесь к пряди, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear strand · strand of"
+  },
+  {
+    "word": "strap",
+    "lemma": "strap",
+    "ipa": "/stræp/",
+    "pos": "noun",
+    "tr": "ремешок",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the strap closely.",
+        "ru": "Исследователи внимательно изучили ремень."
+      },
+      {
+        "en": "The strap shaped the final decision.",
+        "ru": "Ремешок сформировал окончательное решение."
+      },
+      {
+        "en": "Without the strap, the argument collapses.",
+        "ru": "Без ремня аргумент рухнет."
+      }
+    ],
+    "colloc": "the strap · address the strap"
+  },
+  {
+    "word": "strapping",
+    "lemma": "strapping",
+    "ipa": "/ˈstræpɪŋ/",
+    "pos": "adj",
+    "tr": "сцепление",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly strapping.",
+        "ru": "Доказательства едва ли скрепляются."
+      },
+      {
+        "en": "She remained strapping under stress.",
+        "ru": "Она оставалась в стрессе."
+      },
+      {
+        "en": "Results looked only strapping.",
+        "ru": "Результаты выглядели только скрепляющими."
+      }
+    ],
+    "colloc": "highly strapping · strapping result"
+  },
+  {
+    "word": "strategic",
+    "lemma": "strategic",
+    "ipa": "/strəˈtiʤɪk/",
+    "pos": "adj",
+    "tr": "стратегический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A strategic approach may help.",
+        "ru": "Стратегический подход может помочь."
+      },
+      {
+        "en": "His answer sounded strategic.",
+        "ru": "Его ответ звучал стратегически."
+      },
+      {
+        "en": "Avoid strategic claims without proof.",
+        "ru": "Избегайте стратегических претензий без доказательств."
+      }
+    ],
+    "colloc": "strategic approach · remain strategic"
+  },
+  {
+    "word": "stray",
+    "lemma": "stray",
+    "ipa": "/streɪ/",
+    "pos": "verb",
+    "tr": "отклоняться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please stray the proposal carefully.",
+        "ru": "Пожалуйста, внимательно отнеситесь к предложению."
+      },
+      {
+        "en": "They refuse to stray without evidence.",
+        "ru": "Они отказываются уходить без доказательств."
+      },
+      {
+        "en": "Leaders must stray when stakes are high.",
+        "ru": "Лидеры должны отклоняться, когда ставки высоки."
+      }
+    ],
+    "colloc": "stray pressure · refuse to stray",
+    "pattern": "stray (+ prep)"
+  },
+  {
+    "word": "stressfully",
+    "lemma": "stressfully",
+    "ipa": "/stressfully/",
+    "pos": "adv",
+    "tr": "стрессовый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued stressfully overnight.",
+        "ru": "Работа продолжалась напряженно всю ночь."
+      },
+      {
+        "en": "She answered stressfully and clearly.",
+        "ru": "Она ответила напряженно и ясно."
+      },
+      {
+        "en": "The claim was stressfully dismissed.",
+        "ru": "Иск был отклонён со стрессом."
+      }
+    ],
+    "colloc": "respond stressfully · stressfully"
+  }
+]

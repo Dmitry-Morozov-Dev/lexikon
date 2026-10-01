@@ -1,0 +1,897 @@
+[
+  {
+    "lemma": "applaud",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "bass",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "flaw",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "forth",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "frankly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "functional",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "fundraising",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "gig",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "grace",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "grave",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "grid",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "guerrilla",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "halfway",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "haunt",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "large-scale",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "long-standing",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "notably",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "overly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "partially",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "predominantly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "presently",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "presumably",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "recount",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "simultaneously",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "solely",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "span",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spark",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "specialized",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "specification",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "specimen",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spectacle",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spectrum",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sphere",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spin",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spine",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spotlight",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spouse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spy",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "squad",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stab",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stability",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stabilize",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stake",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "standing",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stark",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "statistical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "steer",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stem",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stereotype",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stimulus",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stir",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "storage",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "straightforward",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strain",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strand",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strategic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strip",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strive",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "structural",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stumble",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stun",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "submission",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subscriber",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subscription",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subsidy",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substantial",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substantially",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substitute",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substitution",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subtle",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suburban",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "succession",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "successive",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "successor",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suck",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sue",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suicide",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suite",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "summit",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superb",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superintendent",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superior",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervise",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervision",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervisor",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supplement",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supportive",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supposedly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suppress",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supreme",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surge",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surgical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surplus",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surrender",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surveillance",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspension",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspicion",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspicious",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sustain",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "swing",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sword",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "symbolic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "syndrome",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "synthesis",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "systematic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tactic",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tactical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "taxpayer",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tempt",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tenant",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tender",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tenure",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terminate",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terrain",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terrific",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "testify",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "testimony",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "texture",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thankfully",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theatrical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theology",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theoretical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thereafter",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thereby",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thought-provoking",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thoughtful",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "utilize",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "utterly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vacuum",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vague",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "validity",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vanish",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "variable",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "varied",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vein",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "venture",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verbal",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verdict",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verify",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "versus",
+    "pos": "conj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vessel",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "veteran",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vibrant",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vice",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vicious",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "violate",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "violation",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "virtue",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vocal",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vow",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vulnerability",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vulnerable",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "ward",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warehouse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warfare",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warrant",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warrior",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "weaken",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "weave",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "weed",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "well-being",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whatsoever",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whereby",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whip",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wholly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "widen",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "widow",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "width",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "willingness",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wipe",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wit",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "withdrawal",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "workout",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worship",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worthwhile",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worthy",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "yell",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "yield",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  }
+]

@@ -1,0 +1,1259 @@
+[
+  {
+    "word": "belligerent",
+    "lemma": "belligerent",
+    "ipa": "/bəˈlɪʤərənt/",
+    "pos": "adj",
+    "tr": "воинственный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly belligerent.",
+        "ru": "Доказательства вряд ли воинственны."
+      },
+      {
+        "en": "She remained belligerent under stress.",
+        "ru": "Она оставалась воинственной в стрессе."
+      },
+      {
+        "en": "Results looked only belligerent.",
+        "ru": "Результаты выглядели только воинственными."
+      }
+    ],
+    "colloc": "belligerent approach · belligerent result",
+    "ex": "The evidence is hardly belligerent.",
+    "exRu": "Доказательства вряд ли воинственны."
+  },
+  {
+    "word": "benign",
+    "lemma": "benign",
+    "ipa": "/bɪˈnaɪn/",
+    "pos": "adj",
+    "tr": "доброкачественный; мягкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a benign strategy.",
+        "ru": "Это была доброкачественная стратегия."
+      },
+      {
+        "en": "The tone grew benign.",
+        "ru": "Тон стал доброкачественным."
+      },
+      {
+        "en": "They rejected the benign proposal.",
+        "ru": "Они отвергли доброкачественное предложение."
+      }
+    ],
+    "colloc": "highly benign · remain benign",
+    "ex": "It was a benign strategy.",
+    "exRu": "Это была доброкачественная стратегия."
+  },
+  {
+    "word": "benignly",
+    "lemma": "benignly",
+    "ipa": "/bəˈnaɪnli/",
+    "pos": "adv",
+    "tr": "мягко; добродушно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample benignly.",
+        "ru": "Обработайте образец доброкачественно."
+      },
+      {
+        "en": "Support arrived benignly.",
+        "ru": "Поддержка пришла доброжелательно."
+      },
+      {
+        "en": "The plan failed benignly.",
+        "ru": "План провалился доброжелательно."
+      }
+    ],
+    "colloc": "speak benignly · benignly",
+    "ex": "Handle the sample benignly.",
+    "exRu": "Обработайте образец доброкачественно."
+  },
+  {
+    "word": "bequeath",
+    "lemma": "bequeath",
+    "ipa": "/bɪkˈwiθ/",
+    "pos": "verb",
+    "tr": "завещать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers bequeath resources each week.",
+        "ru": "Менеджеры завещают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to bequeath too quickly.",
+        "ru": "Он склонен завещать слишком быстро."
+      },
+      {
+        "en": "They bequeath only after a full review.",
+        "ru": "Они завещают только после полного пересмотра."
+      }
+    ],
+    "colloc": "bequeath carefully · bequeath + N",
+    "pattern": "bequeath + N",
+    "ex": "Managers bequeath resources each week.",
+    "exRu": "Менеджеры завещают ресурсы каждую неделю."
+  },
+  {
+    "word": "bereft",
+    "lemma": "bereft",
+    "ipa": "/bərˈɛft/",
+    "pos": "adj",
+    "tr": "лишённый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less bereft option.",
+        "ru": "Выберите менее безнадежный вариант."
+      },
+      {
+        "en": "The design feels bereft.",
+        "ru": "Дизайн чувствует себя утерянным."
+      },
+      {
+        "en": "A bereft policy risks backlash.",
+        "ru": "Лишенная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "bereft approach · remain bereft",
+    "ex": "Choose a less bereft option.",
+    "exRu": "Выберите менее безнадежный вариант."
+  },
+  {
+    "word": "bereftly",
+    "lemma": "bereftly",
+    "ipa": "/bereftly/",
+    "pos": "adv",
+    "tr": "лишённо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample bereftly.",
+        "ru": "Обработайте образец осторожно."
+      },
+      {
+        "en": "Support arrived bereftly.",
+        "ru": "Поддержка пришла безрезультатно."
+      },
+      {
+        "en": "The plan failed bereftly.",
+        "ru": "План провалился неудачно."
+      }
+    ],
+    "colloc": "respond bereftly · bereftly",
+    "ex": "Handle the sample bereftly.",
+    "exRu": "Обработайте образец осторожно."
+  },
+  {
+    "word": "besiege",
+    "lemma": "besiege",
+    "ipa": "/bɪˈsiʤ/",
+    "pos": "verb",
+    "tr": "осаждать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to besiege with precision.",
+        "ru": "Она научилась осаждать с точностью."
+      },
+      {
+        "en": "We will besiege the policy next quarter.",
+        "ru": "Мы осадим политику в следующем квартале."
+      },
+      {
+        "en": "Critics besiege the choice harshly.",
+        "ru": "Критики жестко осадили выбор."
+      }
+    ],
+    "colloc": "besiege pressure · refuse to besiege",
+    "pattern": "besiege (+ prep)",
+    "ex": "She learned to besiege with precision.",
+    "exRu": "Она научилась осаждать с точностью."
+  },
+  {
+    "word": "billiards",
+    "lemma": "billiards",
+    "ipa": "/ˈbɪljərdz/",
+    "pos": "noun",
+    "tr": "бильярд",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple billiards.",
+        "ru": "Простого бильярда не было."
+      },
+      {
+        "en": "Critics mocked the billiards.",
+        "ru": "Критики высмеивали бильярд."
+      },
+      {
+        "en": "We need a working definition of billiards.",
+        "ru": "Нам нужно рабочее определение бильярда."
+      }
+    ],
+    "colloc": "clear billiards · address the billiards",
+    "ex": "There was no simple billiards.",
+    "exRu": "Простого бильярда не было."
+  },
+  {
+    "word": "blandishment",
+    "lemma": "blandishment",
+    "ipa": "/ˈblændɪʃmənt/",
+    "pos": "noun",
+    "tr": "лесть; уговоры",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the blandishment closely.",
+        "ru": "Исследователи внимательно изучили блендишмент."
+      },
+      {
+        "en": "The blandishment shaped the final decision.",
+        "ru": "Благоразумие сформировало окончательное решение."
+      },
+      {
+        "en": "Without the blandishment, the argument collapses.",
+        "ru": "Без хвастовства аргумент рушится."
+      }
+    ],
+    "colloc": "clear blandishment · address the blandishment",
+    "ex": "Researchers examined the blandishment closely.",
+    "exRu": "Исследователи внимательно изучили блендишмент."
+  },
+  {
+    "word": "blankness",
+    "lemma": "blankness",
+    "ipa": "/blankness/",
+    "pos": "noun",
+    "tr": "пустота; бессодержательность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking blankness.",
+        "ru": "В докладе приводится поразительная пустота."
+      },
+      {
+        "en": "Funding hinges on this blankness.",
+        "ru": "Финансирование зависит от этой пустоты."
+      },
+      {
+        "en": "Students often confuse blankness with related terms.",
+        "ru": "Студенты часто путают пустоту со связанными терминами."
+      }
+    ],
+    "colloc": "clear blankness · address the blankness",
+    "ex": "The report cites a striking blankness.",
+    "exRu": "В докладе приводится поразительная пустота."
+  },
+  {
+    "word": "blight",
+    "lemma": "blight",
+    "ipa": "/blaɪt/",
+    "pos": "noun",
+    "tr": "порча; бич",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the blight closely.",
+        "ru": "Исследователи внимательно изучили пятно."
+      },
+      {
+        "en": "The blight shaped the final decision.",
+        "ru": "Поражение сформировало окончательное решение."
+      },
+      {
+        "en": "Without the blight, the argument collapses.",
+        "ru": "Без сбоя аргумент рухнет."
+      }
+    ],
+    "colloc": "the blight · blight of",
+    "ex": "Researchers examined the blight closely.",
+    "exRu": "Исследователи внимательно изучили пятно."
+  },
+  {
+    "word": "bliss",
+    "lemma": "bliss",
+    "ipa": "/blɪs/",
+    "pos": "noun",
+    "tr": "блаженство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the bliss closely.",
+        "ru": "Исследователи внимательно изучили блаженство."
+      },
+      {
+        "en": "The bliss shaped the final decision.",
+        "ru": "Блаженство сформировало окончательное решение."
+      },
+      {
+        "en": "Without the bliss, the argument collapses.",
+        "ru": "Без блаженства спор рушится."
+      }
+    ],
+    "colloc": "clear bliss · bliss of",
+    "ex": "Researchers examined the bliss closely.",
+    "exRu": "Исследователи внимательно изучили блаженство."
+  },
+  {
+    "word": "blister",
+    "lemma": "blister",
+    "ipa": "/ˈblɪstər/",
+    "pos": "noun",
+    "tr": "волдырь; покрываться волдырями",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the blister closely.",
+        "ru": "Исследователи внимательно изучили блистер."
+      },
+      {
+        "en": "The blister shaped the final decision.",
+        "ru": "Блистер сформировал окончательное решение."
+      },
+      {
+        "en": "Without the blister, the argument collapses.",
+        "ru": "Без волдыря аргумент рухнет."
+      }
+    ],
+    "colloc": "the blister · address the blister",
+    "ex": "Researchers examined the blister closely.",
+    "exRu": "Исследователи внимательно изучили блистер."
+  },
+  {
+    "word": "blithely",
+    "lemma": "blithely",
+    "ipa": "/ˈblaɪθli/",
+    "pos": "adv",
+    "tr": "беспечно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke blithely about the issue.",
+        "ru": "Она беспечно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded blithely.",
+        "ru": "Команда ответила беспечно."
+      },
+      {
+        "en": "Progress moved blithely after the fix.",
+        "ru": "Успешно справилась с работой."
+      }
+    ],
+    "colloc": "act blithely · blithely",
+    "ex": "She spoke blithely about the issue.",
+    "exRu": "Она беспечно говорила об этом вопросе."
+  },
+  {
+    "word": "blockbuster",
+    "lemma": "blockbuster",
+    "ipa": "/ˈblɑkˌbəstər/",
+    "pos": "noun",
+    "tr": "блокбастер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the blockbuster closely.",
+        "ru": "Исследователи внимательно изучили блокбастер."
+      },
+      {
+        "en": "The blockbuster shaped the final decision.",
+        "ru": "Блокбастер определил окончательное решение."
+      },
+      {
+        "en": "Without the blockbuster, the argument collapses.",
+        "ru": "Без блокбастера аргумент рухнет."
+      }
+    ],
+    "colloc": "clear blockbuster · blockbuster of",
+    "ex": "Researchers examined the blockbuster closely.",
+    "exRu": "Исследователи внимательно изучили блокбастер."
+  },
+  {
+    "word": "blubber",
+    "lemma": "blubber",
+    "ipa": "/ˈbləbər/",
+    "pos": "noun",
+    "tr": "ворвань; реветь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one blubber.",
+        "ru": "Ее карьера перевернулась на один пузырек."
+      },
+      {
+        "en": "Public debate ignored the blubber.",
+        "ru": "Общественные дебаты проигнорировали блеф."
+      },
+      {
+        "en": "Document every blubber in the log.",
+        "ru": "Задокументируйте каждый пузырь в журнале."
+      }
+    ],
+    "colloc": "clear blubber · blubber of",
+    "ex": "Her career turned on one blubber.",
+    "exRu": "Ее карьера перевернулась на один пузырек."
+  },
+  {
+    "word": "blubbery",
+    "lemma": "blubbery",
+    "ipa": "/blubbery/",
+    "pos": "adj",
+    "tr": "жирный; рыхлый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A blubbery approach may help.",
+        "ru": "Рыхлый подход может помочь."
+      },
+      {
+        "en": "His answer sounded blubbery.",
+        "ru": "Его ответ прозвучал громогласно."
+      },
+      {
+        "en": "Avoid blubbery claims without proof.",
+        "ru": "Избегайте претензий без доказательств."
+      }
+    ],
+    "colloc": "blubbery approach · blubbery result",
+    "ex": "A blubbery approach may help.",
+    "exRu": "Рыхлый подход может помочь."
+  },
+  {
+    "word": "bouquet",
+    "lemma": "bouquet",
+    "ipa": "/buˈkeɪ/",
+    "pos": "noun",
+    "tr": "букет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple bouquet.",
+        "ru": "Простого букета не было."
+      },
+      {
+        "en": "Critics mocked the bouquet.",
+        "ru": "Критики высмеяли букет."
+      },
+      {
+        "en": "We need a working definition of bouquet.",
+        "ru": "Нам нужно рабочее определение букета."
+      }
+    ],
+    "colloc": "clear bouquet · bouquet of",
+    "ex": "There was no simple bouquet.",
+    "exRu": "Простого букета не было."
+  },
+  {
+    "word": "brainwash",
+    "lemma": "brainwash",
+    "ipa": "/ˈbreɪnˌwɑʃ/",
+    "pos": "verb",
+    "tr": "промывать мозги",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers brainwash resources each week.",
+        "ru": "Менеджеры промывают мозги каждую неделю."
+      },
+      {
+        "en": "He tends to brainwash too quickly.",
+        "ru": "Он слишком быстро промывает мозги."
+      },
+      {
+        "en": "They brainwash only after a full review.",
+        "ru": "Они промывают мозги только после полного обзора."
+      }
+    ],
+    "colloc": "brainwash pressure · brainwash + N",
+    "pattern": "brainwash + N",
+    "ex": "Managers brainwash resources each week.",
+    "exRu": "Менеджеры промывают мозги каждую неделю."
+  },
+  {
+    "word": "brainwashing",
+    "lemma": "brainwashing",
+    "ipa": "/ˈbreɪnˌwɑʃɪŋ/",
+    "pos": "noun",
+    "tr": "промывание мозгов",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the brainwashing.",
+        "ru": "Они недооценили промывание мозгов."
+      },
+      {
+        "en": "A clear brainwashing emerged from the data.",
+        "ru": "Четкое промывание мозгов появилось из данных."
+      },
+      {
+        "en": "Address the brainwashing before it grows.",
+        "ru": "Промывание мозгов, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear brainwashing · brainwashing of",
+    "ex": "They underestimated the brainwashing.",
+    "exRu": "Они недооценили промывание мозгов."
+  },
+  {
+    "word": "brandish",
+    "lemma": "brandish",
+    "ipa": "/ˈbrændɪʃ/",
+    "pos": "verb",
+    "tr": "размахивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers brandish resources each week.",
+        "ru": "Менеджеры размещают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to brandish too quickly.",
+        "ru": "Он слишком быстро размахивает."
+      },
+      {
+        "en": "They brandish only after a full review.",
+        "ru": "Они размахиваются только после полного обзора."
+      }
+    ],
+    "colloc": "brandish pressure · brandish + N",
+    "pattern": "brandish + N",
+    "ex": "Managers brandish resources each week.",
+    "exRu": "Менеджеры размещают ресурсы каждую неделю."
+  },
+  {
+    "word": "breadwinner",
+    "lemma": "breadwinner",
+    "ipa": "/ˈbrɛdˌwɪnər/",
+    "pos": "noun",
+    "tr": "кормилец",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the breadwinner closely.",
+        "ru": "Исследователи внимательно изучили кормильца."
+      },
+      {
+        "en": "The breadwinner shaped the final decision.",
+        "ru": "Благотворитель принял окончательное решение."
+      },
+      {
+        "en": "Without the breadwinner, the argument collapses.",
+        "ru": "Без кормильца аргумент рухнет."
+      }
+    ],
+    "colloc": "clear breadwinner · breadwinner of",
+    "ex": "Researchers examined the breadwinner closely.",
+    "exRu": "Исследователи внимательно изучили кормильца."
+  },
+  {
+    "word": "brevity",
+    "lemma": "brevity",
+    "ipa": "/ˈbrɛvəti/",
+    "pos": "noun",
+    "tr": "кратность; краткость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the brevity.",
+        "ru": "Они недооценили краткость."
+      },
+      {
+        "en": "A clear brevity emerged from the data.",
+        "ru": "Из данных вытекала явная краткость."
+      },
+      {
+        "en": "Address the brevity before it grows.",
+        "ru": "Обращайтесь к краткости, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear brevity · brevity of",
+    "ex": "They underestimated the brevity.",
+    "exRu": "Они недооценили краткость."
+  },
+  {
+    "word": "bribery",
+    "lemma": "bribery",
+    "ipa": "/ˈbraɪbəri/",
+    "pos": "noun",
+    "tr": "взяточничество",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking bribery.",
+        "ru": "В докладе приводится поразительный подкуп."
+      },
+      {
+        "en": "Funding hinges on this bribery.",
+        "ru": "Финансирование зависит от этого взяточничества."
+      },
+      {
+        "en": "Students often confuse bribery with related terms.",
+        "ru": "Студенты часто путают взяточничество с родственными терминами."
+      }
+    ],
+    "colloc": "clear bribery · address the bribery",
+    "ex": "The report cites a striking bribery.",
+    "exRu": "В докладе приводится поразительный подкуп."
+  },
+  {
+    "word": "brimstone",
+    "lemma": "brimstone",
+    "ipa": "/ˈbrɪmstoʊn/",
+    "pos": "noun",
+    "tr": "сера (библ./метаф.)",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking brimstone.",
+        "ru": "В докладе приводится поразительный краеугольный камень."
+      },
+      {
+        "en": "Funding hinges on this brimstone.",
+        "ru": "Финансирование зависит от этого краеугольного камня."
+      },
+      {
+        "en": "Students often confuse brimstone with related terms.",
+        "ru": "Студенты часто путают бримстоун с родственными терминами."
+      }
+    ],
+    "colloc": "the brimstone · brimstone of",
+    "ex": "The report cites a striking brimstone.",
+    "exRu": "В докладе приводится поразительный краеугольный камень."
+  },
+  {
+    "word": "brouhaha",
+    "lemma": "brouhaha",
+    "ipa": "/ˈbruhɑˌhɑ/",
+    "pos": "noun",
+    "tr": "шум; переполох",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one brouhaha.",
+        "ru": "Ее карьера перевернулась на одну брухаху."
+      },
+      {
+        "en": "Public debate ignored the brouhaha.",
+        "ru": "Публичные дебаты проигнорировали броуху."
+      },
+      {
+        "en": "Document every brouhaha in the log.",
+        "ru": "Документируйте каждый броухаха в журнале."
+      }
+    ],
+    "colloc": "clear brouhaha · brouhaha of",
+    "ex": "Her career turned on one brouhaha.",
+    "exRu": "Ее карьера перевернулась на одну брухаху."
+  },
+  {
+    "word": "bubbly",
+    "lemma": "bubbly",
+    "ipa": "/ˈbəbəli/",
+    "pos": "adj",
+    "tr": "игристый; жизнерадостный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less bubbly option.",
+        "ru": "Выберите менее мягкий вариант."
+      },
+      {
+        "en": "The design feels bubbly.",
+        "ru": "Дизайн ощущается пузырчатым."
+      },
+      {
+        "en": "A bubbly policy risks backlash.",
+        "ru": "Пузырчатая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly bubbly · remain bubbly",
+    "ex": "Choose a less bubbly option.",
+    "exRu": "Выберите менее мягкий вариант."
+  },
+  {
+    "word": "buccaneer",
+    "lemma": "buccaneer",
+    "ipa": "/ˌbəkəˈnir/",
+    "pos": "verb",
+    "tr": "буканьер; пират",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers buccaneer resources each week.",
+        "ru": "Менеджеры еженедельно закупают ресурсы."
+      },
+      {
+        "en": "He tends to buccaneer too quickly.",
+        "ru": "Он склонен к буканьерству слишком быстро."
+      },
+      {
+        "en": "They buccaneer only after a full review.",
+        "ru": "Они снимаются только после полного обзора."
+      }
+    ],
+    "colloc": "buccaneer pressure · buccaneer + N",
+    "pattern": "buccaneer + N",
+    "ex": "Managers buccaneer resources each week.",
+    "exRu": "Менеджеры еженедельно закупают ресурсы."
+  },
+  {
+    "word": "buffoon",
+    "lemma": "buffoon",
+    "ipa": "/bəˈfun/",
+    "pos": "noun",
+    "tr": "шут; клоун",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the buffoon.",
+        "ru": "Они недооценили буффона."
+      },
+      {
+        "en": "A clear buffoon emerged from the data.",
+        "ru": "Из данных вышел явный шут."
+      },
+      {
+        "en": "Address the buffoon before it grows.",
+        "ru": "Обратись к шуту, пока он не вырос."
+      }
+    ],
+    "colloc": "clear buffoon · address the buffoon",
+    "ex": "They underestimated the buffoon.",
+    "exRu": "Они недооценили буффона."
+  },
+  {
+    "word": "buffoonery",
+    "lemma": "buffoonery",
+    "ipa": "/buffoonery/",
+    "pos": "noun",
+    "tr": "шутовство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one buffoonery.",
+        "ru": "Ее карьера обернулась одним буффоном."
+      },
+      {
+        "en": "Public debate ignored the buffoonery.",
+        "ru": "Публичные дебаты проигнорировали буффонады."
+      },
+      {
+        "en": "Document every buffoonery in the log.",
+        "ru": "Документируйте каждый буффон в журнале."
+      }
+    ],
+    "colloc": "clear buffoonery · buffoonery of",
+    "ex": "Her career turned on one buffoonery.",
+    "exRu": "Ее карьера обернулась одним буффоном."
+  },
+  {
+    "word": "bulky",
+    "lemma": "bulky",
+    "ipa": "/ˈbəlki/",
+    "pos": "adj",
+    "tr": "громоздкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a bulky strategy.",
+        "ru": "Это была громоздкая стратегия."
+      },
+      {
+        "en": "The tone grew bulky.",
+        "ru": "Тон стал громоздким."
+      },
+      {
+        "en": "They rejected the bulky proposal.",
+        "ru": "Они отвергли громоздкое предложение."
+      }
+    ],
+    "colloc": "highly bulky · remain bulky",
+    "ex": "It was a bulky strategy.",
+    "exRu": "Это была громоздкая стратегия."
+  },
+  {
+    "word": "bureaucratic",
+    "lemma": "bureaucratic",
+    "ipa": "/ˌbjʊrəˈkrætɪk/",
+    "pos": "adj",
+    "tr": "бюрократический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a bureaucratic strategy.",
+        "ru": "Это была бюрократическая стратегия."
+      },
+      {
+        "en": "The tone grew bureaucratic.",
+        "ru": "Тон стал бюрократическим."
+      },
+      {
+        "en": "They rejected the bureaucratic proposal.",
+        "ru": "Они отвергли бюрократическое предложение."
+      }
+    ],
+    "colloc": "bureaucratic approach · bureaucratic result",
+    "ex": "It was a bureaucratic strategy.",
+    "exRu": "Это была бюрократическая стратегия."
+  },
+  {
+    "word": "bureaucratically",
+    "lemma": "bureaucratically",
+    "ipa": "/bureaucratically/",
+    "pos": "adv",
+    "tr": "бюрократически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued bureaucratically overnight.",
+        "ru": "Ночью бюрократическая работа продолжалась."
+      },
+      {
+        "en": "She answered bureaucratically and clearly.",
+        "ru": "Она ответила бюрократически и ясно."
+      },
+      {
+        "en": "The claim was bureaucratically dismissed.",
+        "ru": "Иск был официально отклонен."
+      }
+    ],
+    "colloc": "speak bureaucratically · bureaucratically",
+    "ex": "Work continued bureaucratically overnight.",
+    "exRu": "Ночью бюрократическая работа продолжалась."
+  },
+  {
+    "word": "burgeoning",
+    "lemma": "burgeoning",
+    "ipa": "/ˈbərʤənɪŋ/",
+    "pos": "adj",
+    "tr": "бурно растущий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A burgeoning approach may help.",
+        "ru": "Растущий подход может помочь."
+      },
+      {
+        "en": "His answer sounded burgeoning.",
+        "ru": "Его ответ звучал бурно."
+      },
+      {
+        "en": "Avoid burgeoning claims without proof.",
+        "ru": "Избегайте растущих претензий без доказательств."
+      }
+    ],
+    "colloc": "burgeoning approach · burgeoning result",
+    "ex": "A burgeoning approach may help.",
+    "exRu": "Растущий подход может помочь."
+  },
+  {
+    "word": "buzzard",
+    "lemma": "buzzard",
+    "ipa": "/ˈbəzərd/",
+    "pos": "noun",
+    "tr": "канюк; стервятник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the buzzard.",
+        "ru": "Они недооценили жужжащего."
+      },
+      {
+        "en": "A clear buzzard emerged from the data.",
+        "ru": "Из данных вышел явный кайф."
+      },
+      {
+        "en": "Address the buzzard before it grows.",
+        "ru": "Обращайтесь к жужжаку, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear buzzard · address the buzzard",
+    "ex": "They underestimated the buzzard.",
+    "exRu": "Они недооценили жужжащего."
+  },
+  {
+    "word": "buzzer",
+    "lemma": "buzzer",
+    "ipa": "/ˈbəzər/",
+    "pos": "noun",
+    "tr": "зуммер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the buzzer.",
+        "ru": "Они недооценили шумиху."
+      },
+      {
+        "en": "A clear buzzer emerged from the data.",
+        "ru": "Из данных вышел четкий гудок."
+      },
+      {
+        "en": "Address the buzzer before it grows.",
+        "ru": "Обратитесь к зуммеру, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear buzzer · buzzer of",
+    "ex": "They underestimated the buzzer.",
+    "exRu": "Они недооценили шумиху."
+  },
+  {
+    "word": "bypass",
+    "lemma": "bypass",
+    "ipa": "/ˈbaɪˌpæs/",
+    "pos": "verb",
+    "tr": "обход; обходить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers bypass resources each week.",
+        "ru": "Менеджеры обходят ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to bypass too quickly.",
+        "ru": "Он склонен слишком быстро обходить."
+      },
+      {
+        "en": "They bypass only after a full review.",
+        "ru": "Обходят только после полного обзора."
+      }
+    ],
+    "colloc": "bypass carefully · bypass + N",
+    "pattern": "bypass + that",
+    "ex": "Managers bypass resources each week.",
+    "exRu": "Менеджеры обходят ресурсы каждую неделю."
+  },
+  {
+    "word": "caffeinate",
+    "lemma": "caffeinate",
+    "ipa": "/ˈkæfɪˌneɪt/",
+    "pos": "verb",
+    "tr": "насыщать кофеином",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers caffeinate resources each week.",
+        "ru": "Менеджеры еженедельно используют ресурсы."
+      },
+      {
+        "en": "He tends to caffeinate too quickly.",
+        "ru": "Он склонен к кофеинизации слишком быстро."
+      },
+      {
+        "en": "They caffeinate only after a full review.",
+        "ru": "Преодоление наследства производится только после"
+      }
+    ],
+    "colloc": "caffeinate carefully · caffeinate + N",
+    "pattern": "caffeinate + to-INF",
+    "ex": "Managers caffeinate resources each week.",
+    "exRu": "Менеджеры еженедельно используют ресурсы."
+  },
+  {
+    "word": "calamitous",
+    "lemma": "calamitous",
+    "ipa": "/kəˈlæmətəs/",
+    "pos": "adj",
+    "tr": "катастрофический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less calamitous option.",
+        "ru": "Выберите менее опасный вариант."
+      },
+      {
+        "en": "The design feels calamitous.",
+        "ru": "Дизайн кажется катастрофическим."
+      },
+      {
+        "en": "A calamitous policy risks backlash.",
+        "ru": "Катастрофическая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly calamitous · remain calamitous",
+    "ex": "Choose a less calamitous option.",
+    "exRu": "Выберите менее опасный вариант."
+  },
+  {
+    "word": "calamitously",
+    "lemma": "calamitously",
+    "ipa": "/calamitously/",
+    "pos": "adv",
+    "tr": "катастрофически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued calamitously overnight.",
+        "ru": "Работа продолжалась катастрофически всю ночь."
+      },
+      {
+        "en": "She answered calamitously and clearly.",
+        "ru": "Она ответила резко и ясно."
+      },
+      {
+        "en": "The claim was calamitously dismissed.",
+        "ru": "Иск был катастрофически отклонен."
+      }
+    ],
+    "colloc": "act calamitously · calamitously",
+    "ex": "Work continued calamitously overnight.",
+    "exRu": "Работа продолжалась катастрофически всю ночь."
+  },
+  {
+    "word": "calamity",
+    "lemma": "calamity",
+    "ipa": "/kəˈlæmɪti/",
+    "pos": "noun",
+    "tr": "бедствие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the calamity.",
+        "ru": "Они недооценили катастрофу."
+      },
+      {
+        "en": "A clear calamity emerged from the data.",
+        "ru": "Из этих данных возникла явная катастрофа."
+      },
+      {
+        "en": "Address the calamity before it grows.",
+        "ru": "Устраните проблему, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear calamity · address the calamity",
+    "ex": "They underestimated the calamity.",
+    "exRu": "Они недооценили катастрофу."
+  },
+  {
+    "word": "calf",
+    "lemma": "calf",
+    "ipa": "/kæf/",
+    "pos": "noun",
+    "tr": "телёнок; икра (ноги)",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple calf.",
+        "ru": "Простого теленка не было."
+      },
+      {
+        "en": "Critics mocked the calf.",
+        "ru": "Критики высмеяли теленка."
+      },
+      {
+        "en": "We need a working definition of calf.",
+        "ru": "Нам нужно рабочее определение теленка."
+      }
+    ],
+    "colloc": "the calf · address the calf",
+    "ex": "There was no simple calf.",
+    "exRu": "Простого теленка не было."
+  },
+  {
+    "word": "callous",
+    "lemma": "callous",
+    "ipa": "/ˈkæləs/",
+    "pos": "adj",
+    "tr": "чёрствый; бесчувственный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly callous.",
+        "ru": "Доказательства вряд ли бессердечны."
+      },
+      {
+        "en": "She remained callous under stress.",
+        "ru": "Она оставалась бессердечной в стрессе."
+      },
+      {
+        "en": "Results looked only callous.",
+        "ru": "Результаты выглядели просто бессердечными."
+      }
+    ],
+    "colloc": "callous approach · callous result",
+    "ex": "The evidence is hardly callous.",
+    "exRu": "Доказательства вряд ли бессердечны."
+  },
+  {
+    "word": "callously",
+    "lemma": "callously",
+    "ipa": "/ˈkæləsli/",
+    "pos": "adv",
+    "tr": "чёрство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke callously about the issue.",
+        "ru": "Она бесцеремонно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded callously.",
+        "ru": "Команда ответила бесцеремонно."
+      },
+      {
+        "en": "Progress moved callously after the fix.",
+        "ru": "Прогресс бесцеремонно двигался после исправления."
+      }
+    ],
+    "colloc": "act callously · callously",
+    "ex": "She spoke callously about the issue.",
+    "exRu": "Она бесцеремонно говорила об этом вопросе."
+  },
+  {
+    "word": "calorie",
+    "lemma": "calorie",
+    "ipa": "/ˈkælɔˌri/",
+    "pos": "noun",
+    "tr": "калория",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the calorie.",
+        "ru": "Они недооценили калорийность."
+      },
+      {
+        "en": "A clear calorie emerged from the data.",
+        "ru": "Из данных вытекала четкая калория."
+      },
+      {
+        "en": "Address the calorie before it grows.",
+        "ru": "Обращайте внимание на калории, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear calorie · address the calorie",
+    "ex": "They underestimated the calorie.",
+    "exRu": "Они недооценили калорийность."
+  },
+  {
+    "word": "calorific",
+    "lemma": "calorific",
+    "ipa": "/calorific/",
+    "pos": "adj",
+    "tr": "калорийный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A calorific approach may help.",
+        "ru": "Может помочь калорийный подход."
+      },
+      {
+        "en": "His answer sounded calorific.",
+        "ru": "Его ответ звучал тепло."
+      },
+      {
+        "en": "Avoid calorific claims without proof.",
+        "ru": "Избегайте калорийных претензий без доказательств."
+      }
+    ],
+    "colloc": "highly calorific · remain calorific",
+    "ex": "A calorific approach may help.",
+    "exRu": "Может помочь калорийный подход."
+  },
+  {
+    "word": "candid",
+    "lemma": "candid",
+    "ipa": "/ˈkændɪd/",
+    "pos": "adj",
+    "tr": "искренний; откровенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a candid strategy.",
+        "ru": "Это была откровенная стратегия."
+      },
+      {
+        "en": "The tone grew candid.",
+        "ru": "Тон вырос откровенным."
+      },
+      {
+        "en": "They rejected the candid proposal.",
+        "ru": "Они отклонили откровенное предложение."
+      }
+    ],
+    "colloc": "candid approach · remain candid",
+    "ex": "It was a candid strategy.",
+    "exRu": "Это была откровенная стратегия."
+  },
+  {
+    "word": "candidly",
+    "lemma": "candidly",
+    "ipa": "/ˈkændɪdli/",
+    "pos": "adv",
+    "tr": "откровенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample candidly.",
+        "ru": "Отнеситесь к выборке откровенно."
+      },
+      {
+        "en": "Support arrived candidly.",
+        "ru": "Поддержка пришла откровенно."
+      },
+      {
+        "en": "The plan failed candidly.",
+        "ru": "План провалился откровенно."
+      }
+    ],
+    "colloc": "respond candidly · candidly",
+    "ex": "Handle the sample candidly.",
+    "exRu": "Отнеситесь к выборке откровенно."
+  },
+  {
+    "word": "canoe",
+    "lemma": "canoe",
+    "ipa": "/kəˈnu/",
+    "pos": "noun",
+    "tr": "каноэ",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the canoe.",
+        "ru": "Они недооценили каноэ."
+      },
+      {
+        "en": "A clear canoe emerged from the data.",
+        "ru": "Из данных вышел четкий каноэ."
+      },
+      {
+        "en": "Address the canoe before it grows.",
+        "ru": "Обращайтесь к каноэ, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear canoe · canoe of",
+    "ex": "They underestimated the canoe.",
+    "exRu": "Они недооценили каноэ."
+  },
+  {
+    "word": "capacious",
+    "lemma": "capacious",
+    "ipa": "/kəˈpeɪʃəs/",
+    "pos": "adj",
+    "tr": "вместительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less capacious option.",
+        "ru": "Выберите менее емкий вариант."
+      },
+      {
+        "en": "The design feels capacious.",
+        "ru": "Дизайн кажется емким."
+      },
+      {
+        "en": "A capacious policy risks backlash.",
+        "ru": "Вместительная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "capacious approach · remain capacious",
+    "ex": "Choose a less capacious option.",
+    "exRu": "Выберите менее емкий вариант."
+  }
+]

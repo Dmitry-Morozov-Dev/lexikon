@@ -1,0 +1,1260 @@
+[
+  {
+    "word": "unreliably",
+    "lemma": "unreliably",
+    "ipa": "/unreliably/",
+    "pos": "adv",
+    "tr": "ненадежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample unreliably.",
+        "ru": "Ненадежно обработать образец."
+      },
+      {
+        "en": "Support arrived unreliably.",
+        "ru": "Поддержка пришла ненадежно."
+      },
+      {
+        "en": "The plan failed unreliably.",
+        "ru": "План провалился ненадежно."
+      }
+    ],
+    "colloc": "respond unreliably · unreliably",
+    "ex": "Handle the sample unreliably.",
+    "exRu": "Ненадежно обработать образец."
+  },
+  {
+    "word": "unscathing",
+    "lemma": "unscathing",
+    "ipa": "/unscathing/",
+    "pos": "adj",
+    "tr": "невредимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unscathing.",
+        "ru": "Доказательства вряд ли невредимы."
+      },
+      {
+        "en": "She remained unscathing under stress.",
+        "ru": "Она оставалась невредимой в стрессе."
+      },
+      {
+        "en": "Results looked only unscathing.",
+        "ru": "Результаты выглядели просто невредимыми."
+      }
+    ],
+    "colloc": "unscathing approach · unscathing result",
+    "ex": "The evidence is hardly unscathing.",
+    "exRu": "Доказательства вряд ли невредимы."
+  },
+  {
+    "word": "unsettle",
+    "lemma": "unsettle",
+    "ipa": "/ənˈsɛtəl/",
+    "pos": "verb",
+    "tr": "расстраивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you unsettle this for the board?",
+        "ru": "Вы можете расстроить это для совета?"
+      },
+      {
+        "en": "Analysts unsettle the numbers overnight.",
+        "ru": "Аналитики рассчитали цифры за ночь."
+      },
+      {
+        "en": "Do not unsettle under political pressure.",
+        "ru": "Не расстраивайтесь под политическим давлением."
+      }
+    ],
+    "colloc": "unsettle pressure · refuse to unsettle",
+    "pattern": "unsettle + that",
+    "ex": "Can you unsettle this for the board?",
+    "exRu": "Вы можете расстроить это для совета?"
+  },
+  {
+    "word": "unsettling",
+    "lemma": "unsettling",
+    "ipa": "/ənˈsɛtəlɪŋ/",
+    "pos": "adj",
+    "tr": "тревожный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unsettling.",
+        "ru": "Доказательства вряд ли тревожат."
+      },
+      {
+        "en": "She remained unsettling under stress.",
+        "ru": "Она оставалась тревожной в стрессе."
+      },
+      {
+        "en": "Results looked only unsettling.",
+        "ru": "Результаты выглядели только тревожными."
+      }
+    ],
+    "colloc": "unsettling approach · remain unsettling",
+    "ex": "The evidence is hardly unsettling.",
+    "exRu": "Доказательства вряд ли тревожат."
+  },
+  {
+    "word": "unsustainable",
+    "lemma": "unsustainable",
+    "ipa": "/ˌənsəˈsteɪnəbəl/",
+    "pos": "adj",
+    "tr": "неустойчивый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less unsustainable option.",
+        "ru": "Выберите менее неустойчивый вариант."
+      },
+      {
+        "en": "The design feels unsustainable.",
+        "ru": "Дизайн кажется неустойчивым."
+      },
+      {
+        "en": "An unsustainable policy risks backlash.",
+        "ru": "Неустойчивая политика может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "unsustainable tone · unsustainable result",
+    "ex": "Choose a less unsustainable option.",
+    "exRu": "Выберите менее неустойчивый вариант."
+  },
+  {
+    "word": "unsustainably",
+    "lemma": "unsustainably",
+    "ipa": "/ˌənsəˈsteɪnəbli/",
+    "pos": "adv",
+    "tr": "неустойчивый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued unsustainably overnight.",
+        "ru": "Работы продолжались в течение ночи."
+      },
+      {
+        "en": "She answered unsustainably and clearly.",
+        "ru": "Она ответила неустойчиво и ясно."
+      },
+      {
+        "en": "The claim was unsustainably dismissed.",
+        "ru": "Иск был неустойчиво отклонен."
+      }
+    ],
+    "colloc": "respond unsustainably · unsustainably",
+    "ex": "Work continued unsustainably overnight.",
+    "exRu": "Работы продолжались в течение ночи."
+  },
+  {
+    "word": "untangle",
+    "lemma": "untangle",
+    "ipa": "/ənˈtæŋgəl/",
+    "pos": "verb",
+    "tr": "распутывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers untangle resources each week.",
+        "ru": "Менеджеры распутывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to untangle too quickly.",
+        "ru": "Он слишком быстро распутывает."
+      },
+      {
+        "en": "They untangle only after a full review.",
+        "ru": "Они распутываются только после полного обзора."
+      }
+    ],
+    "colloc": "untangle carefully · refuse to untangle",
+    "pattern": "untangle (+ prep)",
+    "ex": "Managers untangle resources each week.",
+    "exRu": "Менеджеры распутывают ресурсы каждую неделю."
+  },
+  {
+    "word": "untangled",
+    "lemma": "untangled",
+    "ipa": "/untangled/",
+    "pos": "adj",
+    "tr": "распутанный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly untangled.",
+        "ru": "Доказательства едва ли распутаны."
+      },
+      {
+        "en": "She remained untangled under stress.",
+        "ru": "Она оставалась незапутанной в стрессе."
+      },
+      {
+        "en": "Results looked only untangled.",
+        "ru": "Результаты выглядели только распутанными."
+      }
+    ],
+    "colloc": "highly untangled · untangled result",
+    "ex": "The evidence is hardly untangled.",
+    "exRu": "Доказательства едва ли распутаны."
+  },
+  {
+    "word": "unwavering",
+    "lemma": "unwavering",
+    "ipa": "/ənˈweɪvərɪŋ/",
+    "pos": "adj",
+    "tr": "непоколебимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly unwavering.",
+        "ru": "Доказательства вряд ли непоколебимы."
+      },
+      {
+        "en": "She remained unwavering under stress.",
+        "ru": "Она оставалась непоколебимой в стрессе."
+      },
+      {
+        "en": "Results looked only unwavering.",
+        "ru": "Результаты выглядели непоколебимыми."
+      }
+    ],
+    "colloc": "highly unwavering · unwavering result",
+    "ex": "The evidence is hardly unwavering.",
+    "exRu": "Доказательства вряд ли непоколебимы."
+  },
+  {
+    "word": "unwaveringly",
+    "lemma": "unwaveringly",
+    "ipa": "/unwaveringly/",
+    "pos": "adv",
+    "tr": "непоколебимо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued unwaveringly for reform.",
+        "ru": "Он заявил, что «необходимо провести реформу»."
+      },
+      {
+        "en": "The rule was applied unwaveringly.",
+        "ru": "Правило применялось непоколебимо."
+      },
+      {
+        "en": "Costs rose unwaveringly last year.",
+        "ru": "Затраты в прошлом году неуклонно росли."
+      }
+    ],
+    "colloc": "respond unwaveringly · unwaveringly",
+    "ex": "He argued unwaveringly for reform.",
+    "exRu": "Он заявил, что «необходимо провести реформу»."
+  },
+  {
+    "word": "upheaval",
+    "lemma": "upheaval",
+    "ipa": "/əˈphivəl/",
+    "pos": "noun",
+    "tr": "потрясение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking upheaval.",
+        "ru": "В докладе приводятся поразительные потрясения."
+      },
+      {
+        "en": "Funding hinges on this upheaval.",
+        "ru": "Финансирование зависит от этого переворота."
+      },
+      {
+        "en": "Students often confuse upheaval with related terms.",
+        "ru": "Студенты часто путают потрясения с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear upheaval · address the upheaval",
+    "ex": "The report cites a striking upheaval.",
+    "exRu": "В докладе приводятся поразительные потрясения."
+  },
+  {
+    "word": "usher",
+    "lemma": "usher",
+    "ipa": "/ˈəʃər/",
+    "pos": "noun",
+    "tr": "швейцар",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple usher.",
+        "ru": "Простого ашера не было."
+      },
+      {
+        "en": "Critics mocked the usher.",
+        "ru": "Критики высмеяли ашера."
+      },
+      {
+        "en": "We need a working definition of usher.",
+        "ru": "Нам нужно рабочее определение ашера."
+      }
+    ],
+    "colloc": "clear usher · address the usher",
+    "ex": "There was no simple usher.",
+    "exRu": "Простого ашера не было."
+  },
+  {
+    "word": "utensil",
+    "lemma": "utensil",
+    "ipa": "/juˈtɛnsəl/",
+    "pos": "noun",
+    "tr": "посуда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking utensil.",
+        "ru": "В докладе приводится поразительная утварь."
+      },
+      {
+        "en": "Funding hinges on this utensil.",
+        "ru": "Финансирование зависит от этой посуды."
+      },
+      {
+        "en": "Students often confuse utensil with related terms.",
+        "ru": "Студенты часто путают посуду с родственными терминами."
+      }
+    ],
+    "colloc": "clear utensil · address the utensil",
+    "ex": "The report cites a striking utensil.",
+    "exRu": "В докладе приводится поразительная утварь."
+  },
+  {
+    "word": "utilise",
+    "lemma": "utilise",
+    "ipa": "/utilise/",
+    "pos": "noun",
+    "tr": "использовать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking utilise.",
+        "ru": "В докладе приводится поразительное использование."
+      },
+      {
+        "en": "Funding hinges on this utilise.",
+        "ru": "Финансирование зависит от этого использования."
+      },
+      {
+        "en": "Students often confuse utilise with related terms.",
+        "ru": "Студенты часто путают использование с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear utilise · address the utilise",
+    "ex": "The report cites a striking utilise.",
+    "exRu": "В докладе приводится поразительное использование."
+  },
+  {
+    "word": "utilize",
+    "lemma": "utilize",
+    "ipa": "/ˈjutəˌlaɪz/",
+    "pos": "verb",
+    "tr": "использовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers utilize resources each week.",
+        "ru": "Менеджеры используют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to utilize too quickly.",
+        "ru": "Он склонен использовать слишком быстро."
+      },
+      {
+        "en": "They utilize only after a full review.",
+        "ru": "Используется только после полного обзора."
+      }
+    ],
+    "colloc": "utilize carefully · utilize + N",
+    "pattern": "utilize + that",
+    "ex": "Managers utilize resources each week.",
+    "exRu": "Менеджеры используют ресурсы каждую неделю."
+  },
+  {
+    "word": "utterly",
+    "lemma": "utterly",
+    "ipa": "/ˈətərli/",
+    "pos": "adv",
+    "tr": "совершенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued utterly overnight.",
+        "ru": "Работа продолжалась всю ночь."
+      },
+      {
+        "en": "She answered utterly and clearly.",
+        "ru": "Она ответила совершенно и ясно."
+      },
+      {
+        "en": "The claim was utterly dismissed.",
+        "ru": "Иск был полностью отклонен."
+      }
+    ],
+    "colloc": "speak utterly · utterly",
+    "ex": "Work continued utterly overnight.",
+    "exRu": "Работа продолжалась всю ночь."
+  },
+  {
+    "word": "vacuum",
+    "lemma": "vacuum",
+    "ipa": "/ˈvækjum/",
+    "pos": "noun",
+    "tr": "вакуум",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking vacuum.",
+        "ru": "В докладе приводится поразительный вакуум."
+      },
+      {
+        "en": "Funding hinges on this vacuum.",
+        "ru": "Финансирование зависит от этого вакуума."
+      },
+      {
+        "en": "Students often confuse vacuum with related terms.",
+        "ru": "Студенты часто путают вакуум с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear vacuum · vacuum of",
+    "ex": "The report cites a striking vacuum.",
+    "exRu": "В докладе приводится поразительный вакуум."
+  },
+  {
+    "word": "vague",
+    "lemma": "vague",
+    "ipa": "/veɪg/",
+    "pos": "adj",
+    "tr": "расплывчатый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a vague strategy.",
+        "ru": "Это была неопределенная стратегия."
+      },
+      {
+        "en": "The tone grew vague.",
+        "ru": "Тон стал расплывчатым."
+      },
+      {
+        "en": "They rejected the vague proposal.",
+        "ru": "Они отвергли расплывчатое предложение."
+      }
+    ],
+    "colloc": "vague approach · remain vague",
+    "ex": "It was a vague strategy.",
+    "exRu": "Это была неопределенная стратегия."
+  },
+  {
+    "word": "validity",
+    "lemma": "validity",
+    "ipa": "/vəˈlɪdɪti/",
+    "pos": "noun",
+    "tr": "действительность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking validity.",
+        "ru": "В докладе приводится поразительная обоснованность."
+      },
+      {
+        "en": "Funding hinges on this validity.",
+        "ru": "Финансирование зависит от этой действительности."
+      },
+      {
+        "en": "Students often confuse validity with related terms.",
+        "ru": "Студенты часто путают валидность с родственными терминами."
+      }
+    ],
+    "colloc": "the validity · address the validity",
+    "ex": "The report cites a striking validity.",
+    "exRu": "В докладе приводится поразительная обоснованность."
+  },
+  {
+    "word": "vanish",
+    "lemma": "vanish",
+    "ipa": "/ˈvænɪʃ/",
+    "pos": "verb",
+    "tr": "исчезнуть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you vanish this for the board?",
+        "ru": "Можете ли вы убрать это для доски?"
+      },
+      {
+        "en": "Analysts vanish the numbers overnight.",
+        "ru": "Аналитики выводят цифры за ночь."
+      },
+      {
+        "en": "Do not vanish under political pressure.",
+        "ru": "Не исчезайте под политическим давлением."
+      }
+    ],
+    "colloc": "vanish carefully · vanish + N",
+    "pattern": "vanish + N",
+    "ex": "Can you vanish this for the board?",
+    "exRu": "Можете ли вы убрать это для доски?"
+  },
+  {
+    "word": "variable",
+    "lemma": "variable",
+    "ipa": "/ˈvɛriəbəl/",
+    "pos": "noun",
+    "tr": "переменная",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the variable closely.",
+        "ru": "Исследователи внимательно изучили переменную."
+      },
+      {
+        "en": "The variable shaped the final decision.",
+        "ru": "Переменная сформировала окончательное решение."
+      },
+      {
+        "en": "Without the variable, the argument collapses.",
+        "ru": "Без переменной аргумент рушится."
+      }
+    ],
+    "colloc": "clear variable · address the variable",
+    "ex": "Researchers examined the variable closely.",
+    "exRu": "Исследователи внимательно изучили переменную."
+  },
+  {
+    "word": "varied",
+    "lemma": "varied",
+    "ipa": "/ˈvɛrid/",
+    "pos": "adj",
+    "tr": "разнообразный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a varied strategy.",
+        "ru": "Это была разнообразная стратегия."
+      },
+      {
+        "en": "The tone grew varied.",
+        "ru": "Тон менялся."
+      },
+      {
+        "en": "They rejected the varied proposal.",
+        "ru": "Они отвергли это разнообразное предложение."
+      }
+    ],
+    "colloc": "varied tone · varied result",
+    "ex": "It was a varied strategy.",
+    "exRu": "Это была разнообразная стратегия."
+  },
+  {
+    "word": "vegetation",
+    "lemma": "vegetation",
+    "ipa": "/ˌvɛʤəˈteɪʃən/",
+    "pos": "noun",
+    "tr": "растительность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the vegetation closely.",
+        "ru": "Исследователи изучили растительность."
+      },
+      {
+        "en": "The vegetation shaped the final decision.",
+        "ru": "Растительность сформировала окончательное решение."
+      },
+      {
+        "en": "Without the vegetation, the argument collapses.",
+        "ru": "Без растительности аргумент рушится."
+      }
+    ],
+    "colloc": "the vegetation · address the vegetation",
+    "ex": "Researchers examined the vegetation closely.",
+    "exRu": "Исследователи изучили растительность."
+  },
+  {
+    "word": "vein",
+    "lemma": "vein",
+    "ipa": "/veɪn/",
+    "pos": "noun",
+    "tr": "вена",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking vein.",
+        "ru": "В докладе приводится поразительная вена."
+      },
+      {
+        "en": "Funding hinges on this vein.",
+        "ru": "Финансирование зависит от этой вены."
+      },
+      {
+        "en": "Students often confuse vein with related terms.",
+        "ru": "Студенты часто путают вену с родственными терминами."
+      }
+    ],
+    "colloc": "clear vein · address the vein",
+    "ex": "The report cites a striking vein.",
+    "exRu": "В докладе приводится поразительная вена."
+  },
+  {
+    "word": "venerate",
+    "lemma": "venerate",
+    "ipa": "/ˈvɛnərˌeɪt/",
+    "pos": "verb",
+    "tr": "поклоняться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please venerate the proposal carefully.",
+        "ru": "Пожалуйста, внимательно отнеситесь к предложению."
+      },
+      {
+        "en": "They refuse to venerate without evidence.",
+        "ru": "Они отказываются поклоняться без доказательств."
+      },
+      {
+        "en": "Leaders must venerate when stakes are high.",
+        "ru": "Лидеры должны почитать, когда ставки высоки."
+      }
+    ],
+    "colloc": "venerate the claim · refuse to venerate",
+    "pattern": "venerate + N",
+    "ex": "Please venerate the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно отнеситесь к предложению."
+  },
+  {
+    "word": "veneration",
+    "lemma": "veneration",
+    "ipa": "/ˌvɛnərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "Почитание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking veneration.",
+        "ru": "В докладе приводится поразительное почитание."
+      },
+      {
+        "en": "Funding hinges on this veneration.",
+        "ru": "Финансирование зависит от этого почитания."
+      },
+      {
+        "en": "Students often confuse veneration with related terms.",
+        "ru": "Студенты часто путают почитание с родственными понятиями."
+      }
+    ],
+    "colloc": "the veneration · address the veneration",
+    "ex": "The report cites a striking veneration.",
+    "exRu": "В докладе приводится поразительное почитание."
+  },
+  {
+    "word": "ventilate",
+    "lemma": "ventilate",
+    "ipa": "/ˈvɛntɪˌleɪt/",
+    "pos": "verb",
+    "tr": "проветривать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to ventilate with precision.",
+        "ru": "Она научилась вентилировать с точностью."
+      },
+      {
+        "en": "We will ventilate the policy next quarter.",
+        "ru": "Мы проведем политику в следующем квартале."
+      },
+      {
+        "en": "Critics ventilate the choice harshly.",
+        "ru": "Критики жестко проветривали выбор."
+      }
+    ],
+    "colloc": "ventilate pressure · ventilate + N",
+    "pattern": "ventilate (+ prep)",
+    "ex": "She learned to ventilate with precision.",
+    "exRu": "Она научилась вентилировать с точностью."
+  },
+  {
+    "word": "ventilation",
+    "lemma": "ventilation",
+    "ipa": "/ˌvɛntɪˈleɪʃən/",
+    "pos": "noun",
+    "tr": "вентиляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking ventilation.",
+        "ru": "В докладе упоминается поразительная вентиляция."
+      },
+      {
+        "en": "Funding hinges on this ventilation.",
+        "ru": "Финансирование зависит от этой вентиляции."
+      },
+      {
+        "en": "Students often confuse ventilation with related terms.",
+        "ru": "Студенты часто путают вентиляцию с соответствующими терминами."
+      }
+    ],
+    "colloc": "the ventilation · ventilation of",
+    "ex": "The report cites a striking ventilation.",
+    "exRu": "В докладе упоминается поразительная вентиляция."
+  },
+  {
+    "word": "venture",
+    "lemma": "venture",
+    "ipa": "/ˈvɛnʧər/",
+    "pos": "noun",
+    "tr": "предприятие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking venture.",
+        "ru": "В докладе приводится поразительное предприятие."
+      },
+      {
+        "en": "Funding hinges on this venture.",
+        "ru": "Финансирование зависит от этого предприятия."
+      },
+      {
+        "en": "Students often confuse venture with related terms.",
+        "ru": "Студенты часто путают предприятие с родственными терминами."
+      }
+    ],
+    "colloc": "the venture · venture of",
+    "ex": "The report cites a striking venture.",
+    "exRu": "В докладе приводится поразительное предприятие."
+  },
+  {
+    "word": "verandah",
+    "lemma": "verandah",
+    "ipa": "/verandah/",
+    "pos": "noun",
+    "tr": "веранда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple verandah.",
+        "ru": "Не было простой веранды."
+      },
+      {
+        "en": "Critics mocked the verandah.",
+        "ru": "Критики высмеяли веранду."
+      },
+      {
+        "en": "We need a working definition of verandah.",
+        "ru": "Нам нужно рабочее определение веранды."
+      }
+    ],
+    "colloc": "clear verandah · address the verandah",
+    "ex": "There was no simple verandah.",
+    "exRu": "Не было простой веранды."
+  },
+  {
+    "word": "verbal",
+    "lemma": "verbal",
+    "ipa": "/ˈvərbəl/",
+    "pos": "adj",
+    "tr": "словесный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a verbal strategy.",
+        "ru": "Это была словесная стратегия."
+      },
+      {
+        "en": "The tone grew verbal.",
+        "ru": "Тон стал вербальным."
+      },
+      {
+        "en": "They rejected the verbal proposal.",
+        "ru": "Они отвергли устное предложение."
+      }
+    ],
+    "colloc": "highly verbal · verbal result",
+    "ex": "It was a verbal strategy.",
+    "exRu": "Это была словесная стратегия."
+  },
+  {
+    "word": "verdict",
+    "lemma": "verdict",
+    "ipa": "/ˈvərdɪkt/",
+    "pos": "noun",
+    "tr": "приговор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking verdict.",
+        "ru": "В докладе приводится поразительный вердикт."
+      },
+      {
+        "en": "Funding hinges on this verdict.",
+        "ru": "Финансирование зависит от этого приговора."
+      },
+      {
+        "en": "Students often confuse verdict with related terms.",
+        "ru": "Студенты часто путают вердикт с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear verdict · verdict of",
+    "ex": "The report cites a striking verdict.",
+    "exRu": "В докладе приводится поразительный вердикт."
+  },
+  {
+    "word": "verify",
+    "lemma": "verify",
+    "ipa": "/ˈvɛrəˌfaɪ/",
+    "pos": "verb",
+    "tr": "для проверки",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers verify resources each week.",
+        "ru": "Менеджеры проверяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to verify too quickly.",
+        "ru": "Он слишком быстро проверяет."
+      },
+      {
+        "en": "They verify only after a full review.",
+        "ru": "Они проверяются только после полного обзора."
+      }
+    ],
+    "colloc": "verify the claim · verify + N",
+    "pattern": "verify + to-INF",
+    "ex": "Managers verify resources each week.",
+    "exRu": "Менеджеры проверяют ресурсы каждую неделю."
+  },
+  {
+    "word": "versatile",
+    "lemma": "versatile",
+    "ipa": "/ˈvərsətəl/",
+    "pos": "adj",
+    "tr": "универсальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less versatile option.",
+        "ru": "Выберите менее универсальный вариант."
+      },
+      {
+        "en": "The design feels versatile.",
+        "ru": "Дизайн кажется универсальным."
+      },
+      {
+        "en": "A versatile policy risks backlash.",
+        "ru": "Универсальная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly versatile · remain versatile",
+    "ex": "Choose a less versatile option.",
+    "exRu": "Выберите менее универсальный вариант."
+  },
+  {
+    "word": "versatility",
+    "lemma": "versatility",
+    "ipa": "/ˌvərsəˈtɪləti/",
+    "pos": "noun",
+    "tr": "универсальность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one versatility.",
+        "ru": "Ее карьера обернулась одной универсальностью."
+      },
+      {
+        "en": "Public debate ignored the versatility.",
+        "ru": "Публичные дебаты игнорировали универсальность."
+      },
+      {
+        "en": "Document every versatility in the log.",
+        "ru": "Документируйте каждую универсальность в журнале."
+      }
+    ],
+    "colloc": "clear versatility · versatility of",
+    "ex": "Her career turned on one versatility.",
+    "exRu": "Ее карьера обернулась одной универсальностью."
+  },
+  {
+    "word": "verse",
+    "lemma": "verse",
+    "ipa": "/vərs/",
+    "pos": "noun",
+    "tr": "Откровение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple verse.",
+        "ru": "Простого стиха не было."
+      },
+      {
+        "en": "Critics mocked the verse.",
+        "ru": "Критики высмеяли стих."
+      },
+      {
+        "en": "We need a working definition of verse.",
+        "ru": "Нам нужно рабочее определение стиха."
+      }
+    ],
+    "colloc": "the verse · verse of",
+    "ex": "There was no simple verse.",
+    "exRu": "Простого стиха не было."
+  },
+  {
+    "word": "versus",
+    "lemma": "versus",
+    "ipa": "/ˈvərsəz/",
+    "pos": "conj",
+    "tr": "против",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The fix worked, versus slowly.",
+        "ru": "Ремонт сработал, против медленно."
+      },
+      {
+        "en": "He agreed, versus with doubts.",
+        "ru": "Он согласился с сомнениями."
+      },
+      {
+        "en": "Useful, versus imperfect.",
+        "ru": "Полезно, против несовершенства."
+      }
+    ],
+    "colloc": "versus",
+    "ex": "The fix worked, versus slowly.",
+    "exRu": "Ремонт сработал, против медленно."
+  },
+  {
+    "word": "verve",
+    "lemma": "verve",
+    "ipa": "/vərv/",
+    "pos": "noun",
+    "tr": "живость; энергия (в исполнении)",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking verve.",
+        "ru": "В докладе приводится поразительный аргумент."
+      },
+      {
+        "en": "Funding hinges on this verve.",
+        "ru": "Финансирование зависит от этого параметра."
+      },
+      {
+        "en": "Students often confuse verve with related terms.",
+        "ru": "Студенты часто путают живость исполнения с похожими понятиями."
+      }
+    ],
+    "colloc": "clear verve · verve of",
+    "ex": "The report cites a striking verve.",
+    "exRu": "В докладе приводится поразительный аргумент."
+  },
+  {
+    "word": "vessel",
+    "lemma": "vessel",
+    "ipa": "/ˈvɛsəl/",
+    "pos": "noun",
+    "tr": "судно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the vessel.",
+        "ru": "Они недооценили судно."
+      },
+      {
+        "en": "A clear vessel emerged from the data.",
+        "ru": "Из данных вышел прозрачный сосуд."
+      },
+      {
+        "en": "Address the vessel before it grows.",
+        "ru": "Обращайтесь к судну, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear vessel · vessel of",
+    "ex": "They underestimated the vessel.",
+    "exRu": "Они недооценили судно."
+  },
+  {
+    "word": "veteran",
+    "lemma": "veteran",
+    "ipa": "/ˈvɛtərən/",
+    "pos": "noun",
+    "tr": "ветеран",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the veteran closely.",
+        "ru": "Исследователи внимательно изучили ветерана."
+      },
+      {
+        "en": "The veteran shaped the final decision.",
+        "ru": "Ветеран принял окончательное решение."
+      },
+      {
+        "en": "Without the veteran, the argument collapses.",
+        "ru": "Без ветерана спор рушится."
+      }
+    ],
+    "colloc": "clear veteran · address the veteran",
+    "ex": "Researchers examined the veteran closely.",
+    "exRu": "Исследователи внимательно изучили ветерана."
+  },
+  {
+    "word": "vibrant",
+    "lemma": "vibrant",
+    "ipa": "/ˈvaɪbrənt/",
+    "pos": "adj",
+    "tr": "яркий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less vibrant option.",
+        "ru": "Выберите менее яркий вариант."
+      },
+      {
+        "en": "The design feels vibrant.",
+        "ru": "Дизайн кажется ярким."
+      },
+      {
+        "en": "A vibrant policy risks backlash.",
+        "ru": "Яркая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly vibrant · vibrant result",
+    "ex": "Choose a less vibrant option.",
+    "exRu": "Выберите менее яркий вариант."
+  },
+  {
+    "word": "vice",
+    "lemma": "vice",
+    "ipa": "/vaɪs/",
+    "pos": "noun",
+    "tr": "Порок",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the vice closely.",
+        "ru": "Исследователи внимательно изучили порок."
+      },
+      {
+        "en": "The vice shaped the final decision.",
+        "ru": "Порок определил окончательное решение."
+      },
+      {
+        "en": "Without the vice, the argument collapses.",
+        "ru": "Без порока аргумент рухнет."
+      }
+    ],
+    "colloc": "clear vice · address the vice",
+    "ex": "Researchers examined the vice closely.",
+    "exRu": "Исследователи внимательно изучили порок."
+  },
+  {
+    "word": "vicious",
+    "lemma": "vicious",
+    "ipa": "/ˈvɪʃəs/",
+    "pos": "adj",
+    "tr": "порочный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A vicious approach may help.",
+        "ru": "Порочный подход может помочь."
+      },
+      {
+        "en": "His answer sounded vicious.",
+        "ru": "Его ответ звучал порочно."
+      },
+      {
+        "en": "Avoid vicious claims without proof.",
+        "ru": "Избегайте порочных заявлений без доказательств."
+      }
+    ],
+    "colloc": "vicious approach · vicious result",
+    "ex": "A vicious approach may help.",
+    "exRu": "Порочный подход может помочь."
+  },
+  {
+    "word": "viciously",
+    "lemma": "viciously",
+    "ipa": "/ˈvɪʃəsli/",
+    "pos": "adv",
+    "tr": "злобно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample viciously.",
+        "ru": "Отнеситесь к выборке жестоко."
+      },
+      {
+        "en": "Support arrived viciously.",
+        "ru": "Поддержка пришла жестоко."
+      },
+      {
+        "en": "The plan failed viciously.",
+        "ru": "План провалился злобно."
+      }
+    ],
+    "colloc": "speak viciously · viciously",
+    "ex": "Handle the sample viciously.",
+    "exRu": "Отнеситесь к выборке жестоко."
+  },
+  {
+    "word": "victorious",
+    "lemma": "victorious",
+    "ipa": "/vɪkˈtɔriəs/",
+    "pos": "adj",
+    "tr": "победивший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a victorious strategy.",
+        "ru": "Это была победоносная стратегия."
+      },
+      {
+        "en": "The tone grew victorious.",
+        "ru": "Тон стал победным."
+      },
+      {
+        "en": "They rejected the victorious proposal.",
+        "ru": "Они отвергли победоносное предложение."
+      }
+    ],
+    "colloc": "victorious tone · remain victorious",
+    "ex": "It was a victorious strategy.",
+    "exRu": "Это была победоносная стратегия."
+  },
+  {
+    "word": "victoriously",
+    "lemma": "victoriously",
+    "ipa": "/victoriously/",
+    "pos": "adv",
+    "tr": "победный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued victoriously overnight.",
+        "ru": "Работа продолжалась победоносно всю ночь."
+      },
+      {
+        "en": "She answered victoriously and clearly.",
+        "ru": "Она ответила победоносно и ясно."
+      },
+      {
+        "en": "The claim was victoriously dismissed.",
+        "ru": "Иск был победоносно отклонен."
+      }
+    ],
+    "colloc": "respond victoriously · victoriously",
+    "ex": "Work continued victoriously overnight.",
+    "exRu": "Работа продолжалась победоносно всю ночь."
+  },
+  {
+    "word": "violate",
+    "lemma": "violate",
+    "ipa": "/ˈvaɪəleɪt/",
+    "pos": "verb",
+    "tr": "нарушать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers violate resources each week.",
+        "ru": "Менеджеры нарушают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to violate too quickly.",
+        "ru": "Он слишком быстро нарушает."
+      },
+      {
+        "en": "They violate only after a full review.",
+        "ru": "Они нарушаются только после полного пересмотра."
+      }
+    ],
+    "colloc": "violate the claim · violate + N",
+    "pattern": "violate + to-INF",
+    "ex": "Managers violate resources each week.",
+    "exRu": "Менеджеры нарушают ресурсы каждую неделю."
+  },
+  {
+    "word": "violation",
+    "lemma": "violation",
+    "ipa": "/vaɪəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "нарушение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple violation.",
+        "ru": "Простого нарушения не было."
+      },
+      {
+        "en": "Critics mocked the violation.",
+        "ru": "Критики высмеяли нарушение."
+      },
+      {
+        "en": "We need a working definition of violation.",
+        "ru": "Нам нужно рабочее определение нарушения."
+      }
+    ],
+    "colloc": "clear violation · address the violation",
+    "ex": "There was no simple violation.",
+    "exRu": "Простого нарушения не было."
+  },
+  {
+    "word": "violet",
+    "lemma": "violet",
+    "ipa": "/ˈvaɪəlɪt/",
+    "pos": "adj",
+    "tr": "фиолетовый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less violet option.",
+        "ru": "Выберите менее фиолетовый вариант."
+      },
+      {
+        "en": "The design feels violet.",
+        "ru": "Дизайн кажется фиолетовым."
+      },
+      {
+        "en": "A violet policy risks backlash.",
+        "ru": "Фиолетовая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "violet approach · violet result",
+    "ex": "Choose a less violet option.",
+    "exRu": "Выберите менее фиолетовый вариант."
+  },
+  {
+    "word": "virtue",
+    "lemma": "virtue",
+    "ipa": "/ˈvərʧu/",
+    "pos": "noun",
+    "tr": "добродетель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the virtue closely.",
+        "ru": "Исследователи внимательно изучили добродетель."
+      },
+      {
+        "en": "The virtue shaped the final decision.",
+        "ru": "Добродетель сформировала окончательное решение."
+      },
+      {
+        "en": "Without the virtue, the argument collapses.",
+        "ru": "Без добродетели аргумент рушится."
+      }
+    ],
+    "colloc": "the virtue · virtue of",
+    "ex": "Researchers examined the virtue closely.",
+    "exRu": "Исследователи внимательно изучили добродетель."
+  }
+]

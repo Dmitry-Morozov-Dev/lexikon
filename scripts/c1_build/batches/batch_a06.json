@@ -1,0 +1,1158 @@
+[
+  {
+    "word": "declination",
+    "lemma": "declination",
+    "ipa": "/declination/",
+    "pos": "noun",
+    "tr": "склонение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the declination closely.",
+        "ru": "Исследователи внимательно изучили склонение."
+      },
+      {
+        "en": "The declination shaped the final decision.",
+        "ru": "Склонение сформировало окончательное решение."
+      },
+      {
+        "en": "Without the declination, the argument collapses.",
+        "ru": "Без склонения аргумент рушится."
+      }
+    ],
+    "colloc": "clear declination · address the declination"
+  },
+  {
+    "word": "deficient",
+    "lemma": "deficient",
+    "ipa": "/dɪˈfɪʃənt/",
+    "pos": "adj",
+    "tr": "недостаточный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly deficient.",
+        "ru": "Доказательства едва ли недостаточны."
+      },
+      {
+        "en": "She remained deficient under stress.",
+        "ru": "Она оставалась недостаточной в условиях стресса."
+      },
+      {
+        "en": "Results looked only deficient.",
+        "ru": "Результаты выглядели только неудовлетворительными."
+      }
+    ],
+    "colloc": "deficient tone · remain deficient"
+  },
+  {
+    "word": "deficiently",
+    "lemma": "deficiently",
+    "ipa": "/deficiently/",
+    "pos": "adv",
+    "tr": "недостаточно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample deficiently.",
+        "ru": "Недостаточно обработать образец."
+      },
+      {
+        "en": "Support arrived deficiently.",
+        "ru": "Поддержка пришла недостаточно."
+      },
+      {
+        "en": "The plan failed deficiently.",
+        "ru": "План провалился недостаточно."
+      }
+    ],
+    "colloc": "speak deficiently · deficiently"
+  },
+  {
+    "word": "degradation",
+    "lemma": "degradation",
+    "ipa": "/ˌdɛgrəˈdeɪʃən/",
+    "pos": "noun",
+    "tr": "деградация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the degradation.",
+        "ru": "Они недооценили деградацию."
+      },
+      {
+        "en": "A clear degradation emerged from the data.",
+        "ru": "Из этих данных возникла четкая деградация."
+      },
+      {
+        "en": "Address the degradation before it grows.",
+        "ru": "Устранение деградации до ее роста."
+      }
+    ],
+    "colloc": "clear degradation · address the degradation"
+  },
+  {
+    "word": "degrade",
+    "lemma": "degrade",
+    "ipa": "/dɪˈgreɪd/",
+    "pos": "verb",
+    "tr": "деградировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers degrade resources each week.",
+        "ru": "Менеджеры сокращают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to degrade too quickly.",
+        "ru": "Он слишком быстро деградирует."
+      },
+      {
+        "en": "They degrade only after a full review.",
+        "ru": "Они ухудшаются только после полного обзора."
+      }
+    ],
+    "colloc": "degrade pressure · degrade + N",
+    "pattern": "degrade + to-INF"
+  },
+  {
+    "word": "degrading",
+    "lemma": "degrading",
+    "ipa": "/dɪˈgreɪdɪŋ/",
+    "pos": "adj",
+    "tr": "унижающий достоинство",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A degrading approach may help.",
+        "ru": "Унижающий подход может помочь."
+      },
+      {
+        "en": "His answer sounded degrading.",
+        "ru": "Его ответ звучал унизительно."
+      },
+      {
+        "en": "Avoid degrading claims without proof.",
+        "ru": "Избегайте унижающих достоинство претензий без доказательств."
+      }
+    ],
+    "colloc": "highly degrading · degrading result"
+  },
+  {
+    "word": "delicatessen",
+    "lemma": "delicatessen",
+    "ipa": "/ˌdɛlɪkəˈtɛsən/",
+    "pos": "noun",
+    "tr": "деликатес",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one delicatessen.",
+        "ru": "Ее карьера перевернулась на одном деликатесе."
+      },
+      {
+        "en": "Public debate ignored the delicatessen.",
+        "ru": "Публичные дебаты игнорировали деликатесы."
+      },
+      {
+        "en": "Document every delicatessen in the log.",
+        "ru": "Документируйте каждый деликатес в журнале."
+      }
+    ],
+    "colloc": "the delicatessen · delicatessen of"
+  },
+  {
+    "word": "demise",
+    "lemma": "demise",
+    "ipa": "/dɪˈmaɪz/",
+    "pos": "noun",
+    "tr": "кончина",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one demise.",
+        "ru": "Ее карьера завершилась одной кончиной."
+      },
+      {
+        "en": "Public debate ignored the demise.",
+        "ru": "Общественные дебаты проигнорировали кончину."
+      },
+      {
+        "en": "Document every demise in the log.",
+        "ru": "Документируйте каждую смерть в журнале."
+      }
+    ],
+    "colloc": "clear demise · address the demise"
+  },
+  {
+    "word": "demo",
+    "lemma": "demo",
+    "ipa": "/ˈdɛmoʊ/",
+    "pos": "noun",
+    "tr": "демонстрационный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the demo closely.",
+        "ru": "Исследователи внимательно изучили демо."
+      },
+      {
+        "en": "The demo shaped the final decision.",
+        "ru": "Демо сформировало окончательное решение."
+      },
+      {
+        "en": "Without the demo, the argument collapses.",
+        "ru": "Без демо, аргумент рухнет."
+      }
+    ],
+    "colloc": "clear demo · demo of"
+  },
+  {
+    "word": "demographic",
+    "lemma": "demographic",
+    "ipa": "/ˌdɛməˈgræfɪk/",
+    "pos": "adj",
+    "tr": "демографический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a demographic strategy.",
+        "ru": "Это была демографическая стратегия."
+      },
+      {
+        "en": "The tone grew demographic.",
+        "ru": "Тон стал демографическим."
+      },
+      {
+        "en": "They rejected the demographic proposal.",
+        "ru": "Они отвергли демографическое предложение."
+      }
+    ],
+    "colloc": "demographic tone · demographic result"
+  },
+  {
+    "word": "demographically",
+    "lemma": "demographically",
+    "ipa": "/ˌdɛməˈgræfɪkli/",
+    "pos": "adv",
+    "tr": "демографически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued demographically overnight.",
+        "ru": "Работа продолжалась демографически в одночасье."
+      },
+      {
+        "en": "She answered demographically and clearly.",
+        "ru": "Она ответила демографически и четко."
+      },
+      {
+        "en": "The claim was demographically dismissed.",
+        "ru": "Иск был демографически отклонен."
+      }
+    ],
+    "colloc": "act demographically · demographically"
+  },
+  {
+    "word": "demography",
+    "lemma": "demography",
+    "ipa": "/dɪˈmɑgrəfi/",
+    "pos": "noun",
+    "tr": "демография",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple demography.",
+        "ru": "Простой демографии не было."
+      },
+      {
+        "en": "Critics mocked the demography.",
+        "ru": "Критики высмеивали демографию."
+      },
+      {
+        "en": "We need a working definition of demography.",
+        "ru": "Нам нужно рабочее определение демографии."
+      }
+    ],
+    "colloc": "clear demography · address the demography"
+  },
+  {
+    "word": "demolition",
+    "lemma": "demolition",
+    "ipa": "/ˌdɛməˈlɪʃən/",
+    "pos": "noun",
+    "tr": "снос",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple demolition.",
+        "ru": "Совсем не просто."
+      },
+      {
+        "en": "Critics mocked the demolition.",
+        "ru": "Критики высмеяли снос."
+      },
+      {
+        "en": "We need a working definition of demolition.",
+        "ru": "Нам нужно рабочее определение сноса."
+      }
+    ],
+    "colloc": "clear demolition · demolition of"
+  },
+  {
+    "word": "demystification",
+    "lemma": "demystification",
+    "ipa": "/demystification/",
+    "pos": "noun",
+    "tr": "демистификации",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one demystification.",
+        "ru": "Ее карьера превратилась в одну демистификацию."
+      },
+      {
+        "en": "Public debate ignored the demystification.",
+        "ru": "Общественные дебаты проигнорировали демистификацию."
+      },
+      {
+        "en": "Document every demystification in the log.",
+        "ru": "Документируйте каждую демистификацию в журнале."
+      }
+    ],
+    "colloc": "clear demystification · demystification of"
+  },
+  {
+    "word": "demystify",
+    "lemma": "demystify",
+    "ipa": "/diˈmɪstəˌfaɪ/",
+    "pos": "verb",
+    "tr": "демистифицировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers demystify resources each week.",
+        "ru": "Менеджеры демистифицируют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to demystify too quickly.",
+        "ru": "Он слишком быстро демистифицирует."
+      },
+      {
+        "en": "They demystify only after a full review.",
+        "ru": "Они демистифицируются только после полного обзора."
+      }
+    ],
+    "colloc": "demystify carefully · refuse to demystify",
+    "pattern": "demystify + that"
+  },
+  {
+    "word": "denotation",
+    "lemma": "denotation",
+    "ipa": "/denotation/",
+    "pos": "noun",
+    "tr": "обозначение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one denotation.",
+        "ru": "Ее карьера перевернулась на одно обозначение."
+      },
+      {
+        "en": "Public debate ignored the denotation.",
+        "ru": "Общественные дебаты проигнорировали обозначение."
+      },
+      {
+        "en": "Document every denotation in the log.",
+        "ru": "Документируйте каждое обозначение в журнале."
+      }
+    ],
+    "colloc": "the denotation · denotation of"
+  },
+  {
+    "word": "denote",
+    "lemma": "denote",
+    "ipa": "/dɪˈnoʊt/",
+    "pos": "noun",
+    "tr": "обозначать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the denote closely.",
+        "ru": "Исследователи внимательно изучили обозначение."
+      },
+      {
+        "en": "The denote shaped the final decision.",
+        "ru": "Это обозначение сформировало окончательное решение."
+      },
+      {
+        "en": "Without the denote, the argument collapses.",
+        "ru": "Без деноминации аргумент рушится."
+      }
+    ],
+    "colloc": "the denote · denote of"
+  },
+  {
+    "word": "denunciation",
+    "lemma": "denunciation",
+    "ipa": "/dɪˌnənsiˈeɪʃən/",
+    "pos": "noun",
+    "tr": "денонсация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the denunciation.",
+        "ru": "Они недооценили донос."
+      },
+      {
+        "en": "A clear denunciation emerged from the data.",
+        "ru": "Из данных вытекала четкая денонсация."
+      },
+      {
+        "en": "Address the denunciation before it grows.",
+        "ru": "Обращайтесь к денонсации до того, как она вырастет."
+      }
+    ],
+    "colloc": "clear denunciation · address the denunciation"
+  },
+  {
+    "word": "depiction",
+    "lemma": "depiction",
+    "ipa": "/dɪˈpɪkʃən/",
+    "pos": "noun",
+    "tr": "изображение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking depiction.",
+        "ru": "В докладе приводится поразительное изображение."
+      },
+      {
+        "en": "Funding hinges on this depiction.",
+        "ru": "Финансирование зависит от этого изображения."
+      },
+      {
+        "en": "Students often confuse depiction with related terms.",
+        "ru": "Студенты часто путают изображение с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear depiction · address the depiction"
+  },
+  {
+    "word": "depraved",
+    "lemma": "depraved",
+    "ipa": "/diˈpreɪvd/",
+    "pos": "adj",
+    "tr": "развращенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A depraved approach may help.",
+        "ru": "Развратный подход может помочь."
+      },
+      {
+        "en": "His answer sounded depraved.",
+        "ru": "Его ответ звучал развратно."
+      },
+      {
+        "en": "Avoid depraved claims without proof.",
+        "ru": "Избегайте развратных утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly depraved · remain depraved"
+  },
+  {
+    "word": "depravity",
+    "lemma": "depravity",
+    "ipa": "/dɪˈprævəti/",
+    "pos": "noun",
+    "tr": "развращенность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking depravity.",
+        "ru": "В докладе приводится поразительная порочность."
+      },
+      {
+        "en": "Funding hinges on this depravity.",
+        "ru": "Финансирование зависит от этой порочности."
+      },
+      {
+        "en": "Students often confuse depravity with related terms.",
+        "ru": "Студенты часто путают порочность со связанными терминами."
+      }
+    ],
+    "colloc": "the depravity · address the depravity"
+  },
+  {
+    "word": "deprecate",
+    "lemma": "deprecate",
+    "ipa": "/ˈdɛprəˌkeɪt/",
+    "pos": "verb",
+    "tr": "обесценивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to deprecate with precision.",
+        "ru": "Она научилась осуждать с точностью."
+      },
+      {
+        "en": "We will deprecate the policy next quarter.",
+        "ru": "Мы обесценим политику в следующем квартале."
+      },
+      {
+        "en": "Critics deprecate the choice harshly.",
+        "ru": "Критики жестко осуждают выбор."
+      }
+    ],
+    "colloc": "deprecate the claim · deprecate + N",
+    "pattern": "deprecate + to-INF"
+  },
+  {
+    "word": "deprecatingly",
+    "lemma": "deprecatingly",
+    "ipa": "/deprecatingly/",
+    "pos": "adv",
+    "tr": "унизительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample deprecatingly.",
+        "ru": "Смысл в том, чтобы сделать так, чтобы сломать голову."
+      },
+      {
+        "en": "Support arrived deprecatingly.",
+        "ru": "Поддержка пришла унизительно."
+      },
+      {
+        "en": "The plan failed deprecatingly.",
+        "ru": "План провалился унизительно."
+      }
+    ],
+    "colloc": "respond deprecatingly · deprecatingly"
+  },
+  {
+    "word": "depress",
+    "lemma": "depress",
+    "ipa": "/dɪˈprɛs/",
+    "pos": "noun",
+    "tr": "Депрессия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking depress.",
+        "ru": "В докладе приводится поразительная депрессия."
+      },
+      {
+        "en": "Funding hinges on this depress.",
+        "ru": "Финансирование зависит от этой депрессии."
+      },
+      {
+        "en": "Students often confuse depress with related terms.",
+        "ru": "Студенты часто путают депрессию с родственными терминами."
+      }
+    ],
+    "colloc": "clear depress · address the depress"
+  },
+  {
+    "word": "depressive",
+    "lemma": "depressive",
+    "ipa": "/dɪˈprɛsɪv/",
+    "pos": "adj",
+    "tr": "депрессивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less depressive option.",
+        "ru": "Выбирайте менее депрессивный вариант."
+      },
+      {
+        "en": "The design feels depressive.",
+        "ru": "Дизайн кажется депрессивным."
+      },
+      {
+        "en": "A depressive policy risks backlash.",
+        "ru": "Депрессивная политика может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "depressive tone · depressive result"
+  },
+  {
+    "word": "deprivation",
+    "lemma": "deprivation",
+    "ipa": "/ˌdɛprəˈveɪʃən/",
+    "pos": "noun",
+    "tr": "лишение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the deprivation.",
+        "ru": "Они недооценили результат."
+      },
+      {
+        "en": "A clear deprivation emerged from the data.",
+        "ru": "Из этих данных возникла явная депривация."
+      },
+      {
+        "en": "Address the deprivation before it grows.",
+        "ru": "Устраните лишения, прежде чем они вырастут."
+      }
+    ],
+    "colloc": "the deprivation · deprivation of"
+  },
+  {
+    "word": "derelict",
+    "lemma": "derelict",
+    "ipa": "/ˈdɛrəˌlɪkt/",
+    "pos": "adj",
+    "tr": "заброшенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly derelict.",
+        "ru": "Доказательства вряд ли опровергнуты."
+      },
+      {
+        "en": "She remained derelict under stress.",
+        "ru": "Она осталась в состоянии стресса."
+      },
+      {
+        "en": "Results looked only derelict.",
+        "ru": "Результаты выглядели только заброшенными."
+      }
+    ],
+    "colloc": "highly derelict · derelict result"
+  },
+  {
+    "word": "derision",
+    "lemma": "derision",
+    "ipa": "/dərˈɪʒən/",
+    "pos": "noun",
+    "tr": "насмешка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one derision.",
+        "ru": "Ее карьера переросла в одну насмешку."
+      },
+      {
+        "en": "Public debate ignored the derision.",
+        "ru": "Публичные дебаты проигнорировали насмешки."
+      },
+      {
+        "en": "Document every derision in the log.",
+        "ru": "Документируйте каждую насмешку в журнале."
+      }
+    ],
+    "colloc": "clear derision · derision of"
+  },
+  {
+    "word": "derisive",
+    "lemma": "derisive",
+    "ipa": "/dərˈɪsɪv/",
+    "pos": "adj",
+    "tr": "насмешливый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly derisive.",
+        "ru": "Доказательства вряд ли насмешливы."
+      },
+      {
+        "en": "She remained derisive under stress.",
+        "ru": "Она оставалась насмешливой в стрессе."
+      },
+      {
+        "en": "Results looked only derisive.",
+        "ru": "Результаты выглядели только насмешливо."
+      }
+    ],
+    "colloc": "derisive tone · remain derisive"
+  },
+  {
+    "word": "derisively",
+    "lemma": "derisively",
+    "ipa": "/dərˈɪsɪvli/",
+    "pos": "adv",
+    "tr": "насмешливо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke derisively about the issue.",
+        "ru": "Она насмешливо говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded derisively.",
+        "ru": "Команда отреагировала насмешливо."
+      },
+      {
+        "en": "Progress moved derisively after the fix.",
+        "ru": "Прогресс дрогнул после исправления."
+      }
+    ],
+    "colloc": "act derisively · derisively"
+  },
+  {
+    "word": "desertion",
+    "lemma": "desertion",
+    "ipa": "/dɪˈzərʃən/",
+    "pos": "noun",
+    "tr": "дезертирство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the desertion closely.",
+        "ru": "Исследователи внимательно изучили дезертирство."
+      },
+      {
+        "en": "The desertion shaped the final decision.",
+        "ru": "Дезертирство сформировало окончательное решение."
+      },
+      {
+        "en": "Without the desertion, the argument collapses.",
+        "ru": "Без дезертирства аргумент рухнет."
+      }
+    ],
+    "colloc": "the desertion · desertion of"
+  },
+  {
+    "word": "deterrent",
+    "lemma": "deterrent",
+    "ipa": "/dɪˈtərrənt/",
+    "pos": "noun",
+    "tr": "сдерживающий фактор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one deterrent.",
+        "ru": "Ее карьера обернулась одним сдерживающим фактором."
+      },
+      {
+        "en": "Public debate ignored the deterrent.",
+        "ru": "Общественные дебаты проигнорировали сдерживание."
+      },
+      {
+        "en": "Document every deterrent in the log.",
+        "ru": "Документируйте все сдерживающие факторы в журнале."
+      }
+    ],
+    "colloc": "the deterrent · address the deterrent"
+  },
+  {
+    "word": "detest",
+    "lemma": "detest",
+    "ipa": "/dɪˈtɛst/",
+    "pos": "verb",
+    "tr": "ненавидеть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to detest with precision.",
+        "ru": "Она научилась ненавидеть с точностью."
+      },
+      {
+        "en": "We will detest the policy next quarter.",
+        "ru": "Мы будем ненавидеть политику в следующем квартале."
+      },
+      {
+        "en": "Critics detest the choice harshly.",
+        "ru": "Критики резко ненавидят этот выбор."
+      }
+    ],
+    "colloc": "detest carefully · refuse to detest",
+    "pattern": "detest + N"
+  },
+  {
+    "word": "detestable",
+    "lemma": "detestable",
+    "ipa": "/detestable/",
+    "pos": "adj",
+    "tr": "отвратительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A detestable approach may help.",
+        "ru": "Отвратительный подход может помочь."
+      },
+      {
+        "en": "His answer sounded detestable.",
+        "ru": "Его ответ звучал отвратительно."
+      },
+      {
+        "en": "Avoid detestable claims without proof.",
+        "ru": "Избегайте отвратительных утверждений без доказательств."
+      }
+    ],
+    "colloc": "detestable tone · detestable result"
+  },
+  {
+    "word": "detract",
+    "lemma": "detract",
+    "ipa": "/dɪˈtrækt/",
+    "pos": "verb",
+    "tr": "отвлекать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to detract with precision.",
+        "ru": "Она научилась преуменьшать точность."
+      },
+      {
+        "en": "We will detract the policy next quarter.",
+        "ru": "Мы отменим эту политику в следующем квартале."
+      },
+      {
+        "en": "Critics detract the choice harshly.",
+        "ru": "Критики резко умаляют выбор."
+      }
+    ],
+    "colloc": "detract the claim · refuse to detract",
+    "pattern": "detract + that"
+  },
+  {
+    "word": "detriment",
+    "lemma": "detriment",
+    "ipa": "/ˈdɛtrəmənt/",
+    "pos": "noun",
+    "tr": "в ущерб",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one detriment.",
+        "ru": "Ее карьера обернулась одним ударом."
+      },
+      {
+        "en": "Public debate ignored the detriment.",
+        "ru": "Общественные дебаты проигнорировали ущерб."
+      },
+      {
+        "en": "Document every detriment in the log.",
+        "ru": "Документируйте каждый ущерб в журнале."
+      }
+    ],
+    "colloc": "clear detriment · detriment of"
+  },
+  {
+    "word": "detrimental",
+    "lemma": "detrimental",
+    "ipa": "/ˌdɛtrəˈmɛnəl/",
+    "pos": "adj",
+    "tr": "вредный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A detrimental approach may help.",
+        "ru": "Вредный подход может помочь."
+      },
+      {
+        "en": "His answer sounded detrimental.",
+        "ru": "Его ответ был пагубным."
+      },
+      {
+        "en": "Avoid detrimental claims without proof.",
+        "ru": "Избегайте негативных заявлений без доказательств."
+      }
+    ],
+    "colloc": "highly detrimental · detrimental result"
+  },
+  {
+    "word": "detrimentally",
+    "lemma": "detrimentally",
+    "ipa": "/detrimentally/",
+    "pos": "adv",
+    "tr": "губительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued detrimentally for reform.",
+        "ru": "Он выступал против реформ."
+      },
+      {
+        "en": "The rule was applied detrimentally.",
+        "ru": "Правило применялось пагубно."
+      },
+      {
+        "en": "Costs rose detrimentally last year.",
+        "ru": "Затраты в прошлом году пагубно выросли."
+      }
+    ],
+    "colloc": "respond detrimentally · detrimentally"
+  },
+  {
+    "word": "detritus",
+    "lemma": "detritus",
+    "ipa": "/ˈdɛtrətəs/",
+    "pos": "noun",
+    "tr": "детрит",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one detritus.",
+        "ru": "Ее карьера обернулась одним детритом."
+      },
+      {
+        "en": "Public debate ignored the detritus.",
+        "ru": "Общественные дебаты проигнорировали детриты."
+      },
+      {
+        "en": "Document every detritus in the log.",
+        "ru": "Документируйте каждый детрит в журнале."
+      }
+    ],
+    "colloc": "the detritus · address the detritus"
+  },
+  {
+    "word": "deviant",
+    "lemma": "deviant",
+    "ipa": "/ˈdiviənt/",
+    "pos": "noun",
+    "tr": "отклоняющийся",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the deviant.",
+        "ru": "Они недооценили девиантность."
+      },
+      {
+        "en": "A clear deviant emerged from the data.",
+        "ru": "Явный отклонение появилось из данных."
+      },
+      {
+        "en": "Address the deviant before it grows.",
+        "ru": "Обращайтесь к девианту, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear deviant · address the deviant"
+  },
+  {
+    "word": "deviantly",
+    "lemma": "deviantly",
+    "ipa": "/deviantly/",
+    "pos": "adv",
+    "tr": "девиантно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued deviantly for reform.",
+        "ru": "Он уклончиво выступал за реформы."
+      },
+      {
+        "en": "The rule was applied deviantly.",
+        "ru": "Правило применялось девиантно."
+      },
+      {
+        "en": "Costs rose deviantly last year.",
+        "ru": "Затраты в прошлом году росли девиантно."
+      }
+    ],
+    "colloc": "act deviantly · deviantly"
+  },
+  {
+    "word": "deviate",
+    "lemma": "deviate",
+    "ipa": "/ˈdiviˌeɪt/",
+    "pos": "noun",
+    "tr": "отклонение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking deviate.",
+        "ru": "В докладе приводится поразительное отклонение."
+      },
+      {
+        "en": "Funding hinges on this deviate.",
+        "ru": "Финансирование зависит от этого отклонения."
+      },
+      {
+        "en": "Students often confuse deviate with related terms.",
+        "ru": "Студенты часто путают отклонения с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear deviate · deviate of"
+  },
+  {
+    "word": "devotee",
+    "lemma": "devotee",
+    "ipa": "/ˌdɛvəˈti/",
+    "pos": "noun",
+    "tr": "преданный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one devotee.",
+        "ru": "Ее карьера перевернулась на одного преданного."
+      },
+      {
+        "en": "Public debate ignored the devotee.",
+        "ru": "Публичные дебаты игнорировали преданного."
+      },
+      {
+        "en": "Document every devotee in the log.",
+        "ru": "Записывайте каждого преданного в журнал."
+      }
+    ],
+    "colloc": "the devotee · address the devotee"
+  },
+  {
+    "word": "diffuse",
+    "lemma": "diffuse",
+    "ipa": "/dɪfˈjuz/",
+    "pos": "adj",
+    "tr": "рассеянный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A diffuse approach may help.",
+        "ru": "Диффузный подход может помочь."
+      },
+      {
+        "en": "His answer sounded diffuse.",
+        "ru": "Его ответ звучал диффузно."
+      },
+      {
+        "en": "Avoid diffuse claims without proof.",
+        "ru": "Избегайте диффузных утверждений без доказательств."
+      }
+    ],
+    "colloc": "diffuse approach · diffuse result"
+  },
+  {
+    "word": "diligently",
+    "lemma": "diligently",
+    "ipa": "/ˈdɪləʤəntli/",
+    "pos": "adv",
+    "tr": "усердно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke diligently about the issue.",
+        "ru": "Она старательно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded diligently.",
+        "ru": "Команда ответила прилежно."
+      },
+      {
+        "en": "Progress moved diligently after the fix.",
+        "ru": "Прогресс двигался усердно после исправления."
+      }
+    ],
+    "colloc": "speak diligently · diligently"
+  },
+  {
+    "word": "discrete",
+    "lemma": "discrete",
+    "ipa": "/dɪˈskrit/",
+    "pos": "noun",
+    "tr": "дискретный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one discrete.",
+        "ru": "Ее карьера перевернулась на одну дискретную."
+      },
+      {
+        "en": "Public debate ignored the discrete.",
+        "ru": "Общественные дебаты игнорируют дискретность."
+      },
+      {
+        "en": "Document every discrete in the log.",
+        "ru": "Документируйте каждый дискрет в журнале."
+      }
+    ],
+    "colloc": "the discrete · discrete of"
+  },
+  {
+    "word": "disdain",
+    "lemma": "disdain",
+    "ipa": "/dɪsˈdeɪn/",
+    "pos": "noun",
+    "tr": "презрение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one disdain.",
+        "ru": "Ее карьера обернулась одним презрением."
+      },
+      {
+        "en": "Public debate ignored the disdain.",
+        "ru": "Общественные дебаты проигнорировали презрение."
+      },
+      {
+        "en": "Document every disdain in the log.",
+        "ru": "Документируйте каждое презрение в журнале."
+      }
+    ],
+    "colloc": "clear disdain · disdain of"
+  },
+  {
+    "word": "disdainful",
+    "lemma": "disdainful",
+    "ipa": "/dɪsˈdeɪnfəl/",
+    "pos": "adj",
+    "tr": "презрительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a disdainful strategy.",
+        "ru": "Это была пренебрежительная стратегия."
+      },
+      {
+        "en": "The tone grew disdainful.",
+        "ru": "Тон стал презренным."
+      },
+      {
+        "en": "They rejected the disdainful proposal.",
+        "ru": "Они отвергли пренебрежительное предложение."
+      }
+    ],
+    "colloc": "disdainful tone · remain disdainful"
+  },
+  {
+    "word": "disillusionment",
+    "lemma": "disillusionment",
+    "ipa": "/ˌdɪsɪˈluʒənmənt/",
+    "pos": "noun",
+    "tr": "разочарование",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one disillusionment.",
+        "ru": "Ее карьера обернулась одним разочарованием."
+      },
+      {
+        "en": "Public debate ignored the disillusionment.",
+        "ru": "Публичные дебаты игнорировали разочарование."
+      },
+      {
+        "en": "Document every disillusionment in the log.",
+        "ru": "Документируйте каждое разочарование в журнале."
+      }
+    ],
+    "colloc": "clear disillusionment · disillusionment of"
+  },
+  {
+    "word": "dislodge",
+    "lemma": "dislodge",
+    "ipa": "/dɪsˈlɑʤ/",
+    "pos": "verb",
+    "tr": "вытеснять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you dislodge this for the board?",
+        "ru": "Ты можешь выкинуть это для совета?"
+      },
+      {
+        "en": "Analysts dislodge the numbers overnight.",
+        "ru": "Аналитики вытесняют цифры за ночь."
+      },
+      {
+        "en": "Do not dislodge under political pressure.",
+        "ru": "Не смещайтесь под политическим давлением."
+      }
+    ],
+    "colloc": "dislodge pressure · refuse to dislodge",
+    "pattern": "dislodge + that"
+  }
+]

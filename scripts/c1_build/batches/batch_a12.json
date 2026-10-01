@@ -1,0 +1,1261 @@
+[
+  {
+    "word": "haughty",
+    "lemma": "haughty",
+    "ipa": "/ˈhɔti/",
+    "pos": "adj",
+    "tr": "высокомерный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a haughty strategy.",
+        "ru": "Это была надменная стратегия."
+      },
+      {
+        "en": "The tone grew haughty.",
+        "ru": "Тон стал высокомерным."
+      },
+      {
+        "en": "They rejected the haughty proposal.",
+        "ru": "Они отвергли высокомерное предложение."
+      }
+    ],
+    "colloc": "highly haughty · haughty result",
+    "ex": "It was a haughty strategy.",
+    "exRu": "Это была надменная стратегия."
+  },
+  {
+    "word": "haunt",
+    "lemma": "haunt",
+    "ipa": "/hɔnt/",
+    "pos": "verb",
+    "tr": "преследовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you haunt this for the board?",
+        "ru": "Ты можешь преследовать это за совет?"
+      },
+      {
+        "en": "Analysts haunt the numbers overnight.",
+        "ru": "Аналитики преследуют цифры в одночасье."
+      },
+      {
+        "en": "Do not haunt under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "haunt the claim · refuse to haunt",
+    "pattern": "haunt + to-INF",
+    "ex": "Can you haunt this for the board?",
+    "exRu": "Ты можешь преследовать это за совет?"
+  },
+  {
+    "word": "hauntingly",
+    "lemma": "hauntingly",
+    "ipa": "/ˈhɔntɪŋli/",
+    "pos": "adv",
+    "tr": "навязчиво",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued hauntingly overnight.",
+        "ru": "Работа продолжалась мучительно всю ночь."
+      },
+      {
+        "en": "She answered hauntingly and clearly.",
+        "ru": "Она ответила дерзко и ясно."
+      },
+      {
+        "en": "The claim was hauntingly dismissed.",
+        "ru": "Претензия была отвергнута."
+      }
+    ],
+    "colloc": "act hauntingly · hauntingly",
+    "ex": "Work continued hauntingly overnight.",
+    "exRu": "Работа продолжалась мучительно всю ночь."
+  },
+  {
+    "word": "headmistress",
+    "lemma": "headmistress",
+    "ipa": "/ˈhɛdˌmɪstrəs/",
+    "pos": "noun",
+    "tr": "директриса",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the headmistress.",
+        "ru": "Они недооценили директрису."
+      },
+      {
+        "en": "A clear headmistress emerged from the data.",
+        "ru": "Из данных вышла ясная директриса."
+      },
+      {
+        "en": "Address the headmistress before it grows.",
+        "ru": "Обратитесь к директрисе, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the headmistress · address the headmistress",
+    "ex": "They underestimated the headmistress.",
+    "exRu": "Они недооценили директрису."
+  },
+  {
+    "word": "headstrong",
+    "lemma": "headstrong",
+    "ipa": "/ˈhɛdˌstrɔŋ/",
+    "pos": "adj",
+    "tr": "упрямый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less headstrong option.",
+        "ru": "Выберите менее упрямый вариант."
+      },
+      {
+        "en": "The design feels headstrong.",
+        "ru": "Дизайн чувствует себя упрямым."
+      },
+      {
+        "en": "A headstrong policy risks backlash.",
+        "ru": "Упорная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly headstrong · headstrong result",
+    "ex": "Choose a less headstrong option.",
+    "exRu": "Выберите менее упрямый вариант."
+  },
+  {
+    "word": "hedgehog",
+    "lemma": "hedgehog",
+    "ipa": "/ˈhɛˌʤhɑg/",
+    "pos": "noun",
+    "tr": "ежик",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the hedgehog closely.",
+        "ru": "Исследователи внимательно изучили ежа."
+      },
+      {
+        "en": "The hedgehog shaped the final decision.",
+        "ru": "Еж сформировал окончательное решение."
+      },
+      {
+        "en": "Without the hedgehog, the argument collapses.",
+        "ru": "Без ежа аргумент рухнет."
+      }
+    ],
+    "colloc": "clear hedgehog · hedgehog of",
+    "ex": "Researchers examined the hedgehog closely.",
+    "exRu": "Исследователи внимательно изучили ежа."
+  },
+  {
+    "word": "heifer",
+    "lemma": "heifer",
+    "ipa": "/ˈhɛfər/",
+    "pos": "noun",
+    "tr": "хейфер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the heifer closely.",
+        "ru": "Исследователи внимательно изучили хейфер."
+      },
+      {
+        "en": "The heifer shaped the final decision.",
+        "ru": "Ткач сформировал окончательное решение."
+      },
+      {
+        "en": "Without the heifer, the argument collapses.",
+        "ru": "Без хейфера аргумент рухнет."
+      }
+    ],
+    "colloc": "clear heifer · address the heifer",
+    "ex": "Researchers examined the heifer closely.",
+    "exRu": "Исследователи внимательно изучили хейфер."
+  },
+  {
+    "word": "herald",
+    "lemma": "herald",
+    "ipa": "/ˈhɛrəld/",
+    "pos": "verb",
+    "tr": "предвестник",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you herald this for the board?",
+        "ru": "Ты можешь предвещать это для совета?"
+      },
+      {
+        "en": "Analysts herald the numbers overnight.",
+        "ru": "Аналитики сообщают цифры за ночь."
+      },
+      {
+        "en": "Do not herald under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "herald carefully · refuse to herald",
+    "pattern": "herald (+ prep)",
+    "ex": "Can you herald this for the board?",
+    "exRu": "Ты можешь предвещать это для совета?"
+  },
+  {
+    "word": "hermetic",
+    "lemma": "hermetic",
+    "ipa": "/hermetic/",
+    "pos": "adj",
+    "tr": "герметичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a hermetic strategy.",
+        "ru": "Это была герметическая стратегия."
+      },
+      {
+        "en": "The tone grew hermetic.",
+        "ru": "Тон вырос герметичным."
+      },
+      {
+        "en": "They rejected the hermetic proposal.",
+        "ru": "Они отвергли герметическое предложение."
+      }
+    ],
+    "colloc": "hermetic tone · remain hermetic",
+    "ex": "It was a hermetic strategy.",
+    "exRu": "Это была герметическая стратегия."
+  },
+  {
+    "word": "hermit",
+    "lemma": "hermit",
+    "ipa": "/ˈhərmət/",
+    "pos": "noun",
+    "tr": "отшельник",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the hermit.",
+        "ru": "Они недооценили отшельника."
+      },
+      {
+        "en": "A clear hermit emerged from the data.",
+        "ru": "Из данных вышел явный отшельник."
+      },
+      {
+        "en": "Address the hermit before it grows.",
+        "ru": "Обращайтесь к отшельнику, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear hermit · hermit of",
+    "ex": "They underestimated the hermit.",
+    "exRu": "Они недооценили отшельника."
+  },
+  {
+    "word": "heroine",
+    "lemma": "heroine",
+    "ipa": "/ˈhɛroʊən/",
+    "pos": "noun",
+    "tr": "героиня",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the heroine.",
+        "ru": "Они недооценили героиню."
+      },
+      {
+        "en": "A clear heroine emerged from the data.",
+        "ru": "Из данных вышла явная героиня."
+      },
+      {
+        "en": "Address the heroine before it grows.",
+        "ru": "Обращайтесь к героине до того, как она вырастет."
+      }
+    ],
+    "colloc": "the heroine · heroine of",
+    "ex": "They underestimated the heroine.",
+    "exRu": "Они недооценили героиню."
+  },
+  {
+    "word": "hibernate",
+    "lemma": "hibernate",
+    "ipa": "/ˈhaɪbərˌneɪt/",
+    "pos": "verb",
+    "tr": "в спячку",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers hibernate resources each week.",
+        "ru": "Менеджеры гибернируют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to hibernate too quickly.",
+        "ru": "Он слишком быстро впадает в спячку."
+      },
+      {
+        "en": "They hibernate only after a full review.",
+        "ru": "Они впадают в спячку только после полного обзора."
+      }
+    ],
+    "colloc": "hibernate pressure · hibernate + N",
+    "pattern": "hibernate (+ prep)",
+    "ex": "Managers hibernate resources each week.",
+    "exRu": "Менеджеры гибернируют ресурсы каждую неделю."
+  },
+  {
+    "word": "hibernation",
+    "lemma": "hibernation",
+    "ipa": "/ˌhaɪbərˈneɪʃən/",
+    "pos": "noun",
+    "tr": "гибернация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the hibernation closely.",
+        "ru": "Исследователи внимательно изучили спячку."
+      },
+      {
+        "en": "The hibernation shaped the final decision.",
+        "ru": "Спячка сформировала окончательное решение."
+      },
+      {
+        "en": "Without the hibernation, the argument collapses.",
+        "ru": "Без спячки аргумент рухнет."
+      }
+    ],
+    "colloc": "clear hibernation · address the hibernation",
+    "ex": "Researchers examined the hibernation closely.",
+    "exRu": "Исследователи внимательно изучили спячку."
+  },
+  {
+    "word": "hinder",
+    "lemma": "hinder",
+    "ipa": "/ˈhɪndər/",
+    "pos": "verb",
+    "tr": "препятствовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please hinder the proposal carefully.",
+        "ru": "Пожалуйста, осторожно препятствуйте предложению."
+      },
+      {
+        "en": "They refuse to hinder without evidence.",
+        "ru": "Они отказываются препятствовать без доказательств."
+      },
+      {
+        "en": "Leaders must hinder when stakes are high.",
+        "ru": "Лидеры должны мешать, когда ставки высоки."
+      }
+    ],
+    "colloc": "hinder carefully · hinder + N",
+    "pattern": "hinder (+ prep)",
+    "ex": "Please hinder the proposal carefully.",
+    "exRu": "Пожалуйста, осторожно препятствуйте предложению."
+  },
+  {
+    "word": "hindrance",
+    "lemma": "hindrance",
+    "ipa": "/ˈhɪndrəns/",
+    "pos": "noun",
+    "tr": "препятствие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the hindrance.",
+        "ru": "Они недооценили помехи."
+      },
+      {
+        "en": "A clear hindrance emerged from the data.",
+        "ru": "Из этих данных возникло явное препятствие."
+      },
+      {
+        "en": "Address the hindrance before it grows.",
+        "ru": "Устраните препятствия, прежде чем они будут расти."
+      }
+    ],
+    "colloc": "the hindrance · address the hindrance",
+    "ex": "They underestimated the hindrance.",
+    "exRu": "Они недооценили помехи."
+  },
+  {
+    "word": "hindsight",
+    "lemma": "hindsight",
+    "ipa": "/ˈhaɪnˌsaɪt/",
+    "pos": "noun",
+    "tr": "задним числом",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple hindsight.",
+        "ru": "Простого оглядки не было."
+      },
+      {
+        "en": "Critics mocked the hindsight.",
+        "ru": "Критики высмеяли ретроспективу."
+      },
+      {
+        "en": "We need a working definition of hindsight.",
+        "ru": "Нам нужно рабочее определение ретроспективы."
+      }
+    ],
+    "colloc": "clear hindsight · address the hindsight",
+    "ex": "There was no simple hindsight.",
+    "exRu": "Простого оглядки не было."
+  },
+  {
+    "word": "histrionic",
+    "lemma": "histrionic",
+    "ipa": "/ˌhɪstriˈɑnɪk/",
+    "pos": "adj",
+    "tr": "трионический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A histrionic approach may help.",
+        "ru": "Гистрионический подход может помочь."
+      },
+      {
+        "en": "His answer sounded histrionic.",
+        "ru": "Его ответ звучал гистронически."
+      },
+      {
+        "en": "Avoid histrionic claims without proof.",
+        "ru": "Избегайте истерических утверждений без доказательств."
+      }
+    ],
+    "colloc": "histrionic tone · histrionic result",
+    "ex": "A histrionic approach may help.",
+    "exRu": "Гистрионический подход может помочь."
+  },
+  {
+    "word": "histrionically",
+    "lemma": "histrionically",
+    "ipa": "/histrionically/",
+    "pos": "adv",
+    "tr": "трионический",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued histrionically for reform.",
+        "ru": "Он суеверно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied histrionically.",
+        "ru": "Правило применялось гистрионически."
+      },
+      {
+        "en": "Costs rose histrionically last year.",
+        "ru": "Затраты в прошлом году резко выросли."
+      }
+    ],
+    "colloc": "speak histrionically · histrionically",
+    "ex": "He argued histrionically for reform.",
+    "exRu": "Он суеверно выступал за реформы."
+  },
+  {
+    "word": "hitherto",
+    "lemma": "hitherto",
+    "ipa": "/ˈhɪˌðərˈtu/",
+    "pos": "adv",
+    "tr": "до сих пор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued hitherto overnight.",
+        "ru": "Работа продолжалась до сих пор всю ночь."
+      },
+      {
+        "en": "She answered hitherto and clearly.",
+        "ru": "Она ответила до сих пор и ясно."
+      },
+      {
+        "en": "The claim was hitherto dismissed.",
+        "ru": "До этого иск был отклонен."
+      }
+    ],
+    "colloc": "respond hitherto · hitherto",
+    "ex": "Work continued hitherto overnight.",
+    "exRu": "Работа продолжалась до сих пор всю ночь."
+  },
+  {
+    "word": "homely",
+    "lemma": "homely",
+    "ipa": "/ˈhoʊmli/",
+    "pos": "adj",
+    "tr": "домашний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly homely.",
+        "ru": "Доказательства вряд ли домашние."
+      },
+      {
+        "en": "She remained homely under stress.",
+        "ru": "Она оставалась дома в состоянии стресса."
+      },
+      {
+        "en": "Results looked only homely.",
+        "ru": "Результаты выглядели только домашне."
+      }
+    ],
+    "colloc": "homely tone · homely result",
+    "ex": "The evidence is hardly homely.",
+    "exRu": "Доказательства вряд ли домашние."
+  },
+  {
+    "word": "homestead",
+    "lemma": "homestead",
+    "ipa": "/ˈhoʊmˌstɛd/",
+    "pos": "noun",
+    "tr": "поместье",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the homestead.",
+        "ru": "Они недооценили дом."
+      },
+      {
+        "en": "A clear homestead emerged from the data.",
+        "ru": "Из данных получилась четкая усадьба."
+      },
+      {
+        "en": "Address the homestead before it grows.",
+        "ru": "Обращайтесь к усадьбе, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear homestead · address the homestead",
+    "ex": "They underestimated the homestead.",
+    "exRu": "Они недооценили дом."
+  },
+  {
+    "word": "honk",
+    "lemma": "honk",
+    "ipa": "/hɔŋk/",
+    "pos": "verb",
+    "tr": "звонить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please honk the proposal carefully.",
+        "ru": "Пожалуйста, внимательно отметьте предложение."
+      },
+      {
+        "en": "They refuse to honk without evidence.",
+        "ru": "Они отказываются звонить без доказательств."
+      },
+      {
+        "en": "Leaders must honk when stakes are high.",
+        "ru": "Лидеры должны звонить, когда ставки высоки."
+      }
+    ],
+    "colloc": "honk pressure · refuse to honk",
+    "pattern": "honk + N",
+    "ex": "Please honk the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно отметьте предложение."
+  },
+  {
+    "word": "hostess",
+    "lemma": "hostess",
+    "ipa": "/ˈhoʊstəs/",
+    "pos": "noun",
+    "tr": "хозяйка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one hostess.",
+        "ru": "Ее карьера перевернулась на одну хозяйку."
+      },
+      {
+        "en": "Public debate ignored the hostess.",
+        "ru": "Публичные дебаты проигнорировали хозяйку."
+      },
+      {
+        "en": "Document every hostess in the log.",
+        "ru": "Документируйте каждую хозяйку в журнале."
+      }
+    ],
+    "colloc": "clear hostess · hostess of",
+    "ex": "Her career turned on one hostess.",
+    "exRu": "Ее карьера перевернулась на одну хозяйку."
+  },
+  {
+    "word": "hotelier",
+    "lemma": "hotelier",
+    "ipa": "/hoʊˈtɛljər/",
+    "pos": "noun",
+    "tr": "отельер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one hotelier.",
+        "ru": "Ее карьера перевернулась на одного отельера."
+      },
+      {
+        "en": "Public debate ignored the hotelier.",
+        "ru": "Общественные дебаты проигнорировали отельера."
+      },
+      {
+        "en": "Document every hotelier in the log.",
+        "ru": "Документируйте каждого отельера в журнале."
+      }
+    ],
+    "colloc": "clear hotelier · address the hotelier",
+    "ex": "Her career turned on one hotelier.",
+    "exRu": "Ее карьера перевернулась на одного отельера."
+  },
+  {
+    "word": "huddle",
+    "lemma": "huddle",
+    "ipa": "/ˈhədəl/",
+    "pos": "verb",
+    "tr": "сливаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers huddle resources each week.",
+        "ru": "Менеджеры собирают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to huddle too quickly.",
+        "ru": "Он склонен слишком быстро ютиться."
+      },
+      {
+        "en": "They huddle only after a full review.",
+        "ru": "Они ютятся только после полного обзора."
+      }
+    ],
+    "colloc": "huddle pressure · huddle + N",
+    "pattern": "huddle (+ prep)",
+    "ex": "Managers huddle resources each week.",
+    "exRu": "Менеджеры собирают ресурсы каждую неделю."
+  },
+  {
+    "word": "hypnotherapy",
+    "lemma": "hypnotherapy",
+    "ipa": "/hypnotherapy/",
+    "pos": "noun",
+    "tr": "гипнотерапия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple hypnotherapy.",
+        "ru": "Не было простой гипнотерапии."
+      },
+      {
+        "en": "Critics mocked the hypnotherapy.",
+        "ru": "Критики высмеивали гипнотерапию."
+      },
+      {
+        "en": "We need a working definition of hypnotherapy.",
+        "ru": "Нам нужно рабочее определение гипнотерапии."
+      }
+    ],
+    "colloc": "the hypnotherapy · address the hypnotherapy",
+    "ex": "There was no simple hypnotherapy.",
+    "exRu": "Не было простой гипнотерапии."
+  },
+  {
+    "word": "hypocrisy",
+    "lemma": "hypocrisy",
+    "ipa": "/hɪˈpɑkrəsi/",
+    "pos": "noun",
+    "tr": "лицемерие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the hypocrisy closely.",
+        "ru": "Исследователи внимательно изучили лицемерие."
+      },
+      {
+        "en": "The hypocrisy shaped the final decision.",
+        "ru": "Лицемерие сформировало окончательное решение."
+      },
+      {
+        "en": "Without the hypocrisy, the argument collapses.",
+        "ru": "Без лицемерия аргумент рухнет."
+      }
+    ],
+    "colloc": "clear hypocrisy · address the hypocrisy",
+    "ex": "Researchers examined the hypocrisy closely.",
+    "exRu": "Исследователи внимательно изучили лицемерие."
+  },
+  {
+    "word": "hypocrite",
+    "lemma": "hypocrite",
+    "ipa": "/ˈhɪpəˌkrɪt/",
+    "pos": "noun",
+    "tr": "лицемер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple hypocrite.",
+        "ru": "Простого лицемера не было."
+      },
+      {
+        "en": "Critics mocked the hypocrite.",
+        "ru": "Критики издевались над лицемером."
+      },
+      {
+        "en": "We need a working definition of hypocrite.",
+        "ru": "Нам нужно рабочее определение лицемера."
+      }
+    ],
+    "colloc": "clear hypocrite · address the hypocrite",
+    "ex": "There was no simple hypocrite.",
+    "exRu": "Простого лицемера не было."
+  },
+  {
+    "word": "hypocritical",
+    "lemma": "hypocritical",
+    "ipa": "/ˌhɪpəˈkrɪtɪkəl/",
+    "pos": "adj",
+    "tr": "лицемерный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A hypocritical approach may help.",
+        "ru": "Может помочь лицемерный подход."
+      },
+      {
+        "en": "His answer sounded hypocritical.",
+        "ru": "Его ответ прозвучал лицемерно."
+      },
+      {
+        "en": "Avoid hypocritical claims without proof.",
+        "ru": "Избегайте лицемерных утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly hypocritical · remain hypocritical",
+    "ex": "A hypocritical approach may help.",
+    "exRu": "Может помочь лицемерный подход."
+  },
+  {
+    "word": "hypocritically",
+    "lemma": "hypocritically",
+    "ipa": "/hypocritically/",
+    "pos": "adv",
+    "tr": "лицемерно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample hypocritically.",
+        "ru": "Отнеситесь к выборке лицемерно."
+      },
+      {
+        "en": "Support arrived hypocritically.",
+        "ru": "Поддержка пришла лицемерно."
+      },
+      {
+        "en": "The plan failed hypocritically.",
+        "ru": "План провалился лицемерно."
+      }
+    ],
+    "colloc": "act hypocritically · hypocritically",
+    "ex": "Handle the sample hypocritically.",
+    "exRu": "Отнеситесь к выборке лицемерно."
+  },
+  {
+    "word": "hypothesize",
+    "lemma": "hypothesize",
+    "ipa": "/haɪˈpɑθəˌsaɪz/",
+    "pos": "verb",
+    "tr": "выдвигать гипотезы",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you hypothesize this for the board?",
+        "ru": "Можете ли вы выдвинуть гипотезу для совета?"
+      },
+      {
+        "en": "Analysts hypothesize the numbers overnight.",
+        "ru": "Аналитики выдвигают гипотезу о количестве за одну ночь."
+      },
+      {
+        "en": "Do not hypothesize under political pressure.",
+        "ru": "Не выдвигайте гипотезы под политическим давлением."
+      }
+    ],
+    "colloc": "hypothesize pressure · hypothesize + N",
+    "pattern": "hypothesize + that",
+    "ex": "Can you hypothesize this for the board?",
+    "exRu": "Можете ли вы выдвинуть гипотезу для совета?"
+  },
+  {
+    "word": "hypothetical",
+    "lemma": "hypothetical",
+    "ipa": "/ˌhaɪpəˈθɛtɪkəl/",
+    "pos": "adj",
+    "tr": "гипотетический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A hypothetical approach may help.",
+        "ru": "Гипотетический подход может помочь."
+      },
+      {
+        "en": "His answer sounded hypothetical.",
+        "ru": "Его ответ звучал гипотетически."
+      },
+      {
+        "en": "Avoid hypothetical claims without proof.",
+        "ru": "Избегайте гипотетических утверждений без доказательств."
+      }
+    ],
+    "colloc": "hypothetical tone · remain hypothetical",
+    "ex": "A hypothetical approach may help.",
+    "exRu": "Гипотетический подход может помочь."
+  },
+  {
+    "word": "hysteria",
+    "lemma": "hysteria",
+    "ipa": "/hɪˈstɛriə/",
+    "pos": "noun",
+    "tr": "Истерия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple hysteria.",
+        "ru": "Простой истерии не было."
+      },
+      {
+        "en": "Critics mocked the hysteria.",
+        "ru": "Критики высмеивали истерию."
+      },
+      {
+        "en": "We need a working definition of hysteria.",
+        "ru": "Нам нужно рабочее определение истерии."
+      }
+    ],
+    "colloc": "clear hysteria · hysteria of",
+    "ex": "There was no simple hysteria.",
+    "exRu": "Простой истерии не было."
+  },
+  {
+    "word": "hysterical",
+    "lemma": "hysterical",
+    "ipa": "/hɪˈstɛrɪkəl/",
+    "pos": "adj",
+    "tr": "истерический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly hysterical.",
+        "ru": "Доказательства вряд ли истеричны."
+      },
+      {
+        "en": "She remained hysterical under stress.",
+        "ru": "Она оставалась в истерике от стресса."
+      },
+      {
+        "en": "Results looked only hysterical.",
+        "ru": "Результаты выглядели только истеричными."
+      }
+    ],
+    "colloc": "hysterical tone · remain hysterical",
+    "ex": "The evidence is hardly hysterical.",
+    "exRu": "Доказательства вряд ли истеричны."
+  },
+  {
+    "word": "hysterically",
+    "lemma": "hysterically",
+    "ipa": "/ˌhɪˈstɛrɪkli/",
+    "pos": "adv",
+    "tr": "истерически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued hysterically overnight.",
+        "ru": "Работа продолжалась истерически всю ночь."
+      },
+      {
+        "en": "She answered hysterically and clearly.",
+        "ru": "Она ответила истерично и ясно."
+      },
+      {
+        "en": "The claim was hysterically dismissed.",
+        "ru": "Иск был истерически отклонен."
+      }
+    ],
+    "colloc": "respond hysterically · hysterically",
+    "ex": "Work continued hysterically overnight.",
+    "exRu": "Работа продолжалась истерически всю ночь."
+  },
+  {
+    "word": "idiomatic",
+    "lemma": "idiomatic",
+    "ipa": "/ˌɪdiəˈmætɪk/",
+    "pos": "adj",
+    "tr": "идиоматический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An idiomatic approach may help.",
+        "ru": "Идиоматический подход может помочь."
+      },
+      {
+        "en": "His answer sounded idiomatic.",
+        "ru": "Его ответ звучал идиоматично."
+      },
+      {
+        "en": "Avoid idiomatic claims without proof.",
+        "ru": "Избегайте идиоматических утверждений без доказательств."
+      }
+    ],
+    "colloc": "idiomatic tone · idiomatic result",
+    "ex": "An idiomatic approach may help.",
+    "exRu": "Идиоматический подход может помочь."
+  },
+  {
+    "word": "idiomatically",
+    "lemma": "idiomatically",
+    "ipa": "/idiomatically/",
+    "pos": "adv",
+    "tr": "идиоматически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued idiomatically overnight.",
+        "ru": "Работа продолжалась идиоматически всю ночь."
+      },
+      {
+        "en": "She answered idiomatically and clearly.",
+        "ru": "Она ответила идиоматично и ясно."
+      },
+      {
+        "en": "The claim was idiomatically dismissed.",
+        "ru": "Иск был идиоматически отклонен."
+      }
+    ],
+    "colloc": "speak idiomatically · idiomatically",
+    "ex": "Work continued idiomatically overnight.",
+    "exRu": "Работа продолжалась идиоматически всю ночь."
+  },
+  {
+    "word": "idiosyncrasy",
+    "lemma": "idiosyncrasy",
+    "ipa": "/ˌɪdioʊˈsɪnkrəˌsi/",
+    "pos": "noun",
+    "tr": "идиосинкразия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple idiosyncrasy.",
+        "ru": "Не было простой идиосинкразии."
+      },
+      {
+        "en": "Critics mocked the idiosyncrasy.",
+        "ru": "Критики высмеивали идиосинкразию."
+      },
+      {
+        "en": "We need a working definition of idiosyncrasy.",
+        "ru": "Нам нужно рабочее определение идиосинкразии."
+      }
+    ],
+    "colloc": "the idiosyncrasy · idiosyncrasy of",
+    "ex": "There was no simple idiosyncrasy.",
+    "exRu": "Не было простой идиосинкразии."
+  },
+  {
+    "word": "idiosyncratic",
+    "lemma": "idiosyncratic",
+    "ipa": "/ˌɪdioʊˌsɪnˈkrætɪk/",
+    "pos": "adj",
+    "tr": "своеобразный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less idiosyncratic option.",
+        "ru": "Выберите менее уникальный вариант."
+      },
+      {
+        "en": "The design feels idiosyncratic.",
+        "ru": "Дизайн кажется уникальным."
+      },
+      {
+        "en": "An idiosyncratic policy risks backlash.",
+        "ru": "Размышления о том, что такое бред."
+      }
+    ],
+    "colloc": "idiosyncratic approach · remain idiosyncratic",
+    "ex": "Choose a less idiosyncratic option.",
+    "exRu": "Выберите менее уникальный вариант."
+  },
+  {
+    "word": "ignominious",
+    "lemma": "ignominious",
+    "ipa": "/ˌɪgnəˈmɪniəs/",
+    "pos": "adj",
+    "tr": "позорный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an ignominious strategy.",
+        "ru": "Это была позорная стратегия."
+      },
+      {
+        "en": "The tone grew ignominious.",
+        "ru": "Тон стал позорным."
+      },
+      {
+        "en": "They rejected the ignominious proposal.",
+        "ru": "Они отвергли позорное предложение."
+      }
+    ],
+    "colloc": "ignominious approach · ignominious result",
+    "ex": "It was an ignominious strategy.",
+    "exRu": "Это была позорная стратегия."
+  },
+  {
+    "word": "ignominiously",
+    "lemma": "ignominiously",
+    "ipa": "/ignominiously/",
+    "pos": "adv",
+    "tr": "позорно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke ignominiously about the issue.",
+        "ru": "Она позорно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded ignominiously.",
+        "ru": "Команда отреагировала позорно."
+      },
+      {
+        "en": "Progress moved ignominiously after the fix.",
+        "ru": "Прогресс позорно двигался после исправления."
+      }
+    ],
+    "colloc": "respond ignominiously · ignominiously",
+    "ex": "She spoke ignominiously about the issue.",
+    "exRu": "Она позорно говорила об этом вопросе."
+  },
+  {
+    "word": "immensely",
+    "lemma": "immensely",
+    "ipa": "/ˌɪˈmɛnsli/",
+    "pos": "adv",
+    "tr": "чрезвычайно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke immensely about the issue.",
+        "ru": "Она очень много говорила по этому вопросу."
+      },
+      {
+        "en": "The team responded immensely.",
+        "ru": "Команда ответила безмерно."
+      },
+      {
+        "en": "Progress moved immensely after the fix.",
+        "ru": "Прогресс значительно продвинулся после исправления."
+      }
+    ],
+    "colloc": "act immensely · immensely",
+    "ex": "She spoke immensely about the issue.",
+    "exRu": "Она очень много говорила по этому вопросу."
+  },
+  {
+    "word": "immortalize",
+    "lemma": "immortalize",
+    "ipa": "/ˌɪˈmɔrtəlaɪz/",
+    "pos": "verb",
+    "tr": "Увековечить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please immortalize the proposal carefully.",
+        "ru": "Пожалуйста, тщательно увековечите это предложение."
+      },
+      {
+        "en": "They refuse to immortalize without evidence.",
+        "ru": "Они отказываются увековечивать без доказательств."
+      },
+      {
+        "en": "Leaders must immortalize when stakes are high.",
+        "ru": "Лидеры должны увековечивать, когда ставки высоки."
+      }
+    ],
+    "colloc": "immortalize the claim · immortalize + N",
+    "pattern": "immortalize + that",
+    "ex": "Please immortalize the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно увековечите это предложение."
+  },
+  {
+    "word": "impeccable",
+    "lemma": "impeccable",
+    "ipa": "/ˌɪmˈpɛkəbəl/",
+    "pos": "adj",
+    "tr": "безупречный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An impeccable approach may help.",
+        "ru": "Безупречный подход может помочь."
+      },
+      {
+        "en": "His answer sounded impeccable.",
+        "ru": "Его ответ звучал безупречно."
+      },
+      {
+        "en": "Avoid impeccable claims without proof.",
+        "ru": "Избегайте безупречных утверждений без доказательств."
+      }
+    ],
+    "colloc": "impeccable tone · remain impeccable",
+    "ex": "An impeccable approach may help.",
+    "exRu": "Безупречный подход может помочь."
+  },
+  {
+    "word": "impeccably",
+    "lemma": "impeccably",
+    "ipa": "/ˌɪmˈpɛkəbli/",
+    "pos": "adv",
+    "tr": "безупречно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample impeccably.",
+        "ru": "Обработайте образец безупречно."
+      },
+      {
+        "en": "Support arrived impeccably.",
+        "ru": "Поддержка пришла безукоризненно."
+      },
+      {
+        "en": "The plan failed impeccably.",
+        "ru": "План провалился безукоризненно."
+      }
+    ],
+    "colloc": "speak impeccably · impeccably",
+    "ex": "Handle the sample impeccably.",
+    "exRu": "Обработайте образец безупречно."
+  },
+  {
+    "word": "impede",
+    "lemma": "impede",
+    "ipa": "/ˌɪmˈpid/",
+    "pos": "verb",
+    "tr": "препятствовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you impede this for the board?",
+        "ru": "Можете ли вы помешать этому совету?"
+      },
+      {
+        "en": "Analysts impede the numbers overnight.",
+        "ru": "Аналитики задерживают цифры на ночь."
+      },
+      {
+        "en": "Do not impede under political pressure.",
+        "ru": "Не препятствуйте политическому давлению."
+      }
+    ],
+    "colloc": "impede the claim · impede + N",
+    "pattern": "impede + to-INF",
+    "ex": "Can you impede this for the board?",
+    "exRu": "Можете ли вы помешать этому совету?"
+  },
+  {
+    "word": "impediment",
+    "lemma": "impediment",
+    "ipa": "/ˌɪmˈpɛdəmənt/",
+    "pos": "noun",
+    "tr": "препятствие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one impediment.",
+        "ru": "Ее карьера обернулась одним препятствием."
+      },
+      {
+        "en": "Public debate ignored the impediment.",
+        "ru": "Общественные дебаты проигнорировали это препятствие."
+      },
+      {
+        "en": "Document every impediment in the log.",
+        "ru": "Документируйте каждое препятствие в журнале."
+      }
+    ],
+    "colloc": "clear impediment · impediment of",
+    "ex": "Her career turned on one impediment.",
+    "exRu": "Ее карьера обернулась одним препятствием."
+  },
+  {
+    "word": "imperative",
+    "lemma": "imperative",
+    "ipa": "/ˌɪmˈpɛrətɪv/",
+    "pos": "adj",
+    "tr": "императив",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an imperative strategy.",
+        "ru": "Это была необходимая стратегия."
+      },
+      {
+        "en": "The tone grew imperative.",
+        "ru": "Тон стал императивом."
+      },
+      {
+        "en": "They rejected the imperative proposal.",
+        "ru": "Они отвергли императивное предложение."
+      }
+    ],
+    "colloc": "highly imperative · remain imperative",
+    "ex": "It was an imperative strategy.",
+    "exRu": "Это была необходимая стратегия."
+  },
+  {
+    "word": "imperceptible",
+    "lemma": "imperceptible",
+    "ipa": "/ˌɪmpərˈsɛptɪbəl/",
+    "pos": "adj",
+    "tr": "незаметный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an imperceptible strategy.",
+        "ru": "Это была незаметная стратегия."
+      },
+      {
+        "en": "The tone grew imperceptible.",
+        "ru": "Тон стал незаметным."
+      },
+      {
+        "en": "They rejected the imperceptible proposal.",
+        "ru": "Они отвергли незаметное предложение."
+      }
+    ],
+    "colloc": "imperceptible tone · imperceptible result",
+    "ex": "It was an imperceptible strategy.",
+    "exRu": "Это была незаметная стратегия."
+  },
+  {
+    "word": "imperceptibly",
+    "lemma": "imperceptibly",
+    "ipa": "/ˌɪmpərˈsɛptɪbli/",
+    "pos": "adv",
+    "tr": "незаметно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued imperceptibly overnight.",
+        "ru": "Работа продолжалась незаметно всю ночь."
+      },
+      {
+        "en": "She answered imperceptibly and clearly.",
+        "ru": "Она ответила незаметно и ясно."
+      },
+      {
+        "en": "The claim was imperceptibly dismissed.",
+        "ru": "Иск был незаметно отклонен."
+      }
+    ],
+    "colloc": "speak imperceptibly · imperceptibly",
+    "ex": "Work continued imperceptibly overnight.",
+    "exRu": "Работа продолжалась незаметно всю ночь."
+  }
+]

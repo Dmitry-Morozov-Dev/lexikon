@@ -1,0 +1,8102 @@
+[
+  {
+    "lemma": "aberration",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abhor",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abhorrent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abhorrently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abject",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "aboard",
+    "pos": "prep",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "abound",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "abstraction",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "abundance",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abundant",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "abundantly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "accessibility",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "accrue",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "accustomed",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "acidic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "acoustic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "acoustically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "acoustics",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "acreage",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "acrobatic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "acrobatically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "acrobatics",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "acutely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ad-lib",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "additive",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "adept",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "adhesion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "adjoin",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "adjoining",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "adjustable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "administrate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "adorn",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "adornment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "adrenaline",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "adulterate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "advantageous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "adversely",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "advisory",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "aesthetically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "affectation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "aggregate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "aghast",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "agile",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "agility",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "agonize",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "agreeable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "aimless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "aimlessly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "albeit",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "alienate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "all-encompassing",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "allegorical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "allegory",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "alleviate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "allot",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "allotment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "allude",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "allusion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "altruism",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "altruistic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ambiguous",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "amorphous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "amorphously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "amplification",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "amply",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "anarchic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anchored",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "angst",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "angsty",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "angular",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "angularity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "animatedly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "annex",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anonymity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "antediluvian",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anthology",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anthropological",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anthropologically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "anthropologist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "anthropology",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "anticlimactic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "anticlimactically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "antics",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "antidote",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "antiquated",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "antiquity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "antithesis",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "antithetical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "apostle",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "appalling",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "appallingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "append",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "applaud",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "apprehend",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "apprehensive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "apprentice",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "apprenticeship",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "approximate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "apt",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "aptitude",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "aqua",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "arcane",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "arcanely",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "archetypal",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "archetype",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "archival",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "arduous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "arduously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "area",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "articulation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "artifact",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "artifice",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "artistically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "assimilate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "assimilation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "astray",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "astringent",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "athleticism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "atmospheric",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "attainment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "attributive",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "attrition",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "attuned",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "austere",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "austerely",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "austerity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "authenticity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "automate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "automatic",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "automatically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "autonomous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "autonomously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "autopilot",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "averse",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "avian",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "avid",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "awe",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "axiom",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "axiomatic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "babble",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bald",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "baldly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "banish",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "banishment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "barometer",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "baroque",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "batter",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "battered",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bauble",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bearded",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "beforehand",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "beguiling",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "beguilingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "behest",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "behind",
+    "pos": "prep",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "believably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "belligerence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "belligerent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "benign",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "benignly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bequeath",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bereft",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bereftly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "besiege",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "billiards",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blandishment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "blankness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blight",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bliss",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blister",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blithely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blitz",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "blockbuster",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "blubber",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "blubbery",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "blurb",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bogus",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bouquet",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "brainwash",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "brainwashing",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "brandish",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "breadwinner",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "brevity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bribery",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "brimstone",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "brink",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "brood",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "brouhaha",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bubbly",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "buccaneer",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "buffoon",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "buffoonery",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "bulky",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bureaucratic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bureaucratically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "burgeoning",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "buzzard",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "buzzer",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "bypass",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "caffeinate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "calamitous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "calamitously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "calamity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "calf",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "callous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "callously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "calorie",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "calorific",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "candid",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "candidly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "canoe",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "capacious",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "carpentry",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "carrier",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cascade",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "catastrophic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "catastrophically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cavity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ceaseless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ceaselessly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cessation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "chaotically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "chauffer",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "chilly",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "chisel",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "chiselled",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "choreographical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "choreography",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "chronological",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "chronologically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "chronology",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "chrysalis",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "churn",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cinematographer",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cinematography",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "circumnavigate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "circumnavigation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "citation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "civil",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "clammy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "clan",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "classy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "claustrophobia",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "claustrophobic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cleanly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "clench",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cleverness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "climactic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "climax",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "clinch",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cloak",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cloister",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cloistered",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "closeness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "clutch",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "clutter",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cocoon",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cogent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cogently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "coherent",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "collaborative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "collaborator",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "collide",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "collider",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "colloquial",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "colloquially",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "colloquium",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "combustion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "commend",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "commendation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "commensurate",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "commensurately",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "commercially",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "commode",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "compatible",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "compellingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "complementary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "compliant",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "compliantly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "complimentary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "comprehensive",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "compromised",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "compulsion",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "con",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conceivable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "concerto",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conciliation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conciliatory",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "concur",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "concurrence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "concurrent",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "condensation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conditional",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conditionally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "condone",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conduit",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "confabulate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "confabulation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "confection",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "confide",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "confinement",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conform",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conformity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "confrontational",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "confrontationally",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conglomerate",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "congregate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conjecture",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conjure",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "connoisseur",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "connotation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "connote",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "conscientious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "conscientiously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "consequent",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "conservatory",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "consign",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "consignment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "consternation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "constrain",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "constrained",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "consultancy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "contagion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contemptuous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contemptuously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contested",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "contextual",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "contextually",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "continuity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "contractual",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contractually",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contraption",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "contrive",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "convene",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "converse",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "convoluted",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cordon",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "corps",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "corpse",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "corpus",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cosmic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cosset",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "cost-effective",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "counterproductive",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "counterproductively",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "coupled",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "crave",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "craving",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "creamy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "credential",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "credibly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "crippling",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "criteria",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "crony",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "crudely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "crumb",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "crumble",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cultish",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "curate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "curator",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "customary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cynic",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cynically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "cynicism",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dampen",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "damply",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "darkroom",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "daunt",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "daunting",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "daydream",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "deaden",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deceit",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "declination",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deduce",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "deficient",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deficiently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "define",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "degradation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "degrade",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "degrading",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "delicatessen",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "demise",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demo",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demographic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demographically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demography",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demolition",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "demystification",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "demystify",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "denotation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "denote",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "denunciation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "depiction",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "depraved",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "depravity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deprecate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deprecatingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "depress",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "depressive",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deprivation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "derelict",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "derision",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "derisive",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "derisively",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "desertion",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "despite",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "deterrent",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "detest",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "detestable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "detract",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "detriment",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "detrimental",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "detrimentally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "detritus",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "deviant",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deviantly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "deviate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "devotee",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "diffuse",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "diligence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "diligent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "diligently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "discrete",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "discriminate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "disdain",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "disdainful",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disillusionment",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dislodge",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dismal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dismally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dismay",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "disparage",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disparagement",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disparaging",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disparagingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dispensable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dispensary",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dispense",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dispersal",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disperse",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disquieting",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dissect",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dissection",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dissemble",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "disseminate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dissemination",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dissension",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "distill",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "distillation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dither",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "diverge",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "divergence",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "divergent",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "divination",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "docile",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "docilely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "domestically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "domesticate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "domestication",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "domesticity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dominantly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "domination",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "drabness",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dramatist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "drawback",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dribble",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "drudgery",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dubiously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "durable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dutiful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dutifully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "dwarf",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dwarfism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "dynamically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "eccentric",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "eccentrically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "eccentricity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "echolocate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "echolocation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "eclectic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "eclectically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ecotourism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ecstasy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ecstatic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ecstatically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "edification",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "edifice",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "edify",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "effortless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "egalitarian",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "elaboration",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elastic",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elasticity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "elated",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "elation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "electrode",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "elephantine",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "elevation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elitist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elongate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elude",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "elusive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "embodiment",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "eminence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "eminent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emolument",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emulate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emulation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emulsification",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emulsifier",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "emulsify",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "enabler",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "encumber",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "encumbrance",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "enduringly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "engender",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "engross",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "engrossing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "enormously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "enterprising",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "enthuse",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "enviable",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "envisage",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ephemera",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ephemeral",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ephemerality",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "epoxy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "equable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "equate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "equilibrium",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "erode",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "estimation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "etching",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ethically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ethos",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphemism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphemistic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphemistically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphoria",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphoric",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "euphorically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "eventual",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "evokingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ewe",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exalted",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "exaltedly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "exhaust",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exhibitionist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exhilarate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exhilarating",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exhilaration",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exodus",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exorcism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "exorcist",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "exotically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "expand",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "expedite",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "explanatory",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "explosively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "extant",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "exterior",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "extortion",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "extracurricular",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "extravagance",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exuberance",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exuberant",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exuberantly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "exude",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabled",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabricate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabrication",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabulate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabulation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fabulously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "facial",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "facilitation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "facsimile",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fallacy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fanatic",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fanatically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fanciful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "farce",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "farcical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fatality",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fatigue",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "feign",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ferocious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ferociously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ferocity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fiddle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiddler",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiddly",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiend",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiendish",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiendishly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fiercely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "figurative",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "figuratively",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "finite",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "firewall",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fissure",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fixture",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flagging",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "flashback",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flask",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flatout",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "flatter",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flattery",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flaw",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "flick",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flicker",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "flightiness",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "flighty",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "floodgates",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fluctuate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "fluctuation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "folktale",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "forensic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "forfeit",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "forfeiture",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "forlorn",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "forlornly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "formality",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "formidable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "formidably",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "forth",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "fractious",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "fragmentation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "frankly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "frolic",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "frostily",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "frosty",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fruition",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "functional",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "fundraising",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "fuse",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "fusion",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gadget",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gambit",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "gamely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gape",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gauche",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "gem",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "genome",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "genomic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "genomically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "geological",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "geologically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ghostly",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "glean",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "glint",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "glitz",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "glitzy",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "glum",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "glumly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gnaw",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "goose",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gourmet",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "grace",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "graft",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "grapefruit",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "grave",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "gravitate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "gravitational",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "gravitationally",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "grid",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "grievance",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "grounds",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gruelling",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gruesome",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gruesomely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "grumble",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "guerrilla",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "gush",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gushing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gushingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gusto",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gutsy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "gypsy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "habitation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hack",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "haggle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "halfway",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "hamper",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hanging",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "haphazard",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "haphazardly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hapless",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "happenstance",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "harass",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "haughtily",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "haughty",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "haunt",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "hauntingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "haven",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "headmistress",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "headstrong",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hedgehog",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "heifer",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "herald",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hermetic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hermit",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "heroine",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hibernate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hibernation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "highlight",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "hinder",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hindrance",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hindsight",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "histrionic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "histrionically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hitch",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hitherto",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hoist",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "homely",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "homestead",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "honk",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hostess",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hotelier",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hover",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "huddle",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hypnotherapy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hypocrisy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hypocrite",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hypocritical",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hypocritically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "hypothesize",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hypothetical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hysteria",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hysterical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "hysterically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "idiomatic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "idiomatically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "idiosyncrasy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "idiosyncratic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ignominious",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ignominiously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ignorant",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "immensely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "immigrate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "immortalize",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "imp",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impeccable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impeccably",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impede",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impediment",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "imperative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "imperceptible",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "imperceptibly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impersonal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impersonally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impersonate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impersonation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impersonator",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impervious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impish",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impishly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "implicate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "implicit",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "imposition",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impoverished",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "impresario",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impressionistic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "impressionistically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "improvisational",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inartistic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inchoate",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inchoately",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incipient",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incise",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incision",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "incisor",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "incline",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "inclusive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inclusively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "incongruity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incongruous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incongruously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "incumbent",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indefinite",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "indefinitely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "indicate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "indignant",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indignantly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indiscrete",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indiscretion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indispensable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "individualism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "individuality",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "indolence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indolent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indolently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inducement",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "induct",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "induction",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "indulgence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "indulgently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inert",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inexcusable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inexcusably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inexhaustible",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inexorability",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inexorable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inexorably",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inexplicable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inexplicably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "infallibility",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "infallible",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "infallibly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "infernal",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "infernally",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "informant",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingenious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ingenuity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ingenuous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingenuously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingrate",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingratiate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingratiating",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ingratiatingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inherently",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "inheritance",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "injure",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "innovate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "innuendo",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "inscrutable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "insecure",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insecurely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insensitive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insensitively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insightful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insightfully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "instantaneous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "instantaneously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "instinctive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "instinctively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insubordinate",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insubordinately",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insubordination",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "insular",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "intellect",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "intelligent",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "interject",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "interjection",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "interlocking",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interlude",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "intermediary",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interrogate",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interrogation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interrogative",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interrogatively",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "intersperse",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "interweave",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "intrinsic",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "intrinsically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "intuit",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "intuition",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "intuitive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "intuitively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "investigate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "invoice",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "irate",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "irately",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "irrelevancy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "irrevocable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "irrevocably",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "itinerary",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "jargon",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "jarring",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "jersey",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "justly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "juvenile",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "kinetic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "kinetically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "knowledgeable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "labour",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "lament",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lamentation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lapse",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "large-scale",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "laryngitis",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lassitude",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "latent",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "laudatory",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lavatory",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "leaven",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "leavening",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "legal",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "legion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "legislate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "lethargic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "lethargically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "lethargy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "levy",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "liaise",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "liaison",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "licence",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "limitless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "linearly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "locate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "locomotion",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "locomotive",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lodge",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "loiter",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "long-standing",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "ludicrous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ludicrously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "luridly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lust",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "lyrical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lyrically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "lyricist",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "macabre",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "maelstrom",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "maggot",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "magnanimity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "magnanimous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "magnanimously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "magnate",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "magnetically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "magnetism",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "magpie",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "malfunction",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "malice",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "malicious",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "maliciously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "malleability",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "malleable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mangle",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "manicure",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "manual",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "marginally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mariner",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mark-up",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "marketability",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "marvel",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "materialism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "materialistic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "maternal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "maternalistic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "maverick",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "maximise",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "meaningless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "meaninglessly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mediate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "mediation",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "medical",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "mediocrity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "melancholy",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "melodious",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "melodiously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "menace",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "menacing",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "menacingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "menial",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mental",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "mercantile",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mercenary",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mesmeric",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "metalled",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "meteorological",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "meteorology",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "methodical",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "methodological",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "methodologically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "meticulous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "meticulously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "midwife",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "midwifery",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "migrate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "milieu",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "minefield",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mingle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "minimise",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "minster",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "minutiae",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "misplace",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "modernism",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "monastic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "monotonous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "monotonously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "monotony",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "moribund",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "motley",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mottled",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mountaineer",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "munch",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mundanity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "munificence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "muscle-bound",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "muscular",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mutinous",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mutinously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mutually",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "myriad",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mystique",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "mythological",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "mythology",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "naive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "naively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "naivety",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "nascent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "naturalness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "nature",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "negate",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "neglectful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "negligent",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "negligently",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "negligible",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "neophyte",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "nocturnal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "nonchalant",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "nonchalantly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "nondescript",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "norms",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "nostalgia",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "nostalgic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "nostalgically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "notably",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "notoriety",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "notoriously",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "notwithstanding",
+    "pos": "prep",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "nuclear",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "numb",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "oblique",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "obscure",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "obscurely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "obvious",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "occupant",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "occupational",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "occur",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "octogenarian",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "odd",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "oddity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "offset",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "opacity",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "opaque",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "opulence",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "opulent",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "opulently",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "orchard",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ordain",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ordinarily",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "orient",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "ornamental",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ornate",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "orphan",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ostensible",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "ostensibly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "otter",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "outmoded",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "outpatient",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "outset",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "overalls",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "overdraft",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "overlap",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "overlay",
+    "pos": "verb",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "overly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "overseas",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "overseer",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "paddle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "painstaking",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "painstakingly",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "palatable",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "palate",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "panorama",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "panoramic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "parable",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "paradigm",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "paradoxical",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "paradoxically",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "paralysis",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "paramount",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "parasite",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "parasitic",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "parochial",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "partially",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "patchily",
+    "pos": "adv",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "patchy",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "paternal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "paternalistic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pathos",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "paywall",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "peacock",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pedestal",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "pedestrian",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "pedicure",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pendulous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pendulum",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "peninsula",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "percent",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "perceptive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "perceptively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "perfect",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "perpetuate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "persecute",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "persecution",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "personification",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "persuasively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pertinent",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pervasive",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "pervasiveness",
+    "pos": "noun",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "perverse",
+    "pos": "adj",
+    "source": "octanove-c2"
+  },
+  {
+    "lemma": "phenomenal",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "phenomenally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "physical",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "physicality",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "physique",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pigeon",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pinnacle",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "placid",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "placidly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plaque",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plaster",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plausibility",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plausible",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plausibly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pleasurable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ploy",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plumbing",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plummet",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "plus",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "poetess",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "poise",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "popularization",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "portable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "portrayal",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "possessor",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "posture",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "pounce",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "preacher",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "predominant",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "predominantly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "premises",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "presently",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "presumably",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "previous",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "primitively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "principally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "privileged",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "profess",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "professionalism",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "profoundly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prohibitive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prohibitively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "proliferate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prolific",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prolifically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "promote",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "prop",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prophet",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prophetic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "protagonist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "provisions",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "provocative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "provocatively",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "prowl",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "psyche",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "psychiatrist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "purity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "qualitative",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "quarry",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "quip",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "quirk",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "quirky",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "radiator",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rapport",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rarity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "raunchily",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "raunchy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "readable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "realism",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "realist",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reap",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reassurance",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recess",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recessive",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recharge",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recite",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recollection",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "recount",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "rediscover",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reenact",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "refine",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "refresh",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "refreshing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "refreshingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "refurbish",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "refurbishment",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "region",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "relapse",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "relinquish",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reluctance",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "reluctantly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remedial",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reminisce",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "reminiscent",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remorse",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remorsefully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remorseless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remorselessly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "remotely",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "removed",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rendering",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "renown",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "repel",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "repellant",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "repertory",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "repute",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "research",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "resent",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "resilience",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "resilient",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "resin",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "resonate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "resource",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "respite",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "restorative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "restrain",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "retention",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "retrace",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "revealing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "revere",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "revise",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "rigid",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "riveting",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "robustly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "role",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "roundup",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "route",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "rudimentary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rudiments",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rumble",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "rustle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ruthless",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ruthlessness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "salivate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "saloon",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "salvage",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "salvation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "salve",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sanctity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sap",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sarcasm",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sarcastic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sarcastically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sauna",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scathing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scheme",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "scoff",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scorn",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scornful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scornfully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "scramble",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "screenplay",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "screenwriter",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "section",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "sedate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sedately",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sedentary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "seedling",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "self-conscious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "self-worth",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sentient",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sentimental",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sentimentally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sequel",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "series",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "settee",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sex",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "shambles",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "shortlist",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "showy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "signal",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "silhouette",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "similar",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "simplicity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "simultaneously",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "site",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "sketchbook",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "slack",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "slackly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "slob",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "smug",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "smugly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "snail",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "snooze",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "socialization",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "solely",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "somersault",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "source",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "spacious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "span",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spark",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spartan",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "specialized",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "specific",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "specification",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "specimen",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spectacle",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spectrum",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "speculative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sphere",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spin",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spine",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "splatter",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "spontaneous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "spontaneously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "spotlight",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "spouse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sprawl",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sprout",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "squad",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "squander",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stability",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stabilize",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "staccato",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stagger",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "staggering",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stake",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stamina",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "standing",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "staple",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stark",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "startling",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "startlingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stately",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "statistic",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "statistical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "steer",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stem",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stereotype",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stiffen",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stimuli",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stimulus",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stir",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stoke",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "storage",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "straightforward",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strain",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strand",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strap",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "strapping",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "strategic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strategy",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "stray",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stress",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "stressfully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stretching",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "strip",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "strive",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "structural",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "structurally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stuffily",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stuffiness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stuffy",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stumble",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "stun",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "style",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "stylistic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "stylistically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "submission",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subordinate",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "subscriber",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subscription",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subsidy",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substantial",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substantially",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substitute",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "substitution",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subtle",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "subtly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "suburban",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suburbia",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "succession",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "successive",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "successor",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "succulent",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "succulently",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "suck",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suds",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "sue",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suffice",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "suicide",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suite",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suitor",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "summary",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "summit",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superb",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superficial",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "superficially",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "superintendent",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "superior",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervise",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervision",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supervisor",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supple",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "supplement",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supportive",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supposedly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suppress",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "supreme",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surge",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surgical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surplus",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surrender",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "surveillance",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspension",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspicion",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "suspicious",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sustain",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sustainably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "swap",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "swing",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "sword",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "symbol",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "symbolic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "symptomatic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "syndrome",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "synopsis",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "synthesis",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "synthetic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "synthetically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "systematic",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tact",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tactful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tactfully",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tactic",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tactical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tailor",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "talkative",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tangle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tangled",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tantamount",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tantrum",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tape",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "task",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "tastebud",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "taut",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tautly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "taxpayer",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "technical",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "technique",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "technology",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "tedious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tediously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tedium",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "telltale",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "temperament",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "temperamental",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "temperamentally",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tempt",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tenant",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tender",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "tense",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "tenure",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terminate",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terrain",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "terrific",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "testament",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "testify",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "testimony",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "text",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "texture",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thankfully",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theatrical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theme",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "theology",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theoretical",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "theory",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "thereafter",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thereby",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thought-provoking",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "thoughtful",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "till",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "timid",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tinker",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tomb",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "topic",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "torment",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "torturous",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "toughness",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tract",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tradition",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "trampoline",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tranquil",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tranquility",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "transatlantic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "transfix",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "traumatic",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tread",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "trying",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "turmoil",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "twitch",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "tycoon",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unassisted",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unconventional",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unconvincing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unconvincingly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "undaunted",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "underlie",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "unenviable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unenviably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "uneventful",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "uniform",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "uniformity",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "uninspiring",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unison",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unmanageable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unmanned",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unmusical",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unmusically",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unoccupied",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unplug",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unreliably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unscathing",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unsettle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unsettling",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unsustainable",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unsustainably",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "untangle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "untangled",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unwavering",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "unwaveringly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "upheaval",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "usher",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "utensil",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "utilise",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "utilize",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "utterly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vacuum",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vague",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "validity",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vanish",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "variable",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "varied",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vegetation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "vehicle",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "vein",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "venerate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "veneration",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ventilate",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "ventilation",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "venture",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verandah",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "verbal",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verdict",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verify",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "versatile",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "versatility",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "verse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "version",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "versus",
+    "pos": "conj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "verve",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "vessel",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "veteran",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "via",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "vibrant",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vice",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vicious",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "viciously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "victorious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "victoriously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "violate",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "violation",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "violet",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "virtue",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vitality",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "vocab",
+    "pos": "noun",
+    "source": "awl"
+  },
+  {
+    "lemma": "vocal",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "voice",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "voluntarily",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "voracious",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "voraciously",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "vow",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vulnerability",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "vulnerable",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "ward",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warehouse",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wares",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "warfare",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warrant",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "warrior",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wary",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "washtub",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "waterfront",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wayside",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "weaken",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "weave",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "weed",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "well-being",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whatsoever",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whereby",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "whilst",
+    "pos": "conj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "whip",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wholly",
+    "pos": "adv",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wicked",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wickedly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "widen",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "widow",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "width",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "willingness",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wing",
+    "pos": "noun",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wipe",
+    "pos": "verb",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wit",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "withdrawal",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "withdrawn",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wizened",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "woo",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wooded",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "workout",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worship",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worthwhile",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "worthy",
+    "pos": "adj",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "wrangle",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wrench",
+    "pos": "verb",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wry",
+    "pos": "adj",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "wryly",
+    "pos": "adv",
+    "source": "octanove-c1"
+  },
+  {
+    "lemma": "yield",
+    "pos": "noun",
+    "source": "ox5000-c1"
+  },
+  {
+    "lemma": "zany",
+    "pos": "adj",
+    "source": "octanove-c1"
+  }
+]

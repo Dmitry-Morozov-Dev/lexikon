@@ -1,0 +1,1158 @@
+[
+  {
+    "word": "ferocious",
+    "lemma": "ferocious",
+    "ipa": "/fərˈoʊʃəs/",
+    "pos": "adj",
+    "tr": "свирепый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a ferocious strategy.",
+        "ru": "Это была свирепая стратегия."
+      },
+      {
+        "en": "The tone grew ferocious.",
+        "ru": "Тон стал свирепым."
+      },
+      {
+        "en": "They rejected the ferocious proposal.",
+        "ru": "Они отвергли свирепое предложение."
+      }
+    ],
+    "colloc": "ferocious approach · ferocious result"
+  },
+  {
+    "word": "ferociously",
+    "lemma": "ferociously",
+    "ipa": "/fərˈoʊʃɪsli/",
+    "pos": "adv",
+    "tr": "яростно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued ferociously overnight.",
+        "ru": "Работа продолжалась свирепо всю ночь."
+      },
+      {
+        "en": "She answered ferociously and clearly.",
+        "ru": "Она ответила яростно и ясно."
+      },
+      {
+        "en": "The claim was ferociously dismissed.",
+        "ru": "Иск был яростно отклонен."
+      }
+    ],
+    "colloc": "speak ferociously · ferociously"
+  },
+  {
+    "word": "ferocity",
+    "lemma": "ferocity",
+    "ipa": "/fərˈɑsəti/",
+    "pos": "noun",
+    "tr": "свирепость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the ferocity.",
+        "ru": "Они недооценили жестокость."
+      },
+      {
+        "en": "A clear ferocity emerged from the data.",
+        "ru": "Из данных возникла явная свирепость."
+      },
+      {
+        "en": "Address the ferocity before it grows.",
+        "ru": "Устраните свирепость, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear ferocity · ferocity of"
+  },
+  {
+    "word": "fiddle",
+    "lemma": "fiddle",
+    "ipa": "/ˈfɪdəl/",
+    "pos": "verb",
+    "tr": "возиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please fiddle the proposal carefully.",
+        "ru": "Пожалуйста, внимательно изучите предложение."
+      },
+      {
+        "en": "They refuse to fiddle without evidence.",
+        "ru": "Они отказываются возиться без доказательств."
+      },
+      {
+        "en": "Leaders must fiddle when stakes are high.",
+        "ru": "Лидеры должны возиться, когда ставки высоки."
+      }
+    ],
+    "colloc": "fiddle pressure · refuse to fiddle",
+    "pattern": "fiddle + N"
+  },
+  {
+    "word": "fiddler",
+    "lemma": "fiddler",
+    "ipa": "/ˈfɪdələr/",
+    "pos": "noun",
+    "tr": "Фэддлер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple fiddler.",
+        "ru": "Не было простого скрипача."
+      },
+      {
+        "en": "Critics mocked the fiddler.",
+        "ru": "Критики издевались над скрипачом."
+      },
+      {
+        "en": "We need a working definition of fiddler.",
+        "ru": "Нам нужно рабочее определение скрипача."
+      }
+    ],
+    "colloc": "the fiddler · fiddler of"
+  },
+  {
+    "word": "fiddly",
+    "lemma": "fiddly",
+    "ipa": "/fiddly/",
+    "pos": "adj",
+    "tr": "легкомысленно",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A fiddly approach may help.",
+        "ru": "Необдуманный подход может помочь."
+      },
+      {
+        "en": "His answer sounded fiddly.",
+        "ru": "Его ответ прозвучал странно."
+      },
+      {
+        "en": "Avoid fiddly claims without proof.",
+        "ru": "Избегайте сомнительных утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly fiddly · remain fiddly"
+  },
+  {
+    "word": "fiend",
+    "lemma": "fiend",
+    "ipa": "/find/",
+    "pos": "noun",
+    "tr": "дьявол",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the fiend closely.",
+        "ru": "Исследователи внимательно изучили злодея."
+      },
+      {
+        "en": "The fiend shaped the final decision.",
+        "ru": "Злодей сформировал окончательное решение."
+      },
+      {
+        "en": "Without the fiend, the argument collapses.",
+        "ru": "Без злодея аргумент рухнет."
+      }
+    ],
+    "colloc": "clear fiend · fiend of"
+  },
+  {
+    "word": "fiendish",
+    "lemma": "fiendish",
+    "ipa": "/ˈfindɪʃ/",
+    "pos": "adj",
+    "tr": "дьявольский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A fiendish approach may help.",
+        "ru": "Может помочь дьявольский подход."
+      },
+      {
+        "en": "His answer sounded fiendish.",
+        "ru": "Его ответ звучал дьявольски."
+      },
+      {
+        "en": "Avoid fiendish claims without proof.",
+        "ru": "Избегайте нечестивых утверждений без доказательств."
+      }
+    ],
+    "colloc": "fiendish tone · fiendish result"
+  },
+  {
+    "word": "fiendishly",
+    "lemma": "fiendishly",
+    "ipa": "/fiendishly/",
+    "pos": "adv",
+    "tr": "дьявольски",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued fiendishly overnight.",
+        "ru": "Работа продолжалась дьявольски всю ночь."
+      },
+      {
+        "en": "She answered fiendishly and clearly.",
+        "ru": "Она ответила дьявольски и ясно."
+      },
+      {
+        "en": "The claim was fiendishly dismissed.",
+        "ru": "Претензия была отклонена."
+      }
+    ],
+    "colloc": "speak fiendishly · fiendishly"
+  },
+  {
+    "word": "fiercely",
+    "lemma": "fiercely",
+    "ipa": "/ˈfɪrsli/",
+    "pos": "adv",
+    "tr": "яростно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke fiercely about the issue.",
+        "ru": "Она яростно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded fiercely.",
+        "ru": "Команда ответила яростно."
+      },
+      {
+        "en": "Progress moved fiercely after the fix.",
+        "ru": "Прогресс яростно двигался после исправления."
+      }
+    ],
+    "colloc": "act fiercely · fiercely"
+  },
+  {
+    "word": "figuratively",
+    "lemma": "figuratively",
+    "ipa": "/fɪˈgjʊrətɪvli/",
+    "pos": "adv",
+    "tr": "образно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke figuratively about the issue.",
+        "ru": "Она говорила образно об этом вопросе."
+      },
+      {
+        "en": "The team responded figuratively.",
+        "ru": "Команда ответила образно."
+      },
+      {
+        "en": "Progress moved figuratively after the fix.",
+        "ru": "Прогресс двигался образно после исправления."
+      }
+    ],
+    "colloc": "speak figuratively · figuratively"
+  },
+  {
+    "word": "finite",
+    "lemma": "finite",
+    "ipa": "/ˈfaɪˌnaɪt/",
+    "pos": "noun",
+    "tr": "конечный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one finite.",
+        "ru": "Ее карьера перевернулась на одну конечную."
+      },
+      {
+        "en": "Public debate ignored the finite.",
+        "ru": "Публичные дебаты игнорировали конечное."
+      },
+      {
+        "en": "Document every finite in the log.",
+        "ru": "Документируйте каждый конечный в журнале."
+      }
+    ],
+    "colloc": "clear finite · finite of"
+  },
+  {
+    "word": "firewall",
+    "lemma": "firewall",
+    "ipa": "/ˈfaɪrwɑl/",
+    "pos": "noun",
+    "tr": "брандмауэр",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple firewall.",
+        "ru": "Не было простого файервола."
+      },
+      {
+        "en": "Critics mocked the firewall.",
+        "ru": "Критики высмеяли файервол."
+      },
+      {
+        "en": "We need a working definition of firewall.",
+        "ru": "Нам нужно рабочее определение брандмауэра."
+      }
+    ],
+    "colloc": "clear firewall · address the firewall"
+  },
+  {
+    "word": "fissure",
+    "lemma": "fissure",
+    "ipa": "/ˈfɪʃər/",
+    "pos": "noun",
+    "tr": "трещина",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the fissure.",
+        "ru": "Они недооценили расщелину."
+      },
+      {
+        "en": "A clear fissure emerged from the data.",
+        "ru": "Из данных образовалась четкая трещина."
+      },
+      {
+        "en": "Address the fissure before it grows.",
+        "ru": "Обращайтесь к трещине, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear fissure · fissure of"
+  },
+  {
+    "word": "fixture",
+    "lemma": "fixture",
+    "ipa": "/ˈfɪksʧər/",
+    "pos": "noun",
+    "tr": "приспособление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the fixture.",
+        "ru": "Они недооценивали эту затею."
+      },
+      {
+        "en": "A clear fixture emerged from the data.",
+        "ru": "Из данных вытекала четкая фиксация."
+      },
+      {
+        "en": "Address the fixture before it grows.",
+        "ru": "Обращайтесь к креплению, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear fixture · fixture of"
+  },
+  {
+    "word": "flagging",
+    "lemma": "flagging",
+    "ipa": "/ˈflægɪŋ/",
+    "pos": "adj",
+    "tr": "флаг",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less flagging option.",
+        "ru": "Выберите вариант с меньшим количеством флагов."
+      },
+      {
+        "en": "The design feels flagging.",
+        "ru": "Дизайн чувствует себя флажком."
+      },
+      {
+        "en": "A flagging policy risks backlash.",
+        "ru": "Ослабление политики грозит ответной реакцией."
+      }
+    ],
+    "colloc": "highly flagging · remain flagging"
+  },
+  {
+    "word": "flashback",
+    "lemma": "flashback",
+    "ipa": "/ˈflæʃˌbæk/",
+    "pos": "noun",
+    "tr": "флешбэк",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking flashback.",
+        "ru": "В докладе приводится поразительный флешбэк."
+      },
+      {
+        "en": "Funding hinges on this flashback.",
+        "ru": "Финансирование зависит от этого флешбэка."
+      },
+      {
+        "en": "Students often confuse flashback with related terms.",
+        "ru": "Студенты часто путают флешбэк с родственными терминами."
+      }
+    ],
+    "colloc": "clear flashback · address the flashback"
+  },
+  {
+    "word": "flask",
+    "lemma": "flask",
+    "ipa": "/flæsk/",
+    "pos": "noun",
+    "tr": "колба",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking flask.",
+        "ru": "В докладе приводится поразительная колба."
+      },
+      {
+        "en": "Funding hinges on this flask.",
+        "ru": "Финансирование зависит от этой колбы."
+      },
+      {
+        "en": "Students often confuse flask with related terms.",
+        "ru": "Студенты часто путают колбу с родственными терминами."
+      }
+    ],
+    "colloc": "clear flask · address the flask"
+  },
+  {
+    "word": "flatout",
+    "lemma": "flatout",
+    "ipa": "/flatout/",
+    "pos": "adv",
+    "tr": "плоский",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued flatout overnight.",
+        "ru": "Работа продолжалась всю ночь."
+      },
+      {
+        "en": "She answered flatout and clearly.",
+        "ru": "Она ответила прямо и ясно."
+      },
+      {
+        "en": "The claim was flatout dismissed.",
+        "ru": "Претензия была отклонена."
+      }
+    ],
+    "colloc": "speak flatout · flatout"
+  },
+  {
+    "word": "flatter",
+    "lemma": "flatter",
+    "ipa": "/ˈflætər/",
+    "pos": "verb",
+    "tr": "льстить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please flatter the proposal carefully.",
+        "ru": "Пожалуйста, аккуратно польстите предложению."
+      },
+      {
+        "en": "They refuse to flatter without evidence.",
+        "ru": "Они отказываются льстить без доказательств."
+      },
+      {
+        "en": "Leaders must flatter when stakes are high.",
+        "ru": "Лидеры должны льстить, когда ставки высоки."
+      }
+    ],
+    "colloc": "flatter pressure · flatter + N",
+    "pattern": "flatter + that"
+  },
+  {
+    "word": "flattery",
+    "lemma": "flattery",
+    "ipa": "/ˈflætəri/",
+    "pos": "noun",
+    "tr": "лесть",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple flattery.",
+        "ru": "Не было простой лести."
+      },
+      {
+        "en": "Critics mocked the flattery.",
+        "ru": "Критики высмеивали лесть."
+      },
+      {
+        "en": "We need a working definition of flattery.",
+        "ru": "Нам нужно рабочее определение лести."
+      }
+    ],
+    "colloc": "clear flattery · flattery of"
+  },
+  {
+    "word": "flaw",
+    "lemma": "flaw",
+    "ipa": "/flɔ/",
+    "pos": "noun",
+    "tr": "недостаток",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple flaw.",
+        "ru": "Не было простого недостатка."
+      },
+      {
+        "en": "Critics mocked the flaw.",
+        "ru": "Критики высмеяли изъян."
+      },
+      {
+        "en": "We need a working definition of flaw.",
+        "ru": "Нам нужно рабочее определение дефекта."
+      }
+    ],
+    "colloc": "clear flaw · flaw of"
+  },
+  {
+    "word": "flick",
+    "lemma": "flick",
+    "ipa": "/flɪk/",
+    "pos": "verb",
+    "tr": "скользить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you flick this for the board?",
+        "ru": "Можете ли вы сделать это для доски?"
+      },
+      {
+        "en": "Analysts flick the numbers overnight.",
+        "ru": "Аналитики крутят цифры за ночь."
+      },
+      {
+        "en": "Do not flick under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "flick pressure · refuse to flick",
+    "pattern": "flick + that"
+  },
+  {
+    "word": "flicker",
+    "lemma": "flicker",
+    "ipa": "/ˈflɪkər/",
+    "pos": "noun",
+    "tr": "мерцание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the flicker.",
+        "ru": "Они недооценили мерцание."
+      },
+      {
+        "en": "A clear flicker emerged from the data.",
+        "ru": "Из данных проявилась явная мерцание."
+      },
+      {
+        "en": "Address the flicker before it grows.",
+        "ru": "Обратитесь к мерцанию, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "the flicker · flicker of"
+  },
+  {
+    "word": "flightiness",
+    "lemma": "flightiness",
+    "ipa": "/flightiness/",
+    "pos": "noun",
+    "tr": "летность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one flightiness.",
+        "ru": "Ее карьера обернулась одной летучестью."
+      },
+      {
+        "en": "Public debate ignored the flightiness.",
+        "ru": "Публичные дебаты проигнорировали летучесть."
+      },
+      {
+        "en": "Document every flightiness in the log.",
+        "ru": "Документируйте каждую летность в журнале."
+      }
+    ],
+    "colloc": "clear flightiness · flightiness of"
+  },
+  {
+    "word": "flighty",
+    "lemma": "flighty",
+    "ipa": "/ˈflaɪti/",
+    "pos": "adj",
+    "tr": "летающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less flighty option.",
+        "ru": "Выберите менее рискованный вариант."
+      },
+      {
+        "en": "The design feels flighty.",
+        "ru": "Дизайн кажется летучим."
+      },
+      {
+        "en": "A flighty policy risks backlash.",
+        "ru": "Лёгкая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "flighty approach · flighty result"
+  },
+  {
+    "word": "floodgates",
+    "lemma": "floodgates",
+    "ipa": "/ˈflədˌgeɪts/",
+    "pos": "noun",
+    "tr": "шлюзы",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the floodgates closely.",
+        "ru": "Исследователи внимательно изучили шлюзы."
+      },
+      {
+        "en": "The floodgates shaped the final decision.",
+        "ru": "Шлюзы сформировали окончательное решение."
+      },
+      {
+        "en": "Without the floodgates, the argument collapses.",
+        "ru": "Без шлюзов аргумент рухнет."
+      }
+    ],
+    "colloc": "clear floodgates · address the floodgates"
+  },
+  {
+    "word": "fluctuate",
+    "lemma": "fluctuate",
+    "ipa": "/ˈfləkʧəˌweɪt/",
+    "pos": "noun",
+    "tr": "колебаться",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the fluctuate closely.",
+        "ru": "Исследователи внимательно изучили колебания."
+      },
+      {
+        "en": "The fluctuate shaped the final decision.",
+        "ru": "Колебания сформировали окончательное решение."
+      },
+      {
+        "en": "Without the fluctuate, the argument collapses.",
+        "ru": "Без колебаний аргумент рухнет."
+      }
+    ],
+    "colloc": "the fluctuate · fluctuate of"
+  },
+  {
+    "word": "fluctuation",
+    "lemma": "fluctuation",
+    "ipa": "/ˌfləkʧuˈeɪʃən/",
+    "pos": "noun",
+    "tr": "колебания",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking fluctuation.",
+        "ru": "В докладе приводятся поразительные колебания."
+      },
+      {
+        "en": "Funding hinges on this fluctuation.",
+        "ru": "Финансирование зависит от этих колебаний."
+      },
+      {
+        "en": "Students often confuse fluctuation with related terms.",
+        "ru": "Студенты часто путают колебания с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear fluctuation · address the fluctuation"
+  },
+  {
+    "word": "folktale",
+    "lemma": "folktale",
+    "ipa": "/ˈfoʊkˌteɪl/",
+    "pos": "noun",
+    "tr": "народная сказка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one folktale.",
+        "ru": "Ее карьера перевернулась на одну народную сказку."
+      },
+      {
+        "en": "Public debate ignored the folktale.",
+        "ru": "Дебаты проигнорировали народ."
+      },
+      {
+        "en": "Document every folktale in the log.",
+        "ru": "Документируйте каждую сказку в журнале."
+      }
+    ],
+    "colloc": "clear folktale · folktale of"
+  },
+  {
+    "word": "forensic",
+    "lemma": "forensic",
+    "ipa": "/ˌfɔˈrɛnsɪk/",
+    "pos": "adj",
+    "tr": "судебно-медицинский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly forensic.",
+        "ru": "Доказательства вряд ли являются судебными."
+      },
+      {
+        "en": "She remained forensic under stress.",
+        "ru": "Она оставалась судмедэкспертом в состоянии стресса."
+      },
+      {
+        "en": "Results looked only forensic.",
+        "ru": "Результаты выглядели только судебно-медицинскими."
+      }
+    ],
+    "colloc": "highly forensic · remain forensic"
+  },
+  {
+    "word": "forfeit",
+    "lemma": "forfeit",
+    "ipa": "/ˈfɔrfɪt/",
+    "pos": "verb",
+    "tr": "лишиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to forfeit with precision.",
+        "ru": "Она научилась с точностью падать."
+      },
+      {
+        "en": "We will forfeit the policy next quarter.",
+        "ru": "Мы откажемся от политики в следующем квартале."
+      },
+      {
+        "en": "Critics forfeit the choice harshly.",
+        "ru": "Критики резко отказываются от выбора."
+      }
+    ],
+    "colloc": "forfeit carefully · refuse to forfeit",
+    "pattern": "forfeit + that"
+  },
+  {
+    "word": "forfeiture",
+    "lemma": "forfeiture",
+    "ipa": "/ˈfɔrfəʧər/",
+    "pos": "noun",
+    "tr": "конфискация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the forfeiture.",
+        "ru": "Они недооценили конфискацию."
+      },
+      {
+        "en": "A clear forfeiture emerged from the data.",
+        "ru": "Явная конфискация произошла из данных."
+      },
+      {
+        "en": "Address the forfeiture before it grows.",
+        "ru": "Устраните конфискацию до того, как она вырастет."
+      }
+    ],
+    "colloc": "clear forfeiture · forfeiture of"
+  },
+  {
+    "word": "forlorn",
+    "lemma": "forlorn",
+    "ipa": "/fərˈlɔrn/",
+    "pos": "adj",
+    "tr": "заброшенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less forlorn option.",
+        "ru": "Выберите менее неудачный вариант."
+      },
+      {
+        "en": "The design feels forlorn.",
+        "ru": "Дизайн кажется забытым."
+      },
+      {
+        "en": "A forlorn policy risks backlash.",
+        "ru": "Забытая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly forlorn · forlorn result"
+  },
+  {
+    "word": "forlornly",
+    "lemma": "forlornly",
+    "ipa": "/forlornly/",
+    "pos": "adv",
+    "tr": "уныло",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke forlornly about the issue.",
+        "ru": "Она замалчивала этот вопрос."
+      },
+      {
+        "en": "The team responded forlornly.",
+        "ru": "Команда отозвалась опрометчиво."
+      },
+      {
+        "en": "Progress moved forlornly after the fix.",
+        "ru": "Прогресс тронулся после исправления."
+      }
+    ],
+    "colloc": "speak forlornly · forlornly"
+  },
+  {
+    "word": "formality",
+    "lemma": "formality",
+    "ipa": "/fɔrˈmæləti/",
+    "pos": "noun",
+    "tr": "формальность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one formality.",
+        "ru": "Ее карьера обернулась одной формальностью."
+      },
+      {
+        "en": "Public debate ignored the formality.",
+        "ru": "Публичные дебаты проигнорировали формальность."
+      },
+      {
+        "en": "Document every formality in the log.",
+        "ru": "Документируйте все формальности в журнале."
+      }
+    ],
+    "colloc": "clear formality · address the formality"
+  },
+  {
+    "word": "formidably",
+    "lemma": "formidably",
+    "ipa": "/ˈfɔrmədəbli/",
+    "pos": "adv",
+    "tr": "грозно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued formidably for reform.",
+        "ru": "Он решительно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied formidably.",
+        "ru": "Правило применялось очень жестко."
+      },
+      {
+        "en": "Costs rose formidably last year.",
+        "ru": "Затраты сильно выросли в прошлом году."
+      }
+    ],
+    "colloc": "respond formidably · formidably"
+  },
+  {
+    "word": "forth",
+    "lemma": "forth",
+    "ipa": "/fɔrθ/",
+    "pos": "adv",
+    "tr": "из них",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued forth overnight.",
+        "ru": "Работа продолжалась всю ночь."
+      },
+      {
+        "en": "She answered forth and clearly.",
+        "ru": "Она ответила ясно и ясно."
+      },
+      {
+        "en": "The claim was forth dismissed.",
+        "ru": "Иск был отклонен."
+      }
+    ],
+    "colloc": "act forth · forth"
+  },
+  {
+    "word": "fractious",
+    "lemma": "fractious",
+    "ipa": "/ˈfrækʃəs/",
+    "pos": "adj",
+    "tr": "капризный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly fractious.",
+        "ru": "Доказательства вряд ли ломкие."
+      },
+      {
+        "en": "She remained fractious under stress.",
+        "ru": "Она оставалась в состоянии стресса."
+      },
+      {
+        "en": "Results looked only fractious.",
+        "ru": "Результаты выглядели только хрупкими."
+      }
+    ],
+    "colloc": "highly fractious · fractious result"
+  },
+  {
+    "word": "fragmentation",
+    "lemma": "fragmentation",
+    "ipa": "/ˌfrægmənˈteɪʃən/",
+    "pos": "noun",
+    "tr": "фрагментация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the fragmentation.",
+        "ru": "Они недооценили фрагментацию."
+      },
+      {
+        "en": "A clear fragmentation emerged from the data.",
+        "ru": "Это была невероятная история."
+      },
+      {
+        "en": "Address the fragmentation before it grows.",
+        "ru": "Устраните фрагментацию до ее роста."
+      }
+    ],
+    "colloc": "clear fragmentation · address the fragmentation"
+  },
+  {
+    "word": "frankly",
+    "lemma": "frankly",
+    "ipa": "/ˈfræŋkli/",
+    "pos": "adv",
+    "tr": "откровенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued frankly overnight.",
+        "ru": "Работа, честно говоря, продолжалась всю ночь."
+      },
+      {
+        "en": "She answered frankly and clearly.",
+        "ru": "Она ответила откровенно и ясно."
+      },
+      {
+        "en": "The claim was frankly dismissed.",
+        "ru": "Иск был откровенно отклонен."
+      }
+    ],
+    "colloc": "speak frankly · frankly"
+  },
+  {
+    "word": "frolic",
+    "lemma": "frolic",
+    "ipa": "/ˈfrɑlɪk/",
+    "pos": "verb",
+    "tr": "резвиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers frolic resources each week.",
+        "ru": "Менеджеры используют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to frolic too quickly.",
+        "ru": "Он слишком быстро резвится."
+      },
+      {
+        "en": "They frolic only after a full review.",
+        "ru": "Они резвятся только после полного обзора."
+      }
+    ],
+    "colloc": "frolic carefully · frolic + N",
+    "pattern": "frolic (+ prep)"
+  },
+  {
+    "word": "frostily",
+    "lemma": "frostily",
+    "ipa": "/frostily/",
+    "pos": "adv",
+    "tr": "морозно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample frostily.",
+        "ru": "Держите образец холодно."
+      },
+      {
+        "en": "Support arrived frostily.",
+        "ru": "Поддержка пришла морозно."
+      },
+      {
+        "en": "The plan failed frostily.",
+        "ru": "План провалился морозно."
+      }
+    ],
+    "colloc": "respond frostily · frostily"
+  },
+  {
+    "word": "frosty",
+    "lemma": "frosty",
+    "ipa": "/ˈfrɔsti/",
+    "pos": "adj",
+    "tr": "морозный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A frosty approach may help.",
+        "ru": "Морозный подход может помочь."
+      },
+      {
+        "en": "His answer sounded frosty.",
+        "ru": "Его ответ звучал морозно."
+      },
+      {
+        "en": "Avoid frosty claims without proof.",
+        "ru": "Избегайте холодных заявлений без доказательств."
+      }
+    ],
+    "colloc": "highly frosty · frosty result"
+  },
+  {
+    "word": "fruition",
+    "lemma": "fruition",
+    "ipa": "/fruˈɪʃən/",
+    "pos": "noun",
+    "tr": "плодоношение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple fruition.",
+        "ru": "Простых плодов не было."
+      },
+      {
+        "en": "Critics mocked the fruition.",
+        "ru": "Критики насмехаются над плодом."
+      },
+      {
+        "en": "We need a working definition of fruition.",
+        "ru": "Нам нужно рабочее определение плодотворности."
+      }
+    ],
+    "colloc": "clear fruition · address the fruition"
+  },
+  {
+    "word": "functional",
+    "lemma": "functional",
+    "ipa": "/ˈfəŋkʃənəl/",
+    "pos": "adj",
+    "tr": "функциональный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less functional option.",
+        "ru": "Выберите менее функциональный вариант."
+      },
+      {
+        "en": "The design feels functional.",
+        "ru": "Дизайн кажется функциональным."
+      },
+      {
+        "en": "A functional policy risks backlash.",
+        "ru": "Функциональная политика может вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "functional tone · functional result"
+  },
+  {
+    "word": "fundraising",
+    "lemma": "fundraising",
+    "ipa": "/ˈfənˌdreɪsɪŋ/",
+    "pos": "noun",
+    "tr": "сбор средств",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one fundraising.",
+        "ru": "Ее карьера началась с одного сбора средств."
+      },
+      {
+        "en": "Public debate ignored the fundraising.",
+        "ru": "Общественные дебаты проигнорировали сбор средств."
+      },
+      {
+        "en": "Document every fundraising in the log.",
+        "ru": "Документируйте каждый сбор средств в журнале."
+      }
+    ],
+    "colloc": "clear fundraising · address the fundraising"
+  },
+  {
+    "word": "fuse",
+    "lemma": "fuse",
+    "ipa": "/fjuz/",
+    "pos": "verb",
+    "tr": "сливаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you fuse this for the board?",
+        "ru": "Ты можешь сплавить это для доски?"
+      },
+      {
+        "en": "Analysts fuse the numbers overnight.",
+        "ru": "Аналитики фиксируют цифры за ночь."
+      },
+      {
+        "en": "Do not fuse under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "fuse carefully · refuse to fuse",
+    "pattern": "fuse + to-INF"
+  },
+  {
+    "word": "fusion",
+    "lemma": "fusion",
+    "ipa": "/fˈjuʒən/",
+    "pos": "noun",
+    "tr": "слияние",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking fusion.",
+        "ru": "В докладе упоминается поразительное слияние."
+      },
+      {
+        "en": "Funding hinges on this fusion.",
+        "ru": "Финансирование зависит от этого слияния."
+      },
+      {
+        "en": "Students often confuse fusion with related terms.",
+        "ru": "Студенты часто путают слияние с родственными терминами."
+      }
+    ],
+    "colloc": "clear fusion · fusion of"
+  },
+  {
+    "word": "gadget",
+    "lemma": "gadget",
+    "ipa": "/ˈgæʤət/",
+    "pos": "noun",
+    "tr": "гаджет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple gadget.",
+        "ru": "Простого гаджета не было."
+      },
+      {
+        "en": "Critics mocked the gadget.",
+        "ru": "Критики высмеяли гаджет."
+      },
+      {
+        "en": "We need a working definition of gadget.",
+        "ru": "Нам нужно рабочее определение гаджета."
+      }
+    ],
+    "colloc": "the gadget · address the gadget"
+  }
+]

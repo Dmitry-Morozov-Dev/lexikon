@@ -1,0 +1,25 @@
+[
+  {
+    "word": "zany",
+    "lemma": "zany",
+    "ipa": "/ˈzeɪni/",
+    "pos": "adj",
+    "tr": "зани",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less zany option.",
+        "ru": "Выберите менее заниженный вариант."
+      },
+      {
+        "en": "The design feels zany.",
+        "ru": "Дизайн кажется зани."
+      },
+      {
+        "en": "A zany policy risks backlash.",
+        "ru": "Политика зани рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "zany approach · remain zany"
+  }
+]

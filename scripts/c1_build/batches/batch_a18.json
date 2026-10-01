@@ -1,0 +1,1257 @@
+[
+  {
+    "word": "nonchalant",
+    "lemma": "nonchalant",
+    "ipa": "/ˌnɑnʃəˈlɑnt/",
+    "pos": "adj",
+    "tr": "беспечный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly nonchalant.",
+        "ru": "Доказательства вряд ли беспечны."
+      },
+      {
+        "en": "She remained nonchalant under stress.",
+        "ru": "Она оставалась беззаботной в стрессе."
+      },
+      {
+        "en": "Results looked only nonchalant.",
+        "ru": "Результаты выглядели просто беспечными."
+      }
+    ],
+    "colloc": "highly nonchalant · nonchalant result",
+    "ex": "The evidence is hardly nonchalant.",
+    "exRu": "Доказательства вряд ли беспечны."
+  },
+  {
+    "word": "nonchalantly",
+    "lemma": "nonchalantly",
+    "ipa": "/ˈnɑnʃəˈlɑntli/",
+    "pos": "adv",
+    "tr": "беспечно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample nonchalantly.",
+        "ru": "Обработайте образец беспечно."
+      },
+      {
+        "en": "Support arrived nonchalantly.",
+        "ru": "Поддержка пришла беспечно."
+      },
+      {
+        "en": "The plan failed nonchalantly.",
+        "ru": "План провалился беспечно."
+      }
+    ],
+    "colloc": "respond nonchalantly · nonchalantly",
+    "ex": "Handle the sample nonchalantly.",
+    "exRu": "Обработайте образец беспечно."
+  },
+  {
+    "word": "nondescript",
+    "lemma": "nondescript",
+    "ipa": "/ˈnɑndɪˈskrɪpt/",
+    "pos": "adj",
+    "tr": "неописуемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less nondescript option.",
+        "ru": "Выберите менее неописуемый вариант."
+      },
+      {
+        "en": "The design feels nondescript.",
+        "ru": "Дизайн кажется неописуемым."
+      },
+      {
+        "en": "A nondescript policy risks backlash.",
+        "ru": "Неописуемая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly nondescript · nondescript result",
+    "ex": "Choose a less nondescript option.",
+    "exRu": "Выберите менее неописуемый вариант."
+  },
+  {
+    "word": "norms",
+    "lemma": "norms",
+    "ipa": "/nɔrmz/",
+    "pos": "noun",
+    "tr": "нормы",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one norms.",
+        "ru": "Ее карьера перевернулась на одну норму."
+      },
+      {
+        "en": "Public debate ignored the norms.",
+        "ru": "Общественные дебаты проигнорировали эти нормы."
+      },
+      {
+        "en": "Document every norms in the log.",
+        "ru": "Документируйте все нормы в журнале."
+      }
+    ],
+    "colloc": "the norms · address the norms",
+    "ex": "Her career turned on one norms.",
+    "exRu": "Ее карьера перевернулась на одну норму."
+  },
+  {
+    "word": "nostalgia",
+    "lemma": "nostalgia",
+    "ipa": "/nɔˈstælʤə/",
+    "pos": "noun",
+    "tr": "ностальгия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the nostalgia closely.",
+        "ru": "Исследователи внимательно изучили ностальгию."
+      },
+      {
+        "en": "The nostalgia shaped the final decision.",
+        "ru": "Ностальгия сформировала окончательное решение."
+      },
+      {
+        "en": "Without the nostalgia, the argument collapses.",
+        "ru": "Без ностальгии аргумент рушится."
+      }
+    ],
+    "colloc": "the nostalgia · address the nostalgia",
+    "ex": "Researchers examined the nostalgia closely.",
+    "exRu": "Исследователи внимательно изучили ностальгию."
+  },
+  {
+    "word": "nostalgic",
+    "lemma": "nostalgic",
+    "ipa": "/nɔˈstælʤɪk/",
+    "pos": "adj",
+    "tr": "ностальгический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly nostalgic.",
+        "ru": "Доказательства вряд ли ностальгические."
+      },
+      {
+        "en": "She remained nostalgic under stress.",
+        "ru": "Она осталась в ностальгии от стресса."
+      },
+      {
+        "en": "Results looked only nostalgic.",
+        "ru": "Результаты выглядели только ностальгическими."
+      }
+    ],
+    "colloc": "highly nostalgic · nostalgic result",
+    "ex": "The evidence is hardly nostalgic.",
+    "exRu": "Доказательства вряд ли ностальгические."
+  },
+  {
+    "word": "nostalgically",
+    "lemma": "nostalgically",
+    "ipa": "/nostalgically/",
+    "pos": "adv",
+    "tr": "ностальгический",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke nostalgically about the issue.",
+        "ru": "Она ностальгически говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded nostalgically.",
+        "ru": "Команда ответила ностальгически."
+      },
+      {
+        "en": "Progress moved nostalgically after the fix.",
+        "ru": "Прогресс двигался ностальгически после исправления."
+      }
+    ],
+    "colloc": "speak nostalgically · nostalgically",
+    "ex": "She spoke nostalgically about the issue.",
+    "exRu": "Она ностальгически говорила об этом вопросе."
+  },
+  {
+    "word": "notably",
+    "lemma": "notably",
+    "ipa": "/ˈnoʊtəbli/",
+    "pos": "adv",
+    "tr": "особенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke notably about the issue.",
+        "ru": "Она особенно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded notably.",
+        "ru": "Команда отреагировала заметно."
+      },
+      {
+        "en": "Progress moved notably after the fix.",
+        "ru": "Прогресс заметно продвинулся после исправления."
+      }
+    ],
+    "colloc": "respond notably · notably",
+    "ex": "She spoke notably about the issue.",
+    "exRu": "Она особенно говорила об этом вопросе."
+  },
+  {
+    "word": "notoriety",
+    "lemma": "notoriety",
+    "ipa": "/ˌnoʊtərˈaɪəti/",
+    "pos": "noun",
+    "tr": "известность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the notoriety.",
+        "ru": "Они недооценили известность."
+      },
+      {
+        "en": "A clear notoriety emerged from the data.",
+        "ru": "Из данных возникла явная известность."
+      },
+      {
+        "en": "Address the notoriety before it grows.",
+        "ru": "Обращайтесь к известности, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear notoriety · notoriety of",
+    "ex": "They underestimated the notoriety.",
+    "exRu": "Они недооценили известность."
+  },
+  {
+    "word": "notoriously",
+    "lemma": "notoriously",
+    "ipa": "/noʊˈtɔriəsli/",
+    "pos": "adv",
+    "tr": "печально известный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke notoriously about the issue.",
+        "ru": "Она печально говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded notoriously.",
+        "ru": "Команда отреагировала печально."
+      },
+      {
+        "en": "Progress moved notoriously after the fix.",
+        "ru": "Прогресс заметно продвинулся после исправления."
+      }
+    ],
+    "colloc": "act notoriously · notoriously",
+    "ex": "She spoke notoriously about the issue.",
+    "exRu": "Она печально говорила об этом вопросе."
+  },
+  {
+    "word": "notwithstanding",
+    "lemma": "notwithstanding",
+    "ipa": "/ˌnɑtwɪθˈstændɪŋ/",
+    "pos": "prep",
+    "tr": "Несмотря на",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Keep the note notwithstanding the file.",
+        "ru": "Держите записку, несмотря на файл."
+      },
+      {
+        "en": "Talks continued notwithstanding closed doors.",
+        "ru": "Переговоры продолжались, несмотря на закрытые двери."
+      },
+      {
+        "en": "Nothing moves notwithstanding consent.",
+        "ru": "Ничего не происходит, несмотря на согласие."
+      }
+    ],
+    "colloc": "notwithstanding",
+    "ex": "Keep the note notwithstanding the file.",
+    "exRu": "Держите записку, несмотря на файл."
+  },
+  {
+    "word": "numb",
+    "lemma": "numb",
+    "ipa": "/nəm/",
+    "pos": "adj",
+    "tr": "онемение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less numb option.",
+        "ru": "Выберите менее тупой вариант."
+      },
+      {
+        "en": "The design feels numb.",
+        "ru": "Дизайн чувствует себя онемевшим."
+      },
+      {
+        "en": "A numb policy risks backlash.",
+        "ru": "Оцепеневшая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "numb approach · numb result",
+    "ex": "Choose a less numb option.",
+    "exRu": "Выберите менее тупой вариант."
+  },
+  {
+    "word": "oblique",
+    "lemma": "oblique",
+    "ipa": "/əˈblik/",
+    "pos": "adj",
+    "tr": "косой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly oblique.",
+        "ru": "Доказательства вряд ли косвенные."
+      },
+      {
+        "en": "She remained oblique under stress.",
+        "ru": "Она оставалась косой в стрессе."
+      },
+      {
+        "en": "Results looked only oblique.",
+        "ru": "Результаты выглядели только косыми."
+      }
+    ],
+    "colloc": "highly oblique · remain oblique",
+    "ex": "The evidence is hardly oblique.",
+    "exRu": "Доказательства вряд ли косвенные."
+  },
+  {
+    "word": "obscure",
+    "lemma": "obscure",
+    "ipa": "/əbˈskjʊr/",
+    "pos": "verb",
+    "tr": "скрывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to obscure with precision.",
+        "ru": "Она научилась скрывать с точностью."
+      },
+      {
+        "en": "We will obscure the policy next quarter.",
+        "ru": "Мы будем скрывать политику в следующем квартале."
+      },
+      {
+        "en": "Critics obscure the choice harshly.",
+        "ru": "Критики жестко скрывают выбор."
+      }
+    ],
+    "colloc": "obscure carefully · obscure + N",
+    "pattern": "obscure + N",
+    "ex": "She learned to obscure with precision.",
+    "exRu": "Она научилась скрывать с точностью."
+  },
+  {
+    "word": "obscurely",
+    "lemma": "obscurely",
+    "ipa": "/obscurely/",
+    "pos": "adv",
+    "tr": "неясно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample obscurely.",
+        "ru": "Обработайте образец незаметно."
+      },
+      {
+        "en": "Support arrived obscurely.",
+        "ru": "Поддержка пришла незаметно."
+      },
+      {
+        "en": "The plan failed obscurely.",
+        "ru": "План провалился незаметно."
+      }
+    ],
+    "colloc": "respond obscurely · obscurely",
+    "ex": "Handle the sample obscurely.",
+    "exRu": "Обработайте образец незаметно."
+  },
+  {
+    "word": "occupant",
+    "lemma": "occupant",
+    "ipa": "/ˈɑkjəpənt/",
+    "pos": "noun",
+    "tr": "пассажир",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the occupant closely.",
+        "ru": "Исследователи внимательно изучили пассажира."
+      },
+      {
+        "en": "The occupant shaped the final decision.",
+        "ru": "Пассажир принял окончательное решение."
+      },
+      {
+        "en": "Without the occupant, the argument collapses.",
+        "ru": "Без оккупанта спор рушится."
+      }
+    ],
+    "colloc": "clear occupant · occupant of",
+    "ex": "Researchers examined the occupant closely.",
+    "exRu": "Исследователи внимательно изучили пассажира."
+  },
+  {
+    "word": "occupational",
+    "lemma": "occupational",
+    "ipa": "/ɑkjəˈpeɪʃənəl/",
+    "pos": "adj",
+    "tr": "профессиональный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly occupational.",
+        "ru": "Доказательства вряд ли профессиональные."
+      },
+      {
+        "en": "She remained occupational under stress.",
+        "ru": "Она оставалась профессиональной в состоянии стресса."
+      },
+      {
+        "en": "Results looked only occupational.",
+        "ru": "Результаты выглядели только профессионально."
+      }
+    ],
+    "colloc": "occupational tone · occupational result",
+    "ex": "The evidence is hardly occupational.",
+    "exRu": "Доказательства вряд ли профессиональные."
+  },
+  {
+    "word": "octogenarian",
+    "lemma": "octogenarian",
+    "ipa": "/ˌɑktəʤɪˈnɛriən/",
+    "pos": "noun",
+    "tr": "октогенарий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple octogenarian.",
+        "ru": "Простого октогенария не было."
+      },
+      {
+        "en": "Critics mocked the octogenarian.",
+        "ru": "Критики высмеяли октогенаря."
+      },
+      {
+        "en": "We need a working definition of octogenarian.",
+        "ru": "Нам нужно рабочее определение октогенария."
+      }
+    ],
+    "colloc": "clear octogenarian · address the octogenarian",
+    "ex": "There was no simple octogenarian.",
+    "exRu": "Простого октогенария не было."
+  },
+  {
+    "word": "oddity",
+    "lemma": "oddity",
+    "ipa": "/ˈɑdəti/",
+    "pos": "noun",
+    "tr": "странность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the oddity.",
+        "ru": "Они недооценили странность."
+      },
+      {
+        "en": "A clear oddity emerged from the data.",
+        "ru": "Из данных возникла явная странность."
+      },
+      {
+        "en": "Address the oddity before it grows.",
+        "ru": "Устраните странность, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear oddity · address the oddity",
+    "ex": "They underestimated the oddity.",
+    "exRu": "Они недооценили странность."
+  },
+  {
+    "word": "offset",
+    "lemma": "offset",
+    "ipa": "/ˈɔfˌsɛt/",
+    "pos": "noun",
+    "tr": "смещение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the offset closely.",
+        "ru": "Исследователи внимательно изучили смещение."
+      },
+      {
+        "en": "The offset shaped the final decision.",
+        "ru": "Смещение сформировало окончательное решение."
+      },
+      {
+        "en": "Without the offset, the argument collapses.",
+        "ru": "Без компенсации аргумент рушится."
+      }
+    ],
+    "colloc": "clear offset · address the offset",
+    "ex": "Researchers examined the offset closely.",
+    "exRu": "Исследователи внимательно изучили смещение."
+  },
+  {
+    "word": "opacity",
+    "lemma": "opacity",
+    "ipa": "/oʊˈpæsəti/",
+    "pos": "noun",
+    "tr": "непрозрачность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the opacity.",
+        "ru": "Они недооценили непрозрачность."
+      },
+      {
+        "en": "A clear opacity emerged from the data.",
+        "ru": "Из данных возникла явная непрозрачность."
+      },
+      {
+        "en": "Address the opacity before it grows.",
+        "ru": "Устраните непрозрачность, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear opacity · address the opacity",
+    "ex": "They underestimated the opacity.",
+    "exRu": "Они недооценили непрозрачность."
+  },
+  {
+    "word": "opulence",
+    "lemma": "opulence",
+    "ipa": "/ˈɑpjələns/",
+    "pos": "noun",
+    "tr": "богатство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the opulence.",
+        "ru": "Они недооценили богатство."
+      },
+      {
+        "en": "A clear opulence emerged from the data.",
+        "ru": "Явное богатство появилось из данных."
+      },
+      {
+        "en": "Address the opulence before it grows.",
+        "ru": "Обращайтесь к богатству, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "the opulence · address the opulence",
+    "ex": "They underestimated the opulence.",
+    "exRu": "Они недооценили богатство."
+  },
+  {
+    "word": "opulent",
+    "lemma": "opulent",
+    "ipa": "/ˈɑpjələnt/",
+    "pos": "adj",
+    "tr": "богатый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly opulent.",
+        "ru": "Доказательства едва ли богаты."
+      },
+      {
+        "en": "She remained opulent under stress.",
+        "ru": "Она оставалась богатой в стрессе."
+      },
+      {
+        "en": "Results looked only opulent.",
+        "ru": "Результаты выглядели только роскошно."
+      }
+    ],
+    "colloc": "opulent tone · opulent result",
+    "ex": "The evidence is hardly opulent.",
+    "exRu": "Доказательства едва ли богаты."
+  },
+  {
+    "word": "opulently",
+    "lemma": "opulently",
+    "ipa": "/opulently/",
+    "pos": "adv",
+    "tr": "роскошно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued opulently for reform.",
+        "ru": "Он активно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied opulently.",
+        "ru": "Правило применялось роскошно."
+      },
+      {
+        "en": "Costs rose opulently last year.",
+        "ru": "Затраты росли в прошлом году."
+      }
+    ],
+    "colloc": "respond opulently · opulently",
+    "ex": "He argued opulently for reform.",
+    "exRu": "Он активно выступал за реформы."
+  },
+  {
+    "word": "orchard",
+    "lemma": "orchard",
+    "ipa": "/ˈɔrʧərd/",
+    "pos": "noun",
+    "tr": "сад",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the orchard.",
+        "ru": "Они недооценили сад."
+      },
+      {
+        "en": "A clear orchard emerged from the data.",
+        "ru": "Из данных вышел четкий сад."
+      },
+      {
+        "en": "Address the orchard before it grows.",
+        "ru": "Обращайтесь к саду, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the orchard · address the orchard",
+    "ex": "They underestimated the orchard.",
+    "exRu": "Они недооценили сад."
+  },
+  {
+    "word": "ordinarily",
+    "lemma": "ordinarily",
+    "ipa": "/ˌɔrdəˈnɛrəli/",
+    "pos": "adv",
+    "tr": "обычно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample ordinarily.",
+        "ru": "Обработайте образец обычно."
+      },
+      {
+        "en": "Support arrived ordinarily.",
+        "ru": "Поддержка приходит обычно."
+      },
+      {
+        "en": "The plan failed ordinarily.",
+        "ru": "План обычно проваливался."
+      }
+    ],
+    "colloc": "act ordinarily · ordinarily",
+    "ex": "Handle the sample ordinarily.",
+    "exRu": "Обработайте образец обычно."
+  },
+  {
+    "word": "orient",
+    "lemma": "orient",
+    "ipa": "/ˈɔriˌɛnt/",
+    "pos": "noun",
+    "tr": "восток",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the orient.",
+        "ru": "Они недооценили Восток."
+      },
+      {
+        "en": "A clear orient emerged from the data.",
+        "ru": "Из данных появился четкий ориентир."
+      },
+      {
+        "en": "Address the orient before it grows.",
+        "ru": "Обратитесь к востоку, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear orient · address the orient",
+    "ex": "They underestimated the orient.",
+    "exRu": "Они недооценили Восток."
+  },
+  {
+    "word": "ornamental",
+    "lemma": "ornamental",
+    "ipa": "/ˌɔrnəˈmɛntəl/",
+    "pos": "adj",
+    "tr": "декоративный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An ornamental approach may help.",
+        "ru": "Может помочь декоративный подход."
+      },
+      {
+        "en": "His answer sounded ornamental.",
+        "ru": "Его ответ звучал орнаментально."
+      },
+      {
+        "en": "Avoid ornamental claims without proof.",
+        "ru": "Избегайте орнаментальных утверждений без доказательств."
+      }
+    ],
+    "colloc": "ornamental approach · ornamental result",
+    "ex": "An ornamental approach may help.",
+    "exRu": "Может помочь декоративный подход."
+  },
+  {
+    "word": "orphan",
+    "lemma": "orphan",
+    "ipa": "/ˈɔrfən/",
+    "pos": "verb",
+    "tr": "сирота",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers orphan resources each week.",
+        "ru": "Руководители сиротских ресурсов каждую неделю."
+      },
+      {
+        "en": "He tends to orphan too quickly.",
+        "ru": "Он слишком быстро становится сиротой."
+      },
+      {
+        "en": "They orphan only after a full review.",
+        "ru": "Они сироты только после полного пересмотра."
+      }
+    ],
+    "colloc": "orphan pressure · refuse to orphan",
+    "pattern": "orphan + that",
+    "ex": "Managers orphan resources each week.",
+    "exRu": "Руководители сиротских ресурсов каждую неделю."
+  },
+  {
+    "word": "ostensible",
+    "lemma": "ostensible",
+    "ipa": "/ɑˈstɛnsəbəl/",
+    "pos": "adj",
+    "tr": "видимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An ostensible approach may help.",
+        "ru": "Явный подход может помочь."
+      },
+      {
+        "en": "His answer sounded ostensible.",
+        "ru": "Его ответ звучал мнимо."
+      },
+      {
+        "en": "Avoid ostensible claims without proof.",
+        "ru": "Избегайте претензий без доказательств."
+      }
+    ],
+    "colloc": "highly ostensible · ostensible result",
+    "ex": "An ostensible approach may help.",
+    "exRu": "Явный подход может помочь."
+  },
+  {
+    "word": "ostensibly",
+    "lemma": "ostensibly",
+    "ipa": "/ɑˈstɛnsəbli/",
+    "pos": "adv",
+    "tr": "якобы",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample ostensibly.",
+        "ru": "Обработайте образец якобы."
+      },
+      {
+        "en": "Support arrived ostensibly.",
+        "ru": "Поддержка пришла якобы."
+      },
+      {
+        "en": "The plan failed ostensibly.",
+        "ru": "Неудавшийся план."
+      }
+    ],
+    "colloc": "act ostensibly · ostensibly",
+    "ex": "Handle the sample ostensibly.",
+    "exRu": "Обработайте образец якобы."
+  },
+  {
+    "word": "otter",
+    "lemma": "otter",
+    "ipa": "/ˈɑtər/",
+    "pos": "noun",
+    "tr": "выдра",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the otter closely.",
+        "ru": "Исследователи внимательно изучили выдру."
+      },
+      {
+        "en": "The otter shaped the final decision.",
+        "ru": "Выдра сформировала окончательное решение."
+      },
+      {
+        "en": "Without the otter, the argument collapses.",
+        "ru": "Без выдры аргумент рухнет."
+      }
+    ],
+    "colloc": "clear otter · address the otter",
+    "ex": "Researchers examined the otter closely.",
+    "exRu": "Исследователи внимательно изучили выдру."
+  },
+  {
+    "word": "outmoded",
+    "lemma": "outmoded",
+    "ipa": "/ˌaʊtˈmoʊdɪd/",
+    "pos": "adj",
+    "tr": "устаревший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An outmoded approach may help.",
+        "ru": "Устаревший подход может помочь."
+      },
+      {
+        "en": "His answer sounded outmoded.",
+        "ru": "Его ответ прозвучал устаревшим."
+      },
+      {
+        "en": "Avoid outmoded claims without proof.",
+        "ru": "Избегайте устаревших утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly outmoded · remain outmoded",
+    "ex": "An outmoded approach may help.",
+    "exRu": "Устаревший подход может помочь."
+  },
+  {
+    "word": "outset",
+    "lemma": "outset",
+    "ipa": "/ˈaʊtˌsɛt/",
+    "pos": "noun",
+    "tr": "начало",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking outset.",
+        "ru": "В докладе приводится поразительное начало."
+      },
+      {
+        "en": "Funding hinges on this outset.",
+        "ru": "Финансирование зависит от этого с самого начала."
+      },
+      {
+        "en": "Students often confuse outset with related terms.",
+        "ru": "Студенты часто путают начало с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear outset · address the outset",
+    "ex": "The report cites a striking outset.",
+    "exRu": "В докладе приводится поразительное начало."
+  },
+  {
+    "word": "overalls",
+    "lemma": "overalls",
+    "ipa": "/ˈoʊvərˌɔlz/",
+    "pos": "noun",
+    "tr": "комбинезоны",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking overalls.",
+        "ru": "В докладе приводятся поразительные комбинезоны."
+      },
+      {
+        "en": "Funding hinges on this overalls.",
+        "ru": "Финансирование зависит от этого комбинезона."
+      },
+      {
+        "en": "Students often confuse overalls with related terms.",
+        "ru": "Студенты часто путают комбинезоны со связанными терминами."
+      }
+    ],
+    "colloc": "the overalls · overalls of",
+    "ex": "The report cites a striking overalls.",
+    "exRu": "В докладе приводятся поразительные комбинезоны."
+  },
+  {
+    "word": "overdraft",
+    "lemma": "overdraft",
+    "ipa": "/ˈoʊvərˌdræft/",
+    "pos": "verb",
+    "tr": "перерасход",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers overdraft resources each week.",
+        "ru": "Менеджеры переоценивают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to overdraft too quickly.",
+        "ru": "Он слишком быстро перегружается."
+      },
+      {
+        "en": "They overdraft only after a full review.",
+        "ru": "Они овердрафтуют только после полного пересмотра."
+      }
+    ],
+    "colloc": "overdraft the claim · refuse to overdraft",
+    "pattern": "overdraft + N",
+    "ex": "Managers overdraft resources each week.",
+    "exRu": "Менеджеры переоценивают ресурсы каждую неделю."
+  },
+  {
+    "word": "overlay",
+    "lemma": "overlay",
+    "ipa": "/ˈoʊvərˌleɪ/",
+    "pos": "verb",
+    "tr": "накладывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers overlay resources each week.",
+        "ru": "Менеджеры накладывают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to overlay too quickly.",
+        "ru": "Он склонен накладывать слишком быстро."
+      },
+      {
+        "en": "They overlay only after a full review.",
+        "ru": "Они накладываются только после полного обзора."
+      }
+    ],
+    "colloc": "overlay carefully · refuse to overlay",
+    "pattern": "overlay (+ prep)",
+    "ex": "Managers overlay resources each week.",
+    "exRu": "Менеджеры накладывают ресурсы каждую неделю."
+  },
+  {
+    "word": "overly",
+    "lemma": "overly",
+    "ipa": "/ˈoʊvərli/",
+    "pos": "adv",
+    "tr": "чрезмерно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample overly.",
+        "ru": "Обработайте образец чрезмерно."
+      },
+      {
+        "en": "Support arrived overly.",
+        "ru": "Поддержка прибыла чрезмерно."
+      },
+      {
+        "en": "The plan failed overly.",
+        "ru": "План провалился чрезмерно."
+      }
+    ],
+    "colloc": "act overly · overly",
+    "ex": "Handle the sample overly.",
+    "exRu": "Обработайте образец чрезмерно."
+  },
+  {
+    "word": "overseer",
+    "lemma": "overseer",
+    "ipa": "/ˈoʊvərˈsiər/",
+    "pos": "noun",
+    "tr": "надзиратель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one overseer.",
+        "ru": "Ее карьера перевернулась на одного надсмотрщика."
+      },
+      {
+        "en": "Public debate ignored the overseer.",
+        "ru": "Публичные дебаты проигнорировали наблюдателя."
+      },
+      {
+        "en": "Document every overseer in the log.",
+        "ru": "Документируйте каждого надзирателя в журнале."
+      }
+    ],
+    "colloc": "the overseer · overseer of",
+    "ex": "Her career turned on one overseer.",
+    "exRu": "Ее карьера перевернулась на одного надсмотрщика."
+  },
+  {
+    "word": "paddle",
+    "lemma": "paddle",
+    "ipa": "/ˈpædəl/",
+    "pos": "verb",
+    "tr": "в паддл",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers paddle resources each week.",
+        "ru": "Менеджеры еженедельно используют ресурсы."
+      },
+      {
+        "en": "He tends to paddle too quickly.",
+        "ru": "Он склонен слишком быстро грести."
+      },
+      {
+        "en": "They paddle only after a full review.",
+        "ru": "Они появляются только после полного обзора."
+      }
+    ],
+    "colloc": "paddle the claim · paddle + N",
+    "pattern": "paddle (+ prep)",
+    "ex": "Managers paddle resources each week.",
+    "exRu": "Менеджеры еженедельно используют ресурсы."
+  },
+  {
+    "word": "painstaking",
+    "lemma": "painstaking",
+    "ipa": "/ˈpeɪnˌsteɪkɪŋ/",
+    "pos": "adj",
+    "tr": "кропотливый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A painstaking approach may help.",
+        "ru": "Тщательный подход может помочь."
+      },
+      {
+        "en": "His answer sounded painstaking.",
+        "ru": "Его ответ прозвучал кропотливо."
+      },
+      {
+        "en": "Avoid painstaking claims without proof.",
+        "ru": "Избегайте кропотливых заявлений без доказательств."
+      }
+    ],
+    "colloc": "painstaking tone · remain painstaking",
+    "ex": "A painstaking approach may help.",
+    "exRu": "Тщательный подход может помочь."
+  },
+  {
+    "word": "painstakingly",
+    "lemma": "painstakingly",
+    "ipa": "/ˈpeɪnˌsteɪkɪŋli/",
+    "pos": "adv",
+    "tr": "кропотливо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample painstakingly.",
+        "ru": "Обработайте образец кропотливо."
+      },
+      {
+        "en": "Support arrived painstakingly.",
+        "ru": "Поддержка пришла кропотливо."
+      },
+      {
+        "en": "The plan failed painstakingly.",
+        "ru": "План провалился кропотливо."
+      }
+    ],
+    "colloc": "act painstakingly · painstakingly",
+    "ex": "Handle the sample painstakingly.",
+    "exRu": "Обработайте образец кропотливо."
+  },
+  {
+    "word": "palatable",
+    "lemma": "palatable",
+    "ipa": "/ˈpælətəbəl/",
+    "pos": "adj",
+    "tr": "вкусный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A palatable approach may help.",
+        "ru": "Приятный подход может помочь."
+      },
+      {
+        "en": "His answer sounded palatable.",
+        "ru": "Его ответ звучал приятно."
+      },
+      {
+        "en": "Avoid palatable claims without proof.",
+        "ru": "Избегайте приемлемых утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly palatable · palatable result",
+    "ex": "A palatable approach may help.",
+    "exRu": "Приятный подход может помочь."
+  },
+  {
+    "word": "panorama",
+    "lemma": "panorama",
+    "ipa": "/ˌpænərˈæmə/",
+    "pos": "noun",
+    "tr": "панорама",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the panorama.",
+        "ru": "Они недооценили панораму."
+      },
+      {
+        "en": "A clear panorama emerged from the data.",
+        "ru": "Из данных возникла четкая панорама."
+      },
+      {
+        "en": "Address the panorama before it grows.",
+        "ru": "Обратитесь к панораме, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear panorama · panorama of",
+    "ex": "They underestimated the panorama.",
+    "exRu": "Они недооценили панораму."
+  },
+  {
+    "word": "panoramic",
+    "lemma": "panoramic",
+    "ipa": "/ˌpænərˈæmɪk/",
+    "pos": "adj",
+    "tr": "панорамный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A panoramic approach may help.",
+        "ru": "Может помочь панорамный подход."
+      },
+      {
+        "en": "His answer sounded panoramic.",
+        "ru": "Его ответ звучал панорамно."
+      },
+      {
+        "en": "Avoid panoramic claims without proof.",
+        "ru": "Избегайте панорамных утверждений без доказательств."
+      }
+    ],
+    "colloc": "panoramic tone · panoramic result",
+    "ex": "A panoramic approach may help.",
+    "exRu": "Может помочь панорамный подход."
+  },
+  {
+    "word": "parable",
+    "lemma": "parable",
+    "ipa": "/ˈpɛrəbəl/",
+    "pos": "noun",
+    "tr": "притча",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple parable.",
+        "ru": "Не было простой притчи."
+      },
+      {
+        "en": "Critics mocked the parable.",
+        "ru": "Критики высмеяли притчу."
+      },
+      {
+        "en": "We need a working definition of parable.",
+        "ru": "Нам нужно рабочее определение притчи."
+      }
+    ],
+    "colloc": "clear parable · address the parable",
+    "ex": "There was no simple parable.",
+    "exRu": "Не было простой притчи."
+  },
+  {
+    "word": "paradigm",
+    "lemma": "paradigm",
+    "ipa": "/ˈpɛrəˌdaɪm/",
+    "pos": "noun",
+    "tr": "парадигма",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one paradigm.",
+        "ru": "Ее карьера перевернулась на одну парадигму."
+      },
+      {
+        "en": "Public debate ignored the paradigm.",
+        "ru": "Общественные дебаты игнорируют эту парадигму."
+      },
+      {
+        "en": "Document every paradigm in the log.",
+        "ru": "Документируйте каждую парадигму в журнале."
+      }
+    ],
+    "colloc": "clear paradigm · address the paradigm",
+    "ex": "Her career turned on one paradigm.",
+    "exRu": "Ее карьера перевернулась на одну парадигму."
+  },
+  {
+    "word": "paradoxical",
+    "lemma": "paradoxical",
+    "ipa": "/ˌpɛrəˈdɑksɪkəl/",
+    "pos": "adj",
+    "tr": "парадоксальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly paradoxical.",
+        "ru": "Доказательства вряд ли парадоксальны."
+      },
+      {
+        "en": "She remained paradoxical under stress.",
+        "ru": "Она оставалась парадоксальной в стрессе."
+      },
+      {
+        "en": "Results looked only paradoxical.",
+        "ru": "Результаты выглядели только парадоксально."
+      }
+    ],
+    "colloc": "highly paradoxical · paradoxical result",
+    "ex": "The evidence is hardly paradoxical.",
+    "exRu": "Доказательства вряд ли парадоксальны."
+  },
+  {
+    "word": "paradoxically",
+    "lemma": "paradoxically",
+    "ipa": "/ˌpɛrəˈdɑksəkəli/",
+    "pos": "adv",
+    "tr": "парадоксально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke paradoxically about the issue.",
+        "ru": "Она парадоксально высказалась по этому вопросу."
+      },
+      {
+        "en": "The team responded paradoxically.",
+        "ru": "Команда отреагировала парадоксально."
+      },
+      {
+        "en": "Progress moved paradoxically after the fix.",
+        "ru": "Прогресс парадоксальным образом двигался после исправления."
+      }
+    ],
+    "colloc": "respond paradoxically · paradoxically",
+    "ex": "She spoke paradoxically about the issue.",
+    "exRu": "Она парадоксально высказалась по этому вопросу."
+  },
+  {
+    "word": "paramount",
+    "lemma": "paramount",
+    "ipa": "/ˈpɛrəˌmaʊnt/",
+    "pos": "adj",
+    "tr": "первостепенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A paramount approach may help.",
+        "ru": "Важнейший подход может помочь."
+      },
+      {
+        "en": "His answer sounded paramount.",
+        "ru": "Его ответ звучал первостепенно."
+      },
+      {
+        "en": "Avoid paramount claims without proof.",
+        "ru": "Избегайте претензий без доказательств."
+      }
+    ],
+    "colloc": "paramount approach · remain paramount",
+    "ex": "A paramount approach may help.",
+    "exRu": "Важнейший подход может помочь."
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "word": "impersonal",
+    "lemma": "impersonal",
+    "ipa": "/ˌɪmˈpərsənəl/",
+    "pos": "adj",
+    "tr": "безличный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an impersonal strategy.",
+        "ru": "Это была безличная стратегия."
+      },
+      {
+        "en": "The tone grew impersonal.",
+        "ru": "Тон стал безличным."
+      },
+      {
+        "en": "They rejected the impersonal proposal.",
+        "ru": "Они отвергли безличное предложение."
+      }
+    ],
+    "colloc": "highly impersonal · remain impersonal",
+    "ex": "It was an impersonal strategy.",
+    "exRu": "Это была безличная стратегия."
+  },
+  {
+    "word": "impersonally",
+    "lemma": "impersonally",
+    "ipa": "/impersonally/",
+    "pos": "adv",
+    "tr": "безлично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued impersonally for reform.",
+        "ru": "Он безлично выступал за реформы."
+      },
+      {
+        "en": "The rule was applied impersonally.",
+        "ru": "Это правило применялось безлично."
+      },
+      {
+        "en": "Costs rose impersonally last year.",
+        "ru": "Затраты в прошлом году выросли безлично."
+      }
+    ],
+    "colloc": "respond impersonally · impersonally",
+    "ex": "He argued impersonally for reform.",
+    "exRu": "Он безлично выступал за реформы."
+  },
+  {
+    "word": "impersonate",
+    "lemma": "impersonate",
+    "ipa": "/ˌɪmˈpərsəˌneɪt/",
+    "pos": "verb",
+    "tr": "изображать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please impersonate the proposal carefully.",
+        "ru": "Пожалуйста, тщательно выдавайте себя за предложение."
+      },
+      {
+        "en": "They refuse to impersonate without evidence.",
+        "ru": "Они отказываются притворяться без доказательств."
+      },
+      {
+        "en": "Leaders must impersonate when stakes are high.",
+        "ru": "Лидеры должны выдавать себя за лидеров, когда ставки высоки."
+      }
+    ],
+    "colloc": "impersonate the claim · refuse to impersonate",
+    "pattern": "impersonate (+ prep)",
+    "ex": "Please impersonate the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно выдавайте себя за предложение."
+  },
+  {
+    "word": "impersonation",
+    "lemma": "impersonation",
+    "ipa": "/ˌɪmpərsəˈneɪʃən/",
+    "pos": "noun",
+    "tr": "имперсонация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple impersonation.",
+        "ru": "Не было простого подражания."
+      },
+      {
+        "en": "Critics mocked the impersonation.",
+        "ru": "Критики высмеивали подмену."
+      },
+      {
+        "en": "We need a working definition of impersonation.",
+        "ru": "Нам нужно рабочее определение олицетворения."
+      }
+    ],
+    "colloc": "clear impersonation · impersonation of",
+    "ex": "There was no simple impersonation.",
+    "exRu": "Не было простого подражания."
+  },
+  {
+    "word": "impersonator",
+    "lemma": "impersonator",
+    "ipa": "/ˌɪmˈpərsəneɪtər/",
+    "pos": "noun",
+    "tr": "подражатель",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking impersonator.",
+        "ru": "В докладе приводится поразительный имитатор."
+      },
+      {
+        "en": "Funding hinges on this impersonator.",
+        "ru": "Финансирование зависит от этого имитатора."
+      },
+      {
+        "en": "Students often confuse impersonator with related terms.",
+        "ru": "Студенты часто путают имитатора с родственными терминами."
+      }
+    ],
+    "colloc": "clear impersonator · impersonator of",
+    "ex": "The report cites a striking impersonator.",
+    "exRu": "В докладе приводится поразительный имитатор."
+  },
+  {
+    "word": "impervious",
+    "lemma": "impervious",
+    "ipa": "/ˌɪmˈpərviəs/",
+    "pos": "adj",
+    "tr": "непроницаемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less impervious option.",
+        "ru": "Выберите менее непроницаемый вариант."
+      },
+      {
+        "en": "The design feels impervious.",
+        "ru": "Дизайн кажется непроницаемым."
+      },
+      {
+        "en": "An impervious policy risks backlash.",
+        "ru": "Непроницаемая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly impervious · impervious result",
+    "ex": "Choose a less impervious option.",
+    "exRu": "Выберите менее непроницаемый вариант."
+  },
+  {
+    "word": "impish",
+    "lemma": "impish",
+    "ipa": "/ˈɪmpɪʃ/",
+    "pos": "adj",
+    "tr": "беспощадный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an impish strategy.",
+        "ru": "Это была имперская стратегия."
+      },
+      {
+        "en": "The tone grew impish.",
+        "ru": "Тон стал импичментом."
+      },
+      {
+        "en": "They rejected the impish proposal.",
+        "ru": "Они отвергли импичмент."
+      }
+    ],
+    "colloc": "impish tone · impish result",
+    "ex": "It was an impish strategy.",
+    "exRu": "Это была имперская стратегия."
+  },
+  {
+    "word": "impishly",
+    "lemma": "impishly",
+    "ipa": "/impishly/",
+    "pos": "adv",
+    "tr": "бесцеремонно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued impishly overnight.",
+        "ru": "Работа продолжалась в течение ночи."
+      },
+      {
+        "en": "She answered impishly and clearly.",
+        "ru": "Она ответила имплицитно и ясно."
+      },
+      {
+        "en": "The claim was impishly dismissed.",
+        "ru": "Иск был импичментно отклонен."
+      }
+    ],
+    "colloc": "act impishly · impishly",
+    "ex": "Work continued impishly overnight.",
+    "exRu": "Работа продолжалась в течение ночи."
+  },
+  {
+    "word": "implicate",
+    "lemma": "implicate",
+    "ipa": "/ˈɪmplɪˌkeɪt/",
+    "pos": "verb",
+    "tr": "подразумевать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers implicate resources each week.",
+        "ru": "Менеджеры используют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to implicate too quickly.",
+        "ru": "Он слишком быстро вмешивается."
+      },
+      {
+        "en": "They implicate only after a full review.",
+        "ru": "Они подразумевают только после полного пересмотра."
+      }
+    ],
+    "colloc": "implicate pressure · refuse to implicate",
+    "pattern": "implicate + that",
+    "ex": "Managers implicate resources each week.",
+    "exRu": "Менеджеры используют ресурсы каждую неделю."
+  },
+  {
+    "word": "implicit",
+    "lemma": "implicit",
+    "ipa": "/ˌɪmˈplɪsət/",
+    "pos": "noun",
+    "tr": "подразумеваемый",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the implicit closely.",
+        "ru": "Исследователи внимательно изучили неявное."
+      },
+      {
+        "en": "The implicit shaped the final decision.",
+        "ru": "Неявное сформировало окончательное решение."
+      },
+      {
+        "en": "Without the implicit, the argument collapses.",
+        "ru": "Без неявного аргумента аргумент проваливается."
+      }
+    ],
+    "colloc": "clear implicit · address the implicit",
+    "ex": "Researchers examined the implicit closely.",
+    "exRu": "Исследователи внимательно изучили неявное."
+  },
+  {
+    "word": "imposition",
+    "lemma": "imposition",
+    "ipa": "/ˌɪmpəˈzɪʃən/",
+    "pos": "noun",
+    "tr": "навязывание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one imposition.",
+        "ru": "Ее карьера обернулась одним наложением."
+      },
+      {
+        "en": "Public debate ignored the imposition.",
+        "ru": "Публичные дебаты проигнорировали навязывание."
+      },
+      {
+        "en": "Document every imposition in the log.",
+        "ru": "Документируйте каждое наложение в журнале."
+      }
+    ],
+    "colloc": "the imposition · imposition of",
+    "ex": "Her career turned on one imposition.",
+    "exRu": "Ее карьера обернулась одним наложением."
+  },
+  {
+    "word": "impoverished",
+    "lemma": "impoverished",
+    "ipa": "/ˌɪmˈpɑvrɪʃt/",
+    "pos": "adj",
+    "tr": "обедневший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly impoverished.",
+        "ru": "Доказательства едва ли обнищали."
+      },
+      {
+        "en": "She remained impoverished under stress.",
+        "ru": "Она оставалась бедной в стрессе."
+      },
+      {
+        "en": "Results looked only impoverished.",
+        "ru": "Результаты выглядели только бедными."
+      }
+    ],
+    "colloc": "highly impoverished · impoverished result",
+    "ex": "The evidence is hardly impoverished.",
+    "exRu": "Доказательства едва ли обнищали."
+  },
+  {
+    "word": "impresario",
+    "lemma": "impresario",
+    "ipa": "/ˌɪmprɪˈsɑriˌoʊ/",
+    "pos": "noun",
+    "tr": "Импресарио",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the impresario.",
+        "ru": "Они недооценили импресарио."
+      },
+      {
+        "en": "A clear impresario emerged from the data.",
+        "ru": "Явный импресарио появился из данных."
+      },
+      {
+        "en": "Address the impresario before it grows.",
+        "ru": "Обратитесь к импресарио, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "clear impresario · impresario of",
+    "ex": "They underestimated the impresario.",
+    "exRu": "Они недооценили импресарио."
+  },
+  {
+    "word": "impressionistic",
+    "lemma": "impressionistic",
+    "ipa": "/ˌɪmˌprɛʃəˈnɪstɪk/",
+    "pos": "adj",
+    "tr": "импрессионист",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less impressionistic option.",
+        "ru": "Выберите менее импрессионистский вариант."
+      },
+      {
+        "en": "The design feels impressionistic.",
+        "ru": "Дизайн кажется импрессионистским."
+      },
+      {
+        "en": "An impressionistic policy risks backlash.",
+        "ru": "Импрессионистская политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "impressionistic approach · remain impressionistic",
+    "ex": "Choose a less impressionistic option.",
+    "exRu": "Выберите менее импрессионистский вариант."
+  },
+  {
+    "word": "impressionistically",
+    "lemma": "impressionistically",
+    "ipa": "/impressionistically/",
+    "pos": "adv",
+    "tr": "импрессионистически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample impressionistically.",
+        "ru": "Обработайте образец импрессионистически."
+      },
+      {
+        "en": "Support arrived impressionistically.",
+        "ru": "Поддержка пришла импрессионистски."
+      },
+      {
+        "en": "The plan failed impressionistically.",
+        "ru": "План провалился импрессионистически."
+      }
+    ],
+    "colloc": "act impressionistically · impressionistically",
+    "ex": "Handle the sample impressionistically.",
+    "exRu": "Обработайте образец импрессионистически."
+  },
+  {
+    "word": "improvisational",
+    "lemma": "improvisational",
+    "ipa": "/ˌɪmprɑvɪˈzeɪʃənəl/",
+    "pos": "adj",
+    "tr": "импровизационный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less improvisational option.",
+        "ru": "Выберите менее импровизированный вариант."
+      },
+      {
+        "en": "The design feels improvisational.",
+        "ru": "Дизайн кажется импровизирующим."
+      },
+      {
+        "en": "An improvisational policy risks backlash.",
+        "ru": "Импровизационная политика может вызвать негативную реакцию."
+      }
+    ],
+    "colloc": "improvisational tone · remain improvisational",
+    "ex": "Choose a less improvisational option.",
+    "exRu": "Выберите менее импровизированный вариант."
+  },
+  {
+    "word": "inartistic",
+    "lemma": "inartistic",
+    "ipa": "/inartistic/",
+    "pos": "adj",
+    "tr": "художественный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly inartistic.",
+        "ru": "Доказательства вряд ли являются неискусственными."
+      },
+      {
+        "en": "She remained inartistic under stress.",
+        "ru": "Она оставалась неартисткой в стрессе."
+      },
+      {
+        "en": "Results looked only inartistic.",
+        "ru": "Результаты выглядели только искусно."
+      }
+    ],
+    "colloc": "inartistic approach · remain inartistic",
+    "ex": "The evidence is hardly inartistic.",
+    "exRu": "Доказательства вряд ли являются неискусственными."
+  },
+  {
+    "word": "inchoate",
+    "lemma": "inchoate",
+    "ipa": "/inchoate/",
+    "pos": "adj",
+    "tr": "зазубренный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less inchoate option.",
+        "ru": "Выберите менее сложный вариант."
+      },
+      {
+        "en": "The design feels inchoate.",
+        "ru": "Дизайн кажется несостоятельным."
+      },
+      {
+        "en": "An inchoate policy risks backlash.",
+        "ru": "Нестабильная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "inchoate approach · inchoate result",
+    "ex": "Choose a less inchoate option.",
+    "exRu": "Выберите менее сложный вариант."
+  },
+  {
+    "word": "inchoately",
+    "lemma": "inchoately",
+    "ipa": "/inchoately/",
+    "pos": "adv",
+    "tr": "дерзко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued inchoately for reform.",
+        "ru": "Он бесцеремонно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied inchoately.",
+        "ru": "Правило применялось невнятно."
+      },
+      {
+        "en": "Costs rose inchoately last year.",
+        "ru": "Затраты в прошлом году росли неопределенно."
+      }
+    ],
+    "colloc": "respond inchoately · inchoately",
+    "ex": "He argued inchoately for reform.",
+    "exRu": "Он бесцеремонно выступал за реформы."
+  },
+  {
+    "word": "incipient",
+    "lemma": "incipient",
+    "ipa": "/ˌɪnˈsɪpiənt/",
+    "pos": "adj",
+    "tr": "начинающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less incipient option.",
+        "ru": "Выберите менее начальный вариант."
+      },
+      {
+        "en": "The design feels incipient.",
+        "ru": "Дизайн чувствует себя зарождающимся."
+      },
+      {
+        "en": "An incipient policy risks backlash.",
+        "ru": "Начавшаяся политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "incipient tone · incipient result",
+    "ex": "Choose a less incipient option.",
+    "exRu": "Выберите менее начальный вариант."
+  },
+  {
+    "word": "incise",
+    "lemma": "incise",
+    "ipa": "/ˌɪnˈsaɪz/",
+    "pos": "verb",
+    "tr": "врезаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to incise with precision.",
+        "ru": "Она научилась лазить с точностью."
+      },
+      {
+        "en": "We will incise the policy next quarter.",
+        "ru": "Мы разработаем политику в следующем квартале."
+      },
+      {
+        "en": "Critics incise the choice harshly.",
+        "ru": "Критики резко критикуют выбор."
+      }
+    ],
+    "colloc": "incise pressure · incise + N",
+    "pattern": "incise (+ prep)",
+    "ex": "She learned to incise with precision.",
+    "exRu": "Она научилась лазить с точностью."
+  },
+  {
+    "word": "incision",
+    "lemma": "incision",
+    "ipa": "/ˌɪnˈsɪʒən/",
+    "pos": "noun",
+    "tr": "разрез",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking incision.",
+        "ru": "В докладе приводится поразительный разрез."
+      },
+      {
+        "en": "Funding hinges on this incision.",
+        "ru": "Финансирование зависит от этого разреза."
+      },
+      {
+        "en": "Students often confuse incision with related terms.",
+        "ru": "Студенты часто путают разрез с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear incision · incision of",
+    "ex": "The report cites a striking incision.",
+    "exRu": "В докладе приводится поразительный разрез."
+  },
+  {
+    "word": "incisor",
+    "lemma": "incisor",
+    "ipa": "/ˌɪnˈsaɪzər/",
+    "pos": "noun",
+    "tr": "резец",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one incisor.",
+        "ru": "Ее карьера перевернулась на одном резце."
+      },
+      {
+        "en": "Public debate ignored the incisor.",
+        "ru": "Публичные дебаты проигнорировали резец."
+      },
+      {
+        "en": "Document every incisor in the log.",
+        "ru": "Документируйте каждый резец в журнале."
+      }
+    ],
+    "colloc": "clear incisor · address the incisor",
+    "ex": "Her career turned on one incisor.",
+    "exRu": "Ее карьера перевернулась на одном резце."
+  },
+  {
+    "word": "incline",
+    "lemma": "incline",
+    "ipa": "/ˌɪnˈklaɪn/",
+    "pos": "noun",
+    "tr": "наклон",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple incline.",
+        "ru": "Вместо этого он набрал обороты и удалился."
+      },
+      {
+        "en": "Critics mocked the incline.",
+        "ru": "Критики высмеяли наклон."
+      },
+      {
+        "en": "We need a working definition of incline.",
+        "ru": "Нам нужно рабочее определение наклона."
+      }
+    ],
+    "colloc": "clear incline · incline of",
+    "ex": "There was no simple incline.",
+    "exRu": "Вместо этого он набрал обороты и удалился."
+  },
+  {
+    "word": "inclusive",
+    "lemma": "inclusive",
+    "ipa": "/ˌɪnˈklusɪv/",
+    "pos": "adj",
+    "tr": "инклюзивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an inclusive strategy.",
+        "ru": "Это была инклюзивная стратегия."
+      },
+      {
+        "en": "The tone grew inclusive.",
+        "ru": "Тон рос включительно."
+      },
+      {
+        "en": "They rejected the inclusive proposal.",
+        "ru": "Они отвергли инклюзивное предложение."
+      }
+    ],
+    "colloc": "inclusive approach · inclusive result",
+    "ex": "It was an inclusive strategy.",
+    "exRu": "Это была инклюзивная стратегия."
+  },
+  {
+    "word": "inclusively",
+    "lemma": "inclusively",
+    "ipa": "/inclusively/",
+    "pos": "adv",
+    "tr": "включительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample inclusively.",
+        "ru": "Обработать образец включительно."
+      },
+      {
+        "en": "Support arrived inclusively.",
+        "ru": "Поддержка пришла включительно."
+      },
+      {
+        "en": "The plan failed inclusively.",
+        "ru": "План провалился включительно."
+      }
+    ],
+    "colloc": "respond inclusively · inclusively",
+    "ex": "Handle the sample inclusively.",
+    "exRu": "Обработать образец включительно."
+  },
+  {
+    "word": "incongruity",
+    "lemma": "incongruity",
+    "ipa": "/ˌɪŋkɔŋˈruɪti/",
+    "pos": "noun",
+    "tr": "несоответствие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one incongruity.",
+        "ru": "Ее карьера перевернулась на одно несоответствие."
+      },
+      {
+        "en": "Public debate ignored the incongruity.",
+        "ru": "Общественные дебаты игнорировали несоответствие."
+      },
+      {
+        "en": "Document every incongruity in the log.",
+        "ru": "Документируйте каждое несоответствие в журнале."
+      }
+    ],
+    "colloc": "clear incongruity · incongruity of",
+    "ex": "Her career turned on one incongruity.",
+    "exRu": "Ее карьера перевернулась на одно несоответствие."
+  },
+  {
+    "word": "incongruous",
+    "lemma": "incongruous",
+    "ipa": "/ˌɪŋˈkɔŋruəs/",
+    "pos": "adj",
+    "tr": "несовместимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An incongruous approach may help.",
+        "ru": "Несоответствующий подход может помочь."
+      },
+      {
+        "en": "His answer sounded incongruous.",
+        "ru": "Его ответ звучал нелепо."
+      },
+      {
+        "en": "Avoid incongruous claims without proof.",
+        "ru": "Избегайте несоответствующих утверждений без доказательств."
+      }
+    ],
+    "colloc": "highly incongruous · remain incongruous",
+    "ex": "An incongruous approach may help.",
+    "exRu": "Несоответствующий подход может помочь."
+  },
+  {
+    "word": "incongruously",
+    "lemma": "incongruously",
+    "ipa": "/ˌɪŋˈkɔŋruəsli/",
+    "pos": "adv",
+    "tr": "несогласованно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued incongruously for reform.",
+        "ru": "Он выступал против реформы."
+      },
+      {
+        "en": "The rule was applied incongruously.",
+        "ru": "Правило применялось несоответствующим образом."
+      },
+      {
+        "en": "Costs rose incongruously last year.",
+        "ru": "Затраты выросли несоответствующим образом в прошлом году."
+      }
+    ],
+    "colloc": "act incongruously · incongruously",
+    "ex": "He argued incongruously for reform.",
+    "exRu": "Он выступал против реформы."
+  },
+  {
+    "word": "incumbent",
+    "lemma": "incumbent",
+    "ipa": "/ˌɪnˈkəmbənt/",
+    "pos": "noun",
+    "tr": "действующий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the incumbent.",
+        "ru": "Они недооценили действующего президента."
+      },
+      {
+        "en": "A clear incumbent emerged from the data.",
+        "ru": "Из этих данных вытекала четкая должность."
+      },
+      {
+        "en": "Address the incumbent before it grows.",
+        "ru": "Обращайтесь к действующему лицу, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear incumbent · incumbent of",
+    "ex": "They underestimated the incumbent.",
+    "exRu": "Они недооценили действующего президента."
+  },
+  {
+    "word": "indefinite",
+    "lemma": "indefinite",
+    "ipa": "/ˌɪnˈdɛfənət/",
+    "pos": "adj",
+    "tr": "неопределенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an indefinite strategy.",
+        "ru": "Это была неопределенная стратегия."
+      },
+      {
+        "en": "The tone grew indefinite.",
+        "ru": "Тон стал неопределенным."
+      },
+      {
+        "en": "They rejected the indefinite proposal.",
+        "ru": "Они отклонили бессрочное предложение."
+      }
+    ],
+    "colloc": "highly indefinite · remain indefinite",
+    "ex": "It was an indefinite strategy.",
+    "exRu": "Это была неопределенная стратегия."
+  },
+  {
+    "word": "indefinitely",
+    "lemma": "indefinitely",
+    "ipa": "/ˌɪnˈdɛfənətli/",
+    "pos": "adv",
+    "tr": "бессрочно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample indefinitely.",
+        "ru": "Обработайте образец на неопределенный срок."
+      },
+      {
+        "en": "Support arrived indefinitely.",
+        "ru": "Поддержка пришла бессрочно."
+      },
+      {
+        "en": "The plan failed indefinitely.",
+        "ru": "План провалился на неопределенный срок."
+      }
+    ],
+    "colloc": "respond indefinitely · indefinitely",
+    "ex": "Handle the sample indefinitely.",
+    "exRu": "Обработайте образец на неопределенный срок."
+  },
+  {
+    "word": "indignant",
+    "lemma": "indignant",
+    "ipa": "/ˌɪnˈdɪgnənt/",
+    "pos": "adj",
+    "tr": "возмущаться",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less indignant option.",
+        "ru": "Выберите менее неприятный вариант."
+      },
+      {
+        "en": "The design feels indignant.",
+        "ru": "Дизайн вызывает возмущение."
+      },
+      {
+        "en": "An indignant policy risks backlash.",
+        "ru": "Возмущенная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly indignant · indignant result",
+    "ex": "Choose a less indignant option.",
+    "exRu": "Выберите менее неприятный вариант."
+  },
+  {
+    "word": "indignantly",
+    "lemma": "indignantly",
+    "ipa": "/ˌɪnˈdɪgnənˌtli/",
+    "pos": "adv",
+    "tr": "возмущенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Handle the sample indignantly.",
+        "ru": "Отнеситесь к выборке с возмущением."
+      },
+      {
+        "en": "Support arrived indignantly.",
+        "ru": "Поддержка пришла с возмущением."
+      },
+      {
+        "en": "The plan failed indignantly.",
+        "ru": "План с негодованием провалился."
+      }
+    ],
+    "colloc": "act indignantly · indignantly",
+    "ex": "Handle the sample indignantly.",
+    "exRu": "Отнеситесь к выборке с возмущением."
+  },
+  {
+    "word": "indiscrete",
+    "lemma": "indiscrete",
+    "ipa": "/indiscrete/",
+    "pos": "adj",
+    "tr": "нескромный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an indiscrete strategy.",
+        "ru": "Это была непродуманная стратегия."
+      },
+      {
+        "en": "The tone grew indiscrete.",
+        "ru": "Тон стал нескромным."
+      },
+      {
+        "en": "They rejected the indiscrete proposal.",
+        "ru": "Они отвергли необдуманное предложение."
+      }
+    ],
+    "colloc": "highly indiscrete · indiscrete result",
+    "ex": "It was an indiscrete strategy.",
+    "exRu": "Это была непродуманная стратегия."
+  },
+  {
+    "word": "indiscretion",
+    "lemma": "indiscretion",
+    "ipa": "/ˌɪndɪˈskrɛʃən/",
+    "pos": "noun",
+    "tr": "неосторожность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple indiscretion.",
+        "ru": "Не было никакой простой неосторожности."
+      },
+      {
+        "en": "Critics mocked the indiscretion.",
+        "ru": "Критики высмеивали неосторожность."
+      },
+      {
+        "en": "We need a working definition of indiscretion.",
+        "ru": "Нам нужно рабочее определение неосторожности."
+      }
+    ],
+    "colloc": "clear indiscretion · address the indiscretion",
+    "ex": "There was no simple indiscretion.",
+    "exRu": "Не было никакой простой неосторожности."
+  },
+  {
+    "word": "indispensable",
+    "lemma": "indispensable",
+    "ipa": "/ˌɪndɪˈspɛnsəbəl/",
+    "pos": "adj",
+    "tr": "необходимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An indispensable approach may help.",
+        "ru": "Незаменимый подход может помочь."
+      },
+      {
+        "en": "His answer sounded indispensable.",
+        "ru": "Его ответ звучал незаменимым."
+      },
+      {
+        "en": "Avoid indispensable claims without proof.",
+        "ru": "Избегайте незаменимых требований без доказательств."
+      }
+    ],
+    "colloc": "highly indispensable · remain indispensable",
+    "ex": "An indispensable approach may help.",
+    "exRu": "Незаменимый подход может помочь."
+  },
+  {
+    "word": "individualism",
+    "lemma": "individualism",
+    "ipa": "/ˌɪndɪvɪˈduəˌlɪzəm/",
+    "pos": "noun",
+    "tr": "индивидуализм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple individualism.",
+        "ru": "Не было простого индивидуализма."
+      },
+      {
+        "en": "Critics mocked the individualism.",
+        "ru": "Критики высмеивали индивидуализм."
+      },
+      {
+        "en": "We need a working definition of individualism.",
+        "ru": "Нам нужно рабочее определение индивидуализма."
+      }
+    ],
+    "colloc": "clear individualism · individualism of",
+    "ex": "There was no simple individualism.",
+    "exRu": "Не было простого индивидуализма."
+  },
+  {
+    "word": "individuality",
+    "lemma": "individuality",
+    "ipa": "/ˌɪnˌdɪvɪʤuˈælɪti/",
+    "pos": "noun",
+    "tr": "индивидуальность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one individuality.",
+        "ru": "Ее карьера перевернулась на одну индивидуальность."
+      },
+      {
+        "en": "Public debate ignored the individuality.",
+        "ru": "Общественные дебаты игнорируют индивидуальность."
+      },
+      {
+        "en": "Document every individuality in the log.",
+        "ru": "Документируйте каждую индивидуальность в журнале."
+      }
+    ],
+    "colloc": "the individuality · address the individuality",
+    "ex": "Her career turned on one individuality.",
+    "exRu": "Ее карьера перевернулась на одну индивидуальность."
+  },
+  {
+    "word": "indolence",
+    "lemma": "indolence",
+    "ipa": "/indolence/",
+    "pos": "noun",
+    "tr": "леность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one indolence.",
+        "ru": "Ее карьера перевернулась на одну лень."
+      },
+      {
+        "en": "Public debate ignored the indolence.",
+        "ru": "Общественные дебаты проигнорировали леность."
+      },
+      {
+        "en": "Document every indolence in the log.",
+        "ru": "Задокументируйте каждую лень в журнале."
+      }
+    ],
+    "colloc": "clear indolence · indolence of",
+    "ex": "Her career turned on one indolence.",
+    "exRu": "Ее карьера перевернулась на одну лень."
+  },
+  {
+    "word": "indolent",
+    "lemma": "indolent",
+    "ipa": "/ˈɪndələnt/",
+    "pos": "adj",
+    "tr": "ленивый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less indolent option.",
+        "ru": "Выберите менее ленивый вариант."
+      },
+      {
+        "en": "The design feels indolent.",
+        "ru": "Дизайн кажется скучным."
+      },
+      {
+        "en": "An indolent policy risks backlash.",
+        "ru": "Безрассудная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly indolent · indolent result",
+    "ex": "Choose a less indolent option.",
+    "exRu": "Выберите менее ленивый вариант."
+  },
+  {
+    "word": "indolently",
+    "lemma": "indolently",
+    "ipa": "/indolently/",
+    "pos": "adv",
+    "tr": "лениво",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke indolently about the issue.",
+        "ru": "Она неохотно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded indolently.",
+        "ru": "Команда ответила безрассудно."
+      },
+      {
+        "en": "Progress moved indolently after the fix.",
+        "ru": "Прогресс медленно двигался после исправления."
+      }
+    ],
+    "colloc": "respond indolently · indolently",
+    "ex": "She spoke indolently about the issue.",
+    "exRu": "Она неохотно говорила об этом вопросе."
+  },
+  {
+    "word": "inducement",
+    "lemma": "inducement",
+    "ipa": "/ˌɪnˈdusmənt/",
+    "pos": "noun",
+    "tr": "побуждение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the inducement.",
+        "ru": "Они недооценили стимул."
+      },
+      {
+        "en": "A clear inducement emerged from the data.",
+        "ru": "Явный стимул появился из данных."
+      },
+      {
+        "en": "Address the inducement before it grows.",
+        "ru": "Обращайтесь к индукции, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear inducement · address the inducement",
+    "ex": "They underestimated the inducement.",
+    "exRu": "Они недооценили стимул."
+  },
+  {
+    "word": "induct",
+    "lemma": "induct",
+    "ipa": "/ˌɪnˈdəkt/",
+    "pos": "verb",
+    "tr": "вводить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you induct this for the board?",
+        "ru": "Можете ли вы ввести это для совета директоров?"
+      },
+      {
+        "en": "Analysts induct the numbers overnight.",
+        "ru": "Аналитики вводят цифры за ночь."
+      },
+      {
+        "en": "Do not induct under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "induct the claim · refuse to induct",
+    "pattern": "induct + that",
+    "ex": "Can you induct this for the board?",
+    "exRu": "Можете ли вы ввести это для совета директоров?"
+  },
+  {
+    "word": "induction",
+    "lemma": "induction",
+    "ipa": "/ˌɪnˈdəkʃən/",
+    "pos": "noun",
+    "tr": "индукция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one induction.",
+        "ru": "Ее карьера началась с одной индукции."
+      },
+      {
+        "en": "Public debate ignored the induction.",
+        "ru": "Публичные дебаты проигнорировали индукцию."
+      },
+      {
+        "en": "Document every induction in the log.",
+        "ru": "Документируйте каждую индукцию в журнале."
+      }
+    ],
+    "colloc": "clear induction · induction of",
+    "ex": "Her career turned on one induction.",
+    "exRu": "Ее карьера началась с одной индукции."
+  },
+  {
+    "word": "indulgence",
+    "lemma": "indulgence",
+    "ipa": "/ˌɪnˈdəlʤəns/",
+    "pos": "noun",
+    "tr": "индульгенция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the indulgence closely.",
+        "ru": "Исследователи внимательно изучили снисходительность."
+      },
+      {
+        "en": "The indulgence shaped the final decision.",
+        "ru": "Индульгенция сформировала окончательное решение."
+      },
+      {
+        "en": "Without the indulgence, the argument collapses.",
+        "ru": "Без снисхождения аргумент рушится."
+      }
+    ],
+    "colloc": "the indulgence · address the indulgence",
+    "ex": "Researchers examined the indulgence closely.",
+    "exRu": "Исследователи внимательно изучили снисходительность."
+  },
+  {
+    "word": "indulgently",
+    "lemma": "indulgently",
+    "ipa": "/indulgently/",
+    "pos": "adv",
+    "tr": "снисходительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued indulgently overnight.",
+        "ru": "Работа продолжалась снисходительно всю ночь."
+      },
+      {
+        "en": "She answered indulgently and clearly.",
+        "ru": "Она ответила снисходительно и ясно."
+      },
+      {
+        "en": "The claim was indulgently dismissed.",
+        "ru": "Иск был снисходительно отклонен."
+      }
+    ],
+    "colloc": "respond indulgently · indulgently",
+    "ex": "Work continued indulgently overnight.",
+    "exRu": "Работа продолжалась снисходительно всю ночь."
+  },
+  {
+    "word": "inexcusable",
+    "lemma": "inexcusable",
+    "ipa": "/ˌɪnɪkˈskjuzəbəl/",
+    "pos": "adj",
+    "tr": "непростительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly inexcusable.",
+        "ru": "Доказательства вряд ли непростительны."
+      },
+      {
+        "en": "She remained inexcusable under stress.",
+        "ru": "Она оставалась непростительной в стрессе."
+      },
+      {
+        "en": "Results looked only inexcusable.",
+        "ru": "Результаты выглядели просто непростительно."
+      }
+    ],
+    "colloc": "inexcusable approach · remain inexcusable",
+    "ex": "The evidence is hardly inexcusable.",
+    "exRu": "Доказательства вряд ли непростительны."
+  },
+  {
+    "word": "inexcusably",
+    "lemma": "inexcusably",
+    "ipa": "/ˌɪnɪkˈskjuzəbli/",
+    "pos": "adv",
+    "tr": "непростительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued inexcusably overnight.",
+        "ru": "Работа продолжалась непростительно всю ночь."
+      },
+      {
+        "en": "She answered inexcusably and clearly.",
+        "ru": "Она ответила непростительно и ясно."
+      },
+      {
+        "en": "The claim was inexcusably dismissed.",
+        "ru": "Иск был непростительно отклонен."
+      }
+    ],
+    "colloc": "act inexcusably · inexcusably",
+    "ex": "Work continued inexcusably overnight.",
+    "exRu": "Работа продолжалась непростительно всю ночь."
+  },
+  {
+    "word": "inexhaustible",
+    "lemma": "inexhaustible",
+    "ipa": "/ˌɪnɪgˈzɔstəbəl/",
+    "pos": "adj",
+    "tr": "неисчерпаемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly inexhaustible.",
+        "ru": "Доказательства вряд ли неисчерпаемы."
+      },
+      {
+        "en": "She remained inexhaustible under stress.",
+        "ru": "Она оставалась неисчерпаемой в стрессе."
+      },
+      {
+        "en": "Results looked only inexhaustible.",
+        "ru": "Результаты выглядели неисчерпаемыми."
+      }
+    ],
+    "colloc": "inexhaustible approach · inexhaustible result",
+    "ex": "The evidence is hardly inexhaustible.",
+    "exRu": "Доказательства вряд ли неисчерпаемы."
+  }
+]

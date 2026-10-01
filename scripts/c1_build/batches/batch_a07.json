@@ -1,0 +1,1265 @@
+[
+  {
+    "word": "dismal",
+    "lemma": "dismal",
+    "ipa": "/ˈdɪzməl/",
+    "pos": "adj",
+    "tr": "мрачный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A dismal approach may help.",
+        "ru": "Удручающий подход может помочь."
+      },
+      {
+        "en": "His answer sounded dismal.",
+        "ru": "Его ответ звучал мрачно."
+      },
+      {
+        "en": "Avoid dismal claims without proof.",
+        "ru": "Избегайте мрачных заявлений без доказательств."
+      }
+    ],
+    "colloc": "highly dismal · remain dismal",
+    "ex": "A dismal approach may help.",
+    "exRu": "Удручающий подход может помочь."
+  },
+  {
+    "word": "dismally",
+    "lemma": "dismally",
+    "ipa": "/ˈdɪzməli/",
+    "pos": "adv",
+    "tr": "дистально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued dismally for reform.",
+        "ru": "Он решительно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied dismally.",
+        "ru": "Правило применялось удручающе."
+      },
+      {
+        "en": "Costs rose dismally last year.",
+        "ru": "Затраты резко выросли в прошлом году."
+      }
+    ],
+    "colloc": "act dismally · dismally",
+    "ex": "He argued dismally for reform.",
+    "exRu": "Он решительно выступал за реформы."
+  },
+  {
+    "word": "dismay",
+    "lemma": "dismay",
+    "ipa": "/dɪsˈmeɪ/",
+    "pos": "verb",
+    "tr": "смутиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to dismay with precision.",
+        "ru": "Она научилась расстраиваться с точностью."
+      },
+      {
+        "en": "We will dismay the policy next quarter.",
+        "ru": "Мы обеспокоим политику в следующем квартале."
+      },
+      {
+        "en": "Critics dismay the choice harshly.",
+        "ru": "Критики резко огорчают выбор."
+      }
+    ],
+    "colloc": "dismay carefully · dismay + N",
+    "pattern": "dismay + N",
+    "ex": "She learned to dismay with precision.",
+    "exRu": "Она научилась расстраиваться с точностью."
+  },
+  {
+    "word": "disparage",
+    "lemma": "disparage",
+    "ipa": "/dɪˈspɛrɪʤ/",
+    "pos": "verb",
+    "tr": "унижать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to disparage with precision.",
+        "ru": "Она научилась пренебрежительно относиться к точности."
+      },
+      {
+        "en": "We will disparage the policy next quarter.",
+        "ru": "Мы обесценим политику в следующем квартале."
+      },
+      {
+        "en": "Critics disparage the choice harshly.",
+        "ru": "Критики резко пренебрежительно относятся к выбору."
+      }
+    ],
+    "colloc": "disparage the claim · disparage + N",
+    "pattern": "disparage (+ prep)",
+    "ex": "She learned to disparage with precision.",
+    "exRu": "Она научилась пренебрежительно относиться к точности."
+  },
+  {
+    "word": "disparagement",
+    "lemma": "disparagement",
+    "ipa": "/disparagement/",
+    "pos": "noun",
+    "tr": "пренебрежение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the disparagement.",
+        "ru": "Они недооценили ущерб."
+      },
+      {
+        "en": "A clear disparagement emerged from the data.",
+        "ru": "Произошло явное несоответствие данных."
+      },
+      {
+        "en": "Address the disparagement before it grows.",
+        "ru": "Устраните ущерб до того, как он вырастет."
+      }
+    ],
+    "colloc": "clear disparagement · disparagement of",
+    "ex": "They underestimated the disparagement.",
+    "exRu": "Они недооценили ущерб."
+  },
+  {
+    "word": "disparaging",
+    "lemma": "disparaging",
+    "ipa": "/dɪˈspɛrɪʤɪŋ/",
+    "pos": "adj",
+    "tr": "пренебрежительно",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly disparaging.",
+        "ru": "Доказательства вряд ли пренебрежительно."
+      },
+      {
+        "en": "She remained disparaging under stress.",
+        "ru": "Она оставалась пренебрежительной в стрессе."
+      },
+      {
+        "en": "Results looked only disparaging.",
+        "ru": "Результаты выглядели только унизительно."
+      }
+    ],
+    "colloc": "disparaging tone · disparaging result",
+    "ex": "The evidence is hardly disparaging.",
+    "exRu": "Доказательства вряд ли пренебрежительно."
+  },
+  {
+    "word": "disparagingly",
+    "lemma": "disparagingly",
+    "ipa": "/dɪˈspɛrɪʤɪŋli/",
+    "pos": "adv",
+    "tr": "пренебрежительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued disparagingly overnight.",
+        "ru": "Работа продолжалась пренебрежительно всю ночь."
+      },
+      {
+        "en": "She answered disparagingly and clearly.",
+        "ru": "Она ответила пренебрежительно и ясно."
+      },
+      {
+        "en": "The claim was disparagingly dismissed.",
+        "ru": "Иск был пренебрежительно отклонен."
+      }
+    ],
+    "colloc": "speak disparagingly · disparagingly",
+    "ex": "Work continued disparagingly overnight.",
+    "exRu": "Работа продолжалась пренебрежительно всю ночь."
+  },
+  {
+    "word": "dispensable",
+    "lemma": "dispensable",
+    "ipa": "/dɪˈspɛnsəbəl/",
+    "pos": "adj",
+    "tr": "одноразовый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A dispensable approach may help.",
+        "ru": "Незаменимый подход может помочь."
+      },
+      {
+        "en": "His answer sounded dispensable.",
+        "ru": "Его ответ звучал незаменимым."
+      },
+      {
+        "en": "Avoid dispensable claims without proof.",
+        "ru": "Избегайте необоснованных претензий без доказательств."
+      }
+    ],
+    "colloc": "dispensable approach · remain dispensable",
+    "ex": "A dispensable approach may help.",
+    "exRu": "Незаменимый подход может помочь."
+  },
+  {
+    "word": "dispensary",
+    "lemma": "dispensary",
+    "ipa": "/ˈdɪspɛnˌsɛri/",
+    "pos": "noun",
+    "tr": "диспансер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the dispensary closely.",
+        "ru": "Исследователи внимательно изучили диспансер."
+      },
+      {
+        "en": "The dispensary shaped the final decision.",
+        "ru": "Диспансер принял окончательное решение."
+      },
+      {
+        "en": "Without the dispensary, the argument collapses.",
+        "ru": "Без диспансера аргумент рухнет."
+      }
+    ],
+    "colloc": "clear dispensary · address the dispensary",
+    "ex": "Researchers examined the dispensary closely.",
+    "exRu": "Исследователи внимательно изучили диспансер."
+  },
+  {
+    "word": "dispense",
+    "lemma": "dispense",
+    "ipa": "/dɪˈspɛns/",
+    "pos": "verb",
+    "tr": "раздавать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please dispense the proposal carefully.",
+        "ru": "Пожалуйста, отпустите предложение осторожно."
+      },
+      {
+        "en": "They refuse to dispense without evidence.",
+        "ru": "Они отказываются выдавать без доказательств."
+      },
+      {
+        "en": "Leaders must dispense when stakes are high.",
+        "ru": "Лидеры должны отказаться, когда ставки высоки."
+      }
+    ],
+    "colloc": "dispense the claim · refuse to dispense",
+    "pattern": "dispense + that",
+    "ex": "Please dispense the proposal carefully.",
+    "exRu": "Пожалуйста, отпустите предложение осторожно."
+  },
+  {
+    "word": "dispersal",
+    "lemma": "dispersal",
+    "ipa": "/dɪˈspərsəl/",
+    "pos": "noun",
+    "tr": "рассеивание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple dispersal.",
+        "ru": "Простого разгона не было."
+      },
+      {
+        "en": "Critics mocked the dispersal.",
+        "ru": "Критики высмеяли разгон."
+      },
+      {
+        "en": "We need a working definition of dispersal.",
+        "ru": "Нам нужно рабочее определение рассредоточения."
+      }
+    ],
+    "colloc": "clear dispersal · dispersal of",
+    "ex": "There was no simple dispersal.",
+    "exRu": "Простого разгона не было."
+  },
+  {
+    "word": "disperse",
+    "lemma": "disperse",
+    "ipa": "/dɪˈspərs/",
+    "pos": "verb",
+    "tr": "рассеиваться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to disperse with precision.",
+        "ru": "Она научилась расходиться с точностью."
+      },
+      {
+        "en": "We will disperse the policy next quarter.",
+        "ru": "Мы рассеем политику в следующем квартале."
+      },
+      {
+        "en": "Critics disperse the choice harshly.",
+        "ru": "Критики резко разгоняют выбор."
+      }
+    ],
+    "colloc": "disperse pressure · disperse + N",
+    "pattern": "disperse + N",
+    "ex": "She learned to disperse with precision.",
+    "exRu": "Она научилась расходиться с точностью."
+  },
+  {
+    "word": "disquieting",
+    "lemma": "disquieting",
+    "ipa": "/dɪskˈwaɪətɪŋ/",
+    "pos": "adj",
+    "tr": "тревожный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less disquieting option.",
+        "ru": "Выберите менее тревожный вариант."
+      },
+      {
+        "en": "The design feels disquieting.",
+        "ru": "Дизайн вызывает беспокойство."
+      },
+      {
+        "en": "A disquieting policy risks backlash.",
+        "ru": "Тревожная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly disquieting · remain disquieting",
+    "ex": "Choose a less disquieting option.",
+    "exRu": "Выберите менее тревожный вариант."
+  },
+  {
+    "word": "dissect",
+    "lemma": "dissect",
+    "ipa": "/daɪˈsɛkt/",
+    "pos": "verb",
+    "tr": "для расчленения",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers dissect resources each week.",
+        "ru": "Менеджеры анализируют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to dissect too quickly.",
+        "ru": "Он слишком быстро расчленяется."
+      },
+      {
+        "en": "They dissect only after a full review.",
+        "ru": "Рассекают только после полного обзора."
+      }
+    ],
+    "colloc": "dissect pressure · refuse to dissect",
+    "pattern": "dissect + that",
+    "ex": "Managers dissect resources each week.",
+    "exRu": "Менеджеры анализируют ресурсы каждую неделю."
+  },
+  {
+    "word": "dissection",
+    "lemma": "dissection",
+    "ipa": "/ˈdaɪsɛkʃən/",
+    "pos": "noun",
+    "tr": "рассечение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple dissection.",
+        "ru": "Простого рассечения не было."
+      },
+      {
+        "en": "Critics mocked the dissection.",
+        "ru": "Критики насмехались над рассечением."
+      },
+      {
+        "en": "We need a working definition of dissection.",
+        "ru": "Нам нужно рабочее определение диссекции."
+      }
+    ],
+    "colloc": "clear dissection · dissection of",
+    "ex": "There was no simple dissection.",
+    "exRu": "Простого рассечения не было."
+  },
+  {
+    "word": "dissemble",
+    "lemma": "dissemble",
+    "ipa": "/dɪˈsɛmbəl/",
+    "pos": "verb",
+    "tr": "Собрать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to dissemble with precision.",
+        "ru": "Она научилась отсеиваться с точностью."
+      },
+      {
+        "en": "We will dissemble the policy next quarter.",
+        "ru": "Мы откажемся от политики в следующем квартале."
+      },
+      {
+        "en": "Critics dissemble the choice harshly.",
+        "ru": "Критики резко преуменьшают выбор."
+      }
+    ],
+    "colloc": "dissemble carefully · dissemble + N",
+    "pattern": "dissemble + N",
+    "ex": "She learned to dissemble with precision.",
+    "exRu": "Она научилась отсеиваться с точностью."
+  },
+  {
+    "word": "disseminate",
+    "lemma": "disseminate",
+    "ipa": "/dɪˈsɛməˌneɪt/",
+    "pos": "verb",
+    "tr": "для распространения",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers disseminate resources each week.",
+        "ru": "Менеджеры распределяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to disseminate too quickly.",
+        "ru": "Он слишком быстро распространяется."
+      },
+      {
+        "en": "They disseminate only after a full review.",
+        "ru": "Они распространяются только после полного обзора."
+      }
+    ],
+    "colloc": "disseminate the claim · refuse to disseminate",
+    "pattern": "disseminate + to-INF",
+    "ex": "Managers disseminate resources each week.",
+    "exRu": "Менеджеры распределяют ресурсы каждую неделю."
+  },
+  {
+    "word": "dissemination",
+    "lemma": "dissemination",
+    "ipa": "/dɪˌsɛməˈneɪʃən/",
+    "pos": "noun",
+    "tr": "распространение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking dissemination.",
+        "ru": "В докладе приводится поразительное распространение."
+      },
+      {
+        "en": "Funding hinges on this dissemination.",
+        "ru": "Финансирование зависит от этого распространения."
+      },
+      {
+        "en": "Students often confuse dissemination with related terms.",
+        "ru": "Студенты часто путают распространение с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear dissemination · dissemination of",
+    "ex": "The report cites a striking dissemination.",
+    "exRu": "В докладе приводится поразительное распространение."
+  },
+  {
+    "word": "dissension",
+    "lemma": "dissension",
+    "ipa": "/dɪˈsɛnʃən/",
+    "pos": "noun",
+    "tr": "Разногласие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the dissension closely.",
+        "ru": "Исследователи внимательно изучили разногласия."
+      },
+      {
+        "en": "The dissension shaped the final decision.",
+        "ru": "Разногласия сформировали окончательное решение."
+      },
+      {
+        "en": "Without the dissension, the argument collapses.",
+        "ru": "Без разногласий аргументы рушатся."
+      }
+    ],
+    "colloc": "clear dissension · address the dissension",
+    "ex": "Researchers examined the dissension closely.",
+    "exRu": "Исследователи внимательно изучили разногласия."
+  },
+  {
+    "word": "distill",
+    "lemma": "distill",
+    "ipa": "/dɪˈstɪl/",
+    "pos": "verb",
+    "tr": "перегонять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please distill the proposal carefully.",
+        "ru": "Пожалуйста, тщательно проанализируйте предложение."
+      },
+      {
+        "en": "They refuse to distill without evidence.",
+        "ru": "Они отказываются выселять без доказательств."
+      },
+      {
+        "en": "Leaders must distill when stakes are high.",
+        "ru": "Лидеры должны перегонять, когда ставки высоки."
+      }
+    ],
+    "colloc": "distill pressure · refuse to distill",
+    "pattern": "distill + that",
+    "ex": "Please distill the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно проанализируйте предложение."
+  },
+  {
+    "word": "distillation",
+    "lemma": "distillation",
+    "ipa": "/ˌdɪstəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "дистилляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one distillation.",
+        "ru": "Ее карьера перевернулась на одной дистилляции."
+      },
+      {
+        "en": "Public debate ignored the distillation.",
+        "ru": "Общественные дебаты проигнорировали дистилляцию."
+      },
+      {
+        "en": "Document every distillation in the log.",
+        "ru": "Документируйте каждую дистилляцию в журнале."
+      }
+    ],
+    "colloc": "clear distillation · address the distillation",
+    "ex": "Her career turned on one distillation.",
+    "exRu": "Ее карьера перевернулась на одной дистилляции."
+  },
+  {
+    "word": "dither",
+    "lemma": "dither",
+    "ipa": "/ˈdɪðər/",
+    "pos": "verb",
+    "tr": "дитер",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers dither resources each week.",
+        "ru": "Менеджеры расходуют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to dither too quickly.",
+        "ru": "Он склонен слишком быстро колебаться."
+      },
+      {
+        "en": "They dither only after a full review.",
+        "ru": "Они исчезают только после полного обзора."
+      }
+    ],
+    "colloc": "dither pressure · refuse to dither",
+    "pattern": "dither (+ prep)",
+    "ex": "Managers dither resources each week.",
+    "exRu": "Менеджеры расходуют ресурсы каждую неделю."
+  },
+  {
+    "word": "diverge",
+    "lemma": "diverge",
+    "ipa": "/dɪˈvərʤ/",
+    "pos": "verb",
+    "tr": "расходиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please diverge the proposal carefully.",
+        "ru": "Пожалуйста, тщательно разошлись в предложении."
+      },
+      {
+        "en": "They refuse to diverge without evidence.",
+        "ru": "Они отказываются расходиться без доказательств."
+      },
+      {
+        "en": "Leaders must diverge when stakes are high.",
+        "ru": "Лидеры должны расходиться, когда ставки высоки."
+      }
+    ],
+    "colloc": "diverge pressure · refuse to diverge",
+    "pattern": "diverge + that",
+    "ex": "Please diverge the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно разошлись в предложении."
+  },
+  {
+    "word": "divergence",
+    "lemma": "divergence",
+    "ipa": "/dɪˈvərʤəns/",
+    "pos": "noun",
+    "tr": "расхождение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one divergence.",
+        "ru": "Ее карьера перевернулась на одно расхождение."
+      },
+      {
+        "en": "Public debate ignored the divergence.",
+        "ru": "Общественные дебаты проигнорировали расхождение."
+      },
+      {
+        "en": "Document every divergence in the log.",
+        "ru": "Документируйте все расхождения в журнале."
+      }
+    ],
+    "colloc": "clear divergence · address the divergence",
+    "ex": "Her career turned on one divergence.",
+    "exRu": "Ее карьера перевернулась на одно расхождение."
+  },
+  {
+    "word": "divergent",
+    "lemma": "divergent",
+    "ipa": "/dɪˈvərʤənt/",
+    "pos": "adj",
+    "tr": "расходящийся",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was a divergent strategy.",
+        "ru": "Это была расходящаяся стратегия."
+      },
+      {
+        "en": "The tone grew divergent.",
+        "ru": "Тон стал расходиться."
+      },
+      {
+        "en": "They rejected the divergent proposal.",
+        "ru": "Они отвергли расходящееся предложение."
+      }
+    ],
+    "colloc": "divergent approach · divergent result",
+    "ex": "It was a divergent strategy.",
+    "exRu": "Это была расходящаяся стратегия."
+  },
+  {
+    "word": "divination",
+    "lemma": "divination",
+    "ipa": "/ˌdɪvəˈneɪʃən/",
+    "pos": "noun",
+    "tr": "гадание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking divination.",
+        "ru": "В докладе приводится поразительное гадание."
+      },
+      {
+        "en": "Funding hinges on this divination.",
+        "ru": "Финансирование зависит от этого гадания."
+      },
+      {
+        "en": "Students often confuse divination with related terms.",
+        "ru": "Студенты часто путают гадание с родственными терминами."
+      }
+    ],
+    "colloc": "clear divination · address the divination",
+    "ex": "The report cites a striking divination.",
+    "exRu": "В докладе приводится поразительное гадание."
+  },
+  {
+    "word": "docile",
+    "lemma": "docile",
+    "ipa": "/ˈdɑsəl/",
+    "pos": "adj",
+    "tr": "послушный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly docile.",
+        "ru": "Доказательства вряд ли послушны."
+      },
+      {
+        "en": "She remained docile under stress.",
+        "ru": "Она оставалась послушной в стрессе."
+      },
+      {
+        "en": "Results looked only docile.",
+        "ru": "Результаты выглядели только послушными."
+      }
+    ],
+    "colloc": "highly docile · remain docile",
+    "ex": "The evidence is hardly docile.",
+    "exRu": "Доказательства вряд ли послушны."
+  },
+  {
+    "word": "docilely",
+    "lemma": "docilely",
+    "ipa": "/docilely/",
+    "pos": "adv",
+    "tr": "послушно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued docilely for reform.",
+        "ru": "Он покорно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied docilely.",
+        "ru": "Правило применялось послушно."
+      },
+      {
+        "en": "Costs rose docilely last year.",
+        "ru": "В прошлом году цены росли послушно."
+      }
+    ],
+    "colloc": "speak docilely · docilely",
+    "ex": "He argued docilely for reform.",
+    "exRu": "Он покорно выступал за реформы."
+  },
+  {
+    "word": "domestically",
+    "lemma": "domestically",
+    "ipa": "/dəˈmɛstɪkli/",
+    "pos": "adv",
+    "tr": "внутри страны",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued domestically for reform.",
+        "ru": "Он выступал за реформы внутри страны."
+      },
+      {
+        "en": "The rule was applied domestically.",
+        "ru": "Правило применялось внутри страны."
+      },
+      {
+        "en": "Costs rose domestically last year.",
+        "ru": "В прошлом году расходы выросли внутри страны."
+      }
+    ],
+    "colloc": "respond domestically · domestically",
+    "ex": "He argued domestically for reform.",
+    "exRu": "Он выступал за реформы внутри страны."
+  },
+  {
+    "word": "domesticate",
+    "lemma": "domesticate",
+    "ipa": "/dəˈmɛstəˌkeɪt/",
+    "pos": "verb",
+    "tr": "Одомашнивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you domesticate this for the board?",
+        "ru": "Ты можешь одомашнить это для совета?"
+      },
+      {
+        "en": "Analysts domesticate the numbers overnight.",
+        "ru": "Аналитики одомашнивают цифры за одну ночь."
+      },
+      {
+        "en": "Do not domesticate under political pressure.",
+        "ru": "Не одомашнивайтесь под политическим давлением."
+      }
+    ],
+    "colloc": "domesticate the claim · domesticate + N",
+    "pattern": "domesticate (+ prep)",
+    "ex": "Can you domesticate this for the board?",
+    "exRu": "Ты можешь одомашнить это для совета?"
+  },
+  {
+    "word": "domestication",
+    "lemma": "domestication",
+    "ipa": "/dəˌmɛstəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "Одомашнивание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the domestication closely.",
+        "ru": "Исследователи внимательно изучили одомашнивание."
+      },
+      {
+        "en": "The domestication shaped the final decision.",
+        "ru": "Одомашнивание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the domestication, the argument collapses.",
+        "ru": "Без одомашнивания аргумент рухнет."
+      }
+    ],
+    "colloc": "the domestication · domestication of",
+    "ex": "Researchers examined the domestication closely.",
+    "exRu": "Исследователи внимательно изучили одомашнивание."
+  },
+  {
+    "word": "domesticity",
+    "lemma": "domesticity",
+    "ipa": "/ˌdoʊˌmɛˈstɪsəti/",
+    "pos": "noun",
+    "tr": "Домашний",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple domesticity.",
+        "ru": "Простой домашней жизни не было."
+      },
+      {
+        "en": "Critics mocked the domesticity.",
+        "ru": "Критики высмеивали домашнее хозяйство."
+      },
+      {
+        "en": "We need a working definition of domesticity.",
+        "ru": "Нам нужно рабочее определение домашней жизни."
+      }
+    ],
+    "colloc": "clear domesticity · address the domesticity",
+    "ex": "There was no simple domesticity.",
+    "exRu": "Простой домашней жизни не было."
+  },
+  {
+    "word": "dominantly",
+    "lemma": "dominantly",
+    "ipa": "/dominantly/",
+    "pos": "adv",
+    "tr": "доминирующий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke dominantly about the issue.",
+        "ru": "Она говорила преимущественно по этому вопросу."
+      },
+      {
+        "en": "The team responded dominantly.",
+        "ru": "Команда ответила доминантно."
+      },
+      {
+        "en": "Progress moved dominantly after the fix.",
+        "ru": "Прогресс двигался преимущественно после исправления."
+      }
+    ],
+    "colloc": "act dominantly · dominantly",
+    "ex": "She spoke dominantly about the issue.",
+    "exRu": "Она говорила преимущественно по этому вопросу."
+  },
+  {
+    "word": "domination",
+    "lemma": "domination",
+    "ipa": "/ˌdɑməˈneɪʃən/",
+    "pos": "noun",
+    "tr": "господство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the domination closely.",
+        "ru": "Исследователи внимательно изучили доминирование."
+      },
+      {
+        "en": "The domination shaped the final decision.",
+        "ru": "Доминирование определяло окончательное решение."
+      },
+      {
+        "en": "Without the domination, the argument collapses.",
+        "ru": "Без доминирования аргумент рухнет."
+      }
+    ],
+    "colloc": "the domination · domination of",
+    "ex": "Researchers examined the domination closely.",
+    "exRu": "Исследователи внимательно изучили доминирование."
+  },
+  {
+    "word": "drabness",
+    "lemma": "drabness",
+    "ipa": "/drabness/",
+    "pos": "noun",
+    "tr": "серость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the drabness closely.",
+        "ru": "Исследователи внимательно изучили серость."
+      },
+      {
+        "en": "The drabness shaped the final decision.",
+        "ru": "Смятение сформировало окончательное решение."
+      },
+      {
+        "en": "Without the drabness, the argument collapses.",
+        "ru": "Без дремоты аргумент рухнет."
+      }
+    ],
+    "colloc": "clear drabness · address the drabness",
+    "ex": "Researchers examined the drabness closely.",
+    "exRu": "Исследователи внимательно изучили серость."
+  },
+  {
+    "word": "dramatist",
+    "lemma": "dramatist",
+    "ipa": "/ˈdrɑmətɪst/",
+    "pos": "noun",
+    "tr": "драматург",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking dramatist.",
+        "ru": "В докладе приводится поразительный драматург."
+      },
+      {
+        "en": "Funding hinges on this dramatist.",
+        "ru": "Финансирование зависит от этого драматурга."
+      },
+      {
+        "en": "Students often confuse dramatist with related terms.",
+        "ru": "Студенты часто путают драматурга с родственными терминами."
+      }
+    ],
+    "colloc": "the dramatist · dramatist of",
+    "ex": "The report cites a striking dramatist.",
+    "exRu": "В докладе приводится поразительный драматург."
+  },
+  {
+    "word": "drawback",
+    "lemma": "drawback",
+    "ipa": "/ˈdrɔˌbæk/",
+    "pos": "noun",
+    "tr": "недостаток",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking drawback.",
+        "ru": "В докладе приводится поразительный недостаток."
+      },
+      {
+        "en": "Funding hinges on this drawback.",
+        "ru": "Финансирование зависит от этого недостатка."
+      },
+      {
+        "en": "Students often confuse drawback with related terms.",
+        "ru": "Студенты часто путают недостаток с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear drawback · drawback of",
+    "ex": "The report cites a striking drawback.",
+    "exRu": "В докладе приводится поразительный недостаток."
+  },
+  {
+    "word": "dribble",
+    "lemma": "dribble",
+    "ipa": "/ˈdrɪbəl/",
+    "pos": "verb",
+    "tr": "дриблинг",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers dribble resources each week.",
+        "ru": "Менеджеры перекачивают ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to dribble too quickly.",
+        "ru": "Он слишком быстро дриблингует."
+      },
+      {
+        "en": "They dribble only after a full review.",
+        "ru": "Они дриблируют только после полного обзора."
+      }
+    ],
+    "colloc": "dribble the claim · dribble + N",
+    "pattern": "dribble + to-INF",
+    "ex": "Managers dribble resources each week.",
+    "exRu": "Менеджеры перекачивают ресурсы каждую неделю."
+  },
+  {
+    "word": "drudgery",
+    "lemma": "drudgery",
+    "ipa": "/ˈdrəʤəri/",
+    "pos": "noun",
+    "tr": "тяжелая работа",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple drudgery.",
+        "ru": "Не было простой драки."
+      },
+      {
+        "en": "Critics mocked the drudgery.",
+        "ru": "Критики высмеивали тяготы."
+      },
+      {
+        "en": "We need a working definition of drudgery.",
+        "ru": "Нам нужно рабочее определение тяжелой работы."
+      }
+    ],
+    "colloc": "clear drudgery · drudgery of",
+    "ex": "There was no simple drudgery.",
+    "exRu": "Не было простой драки."
+  },
+  {
+    "word": "dubiously",
+    "lemma": "dubiously",
+    "ipa": "/dubiously/",
+    "pos": "adv",
+    "tr": "сомнительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued dubiously overnight.",
+        "ru": "Работа продолжалась в течение ночи."
+      },
+      {
+        "en": "She answered dubiously and clearly.",
+        "ru": "Она ответила двусмысленно и ясно."
+      },
+      {
+        "en": "The claim was dubiously dismissed.",
+        "ru": "Иск был сомнительно отклонен."
+      }
+    ],
+    "colloc": "speak dubiously · dubiously",
+    "ex": "Work continued dubiously overnight.",
+    "exRu": "Работа продолжалась в течение ночи."
+  },
+  {
+    "word": "durable",
+    "lemma": "durable",
+    "ipa": "/ˈdʊrəbəl/",
+    "pos": "adj",
+    "tr": "долговечный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less durable option.",
+        "ru": "Выберите менее долговечный вариант."
+      },
+      {
+        "en": "The design feels durable.",
+        "ru": "Дизайн кажется долговечным."
+      },
+      {
+        "en": "A durable policy risks backlash.",
+        "ru": "Прочная политика может вызвать обратную реакцию."
+      }
+    ],
+    "colloc": "durable approach · durable result",
+    "ex": "Choose a less durable option.",
+    "exRu": "Выберите менее долговечный вариант."
+  },
+  {
+    "word": "dutiful",
+    "lemma": "dutiful",
+    "ipa": "/ˈdutifəl/",
+    "pos": "adj",
+    "tr": "послушный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A dutiful approach may help.",
+        "ru": "Послушный подход может помочь."
+      },
+      {
+        "en": "His answer sounded dutiful.",
+        "ru": "Его ответ звучал послушно."
+      },
+      {
+        "en": "Avoid dutiful claims without proof.",
+        "ru": "Избегайте притязаний без доказательств."
+      }
+    ],
+    "colloc": "dutiful tone · remain dutiful",
+    "ex": "A dutiful approach may help.",
+    "exRu": "Послушный подход может помочь."
+  },
+  {
+    "word": "dutifully",
+    "lemma": "dutifully",
+    "ipa": "/ˈdutifəli/",
+    "pos": "adv",
+    "tr": "послушный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She spoke dutifully about the issue.",
+        "ru": "Она послушно говорила об этом вопросе."
+      },
+      {
+        "en": "The team responded dutifully.",
+        "ru": "Команда ответила послушно."
+      },
+      {
+        "en": "Progress moved dutifully after the fix.",
+        "ru": "Прогресс шел послушно после исправления."
+      }
+    ],
+    "colloc": "speak dutifully · dutifully",
+    "ex": "She spoke dutifully about the issue.",
+    "exRu": "Она послушно говорила об этом вопросе."
+  },
+  {
+    "word": "dwarfism",
+    "lemma": "dwarfism",
+    "ipa": "/dˈwɔrfɪzəm/",
+    "pos": "noun",
+    "tr": "карликовость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple dwarfism.",
+        "ru": "Простого карликовости не было."
+      },
+      {
+        "en": "Critics mocked the dwarfism.",
+        "ru": "Критики высмеивали карликовость."
+      },
+      {
+        "en": "We need a working definition of dwarfism.",
+        "ru": "Нам нужно рабочее определение карликовости."
+      }
+    ],
+    "colloc": "the dwarfism · address the dwarfism",
+    "ex": "There was no simple dwarfism.",
+    "exRu": "Простого карликовости не было."
+  },
+  {
+    "word": "dynamically",
+    "lemma": "dynamically",
+    "ipa": "/dynamically/",
+    "pos": "adv",
+    "tr": "динамически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued dynamically for reform.",
+        "ru": "Он активно выступал за реформы."
+      },
+      {
+        "en": "The rule was applied dynamically.",
+        "ru": "Правило применялось динамически."
+      },
+      {
+        "en": "Costs rose dynamically last year.",
+        "ru": "Затраты в прошлом году динамично росли."
+      }
+    ],
+    "colloc": "act dynamically · dynamically",
+    "ex": "He argued dynamically for reform.",
+    "exRu": "Он активно выступал за реформы."
+  },
+  {
+    "word": "eccentric",
+    "lemma": "eccentric",
+    "ipa": "/ˌɛkˈsɛntrɪk/",
+    "pos": "adj",
+    "tr": "эксцентричный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An eccentric approach may help.",
+        "ru": "Эксцентричный подход может помочь."
+      },
+      {
+        "en": "His answer sounded eccentric.",
+        "ru": "Его ответ звучал эксцентрично."
+      },
+      {
+        "en": "Avoid eccentric claims without proof.",
+        "ru": "Избегайте эксцентричных утверждений без доказательств."
+      }
+    ],
+    "colloc": "eccentric approach · remain eccentric",
+    "ex": "An eccentric approach may help.",
+    "exRu": "Эксцентричный подход может помочь."
+  },
+  {
+    "word": "eccentrically",
+    "lemma": "eccentrically",
+    "ipa": "/eccentrically/",
+    "pos": "adv",
+    "tr": "эксцентрично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued eccentrically overnight.",
+        "ru": "Работа продолжалась эксцентрично всю ночь."
+      },
+      {
+        "en": "She answered eccentrically and clearly.",
+        "ru": "Она ответила эксцентрично и ясно."
+      },
+      {
+        "en": "The claim was eccentrically dismissed.",
+        "ru": "Иск был эксцентрично отклонен."
+      }
+    ],
+    "colloc": "speak eccentrically · eccentrically",
+    "ex": "Work continued eccentrically overnight.",
+    "exRu": "Работа продолжалась эксцентрично всю ночь."
+  },
+  {
+    "word": "eccentricity",
+    "lemma": "eccentricity",
+    "ipa": "/ˌɛksənˈtrɪsəti/",
+    "pos": "noun",
+    "tr": "эксцентриситет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking eccentricity.",
+        "ru": "В докладе приводится поразительная эксцентричность."
+      },
+      {
+        "en": "Funding hinges on this eccentricity.",
+        "ru": "Финансирование зависит от этой эксцентричности."
+      },
+      {
+        "en": "Students often confuse eccentricity with related terms.",
+        "ru": "Студенты часто путают эксцентричность с родственными терминами."
+      }
+    ],
+    "colloc": "the eccentricity · eccentricity of",
+    "ex": "The report cites a striking eccentricity.",
+    "exRu": "В докладе приводится поразительная эксцентричность."
+  },
+  {
+    "word": "echolocate",
+    "lemma": "echolocate",
+    "ipa": "/echolocate/",
+    "pos": "verb",
+    "tr": "для эколокации",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers echolocate resources each week.",
+        "ru": "Менеджеры выделяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to echolocate too quickly.",
+        "ru": "Он слишком быстро эхолокирует."
+      },
+      {
+        "en": "They echolocate only after a full review.",
+        "ru": "Они эхолокируют только после полного обзора."
+      }
+    ],
+    "colloc": "echolocate carefully · echolocate + N",
+    "pattern": "echolocate (+ prep)",
+    "ex": "Managers echolocate resources each week.",
+    "exRu": "Менеджеры выделяют ресурсы каждую неделю."
+  },
+  {
+    "word": "echolocation",
+    "lemma": "echolocation",
+    "ipa": "/ˌɛkoʊloʊˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "эхолокация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the echolocation closely.",
+        "ru": "Исследователи внимательно изучили эхолокацию."
+      },
+      {
+        "en": "The echolocation shaped the final decision.",
+        "ru": "При этом, судя по всему,"
+      },
+      {
+        "en": "Without the echolocation, the argument collapses.",
+        "ru": "Без эхолокации аргумент рухнет."
+      }
+    ],
+    "colloc": "clear echolocation · address the echolocation",
+    "ex": "Researchers examined the echolocation closely.",
+    "exRu": "Исследователи внимательно изучили эхолокацию."
+  }
+]

@@ -1,0 +1,1261 @@
+[
+  {
+    "word": "eclectic",
+    "lemma": "eclectic",
+    "ipa": "/ɪˈklɛktɪk/",
+    "pos": "adj",
+    "tr": "эклектичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less eclectic option.",
+        "ru": "Выберите менее эклектичный вариант."
+      },
+      {
+        "en": "The design feels eclectic.",
+        "ru": "Дизайн кажется эклектичным."
+      },
+      {
+        "en": "An eclectic policy risks backlash.",
+        "ru": "Эклектическая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "eclectic approach · eclectic result",
+    "ex": "Choose a less eclectic option.",
+    "exRu": "Выберите менее эклектичный вариант."
+  },
+  {
+    "word": "eclectically",
+    "lemma": "eclectically",
+    "ipa": "/eclectically/",
+    "pos": "adv",
+    "tr": "эклектично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued eclectically overnight.",
+        "ru": "Работа продолжалась эклектически всю ночь."
+      },
+      {
+        "en": "She answered eclectically and clearly.",
+        "ru": "Она ответила эклектично и ясно."
+      },
+      {
+        "en": "The claim was eclectically dismissed.",
+        "ru": "Иск был эклектически отклонен."
+      }
+    ],
+    "colloc": "respond eclectically · eclectically",
+    "ex": "Work continued eclectically overnight.",
+    "exRu": "Работа продолжалась эклектически всю ночь."
+  },
+  {
+    "word": "ecotourism",
+    "lemma": "ecotourism",
+    "ipa": "/ecotourism/",
+    "pos": "noun",
+    "tr": "экотуризм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one ecotourism.",
+        "ru": "Ее карьера перевернулась на один экотуризм."
+      },
+      {
+        "en": "Public debate ignored the ecotourism.",
+        "ru": "Общественные дебаты проигнорировали экотуризм."
+      },
+      {
+        "en": "Document every ecotourism in the log.",
+        "ru": "Документируйте каждый экотуризм в журнале."
+      }
+    ],
+    "colloc": "clear ecotourism · ecotourism of",
+    "ex": "Her career turned on one ecotourism.",
+    "exRu": "Ее карьера перевернулась на один экотуризм."
+  },
+  {
+    "word": "ecstasy",
+    "lemma": "ecstasy",
+    "ipa": "/ˈɛkstəsi/",
+    "pos": "noun",
+    "tr": "экстаз",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one ecstasy.",
+        "ru": "Ее карьера обернулась одним экстазом."
+      },
+      {
+        "en": "Public debate ignored the ecstasy.",
+        "ru": "Публичные дебаты игнорировали экстаз."
+      },
+      {
+        "en": "Document every ecstasy in the log.",
+        "ru": "Документируйте каждый экстаз в журнале."
+      }
+    ],
+    "colloc": "clear ecstasy · ecstasy of",
+    "ex": "Her career turned on one ecstasy.",
+    "exRu": "Ее карьера обернулась одним экстазом."
+  },
+  {
+    "word": "ecstatic",
+    "lemma": "ecstatic",
+    "ipa": "/ɛkˈstætɪk/",
+    "pos": "adj",
+    "tr": "экстатический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an ecstatic strategy.",
+        "ru": "Это была экстатическая стратегия."
+      },
+      {
+        "en": "The tone grew ecstatic.",
+        "ru": "Тон рос в экстазе."
+      },
+      {
+        "en": "They rejected the ecstatic proposal.",
+        "ru": "Они отвергли экстатическое предложение."
+      }
+    ],
+    "colloc": "ecstatic tone · ecstatic result",
+    "ex": "It was an ecstatic strategy.",
+    "exRu": "Это была экстатическая стратегия."
+  },
+  {
+    "word": "ecstatically",
+    "lemma": "ecstatically",
+    "ipa": "/ɛkˈstætɪkli/",
+    "pos": "adv",
+    "tr": "экстатически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued ecstatically overnight.",
+        "ru": "Работа продолжалась в экстазе всю ночь."
+      },
+      {
+        "en": "She answered ecstatically and clearly.",
+        "ru": "Он ответил экстатически и ясно."
+      },
+      {
+        "en": "The claim was ecstatically dismissed.",
+        "ru": "Иск был экстатически отклонен."
+      }
+    ],
+    "colloc": "act ecstatically · ecstatically",
+    "ex": "Work continued ecstatically overnight.",
+    "exRu": "Работа продолжалась в экстазе всю ночь."
+  },
+  {
+    "word": "edification",
+    "lemma": "edification",
+    "ipa": "/ˌɛdəfəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "Укрепление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the edification closely.",
+        "ru": "Исследователи внимательно изучили назидание."
+      },
+      {
+        "en": "The edification shaped the final decision.",
+        "ru": "Назидание сформировало окончательное решение."
+      },
+      {
+        "en": "Without the edification, the argument collapses.",
+        "ru": "Без назидания аргумент рушится."
+      }
+    ],
+    "colloc": "the edification · address the edification",
+    "ex": "Researchers examined the edification closely.",
+    "exRu": "Исследователи внимательно изучили назидание."
+  },
+  {
+    "word": "edifice",
+    "lemma": "edifice",
+    "ipa": "/ˈɛdəfəs/",
+    "pos": "noun",
+    "tr": "здание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple edifice.",
+        "ru": "Простого здания не было."
+      },
+      {
+        "en": "Critics mocked the edifice.",
+        "ru": "Критики высмеяли здание."
+      },
+      {
+        "en": "We need a working definition of edifice.",
+        "ru": "Нам нужно рабочее определение здания."
+      }
+    ],
+    "colloc": "clear edifice · address the edifice",
+    "ex": "There was no simple edifice.",
+    "exRu": "Простого здания не было."
+  },
+  {
+    "word": "effortless",
+    "lemma": "effortless",
+    "ipa": "/ˈɛfərtləs/",
+    "pos": "adj",
+    "tr": "без усилий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less effortless option.",
+        "ru": "Выберите менее легкий вариант."
+      },
+      {
+        "en": "The design feels effortless.",
+        "ru": "Дизайн кажется легким."
+      },
+      {
+        "en": "An effortless policy risks backlash.",
+        "ru": "Без усилий политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly effortless · remain effortless",
+    "ex": "Choose a less effortless option.",
+    "exRu": "Выберите менее легкий вариант."
+  },
+  {
+    "word": "egalitarian",
+    "lemma": "egalitarian",
+    "ipa": "/ɪˌgæləˈtɛriən/",
+    "pos": "adj",
+    "tr": "эгалитарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An egalitarian approach may help.",
+        "ru": "Может помочь эгалитарный подход."
+      },
+      {
+        "en": "His answer sounded egalitarian.",
+        "ru": "Его ответ звучал эгалитарно."
+      },
+      {
+        "en": "Avoid egalitarian claims without proof.",
+        "ru": "Избегайте эгалитарных претензий без доказательств."
+      }
+    ],
+    "colloc": "egalitarian tone · remain egalitarian",
+    "ex": "An egalitarian approach may help.",
+    "exRu": "Может помочь эгалитарный подход."
+  },
+  {
+    "word": "elaboration",
+    "lemma": "elaboration",
+    "ipa": "/ɪˌlæbərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "Разработка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one elaboration.",
+        "ru": "Ее карьера перевернулась на одну проработку."
+      },
+      {
+        "en": "Public debate ignored the elaboration.",
+        "ru": "Общественные дебаты проигнорировали его."
+      },
+      {
+        "en": "Document every elaboration in the log.",
+        "ru": "Документируйте каждую разработку в журнале."
+      }
+    ],
+    "colloc": "clear elaboration · address the elaboration",
+    "ex": "Her career turned on one elaboration.",
+    "exRu": "Ее карьера перевернулась на одну проработку."
+  },
+  {
+    "word": "elastic",
+    "lemma": "elastic",
+    "ipa": "/ɪˈlæstɪk/",
+    "pos": "noun",
+    "tr": "эластичный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one elastic.",
+        "ru": "Ее карьера превратилась в одну эластичную."
+      },
+      {
+        "en": "Public debate ignored the elastic.",
+        "ru": "Публичные дебаты проигнорировали эластичность."
+      },
+      {
+        "en": "Document every elastic in the log.",
+        "ru": "Документируйте каждую эластичность в журнале."
+      }
+    ],
+    "colloc": "the elastic · elastic of",
+    "ex": "Her career turned on one elastic.",
+    "exRu": "Ее карьера превратилась в одну эластичную."
+  },
+  {
+    "word": "elasticity",
+    "lemma": "elasticity",
+    "ipa": "/ˌiˌlæˈstɪsəti/",
+    "pos": "noun",
+    "tr": "эластичность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one elasticity.",
+        "ru": "Ее карьера обернулась одной эластичностью."
+      },
+      {
+        "en": "Public debate ignored the elasticity.",
+        "ru": "Общественные дебаты проигнорировали эластичность."
+      },
+      {
+        "en": "Document every elasticity in the log.",
+        "ru": "Документируйте каждую эластичность в журнале."
+      }
+    ],
+    "colloc": "the elasticity · address the elasticity",
+    "ex": "Her career turned on one elasticity.",
+    "exRu": "Ее карьера обернулась одной эластичностью."
+  },
+  {
+    "word": "elated",
+    "lemma": "elated",
+    "ipa": "/ɪˈleɪtɪd/",
+    "pos": "adj",
+    "tr": "приподнятый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less elated option.",
+        "ru": "Выберите менее элегантный вариант."
+      },
+      {
+        "en": "The design feels elated.",
+        "ru": "Дизайн чувствует себя приподнятым."
+      },
+      {
+        "en": "An elated policy risks backlash.",
+        "ru": "Повышенная политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "highly elated · remain elated",
+    "ex": "Choose a less elated option.",
+    "exRu": "Выберите менее элегантный вариант."
+  },
+  {
+    "word": "elation",
+    "lemma": "elation",
+    "ipa": "/ɪˈleɪʃən/",
+    "pos": "noun",
+    "tr": "восторг",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one elation.",
+        "ru": "Ее карьера перевернулась на одном восторге."
+      },
+      {
+        "en": "Public debate ignored the elation.",
+        "ru": "Публичные дебаты игнорировали восторг."
+      },
+      {
+        "en": "Document every elation in the log.",
+        "ru": "Задокументируйте все восторги в журнале."
+      }
+    ],
+    "colloc": "the elation · address the elation",
+    "ex": "Her career turned on one elation.",
+    "exRu": "Ее карьера перевернулась на одном восторге."
+  },
+  {
+    "word": "electrode",
+    "lemma": "electrode",
+    "ipa": "/ˌɪˈlɛktroʊd/",
+    "pos": "noun",
+    "tr": "электрод",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the electrode.",
+        "ru": "Они недооценили электрод."
+      },
+      {
+        "en": "A clear electrode emerged from the data.",
+        "ru": "Из данных вышел чистый электрод."
+      },
+      {
+        "en": "Address the electrode before it grows.",
+        "ru": "Обращайтесь к электроду, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the electrode · address the electrode",
+    "ex": "They underestimated the electrode.",
+    "exRu": "Они недооценили электрод."
+  },
+  {
+    "word": "elephantine",
+    "lemma": "elephantine",
+    "ipa": "/ˌɛləˈfænˌtin/",
+    "pos": "adj",
+    "tr": "слоновий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "It was an elephantine strategy.",
+        "ru": "Это была слоновья стратегия."
+      },
+      {
+        "en": "The tone grew elephantine.",
+        "ru": "Тон вырос слоновьим."
+      },
+      {
+        "en": "They rejected the elephantine proposal.",
+        "ru": "Они отвергли слоновье предложение."
+      }
+    ],
+    "colloc": "elephantine approach · remain elephantine",
+    "ex": "It was an elephantine strategy.",
+    "exRu": "Это была слоновья стратегия."
+  },
+  {
+    "word": "elevation",
+    "lemma": "elevation",
+    "ipa": "/ˌɛləˈveɪʃən/",
+    "pos": "noun",
+    "tr": "высота",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the elevation.",
+        "ru": "Они недооценили высоту."
+      },
+      {
+        "en": "A clear elevation emerged from the data.",
+        "ru": "Из данных вытекала четкая высота."
+      },
+      {
+        "en": "Address the elevation before it grows.",
+        "ru": "Определите высоту, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear elevation · elevation of",
+    "ex": "They underestimated the elevation.",
+    "exRu": "Они недооценили высоту."
+  },
+  {
+    "word": "elitist",
+    "lemma": "elitist",
+    "ipa": "/ɪˈlitɪst/",
+    "pos": "noun",
+    "tr": "элитарный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking elitist.",
+        "ru": "В докладе приводится поразительная элита."
+      },
+      {
+        "en": "Funding hinges on this elitist.",
+        "ru": "Финансирование зависит от этой элиты."
+      },
+      {
+        "en": "Students often confuse elitist with related terms.",
+        "ru": "Студенты часто путают элитарность с родственными терминами."
+      }
+    ],
+    "colloc": "clear elitist · address the elitist",
+    "ex": "The report cites a striking elitist.",
+    "exRu": "В докладе приводится поразительная элита."
+  },
+  {
+    "word": "elongate",
+    "lemma": "elongate",
+    "ipa": "/ɪˈlɔŋgeɪt/",
+    "pos": "verb",
+    "tr": "удлинять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you elongate this for the board?",
+        "ru": "Вы можете продлить это для доски?"
+      },
+      {
+        "en": "Analysts elongate the numbers overnight.",
+        "ru": "Аналитики вытягивают цифры на ночь."
+      },
+      {
+        "en": "Do not elongate under political pressure.",
+        "ru": "Не поддавайтесь политическому давлению."
+      }
+    ],
+    "colloc": "elongate pressure · elongate + N",
+    "pattern": "elongate (+ prep)",
+    "ex": "Can you elongate this for the board?",
+    "exRu": "Вы можете продлить это для доски?"
+  },
+  {
+    "word": "elude",
+    "lemma": "elude",
+    "ipa": "/ɪˈlud/",
+    "pos": "verb",
+    "tr": "ускользать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you elude this for the board?",
+        "ru": "Ты можешь ускользнуть от этого для совета?"
+      },
+      {
+        "en": "Analysts elude the numbers overnight.",
+        "ru": "Аналитики ускользают от цифр в одночасье."
+      },
+      {
+        "en": "Do not elude under political pressure.",
+        "ru": "Не уклоняйтесь от политического давления."
+      }
+    ],
+    "colloc": "elude pressure · refuse to elude",
+    "pattern": "elude (+ prep)",
+    "ex": "Can you elude this for the board?",
+    "exRu": "Ты можешь ускользнуть от этого для совета?"
+  },
+  {
+    "word": "elusive",
+    "lemma": "elusive",
+    "ipa": "/ɪˈlusɪv/",
+    "pos": "adj",
+    "tr": "неуловимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An elusive approach may help.",
+        "ru": "Неуловимый подход может помочь."
+      },
+      {
+        "en": "His answer sounded elusive.",
+        "ru": "Его ответ звучал неуловимо."
+      },
+      {
+        "en": "Avoid elusive claims without proof.",
+        "ru": "Избегайте неуловимых утверждений без доказательств."
+      }
+    ],
+    "colloc": "elusive tone · elusive result",
+    "ex": "An elusive approach may help.",
+    "exRu": "Неуловимый подход может помочь."
+  },
+  {
+    "word": "embodiment",
+    "lemma": "embodiment",
+    "ipa": "/ɛmˈbɑdimənt/",
+    "pos": "noun",
+    "tr": "воплощение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the embodiment.",
+        "ru": "Они недооценили воплощение."
+      },
+      {
+        "en": "A clear embodiment emerged from the data.",
+        "ru": "Явный вариант осуществления появился из данных."
+      },
+      {
+        "en": "Address the embodiment before it grows.",
+        "ru": "Обратиться к воплощению, прежде чем оно вырастет."
+      }
+    ],
+    "colloc": "clear embodiment · address the embodiment",
+    "ex": "They underestimated the embodiment.",
+    "exRu": "Они недооценили воплощение."
+  },
+  {
+    "word": "eminence",
+    "lemma": "eminence",
+    "ipa": "/ˈɛmənəns/",
+    "pos": "noun",
+    "tr": "Преосвященство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one eminence.",
+        "ru": "Ее карьера перевернулась на одного выдающегося человека."
+      },
+      {
+        "en": "Public debate ignored the eminence.",
+        "ru": "Публичные дебаты проигнорировали выдающееся положение."
+      },
+      {
+        "en": "Document every eminence in the log.",
+        "ru": "Документируйте каждое выдающееся лицо в журнале."
+      }
+    ],
+    "colloc": "clear eminence · eminence of",
+    "ex": "Her career turned on one eminence.",
+    "exRu": "Ее карьера перевернулась на одного выдающегося человека."
+  },
+  {
+    "word": "eminent",
+    "lemma": "eminent",
+    "ipa": "/ˈɛmənənt/",
+    "pos": "adj",
+    "tr": "видный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An eminent approach may help.",
+        "ru": "Выдающийся подход может помочь."
+      },
+      {
+        "en": "His answer sounded eminent.",
+        "ru": "Его ответ звучал превосходно."
+      },
+      {
+        "en": "Avoid eminent claims without proof.",
+        "ru": "Избегайте громких заявлений без доказательств."
+      }
+    ],
+    "colloc": "eminent tone · remain eminent",
+    "ex": "An eminent approach may help.",
+    "exRu": "Выдающийся подход может помочь."
+  },
+  {
+    "word": "emolument",
+    "lemma": "emolument",
+    "ipa": "/emolument/",
+    "pos": "noun",
+    "tr": "вознаграждение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple emolument.",
+        "ru": "Простого вознаграждения не было."
+      },
+      {
+        "en": "Critics mocked the emolument.",
+        "ru": "Издевательства над эмиграцией."
+      },
+      {
+        "en": "We need a working definition of emolument.",
+        "ru": "Нам нужно рабочее определение эмоции."
+      }
+    ],
+    "colloc": "the emolument · emolument of",
+    "ex": "There was no simple emolument.",
+    "exRu": "Простого вознаграждения не было."
+  },
+  {
+    "word": "emulate",
+    "lemma": "emulate",
+    "ipa": "/ˈɛmjəˌleɪt/",
+    "pos": "verb",
+    "tr": "эмулировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please emulate the proposal carefully.",
+        "ru": "Пожалуйста, тщательно подражайте предложению."
+      },
+      {
+        "en": "They refuse to emulate without evidence.",
+        "ru": "Они отказываются подражать без доказательств."
+      },
+      {
+        "en": "Leaders must emulate when stakes are high.",
+        "ru": "Лидеры должны подражать, когда ставки высоки."
+      }
+    ],
+    "colloc": "emulate pressure · emulate + N",
+    "pattern": "emulate + to-INF",
+    "ex": "Please emulate the proposal carefully.",
+    "exRu": "Пожалуйста, тщательно подражайте предложению."
+  },
+  {
+    "word": "emulation",
+    "lemma": "emulation",
+    "ipa": "/ˌɛmjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "эмуляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the emulation.",
+        "ru": "Они недооценили эмуляцию."
+      },
+      {
+        "en": "A clear emulation emerged from the data.",
+        "ru": "Из данных возникла четкая эмуляция."
+      },
+      {
+        "en": "Address the emulation before it grows.",
+        "ru": "Обращайтесь к эмуляции, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the emulation · address the emulation",
+    "ex": "They underestimated the emulation.",
+    "exRu": "Они недооценили эмуляцию."
+  },
+  {
+    "word": "emulsification",
+    "lemma": "emulsification",
+    "ipa": "/emulsification/",
+    "pos": "noun",
+    "tr": "эмульгация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the emulsification.",
+        "ru": "Они недооценили эмульсию."
+      },
+      {
+        "en": "A clear emulsification emerged from the data.",
+        "ru": "Из данных возникла четкая эмульгация."
+      },
+      {
+        "en": "Address the emulsification before it grows.",
+        "ru": "Обратиться к эмульсии, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "clear emulsification · address the emulsification",
+    "ex": "They underestimated the emulsification.",
+    "exRu": "Они недооценили эмульсию."
+  },
+  {
+    "word": "emulsifier",
+    "lemma": "emulsifier",
+    "ipa": "/ɪˈməlsəˌfaɪər/",
+    "pos": "noun",
+    "tr": "эмульгатор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one emulsifier.",
+        "ru": "На этом этапе, в результате, была достигнута определенная сумма."
+      },
+      {
+        "en": "Public debate ignored the emulsifier.",
+        "ru": "Публичные дебаты проигнорировали эмульгатор."
+      },
+      {
+        "en": "Document every emulsifier in the log.",
+        "ru": "Документируйте каждый эмульгатор в журнале."
+      }
+    ],
+    "colloc": "clear emulsifier · address the emulsifier",
+    "ex": "Her career turned on one emulsifier.",
+    "exRu": "На этом этапе, в результате, была достигнута определенная сумма."
+  },
+  {
+    "word": "emulsify",
+    "lemma": "emulsify",
+    "ipa": "/emulsify/",
+    "pos": "verb",
+    "tr": "эмульгировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you emulsify this for the board?",
+        "ru": "Вы можете эмулировать это для доски?"
+      },
+      {
+        "en": "Analysts emulsify the numbers overnight.",
+        "ru": "Аналитики эмульгируют цифры за одну ночь."
+      },
+      {
+        "en": "Do not emulsify under political pressure.",
+        "ru": "Не эмульгируйте под политическим давлением."
+      }
+    ],
+    "colloc": "emulsify carefully · refuse to emulsify",
+    "pattern": "emulsify + to-INF",
+    "ex": "Can you emulsify this for the board?",
+    "exRu": "Вы можете эмулировать это для доски?"
+  },
+  {
+    "word": "enabler",
+    "lemma": "enabler",
+    "ipa": "/ɪˈneɪbələr/",
+    "pos": "noun",
+    "tr": "включающий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the enabler.",
+        "ru": "Они недооценили пособника."
+      },
+      {
+        "en": "A clear enabler emerged from the data.",
+        "ru": "Из этих данных появился четкий источник."
+      },
+      {
+        "en": "Address the enabler before it grows.",
+        "ru": "Обратитесь к активатору, прежде чем он вырастет."
+      }
+    ],
+    "colloc": "the enabler · enabler of",
+    "ex": "They underestimated the enabler.",
+    "exRu": "Они недооценили пособника."
+  },
+  {
+    "word": "encumber",
+    "lemma": "encumber",
+    "ipa": "/ɛnˈkəmbər/",
+    "pos": "verb",
+    "tr": "обременять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Managers encumber resources each week.",
+        "ru": "Менеджеры обременяют ресурсы каждую неделю."
+      },
+      {
+        "en": "He tends to encumber too quickly.",
+        "ru": "Он слишком быстро обременяет."
+      },
+      {
+        "en": "They encumber only after a full review.",
+        "ru": "Они обременяют только после полного пересмотра."
+      }
+    ],
+    "colloc": "encumber the claim · encumber + N",
+    "pattern": "encumber + to-INF",
+    "ex": "Managers encumber resources each week.",
+    "exRu": "Менеджеры обременяют ресурсы каждую неделю."
+  },
+  {
+    "word": "encumbrance",
+    "lemma": "encumbrance",
+    "ipa": "/encumbrance/",
+    "pos": "noun",
+    "tr": "обременение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The report cites a striking encumbrance.",
+        "ru": "В докладе приводится поразительное обременение."
+      },
+      {
+        "en": "Funding hinges on this encumbrance.",
+        "ru": "Финансирование зависит от этого бремени."
+      },
+      {
+        "en": "Students often confuse encumbrance with related terms.",
+        "ru": "Студенты часто путают обременение с соответствующими терминами."
+      }
+    ],
+    "colloc": "clear encumbrance · address the encumbrance",
+    "ex": "The report cites a striking encumbrance.",
+    "exRu": "В докладе приводится поразительное обременение."
+  },
+  {
+    "word": "enduringly",
+    "lemma": "enduringly",
+    "ipa": "/enduringly/",
+    "pos": "adv",
+    "tr": "устойчиво",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued enduringly overnight.",
+        "ru": "Работа продолжалась в течение ночи."
+      },
+      {
+        "en": "She answered enduringly and clearly.",
+        "ru": "Она ответила настойчиво и ясно."
+      },
+      {
+        "en": "The claim was enduringly dismissed.",
+        "ru": "Иск был окончательно отклонен."
+      }
+    ],
+    "colloc": "act enduringly · enduringly",
+    "ex": "Work continued enduringly overnight.",
+    "exRu": "Работа продолжалась в течение ночи."
+  },
+  {
+    "word": "engender",
+    "lemma": "engender",
+    "ipa": "/ɪnˈʤɛndər/",
+    "pos": "verb",
+    "tr": "порождать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Please engender the proposal carefully.",
+        "ru": "Пожалуйста, внимательно изложите это предложение."
+      },
+      {
+        "en": "They refuse to engender without evidence.",
+        "ru": "Они отказываются рожать без доказательств."
+      },
+      {
+        "en": "Leaders must engender when stakes are high.",
+        "ru": "Лидеры должны рождаться, когда ставки высоки."
+      }
+    ],
+    "colloc": "engender carefully · refuse to engender",
+    "pattern": "engender + that",
+    "ex": "Please engender the proposal carefully.",
+    "exRu": "Пожалуйста, внимательно изложите это предложение."
+  },
+  {
+    "word": "engross",
+    "lemma": "engross",
+    "ipa": "/ɪnˈgroʊs/",
+    "pos": "verb",
+    "tr": "увлекаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to engross with precision.",
+        "ru": "Она научилась увлекаться с точностью."
+      },
+      {
+        "en": "We will engross the policy next quarter.",
+        "ru": "Мы будем проводить политику в следующем квартале."
+      },
+      {
+        "en": "Critics engross the choice harshly.",
+        "ru": "Критики жестко воспринимают выбор."
+      }
+    ],
+    "colloc": "engross the claim · refuse to engross",
+    "pattern": "engross (+ prep)",
+    "ex": "She learned to engross with precision.",
+    "exRu": "Она научилась увлекаться с точностью."
+  },
+  {
+    "word": "engrossing",
+    "lemma": "engrossing",
+    "ipa": "/ɪnˈgroʊsɪŋ/",
+    "pos": "adj",
+    "tr": "поглощающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less engrossing option.",
+        "ru": "Выберите менее увлекательный вариант."
+      },
+      {
+        "en": "The design feels engrossing.",
+        "ru": "Дизайн кажется захватывающим."
+      },
+      {
+        "en": "An engrossing policy risks backlash.",
+        "ru": "Поглощающая политика рискует получить обратную реакцию."
+      }
+    ],
+    "colloc": "engrossing approach · engrossing result",
+    "ex": "Choose a less engrossing option.",
+    "exRu": "Выберите менее увлекательный вариант."
+  },
+  {
+    "word": "enormously",
+    "lemma": "enormously",
+    "ipa": "/ɪˈnɔrməsli/",
+    "pos": "adv",
+    "tr": "чрезвычайно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work continued enormously overnight.",
+        "ru": "Работа продолжалась чрезвычайно всю ночь."
+      },
+      {
+        "en": "She answered enormously and clearly.",
+        "ru": "Она ответила чрезвычайно и ясно."
+      },
+      {
+        "en": "The claim was enormously dismissed.",
+        "ru": "Иск был чрезвычайно отклонен."
+      }
+    ],
+    "colloc": "act enormously · enormously",
+    "ex": "Work continued enormously overnight.",
+    "exRu": "Работа продолжалась чрезвычайно всю ночь."
+  },
+  {
+    "word": "enterprising",
+    "lemma": "enterprising",
+    "ipa": "/ˈɛnərˌpraɪzɪŋ/",
+    "pos": "adj",
+    "tr": "предпринимательский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The evidence is hardly enterprising.",
+        "ru": "Доказательства вряд ли предприимчивы."
+      },
+      {
+        "en": "She remained enterprising under stress.",
+        "ru": "Она оставалась предприимчивой в стрессе."
+      },
+      {
+        "en": "Results looked only enterprising.",
+        "ru": "Результаты выглядели только предприимчиво."
+      }
+    ],
+    "colloc": "highly enterprising · remain enterprising",
+    "ex": "The evidence is hardly enterprising.",
+    "exRu": "Доказательства вряд ли предприимчивы."
+  },
+  {
+    "word": "enthuse",
+    "lemma": "enthuse",
+    "ipa": "/ɪnˈθuz/",
+    "pos": "verb",
+    "tr": "в восторге",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Can you enthuse this for the board?",
+        "ru": "Можете ли вы восхититься этим для совета?"
+      },
+      {
+        "en": "Analysts enthuse the numbers overnight.",
+        "ru": "Аналитики в одночасье в восторге от цифр."
+      },
+      {
+        "en": "Do not enthuse under political pressure.",
+        "ru": "Не поддаваться политическому давлению."
+      }
+    ],
+    "colloc": "enthuse the claim · enthuse + N",
+    "pattern": "enthuse + N",
+    "ex": "Can you enthuse this for the board?",
+    "exRu": "Можете ли вы восхититься этим для совета?"
+  },
+  {
+    "word": "enviable",
+    "lemma": "enviable",
+    "ipa": "/ˈɛnviəbəl/",
+    "pos": "adv",
+    "tr": "завидный",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He argued enviable for reform.",
+        "ru": "Он завидовал реформам."
+      },
+      {
+        "en": "The rule was applied enviable.",
+        "ru": "Правило применялось завидно."
+      },
+      {
+        "en": "Costs rose enviable last year.",
+        "ru": "Затраты выросли завидно в прошлом году."
+      }
+    ],
+    "colloc": "speak enviable · enviable",
+    "ex": "He argued enviable for reform.",
+    "exRu": "Он завидовал реформам."
+  },
+  {
+    "word": "envisage",
+    "lemma": "envisage",
+    "ipa": "/ɛnˈvɪzɪʤ/",
+    "pos": "verb",
+    "tr": "предусматривать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "She learned to envisage with precision.",
+        "ru": "Она научилась видеть с точностью."
+      },
+      {
+        "en": "We will envisage the policy next quarter.",
+        "ru": "Мы будем рассматривать политику в следующем квартале."
+      },
+      {
+        "en": "Critics envisage the choice harshly.",
+        "ru": "Критики жестко рассматривают выбор."
+      }
+    ],
+    "colloc": "envisage pressure · envisage + N",
+    "pattern": "envisage + that",
+    "ex": "She learned to envisage with precision.",
+    "exRu": "Она научилась видеть с точностью."
+  },
+  {
+    "word": "ephemera",
+    "lemma": "ephemera",
+    "ipa": "/ephemera/",
+    "pos": "noun",
+    "tr": "Эфемера",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They underestimated the ephemera.",
+        "ru": "Они недооценили эфемеру."
+      },
+      {
+        "en": "A clear ephemera emerged from the data.",
+        "ru": "Из данных возникла явная эфемера."
+      },
+      {
+        "en": "Address the ephemera before it grows.",
+        "ru": "Обратитесь к эфемере, прежде чем она вырастет."
+      }
+    ],
+    "colloc": "the ephemera · address the ephemera",
+    "ex": "They underestimated the ephemera.",
+    "exRu": "Они недооценили эфемеру."
+  },
+  {
+    "word": "ephemeral",
+    "lemma": "ephemeral",
+    "ipa": "/ɪˈfɛmərəl/",
+    "pos": "adj",
+    "tr": "эфемерный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "An ephemeral approach may help.",
+        "ru": "Эфемерный подход может помочь."
+      },
+      {
+        "en": "His answer sounded ephemeral.",
+        "ru": "Его ответ звучал эфемерно."
+      },
+      {
+        "en": "Avoid ephemeral claims without proof.",
+        "ru": "Избегайте эфемерных утверждений без доказательств."
+      }
+    ],
+    "colloc": "ephemeral approach · remain ephemeral",
+    "ex": "An ephemeral approach may help.",
+    "exRu": "Эфемерный подход может помочь."
+  },
+  {
+    "word": "ephemerality",
+    "lemma": "ephemerality",
+    "ipa": "/ephemerality/",
+    "pos": "noun",
+    "tr": "Эфемерность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Her career turned on one ephemerality.",
+        "ru": "Ее карьера превратилась в эфемерность."
+      },
+      {
+        "en": "Public debate ignored the ephemerality.",
+        "ru": "Общественные дебаты проигнорировали эфемерность."
+      },
+      {
+        "en": "Document every ephemerality in the log.",
+        "ru": "Документируйте каждую эфемерность в журнале."
+      }
+    ],
+    "colloc": "the ephemerality · ephemerality of",
+    "ex": "Her career turned on one ephemerality.",
+    "exRu": "Ее карьера превратилась в эфемерность."
+  },
+  {
+    "word": "equable",
+    "lemma": "equable",
+    "ipa": "/ˈɛkwəbəl/",
+    "pos": "adj",
+    "tr": "приличный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose a less equable option.",
+        "ru": "Выберите менее равноценный вариант."
+      },
+      {
+        "en": "The design feels equable.",
+        "ru": "Дизайн кажется справедливым."
+      },
+      {
+        "en": "An equable policy risks backlash.",
+        "ru": "Сравнительный анализ рисков."
+      }
+    ],
+    "colloc": "highly equable · equable result",
+    "ex": "Choose a less equable option.",
+    "exRu": "Выберите менее равноценный вариант."
+  },
+  {
+    "word": "equate",
+    "lemma": "equate",
+    "ipa": "/ɪkˈweɪt/",
+    "pos": "noun",
+    "tr": "равняться",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "There was no simple equate.",
+        "ru": "Простого равенства не было."
+      },
+      {
+        "en": "Critics mocked the equate.",
+        "ru": "Критики высмеяли приравнивание."
+      },
+      {
+        "en": "We need a working definition of equate.",
+        "ru": "Нам нужно рабочее определение равенства."
+      }
+    ],
+    "colloc": "clear equate · address the equate",
+    "ex": "There was no simple equate.",
+    "exRu": "Простого равенства не было."
+  },
+  {
+    "word": "equilibrium",
+    "lemma": "equilibrium",
+    "ipa": "/ˌikwəˈlɪbriəm/",
+    "pos": "noun",
+    "tr": "равновесие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the equilibrium closely.",
+        "ru": "Исследователи внимательно изучили равновесие."
+      },
+      {
+        "en": "The equilibrium shaped the final decision.",
+        "ru": "Равновесие сформировало окончательное решение."
+      },
+      {
+        "en": "Without the equilibrium, the argument collapses.",
+        "ru": "Без равновесия аргумент рушится."
+      }
+    ],
+    "colloc": "clear equilibrium · address the equilibrium",
+    "ex": "Researchers examined the equilibrium closely.",
+    "exRu": "Исследователи внимательно изучили равновесие."
+  },
+  {
+    "word": "erode",
+    "lemma": "erode",
+    "ipa": "/ˈiroʊd/",
+    "pos": "noun",
+    "tr": "разрушать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Researchers examined the erode closely.",
+        "ru": "Исследователи внимательно изучили эрод."
+      },
+      {
+        "en": "The erode shaped the final decision.",
+        "ru": "Эрозия сформировала окончательное решение."
+      },
+      {
+        "en": "Without the erode, the argument collapses.",
+        "ru": "Без эрозии аргумент рухнет."
+      }
+    ],
+    "colloc": "clear erode · address the erode",
+    "ex": "Researchers examined the erode closely.",
+    "exRu": "Исследователи внимательно изучили эрод."
+  }
+]
