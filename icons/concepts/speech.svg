@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#171C21"/>
+      <stop offset="100%" stop-color="#1E252C"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" rx="20" fill="url(#g)"/>
+  <circle cx="200" cy="110" r="48" fill="#8B9AA8" opacity="0.25"/>
+  <text x="200" y="128" text-anchor="middle" font-size="52" fill="#8B9AA8">💬</text>
+  <text x="200" y="200" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" fill="#8B9AA8">speech</text>
+</svg>

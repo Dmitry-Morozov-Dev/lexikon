@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "decks": [
+    {
+      "id": "a1",
+      "title": "A1 — Основы",
+      "description": "Базовая лексика уровня A1 (американский английский)",
+      "level": "a1",
+      "path": "data/a1.json",
+      "color": "#7DAB7F",
+      "defaultParticipate": true
+    },
+    {
+      "id": "a2",
+      "title": "A2 — Элементарный",
+      "description": "Лексика уровня A2",
+      "level": "a2",
+      "path": "data/a2.json",
+      "color": "#8B9AA8",
+      "defaultParticipate": true
+    },
+    {
+      "id": "b1",
+      "title": "B1 — Средний",
+      "description": "Лексика уровня B1",
+      "level": "b1",
+      "path": "data/b1.json",
+      "color": "#D4A05A",
+      "defaultParticipate": true
+    },
+    {
+      "id": "b2",
+      "title": "B2 — Выше среднего",
+      "description": "Лексика уровня B2",
+      "level": "b2",
+      "path": "data/b2.json",
+      "color": "#C46B5A",
+      "defaultParticipate": false
+    },
+    {
+      "id": "c1",
+      "title": "C1 — Продвинутый",
+      "description": "Лексика уровня C1 — цель приложения",
+      "level": "c1",
+      "path": "data/c1.json",
+      "color": "#D4A05A",
+      "defaultParticipate": false
+    },
+    {
+      "id": "phrasal",
+      "title": "Phrasal Verbs",
+      "description": "Фразовые глаголы",
+      "level": "mixed",
+      "path": "data/phrasal.json",
+      "color": "#7DAB7F",
+      "defaultParticipate": false
+    },
+    {
+      "id": "collocations",
+      "title": "Collocations",
+      "description": "Устойчивые сочетания",
+      "level": "mixed",
+      "path": "data/collocations.json",
+      "color": "#8B9AA8",
+      "defaultParticipate": false
+    },
+    {
+      "id": "idioms",
+      "title": "Idioms",
+      "description": "Идиомы",
+      "level": "mixed",
+      "path": "data/idioms.json",
+      "color": "#C46B5A",
+      "defaultParticipate": false
+    },
+    {
+      "id": "academic",
+      "title": "Academic",
+      "description": "Академическая лексика",
+      "level": "b2-c1",
+      "path": "data/academic.json",
+      "color": "#D4A05A",
+      "defaultParticipate": false
+    },
+    {
+      "id": "discourse",
+      "title": "Discourse Markers",
+      "description": "Связки и маркеры дискурса",
+      "level": "b1-c1",
+      "path": "data/discourse.json",
+      "color": "#8B9AA8",
+      "defaultParticipate": false
+    },
+    {
+      "id": "it-sysadmin",
+      "title": "IT / Sysadmin",
+      "description": "ИТ и системное администрирование",
+      "level": "mixed",
+      "path": "data/it-sysadmin.json",
+      "color": "#7DAB7F",
+      "defaultParticipate": false
+    }
+  ]
+}

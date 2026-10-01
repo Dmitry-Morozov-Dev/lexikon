@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Лексикон" />
+  <meta name="theme-color" content="#0E1114" />
+  <meta name="description" content="Лексикон — тренажёр английской лексики до C1" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/app.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/app-180.png" />
+  <title>Лексикон</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1 class="app-title"><span>Л</span>ексикон</h1>
+    <button type="button" id="btn-theme" class="btn btn-ghost" aria-label="Тема" title="Тема">◐</button>
+  </header>
+
+  <main>
+    <!-- Сегодня -->
+    <section id="screen-today" class="screen active" data-screen="today">
+      <div class="study-meta">
+        <span id="today-counts">Загрузка…</span>
+        <button type="button" id="btn-speak" class="btn btn-ghost hidden" aria-label="Произнести">🔊</button>
+      </div>
+      <div id="today-empty" class="empty-state hidden">
+        <div class="big">✓</div>
+        <p>На сегодня всё.<br/>Выберите колоды или зайдите завтра.</p>
+      </div>
+      <div id="study-area">
+        <div class="card-stage">
+          <article id="vocab-card" class="vocab-card hidden">
+            <div class="card-img-wrap" id="card-img-wrap"></div>
+            <div class="card-body">
+              <h2 class="card-word" id="card-word"></h2>
+              <p class="card-ipa" id="card-ipa"></p>
+              <span class="card-pos" id="card-pos"></span>
+              <div class="card-actions-top">
+                <button type="button" id="btn-reveal" class="btn btn-accent">Показать</button>
+                <button type="button" id="btn-edit-card" class="btn btn-ghost" title="Править">✎</button>
+              </div>
+              <div id="card-reveal" class="card-reveal hidden">
+                <p class="card-tr" id="card-tr"></p>
+                <p class="card-ex" id="card-ex"></p>
+                <p class="card-ex-ru" id="card-ex-ru"></p>
+                <p class="card-colloc hidden" id="card-colloc"></p>
+                <p class="card-note hidden" id="card-note"></p>
+              </div>
+            </div>
+          </article>
+        </div>
+        <div id="grade-row" class="grade-row hidden">
+          <button type="button" class="grade-btn grade-again" data-q="0"><span class="g-ico">↺</span>Снова</button>
+          <button type="button" class="grade-btn grade-hard" data-q="1"><span class="g-ico">◔</span>Трудно</button>
+          <button type="button" class="grade-btn grade-good" data-q="2"><span class="g-ico">✓</span>Хорошо</button>
+          <button type="button" class="grade-btn grade-easy" data-q="3"><span class="g-ico">★</span>Легко</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Колоды -->
+    <section id="screen-decks" class="screen" data-screen="decks">
+      <div class="panel">
+        <h2>Колоды</h2>
+        <p class="muted">Отметьте колоды, которые участвуют в «Сегодня».</p>
+      </div>
+      <div id="deck-list"></div>
+      <div class="panel">
+        <h3>Поиск</h3>
+        <input type="search" id="search-input" class="search-box" placeholder="Слово или перевод…" enterkeyhint="search" />
+        <ul id="search-results" class="word-list"></ul>
+      </div>
+    </section>
+
+    <!-- Добавить -->
+    <section id="screen-add" class="screen" data-screen="add">
+      <div class="panel">
+        <h2>Новая карточка</h2>
+        <form id="form-add">
+          <div class="field"><label for="f-word">Слово (EN)</label><input id="f-word" required autocomplete="off" /></div>
+          <div class="field"><label for="f-ipa">IPA</label><input id="f-ipa" placeholder="/…/" autocomplete="off" /></div>
+          <div class="field"><label for="f-pos">Часть речи</label>
+            <select id="f-pos">
+              <option value="noun">noun</option>
+              <option value="verb">verb</option>
+              <option value="adj">adj</option>
+              <option value="adv">adv</option>
+              <option value="prep">prep</option>
+              <option value="conj">conj</option>
+              <option value="phrase">phrase</option>
+              <option value="other">other</option>
+            </select>
+          </div>
+          <div class="field"><label for="f-tr">Перевод (RU)</label><input id="f-tr" required autocomplete="off" /></div>
+          <div class="field"><label for="f-ex">Пример (EN)</label><textarea id="f-ex"></textarea></div>
+          <div class="field"><label for="f-exRu">Пример (RU)</label><textarea id="f-exRu"></textarea></div>
+          <div class="field"><label for="f-level">Уровень</label>
+            <select id="f-level">
+              <option value="a1">A1</option><option value="a2">A2</option>
+              <option value="b1">B1</option><option value="b2">B2</option>
+              <option value="c1">C1</option><option value="custom">Своё</option>
+            </select>
+          </div>
+          <div class="field"><label for="f-img">Картинка (URL или /icons/…)</label><input id="f-img" autocomplete="off" /></div>
+          <div class="field"><label for="f-note">Заметка</label><input id="f-note" autocomplete="off" /></div>
+          <button type="submit" class="btn btn-accent btn-block">Сохранить</button>
+        </form>
+      </div>
+      <div class="panel">
+        <h3>Импорт CSV</h3>
+        <p class="muted">Колонки: word,ipa,tr,ex,exRu,level,img</p>
+        <input type="file" id="csv-file" accept=".csv,text/csv" />
+        <button type="button" id="btn-import-csv" class="btn btn-block" style="margin-top:8px">Импортировать CSV</button>
+      </div>
+    </section>
+
+    <!-- Статистика -->
+    <section id="screen-stats" class="screen" data-screen="stats">
+      <div class="stat-grid" id="stat-grid">
+        <div class="stat-tile"><div class="n" id="st-streak">0</div><div class="l">Серия дней</div></div>
+        <div class="stat-tile"><div class="n" id="st-learned">0</div><div class="l">Изучено</div></div>
+        <div class="stat-tile"><div class="n" id="st-due-tmr">0</div><div class="l">Завтра</div></div>
+        <div class="stat-tile"><div class="n" id="st-today">0</div><div class="l">Сегодня ответов</div></div>
+      </div>
+      <div class="panel" style="margin-top:12px">
+        <h3>14 дней</h3>
+        <div class="heat-map" id="heat-map"></div>
+      </div>
+    </section>
+
+    <!-- Настройки -->
+    <section id="screen-settings" class="screen" data-screen="settings">
+      <div class="panel">
+        <h2>Настройки</h2>
+        <div class="row">
+          <span>Новых в день</span>
+        </div>
+        <div class="chip-row" id="new-per-day" style="margin:8px 0 14px">
+          <button type="button" class="chip" data-n="10">10</button>
+          <button type="button" class="chip" data-n="20">20</button>
+          <button type="button" class="chip" data-n="40">40</button>
+          <button type="button" class="chip" data-n="0">∞</button>
+        </div>
+        <div class="row">
+          <span>Тема</span>
+          <div class="seg" id="theme-seg">
+            <button type="button" data-theme="dark">Тёмная</button>
+            <button type="button" data-theme="light">Светлая</button>
+          </div>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Резервная копия</h3>
+        <p class="muted">Экспорт/импорт всего прогресса из IndexedDB. На iPhone данные могут пропасть — делайте бэкап.</p>
+        <button type="button" id="btn-export" class="btn btn-block" style="margin-bottom:8px">Экспорт JSON</button>
+        <input type="file" id="backup-file" accept="application/json,.json" />
+        <button type="button" id="btn-import-backup" class="btn btn-block" style="margin-top:8px">Импорт JSON</button>
+      </div>
+      <div class="panel">
+        <h3>О приложении</h3>
+        <p class="muted">«Лексикон» — статический PWA-тренажёр лексики EN→RU до C1. Без аккаунтов и рекламы. Алгоритм SM-2.</p>
+        <button type="button" id="btn-reset-onboard" class="btn btn-block">Показать обучение снова</button>
+      </div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Основная навигация">
+    <button type="button" data-nav="today" class="active"><span class="nav-ico">◎</span>Сегодня</button>
+    <button type="button" data-nav="decks"><span class="nav-ico">☰</span>Колоды</button>
+    <button type="button" data-nav="add"><span class="nav-ico">＋</span>Добавить</button>
+    <button type="button" data-nav="stats"><span class="nav-ico">▦</span>Статистика</button>
+    <button type="button" data-nav="settings"><span class="nav-ico">⚙</span>Настройки</button>
+  </nav>
+
+  <div id="toast-host" class="toast-host" aria-live="polite"></div>
+  <div id="onboard" class="onboard-overlay hidden" role="dialog" aria-modal="true"></div>
+  <div id="modal-host"></div>
+
+  <script defer src="srs.js"></script>
+  <script defer src="db.js"></script>
+  <script defer src="app.js"></script>
+</body>
+</html>

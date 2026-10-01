@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Лексикон">
+  <rect width="512" height="512" rx="96" fill="#0E1114"/>
+  <rect x="96" y="120" width="320" height="272" rx="28" fill="#1E252C" stroke="#D4A05A" stroke-width="10"/>
+  <path d="M256 120 V392" stroke="#D4A05A" stroke-width="8" opacity="0.5"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="160" font-weight="700" fill="#E8EEF2">L</text>
+  <circle cx="380" cy="160" r="28" fill="#D4A05A"/>
+</svg>
