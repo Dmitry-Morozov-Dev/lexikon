@@ -10,6 +10,11 @@
   var UNDO_KNOWN_KEY = 'lexikon-undo-known';
   var NEW_TODAY_KEY = 'lexikon-new-today';
   var SWIPE_THRESHOLD = 110;
+  var SWIPE_UP_THRESHOLD = 90;
+  var AXIS_LOCK_PX = 12;
+  var HOLD_DISMISS_MS = 2500;
+  var HOLD_MOVE_CANCEL_PX = 12;
+  var REVERSE_REVIEW_CHANCE = 0.45;
   var QUEUE_REFILL_AT = 8;
   var QUEUE_TARGET = 24;
   var NEW_PAUSE_HIGH = 40;
@@ -44,11 +49,15 @@
     newTodayIds: {},
     todayKey: '',
     gradingBusy: false,
+    reversePrompt: false,
     streamUnknown: 0,
     streamKnown: 0,
     streamDue: 0,
     pauseNew: false
   };
+
+  /** После long-press не срабатывать click→reveal. */
+  var suppressCardClick = false;
 
   var els = {};
 
@@ -162,7 +171,10 @@
   function clearCardChrome(opts) {
     opts = opts || {};
     var node = els.card;
-    node.classList.remove('tint-know', 'tint-again', 'swipe-left', 'swipe-right', 'dragging');
+    node.classList.remove(
+      'tint-know', 'tint-again', 'swipe-left', 'swipe-right', 'swipe-up',
+      'dragging', 'holding', 'reverse-prompt'
+    );
     if (!opts.keepEnter) node.classList.remove('card-enter');
     node.style.removeProperty('--swipe-tint');
     if (!opts.keepTransform) node.style.transform = '';
@@ -294,9 +306,14 @@
     });
   }
 
-  function showCard(card) {
+  /**
+   * Показать карточку. Для learning/review иногда (~45%) reverse: RU на лицевой,
+   * EN+IPA после «Показать» / свайп вверх.
+   */
+  async function showCard(card) {
     state.current = card;
     state.revealed = false;
+    state.reversePrompt = false;
     var node = els.card;
     clearCardChrome({ keepOpacity: true, keepTransform: true, keepEnter: true });
     node.classList.remove('hidden');
@@ -306,8 +323,26 @@
       node.style.opacity = '';
       node.classList.remove('card-enter');
     }
-    els.cardWord.textContent = card.word || '';
-    els.cardIpa.textContent = card.ipa || '';
+
+    var prog = null;
+    try { prog = await LexDB.getProgress(card.id); } catch (e) { /* ignore */ }
+    if (state.current !== card) return;
+
+    var isRepeat = !!(prog && (LexSRS.isLearning(prog) || prog.state === 'review'));
+    state.reversePrompt = isRepeat && Math.random() < REVERSE_REVIEW_CHANCE;
+    node.classList.toggle('reverse-prompt', !!state.reversePrompt);
+
+    if (state.reversePrompt) {
+      els.cardWord.textContent = card.tr || '';
+      els.cardIpa.textContent = '';
+      els.cardIpa.classList.add('hidden');
+      updateSpeakBtn('');
+    } else {
+      els.cardWord.textContent = card.word || '';
+      els.cardIpa.textContent = card.ipa || '';
+      els.cardIpa.classList.remove('hidden');
+      updateSpeakBtn(card.word);
+    }
     els.cardPos.textContent = card.pos || '';
     els.reveal.classList.add('hidden');
     els.gradeRow.classList.add('hidden');
@@ -327,13 +362,22 @@
     renderCardImage(els.cardImgWrap, card);
     els.todayEmpty.classList.add('hidden');
     els.studyArea.classList.remove('hidden');
-    updateSpeakBtn(card.word);
     updateStreamCounts();
   }
 
   function revealCard() {
-    if (!state.current) return;
+    if (!state.current || state.revealed) return;
+    var card = state.current;
     state.revealed = true;
+    if (state.reversePrompt) {
+      // Лицевая была RU — после показа: EN + IPA, перевод RU внизу
+      els.cardWord.textContent = card.word || '';
+      els.cardIpa.textContent = card.ipa || '';
+      els.cardIpa.classList.remove('hidden');
+      els.cardTr.textContent = card.tr || '';
+      updateSpeakBtn(card.word);
+      els.card.classList.remove('reverse-prompt');
+    }
     els.reveal.classList.remove('hidden');
     els.gradeRow.classList.remove('hidden');
     els.btnReveal.classList.add('hidden');
@@ -401,6 +445,7 @@
     els.todayEmpty.classList.remove('hidden');
     els.btnSpeak.classList.add('hidden');
     state.current = null;
+    state.reversePrompt = false;
     updateStreamCounts();
   }
 
@@ -455,13 +500,28 @@
   }
 
   function pushUndoKnown(card) {
+    pushUndoEntry(card, 'known', null);
+  }
+
+  /**
+   * Единый стек отмены (~20): type 'known' (вправо навсегда) | 'dismissed' (удержание).
+   * Для dismissed сохраняем prevProgress, чтобы вернуть learning/review.
+   */
+  function pushUndoEntry(card, type, prevProgress) {
     var list = loadUndoKnown().filter(function (x) { return x.id !== card.id; });
-    list.unshift({
+    var entry = {
       id: card.id,
       word: card.word || '',
       tr: card.tr || '',
-      at: Date.now()
-    });
+      at: Date.now(),
+      type: type || 'known'
+    };
+    if (type === 'dismissed' && prevProgress) {
+      var snap = Object.assign({}, prevProgress);
+      delete snap._firstTimeKnown;
+      entry.prevProgress = snap;
+    }
+    list.unshift(entry);
     saveUndoKnown(list.slice(0, 20));
   }
 
@@ -485,6 +545,10 @@
 
     pool.forEach(function (card) {
       var p = byId[card.id];
+      if (LexSRS.isHidden(p)) {
+        // Убрано удержанием — никогда в поток
+        return;
+      }
       if (LexSRS.isKnown(p)) {
         knownCount += 1;
         return;
@@ -636,7 +700,7 @@
       showEmptyStream();
       return;
     }
-    showCard(state.queue[0]);
+    await showCard(state.queue[0]);
   }
 
   async function refillQueue() {
@@ -695,19 +759,23 @@
     back.className = 'modal-backdrop';
     var rows = list.length
       ? list.map(function (item, idx) {
+          var kind = item.type === 'dismissed' ? 'удержание' : 'вправо';
           return (
             '<button type="button" class="undo-item" data-idx="' + idx + '">' +
+            '<span class="undo-item-top">' +
             '<span class="undo-word">' + escapeHtml(item.word) + '</span>' +
+            '<span class="undo-kind">' + kind + '</span>' +
+            '</span>' +
             '<span class="undo-tr">' + escapeHtml(item.tr) + '</span>' +
             '</button>'
           );
         }).join('')
-      : '<p class="muted" style="margin:8px 0">Пока нет слов, отмеченных вправо с первого раза.</p>';
+      : '<p class="muted" style="margin:8px 0">Пока нечего отменять: вправо навсегда или удержание.</p>';
     back.innerHTML =
-      '<div class="modal" role="dialog" aria-label="Отменить вправо">' +
-      '<div class="modal-head"><h3>Отменить вправо</h3>' +
+      '<div class="modal" role="dialog" aria-label="Отмена">' +
+      '<div class="modal-head"><h3>Отмена</h3>' +
       '<button type="button" class="btn btn-ghost" id="undo-close" aria-label="Закрыть">✕</button></div>' +
-      '<p class="muted" style="margin:0 0 10px;font-size:0.85rem">Последние 20 первых «Хорошо/Легко» с новой или обучения. Вернёт карточку в поток.</p>' +
+      '<p class="muted" style="margin:0 0 10px;font-size:0.85rem">Последние 20: «вправо» (выучено навсегда) и «удержание» (убрано из ленты). Вернёт карточку в поток.</p>' +
       '<div class="undo-list">' + rows + '</div>' +
       '</div>';
     host.appendChild(back);
@@ -719,21 +787,27 @@
       btn.addEventListener('click', function () {
         var idx = parseInt(btn.getAttribute('data-idx'), 10);
         close();
-        undoFirstTimeKnown(idx);
+        undoStackItem(idx);
       });
     });
   }
 
-  async function undoFirstTimeKnown(idx) {
+  async function undoStackItem(idx) {
     var list = loadUndoKnown();
     var item = list[idx];
     if (!item) return;
     list.splice(idx, 1);
     saveUndoKnown(list);
 
-    var fresh = LexSRS.createProgress(item.id);
+    var restored;
+    if (item.type === 'dismissed' && item.prevProgress && item.prevProgress.id) {
+      restored = Object.assign({}, item.prevProgress);
+      delete restored._firstTimeKnown;
+    } else {
+      restored = LexSRS.createProgress(item.id);
+    }
     try {
-      await LexDB.putProgress(fresh);
+      await LexDB.putProgress(restored);
     } catch (e) {
       toast('Не удалось откатить', 'error');
       return;
@@ -762,15 +836,97 @@
     var insertAt = state.current && state.queue[0] && state.queue[0].id === state.current.id ? 1 : 0;
     state.queue.splice(insertAt, 0, card);
 
-    state.streamKnown = Math.max(0, state.streamKnown - 1);
+    if (item.type !== 'dismissed') {
+      state.streamKnown = Math.max(0, state.streamKnown - 1);
+    }
     state.streamUnknown += 1;
     updateStreamCounts();
 
     if (!state.current) {
-      showCard(state.queue[0]);
+      await showCard(state.queue[0]);
     }
     toast('«' + (card.word || item.word) + '» снова в потоке', 'ok');
     refreshStatsQuiet();
+  }
+
+  /** Совместимость: старое имя. */
+  async function undoFirstTimeKnown(idx) {
+    return undoStackItem(idx);
+  }
+
+  /**
+   * Убрать текущую карточку из ленты навсегда (long-press).
+   * Пишет state 'hidden', кладёт в общий undo-стек.
+   */
+  async function dismissCurrentCard() {
+    var card = state.current;
+    if (!card || state.gradingBusy) return;
+    state.gradingBusy = true;
+    suppressCardClick = true;
+
+    var prev = null;
+    try {
+      prev = await LexDB.getProgress(card.id);
+      var base = prev ? Object.assign({}, prev) : LexSRS.createProgress(card.id);
+      delete base._firstTimeKnown;
+      LexSRS.markHidden(base);
+      await LexDB.putProgress(base);
+      pushUndoEntry(card, 'dismissed', prev || null);
+    } catch (e) {
+      state.gradingBusy = false;
+      toast('Не удалось убрать', 'error');
+      return;
+    }
+
+    try {
+      if (navigator.vibrate) navigator.vibrate(28);
+    } catch (e) { /* ignore */ }
+    toast('Убрано из ленты · ↩ отмена', 'ok');
+
+    var node = els.card;
+    node.classList.remove('dragging', 'holding', 'tint-know', 'tint-again');
+    node.style.transform = '';
+    node.style.opacity = '';
+    node.classList.add('swipe-up');
+
+    setTimeout(async function () {
+      node.classList.add('no-transition');
+      node.classList.remove('swipe-up', 'swipe-left', 'swipe-right', 'tint-know', 'tint-again', 'dragging', 'holding');
+      node.style.removeProperty('--swipe-tint');
+      node.style.opacity = '0';
+      node.style.transform = '';
+
+      if (state.queue.length && state.queue[0] && state.queue[0].id === card.id) {
+        state.queue.shift();
+      } else {
+        state.queue = state.queue.filter(function (c) { return c.id !== card.id; });
+      }
+
+      await refillQueue();
+
+      if (!state.queue.length) {
+        var parts = await partitionStudyPool();
+        state.streamUnknown = parts.unknownCount;
+        state.streamKnown = parts.knownCount;
+        state.streamDue = parts.dueToday;
+        if (parts.dueNow.length || parts.news.length || parts.learningLater.length) {
+          state.queue = composeQueue(parts, {}, QUEUE_TARGET);
+        }
+      }
+
+      if (!state.queue.length) {
+        showEmptyStream();
+        state.gradingBusy = false;
+        refreshStatsQuiet();
+        return;
+      }
+
+      await showCard(state.queue[0]);
+      playCardEnter(function () {
+        state.gradingBusy = false;
+      });
+      refreshStatsQuiet();
+    }, 280);
   }
 
   async function grade(quality) {
@@ -817,7 +973,7 @@
 
     setTimeout(async function () {
       node.classList.add('no-transition');
-      node.classList.remove('swipe-left', 'swipe-right', 'tint-know', 'tint-again', 'dragging');
+      node.classList.remove('swipe-left', 'swipe-right', 'swipe-up', 'tint-know', 'tint-again', 'dragging', 'holding', 'reverse-prompt');
       node.style.removeProperty('--swipe-tint');
       node.style.opacity = '0';
       node.style.transform = '';
@@ -861,7 +1017,7 @@
         return;
       }
 
-      showCard(state.queue[0]);
+      await showCard(state.queue[0]);
       playCardEnter(function () {
         state.gradingBusy = false;
       });
@@ -1124,8 +1280,10 @@
       close();
       toast('Сохранено', 'ok');
       if (state.current && (state.current.id === card.id || state.current.id === saved.id)) {
-        showCard(saved);
-        if (state.revealed) revealCard();
+        var wasRevealed = state.revealed;
+        showCard(saved).then(function () {
+          if (wasRevealed) revealCard();
+        });
       }
     });
     var delBtn = $('e-del');
@@ -1225,7 +1383,7 @@
     // «Завтра»: due к концу завтрашнего дня (review/learning), не known
     var tmr = startOfTomorrow() + 24 * 60 * 60 * 1000;
     var dueTmr = progress.filter(function (p) {
-      return !LexSRS.isKnown(p) && p.state !== 'new' && (p.due || 0) > 0 && p.due <= tmr;
+      return !LexSRS.isKnown(p) && !LexSRS.isHidden(p) && p.state !== 'new' && (p.due || 0) > 0 && p.due <= tmr;
     }).length;
     els.stDueTmr.textContent = String(dueTmr);
 
@@ -1270,7 +1428,7 @@
     },
     {
       title: 'Как отвечать',
-      body: 'Сначала вспомните перевод, затем «Показать». Вправо с первого раза — выучено навсегда (можно отменить). Снова — короткие шаги обучения. Свайп влево/вправо.'
+      body: 'Сначала вспомните перевод, затем «Показать» или свайп вверх. Вправо — знаю, влево — снова. Удержание ~2.5 с — убрать из ленты (↩ отмена). На повторах иногда сначала русский.'
     },
     {
       title: 'На iPhone',
@@ -1320,84 +1478,177 @@
     if (name === 'decks') renderDeckList();
   }
 
-  /* ---- Swipe ---- */
+  /* ---- Swipe / hold / swipe-up ---- */
   function setupSwipe() {
     var card = els.card;
     var startX = 0, startY = 0, dx = 0, dy = 0, active = false;
+    var axis = null; // 'h' | 'v' | null
+    var holdTimer = null;
+    var holdPulseTimer = null;
+    var holdFired = false;
+    var movedFar = false;
+
+    function clearHoldTimers() {
+      if (holdTimer) { clearTimeout(holdTimer); holdTimer = null; }
+      if (holdPulseTimer) { clearTimeout(holdPulseTimer); holdPulseTimer = null; }
+      card.classList.remove('holding');
+    }
+
+    function armHold() {
+      clearHoldTimers();
+      holdFired = false;
+      movedFar = false;
+      // Мягкая подсветка через ~1 с удержания
+      holdPulseTimer = setTimeout(function () {
+        holdPulseTimer = null;
+        if (active && !movedFar && !holdFired) card.classList.add('holding');
+      }, 900);
+      holdTimer = setTimeout(function () {
+        holdTimer = null;
+        if (!active || movedFar || holdFired || state.gradingBusy) return;
+        if (Math.abs(dx) > HOLD_MOVE_CANCEL_PX || Math.abs(dy) > HOLD_MOVE_CANCEL_PX) return;
+        holdFired = true;
+        active = false;
+        clearHoldTimers();
+        card.classList.remove('dragging');
+        clearSwipeTint();
+        suppressCardClick = true;
+        dismissCurrentCard();
+      }, HOLD_DISMISS_MS);
+    }
 
     function onStart(x, y) {
       if (!state.current || state.gradingBusy) return;
+      // Не начинать жест с кнопок/ссылок на карточке
       active = true;
+      axis = null;
+      holdFired = false;
+      movedFar = false;
       startX = x; startY = y; dx = 0; dy = 0;
       card.classList.add('dragging');
+      armHold();
     }
+
     function clearSwipeTint() {
-      // Отмена свайпа: убрать tint, вернуть карточку на место
-      card.classList.remove('tint-know', 'tint-again', 'swipe-left', 'swipe-right');
+      card.classList.remove('tint-know', 'tint-again', 'swipe-left', 'swipe-right', 'swipe-up');
       card.style.transform = '';
       card.style.opacity = '';
       card.style.removeProperty('--swipe-tint');
     }
-    function onMove(x, y) {
-      if (!active) return;
-      dx = x - startX; dy = y - startY;
-      if (Math.abs(dy) > Math.abs(dx) && Math.abs(dy) > 12) {
-        // vertical scroll intent
+
+    function onMove(x, y, ev) {
+      if (!active || holdFired) return;
+      dx = x - startX;
+      dy = y - startY;
+
+      if (Math.abs(dx) > HOLD_MOVE_CANCEL_PX || Math.abs(dy) > HOLD_MOVE_CANCEL_PX) {
+        movedFar = true;
+        clearHoldTimers();
+      }
+
+      if (!axis) {
+        if (Math.abs(dx) < AXIS_LOCK_PX && Math.abs(dy) < AXIS_LOCK_PX) return;
+        axis = Math.abs(dx) >= Math.abs(dy) ? 'h' : 'v';
+      }
+
+      if (axis === 'h') {
+        if (ev && ev.cancelable) ev.preventDefault();
+        var rot = dx / 28;
+        card.style.transform = 'translateX(' + dx + 'px) rotate(' + rot + 'deg)';
+        card.style.opacity = String(Math.max(0.55, 1 - Math.abs(dx) / 520));
+        var strength = Math.min(1, Math.abs(dx) / SWIPE_THRESHOLD);
+        if (dx > 24) {
+          card.classList.add('tint-know');
+          card.classList.remove('tint-again');
+          card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+        } else if (dx < -24) {
+          card.classList.add('tint-again');
+          card.classList.remove('tint-know');
+          card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+        } else {
+          card.classList.remove('tint-know', 'tint-again');
+          card.style.removeProperty('--swipe-tint');
+        }
         return;
       }
-      var rot = dx / 28;
-      card.style.transform = 'translateX(' + dx + 'px) rotate(' + rot + 'deg)';
-      card.style.opacity = String(Math.max(0.55, 1 - Math.abs(dx) / 520));
-      // Полупрозрачный оттенок в стиле палитры
-      var strength = Math.min(1, Math.abs(dx) / SWIPE_THRESHOLD);
-      if (dx > 24) {
-        card.classList.add('tint-know');
-        card.classList.remove('tint-again');
-        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
-      } else if (dx < -24) {
-        card.classList.add('tint-again');
-        card.classList.remove('tint-know');
-        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
-      } else {
+
+      // vertical: вверх = reveal (если ещё не показано); вниз — сброс
+      if (dy < 0 && !state.revealed) {
+        if (ev && ev.cancelable) ev.preventDefault();
+        var lift = Math.min(36, -dy * 0.4);
+        card.style.transform = 'translateY(' + (-lift) + 'px) scale(' + (1 + lift / 900) + ')';
+        card.style.opacity = String(Math.max(0.82, 1 + dy / 500));
         card.classList.remove('tint-know', 'tint-again');
         card.style.removeProperty('--swipe-tint');
+      } else if (dy > 0) {
+        // лёгкий сдвиг вниз без конфликта со скроллом страницы
+        card.style.transform = '';
+        card.style.opacity = '';
       }
     }
+
     function onEnd() {
+      if (holdFired) {
+        active = false;
+        return;
+      }
       if (!active) return;
       active = false;
+      clearHoldTimers();
       card.classList.remove('dragging');
-      // Свайп без «Показать»: вправо — знаю, влево — повторить
-      if (dx > SWIPE_THRESHOLD) {
-        grade(2);
-      } else if (dx < -SWIPE_THRESHOLD) {
-        grade(0);
-      } else {
-        clearSwipeTint();
+
+      if (axis === 'h') {
+        if (dx > SWIPE_THRESHOLD) {
+          grade(2);
+        } else if (dx < -SWIPE_THRESHOLD) {
+          grade(0);
+        } else {
+          clearSwipeTint();
+        }
+        return;
       }
+
+      if (axis === 'v') {
+        if (dy < -SWIPE_UP_THRESHOLD && !state.revealed) {
+          clearSwipeTint();
+          revealCard();
+        } else {
+          clearSwipeTint();
+        }
+        return;
+      }
+
+      clearSwipeTint();
+    }
+
+    function onCancel() {
+      if (holdFired) return;
+      active = false;
+      clearHoldTimers();
+      card.classList.remove('dragging');
+      clearSwipeTint();
     }
 
     card.addEventListener('touchstart', function (e) {
       if (e.touches.length !== 1) return;
+      if (e.target && e.target.closest && e.target.closest('button, a')) return;
       onStart(e.touches[0].clientX, e.touches[0].clientY);
     }, { passive: true });
     card.addEventListener('touchmove', function (e) {
       if (!active || e.touches.length !== 1) return;
-      onMove(e.touches[0].clientX, e.touches[0].clientY);
-    }, { passive: true });
+      onMove(e.touches[0].clientX, e.touches[0].clientY, e);
+    }, { passive: false });
     card.addEventListener('touchend', onEnd);
-    card.addEventListener('touchcancel', function () {
-      active = false;
-      card.classList.remove('dragging');
-      clearSwipeTint();
-    });
+    card.addEventListener('touchcancel', onCancel);
 
-    // mouse fallback
+    // mouse fallback (десктоп / отладка)
     card.addEventListener('mousedown', function (e) {
+      if (e.button !== 0) return;
+      if (e.target && e.target.closest && e.target.closest('button, a')) return;
       onStart(e.clientX, e.clientY);
     });
     window.addEventListener('mousemove', function (e) {
-      if (active) onMove(e.clientX, e.clientY);
+      if (active) onMove(e.clientX, e.clientY, null);
     });
     window.addEventListener('mouseup', onEnd);
   }
@@ -1500,7 +1751,11 @@
 
     els.btnReveal.addEventListener('click', revealCard);
     els.card.addEventListener('click', function (e) {
-      if (e.target.closest('button')) return;
+      if (e.target.closest('button, a')) return;
+      if (suppressCardClick) {
+        suppressCardClick = false;
+        return;
+      }
       if (!state.revealed) revealCard();
     });
     els.btnSpeak.addEventListener('click', function () {

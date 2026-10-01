@@ -1,5 +1,5 @@
 /* Service Worker «Лексикон» — кэширует оболочку и уже загруженные JSON. Картинки не прекэшируем. */
-var CACHE_SHELL = 'lexikon-shell-v6';
+var CACHE_SHELL = 'lexikon-shell-v7';
 var CACHE_DATA = 'lexikon-data-v16';
 
 var SHELL_URLS = [

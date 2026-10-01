@@ -174,13 +174,36 @@ a { color: var(--accent); }
   overflow: hidden;
   position: relative;
   transition: transform 250ms ease, opacity 250ms ease, box-shadow 250ms ease;
-  touch-action: pan-y;
+  touch-action: none;
   will-change: transform;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .vocab-card.swipe-right { transform: translateX(120%) rotate(8deg); opacity: 0; }
 .vocab-card.swipe-left { transform: translateX(-120%) rotate(-8deg); opacity: 0; }
+.vocab-card.swipe-up { transform: translateY(-110%) scale(0.96); opacity: 0; }
 .vocab-card.dragging { transition: none; }
+.vocab-card.holding {
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--again) 45%, transparent), var(--shadow);
+  transform: scale(0.985);
+}
+.vocab-card.reverse-prompt .card-word {
+  font-size: clamp(1.35rem, 5.2vw, 1.85rem);
+}
+.vocab-card.reverse-prompt::after {
+  content: "RU → EN";
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  z-index: 4;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  opacity: 0.7;
+  pointer-events: none;
+}
 .vocab-card.no-transition {
   transition: none !important;
   animation: none !important;
@@ -829,10 +852,26 @@ a { color: var(--accent); }
   border-color: var(--accent);
   background: color-mix(in srgb, var(--accent) 12%, var(--card));
 }
+.undo-item-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+}
 .undo-word {
   font-family: var(--font-word);
   font-size: 1.05rem;
   font-weight: 600;
+}
+.undo-kind {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+  opacity: 0.85;
+  text-transform: lowercase;
 }
 .undo-tr {
   color: var(--muted);

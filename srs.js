@@ -6,7 +6,7 @@
  *   2 — Хорошо (Good)
  *   3 — Легко  (Easy)
  *
- * Состояния: new | learning | relearning | review | known
+ * Состояния: new | learning | relearning | review | known | hidden
  * isKnown — только state === 'known' (legacy review НЕ считается known).
  *
  * Поля прогресса:
@@ -61,8 +61,13 @@
     return !!(progress && progress.state === 'known');
   }
 
+  /** Убрано из ленты удержанием — не показывается и не считается выученным. */
+  function isHidden(progress) {
+    return !!(progress && progress.state === 'hidden');
+  }
+
   function isUnknown(progress) {
-    return !isKnown(progress);
+    return !isKnown(progress) && !isHidden(progress);
   }
 
   function isNew(progress) {
@@ -80,7 +85,7 @@
   function isDue(progress, at) {
     at = at || now();
     if (!progress) return false;
-    if (isKnown(progress)) return false;
+    if (isKnown(progress) || isHidden(progress)) return false;
     if (progress.state === 'new') return false;
     return (progress.due || 0) <= at;
   }
@@ -94,6 +99,16 @@
     p.state = 'known';
     p.due = t + KNOWN_MS;
     p.interval = Math.max(p.interval || 0, 1);
+    p.learnStep = 0;
+    return p;
+  }
+
+  /** Убрать из ленты навсегда (отдельно от known). */
+  function markHidden(p, t) {
+    t = t || now();
+    p.state = 'hidden';
+    p.due = t + KNOWN_MS;
+    p.last = t;
     p.learnStep = 0;
     return p;
   }
@@ -205,7 +220,7 @@
 
   function dueBy(progressList, untilTs) {
     return progressList.filter(function (p) {
-      return !isKnown(p) && p.state !== 'new' && p.due > 0 && p.due <= untilTs;
+      return !isKnown(p) && !isHidden(p) && p.state !== 'new' && p.due > 0 && p.due <= untilTs;
     });
   }
 
@@ -215,8 +230,10 @@
     isDue: isDue,
     isNew: isNew,
     isKnown: isKnown,
+    isHidden: isHidden,
     isUnknown: isUnknown,
     isLearning: isLearning,
+    markHidden: markHidden,
     dueBy: dueBy,
     LEARN_STEPS: LEARN_STEPS,
     MIN_EASE: MIN_EASE,
