@@ -1,0 +1,692 @@
+[
+  {
+    "word": "you know what",
+    "lemma": "you know what",
+    "level": "b1",
+    "tr": "знаешь что",
+    "colloc": "you know what",
+    "pattern": "You know what? …",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "You know what? Let's just ship it.",
+        "ru": "Знаешь что? Давай просто выкатим."
+      },
+      {
+        "en": "You know what — I was wrong.",
+        "ru": "Знаешь что — я ошибался."
+      },
+      {
+        "en": "You know what the odd part is?",
+        "ru": "Знаешь, что странно?"
+      }
+    ]
+  },
+  {
+    "word": "you see",
+    "lemma": "you see",
+    "level": "b1",
+    "tr": "видишь ли",
+    "colloc": "you see",
+    "pattern": "…, you see, …",
+    "note": "Разговорное пояснение.",
+    "examples": [
+      {
+        "en": "You see, the cache never invalidated.",
+        "ru": "Видишь ли, кэш так и не инвалидировался."
+      },
+      {
+        "en": "We can't — you see, legal said no.",
+        "ru": "Не можем — видишь ли, юристы сказали нет."
+      },
+      {
+        "en": "You see why I'm worried.",
+        "ru": "Видишь, почему я волнуюсь."
+      }
+    ]
+  },
+  {
+    "word": "I mean",
+    "lemma": "i mean",
+    "level": "b1",
+    "tr": "то есть; я имею в виду",
+    "colloc": "I mean",
+    "pattern": "I mean, …",
+    "note": "Разговорная самокоррекция.",
+    "examples": [
+      {
+        "en": "It's fine — I mean, mostly fine.",
+        "ru": "Нормально — то есть в основном нормально."
+      },
+      {
+        "en": "I mean, we could wait.",
+        "ru": "Я имею в виду, мы могли бы подождать."
+      },
+      {
+        "en": "He's senior — I mean, on paper.",
+        "ru": "Он сеньор — то есть на бумаге."
+      }
+    ]
+  },
+  {
+    "word": "like I said",
+    "lemma": "like i said",
+    "level": "b1",
+    "tr": "как я сказал",
+    "colloc": "like I said",
+    "pattern": "Like I said, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Like I said, check the logs first.",
+        "ru": "Как я сказал, сначала логи."
+      },
+      {
+        "en": "Like I said earlier, don't merge yet.",
+        "ru": "Как я говорил раньше, пока не мержи."
+      },
+      {
+        "en": "It's risky, like I said.",
+        "ru": "Это рискованно, как я и говорил."
+      }
+    ]
+  },
+  {
+    "word": "as I was saying",
+    "lemma": "as i was saying",
+    "level": "b2",
+    "tr": "как я говорил",
+    "colloc": "as I was saying",
+    "pattern": "As I was saying, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As I was saying, we need more coverage.",
+        "ru": "Как я говорил, нужно больше покрытия."
+      },
+      {
+        "en": "As I was saying before the call dropped…",
+        "ru": "Как я говорил до обрыва звонка…"
+      },
+      {
+        "en": "As I was saying, Friday is firm.",
+        "ru": "Как я говорил, пятница жёсткая."
+      }
+    ]
+  },
+  {
+    "word": "fair enough",
+    "lemma": "fair enough",
+    "level": "b1",
+    "tr": "справедливо; ладно",
+    "colloc": "fair enough",
+    "pattern": "Fair enough.",
+    "note": "",
+    "examples": [
+      {
+        "en": "Fair enough — let's postpone.",
+        "ru": "Справедливо — давай отложим."
+      },
+      {
+        "en": "You want more time? Fair enough.",
+        "ru": "Хочешь больше времени? Ладно."
+      },
+      {
+        "en": "Fair enough, I hadn't considered that.",
+        "ru": "Справедливо, я это не учёл."
+      }
+    ]
+  },
+  {
+    "word": "no wonder",
+    "lemma": "no wonder",
+    "level": "b1",
+    "tr": "не удивительно",
+    "colloc": "no wonder",
+    "pattern": "No wonder …",
+    "note": "",
+    "examples": [
+      {
+        "en": "No wonder the site is slow — the DB is maxed.",
+        "ru": "Не удивительно, что сайт тормозит — БД на пределе."
+      },
+      {
+        "en": "No wonder users churned.",
+        "ru": "Не удивительно, что пользователи ушли."
+      },
+      {
+        "en": "The fan is loud — no wonder it's hot.",
+        "ru": "Вентилятор орёт — не удивительно, жарко."
+      }
+    ]
+  },
+  {
+    "word": "small wonder",
+    "lemma": "small wonder",
+    "level": "c1",
+    "tr": "не удивительно",
+    "colloc": "small wonder",
+    "pattern": "(It's) small wonder (that) …",
+    "note": "Чуть книжнее no wonder.",
+    "examples": [
+      {
+        "en": "Small wonder the team burned out.",
+        "ru": "Не удивительно, что команда выгорела."
+      },
+      {
+        "en": "With that load, it's small wonder it failed.",
+        "ru": "При такой нагрузке не удивительно, что упало."
+      },
+      {
+        "en": "Small wonder she quit.",
+        "ru": "Не удивительно, что она ушла."
+      }
+    ]
+  },
+  {
+    "word": "guess what",
+    "lemma": "guess what",
+    "level": "b1",
+    "tr": "угадай что",
+    "colloc": "guess what",
+    "pattern": "Guess what — …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Guess what — tests are green.",
+        "ru": "Угадай что — тесты зелёные."
+      },
+      {
+        "en": "Guess what? They approved the budget.",
+        "ru": "Угадай? Бюджет одобрили."
+      },
+      {
+        "en": "Guess what I found in the logs.",
+        "ru": "Угадай, что нашёл в логах."
+      }
+    ]
+  },
+  {
+    "word": "tell you what",
+    "lemma": "tell you what",
+    "level": "b2",
+    "tr": "вот что; знаешь что",
+    "colloc": "tell you what",
+    "pattern": "Tell you what — …",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "Tell you what — I'll take the on-call.",
+        "ru": "Вот что — я возьму дежурство."
+      },
+      {
+        "en": "Tell you what, let's split the work.",
+        "ru": "Знаешь что, давай разделим работу."
+      },
+      {
+        "en": "I'll tell you what: start with metrics.",
+        "ru": "Вот что скажу: начни с метрик."
+      }
+    ]
+  },
+  {
+    "word": "the way I see it",
+    "lemma": "the way i see it",
+    "level": "b1",
+    "tr": "как я это вижу",
+    "colloc": "the way I see it",
+    "pattern": "The way I see it, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The way I see it, we need a rewrite.",
+        "ru": "Как я это вижу, нужен рерайт."
+      },
+      {
+        "en": "The way I see it, risk is acceptable.",
+        "ru": "Как я вижу, риск приемлем."
+      },
+      {
+        "en": "You're free to disagree — the way I see it…",
+        "ru": "Можешь не согласиться — как я вижу…"
+      }
+    ]
+  },
+  {
+    "word": "if you ask me",
+    "lemma": "if you ask me",
+    "level": "b1",
+    "tr": "если спросишь меня",
+    "colloc": "if you ask me",
+    "pattern": "…, if you ask me",
+    "note": "",
+    "examples": [
+      {
+        "en": "If you ask me, ship behind a flag.",
+        "ru": "Если спросишь меня — выкатывай за флагом."
+      },
+      {
+        "en": "The UI is cluttered, if you ask me.",
+        "ru": "UI захламлён, если спросишь меня."
+      },
+      {
+        "en": "If you ask me, hire sooner.",
+        "ru": "На мой взгляд, нанимай раньше."
+      }
+    ]
+  },
+  {
+    "word": "don't get me wrong",
+    "lemma": "don't get me wrong",
+    "level": "b1",
+    "tr": "не пойми неправильно",
+    "colloc": "don't get me wrong",
+    "pattern": "Don't get me wrong — …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't get me wrong — I like the idea.",
+        "ru": "Не пойми неправильно — идея мне нравится."
+      },
+      {
+        "en": "Don't get me wrong, but this is late.",
+        "ru": "Не пойми неправильно, но это поздно."
+      },
+      {
+        "en": "Don't get me wrong: quality matters.",
+        "ru": "Не пойми неправильно: качество важно."
+      }
+    ]
+  },
+  {
+    "word": "don't get me started",
+    "lemma": "don't get me started",
+    "level": "b2",
+    "tr": "только не начинай; лучше не спрашивай",
+    "colloc": "don't get me started",
+    "pattern": "Don't get me started (on …)",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't get me started on the legacy code.",
+        "ru": "Только не начинай про легаси."
+      },
+      {
+        "en": "The vendor — don't get me started.",
+        "ru": "Вендор — лучше не спрашивай."
+      },
+      {
+        "en": "Don't get me started about standups.",
+        "ru": "Лучше не начинай про стендапы."
+      }
+    ]
+  },
+  {
+    "word": "mark my words",
+    "lemma": "mark my words",
+    "level": "b2",
+    "tr": "помяни моё слово",
+    "colloc": "mark my words",
+    "pattern": "Mark my words — …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Mark my words — this will bite us.",
+        "ru": "Помяни моё слово — это аукнется."
+      },
+      {
+        "en": "Mark my words, they'll change the API.",
+        "ru": "Помяни, они поменяют API."
+      },
+      {
+        "en": "It'll break — mark my words.",
+        "ru": "Сломается — помяни моё слово."
+      }
+    ]
+  },
+  {
+    "word": "take my word for it",
+    "lemma": "take my word for it",
+    "level": "b2",
+    "tr": "поверь мне на слово",
+    "colloc": "take my word for it",
+    "pattern": "Take my word for it — …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Take my word for it — rollback is safer.",
+        "ru": "Поверь на слово — откат безопаснее."
+      },
+      {
+        "en": "Take my word for it, the traffic will spike.",
+        "ru": "Поверь, трафик скаканет."
+      },
+      {
+        "en": "You can take my word for it.",
+        "ru": "Можешь поверить мне на слово."
+      }
+    ]
+  },
+  {
+    "word": "believe it or not",
+    "lemma": "believe it or not",
+    "level": "b1",
+    "tr": "веришь или нет",
+    "colloc": "believe it or not",
+    "pattern": "Believe it or not, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Believe it or not, the bug fixed itself.",
+        "ru": "Веришь или нет — баг сам починился."
+      },
+      {
+        "en": "Believe it or not, we finished early.",
+        "ru": "Веришь или нет, закончили раньше."
+      },
+      {
+        "en": "Believe it or not, legal approved in a day.",
+        "ru": "Веришь или нет — юристы одобрили за день."
+      }
+    ]
+  },
+  {
+    "word": "funnily enough",
+    "lemma": "funnily enough",
+    "level": "b2",
+    "tr": "как ни странно; забавно что",
+    "colloc": "funnily enough",
+    "pattern": "Funnily enough, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Funnily enough, the flaky test passed.",
+        "ru": "Как ни странно, флаки-тест прошёл."
+      },
+      {
+        "en": "Funnily enough, users preferred the old UI.",
+        "ru": "Забавно, но пользователи предпочли старый UI."
+      },
+      {
+        "en": "Funnily enough we had the same idea.",
+        "ru": "Как ни странно, идея была та же."
+      }
+    ]
+  },
+  {
+    "word": "oddly enough",
+    "lemma": "oddly enough",
+    "level": "b2",
+    "tr": "как ни странно",
+    "colloc": "oddly enough",
+    "pattern": "Oddly enough, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Oddly enough, CPU was idle during the lag.",
+        "ru": "Как ни странно, CPU простаивал во время лагов."
+      },
+      {
+        "en": "Oddly enough nobody complained.",
+        "ru": "Как ни странно, никто не жаловался."
+      },
+      {
+        "en": "Oddly enough the old build was faster.",
+        "ru": "Как ни странно, старая сборка была быстрее."
+      }
+    ]
+  },
+  {
+    "word": "strangely enough",
+    "lemma": "strangely enough",
+    "level": "b2",
+    "tr": "как ни странно",
+    "colloc": "strangely enough",
+    "pattern": "Strangely enough, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Strangely enough, the error vanished after restart.",
+        "ru": "Как ни странно, ошибка пропала после рестарта."
+      },
+      {
+        "en": "Strangely enough she agreed immediately.",
+        "ru": "Как ни странно, она сразу согласилась."
+      },
+      {
+        "en": "Strangely enough metrics looked healthy.",
+        "ru": "Как ни странно, метрики выглядели здоровыми."
+      }
+    ]
+  },
+  {
+    "word": "sure enough",
+    "lemma": "sure enough",
+    "level": "b2",
+    "tr": "и точно; как и ожидалось",
+    "colloc": "sure enough",
+    "pattern": "Sure enough, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Sure enough, the disk filled by noon.",
+        "ru": "И точно — к полудню диск забился."
+      },
+      {
+        "en": "I checked, and sure enough, the key expired.",
+        "ru": "Проверил — и точно, ключ истёк."
+      },
+      {
+        "en": "Sure enough, traffic spiked after the post.",
+        "ru": "Как и ожидалось, после поста трафик скаканул."
+      }
+    ]
+  },
+  {
+    "word": "to be honest",
+    "lemma": "to be honest",
+    "level": "b1",
+    "tr": "честно говоря",
+    "colloc": "to be honest · TBH",
+    "pattern": "To be honest, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To be honest, I doubt the estimate.",
+        "ru": "Честно говоря, сомневаюсь в оценке."
+      },
+      {
+        "en": "To be honest we're behind.",
+        "ru": "Честно говоря, мы отстаём."
+      },
+      {
+        "en": "I was bored, to be honest.",
+        "ru": "Мне было скучно, честно говоря."
+      }
+    ]
+  },
+  {
+    "word": "to be fair",
+    "lemma": "to be fair",
+    "level": "b1",
+    "tr": "справедливости ради",
+    "colloc": "to be fair",
+    "pattern": "To be fair, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To be fair, the brief was unclear.",
+        "ru": "Справедливости ради, бриф был неясным."
+      },
+      {
+        "en": "To be fair she warned us.",
+        "ru": "Справедливости ради, она предупреждала."
+      },
+      {
+        "en": "The tool is slow, but to be fair it's free.",
+        "ru": "Инструмент медленный, но справедливости ради — бесплатный."
+      }
+    ]
+  },
+  {
+    "word": "frankly speaking",
+    "lemma": "frankly speaking",
+    "level": "b2",
+    "tr": "откровенно говоря",
+    "colloc": "frankly speaking",
+    "pattern": "Frankly speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Frankly speaking, the design is outdated.",
+        "ru": "Откровенно говоря, дизайн устарел."
+      },
+      {
+        "en": "Frankly speaking I expected more.",
+        "ru": "Откровенно говоря, ожидал большего."
+      },
+      {
+        "en": "Frankly speaking, we overpromised.",
+        "ru": "Откровенно говоря, мы переобещали."
+      }
+    ]
+  },
+  {
+    "word": "strictly speaking",
+    "lemma": "strictly speaking",
+    "level": "b2",
+    "tr": "строго говоря",
+    "colloc": "strictly speaking",
+    "pattern": "Strictly speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Strictly speaking, it's not a bug.",
+        "ru": "Строго говоря, это не баг."
+      },
+      {
+        "en": "Strictly speaking we missed the SLA.",
+        "ru": "Строго говоря, мы нарушили SLA."
+      },
+      {
+        "en": "Strictly speaking, the term is wrong.",
+        "ru": "Строго говоря, термин неверный."
+      }
+    ]
+  },
+  {
+    "word": "technically speaking",
+    "lemma": "technically speaking",
+    "level": "b2",
+    "tr": "технически говоря",
+    "colloc": "technically speaking",
+    "pattern": "Technically speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Technically speaking, the system is up.",
+        "ru": "Технически говоря, система жива."
+      },
+      {
+        "en": "Technically speaking we met the requirement.",
+        "ru": "Технически говоря, требование выполнили."
+      },
+      {
+        "en": "Technically speaking it's deprecated.",
+        "ru": "Технически говоря, оно deprecated."
+      }
+    ]
+  },
+  {
+    "word": "in all honesty",
+    "lemma": "in all honesty",
+    "level": "b2",
+    "tr": "по чести; честно",
+    "colloc": "in all honesty",
+    "pattern": "In all honesty, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In all honesty, I skipped the review.",
+        "ru": "Честно — я пропустил ревью."
+      },
+      {
+        "en": "In all honesty the pitch was weak.",
+        "ru": "По чести, питч был слабым."
+      },
+      {
+        "en": "In all honesty we got lucky.",
+        "ru": "Честно говоря, нам повезло."
+      }
+    ]
+  },
+  {
+    "word": "no offense",
+    "lemma": "no offense",
+    "level": "b1",
+    "tr": "без обид",
+    "colloc": "no offense",
+    "pattern": "No offense, but …",
+    "note": "",
+    "examples": [
+      {
+        "en": "No offense, but this PR is messy.",
+        "ru": "Без обид, но PR грязный."
+      },
+      {
+        "en": "No offense — your estimate is low.",
+        "ru": "Без обид — оценка занижена."
+      },
+      {
+        "en": "No offense intended.",
+        "ru": "Без обид."
+      }
+    ]
+  },
+  {
+    "word": "with all due respect",
+    "lemma": "with all due respect",
+    "level": "b2",
+    "tr": "при всём уважении",
+    "colloc": "with all due respect",
+    "pattern": "With all due respect, …",
+    "note": "Вежливое несогласие; иногда звучит резко.",
+    "examples": [
+      {
+        "en": "With all due respect, that plan won't work.",
+        "ru": "При всём уважении, план не сработает."
+      },
+      {
+        "en": "With all due respect, we need data.",
+        "ru": "При всём уважении, нужны данные."
+      },
+      {
+        "en": "With all due respect, I disagree.",
+        "ru": "При всём уважении, я не согласен."
+      }
+    ]
+  },
+  {
+    "word": "far be it from me",
+    "lemma": "far be it from me",
+    "level": "c1",
+    "tr": "я далёк от того чтобы",
+    "colloc": "far be it from me",
+    "pattern": "Far be it from me to …",
+    "note": "Формальная скромность / ирония.",
+    "examples": [
+      {
+        "en": "Far be it from me to block you, but risks remain.",
+        "ru": "Я далёк от того, чтобы блокировать, но риски есть."
+      },
+      {
+        "en": "Far be it from me to criticize, yet…",
+        "ru": "Далёк от критики, и всё же…"
+      },
+      {
+        "en": "Far be it from me to insist.",
+        "ru": "Я далёк от того, чтобы настаивать."
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "word": "roll back",
+    "lemma": "roll back",
+    "level": "b2",
+    "tr": "откатить; сделать откат",
+    "colloc": "roll back · roll back a release",
+    "pattern": "roll back + N",
+    "note": "Не в phrasal.json; частый IT-чанк.",
+    "examples": [
+      {
+        "en": "We had to roll back the release.",
+        "ru": "Пришлось откатить релиз."
+      },
+      {
+        "en": "Roll back the migration if it fails.",
+        "ru": "Откати миграцию, если упадёт."
+      },
+      {
+        "en": "Don't roll back without a postmortem.",
+        "ru": "Не откатывай без постмортема."
+      }
+    ]
+  },
+  {
+    "word": "make sense",
+    "lemma": "make sense",
+    "level": "b1",
+    "tr": "иметь смысл",
+    "colloc": "make sense · make no sense",
+    "pattern": "make sense",
+    "note": "",
+    "examples": [
+      {
+        "en": "That makes sense.",
+        "ru": "Это имеет смысл."
+      },
+      {
+        "en": "The error message doesn't make sense.",
+        "ru": "Сообщение об ошибке бессмысленно."
+      },
+      {
+        "en": "Does this timeline make sense?",
+        "ru": "Этот таймлайн имеет смысл?"
+      }
+    ]
+  },
+  {
+    "word": "make a difference",
+    "lemma": "make a difference",
+    "level": "b1",
+    "tr": "иметь значение; изменить ситуацию",
+    "colloc": "make a difference",
+    "pattern": "make a difference",
+    "note": "",
+    "examples": [
+      {
+        "en": "Small fixes make a difference.",
+        "ru": "Мелкие фиксы имеют значение."
+      },
+      {
+        "en": "Your review made a difference.",
+        "ru": "Твоё ревью изменило ситуацию."
+      },
+      {
+        "en": "Does caching make a difference here?",
+        "ru": "Кэш здесь что-то меняет?"
+      }
+    ]
+  },
+  {
+    "word": "take place",
+    "lemma": "take place",
+    "level": "b1",
+    "tr": "происходить; состояться",
+    "colloc": "take place",
+    "pattern": "take place",
+    "note": "",
+    "examples": [
+      {
+        "en": "The meeting takes place at noon.",
+        "ru": "Встреча состоится в полдень."
+      },
+      {
+        "en": "Where did the outage take place?",
+        "ru": "Где произошла авария?"
+      },
+      {
+        "en": "Launch will take place next week.",
+        "ru": "Запуск состоится на следующей неделе."
+      }
+    ]
+  },
+  {
+    "word": "take part",
+    "lemma": "take part",
+    "level": "b1",
+    "tr": "участвовать",
+    "colloc": "take part in",
+    "pattern": "take part in + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'd like to take part in the pilot.",
+        "ru": "Хочу участвовать в пилоте."
+      },
+      {
+        "en": "Did you take part in the retro?",
+        "ru": "Ты участвовал в ретро?"
+      },
+      {
+        "en": "Everyone can take part.",
+        "ru": "Участвовать могут все."
+      }
+    ]
+  },
+  {
+    "word": "take for granted",
+    "lemma": "take for granted",
+    "level": "b2",
+    "tr": "принимать как должное",
+    "colloc": "take for granted",
+    "pattern": "take X for granted",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't take uptime for granted.",
+        "ru": "Не принимай аптайм как должное."
+      },
+      {
+        "en": "We take clean water for granted.",
+        "ru": "Мы принимаем чистую воду как должное."
+      },
+      {
+        "en": "I took her help for granted.",
+        "ru": "Я принимал её помощь как должное."
+      }
+    ]
+  },
+  {
+    "word": "take a stand",
+    "lemma": "take a stand",
+    "level": "b2",
+    "tr": "занять позицию",
+    "colloc": "take a stand",
+    "pattern": "take a stand (on/against)",
+    "note": "",
+    "examples": [
+      {
+        "en": "We need to take a stand on privacy.",
+        "ru": "Нужно занять позицию по приватности."
+      },
+      {
+        "en": "She took a stand against overtime culture.",
+        "ru": "Она выступила против культуры овертаймов."
+      },
+      {
+        "en": "Take a stand or stay quiet.",
+        "ru": "Займи позицию или молчи."
+      }
+    ]
+  },
+  {
+    "word": "take sides",
+    "lemma": "take sides",
+    "level": "b2",
+    "tr": "принять чью-то сторону",
+    "colloc": "take sides",
+    "pattern": "take sides",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't take sides in the argument.",
+        "ru": "Не вставай на чью-то сторону в споре."
+      },
+      {
+        "en": "HR shouldn't take sides.",
+        "ru": "HR не должен принимать сторону."
+      },
+      {
+        "en": "I refuse to take sides.",
+        "ru": "Отказываюсь выбирать сторону."
+      }
+    ]
+  },
+  {
+    "word": "take effect",
+    "lemma": "take effect",
+    "level": "b2",
+    "tr": "вступить в силу",
+    "colloc": "take effect",
+    "pattern": "take effect",
+    "note": "",
+    "examples": [
+      {
+        "en": "The change takes effect tomorrow.",
+        "ru": "Изменение вступает в силу завтра."
+      },
+      {
+        "en": "When does the policy take effect?",
+        "ru": "Когда политика вступит в силу?"
+      },
+      {
+        "en": "The patch takes effect after restart.",
+        "ru": "Патч действует после рестарта."
+      }
+    ]
+  },
+  {
+    "word": "play a role",
+    "lemma": "play a role",
+    "level": "b1",
+    "tr": "играть роль",
+    "colloc": "play a role · play a part",
+    "pattern": "play a role in",
+    "note": "",
+    "examples": [
+      {
+        "en": "Caching plays a role in latency.",
+        "ru": "Кэш играет роль в задержке."
+      },
+      {
+        "en": "Luck played a role.",
+        "ru": "Удача сыграла роль."
+      },
+      {
+        "en": "Everyone plays a role in quality.",
+        "ru": "Каждый играет роль в качестве."
+      }
+    ]
+  },
+  {
+    "word": "play it safe",
+    "lemma": "play it safe",
+    "level": "b2",
+    "tr": "перестраховаться; действовать осторожно",
+    "colloc": "play it safe",
+    "pattern": "play it safe",
+    "note": "",
+    "examples": [
+      {
+        "en": "Let's play it safe and delay.",
+        "ru": "Давай перестрахуемся и отложим."
+      },
+      {
+        "en": "I'd rather play it safe with backups.",
+        "ru": "Лучше перестраховаться с бэкапами."
+      },
+      {
+        "en": "Playing it safe isn't always wrong.",
+        "ru": "Перестраховаться не всегда плохо."
+      }
+    ]
+  },
+  {
+    "word": "give rise to",
+    "lemma": "give rise to",
+    "level": "c1",
+    "tr": "порождать; давать начало",
+    "colloc": "give rise to",
+    "pattern": "give rise to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "The change gave rise to new bugs.",
+        "ru": "Изменение породило новые баги."
+      },
+      {
+        "en": "Ambiguity gives rise to disputes.",
+        "ru": "Неясность порождает споры."
+      },
+      {
+        "en": "That decision may give rise to risk.",
+        "ru": "То решение может породить риск."
+      }
+    ]
+  },
+  {
+    "word": "give way",
+    "lemma": "give way",
+    "level": "b2",
+    "tr": "уступить; поддаться",
+    "colloc": "give way · give way to",
+    "pattern": "give way (to)",
+    "note": "",
+    "examples": [
+      {
+        "en": "Old habits give way to new ones.",
+        "ru": "Старые привычки уступают новым."
+      },
+      {
+        "en": "The bridge gave way.",
+        "ru": "Мост не выдержал."
+      },
+      {
+        "en": "Don't give way to panic.",
+        "ru": "Не поддавайся панике."
+      }
+    ]
+  },
+  {
+    "word": "give someone the benefit of the doubt",
+    "lemma": "give someone the benefit of the doubt",
+    "level": "b2",
+    "tr": "дать шанс; истолковать в пользу",
+    "colloc": "give the benefit of the doubt",
+    "pattern": "give X the benefit of the doubt",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'll give him the benefit of the doubt.",
+        "ru": "Дам ему шанс / истолкую в его пользу."
+      },
+      {
+        "en": "Give the vendor the benefit of the doubt once.",
+        "ru": "Дай вендору шанс один раз."
+      },
+      {
+        "en": "She rarely gets the benefit of the doubt.",
+        "ru": "Ей редко дают преимущество сомнения."
+      }
+    ]
+  },
+  {
+    "word": "keep track of",
+    "lemma": "keep track of",
+    "level": "b1",
+    "tr": "следить за; учитывать",
+    "colloc": "keep track of",
+    "pattern": "keep track of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep track of open incidents.",
+        "ru": "Следи за открытыми инцидентами."
+      },
+      {
+        "en": "I can't keep track of all PRs.",
+        "ru": "Не могу уследить за всеми PR."
+      },
+      {
+        "en": "Tools help keep track of debt.",
+        "ru": "Инструменты помогают учитывать долг."
+      }
+    ]
+  },
+  {
+    "word": "lose track of",
+    "lemma": "lose track of",
+    "level": "b1",
+    "tr": "потерять счёт; упустить",
+    "colloc": "lose track of",
+    "pattern": "lose track of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "I lost track of time.",
+        "ru": "Я потерял счёт времени."
+      },
+      {
+        "en": "Don't lose track of edge cases.",
+        "ru": "Не упусти краевые случаи."
+      },
+      {
+        "en": "We lost track of who owns it.",
+        "ru": "Потеряли, кто владелец."
+      }
+    ]
+  },
+  {
+    "word": "keep an eye on",
+    "lemma": "keep an eye on",
+    "level": "b1",
+    "tr": "присматривать; следить",
+    "colloc": "keep an eye on",
+    "pattern": "keep an eye on + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep an eye on the CPU graph.",
+        "ru": "Следи за графиком CPU."
+      },
+      {
+        "en": "Can you keep an eye on the lobby?",
+        "ru": "Присмотри за холлом?"
+      },
+      {
+        "en": "Keep an eye on costs this month.",
+        "ru": "Следи за затратами в этом месяце."
+      }
+    ]
+  },
+  {
+    "word": "catch someone's eye",
+    "lemma": "catch someone's eye",
+    "level": "b2",
+    "tr": "попасться на глаза; привлечь внимание",
+    "colloc": "catch someone's eye",
+    "pattern": "catch X's eye",
+    "note": "",
+    "examples": [
+      {
+        "en": "The anomaly caught my eye.",
+        "ru": "Аномалия попалась мне на глаза."
+      },
+      {
+        "en": "A red badge caught her eye.",
+        "ru": "Красный бейдж привлёк её внимание."
+      },
+      {
+        "en": "Nothing caught my eye in the diff.",
+        "ru": "В диффе ничего не бросилось в глаза."
+      }
+    ]
+  },
+  {
+    "word": "pay attention to",
+    "lemma": "pay attention to",
+    "level": "b1",
+    "tr": "обращать внимание",
+    "colloc": "pay attention to",
+    "pattern": "pay attention to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Pay attention to error rates.",
+        "ru": "Обрати внимание на процент ошибок."
+      },
+      {
+        "en": "She didn't pay attention to the warning.",
+        "ru": "Она не обратила внимания на предупреждение."
+      },
+      {
+        "en": "Pay attention to tone in feedback.",
+        "ru": "Следи за тоном в фидбеке."
+      }
+    ]
+  },
+  {
+    "word": "draw attention to",
+    "lemma": "draw attention to",
+    "level": "b2",
+    "tr": "привлечь внимание к",
+    "colloc": "draw attention to",
+    "pattern": "draw attention to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'd like to draw attention to the risk.",
+        "ru": "Хочу привлечь внимание к риску."
+      },
+      {
+        "en": "The report draws attention to bias.",
+        "ru": "Отчёт привлекает внимание к предвзятости."
+      },
+      {
+        "en": "Don't draw attention to the workaround.",
+        "ru": "Не привлекай внимание к костылю."
+      }
+    ]
+  },
+  {
+    "word": "make up one's mind",
+    "lemma": "make up one's mind",
+    "level": "b1",
+    "tr": "решиться; принять решение",
+    "colloc": "make up your mind",
+    "pattern": "make up one's mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "Make up your mind by Friday.",
+        "ru": "Определись к пятнице."
+      },
+      {
+        "en": "I can't make up my mind.",
+        "ru": "Не могу решиться."
+      },
+      {
+        "en": "She made up her mind to quit.",
+        "ru": "Она решилась уволиться."
+      }
+    ]
+  },
+  {
+    "word": "change one's mind",
+    "lemma": "change one's mind",
+    "level": "b1",
+    "tr": "передумать",
+    "colloc": "change your mind",
+    "pattern": "change one's mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "I changed my mind about the rewrite.",
+        "ru": "Я передумал насчёт рерайта."
+      },
+      {
+        "en": "Feel free to change your mind.",
+        "ru": "Можешь передумать."
+      },
+      {
+        "en": "He rarely changes his mind.",
+        "ru": "Он редко меняет мнение."
+      }
+    ]
+  },
+  {
+    "word": "have in mind",
+    "lemma": "have in mind",
+    "level": "b1",
+    "tr": "иметь в виду",
+    "colloc": "have in mind",
+    "pattern": "have X in mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "What did you have in mind?",
+        "ru": "Что ты имел в виду?"
+      },
+      {
+        "en": "I have a simpler fix in mind.",
+        "ru": "У меня на уме более простой фикс."
+      },
+      {
+        "en": "Keep the user in mind.",
+        "ru": "Имей в виду пользователя."
+      }
+    ]
+  },
+  {
+    "word": "bring to mind",
+    "lemma": "bring to mind",
+    "level": "b2",
+    "tr": "напомнить; вызвать в памяти",
+    "colloc": "bring to mind",
+    "pattern": "bring X to mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "That bug brings to mind last year's outage.",
+        "ru": "Этот баг напоминает прошлогоднюю аварию."
+      },
+      {
+        "en": "The design brings Bauhaus to mind.",
+        "ru": "Дизайн вызывает в памяти Баухаус."
+      },
+      {
+        "en": "Nothing brings solutions to mind yet.",
+        "ru": "Пока ничего не наводит на решения."
+      }
+    ]
+  },
+  {
+    "word": "come to mind",
+    "lemma": "come to mind",
+    "level": "b1",
+    "tr": "приходить на ум",
+    "colloc": "come to mind",
+    "pattern": "come to mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "Nothing comes to mind.",
+        "ru": "Ничего не приходит на ум."
+      },
+      {
+        "en": "A few names come to mind.",
+        "ru": "На ум приходят несколько имён."
+      },
+      {
+        "en": "When I think of reliability, she comes to mind.",
+        "ru": "Когда думаю о надёжности — вспоминаю её."
+      }
+    ]
+  },
+  {
+    "word": "get the hang of",
+    "lemma": "get the hang of",
+    "level": "b2",
+    "tr": "набить руку; освоиться",
+    "colloc": "get the hang of",
+    "pattern": "get the hang of + N/Ving",
+    "note": "",
+    "examples": [
+      {
+        "en": "You'll get the hang of the IDE soon.",
+        "ru": "Скоро набьёшь руку в IDE."
+      },
+      {
+        "en": "I finally got the hang of Kubernetes.",
+        "ru": "Наконец освоил Kubernetes."
+      },
+      {
+        "en": "Once you get the hang of it, it's easy.",
+        "ru": "Как набьёшь руку — легко."
+      }
+    ]
+  },
+  {
+    "word": "get rid of",
+    "lemma": "get rid of",
+    "level": "b1",
+    "tr": "избавиться от",
+    "colloc": "get rid of",
+    "pattern": "get rid of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Get rid of dead code.",
+        "ru": "Избавься от мёртвого кода."
+      },
+      {
+        "en": "We got rid of the legacy queue.",
+        "ru": "Избавились от легаси-очереди."
+      },
+      {
+        "en": "I can't get rid of this warning.",
+        "ru": "Не могу избавиться от этого ворнинга."
+      }
+    ]
+  },
+  {
+    "word": "get hold of",
+    "lemma": "get hold of",
+    "level": "b2",
+    "tr": "достать; связаться с",
+    "colloc": "get hold of",
+    "pattern": "get hold of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Can you get hold of the vendor?",
+        "ru": "Можешь связаться с вендором?"
+      },
+      {
+        "en": "I can't get hold of the logs.",
+        "ru": "Не могу достать логи."
+      },
+      {
+        "en": "Get hold of a spare laptop.",
+        "ru": "Достань запасной ноутбук."
+      }
+    ]
+  },
+  {
+    "word": "get to the point",
+    "lemma": "get to the point",
+    "level": "b1",
+    "tr": "перейти к сути",
+    "colloc": "get to the point",
+    "pattern": "get to the point",
+    "note": "",
+    "examples": [
+      {
+        "en": "Please get to the point.",
+        "ru": "Пожалуйста, к сути."
+      },
+      {
+        "en": "He never gets to the point.",
+        "ru": "Он никогда не доходит до сути."
+      },
+      {
+        "en": "Getting to the point saves time.",
+        "ru": "Переход к сути экономит время."
+      }
+    ]
+  },
+  {
+    "word": "miss the point",
+    "lemma": "miss the point",
+    "level": "b1",
+    "tr": "не уловить суть",
+    "colloc": "miss the point",
+    "pattern": "miss the point",
+    "note": "",
+    "examples": [
+      {
+        "en": "I think you're missing the point.",
+        "ru": "Кажется, ты не улавливаешь суть."
+      },
+      {
+        "en": "The review missed the point entirely.",
+        "ru": "Ревью полностью мимо сути."
+      },
+      {
+        "en": "Don't miss the point of the exercise.",
+        "ru": "Не упусти смысл упражнения."
+      }
+    ]
+  },
+  {
+    "word": "see the point",
+    "lemma": "see the point",
+    "level": "b1",
+    "tr": "понимать смысл",
+    "colloc": "see the point",
+    "pattern": "see the point (of)",
+    "note": "",
+    "examples": [
+      {
+        "en": "I don't see the point of this meeting.",
+        "ru": "Не вижу смысла в этой встрече."
+      },
+      {
+        "en": "Now I see the point.",
+        "ru": "Теперь вижу смысл."
+      },
+      {
+        "en": "Do you see my point?",
+        "ru": "Ты понимаешь, к чему я?"
+      }
+    ]
+  },
+  {
+    "word": "make a point",
+    "lemma": "make a point",
+    "level": "b2",
+    "tr": "сделать акцент; стремиться доказать",
+    "colloc": "make a point · make a point of",
+    "pattern": "make a point (of)",
+    "note": "",
+    "examples": [
+      {
+        "en": "She made a point about security.",
+        "ru": "Она сделала акцент на безопасности."
+      },
+      {
+        "en": "I make a point of reviewing my own PRs.",
+        "ru": "Я специально ревьюю свои PR."
+      },
+      {
+        "en": "That's a fair point.",
+        "ru": "Справедливое замечание."
+      }
+    ]
+  },
+  {
+    "word": "have a point",
+    "lemma": "have a point",
+    "level": "b1",
+    "tr": "быть правым в чём-то",
+    "colloc": "have a point",
+    "pattern": "have a point",
+    "note": "",
+    "examples": [
+      {
+        "en": "You have a point.",
+        "ru": "В этом ты прав."
+      },
+      {
+        "en": "She has a point about staffing.",
+        "ru": "Она права насчёт штата."
+      },
+      {
+        "en": "He may have a point.",
+        "ru": "Возможно, он в чём-то прав."
+      }
+    ]
+  },
+  {
+    "word": "to the point",
+    "lemma": "to the point",
+    "level": "b2",
+    "tr": "по делу; по существу",
+    "colloc": "to the point",
+    "pattern": "be to the point",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep comments to the point.",
+        "ru": "Держи комментарии по делу."
+      },
+      {
+        "en": "Her feedback was brief and to the point.",
+        "ru": "Её фидбек был кратким и по существу."
+      },
+      {
+        "en": "Be to the point in the email.",
+        "ru": "В письме — по делу."
+      }
+    ]
+  }
+]

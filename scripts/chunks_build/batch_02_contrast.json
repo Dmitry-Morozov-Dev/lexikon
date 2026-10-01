@@ -1,0 +1,738 @@
+[
+  {
+    "word": "that said",
+    "lemma": "that said",
+    "level": "b2",
+    "tr": "тем не менее; при этом",
+    "colloc": "that said · having said that",
+    "pattern": "That said, …",
+    "note": "Разговорнее, чем with that said; часто в начале предложения.",
+    "examples": [
+      {
+        "en": "The plan is solid. That said, risks remain.",
+        "ru": "План крепкий. Тем не менее риски остаются."
+      },
+      {
+        "en": "I like the design. That said, it's hard to maintain.",
+        "ru": "Дизайн нравится. При этом его сложно поддерживать."
+      },
+      {
+        "en": "Sales grew. That said, churn also rose.",
+        "ru": "Продажи выросли. Тем не менее отток тоже вырос."
+      }
+    ]
+  },
+  {
+    "word": "having said that",
+    "lemma": "having said that",
+    "level": "b2",
+    "tr": "тем не менее; сказав это",
+    "colloc": "having said that",
+    "pattern": "Having said that, …",
+    "note": "Чуть более «письменно», чем that said.",
+    "examples": [
+      {
+        "en": "The feature is useful. Having said that, few users find it.",
+        "ru": "Фича полезная. Тем не менее мало кто её находит."
+      },
+      {
+        "en": "Having said that, I still prefer the old workflow.",
+        "ru": "Сказав это, я всё же предпочитаю старый процесс."
+      },
+      {
+        "en": "It's cheaper. Having said that, quality dropped.",
+        "ru": "Это дешевле. Тем не менее качество упало."
+      }
+    ]
+  },
+  {
+    "word": "all things considered",
+    "lemma": "all things considered",
+    "level": "b2",
+    "tr": "учитывая всё; в целом",
+    "colloc": "all things considered",
+    "pattern": "All things considered, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "All things considered, we should ship next week.",
+        "ru": "Учитывая всё, лучше выкатить на следующей неделе."
+      },
+      {
+        "en": "It went well, all things considered.",
+        "ru": "В целом, учитывая обстоятельства, прошло хорошо."
+      },
+      {
+        "en": "All things considered, the rewrite paid off.",
+        "ru": "В целом переписывание себя оправдало."
+      }
+    ]
+  },
+  {
+    "word": "be that as it may",
+    "lemma": "be that as it may",
+    "level": "c1",
+    "tr": "как бы то ни было",
+    "colloc": "be that as it may",
+    "pattern": "Be that as it may, …",
+    "note": "Формальный / письменный регистр.",
+    "examples": [
+      {
+        "en": "Be that as it may, we still need a decision today.",
+        "ru": "Как бы то ни было, решение нужно сегодня."
+      },
+      {
+        "en": "The excuse is weak. Be that as it may, fix the outage first.",
+        "ru": "Оправдание слабое. Как бы то ни было, сначала устрани аварию."
+      },
+      {
+        "en": "Be that as it may, the contract stands.",
+        "ru": "Как бы то ни было, договор действует."
+      }
+    ]
+  },
+  {
+    "word": "then again",
+    "lemma": "then again",
+    "level": "b1",
+    "tr": "с другой стороны; впрочем",
+    "colloc": "then again",
+    "pattern": "… Then again, …",
+    "note": "Разговорный контраст.",
+    "examples": [
+      {
+        "en": "We could wait. Then again, waiting costs money.",
+        "ru": "Можем подождать. С другой стороны, ожидание стоит денег."
+      },
+      {
+        "en": "It looks fine. Then again, we haven't load-tested it.",
+        "ru": "Выглядит нормально. Впрочем, нагрузочно не тестировали."
+      },
+      {
+        "en": "She's quiet. Then again, she always is in meetings.",
+        "ru": "Она молчит. Впрочем, на совещаниях она всегда такая."
+      }
+    ]
+  },
+  {
+    "word": "mind you",
+    "lemma": "mind you",
+    "level": "b2",
+    "tr": "учти; правда",
+    "colloc": "mind you",
+    "pattern": "Mind you, … / … — mind you, …",
+    "note": "Британский разговорный регистр.",
+    "examples": [
+      {
+        "en": "It's cheap — mind you, support is slow.",
+        "ru": "Это дёшево — правда, поддержка медленная."
+      },
+      {
+        "en": "Mind you, I haven't seen the final numbers.",
+        "ru": "Учти, финальных цифр я ещё не видел."
+      },
+      {
+        "en": "The tool is powerful. Mind you, the learning curve is steep.",
+        "ru": "Инструмент мощный. Правда, кривая обучения крутая."
+      }
+    ]
+  },
+  {
+    "word": "on the contrary",
+    "lemma": "on the contrary",
+    "level": "b2",
+    "tr": "напротив; совсем наоборот",
+    "colloc": "on the contrary",
+    "pattern": "On the contrary, …",
+    "note": "Не путать с on the other hand (баланс vs опровержение).",
+    "examples": [
+      {
+        "en": "I'm not upset. On the contrary, I'm relieved.",
+        "ru": "Я не расстроен. Напротив, мне легче."
+      },
+      {
+        "en": "This won't slow us down. On the contrary, it should help.",
+        "ru": "Это нас не замедлит. Наоборот, должно помочь."
+      },
+      {
+        "en": "He isn't lazy. On the contrary, he works late often.",
+        "ru": "Он не ленивый. Напротив, часто засиживается."
+      }
+    ]
+  },
+  {
+    "word": "quite the contrary",
+    "lemma": "quite the contrary",
+    "level": "c1",
+    "tr": "совсем наоборот",
+    "colloc": "quite the contrary",
+    "pattern": "… — quite the contrary",
+    "note": "Сильнее, чем on the contrary.",
+    "examples": [
+      {
+        "en": "The launch wasn't quiet — quite the contrary.",
+        "ru": "Запуск был не тихим — совсем наоборот."
+      },
+      {
+        "en": "I don't avoid feedback; quite the contrary.",
+        "ru": "Я не избегаю фидбека; совсем наоборот."
+      },
+      {
+        "en": "Costs didn't fall — quite the contrary, they rose.",
+        "ru": "Затраты не упали — совсем наоборот, выросли."
+      }
+    ]
+  },
+  {
+    "word": "far from it",
+    "lemma": "far from it",
+    "level": "b2",
+    "tr": "отнюдь нет; вовсе нет",
+    "colloc": "far from it",
+    "pattern": "Far from it.",
+    "note": "Разговорное отрицание ожидания.",
+    "examples": [
+      {
+        "en": "Is the work done? Far from it.",
+        "ru": "Работа сделана? Отнюдь нет."
+      },
+      {
+        "en": "We're not ready — far from it.",
+        "ru": "Мы не готовы — вовсе нет."
+      },
+      {
+        "en": "Was it a failure? Far from it; we learned a lot.",
+        "ru": "Это был провал? Отнюдь; мы многому научились."
+      }
+    ]
+  },
+  {
+    "word": "if anything",
+    "lemma": "if anything",
+    "level": "b2",
+    "tr": "скорее наоборот; если уж на то пошло",
+    "colloc": "if anything",
+    "pattern": "If anything, …",
+    "note": "Корректирует / усиливает предыдущее.",
+    "examples": [
+      {
+        "en": "The bug isn't rare — if anything, it's getting worse.",
+        "ru": "Баг не редкий — скорее, становится хуже."
+      },
+      {
+        "en": "I'm not tired. If anything, I'm restless.",
+        "ru": "Я не устал. Скорее, мне неспокойно."
+      },
+      {
+        "en": "Prices didn't drop; if anything, they climbed.",
+        "ru": "Цены не упали; скорее, выросли."
+      }
+    ]
+  },
+  {
+    "word": "contrary to",
+    "lemma": "contrary to",
+    "level": "b2",
+    "tr": "вопреки; вразрез с",
+    "colloc": "contrary to expectations · contrary to rumors",
+    "pattern": "contrary to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Contrary to rumors, the app is still supported.",
+        "ru": "Вопреки слухам, приложение всё ещё поддерживается."
+      },
+      {
+        "en": "Contrary to expectations, conversion rose.",
+        "ru": "Вопреки ожиданиям, конверсия выросла."
+      },
+      {
+        "en": "The result is contrary to our hypothesis.",
+        "ru": "Результат противоречит нашей гипотезе."
+      }
+    ]
+  },
+  {
+    "word": "in contrast to",
+    "lemma": "in contrast to",
+    "level": "b2",
+    "tr": "в отличие от",
+    "colloc": "in contrast to · stand in contrast to",
+    "pattern": "in contrast to + N",
+    "note": "В discourse уже есть in contrast / by contrast — это предложная рамка.",
+    "examples": [
+      {
+        "en": "In contrast to last year, sales are up.",
+        "ru": "В отличие от прошлого года продажи выросли."
+      },
+      {
+        "en": "In contrast to the old UI, this one is cleaner.",
+        "ru": "В отличие от старого UI этот чище."
+      },
+      {
+        "en": "Her calm reply stood in contrast to his anger.",
+        "ru": "Её спокойный ответ контрастировал с его злостью."
+      }
+    ]
+  },
+  {
+    "word": "unlike",
+    "lemma": "unlike",
+    "level": "b1",
+    "tr": "в отличие от",
+    "colloc": "unlike · unlike last time",
+    "pattern": "unlike + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Unlike the beta, the release is stable.",
+        "ru": "В отличие от беты релиз стабилен."
+      },
+      {
+        "en": "Unlike me, she enjoys morning standups.",
+        "ru": "В отличие от меня ей нравятся утренние стендапы."
+      },
+      {
+        "en": "Unlike last week, the queue is quiet.",
+        "ru": "В отличие от прошлой недели очередь тихая."
+      }
+    ]
+  },
+  {
+    "word": "as against",
+    "lemma": "as against",
+    "level": "c1",
+    "tr": "по сравнению с; против",
+    "colloc": "as against",
+    "pattern": "X as against Y",
+    "note": "Британский / формальный сравнительный оборот.",
+    "examples": [
+      {
+        "en": "We have 12 open bugs as against 40 last month.",
+        "ru": "У нас 12 открытых багов против 40 в прошлом месяце."
+      },
+      {
+        "en": "Costs fell as against the previous quarter.",
+        "ru": "Затраты снизились по сравнению с прошлым кварталом."
+      },
+      {
+        "en": "Support tickets are down as against Q1.",
+        "ru": "Тикеты снизились против Q1."
+      }
+    ]
+  },
+  {
+    "word": "for all that",
+    "lemma": "for all that",
+    "level": "c1",
+    "tr": "несмотря на всё это",
+    "colloc": "for all that",
+    "pattern": "…; for all that, …",
+    "note": "Книжный concession.",
+    "examples": [
+      {
+        "en": "The code is messy; for all that, it works.",
+        "ru": "Код грязный; несмотря на это, он работает."
+      },
+      {
+        "en": "For all that effort, the metric barely moved.",
+        "ru": "При всех этих усилиях метрика почти не сдвинулась."
+      },
+      {
+        "en": "He's inexperienced; for all that, he learns fast.",
+        "ru": "Он неопытный; несмотря на это, быстро учится."
+      }
+    ]
+  },
+  {
+    "word": "much as",
+    "lemma": "much as",
+    "level": "c1",
+    "tr": "как ни; хотя и",
+    "colloc": "much as",
+    "pattern": "Much as + clause, …",
+    "note": "Формальный concession.",
+    "examples": [
+      {
+        "en": "Much as I like the idea, we can't afford it.",
+        "ru": "Как ни нравится идея, мы не можем себе это позволить."
+      },
+      {
+        "en": "Much as we tried, the test still flaked.",
+        "ru": "Как ни старались, тест всё равно флакал."
+      },
+      {
+        "en": "Much as it hurts, we have to cut the feature.",
+        "ru": "Как ни жаль, фичу придётся вырезать."
+      }
+    ]
+  },
+  {
+    "word": "at the same time",
+    "lemma": "at the same time",
+    "level": "b1",
+    "tr": "в то же время; одновременно",
+    "colloc": "at the same time",
+    "pattern": "…, at the same time, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "We need speed and, at the same time, safety.",
+        "ru": "Нужна скорость и в то же время безопасность."
+      },
+      {
+        "en": "At the same time, costs must stay flat.",
+        "ru": "В то же время затраты должны остаться плоскими."
+      },
+      {
+        "en": "She manages product and engineering at the same time.",
+        "ru": "Она ведёт и продукт, и инженерию одновременно."
+      }
+    ]
+  },
+  {
+    "word": "by contrast with",
+    "lemma": "by contrast with",
+    "level": "b2",
+    "tr": "в отличие от; по контрасту с",
+    "colloc": "by contrast with",
+    "pattern": "by contrast with + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "By contrast with the old plan, this one is lean.",
+        "ru": "В отличие от старого плана этот lean."
+      },
+      {
+        "en": "Performance improved by contrast with last sprint.",
+        "ru": "Производительность выросла по сравнению с прошлым спринтом."
+      },
+      {
+        "en": "By contrast with mobile, desktop usage fell.",
+        "ru": "В отличие от мобилки использование десктопа упало."
+      }
+    ]
+  },
+  {
+    "word": "as opposed to that",
+    "lemma": "as opposed to that",
+    "level": "b2",
+    "tr": "в отличие от этого",
+    "colloc": "as opposed to that",
+    "pattern": "As opposed to that, …",
+    "note": "discourse has as opposed to — this is the discourse chunk with 'that'.",
+    "examples": [
+      {
+        "en": "We could rewrite. As opposed to that, a patch is faster.",
+        "ru": "Можно переписать. В отличие от этого патч быстрее."
+      },
+      {
+        "en": "As opposed to that approach, ours is incremental.",
+        "ru": "В отличие от того подхода наш инкрементальный."
+      },
+      {
+        "en": "Hiring juniors is cheap; as opposed to that, seniors raise the bar.",
+        "ru": "Джуны дешевле; в отличие от этого сеньоры повышают планку."
+      }
+    ]
+  },
+  {
+    "word": "rather than that",
+    "lemma": "rather than that",
+    "level": "b2",
+    "tr": "вместо этого; лучше чем то",
+    "colloc": "rather than that",
+    "pattern": "Rather than that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Rather than that, let's ship a smaller MVP.",
+        "ru": "Вместо этого давайте выкатим меньший MVP."
+      },
+      {
+        "en": "I'd pick a delay rather than that quality drop.",
+        "ru": "Лучше задержка, чем такое падение качества."
+      },
+      {
+        "en": "Rather than that risky merge, open a smaller PR.",
+        "ru": "Вместо этого рискованного мержа открой меньший PR."
+      }
+    ]
+  },
+  {
+    "word": "instead of that",
+    "lemma": "instead of that",
+    "level": "b1",
+    "tr": "вместо этого",
+    "colloc": "instead of that",
+    "pattern": "Instead of that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Instead of that, try a feature flag.",
+        "ru": "Вместо этого попробуй feature flag."
+      },
+      {
+        "en": "We paused ads; instead of that, we grew SEO.",
+        "ru": "Мы остановили рекламу; вместо этого вырос SEO."
+      },
+      {
+        "en": "Instead of that meeting, send a short note.",
+        "ru": "Вместо того совещания отправь короткую заметку."
+      }
+    ]
+  },
+  {
+    "word": "other than that",
+    "lemma": "other than that",
+    "level": "b1",
+    "tr": "кроме этого; в остальном",
+    "colloc": "other than that",
+    "pattern": "Other than that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Other than that, the release looks fine.",
+        "ru": "Кроме этого релиз выглядит нормально."
+      },
+      {
+        "en": "No blockers other than that.",
+        "ru": "Блокеров, кроме этого, нет."
+      },
+      {
+        "en": "Other than that one bug, QA passed.",
+        "ru": "Кроме того одного бага QA прошла."
+      }
+    ]
+  },
+  {
+    "word": "apart from that",
+    "lemma": "apart from that",
+    "level": "b1",
+    "tr": "кроме того; помимо этого",
+    "colloc": "apart from that",
+    "pattern": "Apart from that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Apart from that, we're on track.",
+        "ru": "Помимо этого мы в графике."
+      },
+      {
+        "en": "Apart from that issue, users are happy.",
+        "ru": "Кроме той проблемы пользователи довольны."
+      },
+      {
+        "en": "Nothing critical apart from that.",
+        "ru": "Ничего критичного, кроме этого."
+      }
+    ]
+  },
+  {
+    "word": "aside from that",
+    "lemma": "aside from that",
+    "level": "b2",
+    "tr": "помимо этого",
+    "colloc": "aside from that",
+    "pattern": "Aside from that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Aside from that, the migration went smoothly.",
+        "ru": "Помимо этого миграция прошла гладко."
+      },
+      {
+        "en": "Aside from that delay, stakeholders are aligned.",
+        "ru": "Кроме той задержки стейкхолдеры согласованы."
+      },
+      {
+        "en": "Nothing else aside from that.",
+        "ru": "Больше ничего, кроме этого."
+      }
+    ]
+  },
+  {
+    "word": "beyond that",
+    "lemma": "beyond that",
+    "level": "b2",
+    "tr": "помимо этого; дальше этого",
+    "colloc": "beyond that",
+    "pattern": "Beyond that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Beyond that, we need better monitoring.",
+        "ru": "Помимо этого нужен лучший мониторинг."
+      },
+      {
+        "en": "I can't help beyond that.",
+        "ru": "Дальше этого помочь не могу."
+      },
+      {
+        "en": "Beyond that point, the data gets noisy.",
+        "ru": "Дальше этой точки данные становятся шумными."
+      }
+    ]
+  },
+  {
+    "word": "better still",
+    "lemma": "better still",
+    "level": "b2",
+    "tr": "ещё лучше",
+    "colloc": "better still",
+    "pattern": "… — better still, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "We could automate it — better still, delete the step.",
+        "ru": "Можем автоматизировать — ещё лучше удалить шаг."
+      },
+      {
+        "en": "Better still, ship behind a flag.",
+        "ru": "Ещё лучше — выкатить за флагом."
+      },
+      {
+        "en": "Invite her — better still, make her the owner.",
+        "ru": "Пригласи её — ещё лучше сделай владельцем."
+      }
+    ]
+  },
+  {
+    "word": "worse still",
+    "lemma": "worse still",
+    "level": "b2",
+    "tr": "ещё хуже",
+    "colloc": "worse still",
+    "pattern": "Worse still, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The bug ships. Worse still, it hits payments.",
+        "ru": "Баг уходит в прод. Ещё хуже — бьёт по платежам."
+      },
+      {
+        "en": "Worse still, nobody owns the service.",
+        "ru": "Ещё хуже — у сервиса нет владельца."
+      },
+      {
+        "en": "Traffic spiked; worse still, the cache was cold.",
+        "ru": "Трафик скаканул; ещё хуже — кэш был холодный."
+      }
+    ]
+  },
+  {
+    "word": "to make matters worse",
+    "lemma": "to make matters worse",
+    "level": "b2",
+    "tr": "в довершение бед; хуже того",
+    "colloc": "to make matters worse",
+    "pattern": "To make matters worse, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The disk filled up. To make matters worse, backups failed.",
+        "ru": "Диск забился. Хуже того, бэкапы не сработали."
+      },
+      {
+        "en": "To make matters worse, on-call was offline.",
+        "ru": "В довершение бед дежурный был офлайн."
+      },
+      {
+        "en": "Sales dipped; to make matters worse, ads froze.",
+        "ru": "Продажи просели; хуже того, реклама зависла."
+      }
+    ]
+  },
+  {
+    "word": "to make things worse",
+    "lemma": "to make things worse",
+    "level": "b1",
+    "tr": "хуже того",
+    "colloc": "to make things worse",
+    "pattern": "To make things worse, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "I lost the keys. To make things worse, my phone died.",
+        "ru": "Я потерял ключи. Хуже того, телефон сел."
+      },
+      {
+        "en": "To make things worse, the docs were outdated.",
+        "ru": "Хуже того, документация устарела."
+      },
+      {
+        "en": "Rain started; to make things worse, we had no umbrella.",
+        "ru": "Пошёл дождь; хуже того, зонта не было."
+      }
+    ]
+  },
+  {
+    "word": "come what may",
+    "lemma": "come what may",
+    "level": "c1",
+    "tr": "что бы ни было; во что бы то ни стало",
+    "colloc": "come what may",
+    "pattern": "…, come what may",
+    "note": "",
+    "examples": [
+      {
+        "en": "We'll launch on Friday, come what may.",
+        "ru": "Запустимся в пятницу, что бы ни случилось."
+      },
+      {
+        "en": "Come what may, I won't drop the ball.",
+        "ru": "Что бы ни было, я не подведу."
+      },
+      {
+        "en": "She finished the course, come what may.",
+        "ru": "Она закончила курс во что бы то ни стало."
+      }
+    ]
+  },
+  {
+    "word": "one way or another",
+    "lemma": "one way or another",
+    "level": "b1",
+    "tr": "так или иначе",
+    "colloc": "one way or another",
+    "pattern": "… one way or another",
+    "note": "",
+    "examples": [
+      {
+        "en": "We'll solve it one way or another.",
+        "ru": "Так или иначе решим."
+      },
+      {
+        "en": "One way or another, the debt must be paid.",
+        "ru": "Так или иначе долг придётся отдать."
+      },
+      {
+        "en": "The truth comes out one way or another.",
+        "ru": "Правда так или иначе всплывает."
+      }
+    ]
+  },
+  {
+    "word": "one way or the other",
+    "lemma": "one way or the other",
+    "level": "b2",
+    "tr": "так или иначе",
+    "colloc": "one way or the other",
+    "pattern": "… one way or the other",
+    "note": "",
+    "examples": [
+      {
+        "en": "Decide one way or the other by Friday.",
+        "ru": "Реши так или иначе к пятнице."
+      },
+      {
+        "en": "One way or the other, we need clarity.",
+        "ru": "Так или иначе нужна ясность."
+      },
+      {
+        "en": "The board will vote one way or the other.",
+        "ru": "Совет проголосует так или иначе."
+      }
+    ]
+  }
+]

@@ -1,0 +1,945 @@
+[
+  {
+    "word": "as far as I know",
+    "lemma": "as far as i know",
+    "level": "b1",
+    "tr": "насколько мне известно",
+    "colloc": "as far as I know · AFAIK",
+    "pattern": "As far as I know, …",
+    "note": "Хеджирование знания; AFAIK в чатах.",
+    "examples": [
+      {
+        "en": "As far as I know, the API is still public.",
+        "ru": "Насколько мне известно, API всё ещё публичный."
+      },
+      {
+        "en": "The bug is fixed, as far as I know.",
+        "ru": "Баг исправлен, насколько я знаю."
+      },
+      {
+        "en": "As far as I know, nobody owns that service.",
+        "ru": "Насколько мне известно, у сервиса нет владельца."
+      }
+    ]
+  },
+  {
+    "word": "as far as I'm concerned",
+    "lemma": "as far as i'm concerned",
+    "level": "b2",
+    "tr": "что касается меня; по мне",
+    "colloc": "as far as I'm concerned",
+    "pattern": "As far as I'm concerned, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As far as I'm concerned, we can ship.",
+        "ru": "По мне — можно выкатывать."
+      },
+      {
+        "en": "The debate is over as far as I'm concerned.",
+        "ru": "Для меня спор закрыт."
+      },
+      {
+        "en": "As far as I'm concerned, quality comes first.",
+        "ru": "Что касается меня, качество важнее."
+      }
+    ]
+  },
+  {
+    "word": "as far as I can tell",
+    "lemma": "as far as i can tell",
+    "level": "b2",
+    "tr": "насколько могу судить",
+    "colloc": "as far as I can tell",
+    "pattern": "As far as I can tell, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As far as I can tell, the outage is regional.",
+        "ru": "Насколько могу судить, авария региональная."
+      },
+      {
+        "en": "The leak is patched, as far as I can tell.",
+        "ru": "Утечка закрыта, насколько могу судить."
+      },
+      {
+        "en": "As far as I can tell, users aren't complaining.",
+        "ru": "Насколько могу судить, пользователи не жалуются."
+      }
+    ]
+  },
+  {
+    "word": "to the best of my knowledge",
+    "lemma": "to the best of my knowledge",
+    "level": "c1",
+    "tr": "насколько мне известно",
+    "colloc": "to the best of my knowledge",
+    "pattern": "To the best of my knowledge, …",
+    "note": "Формальный хедж.",
+    "examples": [
+      {
+        "en": "To the best of my knowledge, no data was exposed.",
+        "ru": "Насколько мне известно, данные не утекли."
+      },
+      {
+        "en": "To the best of my knowledge, the license is valid.",
+        "ru": "Насколько мне известно, лицензия действительна."
+      },
+      {
+        "en": "The claim is false, to the best of my knowledge.",
+        "ru": "Утверждение ложно, насколько мне известно."
+      }
+    ]
+  },
+  {
+    "word": "for the most part",
+    "lemma": "for the most part",
+    "level": "b2",
+    "tr": "в основном; по большей части",
+    "colloc": "for the most part",
+    "pattern": "For the most part, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "For the most part, the migration went smoothly.",
+        "ru": "По большей части миграция прошла гладко."
+      },
+      {
+        "en": "Users are happy for the most part.",
+        "ru": "Пользователи в основном довольны."
+      },
+      {
+        "en": "For the most part we use TypeScript.",
+        "ru": "В основном мы используем TypeScript."
+      }
+    ]
+  },
+  {
+    "word": "to some extent",
+    "lemma": "to some extent",
+    "level": "b2",
+    "tr": "в некоторой степени",
+    "colloc": "to some extent",
+    "pattern": "… to some extent",
+    "note": "",
+    "examples": [
+      {
+        "en": "I agree to some extent.",
+        "ru": "В некоторой степени согласен."
+      },
+      {
+        "en": "Automation helps to some extent.",
+        "ru": "Автоматизация помогает в некоторой степени."
+      },
+      {
+        "en": "The rumor is true to some extent.",
+        "ru": "Слух в некоторой степени правдив."
+      }
+    ]
+  },
+  {
+    "word": "to a certain extent",
+    "lemma": "to a certain extent",
+    "level": "b2",
+    "tr": "до определённой степени",
+    "colloc": "to a certain extent",
+    "pattern": "to a certain extent",
+    "note": "",
+    "examples": [
+      {
+        "en": "To a certain extent, the delay was our fault.",
+        "ru": "До определённой степени задержка — наша вина."
+      },
+      {
+        "en": "It works to a certain extent.",
+        "ru": "До определённой степени это работает."
+      },
+      {
+        "en": "To a certain extent I share your concern.",
+        "ru": "До определённой степени разделяю твоё беспокойство."
+      }
+    ]
+  },
+  {
+    "word": "to a large extent",
+    "lemma": "to a large extent",
+    "level": "b2",
+    "tr": "в значительной степени",
+    "colloc": "to a large extent",
+    "pattern": "to a large extent",
+    "note": "",
+    "examples": [
+      {
+        "en": "Success depends to a large extent on timing.",
+        "ru": "Успех в значительной степени зависит от тайминга."
+      },
+      {
+        "en": "To a large extent, the bug was environmental.",
+        "ru": "В значительной степени баг был средовым."
+      },
+      {
+        "en": "Costs fell to a large extent after the rewrite.",
+        "ru": "Затраты в значительной степени упали после рефакторинга."
+      }
+    ]
+  },
+  {
+    "word": "more or less",
+    "lemma": "more or less",
+    "level": "b1",
+    "tr": "более или менее; примерно",
+    "colloc": "more or less",
+    "pattern": "more or less",
+    "note": "",
+    "examples": [
+      {
+        "en": "The estimate is more or less accurate.",
+        "ru": "Оценка более или менее точная."
+      },
+      {
+        "en": "We're more or less done.",
+        "ru": "Мы более или менее закончили."
+      },
+      {
+        "en": "It costs more or less the same.",
+        "ru": "Это стоит примерно столько же."
+      }
+    ]
+  },
+  {
+    "word": "up to a point",
+    "lemma": "up to a point",
+    "level": "b2",
+    "tr": "до определённого предела",
+    "colloc": "up to a point",
+    "pattern": "… up to a point",
+    "note": "",
+    "examples": [
+      {
+        "en": "I agree up to a point.",
+        "ru": "Согласен до определённого предела."
+      },
+      {
+        "en": "Caching helps up to a point.",
+        "ru": "Кэш помогает до определённого предела."
+      },
+      {
+        "en": "Freedom is fine up to a point.",
+        "ru": "Свобода хороша до определённого предела."
+      }
+    ]
+  },
+  {
+    "word": "in a sense",
+    "lemma": "in a sense",
+    "level": "b2",
+    "tr": "в каком-то смысле",
+    "colloc": "in a sense",
+    "pattern": "In a sense, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In a sense, the failure was useful.",
+        "ru": "В каком-то смысле провал был полезен."
+      },
+      {
+        "en": "We're rewriting it — in a sense, starting over.",
+        "ru": "Мы переписываем — в каком-то смысле с нуля."
+      },
+      {
+        "en": "In a sense both sides are right.",
+        "ru": "В каком-то смысле правы обе стороны."
+      }
+    ]
+  },
+  {
+    "word": "in a way",
+    "lemma": "in a way",
+    "level": "b1",
+    "tr": "в некотором роде; своего рода",
+    "colloc": "in a way",
+    "pattern": "In a way, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In a way, the bug saved us from a worse outage.",
+        "ru": "В некотором роде баг спас от худшей аварии."
+      },
+      {
+        "en": "It's simpler, in a way.",
+        "ru": "В некотором роде это проще."
+      },
+      {
+        "en": "In a way I'm glad we delayed.",
+        "ru": "В некотором роде рад, что отложили."
+      }
+    ]
+  },
+  {
+    "word": "in some respects",
+    "lemma": "in some respects",
+    "level": "b2",
+    "tr": "в некоторых отношениях",
+    "colloc": "in some respects",
+    "pattern": "In some respects, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In some respects the old design was better.",
+        "ru": "В некоторых отношениях старый дизайн был лучше."
+      },
+      {
+        "en": "The proposal is strong in some respects.",
+        "ru": "Предложение сильно в некоторых отношениях."
+      },
+      {
+        "en": "In some respects we agree.",
+        "ru": "В некоторых отношениях мы согласны."
+      }
+    ]
+  },
+  {
+    "word": "in many ways",
+    "lemma": "in many ways",
+    "level": "b1",
+    "tr": "во многих отношениях",
+    "colloc": "in many ways",
+    "pattern": "In many ways, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In many ways this is a breakthrough.",
+        "ru": "Во многих отношениях это прорыв."
+      },
+      {
+        "en": "The tools differ in many ways.",
+        "ru": "Инструменты во многом различаются."
+      },
+      {
+        "en": "In many ways she set the standard.",
+        "ru": "Во многом она задала стандарт."
+      }
+    ]
+  },
+  {
+    "word": "on the whole",
+    "lemma": "on the whole",
+    "level": "b2",
+    "tr": "в целом",
+    "colloc": "on the whole",
+    "pattern": "On the whole, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "On the whole, the sprint went well.",
+        "ru": "В целом спринт прошёл хорошо."
+      },
+      {
+        "en": "Users like it on the whole.",
+        "ru": "В целом пользователям нравится."
+      },
+      {
+        "en": "On the whole I'd recommend it.",
+        "ru": "В целом я бы рекомендовал."
+      }
+    ]
+  },
+  {
+    "word": "broadly speaking",
+    "lemma": "broadly speaking",
+    "level": "b2",
+    "tr": "в широком смысле; в целом",
+    "colloc": "broadly speaking",
+    "pattern": "Broadly speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Broadly speaking, we follow the same process.",
+        "ru": "В целом мы следуем одному процессу."
+      },
+      {
+        "en": "Broadly speaking, B2B deals take longer.",
+        "ru": "В широком смысле B2B-сделки дольше."
+      },
+      {
+        "en": "Broadly speaking the architecture is sound.",
+        "ru": "В целом архитектура здравая."
+      }
+    ]
+  },
+  {
+    "word": "generally speaking",
+    "lemma": "generally speaking",
+    "level": "b1",
+    "tr": "в общем; говоря в общем",
+    "colloc": "generally speaking",
+    "pattern": "Generally speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Generally speaking, evenings are quieter.",
+        "ru": "В общем вечера спокойнее."
+      },
+      {
+        "en": "Generally speaking I avoid meetings on Fridays.",
+        "ru": "В общем я избегаю совещаний по пятницам."
+      },
+      {
+        "en": "Generally speaking, the rule holds.",
+        "ru": "В общем правило работает."
+      }
+    ]
+  },
+  {
+    "word": "roughly speaking",
+    "lemma": "roughly speaking",
+    "level": "b2",
+    "tr": "грубо говоря",
+    "colloc": "roughly speaking",
+    "pattern": "Roughly speaking, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Roughly speaking, latency doubled.",
+        "ru": "Грубо говоря, задержка удвоилась."
+      },
+      {
+        "en": "Roughly speaking we have two options.",
+        "ru": "Грубо говоря, у нас два варианта."
+      },
+      {
+        "en": "It costs, roughly speaking, a month of work.",
+        "ru": "Это стоит, грубо говоря, месяц работы."
+      }
+    ]
+  },
+  {
+    "word": "so to speak",
+    "lemma": "so to speak",
+    "level": "b2",
+    "tr": "так сказать",
+    "colloc": "so to speak",
+    "pattern": "…, so to speak",
+    "note": "",
+    "examples": [
+      {
+        "en": "We rebuilt the foundation, so to speak.",
+        "ru": "Мы перестроили фундамент, так сказать."
+      },
+      {
+        "en": "He's the glue of the team, so to speak.",
+        "ru": "Он клей команды, так сказать."
+      },
+      {
+        "en": "The cache is the bottleneck, so to speak.",
+        "ru": "Кэш — узкое место, так сказать."
+      }
+    ]
+  },
+  {
+    "word": "as it were",
+    "lemma": "as it were",
+    "level": "c1",
+    "tr": "как бы; своего рода",
+    "colloc": "as it were",
+    "pattern": "…, as it were",
+    "note": "Книжный хедж / смягчение метафоры.",
+    "examples": [
+      {
+        "en": "The module is a sandbox, as it were.",
+        "ru": "Модуль — своего рода песочница."
+      },
+      {
+        "en": "We're grafting new code onto old, as it were.",
+        "ru": "Мы как бы прививаем новый код к старому."
+      },
+      {
+        "en": "She became, as it were, the product owner.",
+        "ru": "Она стала, как бы, владельцем продукта."
+      }
+    ]
+  },
+  {
+    "word": "kind of",
+    "lemma": "kind of",
+    "level": "b1",
+    "tr": "вроде; как бы",
+    "colloc": "kind of · kinda",
+    "pattern": "kind of + adj/V",
+    "note": "Разговорный; в формальном письме лучше избегать.",
+    "examples": [
+      {
+        "en": "I'm kind of worried about the deadline.",
+        "ru": "Я как бы волнуюсь из-за дедлайна."
+      },
+      {
+        "en": "It kind of works, but it's fragile.",
+        "ru": "Оно вроде работает, но хрупкое."
+      },
+      {
+        "en": "We kind of agreed to postpone.",
+        "ru": "Мы вроде согласились отложить."
+      }
+    ]
+  },
+  {
+    "word": "sort of",
+    "lemma": "sort of",
+    "level": "b1",
+    "tr": "вроде; своего рода",
+    "colloc": "sort of · sorta",
+    "pattern": "sort of",
+    "note": "Разговорный хедж.",
+    "examples": [
+      {
+        "en": "It's sort of a workaround.",
+        "ru": "Это своего рода костыль."
+      },
+      {
+        "en": "I sort of expected that.",
+        "ru": "Я вроде этого ожидал."
+      },
+      {
+        "en": "We're sort of stuck.",
+        "ru": "Мы вроде застряли."
+      }
+    ]
+  },
+  {
+    "word": "more often than not",
+    "lemma": "more often than not",
+    "level": "b2",
+    "tr": "чаще всего; как правило",
+    "colloc": "more often than not",
+    "pattern": "More often than not, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "More often than not, the issue is config.",
+        "ru": "Чаще всего проблема в конфиге."
+      },
+      {
+        "en": "More often than not she replies within an hour.",
+        "ru": "Как правило она отвечает в течение часа."
+      },
+      {
+        "en": "Flaky tests, more often than not, hide race conditions.",
+        "ru": "Флаки чаще всего прячут гонки."
+      }
+    ]
+  },
+  {
+    "word": "chances are",
+    "lemma": "chances are",
+    "level": "b1",
+    "tr": "скорее всего; велика вероятность",
+    "colloc": "chances are",
+    "pattern": "Chances are …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Chances are the cache is stale.",
+        "ru": "Скорее всего кэш устарел."
+      },
+      {
+        "en": "Chances are we'll need another sprint.",
+        "ru": "Велика вероятность, что нужен ещё спринт."
+      },
+      {
+        "en": "If you skip backups, chances are you'll regret it.",
+        "ru": "Если пропустишь бэкапы, скорее всего пожалеешь."
+      }
+    ]
+  },
+  {
+    "word": "odds are",
+    "lemma": "odds are",
+    "level": "b2",
+    "tr": "скорее всего",
+    "colloc": "odds are",
+    "pattern": "Odds are …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Odds are the PR will need changes.",
+        "ru": "Скорее всего PR потребует правок."
+      },
+      {
+        "en": "Odds are users won't notice.",
+        "ru": "Скорее всего пользователи не заметят."
+      },
+      {
+        "en": "If we wait, odds are the bug spreads.",
+        "ru": "Если подождём, скорее всего баг расползётся."
+      }
+    ]
+  },
+  {
+    "word": "it seems that",
+    "lemma": "it seems that",
+    "level": "b1",
+    "tr": "похоже что; кажется",
+    "colloc": "it seems that",
+    "pattern": "It seems that …",
+    "note": "",
+    "examples": [
+      {
+        "en": "It seems that the webhook never fired.",
+        "ru": "Похоже, вебхук так и не сработал."
+      },
+      {
+        "en": "It seems that everyone agrees.",
+        "ru": "Кажется, все согласны."
+      },
+      {
+        "en": "It seems that load caused the spike.",
+        "ru": "Похоже, нагрузка вызвала скачок."
+      }
+    ]
+  },
+  {
+    "word": "it appears that",
+    "lemma": "it appears that",
+    "level": "b2",
+    "tr": "по-видимому; судя по всему",
+    "colloc": "it appears that",
+    "pattern": "It appears that …",
+    "note": "Чуть формальнее, чем it seems.",
+    "examples": [
+      {
+        "en": "It appears that the certificate expired.",
+        "ru": "По-видимому, сертификат истёк."
+      },
+      {
+        "en": "It appears that two teams own the same area.",
+        "ru": "Судя по всему, одну зону ведут две команды."
+      },
+      {
+        "en": "It appears that the fix worked.",
+        "ru": "По-видимому, фикс сработал."
+      }
+    ]
+  },
+  {
+    "word": "it is fair to say",
+    "lemma": "it is fair to say",
+    "level": "b2",
+    "tr": "справедливо сказать",
+    "colloc": "it is fair to say",
+    "pattern": "It is fair to say (that) …",
+    "note": "",
+    "examples": [
+      {
+        "en": "It is fair to say the launch was rocky.",
+        "ru": "Справедливо сказать, запуск был нервным."
+      },
+      {
+        "en": "It's fair to say we underestimated scope.",
+        "ru": "Справедливо сказать, мы недооценили объём."
+      },
+      {
+        "en": "It is fair to say both sides compromised.",
+        "ru": "Справедливо сказать, обе стороны пошли на уступки."
+      }
+    ]
+  },
+  {
+    "word": "one could argue",
+    "lemma": "one could argue",
+    "level": "c1",
+    "tr": "можно утверждать; можно спорить",
+    "colloc": "one could argue",
+    "pattern": "One could argue that …",
+    "note": "Академический / осторожный тезис.",
+    "examples": [
+      {
+        "en": "One could argue that the redesign was overdue.",
+        "ru": "Можно утверждать, что редизайн давно назрел."
+      },
+      {
+        "en": "One could argue both approaches are valid.",
+        "ru": "Можно спорить, что оба подхода валидны."
+      },
+      {
+        "en": "One could argue we should have waited.",
+        "ru": "Можно сказать, что стоило подождать."
+      }
+    ]
+  },
+  {
+    "word": "for what it's worth",
+    "lemma": "for what it's worth",
+    "level": "b2",
+    "tr": "на всякий случай скажу; если это что-то значит",
+    "colloc": "for what it's worth · FWIW",
+    "pattern": "For what it's worth, …",
+    "note": "Смягчает мнение.",
+    "examples": [
+      {
+        "en": "For what it's worth, I liked the old UI.",
+        "ru": "Если что — мне нравился старый UI."
+      },
+      {
+        "en": "For what it's worth, the logs look clean.",
+        "ru": "На всякий случай: логи чистые."
+      },
+      {
+        "en": "My two cents, for what it's worth.",
+        "ru": "Мои два цента, если это что-то значит."
+      }
+    ]
+  },
+  {
+    "word": "as far as X goes",
+    "lemma": "as far as x goes",
+    "level": "b2",
+    "tr": "что касается X",
+    "colloc": "as far as X goes",
+    "pattern": "as far as + N + goes",
+    "note": "",
+    "examples": [
+      {
+        "en": "As far as security goes, we're solid.",
+        "ru": "Что касается безопасности — мы в порядке."
+      },
+      {
+        "en": "As far as UX goes, there's room to improve.",
+        "ru": "Что касается UX — есть куда расти."
+      },
+      {
+        "en": "As far as budget goes, we're tight.",
+        "ru": "Что касается бюджета — туго."
+      }
+    ]
+  },
+  {
+    "word": "insofar as",
+    "lemma": "insofar as",
+    "level": "c1",
+    "tr": "поскольку; в той мере в какой",
+    "colloc": "insofar as",
+    "pattern": "insofar as + clause",
+    "note": "Формальный; также in so far as.",
+    "examples": [
+      {
+        "en": "Insofar as the data is accurate, the model works.",
+        "ru": "Поскольку данные точны, модель работает."
+      },
+      {
+        "en": "I agree insofar as costs stay capped.",
+        "ru": "Согласен в той мере, в какой затраты ограничены."
+      },
+      {
+        "en": "Insofar as we can tell, no one was affected.",
+        "ru": "Насколько можем судить, никто не пострадал."
+      }
+    ]
+  },
+  {
+    "word": "to the extent that",
+    "lemma": "to the extent that",
+    "level": "c1",
+    "tr": "в той мере в какой; настолько что",
+    "colloc": "to the extent that",
+    "pattern": "to the extent that …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To the extent that we control it, latency is fine.",
+        "ru": "Насколько это от нас зависит, задержка в норме."
+      },
+      {
+        "en": "He trusts us to the extent that he shared keys.",
+        "ru": "Он доверяет настолько, что поделился ключами."
+      },
+      {
+        "en": "To the extent that metrics lie, we need better ones.",
+        "ru": "Постольку поскольку метрики врут, нужны лучше."
+      }
+    ]
+  },
+  {
+    "word": "supposedly",
+    "lemma": "supposedly",
+    "level": "b2",
+    "tr": "якобы; предположительно",
+    "colloc": "supposedly",
+    "pattern": "supposedly …",
+    "note": "Часто с оттенком сомнения.",
+    "examples": [
+      {
+        "en": "The fix supposedly landed yesterday.",
+        "ru": "Фикс якобы выкатили вчера."
+      },
+      {
+        "en": "Supposedly the vendor supports SSO.",
+        "ru": "Предположительно вендор поддерживает SSO."
+      },
+      {
+        "en": "He's supposedly the expert on this.",
+        "ru": "Он якобы эксперт по этому."
+      }
+    ]
+  },
+  {
+    "word": "allegedly",
+    "lemma": "allegedly",
+    "level": "c1",
+    "tr": "якобы; по утверждениям",
+    "colloc": "allegedly",
+    "pattern": "allegedly …",
+    "note": "Новости / юридический тон.",
+    "examples": [
+      {
+        "en": "The firm allegedly ignored the warning.",
+        "ru": "Фирма якобы проигнорировала предупреждение."
+      },
+      {
+        "en": "Allegedly the data left the network.",
+        "ru": "По утверждениям данные покинули сеть."
+      },
+      {
+        "en": "He allegedly approved the change.",
+        "ru": "Он якобы одобрил изменение."
+      }
+    ]
+  },
+  {
+    "word": "presumably",
+    "lemma": "presumably",
+    "level": "b2",
+    "tr": "по-видимому; надо полагать",
+    "colloc": "presumably",
+    "pattern": "Presumably, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Presumably the cron job failed.",
+        "ru": "Надо полагать, cron не сработал."
+      },
+      {
+        "en": "Presumably they'll reply tomorrow.",
+        "ru": "По-видимому, ответят завтра."
+      },
+      {
+        "en": "The file is missing, presumably deleted.",
+        "ru": "Файла нет, по-видимому удалён."
+      }
+    ]
+  },
+  {
+    "word": "arguably",
+    "lemma": "arguably",
+    "level": "c1",
+    "tr": "можно сказать; спорно но",
+    "colloc": "arguably",
+    "pattern": "arguably …",
+    "note": "",
+    "examples": [
+      {
+        "en": "This is arguably our best release.",
+        "ru": "Можно сказать, это наш лучший релиз."
+      },
+      {
+        "en": "Arguably the bottleneck is the database.",
+        "ru": "Спорно, но узкое место — база."
+      },
+      {
+        "en": "She is arguably the strongest candidate.",
+        "ru": "Можно утверждать, она сильнейший кандидат."
+      }
+    ]
+  },
+  {
+    "word": "to put it mildly",
+    "lemma": "to put it mildly",
+    "level": "b2",
+    "tr": "мягко говоря",
+    "colloc": "to put it mildly",
+    "pattern": "…, to put it mildly",
+    "note": "",
+    "examples": [
+      {
+        "en": "The launch was messy, to put it mildly.",
+        "ru": "Запуск был грязным, мягко говоря."
+      },
+      {
+        "en": "To put it mildly, expectations were high.",
+        "ru": "Мягко говоря, ожидания были высоки."
+      },
+      {
+        "en": "The docs are incomplete, to put it mildly.",
+        "ru": "Документация неполная, мягко говоря."
+      }
+    ]
+  },
+  {
+    "word": "to put it simply",
+    "lemma": "to put it simply",
+    "level": "b1",
+    "tr": "проще говоря",
+    "colloc": "to put it simply",
+    "pattern": "To put it simply, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To put it simply, we need more disk.",
+        "ru": "Проще говоря, нужно больше диска."
+      },
+      {
+        "en": "To put it simply, the API changed.",
+        "ru": "Проще говоря, API изменился."
+      },
+      {
+        "en": "We're blocked — to put it simply.",
+        "ru": "Мы заблокированы — проще говоря."
+      }
+    ]
+  },
+  {
+    "word": "to put it another way",
+    "lemma": "to put it another way",
+    "level": "b2",
+    "tr": "иначе говоря",
+    "colloc": "to put it another way",
+    "pattern": "To put it another way, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To put it another way, the design doesn't scale.",
+        "ru": "Иначе говоря, дизайн не масштабируется."
+      },
+      {
+        "en": "To put it another way, we bought time.",
+        "ru": "Иначе говоря, мы выиграли время."
+      },
+      {
+        "en": "We're understaffed — to put it another way, overloaded.",
+        "ru": "Нас мало — иначе говоря, перегруз."
+      }
+    ]
+  },
+  {
+    "word": "put another way",
+    "lemma": "put another way",
+    "level": "b2",
+    "tr": "иначе говоря",
+    "colloc": "put another way",
+    "pattern": "Put another way, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Put another way, the risk is concentration.",
+        "ru": "Иначе говоря, риск — концентрация."
+      },
+      {
+        "en": "Put another way, users want speed.",
+        "ru": "Иначе говоря, пользователи хотят скорость."
+      },
+      {
+        "en": "We're guessing — put another way, we lack data.",
+        "ru": "Мы гадаем — иначе говоря, не хватает данных."
+      }
+    ]
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "word": "by no means least",
+    "lemma": "by no means least",
+    "level": "c1",
+    "tr": "отнюдь не в последнюю очередь",
+    "colloc": "by no means least",
+    "pattern": "by no means least",
+    "note": "Рядом с by no means из discourse.",
+    "examples": [
+      {
+        "en": "And by no means least, thank the on-call team.",
+        "ru": "И отнюдь не в последнюю очередь — спасибо дежурным."
+      },
+      {
+        "en": "Security is by no means least important.",
+        "ru": "Безопасность отнюдь не наименее важна."
+      },
+      {
+        "en": "By no means least is documentation.",
+        "ru": "Отнюдь не последнее — документация."
+      }
+    ]
+  },
+  {
+    "word": "not least",
+    "lemma": "not least",
+    "level": "c1",
+    "tr": "не в последнюю очередь",
+    "colloc": "not least",
+    "pattern": "…, not least …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Challenges remain, not least funding.",
+        "ru": "Вызовы остаются, не в последнюю очередь финансирование."
+      },
+      {
+        "en": "I admire her, not least her calm.",
+        "ru": "Восхищаюсь ею, не в последнюю очередь спокойствием."
+      },
+      {
+        "en": "Risks include, not least, vendor lock-in.",
+        "ru": "Риски включают, не в последнюю очередь, vendor lock-in."
+      }
+    ]
+  },
+  {
+    "word": "above and beyond",
+    "lemma": "above and beyond",
+    "level": "b2",
+    "tr": "сверх ожидаемого",
+    "colloc": "above and beyond",
+    "pattern": "go above and beyond",
+    "note": "",
+    "examples": [
+      {
+        "en": "She went above and beyond.",
+        "ru": "Она сделала больше ожидаемого."
+      },
+      {
+        "en": "Support went above and beyond last night.",
+        "ru": "Поддержка прошлой ночью выложилась сверх нормы."
+      },
+      {
+        "en": "Don't expect people to go above and beyond unpaid.",
+        "ru": "Не жди сверхусилий без оплаты."
+      }
+    ]
+  },
+  {
+    "word": "over and above",
+    "lemma": "over and above",
+    "level": "c1",
+    "tr": "сверх; помимо",
+    "colloc": "over and above",
+    "pattern": "over and above + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Over and above salary, there's equity.",
+        "ru": "Сверх зарплаты есть equity."
+      },
+      {
+        "en": "Costs over and above the quote shocked us.",
+        "ru": "Затраты сверх сметы шокировали."
+      },
+      {
+        "en": "Help over and above your role is optional.",
+        "ru": "Помощь сверх роли — по желанию."
+      }
+    ]
+  },
+  {
+    "word": "for better or worse",
+    "lemma": "for better or worse",
+    "level": "b2",
+    "tr": "к лучшему или к худшему",
+    "colloc": "for better or worse",
+    "pattern": "for better or worse",
+    "note": "",
+    "examples": [
+      {
+        "en": "For better or worse, we shipped.",
+        "ru": "К лучшему или к худшему — выкатили."
+      },
+      {
+        "en": "We're stuck with the vendor for better or worse.",
+        "ru": "С вендором надолго — к лучшему или нет."
+      },
+      {
+        "en": "For better or worse, remote is the default.",
+        "ru": "К лучшему или худшему — удалёнка дефолт."
+      }
+    ]
+  },
+  {
+    "word": "come rain or shine",
+    "lemma": "come rain or shine",
+    "level": "c1",
+    "tr": "в любую погоду; несмотря ни на что",
+    "colloc": "come rain or shine",
+    "pattern": "…, come rain or shine",
+    "note": "",
+    "examples": [
+      {
+        "en": "Standup is at 10, come rain or shine.",
+        "ru": "Стендап в 10 — несмотря ни на что."
+      },
+      {
+        "en": "She delivers come rain or shine.",
+        "ru": "Она сдаёт в любую погоду."
+      },
+      {
+        "en": "The shop opens come rain or shine.",
+        "ru": "Магазин открыт в любую погоду."
+      }
+    ]
+  },
+  {
+    "word": "against all odds",
+    "lemma": "against all odds",
+    "level": "b2",
+    "tr": "вопреки всему",
+    "colloc": "against all odds",
+    "pattern": "against all odds",
+    "note": "",
+    "examples": [
+      {
+        "en": "Against all odds, the launch succeeded.",
+        "ru": "Вопреки всему запуск удался."
+      },
+      {
+        "en": "They won against all odds.",
+        "ru": "Победили вопреки всему."
+      },
+      {
+        "en": "Against all odds the old server held.",
+        "ru": "Вопреки всему старый сервер выдержал."
+      }
+    ]
+  },
+  {
+    "word": "in good faith",
+    "lemma": "in good faith",
+    "level": "b2",
+    "tr": "добросовестно",
+    "colloc": "in good faith",
+    "pattern": "in good faith",
+    "note": "",
+    "examples": [
+      {
+        "en": "We negotiated in good faith.",
+        "ru": "Мы вели переговоры добросовестно."
+      },
+      {
+        "en": "Act in good faith with partners.",
+        "ru": "Действуй добросовестно с партнёрами."
+      },
+      {
+        "en": "The offer was made in good faith.",
+        "ru": "Оффер сделан добросовестно."
+      }
+    ]
+  },
+  {
+    "word": "in bad faith",
+    "lemma": "in bad faith",
+    "level": "c1",
+    "tr": "недобросовестно",
+    "colloc": "in bad faith",
+    "pattern": "in bad faith",
+    "note": "",
+    "examples": [
+      {
+        "en": "They negotiated in bad faith.",
+        "ru": "Они вели переговоры недобросовестно."
+      },
+      {
+        "en": "Don't assume bad faith too quickly.",
+        "ru": "Не предполагай злой умысел слишком быстро."
+      },
+      {
+        "en": "A claim made in bad faith.",
+        "ru": "Утверждение сделано недобросовестно."
+      }
+    ]
+  },
+  {
+    "word": "in earnest",
+    "lemma": "in earnest",
+    "level": "c1",
+    "tr": "всерьёз; по-настоящему",
+    "colloc": "in earnest",
+    "pattern": "in earnest",
+    "note": "",
+    "examples": [
+      {
+        "en": "Work began in earnest after the kickoff.",
+        "ru": "Работа началась всерьёз после кикоффа."
+      },
+      {
+        "en": "She started studying in earnest.",
+        "ru": "Она начала учиться по-настоящему."
+      },
+      {
+        "en": "Talks resumed in earnest.",
+        "ru": "Переговоры возобновились всерьёз."
+      }
+    ]
+  },
+  {
+    "word": "in vain",
+    "lemma": "in vain",
+    "level": "b2",
+    "tr": "напрасно",
+    "colloc": "in vain",
+    "pattern": "in vain",
+    "note": "",
+    "examples": [
+      {
+        "en": "We searched in vain for the root cause.",
+        "ru": "Напрасно искали корневую причину."
+      },
+      {
+        "en": "All that effort was in vain.",
+        "ru": "Все усилия были напрасны."
+      },
+      {
+        "en": "Don't wait in vain — escalate.",
+        "ru": "Не жди напрасно — эскалируй."
+      }
+    ]
+  },
+  {
+    "word": "to no avail",
+    "lemma": "to no avail",
+    "level": "c1",
+    "tr": "безрезультатно",
+    "colloc": "to no avail",
+    "pattern": "to no avail",
+    "note": "",
+    "examples": [
+      {
+        "en": "We restarted to no avail.",
+        "ru": "Перезапускали безрезультатно."
+      },
+      {
+        "en": "Emails went to no avail.",
+        "ru": "Письма ушли без толку."
+      },
+      {
+        "en": "Retries were to no avail.",
+        "ru": "Ретраи были безрезультатны."
+      }
+    ]
+  },
+  {
+    "word": "of no use",
+    "lemma": "of no use",
+    "level": "b1",
+    "tr": "бесполезен",
+    "colloc": "of no use",
+    "pattern": "be of no use",
+    "note": "",
+    "examples": [
+      {
+        "en": "That advice is of no use now.",
+        "ru": "Этот совет сейчас бесполезен."
+      },
+      {
+        "en": "Old keys are of no use.",
+        "ru": "Старые ключи бесполезны."
+      },
+      {
+        "en": "It's of no use complaining.",
+        "ru": "Бесполезно жаловаться."
+      }
+    ]
+  },
+  {
+    "word": "of use",
+    "lemma": "of use",
+    "level": "b1",
+    "tr": "полезен",
+    "colloc": "of use",
+    "pattern": "be of use",
+    "note": "",
+    "examples": [
+      {
+        "en": "Was the guide of use?",
+        "ru": "Гайд был полезен?"
+      },
+      {
+        "en": "Those logs were of use.",
+        "ru": "Те логи пригодились."
+      },
+      {
+        "en": "Little of use remains.",
+        "ru": "Мало полезного осталось."
+      }
+    ]
+  },
+  {
+    "word": "no use",
+    "lemma": "no use",
+    "level": "b1",
+    "tr": "бесполезно",
+    "colloc": "no use",
+    "pattern": "It's no use + Ving",
+    "note": "",
+    "examples": [
+      {
+        "en": "It's no use arguing.",
+        "ru": "Бесполезно спорить."
+      },
+      {
+        "en": "No use crying over spilled milk.",
+        "ru": "Бесполезно плакать над разлитым."
+      },
+      {
+        "en": "There's no use waiting.",
+        "ru": "Бесполезно ждать."
+      }
+    ]
+  },
+  {
+    "word": "worth while",
+    "lemma": "worth while",
+    "level": "b2",
+    "tr": "стоило того",
+    "colloc": "worth while · worthwhile",
+    "pattern": "be worth while",
+    "note": "Часто слитно worthwhile.",
+    "examples": [
+      {
+        "en": "The rewrite was worth while.",
+        "ru": "Рерайт стоил того."
+      },
+      {
+        "en": "Is the meeting worth while?",
+        "ru": "Встреча стоит того?"
+      },
+      {
+        "en": "A short delay is worth while.",
+        "ru": "Небольшая задержка стоит того."
+      }
+    ]
+  },
+  {
+    "word": "worth it",
+    "lemma": "worth it",
+    "level": "b1",
+    "tr": "стоит того",
+    "colloc": "worth it",
+    "pattern": "be worth it",
+    "note": "",
+    "examples": [
+      {
+        "en": "The pain was worth it.",
+        "ru": "Боль стоила того."
+      },
+      {
+        "en": "Is the upgrade worth it?",
+        "ru": "Апгрейд стоит того?"
+      },
+      {
+        "en": "If it saves hours, it's worth it.",
+        "ru": "Если экономит часы — стоит."
+      }
+    ]
+  },
+  {
+    "word": "a matter of time",
+    "lemma": "a matter of time",
+    "level": "b1",
+    "tr": "вопрос времени",
+    "colloc": "a matter of time",
+    "pattern": "a matter of time",
+    "note": "",
+    "examples": [
+      {
+        "en": "It's only a matter of time.",
+        "ru": "Это только вопрос времени."
+      },
+      {
+        "en": "Failure was a matter of time.",
+        "ru": "Провал был вопросом времени."
+      },
+      {
+        "en": "A matter of time before we rewrite.",
+        "ru": "Вопрос времени, когда перепишем."
+      }
+    ]
+  },
+  {
+    "word": "a matter of course",
+    "lemma": "a matter of course",
+    "level": "c1",
+    "tr": "само собой разумеющееся",
+    "colloc": "a matter of course",
+    "pattern": "as a matter of course",
+    "note": "",
+    "examples": [
+      {
+        "en": "Code review is a matter of course.",
+        "ru": "Код-ревью — само собой."
+      },
+      {
+        "en": "As a matter of course, we encrypt.",
+        "ru": "Само собой, мы шифруем."
+      },
+      {
+        "en": "Backups should be a matter of course.",
+        "ru": "Бэкапы должны быть само собой."
+      }
+    ]
+  },
+  {
+    "word": "as a matter of fact",
+    "lemma": "as a matter of fact",
+    "level": "b2",
+    "tr": "на самом деле; кстати",
+    "colloc": "as a matter of fact",
+    "pattern": "As a matter of fact, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As a matter of fact, I've already fixed it.",
+        "ru": "На самом деле я уже починил."
+      },
+      {
+        "en": "As a matter of fact, she's the author.",
+        "ru": "Кстати, она автор."
+      },
+      {
+        "en": "I disagree — as a matter of fact, strongly.",
+        "ru": "Не согласен — на самом деле сильно."
+      }
+    ]
+  },
+  {
+    "word": "in actual fact",
+    "lemma": "in actual fact",
+    "level": "b2",
+    "tr": "на самом деле",
+    "colloc": "in actual fact",
+    "pattern": "In actual fact, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In actual fact the outage lasted an hour.",
+        "ru": "На самом деле авария длилась час."
+      },
+      {
+        "en": "In actual fact we never agreed.",
+        "ru": "На самом деле мы так и не договорились."
+      },
+      {
+        "en": "The 'fix' was, in actual fact, a redesign.",
+        "ru": "«Фикс» на самом деле был редизайном."
+      }
+    ]
+  },
+  {
+    "word": "in reality",
+    "lemma": "in reality",
+    "level": "b1",
+    "tr": "на деле; в реальности",
+    "colloc": "in reality",
+    "pattern": "In reality, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In reality the plan was vague.",
+        "ru": "На деле план был туманным."
+      },
+      {
+        "en": "In reality few users finish onboarding.",
+        "ru": "В реальности мало кто завершает онбординг."
+      },
+      {
+        "en": "It sounds easy; in reality it's hard.",
+        "ru": "Звучит легко; на деле сложно."
+      }
+    ]
+  },
+  {
+    "word": "in truth",
+    "lemma": "in truth",
+    "level": "c1",
+    "tr": "по правде",
+    "colloc": "in truth",
+    "pattern": "In truth, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In truth, we were unprepared.",
+        "ru": "По правде, мы были не готовы."
+      },
+      {
+        "en": "In truth I never liked the name.",
+        "ru": "По правде, название мне никогда не нравилось."
+      },
+      {
+        "en": "The system is, in truth, fragile.",
+        "ru": "Система, по правде, хрупкая."
+      }
+    ]
+  },
+  {
+    "word": "to tell the truth",
+    "lemma": "to tell the truth",
+    "level": "b1",
+    "tr": "по правде говоря",
+    "colloc": "to tell the truth",
+    "pattern": "To tell the truth, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To tell the truth, I forgot.",
+        "ru": "По правде говоря, я забыл."
+      },
+      {
+        "en": "To tell the truth we're scared.",
+        "ru": "По правде говоря, нам страшно."
+      },
+      {
+        "en": "I never liked it, to tell the truth.",
+        "ru": "Мне это никогда не нравилось, по правде."
+      }
+    ]
+  },
+  {
+    "word": "truth be told",
+    "lemma": "truth be told",
+    "level": "b2",
+    "tr": "правду говоря",
+    "colloc": "truth be told",
+    "pattern": "Truth be told, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Truth be told, the demo was scripted.",
+        "ru": "Правду говоря, демо было под сценарий."
+      },
+      {
+        "en": "Truth be told I expected more.",
+        "ru": "Правду говоря, ожидал большего."
+      },
+      {
+        "en": "Truth be told, we're understaffed.",
+        "ru": "Правду говоря, нас мало."
+      }
+    ]
+  },
+  {
+    "word": "needless to add",
+    "lemma": "needless to add",
+    "level": "c1",
+    "tr": "излишне добавлять",
+    "colloc": "needless to add",
+    "pattern": "Needless to add, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Needless to add, we rolled back.",
+        "ru": "Излишне добавлять — мы откатили."
+      },
+      {
+        "en": "Needless to add, morale suffered.",
+        "ru": "Излишне добавлять — моральный дух пострадал."
+      },
+      {
+        "en": "Needless to add, costs rose.",
+        "ru": "Излишне добавлять — затраты выросли."
+      }
+    ]
+  },
+  {
+    "word": "suffice it to say",
+    "lemma": "suffice it to say",
+    "level": "c1",
+    "tr": "достаточно сказать",
+    "colloc": "suffice it to say",
+    "pattern": "Suffice it to say, …",
+    "note": "Формальный.",
+    "examples": [
+      {
+        "en": "Suffice it to say, it was messy.",
+        "ru": "Достаточно сказать — было грязно."
+      },
+      {
+        "en": "Suffice it to say we learned a lot.",
+        "ru": "Достаточно сказать — многому научились."
+      },
+      {
+        "en": "Suffice it to say, don't repeat that.",
+        "ru": "Достаточно сказать: так не повторяй."
+      }
+    ]
+  },
+  {
+    "word": "need I say more",
+    "lemma": "need i say more",
+    "level": "b2",
+    "tr": "нужно ли говорить больше",
+    "colloc": "need I say more",
+    "pattern": "… — need I say more?",
+    "note": "",
+    "examples": [
+      {
+        "en": "The disk was at 100% — need I say more?",
+        "ru": "Диск на 100% — нужно ли продолжать?"
+      },
+      {
+        "en": "They shipped on Friday night. Need I say more?",
+        "ru": "Выкатили в пятницу вечером. Нужно ли говорить больше?"
+      },
+      {
+        "en": "Need I say more about the risk?",
+        "ru": "Нужно ли ещё про риск?"
+      }
+    ]
+  },
+  {
+    "word": "to say the least",
+    "lemma": "to say the least",
+    "level": "b2",
+    "tr": "мягко говоря",
+    "colloc": "to say the least",
+    "pattern": "…, to say the least",
+    "note": "",
+    "examples": [
+      {
+        "en": "The launch was rocky, to say the least.",
+        "ru": "Запуск был нервным, мягко говоря."
+      },
+      {
+        "en": "I'm disappointed, to say the least.",
+        "ru": "Я разочарован, мягко говоря."
+      },
+      {
+        "en": "The docs are thin, to say the least.",
+        "ru": "Доки тонкие, мягко говоря."
+      }
+    ]
+  },
+  {
+    "word": "not to put too fine a point on it",
+    "lemma": "not to put too fine a point on it",
+    "level": "c1",
+    "tr": "говоря прямо",
+    "colloc": "not to put too fine a point on it",
+    "pattern": "Not to put too fine a point on it, …",
+    "note": "Формальный / ироничный.",
+    "examples": [
+      {
+        "en": "Not to put too fine a point on it, the code is bad.",
+        "ru": "Говоря прямо, код плохой."
+      },
+      {
+        "en": "Not to put too fine a point on it — we failed.",
+        "ru": "Говоря прямо — мы провалились."
+      },
+      {
+        "en": "Not to put too fine a point on it, hire someone else.",
+        "ru": "Говоря прямо — найми другого."
+      }
+    ]
+  },
+  {
+    "word": "when all is said and done",
+    "lemma": "when all is said and done",
+    "level": "b2",
+    "tr": "когда всё сказано и сделано; в итоге",
+    "colloc": "when all is said and done",
+    "pattern": "When all is said and done, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "When all is said and done, we shipped.",
+        "ru": "В итоге мы выкатили."
+      },
+      {
+        "en": "When all is said and done, people matter most.",
+        "ru": "Когда всё сказано и сделано — важнее всего люди."
+      },
+      {
+        "en": "When all is said and done, learn and move on.",
+        "ru": "В итоге — учись и иди дальше."
+      }
+    ]
+  },
+  {
+    "word": "all things being equal",
+    "lemma": "all things being equal",
+    "level": "c1",
+    "tr": "при прочих равных",
+    "colloc": "all things being equal",
+    "pattern": "All things being equal, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "All things being equal, choose the simpler API.",
+        "ru": "При прочих равных выбирай более простой API."
+      },
+      {
+        "en": "All things being equal, hire the better communicator.",
+        "ru": "При прочих равных — лучшего коммуникатора."
+      },
+      {
+        "en": "All things being equal we'd wait.",
+        "ru": "При прочих равных подождали бы."
+      }
+    ]
+  },
+  {
+    "word": "other things being equal",
+    "lemma": "other things being equal",
+    "level": "c1",
+    "tr": "при прочих равных",
+    "colloc": "other things being equal",
+    "pattern": "Other things being equal, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Other things being equal, lower latency wins.",
+        "ru": "При прочих равных побеждает меньшая задержка."
+      },
+      {
+        "en": "Other things being equal, prefer open formats.",
+        "ru": "При прочих равных — открытые форматы."
+      },
+      {
+        "en": "Other things being equal, ship sooner.",
+        "ru": "При прочих равных — выкатывай раньше."
+      }
+    ]
+  },
+  {
+    "word": "for the sake of",
+    "lemma": "for the sake of",
+    "level": "b1",
+    "tr": "ради",
+    "colloc": "for the sake of",
+    "pattern": "for the sake of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "For the sake of clarity, rename the field.",
+        "ru": "Ради ясности переименуй поле."
+      },
+      {
+        "en": "Don't rewrite for the sake of rewriting.",
+        "ru": "Не переписывай ради переписывания."
+      },
+      {
+        "en": "For the sake of the users, fix UX.",
+        "ru": "Ради пользователей чини UX."
+      }
+    ]
+  },
+  {
+    "word": "for one's own sake",
+    "lemma": "for one's own sake",
+    "level": "b2",
+    "tr": "ради себя",
+    "colloc": "for one's own sake",
+    "pattern": "for your own sake",
+    "note": "",
+    "examples": [
+      {
+        "en": "Learn it for your own sake.",
+        "ru": "Учи ради себя."
+      },
+      {
+        "en": "Rest for your own sake.",
+        "ru": "Отдохни ради себя."
+      },
+      {
+        "en": "I did it for my own sake.",
+        "ru": "Сделал ради себя."
+      }
+    ]
+  },
+  {
+    "word": "in one's own right",
+    "lemma": "in one's own right",
+    "level": "c1",
+    "tr": "сам по себе; самостоятельно",
+    "colloc": "in one's own right",
+    "pattern": "in one's/its own right",
+    "note": "",
+    "examples": [
+      {
+        "en": "She's a leader in her own right.",
+        "ru": "Она лидер сама по себе."
+      },
+      {
+        "en": "The tool is useful in its own right.",
+        "ru": "Инструмент полезен сам по себе."
+      },
+      {
+        "en": "A classic in its own right.",
+        "ru": "Классика сама по себе."
+      }
+    ]
+  },
+  {
+    "word": "of one's own accord",
+    "lemma": "of one's own accord",
+    "level": "c1",
+    "tr": "по собственной воле",
+    "colloc": "of one's own accord",
+    "pattern": "of one's own accord",
+    "note": "",
+    "examples": [
+      {
+        "en": "He fixed it of his own accord.",
+        "ru": "Он починил по собственной воле."
+      },
+      {
+        "en": "She left of her own accord.",
+        "ru": "Она ушла по своей воле."
+      },
+      {
+        "en": "The process restarted of its own accord.",
+        "ru": "Процесс перезапустился сам."
+      }
+    ]
+  },
+  {
+    "word": "on one's own",
+    "lemma": "on one's own",
+    "level": "b1",
+    "tr": "самостоятельно; в одиночку",
+    "colloc": "on one's own",
+    "pattern": "on my/your/her own",
+    "note": "",
+    "examples": [
+      {
+        "en": "I fixed it on my own.",
+        "ru": "Починил самостоятельно."
+      },
+      {
+        "en": "Can you manage on your own?",
+        "ru": "Справишься сам?"
+      },
+      {
+        "en": "She traveled on her own.",
+        "ru": "Она путешествовала одна."
+      }
+    ]
+  },
+  {
+    "word": "by oneself",
+    "lemma": "by oneself",
+    "level": "b1",
+    "tr": "в одиночку; сам",
+    "colloc": "by oneself",
+    "pattern": "by myself/yourself",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't deploy by yourself at night.",
+        "ru": "Не деплой ночью в одиночку."
+      },
+      {
+        "en": "She solved it by herself.",
+        "ru": "Она решила сама."
+      },
+      {
+        "en": "I like working by myself.",
+        "ru": "Люблю работать один."
+      }
+    ]
+  },
+  {
+    "word": "left to one's own devices",
+    "lemma": "left to one's own devices",
+    "level": "c1",
+    "tr": "предоставленный самому себе",
+    "colloc": "left to one's own devices",
+    "pattern": "left to one's own devices",
+    "note": "",
+    "examples": [
+      {
+        "en": "Left to their own devices, juniors copy-paste.",
+        "ru": "Предоставленные сами себе, джуны копипастят."
+      },
+      {
+        "en": "Don't leave the team to their own devices.",
+        "ru": "Не оставляй команду без руководства."
+      },
+      {
+        "en": "Left to my own devices I'd rewrite all.",
+        "ru": "Предоставленный себе, я бы всё переписал."
+      }
+    ]
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "word": "for the time being",
+    "lemma": "for the time being",
+    "level": "b2",
+    "tr": "пока что; на данный момент",
+    "colloc": "for the time being",
+    "pattern": "for the time being",
+    "note": "",
+    "examples": [
+      {
+        "en": "For the time being, keep the flag off.",
+        "ru": "Пока что держи флаг выключенным."
+      },
+      {
+        "en": "We'll use a workaround for the time being.",
+        "ru": "Пока используем костыль."
+      },
+      {
+        "en": "For the time being this is good enough.",
+        "ru": "На данный момент этого достаточно."
+      }
+    ]
+  },
+  {
+    "word": "in the meantime",
+    "lemma": "in the meantime",
+    "level": "b1",
+    "tr": "тем временем; пока",
+    "colloc": "in the meantime",
+    "pattern": "In the meantime, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In the meantime, monitor the dashboards.",
+        "ru": "Тем временем следи за дашбордами."
+      },
+      {
+        "en": "I'll fix prod; in the meantime, update the status page.",
+        "ru": "Я чиню прод; пока обнови статус-страницу."
+      },
+      {
+        "en": "In the meantime users can use the fallback.",
+        "ru": "Тем временем пользователи могут на fallback."
+      }
+    ]
+  },
+  {
+    "word": "from time to time",
+    "lemma": "from time to time",
+    "level": "b1",
+    "tr": "время от времени",
+    "colloc": "from time to time",
+    "pattern": "from time to time",
+    "note": "",
+    "examples": [
+      {
+        "en": "From time to time the job flakes.",
+        "ru": "Время от времени джоба флакает."
+      },
+      {
+        "en": "I check metrics from time to time.",
+        "ru": "Время от времени смотрю метрики."
+      },
+      {
+        "en": "We meet from time to time.",
+        "ru": "Мы встречаемся время от времени."
+      }
+    ]
+  },
+  {
+    "word": "every now and then",
+    "lemma": "every now and then",
+    "level": "b1",
+    "tr": "время от времени; иногда",
+    "colloc": "every now and then",
+    "pattern": "every now and then",
+    "note": "",
+    "examples": [
+      {
+        "en": "Every now and then we get a spike.",
+        "ru": "Иногда бывает скачок."
+      },
+      {
+        "en": "I work from the office every now and then.",
+        "ru": "Время от времени работаю из офиса."
+      },
+      {
+        "en": "Every now and then revisit the roadmap.",
+        "ru": "Иногда пересматривай роадмап."
+      }
+    ]
+  },
+  {
+    "word": "once in a while",
+    "lemma": "once in a while",
+    "level": "b1",
+    "tr": "изредка; иногда",
+    "colloc": "once in a while",
+    "pattern": "once in a while",
+    "note": "",
+    "examples": [
+      {
+        "en": "Once in a while the alert is noisy.",
+        "ru": "Изредка алерт шумит."
+      },
+      {
+        "en": "We deploy on weekends once in a while.",
+        "ru": "Иногда деплоим в выходные."
+      },
+      {
+        "en": "Treat yourself once in a while.",
+        "ru": "Изредка балуй себя."
+      }
+    ]
+  },
+  {
+    "word": "once and for all",
+    "lemma": "once and for all",
+    "level": "b2",
+    "tr": "раз и навсегда",
+    "colloc": "once and for all",
+    "pattern": "once and for all",
+    "note": "",
+    "examples": [
+      {
+        "en": "Let's settle this once and for all.",
+        "ru": "Давай решим это раз и навсегда."
+      },
+      {
+        "en": "Fix the root cause once and for all.",
+        "ru": "Устрани корневую причину раз и навсегда."
+      },
+      {
+        "en": "Once and for all: no prod access without approval.",
+        "ru": "Раз и навсегда: в прод без апрува нельзя."
+      }
+    ]
+  },
+  {
+    "word": "sooner or later",
+    "lemma": "sooner or later",
+    "level": "b1",
+    "tr": "рано или поздно",
+    "colloc": "sooner or later",
+    "pattern": "sooner or later",
+    "note": "",
+    "examples": [
+      {
+        "en": "Sooner or later the debt will hurt.",
+        "ru": "Рано или поздно долг аукнется."
+      },
+      {
+        "en": "Sooner or later we'll need a rewrite.",
+        "ru": "Рано или поздно понадобится рерайт."
+      },
+      {
+        "en": "The truth comes out sooner or later.",
+        "ru": "Правда рано или поздно всплывает."
+      }
+    ]
+  },
+  {
+    "word": "all of a sudden",
+    "lemma": "all of a sudden",
+    "level": "b1",
+    "tr": "внезапно; вдруг",
+    "colloc": "all of a sudden",
+    "pattern": "All of a sudden …",
+    "note": "",
+    "examples": [
+      {
+        "en": "All of a sudden the API timed out.",
+        "ru": "Вдруг API начал отдавать таймауты."
+      },
+      {
+        "en": "All of a sudden traffic tripled.",
+        "ru": "Внезапно трафик утроился."
+      },
+      {
+        "en": "She quit all of a sudden.",
+        "ru": "Она внезапно уволилась."
+      }
+    ]
+  },
+  {
+    "word": "out of the blue",
+    "lemma": "out of the blue",
+    "level": "b2",
+    "tr": "на ровном месте; неожиданно",
+    "colloc": "out of the blue",
+    "pattern": "out of the blue",
+    "note": "",
+    "examples": [
+      {
+        "en": "The offer came out of the blue.",
+        "ru": "Оффер пришёл на ровном месте."
+      },
+      {
+        "en": "Out of the blue the disk failed.",
+        "ru": "Неожиданно отказал диск."
+      },
+      {
+        "en": "He messaged out of the blue after years.",
+        "ru": "Он написал из ниоткуда спустя годы."
+      }
+    ]
+  },
+  {
+    "word": "in due course",
+    "lemma": "in due course",
+    "level": "b2",
+    "tr": "в своё время; в должный срок",
+    "colloc": "in due course",
+    "pattern": "in due course",
+    "note": "Формальный.",
+    "examples": [
+      {
+        "en": "You'll get access in due course.",
+        "ru": "Доступ получишь в должный срок."
+      },
+      {
+        "en": "We'll announce results in due course.",
+        "ru": "Результаты объявим в своё время."
+      },
+      {
+        "en": "In due course the process improves.",
+        "ru": "Со временем процесс улучшается."
+      }
+    ]
+  },
+  {
+    "word": "in due time",
+    "lemma": "in due time",
+    "level": "b2",
+    "tr": "в своё время",
+    "colloc": "in due time",
+    "pattern": "in due time",
+    "note": "",
+    "examples": [
+      {
+        "en": "Everything will be clear in due time.",
+        "ru": "Всё станет ясно в своё время."
+      },
+      {
+        "en": "We'll revisit this in due time.",
+        "ru": "Вернёмся к этому в своё время."
+      },
+      {
+        "en": "In due time the metric stabilizes.",
+        "ru": "В своё время метрика стабилизируется."
+      }
+    ]
+  },
+  {
+    "word": "ahead of time",
+    "lemma": "ahead of time",
+    "level": "b1",
+    "tr": "заранее",
+    "colloc": "ahead of time",
+    "pattern": "ahead of time",
+    "note": "",
+    "examples": [
+      {
+        "en": "Warn the team ahead of time.",
+        "ru": "Предупреди команду заранее."
+      },
+      {
+        "en": "We finished ahead of time.",
+        "ru": "Закончили заранее."
+      },
+      {
+        "en": "Prepare slides ahead of time.",
+        "ru": "Подготовь слайды заранее."
+      }
+    ]
+  },
+  {
+    "word": "in advance",
+    "lemma": "in advance",
+    "level": "b1",
+    "tr": "заранее; заранее",
+    "colloc": "in advance · thanks in advance",
+    "pattern": "in advance",
+    "note": "",
+    "examples": [
+      {
+        "en": "Please book rooms in advance.",
+        "ru": "Бронируйте комнаты заранее."
+      },
+      {
+        "en": "Thanks in advance for the review.",
+        "ru": "Заранее спасибо за ревью."
+      },
+      {
+        "en": "Pay in advance if possible.",
+        "ru": "Если можно — платите заранее."
+      }
+    ]
+  },
+  {
+    "word": "at short notice",
+    "lemma": "at short notice",
+    "level": "b2",
+    "tr": "в короткий срок; срочно",
+    "colloc": "at short notice",
+    "pattern": "at short notice",
+    "note": "BrE; AmE часто on short notice.",
+    "examples": [
+      {
+        "en": "Can you join at short notice?",
+        "ru": "Можешь подключиться срочно?"
+      },
+      {
+        "en": "We hired at short notice.",
+        "ru": "Наняли в короткий срок."
+      },
+      {
+        "en": "Flights at short notice are expensive.",
+        "ru": "Авиабилеты срочно — дорогие."
+      }
+    ]
+  },
+  {
+    "word": "on short notice",
+    "lemma": "on short notice",
+    "level": "b2",
+    "tr": "в короткий срок",
+    "colloc": "on short notice",
+    "pattern": "on short notice",
+    "note": "AmE.",
+    "examples": [
+      {
+        "en": "Sorry for asking on short notice.",
+        "ru": "Извини, что прошу в короткий срок."
+      },
+      {
+        "en": "We can't deliver on short notice.",
+        "ru": "Не успеем в такой короткий срок."
+      },
+      {
+        "en": "On short notice the only option is overtime.",
+        "ru": "В короткий срок — только овертайм."
+      }
+    ]
+  },
+  {
+    "word": "at a moment's notice",
+    "lemma": "at a moment's notice",
+    "level": "c1",
+    "tr": "по первому зову; мгновенно",
+    "colloc": "at a moment's notice",
+    "pattern": "at a moment's notice",
+    "note": "",
+    "examples": [
+      {
+        "en": "On-call must respond at a moment's notice.",
+        "ru": "Дежурный должен реагировать по первому зову."
+      },
+      {
+        "en": "She can travel at a moment's notice.",
+        "ru": "Она может выехать в любой момент."
+      },
+      {
+        "en": "The system fails over at a moment's notice.",
+        "ru": "Система переключается мгновенно."
+      }
+    ]
+  },
+  {
+    "word": "for good",
+    "lemma": "for good",
+    "level": "b1",
+    "tr": "навсегда",
+    "colloc": "for good",
+    "pattern": "for good",
+    "note": "Не путать с for good (= на пользу) в других контекстах — здесь «насовсем».",
+    "examples": [
+      {
+        "en": "They left the market for good.",
+        "ru": "Они ушли с рынка навсегда."
+      },
+      {
+        "en": "I deleted the account for good.",
+        "ru": "Удалил аккаунт навсегда."
+      },
+      {
+        "en": "The bug is gone for good.",
+        "ru": "Баг ушёл навсегда."
+      }
+    ]
+  },
+  {
+    "word": "for now",
+    "lemma": "for now",
+    "level": "b1",
+    "tr": "пока; на сейчас",
+    "colloc": "for now",
+    "pattern": "for now",
+    "note": "",
+    "examples": [
+      {
+        "en": "Leave the flag off for now.",
+        "ru": "Пока держи флаг выключенным."
+      },
+      {
+        "en": "For now this workaround is fine.",
+        "ru": "На сейчас костыль нормален."
+      },
+      {
+        "en": "We'll park the idea for now.",
+        "ru": "Пока отложим идею."
+      }
+    ]
+  },
+  {
+    "word": "as of now",
+    "lemma": "as of now",
+    "level": "b2",
+    "tr": "на данный момент",
+    "colloc": "as of now",
+    "pattern": "As of now, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As of now, no incidents are open.",
+        "ru": "На данный момент открытых инцидентов нет."
+      },
+      {
+        "en": "As of now we're under budget.",
+        "ru": "На данный момент мы в бюджете."
+      },
+      {
+        "en": "As of now the patch isn't merged.",
+        "ru": "На данный момент патч не вмержен."
+      }
+    ]
+  },
+  {
+    "word": "as of yet",
+    "lemma": "as of yet",
+    "level": "c1",
+    "tr": "пока что; до сих пор",
+    "colloc": "as of yet",
+    "pattern": "as of yet",
+    "note": "Формальный; чаще no … as of yet.",
+    "examples": [
+      {
+        "en": "As of yet, we have no confirmation.",
+        "ru": "Пока подтверждения нет."
+      },
+      {
+        "en": "No fix as of yet.",
+        "ru": "Исправления пока нет."
+      },
+      {
+        "en": "As of yet the vendor hasn't replied.",
+        "ru": "Вендор пока не ответил."
+      }
+    ]
+  },
+  {
+    "word": "up to now",
+    "lemma": "up to now",
+    "level": "b1",
+    "tr": "до сих пор",
+    "colloc": "up to now",
+    "pattern": "Up to now …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Up to now everything looks stable.",
+        "ru": "До сих пор всё стабильно."
+      },
+      {
+        "en": "Up to now we've avoided downtime.",
+        "ru": "До сих пор избегали даунтайма."
+      },
+      {
+        "en": "I hadn't noticed up to now.",
+        "ru": "До сих пор не замечал."
+      }
+    ]
+  },
+  {
+    "word": "so far",
+    "lemma": "so far",
+    "level": "b1",
+    "tr": "пока что; до сих пор",
+    "colloc": "so far · so far so good",
+    "pattern": "so far",
+    "note": "",
+    "examples": [
+      {
+        "en": "So far so good.",
+        "ru": "Пока всё хорошо."
+      },
+      {
+        "en": "So far we've fixed three bugs.",
+        "ru": "Пока починили три бага."
+      },
+      {
+        "en": "Any complaints so far?",
+        "ru": "Пока есть жалобы?"
+      }
+    ]
+  },
+  {
+    "word": "thus far",
+    "lemma": "thus far",
+    "level": "c1",
+    "tr": "до сих пор",
+    "colloc": "thus far",
+    "pattern": "thus far",
+    "note": "Формальнее so far.",
+    "examples": [
+      {
+        "en": "Thus far the migration is on track.",
+        "ru": "До сих пор миграция в графике."
+      },
+      {
+        "en": "We've had no regressions thus far.",
+        "ru": "Регрессий до сих пор не было."
+      },
+      {
+        "en": "Thus far the hypothesis holds.",
+        "ru": "До сих пор гипотеза держится."
+      }
+    ]
+  },
+  {
+    "word": "from now on",
+    "lemma": "from now on",
+    "level": "b1",
+    "tr": "отныне; с этого момента",
+    "colloc": "from now on",
+    "pattern": "From now on, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "From now on, require two reviewers.",
+        "ru": "Отныне требуйте двух ревьюеров."
+      },
+      {
+        "en": "From now on I'll use a checklist.",
+        "ru": "С этого момента буду чеклистом."
+      },
+      {
+        "en": "Treat prod carefully from now on.",
+        "ru": "Отныне с продом осторожнее."
+      }
+    ]
+  },
+  {
+    "word": "as of today",
+    "lemma": "as of today",
+    "level": "b2",
+    "tr": "на сегодня",
+    "colloc": "as of today",
+    "pattern": "As of today, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "As of today, headcount is 42.",
+        "ru": "На сегодня в штате 42."
+      },
+      {
+        "en": "As of today the feature is live.",
+        "ru": "На сегодня фича в проде."
+      },
+      {
+        "en": "As of today we still lack a DPA.",
+        "ru": "На сегодня DPA всё ещё нет."
+      }
+    ]
+  },
+  {
+    "word": "in the foreseeable future",
+    "lemma": "in the foreseeable future",
+    "level": "b2",
+    "tr": "в обозримом будущем",
+    "colloc": "in the foreseeable future",
+    "pattern": "in the foreseeable future",
+    "note": "",
+    "examples": [
+      {
+        "en": "No rewrite in the foreseeable future.",
+        "ru": "В обозримом будущем рерайта не будет."
+      },
+      {
+        "en": "In the foreseeable future we'll stay on-prem.",
+        "ru": "В обозримом будущем останемся on-prem."
+      },
+      {
+        "en": "Hiring freezes for the foreseeable future.",
+        "ru": "Заморозка найма на обозримое будущее."
+      }
+    ]
+  },
+  {
+    "word": "in the near future",
+    "lemma": "in the near future",
+    "level": "b1",
+    "tr": "в ближайшем будущем",
+    "colloc": "in the near future",
+    "pattern": "in the near future",
+    "note": "",
+    "examples": [
+      {
+        "en": "We'll announce it in the near future.",
+        "ru": "Объявим в ближайшем будущем."
+      },
+      {
+        "en": "Expect a patch in the near future.",
+        "ru": "Жди патч в ближайшем будущем."
+      },
+      {
+        "en": "In the near future costs may rise.",
+        "ru": "В ближайшем будущем затраты могут вырасти."
+      }
+    ]
+  },
+  {
+    "word": "over time",
+    "lemma": "over time",
+    "level": "b1",
+    "tr": "со временем",
+    "colloc": "over time",
+    "pattern": "over time",
+    "note": "",
+    "examples": [
+      {
+        "en": "Over time the system drifted.",
+        "ru": "Со временем система «уплыла»."
+      },
+      {
+        "en": "Skills improve over time.",
+        "ru": "Навыки растут со временем."
+      },
+      {
+        "en": "Over time debt compounds.",
+        "ru": "Со временем долг накапливается."
+      }
+    ]
+  },
+  {
+    "word": "over the years",
+    "lemma": "over the years",
+    "level": "b1",
+    "tr": "за годы",
+    "colloc": "over the years",
+    "pattern": "over the years",
+    "note": "",
+    "examples": [
+      {
+        "en": "Over the years we rewrote it twice.",
+        "ru": "За годы переписали дважды."
+      },
+      {
+        "en": "Trust built over the years.",
+        "ru": "Доверие копилось годами."
+      },
+      {
+        "en": "Over the years the stack changed.",
+        "ru": "За годы стек менялся."
+      }
+    ]
+  },
+  {
+    "word": "these days",
+    "lemma": "these days",
+    "level": "b1",
+    "tr": "в наши дни; сейчас",
+    "colloc": "these days",
+    "pattern": "these days",
+    "note": "",
+    "examples": [
+      {
+        "en": "These days everyone uses containers.",
+        "ru": "Сейчас все на контейнерах."
+      },
+      {
+        "en": "I rarely commute these days.",
+        "ru": "Сейчас редко езжу в офис."
+      },
+      {
+        "en": "These days latency matters more.",
+        "ru": "В наши дни задержка важнее."
+      }
+    ]
+  },
+  {
+    "word": "back then",
+    "lemma": "back then",
+    "level": "b1",
+    "tr": "тогда; в то время",
+    "colloc": "back then",
+    "pattern": "Back then …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Back then we had no CI.",
+        "ru": "Тогда у нас не было CI."
+      },
+      {
+        "en": "Back then the team was tiny.",
+        "ru": "Тогда команда была крошечной."
+      },
+      {
+        "en": "I believed that back then.",
+        "ru": "Тогда я в это верил."
+      }
+    ]
+  },
+  {
+    "word": "the other day",
+    "lemma": "the other day",
+    "level": "b1",
+    "tr": "на днях",
+    "colloc": "the other day",
+    "pattern": "the other day",
+    "note": "",
+    "examples": [
+      {
+        "en": "I saw her the other day.",
+        "ru": "Видел её на днях."
+      },
+      {
+        "en": "The other day the alert misfired.",
+        "ru": "На днях алерт сработал ложно."
+      },
+      {
+        "en": "We talked the other day.",
+        "ru": "Мы говорили на днях."
+      }
+    ]
+  },
+  {
+    "word": "day by day",
+    "lemma": "day by day",
+    "level": "b1",
+    "tr": "день за днём",
+    "colloc": "day by day",
+    "pattern": "day by day",
+    "note": "",
+    "examples": [
+      {
+        "en": "Day by day the metric improved.",
+        "ru": "День за днём метрика росла."
+      },
+      {
+        "en": "We're shipping day by day.",
+        "ru": "Выкатываем день за днём."
+      },
+      {
+        "en": "Take it day by day.",
+        "ru": "Иди день за днём."
+      }
+    ]
+  },
+  {
+    "word": "until further notice",
+    "lemma": "until further notice",
+    "level": "b2",
+    "tr": "до дальнейшего уведомления",
+    "colloc": "until further notice",
+    "pattern": "until further notice",
+    "note": "",
+    "examples": [
+      {
+        "en": "Office closed until further notice.",
+        "ru": "Офис закрыт до дальнейшего уведомления."
+      },
+      {
+        "en": "Feature frozen until further notice.",
+        "ru": "Фича заморожена до дальнейших указаний."
+      },
+      {
+        "en": "Travel banned until further notice.",
+        "ru": "Поездки запрещены до уведомления."
+      }
+    ]
+  },
+  {
+    "word": "up until now",
+    "lemma": "up until now",
+    "level": "b2",
+    "tr": "до сих пор",
+    "colloc": "up until now",
+    "pattern": "Up until now …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Up until now we've used monoliths.",
+        "ru": "До сих пор были на монолите."
+      },
+      {
+        "en": "Up until now nobody complained.",
+        "ru": "До сих пор никто не жаловался."
+      },
+      {
+        "en": "It worked up until now.",
+        "ru": "До сих пор работало."
+      }
+    ]
+  },
+  {
+    "word": "in no time",
+    "lemma": "in no time",
+    "level": "b1",
+    "tr": "очень быстро; мигом",
+    "colloc": "in no time",
+    "pattern": "in no time",
+    "note": "",
+    "examples": [
+      {
+        "en": "We'll fix it in no time.",
+        "ru": "Починим мигом."
+      },
+      {
+        "en": "She learned the stack in no time.",
+        "ru": "Она освоила стек очень быстро."
+      },
+      {
+        "en": "In no time the queue emptied.",
+        "ru": "Очередь мигом опустела."
+      }
+    ]
+  },
+  {
+    "word": "for ages",
+    "lemma": "for ages",
+    "level": "b1",
+    "tr": "целую вечность",
+    "colloc": "for ages",
+    "pattern": "for ages",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "I haven't deployed for ages.",
+        "ru": "Целую вечность не деплоил."
+      },
+      {
+        "en": "The job has been stuck for ages.",
+        "ru": "Джоба висит целую вечность."
+      },
+      {
+        "en": "We waited for ages.",
+        "ru": "Ждали целую вечность."
+      }
+    ]
+  },
+  {
+    "word": "any day now",
+    "lemma": "any day now",
+    "level": "b2",
+    "tr": "со дня на день",
+    "colloc": "any day now",
+    "pattern": "any day now",
+    "note": "",
+    "examples": [
+      {
+        "en": "The approval should come any day now.",
+        "ru": "Апрув должен прийти со дня на день."
+      },
+      {
+        "en": "Any day now they'll announce it.",
+        "ru": "Со дня на день объявят."
+      },
+      {
+        "en": "We're expecting the patch any day now.",
+        "ru": "Патч ждём со дня на день."
+      }
+    ]
+  },
+  {
+    "word": "before long",
+    "lemma": "before long",
+    "level": "b2",
+    "tr": "вскоре",
+    "colloc": "before long",
+    "pattern": "before long",
+    "note": "",
+    "examples": [
+      {
+        "en": "Before long the disk will fill.",
+        "ru": "Вскоре диск забьётся."
+      },
+      {
+        "en": "Before long we'll need another hire.",
+        "ru": "Вскоре понадобится ещё один человек."
+      },
+      {
+        "en": "She'll master it before long.",
+        "ru": "Вскоре освоит."
+      }
+    ]
+  }
+]

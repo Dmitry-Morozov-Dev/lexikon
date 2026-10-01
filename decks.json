@@ -92,6 +92,15 @@
       "defaultParticipate": false
     },
     {
+      "id": "chunks",
+      "title": "Связки и куски",
+      "description": "Дискурсивные связки и устойчивые многословные куски (B1–C1): контраст, хедж, акцент, время, рабочие фреймы",
+      "level": "b1-c1",
+      "path": "data/chunks.json",
+      "color": "#6B8E9F",
+      "defaultParticipate": true
+    },
+    {
       "id": "it-sysadmin",
       "title": "IT / Sysadmin",
       "description": "ИТ и системное администрирование",

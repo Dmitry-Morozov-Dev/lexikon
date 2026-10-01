@@ -1,0 +1,1267 @@
+[
+  {
+    "word": "on call",
+    "lemma": "on call",
+    "level": "b2",
+    "tr": "на дежурстве",
+    "colloc": "on call · on-call engineer",
+    "pattern": "be on call",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'm on call this weekend.",
+        "ru": "Я дежурю в эти выходные."
+      },
+      {
+        "en": "Page the engineer on call.",
+        "ru": "Попейджи инженера на дежурстве."
+      },
+      {
+        "en": "Being on call is stressful.",
+        "ru": "Быть на дежурстве — стресс."
+      }
+    ]
+  },
+  {
+    "word": "on duty",
+    "lemma": "on duty",
+    "level": "b1",
+    "tr": "на смене; при исполнении",
+    "colloc": "on duty · off duty",
+    "pattern": "be on duty",
+    "note": "",
+    "examples": [
+      {
+        "en": "Who is on duty tonight?",
+        "ru": "Кто сегодня на смене?"
+      },
+      {
+        "en": "Security is on duty 24/7.",
+        "ru": "Охрана на посту 24/7."
+      },
+      {
+        "en": "I can't leave while on duty.",
+        "ru": "Не могу уйти, пока на смене."
+      }
+    ]
+  },
+  {
+    "word": "off duty",
+    "lemma": "off duty",
+    "level": "b1",
+    "tr": "не на смене; вне службы",
+    "colloc": "off duty",
+    "pattern": "be off duty",
+    "note": "",
+    "examples": [
+      {
+        "en": "She's off duty until Monday.",
+        "ru": "Она не на смене до понедельника."
+      },
+      {
+        "en": "Even off duty he checks Slack.",
+        "ru": "Даже вне смены он смотрит Slack."
+      },
+      {
+        "en": "Go off duty and rest.",
+        "ru": "Снимись со смены и отдохни."
+      }
+    ]
+  },
+  {
+    "word": "in charge",
+    "lemma": "in charge",
+    "level": "b1",
+    "tr": "ответственный; во главе",
+    "colloc": "in charge · in charge of",
+    "pattern": "be in charge (of)",
+    "note": "",
+    "examples": [
+      {
+        "en": "Who's in charge here?",
+        "ru": "Кто здесь главный?"
+      },
+      {
+        "en": "She's in charge of hiring.",
+        "ru": "Она отвечает за найм."
+      },
+      {
+        "en": "Leave him in charge while I'm away.",
+        "ru": "Оставь его ответственным, пока меня нет."
+      }
+    ]
+  },
+  {
+    "word": "under pressure",
+    "lemma": "under pressure",
+    "level": "b1",
+    "tr": "под давлением",
+    "colloc": "under pressure · perform under pressure",
+    "pattern": "be under pressure",
+    "note": "",
+    "examples": [
+      {
+        "en": "The team is under pressure to ship.",
+        "ru": "Команда под давлением выкатки."
+      },
+      {
+        "en": "He works well under pressure.",
+        "ru": "Он хорошо работает под давлением."
+      },
+      {
+        "en": "Don't decide under pressure.",
+        "ru": "Не решай под давлением."
+      }
+    ]
+  },
+  {
+    "word": "under control",
+    "lemma": "under control",
+    "level": "b1",
+    "tr": "под контролем",
+    "colloc": "under control · get under control",
+    "pattern": "be/get under control",
+    "note": "",
+    "examples": [
+      {
+        "en": "The incident is under control.",
+        "ru": "Инцидент под контролем."
+      },
+      {
+        "en": "We got the fire under control.",
+        "ru": "Мы взяли пожар под контроль."
+      },
+      {
+        "en": "Keep costs under control.",
+        "ru": "Держи затраты под контролем."
+      }
+    ]
+  },
+  {
+    "word": "out of control",
+    "lemma": "out of control",
+    "level": "b1",
+    "tr": "вышел из-под контроля",
+    "colloc": "out of control",
+    "pattern": "be out of control",
+    "note": "",
+    "examples": [
+      {
+        "en": "Spending is out of control.",
+        "ru": "Траты вышли из-под контроля."
+      },
+      {
+        "en": "The thread went out of control.",
+        "ru": "Тред вышел из-под контроля."
+      },
+      {
+        "en": "Don't let scope go out of control.",
+        "ru": "Не дай скоупу выйти из-под контроля."
+      }
+    ]
+  },
+  {
+    "word": "out of order",
+    "lemma": "out of order",
+    "level": "b1",
+    "tr": "не работает; неисправен",
+    "colloc": "out of order",
+    "pattern": "be out of order",
+    "note": "Про технику; также «неуместно» о поведении.",
+    "examples": [
+      {
+        "en": "The elevator is out of order.",
+        "ru": "Лифт не работает."
+      },
+      {
+        "en": "Sorry, the printer is out of order.",
+        "ru": "Извините, принтер неисправен."
+      },
+      {
+        "en": "That remark was out of order.",
+        "ru": "То замечание было неуместным."
+      }
+    ]
+  },
+  {
+    "word": "out of stock",
+    "lemma": "out of stock",
+    "level": "b1",
+    "tr": "нет в наличии",
+    "colloc": "out of stock",
+    "pattern": "be out of stock",
+    "note": "",
+    "examples": [
+      {
+        "en": "The item is out of stock.",
+        "ru": "Товара нет в наличии."
+      },
+      {
+        "en": "We're out of stock until Friday.",
+        "ru": "Нет в наличии до пятницы."
+      },
+      {
+        "en": "If it's out of stock, offer an alternative.",
+        "ru": "Если нет в наличии — предложи альтернативу."
+      }
+    ]
+  },
+  {
+    "word": "out of date",
+    "lemma": "out of date",
+    "level": "b1",
+    "tr": "устаревший",
+    "colloc": "out of date · outdated",
+    "pattern": "be out of date",
+    "note": "",
+    "examples": [
+      {
+        "en": "These docs are out of date.",
+        "ru": "Эти доки устарели."
+      },
+      {
+        "en": "Your passport is out of date.",
+        "ru": "Паспорт просрочен."
+      },
+      {
+        "en": "Don't rely on out-of-date metrics.",
+        "ru": "Не опирайся на устаревшие метрики."
+      }
+    ]
+  },
+  {
+    "word": "up to date",
+    "lemma": "up to date",
+    "level": "b1",
+    "tr": "актуальный; в курсе",
+    "colloc": "up to date · keep up to date",
+    "pattern": "be/keep up to date",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep the wiki up to date.",
+        "ru": "Держи вики актуальной."
+      },
+      {
+        "en": "Is your OS up to date?",
+        "ru": "ОС актуальна?"
+      },
+      {
+        "en": "Stay up to date with the changelog.",
+        "ru": "Будь в курсе changelog."
+      }
+    ]
+  },
+  {
+    "word": "up to speed",
+    "lemma": "up to speed",
+    "level": "b2",
+    "tr": "в курсе; на уровне",
+    "colloc": "up to speed · get up to speed",
+    "pattern": "get/bring up to speed",
+    "note": "",
+    "examples": [
+      {
+        "en": "Get the new hire up to speed.",
+        "ru": "Введи новичка в курс дела."
+      },
+      {
+        "en": "I'm not up to speed on legal yet.",
+        "ru": "Я ещё не в курсе по юристам."
+      },
+      {
+        "en": "It took a week to get up to speed.",
+        "ru": "Неделя ушла, чтобы войти в курс."
+      }
+    ]
+  },
+  {
+    "word": "up to you",
+    "lemma": "up to you",
+    "level": "b1",
+    "tr": "на твоё усмотрение",
+    "colloc": "up to you · it's up to you",
+    "pattern": "be up to you",
+    "note": "",
+    "examples": [
+      {
+        "en": "It's up to you.",
+        "ru": "На твоё усмотрение."
+      },
+      {
+        "en": "Whether we ship today is up to you.",
+        "ru": "Выкатывать ли сегодня — на тебе."
+      },
+      {
+        "en": "Lunch place is up to you.",
+        "ru": "Место обеда — на твоё усмотрение."
+      }
+    ]
+  },
+  {
+    "word": "on track",
+    "lemma": "on track",
+    "level": "b1",
+    "tr": "в графике; на верном пути",
+    "colloc": "on track · stay on track",
+    "pattern": "be/stay on track",
+    "note": "",
+    "examples": [
+      {
+        "en": "We're on track for Friday.",
+        "ru": "Мы в графике к пятнице."
+      },
+      {
+        "en": "Keep the project on track.",
+        "ru": "Держи проект в графике."
+      },
+      {
+        "en": "Are we still on track?",
+        "ru": "Мы всё ещё в графике?"
+      }
+    ]
+  },
+  {
+    "word": "off track",
+    "lemma": "off track",
+    "level": "b2",
+    "tr": "сбились с курса",
+    "colloc": "off track · get off track",
+    "pattern": "get off track",
+    "note": "",
+    "examples": [
+      {
+        "en": "The discussion went off track.",
+        "ru": "Обсуждение ушло в сторону."
+      },
+      {
+        "en": "Don't get off track during the demo.",
+        "ru": "Не сбивайся во время демо."
+      },
+      {
+        "en": "We're off track on hiring.",
+        "ru": "По найму сбились с курса."
+      }
+    ]
+  },
+  {
+    "word": "on schedule",
+    "lemma": "on schedule",
+    "level": "b1",
+    "tr": "по графику",
+    "colloc": "on schedule",
+    "pattern": "be on schedule",
+    "note": "",
+    "examples": [
+      {
+        "en": "The release is on schedule.",
+        "ru": "Релиз по графику."
+      },
+      {
+        "en": "Trains rarely run on schedule here.",
+        "ru": "Поезда тут редко по расписанию."
+      },
+      {
+        "en": "Stay on schedule if you can.",
+        "ru": "Если можешь — держись графика."
+      }
+    ]
+  },
+  {
+    "word": "behind schedule",
+    "lemma": "behind schedule",
+    "level": "b1",
+    "tr": "с отставанием от графика",
+    "colloc": "behind schedule",
+    "pattern": "be behind schedule",
+    "note": "",
+    "examples": [
+      {
+        "en": "We're behind schedule by two days.",
+        "ru": "Отстаём от графика на два дня."
+      },
+      {
+        "en": "The build is behind schedule.",
+        "ru": "Сборка отстаёт от графика."
+      },
+      {
+        "en": "Don't fall behind schedule.",
+        "ru": "Не отставай от графика."
+      }
+    ]
+  },
+  {
+    "word": "ahead of schedule",
+    "lemma": "ahead of schedule",
+    "level": "b1",
+    "tr": "с опережением графика",
+    "colloc": "ahead of schedule",
+    "pattern": "be ahead of schedule",
+    "note": "",
+    "examples": [
+      {
+        "en": "We finished ahead of schedule.",
+        "ru": "Закончили с опережением."
+      },
+      {
+        "en": "If we're ahead of schedule, add polish.",
+        "ru": "Если опережаем — добавь полировку."
+      },
+      {
+        "en": "The team is ahead of schedule.",
+        "ru": "Команда опережает график."
+      }
+    ]
+  },
+  {
+    "word": "on hold",
+    "lemma": "on hold",
+    "level": "b1",
+    "tr": "на паузе; на удержании",
+    "colloc": "on hold · put on hold",
+    "pattern": "be/put on hold",
+    "note": "",
+    "examples": [
+      {
+        "en": "The project is on hold.",
+        "ru": "Проект на паузе."
+      },
+      {
+        "en": "Please hold — I'll put you on hold.",
+        "ru": "Подождите — поставлю на удержание."
+      },
+      {
+        "en": "Hiring is on hold this quarter.",
+        "ru": "Найм на паузе в этом квартале."
+      }
+    ]
+  },
+  {
+    "word": "on leave",
+    "lemma": "on leave",
+    "level": "b1",
+    "tr": "в отпуске / в отгуле",
+    "colloc": "on leave · on parental leave",
+    "pattern": "be on leave",
+    "note": "",
+    "examples": [
+      {
+        "en": "She's on leave until March.",
+        "ru": "Она в отпуске до марта."
+      },
+      {
+        "en": "He's on medical leave.",
+        "ru": "Он на больничном/медотпуске."
+      },
+      {
+        "en": "Cover for anyone on leave.",
+        "ru": "Подмени тех, кто в отпуске."
+      }
+    ]
+  },
+  {
+    "word": "on the rise",
+    "lemma": "on the rise",
+    "level": "b2",
+    "tr": "на подъёме; растёт",
+    "colloc": "on the rise",
+    "pattern": "be on the rise",
+    "note": "",
+    "examples": [
+      {
+        "en": "Errors are on the rise.",
+        "ru": "Ошибки растут."
+      },
+      {
+        "en": "Remote work is on the rise.",
+        "ru": "Удалёнка на подъёме."
+      },
+      {
+        "en": "Churn is on the rise again.",
+        "ru": "Отток снова растёт."
+      }
+    ]
+  },
+  {
+    "word": "on the decline",
+    "lemma": "on the decline",
+    "level": "b2",
+    "tr": "на спаде",
+    "colloc": "on the decline",
+    "pattern": "be on the decline",
+    "note": "",
+    "examples": [
+      {
+        "en": "Desktop usage is on the decline.",
+        "ru": "Использование десктопа на спаде."
+      },
+      {
+        "en": "Bug count is on the decline.",
+        "ru": "Число багов снижается."
+      },
+      {
+        "en": "The trend is on the decline.",
+        "ru": "Тренд на спаде."
+      }
+    ]
+  },
+  {
+    "word": "in progress",
+    "lemma": "in progress",
+    "level": "b1",
+    "tr": "в процессе",
+    "colloc": "in progress · work in progress",
+    "pattern": "be in progress",
+    "note": "",
+    "examples": [
+      {
+        "en": "The migration is in progress.",
+        "ru": "Миграция в процессе."
+      },
+      {
+        "en": "See the board for items in progress.",
+        "ru": "Смотри доску — что в процессе."
+      },
+      {
+        "en": "Work in progress — don't merge yet.",
+        "ru": "Черновик — пока не мержи."
+      }
+    ]
+  },
+  {
+    "word": "in place",
+    "lemma": "in place",
+    "level": "b2",
+    "tr": "на месте; внедрён",
+    "colloc": "in place · put in place",
+    "pattern": "be/put in place",
+    "note": "",
+    "examples": [
+      {
+        "en": "Safeguards are in place.",
+        "ru": "Защиты на месте."
+      },
+      {
+        "en": "We put a process in place.",
+        "ru": "Мы внедрили процесс."
+      },
+      {
+        "en": "Is monitoring in place?",
+        "ru": "Мониторинг уже есть?"
+      }
+    ]
+  },
+  {
+    "word": "into effect",
+    "lemma": "into effect",
+    "level": "b2",
+    "tr": "в силу (вступить)",
+    "colloc": "come/go into effect · put into effect",
+    "pattern": "come into effect",
+    "note": "",
+    "examples": [
+      {
+        "en": "The policy goes into effect Monday.",
+        "ru": "Политика вступает в силу в понедельник."
+      },
+      {
+        "en": "New rates come into effect in May.",
+        "ru": "Новые тарифы — с мая."
+      },
+      {
+        "en": "Put the plan into effect carefully.",
+        "ru": "Внедряй план осторожно."
+      }
+    ]
+  },
+  {
+    "word": "come into force",
+    "lemma": "come into force",
+    "level": "b2",
+    "tr": "вступить в силу",
+    "colloc": "come into force",
+    "pattern": "come into force",
+    "note": "Юр./формальный.",
+    "examples": [
+      {
+        "en": "The law comes into force next year.",
+        "ru": "Закон вступает в силу в следующем году."
+      },
+      {
+        "en": "Once it comes into force, update the TOS.",
+        "ru": "Как вступит в силу — обнови ToS."
+      },
+      {
+        "en": "Sanctions came into force overnight.",
+        "ru": "Санкции вступили в силу за ночь."
+      }
+    ]
+  },
+  {
+    "word": "come into play",
+    "lemma": "come into play",
+    "level": "b2",
+    "tr": "вступить в игру; начать влиять",
+    "colloc": "come into play",
+    "pattern": "come into play",
+    "note": "",
+    "examples": [
+      {
+        "en": "Latency comes into play at scale.",
+        "ru": "На масштабе в игру входит задержка."
+      },
+      {
+        "en": "Politics came into play.",
+        "ru": "В игру вступила политика."
+      },
+      {
+        "en": "Several factors come into play.",
+        "ru": "Влияют несколько факторов."
+      }
+    ]
+  },
+  {
+    "word": "at risk",
+    "lemma": "at risk",
+    "level": "b1",
+    "tr": "под угрозой; в зоне риска",
+    "colloc": "at risk · put at risk",
+    "pattern": "be at risk",
+    "note": "",
+    "examples": [
+      {
+        "en": "The deadline is at risk.",
+        "ru": "Дедлайн под угрозой."
+      },
+      {
+        "en": "Don't put users at risk.",
+        "ru": "Не ставь пользователей под риск."
+      },
+      {
+        "en": "Data at risk must be encrypted.",
+        "ru": "Данные в зоне риска — шифровать."
+      }
+    ]
+  },
+  {
+    "word": "at stake",
+    "lemma": "at stake",
+    "level": "b2",
+    "tr": "на кону",
+    "colloc": "at stake",
+    "pattern": "be at stake",
+    "note": "",
+    "examples": [
+      {
+        "en": "Reputation is at stake.",
+        "ru": "На кону репутация."
+      },
+      {
+        "en": "With so much at stake, double-check.",
+        "ru": "При таких ставках перепроверь."
+      },
+      {
+        "en": "What's at stake here?",
+        "ru": "Что здесь на кону?"
+      }
+    ]
+  },
+  {
+    "word": "at fault",
+    "lemma": "at fault",
+    "level": "b2",
+    "tr": "виноват",
+    "colloc": "at fault",
+    "pattern": "be at fault",
+    "note": "",
+    "examples": [
+      {
+        "en": "Who is at fault?",
+        "ru": "Кто виноват?"
+      },
+      {
+        "en": "The vendor was at fault.",
+        "ru": "Виноват был вендор."
+      },
+      {
+        "en": "I'm not at fault this time.",
+        "ru": "На этот раз я не виноват."
+      }
+    ]
+  },
+  {
+    "word": "at ease",
+    "lemma": "at ease",
+    "level": "b2",
+    "tr": "спокойно; непринуждённо",
+    "colloc": "at ease · put at ease",
+    "pattern": "be/put at ease",
+    "note": "",
+    "examples": [
+      {
+        "en": "She put the candidate at ease.",
+        "ru": "Она разрядила атмосферу для кандидата."
+      },
+      {
+        "en": "I never feel at ease on stage.",
+        "ru": "На сцене мне никогда не спокойно."
+      },
+      {
+        "en": "Stand at ease.",
+        "ru": "Вольно! (команда)"
+      }
+    ]
+  },
+  {
+    "word": "at odds",
+    "lemma": "at odds",
+    "level": "b2",
+    "tr": "в противоречии; в ссоре",
+    "colloc": "at odds with",
+    "pattern": "be at odds (with)",
+    "note": "",
+    "examples": [
+      {
+        "en": "The two reports are at odds.",
+        "ru": "Два отчёта противоречат друг другу."
+      },
+      {
+        "en": "He's at odds with the board.",
+        "ru": "Он в конфликте с советом."
+      },
+      {
+        "en": "Our incentives are at odds.",
+        "ru": "Наши стимулы противоречат."
+      }
+    ]
+  },
+  {
+    "word": "at random",
+    "lemma": "at random",
+    "level": "b1",
+    "tr": "наобум; случайно",
+    "colloc": "at random",
+    "pattern": "at random",
+    "note": "",
+    "examples": [
+      {
+        "en": "Pick a sample at random.",
+        "ru": "Возьми выборку наугад."
+      },
+      {
+        "en": "Don't allocate ports at random.",
+        "ru": "Не назначай порты наобум."
+      },
+      {
+        "en": "Names were drawn at random.",
+        "ru": "Имена тянули случайно."
+      }
+    ]
+  },
+  {
+    "word": "at best",
+    "lemma": "at best",
+    "level": "b1",
+    "tr": "в лучшем случае",
+    "colloc": "at best",
+    "pattern": "at best",
+    "note": "",
+    "examples": [
+      {
+        "en": "At best we'll finish Friday.",
+        "ru": "В лучшем случае закончим в пятницу."
+      },
+      {
+        "en": "It's a workaround at best.",
+        "ru": "В лучшем случае это костыль."
+      },
+      {
+        "en": "At best the patch buys a week.",
+        "ru": "В лучшем случае патч даёт неделю."
+      }
+    ]
+  },
+  {
+    "word": "at worst",
+    "lemma": "at worst",
+    "level": "b1",
+    "tr": "в худшем случае",
+    "colloc": "at worst",
+    "pattern": "at worst",
+    "note": "",
+    "examples": [
+      {
+        "en": "At worst we roll back.",
+        "ru": "В худшем случае откатим."
+      },
+      {
+        "en": "At worst you'll lose an hour.",
+        "ru": "В худшем случае потеряешь час."
+      },
+      {
+        "en": "Plan for at worst.",
+        "ru": "Заложи худший случай."
+      }
+    ]
+  },
+  {
+    "word": "at present",
+    "lemma": "at present",
+    "level": "b2",
+    "tr": "в настоящее время",
+    "colloc": "at present",
+    "pattern": "at present",
+    "note": "Формальнее now.",
+    "examples": [
+      {
+        "en": "At present we lack capacity.",
+        "ru": "Сейчас не хватает мощности."
+      },
+      {
+        "en": "No openings at present.",
+        "ru": "На данный момент вакансий нет."
+      },
+      {
+        "en": "At present the system is stable.",
+        "ru": "В настоящее время система стабильна."
+      }
+    ]
+  },
+  {
+    "word": "at once",
+    "lemma": "at once",
+    "level": "b1",
+    "tr": "сразу; одновременно",
+    "colloc": "at once",
+    "pattern": "at once",
+    "note": "Два смысла: immediately / at the same time.",
+    "examples": [
+      {
+        "en": "Do it at once.",
+        "ru": "Сделай сразу."
+      },
+      {
+        "en": "Don't run both jobs at once.",
+        "ru": "Не запускай обе джобы одновременно."
+      },
+      {
+        "en": "She understood at once.",
+        "ru": "Она сразу поняла."
+      }
+    ]
+  },
+  {
+    "word": "at times",
+    "lemma": "at times",
+    "level": "b1",
+    "tr": "порой; временами",
+    "colloc": "at times",
+    "pattern": "at times",
+    "note": "",
+    "examples": [
+      {
+        "en": "At times the UI feels sluggish.",
+        "ru": "Порой UI кажется вялым."
+      },
+      {
+        "en": "He's quiet at times.",
+        "ru": "Временами он молчалив."
+      },
+      {
+        "en": "At times we all need a break.",
+        "ru": "Порой всем нужен перерыв."
+      }
+    ]
+  },
+  {
+    "word": "on purpose",
+    "lemma": "on purpose",
+    "level": "b1",
+    "tr": "специально; нарочно",
+    "colloc": "on purpose",
+    "pattern": "on purpose",
+    "note": "",
+    "examples": [
+      {
+        "en": "I didn't do it on purpose.",
+        "ru": "Я сделал это не специально."
+      },
+      {
+        "en": "Was the outage on purpose?",
+        "ru": "Аварию устроили нарочно?"
+      },
+      {
+        "en": "She ignored the ping on purpose.",
+        "ru": "Она нарочно проигнорировала пинг."
+      }
+    ]
+  },
+  {
+    "word": "on average",
+    "lemma": "on average",
+    "level": "b1",
+    "tr": "в среднем",
+    "colloc": "on average",
+    "pattern": "on average",
+    "note": "",
+    "examples": [
+      {
+        "en": "On average we ship weekly.",
+        "ru": "В среднем выкатываем раз в неделю."
+      },
+      {
+        "en": "Latency is 80 ms on average.",
+        "ru": "Задержка в среднем 80 мс."
+      },
+      {
+        "en": "On average users stay three months.",
+        "ru": "В среднем пользователи остаются три месяца."
+      }
+    ]
+  },
+  {
+    "word": "on behalf of",
+    "lemma": "on behalf of",
+    "level": "b1",
+    "tr": "от имени",
+    "colloc": "on behalf of",
+    "pattern": "on behalf of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'm writing on behalf of the team.",
+        "ru": "Пишу от имени команды."
+      },
+      {
+        "en": "Accept the award on behalf of us.",
+        "ru": "Прими награду от нашего имени."
+      },
+      {
+        "en": "Speak on behalf of the users.",
+        "ru": "Говори от имени пользователей."
+      }
+    ]
+  },
+  {
+    "word": "on second thought",
+    "lemma": "on second thought",
+    "level": "b1",
+    "tr": "подумав ещё раз",
+    "colloc": "on second thought",
+    "pattern": "On second thought, …",
+    "note": "AmE; BrE often on second thoughts.",
+    "examples": [
+      {
+        "en": "On second thought, let's wait.",
+        "ru": "Подумав, давай подождём."
+      },
+      {
+        "en": "On second thought I agree.",
+        "ru": "Подумав ещё раз, согласен."
+      },
+      {
+        "en": "Cancel that — on second thought.",
+        "ru": "Отмени — подумав ещё раз."
+      }
+    ]
+  },
+  {
+    "word": "on reflection",
+    "lemma": "on reflection",
+    "level": "c1",
+    "tr": "поразмыслив",
+    "colloc": "on reflection",
+    "pattern": "On reflection, …",
+    "note": "Формальный.",
+    "examples": [
+      {
+        "en": "On reflection, the design was rushed.",
+        "ru": "Поразмыслив, дизайн был спешным."
+      },
+      {
+        "en": "On reflection we chose poorly.",
+        "ru": "Поразмыслив, выбрали плохо."
+      },
+      {
+        "en": "The decision was wrong on reflection.",
+        "ru": "По зрелом размышлении решение было неверным."
+      }
+    ]
+  },
+  {
+    "word": "on balance",
+    "lemma": "on balance",
+    "level": "c1",
+    "tr": "в целом; взвесив всё",
+    "colloc": "on balance",
+    "pattern": "On balance, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "On balance, shipping was right.",
+        "ru": "Взвесив всё, выкатка была верной."
+      },
+      {
+        "en": "On balance I prefer option B.",
+        "ru": "В целом предпочитаю вариант B."
+      },
+      {
+        "en": "Risks remain, but on balance it's worth it.",
+        "ru": "Риски есть, но в целом стоит."
+      }
+    ]
+  },
+  {
+    "word": "on top of",
+    "lemma": "on top of",
+    "level": "b1",
+    "tr": "поверх; вдобавок к",
+    "colloc": "on top of · on top of that",
+    "pattern": "on top of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "On top of work I study English.",
+        "ru": "Поверх работы учу английский."
+      },
+      {
+        "en": "Stay on top of the alerts.",
+        "ru": "Держи алерты под контролем."
+      },
+      {
+        "en": "Fees sit on top of the price.",
+        "ru": "Комиссии поверх цены."
+      }
+    ]
+  },
+  {
+    "word": "on top of that",
+    "lemma": "on top of that",
+    "level": "b1",
+    "tr": "вдобавок; сверх того",
+    "colloc": "on top of that",
+    "pattern": "On top of that, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "We're late. On top of that, QA is out.",
+        "ru": "Мы опаздываем. Вдобавок QA нет."
+      },
+      {
+        "en": "On top of that the vendor raised prices.",
+        "ru": "Сверх того вендор поднял цены."
+      },
+      {
+        "en": "Bugs, and on top of that no docs.",
+        "ru": "Баги, и вдобавок нет доков."
+      }
+    ]
+  },
+  {
+    "word": "by heart",
+    "lemma": "by heart",
+    "level": "b1",
+    "tr": "наизусть",
+    "colloc": "by heart · learn by heart",
+    "pattern": "know/learn by heart",
+    "note": "",
+    "examples": [
+      {
+        "en": "I know the runbook by heart.",
+        "ru": "Знаю ранбук наизусть."
+      },
+      {
+        "en": "Don't learn APIs by heart — understand them.",
+        "ru": "Не учи API наизусть — понимай."
+      },
+      {
+        "en": "She recited the policy by heart.",
+        "ru": "Она прочла политику наизусть."
+      }
+    ]
+  },
+  {
+    "word": "by chance",
+    "lemma": "by chance",
+    "level": "b1",
+    "tr": "случайно",
+    "colloc": "by chance",
+    "pattern": "by chance",
+    "note": "",
+    "examples": [
+      {
+        "en": "I found the bug by chance.",
+        "ru": "Нашёл баг случайно."
+      },
+      {
+        "en": "We met by chance at the conference.",
+        "ru": "Случайно встретились на конференции."
+      },
+      {
+        "en": "By chance the backup was recent.",
+        "ru": "Случайно бэкап оказался свежим."
+      }
+    ]
+  },
+  {
+    "word": "by accident",
+    "lemma": "by accident",
+    "level": "b1",
+    "tr": "случайно; нечаянно",
+    "colloc": "by accident",
+    "pattern": "by accident",
+    "note": "",
+    "examples": [
+      {
+        "en": "I deleted it by accident.",
+        "ru": "Удалил нечаянно."
+      },
+      {
+        "en": "We discovered the leak by accident.",
+        "ru": "Утечку обнаружили случайно."
+      },
+      {
+        "en": "Sorry — that ping was by accident.",
+        "ru": "Извини — пинг ушёл случайно."
+      }
+    ]
+  },
+  {
+    "word": "by mistake",
+    "lemma": "by mistake",
+    "level": "b1",
+    "tr": "по ошибке",
+    "colloc": "by mistake",
+    "pattern": "by mistake",
+    "note": "",
+    "examples": [
+      {
+        "en": "I emailed the wrong file by mistake.",
+        "ru": "По ошибке отправил не тот файл."
+      },
+      {
+        "en": "Charges were applied by mistake.",
+        "ru": "Списания прошли по ошибке."
+      },
+      {
+        "en": "Don't merge by mistake.",
+        "ru": "Не смержи по ошибке."
+      }
+    ]
+  },
+  {
+    "word": "by design",
+    "lemma": "by design",
+    "level": "b2",
+    "tr": "по задумке; намеренно",
+    "colloc": "by design",
+    "pattern": "by design",
+    "note": "",
+    "examples": [
+      {
+        "en": "It's slow by design.",
+        "ru": "Это медленно по задумке."
+      },
+      {
+        "en": "The limit is by design.",
+        "ru": "Лимит такой намеренно."
+      },
+      {
+        "en": "Security through obscurity is bad by design.",
+        "ru": "Security through obscurity плох по своей сути."
+      }
+    ]
+  },
+  {
+    "word": "by default",
+    "lemma": "by default",
+    "level": "b1",
+    "tr": "по умолчанию",
+    "colloc": "by default",
+    "pattern": "by default",
+    "note": "",
+    "examples": [
+      {
+        "en": "HTTPS is on by default.",
+        "ru": "HTTPS включён по умолчанию."
+      },
+      {
+        "en": "By default the flag is false.",
+        "ru": "По умолчанию флаг false."
+      },
+      {
+        "en": "Users are opted out by default.",
+        "ru": "Пользователи по умолчанию opted out."
+      }
+    ]
+  },
+  {
+    "word": "by far",
+    "lemma": "by far",
+    "level": "b1",
+    "tr": "намного; безусловно",
+    "colloc": "by far",
+    "pattern": "by far + the + superlative",
+    "note": "",
+    "examples": [
+      {
+        "en": "This is by far the worst outage.",
+        "ru": "Это безусловно худшая авария."
+      },
+      {
+        "en": "She's by far the strongest candidate.",
+        "ru": "Она намного сильнейший кандидат."
+      },
+      {
+        "en": "Latency improved by far the most.",
+        "ru": "Задержка улучшилась сильнее всего."
+      }
+    ]
+  },
+  {
+    "word": "by hand",
+    "lemma": "by hand",
+    "level": "b1",
+    "tr": "вручную",
+    "colloc": "by hand",
+    "pattern": "by hand",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't edit prod by hand.",
+        "ru": "Не правь прод вручную."
+      },
+      {
+        "en": "We migrated the rows by hand.",
+        "ru": "Мигрировали строки вручную."
+      },
+      {
+        "en": "Sign the form by hand.",
+        "ru": "Подпиши форму от руки."
+      }
+    ]
+  },
+  {
+    "word": "by law",
+    "lemma": "by law",
+    "level": "b1",
+    "tr": "по закону",
+    "colloc": "by law",
+    "pattern": "by law",
+    "note": "",
+    "examples": [
+      {
+        "en": "By law we must retain logs.",
+        "ru": "По закону обязаны хранить логи."
+      },
+      {
+        "en": "You must report it by law.",
+        "ru": "По закону обязан сообщить."
+      },
+      {
+        "en": "Age checks are required by law.",
+        "ru": "Проверка возраста обязательна по закону."
+      }
+    ]
+  }
+]

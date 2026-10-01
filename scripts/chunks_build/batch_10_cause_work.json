@@ -1,0 +1,738 @@
+[
+  {
+    "word": "given that",
+    "lemma": "given that",
+    "level": "b2",
+    "tr": "учитывая что; при том что",
+    "colloc": "given that",
+    "pattern": "given that + clause",
+    "note": "",
+    "examples": [
+      {
+        "en": "Given that traffic spiked, the lag makes sense.",
+        "ru": "Учитывая скачок трафика, лаг логичен."
+      },
+      {
+        "en": "Given that we're late, cut scope.",
+        "ru": "Раз мы опаздываем — режь скоуп."
+      },
+      {
+        "en": "Given that, I'd wait.",
+        "ru": "Учитывая это, я бы подождал."
+      }
+    ]
+  },
+  {
+    "word": "given the fact that",
+    "lemma": "given the fact that",
+    "level": "c1",
+    "tr": "учитывая тот факт что",
+    "colloc": "given the fact that",
+    "pattern": "given the fact that + clause",
+    "note": "Чуть тяжеловеснее given that.",
+    "examples": [
+      {
+        "en": "Given the fact that keys leaked, rotate now.",
+        "ru": "Учитывая утечку ключей — ротируй сейчас."
+      },
+      {
+        "en": "Given the fact that QA is offline, delay.",
+        "ru": "Учитывая, что QA офлайн — отложи."
+      },
+      {
+        "en": "Given the fact that costs rose, pause ads.",
+        "ru": "Учитывая рост затрат — пауза рекламы."
+      }
+    ]
+  },
+  {
+    "word": "seeing that",
+    "lemma": "seeing that",
+    "level": "b2",
+    "tr": "поскольку; раз уж",
+    "colloc": "seeing that",
+    "pattern": "seeing that + clause",
+    "note": "",
+    "examples": [
+      {
+        "en": "Seeing that you're free, can you help?",
+        "ru": "Раз свободен — поможешь?"
+      },
+      {
+        "en": "Seeing that tests fail, don't merge.",
+        "ru": "Раз тесты красные — не мержи."
+      },
+      {
+        "en": "Seeing that, we postponed.",
+        "ru": "Поскольку так — отложили."
+      }
+    ]
+  },
+  {
+    "word": "now that",
+    "lemma": "now that",
+    "level": "b1",
+    "tr": "теперь когда",
+    "colloc": "now that",
+    "pattern": "now that + clause",
+    "note": "",
+    "examples": [
+      {
+        "en": "Now that it's fixed, close the ticket.",
+        "ru": "Теперь когда починено — закрой тикет."
+      },
+      {
+        "en": "Now that you're here, let's start.",
+        "ru": "Раз ты здесь — начнём."
+      },
+      {
+        "en": "Now that we have data, decide.",
+        "ru": "Теперь когда есть данные — решай."
+      }
+    ]
+  },
+  {
+    "word": "on the grounds that",
+    "lemma": "on the grounds that",
+    "level": "c1",
+    "tr": "на том основании что",
+    "colloc": "on the grounds that",
+    "pattern": "on the grounds that + clause",
+    "note": "Формальный / юридический.",
+    "examples": [
+      {
+        "en": "They rejected it on the grounds that it was unsafe.",
+        "ru": "Отклонили на том основании, что небезопасно."
+      },
+      {
+        "en": "He resigned on the grounds that trust was gone.",
+        "ru": "Ушёл на том основании, что доверия нет."
+      },
+      {
+        "en": "Appeal on the grounds that process failed.",
+        "ru": "Обжалуй на основании сбоя процесса."
+      }
+    ]
+  },
+  {
+    "word": "for fear of",
+    "lemma": "for fear of",
+    "level": "b2",
+    "tr": "из страха; чтобы не",
+    "colloc": "for fear of",
+    "pattern": "for fear of + N/Ving",
+    "note": "",
+    "examples": [
+      {
+        "en": "I didn't deploy for fear of downtime.",
+        "ru": "Не деплоил из страха даунтайма."
+      },
+      {
+        "en": "She stayed silent for fear of blame.",
+        "ru": "Молчала из страха обвинений."
+      },
+      {
+        "en": "We delayed for fear of regressions.",
+        "ru": "Отложили из страха регрессий."
+      }
+    ]
+  },
+  {
+    "word": "for fear that",
+    "lemma": "for fear that",
+    "level": "c1",
+    "tr": "из опасения что",
+    "colloc": "for fear that",
+    "pattern": "for fear that + clause",
+    "note": "",
+    "examples": [
+      {
+        "en": "We backed up for fear that the disk would die.",
+        "ru": "Сделали бэкап из опасения, что диск умрёт."
+      },
+      {
+        "en": "He whispered for fear that others would hear.",
+        "ru": "Шептал, опасаясь, что услышат."
+      },
+      {
+        "en": "I wrote it down for fear that I'd forget.",
+        "ru": "Записал из опасения забыть."
+      }
+    ]
+  },
+  {
+    "word": "resulting in",
+    "lemma": "resulting in",
+    "level": "b2",
+    "tr": "в результате чего; приводя к",
+    "colloc": "resulting in",
+    "pattern": "…, resulting in + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "A bad config, resulting in downtime.",
+        "ru": "Плохой конфиг, в результате — даунтайм."
+      },
+      {
+        "en": "The merge conflict resulting in delays.",
+        "ru": "Конфликт мержа, приводящий к задержкам."
+      },
+      {
+        "en": "Cuts resulting in lower quality.",
+        "ru": "Сокращения, ведущие к падению качества."
+      }
+    ]
+  },
+  {
+    "word": "leading to",
+    "lemma": "leading to",
+    "level": "b1",
+    "tr": "ведущий к",
+    "colloc": "leading to",
+    "pattern": "…, leading to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "A race condition leading to data loss.",
+        "ru": "Гонка, ведущая к потере данных."
+      },
+      {
+        "en": "Poor UX leading to churn.",
+        "ru": "Плохой UX, ведущий к оттоку."
+      },
+      {
+        "en": "Talks leading to a deal.",
+        "ru": "Переговоры, ведущие к сделке."
+      }
+    ]
+  },
+  {
+    "word": "stemming from",
+    "lemma": "stemming from",
+    "level": "c1",
+    "tr": "проистекающий из",
+    "colloc": "stemming from",
+    "pattern": "stemming from + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Issues stemming from legacy code.",
+        "ru": "Проблемы, проистекающие из легаси."
+      },
+      {
+        "en": "Distrust stemming from past outages.",
+        "ru": "Недоверие из прошлых аварий."
+      },
+      {
+        "en": "Costs stemming from idle resources.",
+        "ru": "Затраты от простоя ресурсов."
+      }
+    ]
+  },
+  {
+    "word": "due to the fact that",
+    "lemma": "due to the fact that",
+    "level": "b2",
+    "tr": "из-за того что",
+    "colloc": "due to the fact that",
+    "pattern": "due to the fact that + clause",
+    "note": "Тяжеловесно; часто лучше because.",
+    "examples": [
+      {
+        "en": "We delayed due to the fact that legal blocked us.",
+        "ru": "Отложили из-за того, что юристы заблокировали."
+      },
+      {
+        "en": "Due to the fact that nodes were full, writes failed.",
+        "ru": "Из-за того что ноды были полные, записи падали."
+      },
+      {
+        "en": "Failures due to the fact that retries were off.",
+        "ru": "Сбои из-за того, что ретраи были выключены."
+      }
+    ]
+  },
+  {
+    "word": "as a result of",
+    "lemma": "as a result of",
+    "level": "b1",
+    "tr": "в результате",
+    "colloc": "as a result of",
+    "pattern": "as a result of + N",
+    "note": "В discourse есть as a result — это предложная рамка.",
+    "examples": [
+      {
+        "en": "As a result of the outage, we lost trust.",
+        "ru": "В результате аварии потеряли доверие."
+      },
+      {
+        "en": "Churn rose as a result of pricing.",
+        "ru": "Отток вырос в результате цен."
+      },
+      {
+        "en": "As a result of reviews, quality improved.",
+        "ru": "В результате ревью качество выросло."
+      }
+    ]
+  },
+  {
+    "word": "in order that",
+    "lemma": "in order that",
+    "level": "c1",
+    "tr": "для того чтобы",
+    "colloc": "in order that",
+    "pattern": "in order that + clause",
+    "note": "Формальнее so that.",
+    "examples": [
+      {
+        "en": "We logged verbosely in order that QA could reproduce.",
+        "ru": "Логировали подробно, чтобы QA могла воспроизвести."
+      },
+      {
+        "en": "Speak clearly in order that all hear.",
+        "ru": "Говори ясно, чтобы все слышали."
+      },
+      {
+        "en": "Encrypt in order that data stays safe.",
+        "ru": "Шифруй, чтобы данные были в безопасности."
+      }
+    ]
+  },
+  {
+    "word": "so as not to",
+    "lemma": "so as not to",
+    "level": "b2",
+    "tr": "чтобы не",
+    "colloc": "so as not to",
+    "pattern": "so as not to + V",
+    "note": "",
+    "examples": [
+      {
+        "en": "We staged the rollout so as not to overload.",
+        "ru": "Раскатывали поэтапно, чтобы не перегрузить."
+      },
+      {
+        "en": "Speak softly so as not to wake them.",
+        "ru": "Говори тихо, чтобы не разбудить."
+      },
+      {
+        "en": "I saved drafts so as not to lose work.",
+        "ru": "Сохранял черновики, чтобы не потерять работу."
+      }
+    ]
+  },
+  {
+    "word": "sign off on",
+    "lemma": "sign off on",
+    "level": "b2",
+    "tr": "утвердить; дать добро",
+    "colloc": "sign off on",
+    "pattern": "sign off on + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Please sign off on the design.",
+        "ru": "Пожалуйста, утверди дизайн."
+      },
+      {
+        "en": "Legal signed off on the wording.",
+        "ru": "Юристы дали добро на формулировку."
+      },
+      {
+        "en": "I can't sign off on this risk.",
+        "ru": "Не могу утвердить такой риск."
+      }
+    ]
+  },
+  {
+    "word": "follow through",
+    "lemma": "follow through",
+    "level": "b2",
+    "tr": "довести до конца",
+    "colloc": "follow through · follow through on",
+    "pattern": "follow through (on)",
+    "note": "Не путать с follow up.",
+    "examples": [
+      {
+        "en": "She always follows through on promises.",
+        "ru": "Она всегда доводит обещания до конца."
+      },
+      {
+        "en": "We need to follow through.",
+        "ru": "Нужно довести до конца."
+      },
+      {
+        "en": "Without follow-through, plans die.",
+        "ru": "Без доведения планы умирают."
+      }
+    ]
+  },
+  {
+    "word": "touch base",
+    "lemma": "touch base",
+    "level": "b2",
+    "tr": "созвониться; коротко синхронизироваться",
+    "colloc": "touch base",
+    "pattern": "touch base (with)",
+    "note": "Бизнес-клише.",
+    "examples": [
+      {
+        "en": "Let's touch base tomorrow.",
+        "ru": "Давай завтра коротко синхронизируемся."
+      },
+      {
+        "en": "I'll touch base with legal.",
+        "ru": "Созвонюсь с юристами."
+      },
+      {
+        "en": "Just touching base on the deadline.",
+        "ru": "Коротко по дедлайну."
+      }
+    ]
+  },
+  {
+    "word": "circle back",
+    "lemma": "circle back",
+    "level": "b2",
+    "tr": "вернуться к вопросу позже",
+    "colloc": "circle back",
+    "pattern": "circle back (to/on)",
+    "note": "Бизнес-клише.",
+    "examples": [
+      {
+        "en": "Let's circle back next week.",
+        "ru": "Вернёмся к этому на следующей неделе."
+      },
+      {
+        "en": "I'll circle back with numbers.",
+        "ru": "Вернусь с цифрами."
+      },
+      {
+        "en": "Circling back on your email.",
+        "ru": "Возвращаюсь к твоему письму."
+      }
+    ]
+  },
+  {
+    "word": "run by",
+    "lemma": "run by",
+    "level": "b2",
+    "tr": "прогнать мимо; согласовать",
+    "colloc": "run by",
+    "pattern": "run X by Y",
+    "note": "",
+    "examples": [
+      {
+        "en": "Can I run this by you?",
+        "ru": "Могу прогнать это мимо тебя?"
+      },
+      {
+        "en": "Run the copy by marketing.",
+        "ru": "Согласуй текст с маркетингом."
+      },
+      {
+        "en": "I ran the idea by the team.",
+        "ru": "Прогнал идею мимо команды."
+      }
+    ]
+  },
+  {
+    "word": "buy-in",
+    "lemma": "buy-in",
+    "level": "b2",
+    "tr": "поддержка; согласие стейкхолдеров",
+    "colloc": "buy-in · get buy-in",
+    "pattern": "get buy-in",
+    "note": "",
+    "examples": [
+      {
+        "en": "We need buy-in from leadership.",
+        "ru": "Нужна поддержка руководства."
+      },
+      {
+        "en": "Without buy-in the plan stalls.",
+        "ru": "Без buy-in план буксует."
+      },
+      {
+        "en": "Get buy-in early.",
+        "ru": "Добудь согласие заранее."
+      }
+    ]
+  },
+  {
+    "word": "action item",
+    "lemma": "action item",
+    "level": "b2",
+    "tr": "задача к исполнению",
+    "colloc": "action item · action items",
+    "pattern": "action item",
+    "note": "",
+    "examples": [
+      {
+        "en": "What's the action item?",
+        "ru": "Какая задача к исполнению?"
+      },
+      {
+        "en": "Capture action items in the notes.",
+        "ru": "Зафиксируй action items в заметках."
+      },
+      {
+        "en": "I own that action item.",
+        "ru": "Эта задача на мне."
+      }
+    ]
+  },
+  {
+    "word": "move the needle",
+    "lemma": "move the needle",
+    "level": "c1",
+    "tr": "сдвинуть метрику; дать эффект",
+    "colloc": "move the needle",
+    "pattern": "move the needle",
+    "note": "",
+    "examples": [
+      {
+        "en": "Will this move the needle on retention?",
+        "ru": "Это сдвинет retention?"
+      },
+      {
+        "en": "Small tweaks rarely move the needle.",
+        "ru": "Мелкие твики редко дают эффект."
+      },
+      {
+        "en": "We need changes that move the needle.",
+        "ru": "Нужны изменения, которые реально сдвинут метрику."
+      }
+    ]
+  },
+  {
+    "word": "low-hanging fruit",
+    "lemma": "low-hanging fruit",
+    "level": "b2",
+    "tr": "лёгкие победы",
+    "colloc": "low-hanging fruit",
+    "pattern": "low-hanging fruit",
+    "note": "",
+    "examples": [
+      {
+        "en": "Start with low-hanging fruit.",
+        "ru": "Начни с лёгких побед."
+      },
+      {
+        "en": "That fix is low-hanging fruit.",
+        "ru": "Тот фикс — лёгкая победа."
+      },
+      {
+        "en": "We've picked the low-hanging fruit.",
+        "ru": "Лёгкие победы уже собрали."
+      }
+    ]
+  },
+  {
+    "word": "on the same page",
+    "lemma": "on the same page",
+    "level": "b1",
+    "tr": "на одной волне; в согласии",
+    "colloc": "on the same page",
+    "pattern": "be on the same page",
+    "note": "",
+    "examples": [
+      {
+        "en": "Are we on the same page?",
+        "ru": "Мы на одной волне?"
+      },
+      {
+        "en": "Let's get on the same page first.",
+        "ru": "Сначала синхронизируемся."
+      },
+      {
+        "en": "I want everyone on the same page.",
+        "ru": "Хочу, чтобы все были согласны."
+      }
+    ]
+  },
+  {
+    "word": "out of the box",
+    "lemma": "out of the box",
+    "level": "b2",
+    "tr": "из коробки; сразу",
+    "colloc": "out of the box · out-of-the-box",
+    "pattern": "out of the box",
+    "note": "Два смысла: готовое / креативное.",
+    "examples": [
+      {
+        "en": "It works out of the box.",
+        "ru": "Работает из коробки."
+      },
+      {
+        "en": "Out-of-the-box defaults are sane.",
+        "ru": "Дефолты из коробки разумны."
+      },
+      {
+        "en": "Think out of the box.",
+        "ru": "Думай нестандартно."
+      }
+    ]
+  },
+  {
+    "word": "state of the art",
+    "lemma": "state of the art",
+    "level": "c1",
+    "tr": "самый современный",
+    "colloc": "state of the art · state-of-the-art",
+    "pattern": "state of the art",
+    "note": "",
+    "examples": [
+      {
+        "en": "Their crypto is state of the art.",
+        "ru": "Их крипто — state of the art."
+      },
+      {
+        "en": "We need state-of-the-art monitoring.",
+        "ru": "Нужен самый современный мониторинг."
+      },
+      {
+        "en": "This isn't state of the art anymore.",
+        "ru": "Это уже не передовой уровень."
+      }
+    ]
+  },
+  {
+    "word": "rule of thumb",
+    "lemma": "rule of thumb",
+    "level": "b2",
+    "tr": "практическое правило",
+    "colloc": "rule of thumb",
+    "pattern": "rule of thumb",
+    "note": "",
+    "examples": [
+      {
+        "en": "As a rule of thumb, review within a day.",
+        "ru": "Как практическое правило — ревью за день."
+      },
+      {
+        "en": "A good rule of thumb is 80% coverage.",
+        "ru": "Хорошее правило — 80% покрытия."
+      },
+      {
+        "en": "Rules of thumb aren't laws.",
+        "ru": "Правила на глазок — не законы."
+      }
+    ]
+  },
+  {
+    "word": "peace of mind",
+    "lemma": "peace of mind",
+    "level": "b2",
+    "tr": "спокойствие",
+    "colloc": "peace of mind",
+    "pattern": "peace of mind",
+    "note": "",
+    "examples": [
+      {
+        "en": "Backups give peace of mind.",
+        "ru": "Бэкапы дают спокойствие."
+      },
+      {
+        "en": "For peace of mind, double-check.",
+        "ru": "Для спокойствия перепроверь."
+      },
+      {
+        "en": "Insurance is about peace of mind.",
+        "ru": "Страховка — про спокойствие."
+      }
+    ]
+  },
+  {
+    "word": "learning curve",
+    "lemma": "learning curve",
+    "level": "b2",
+    "tr": "кривая обучения",
+    "colloc": "steep learning curve",
+    "pattern": "learning curve",
+    "note": "",
+    "examples": [
+      {
+        "en": "The tool has a steep learning curve.",
+        "ru": "У инструмента крутая кривая обучения."
+      },
+      {
+        "en": "Expect a learning curve.",
+        "ru": "Жди кривую обучения."
+      },
+      {
+        "en": "We flattened the learning curve with docs.",
+        "ru": "Сгладили кривую обучения доками."
+      }
+    ]
+  },
+  {
+    "word": "silver bullet",
+    "lemma": "silver bullet",
+    "level": "b2",
+    "tr": "волшебная таблетка; панацея",
+    "colloc": "silver bullet · no silver bullet",
+    "pattern": "silver bullet",
+    "note": "",
+    "examples": [
+      {
+        "en": "There's no silver bullet for latency.",
+        "ru": "От задержки нет волшебной таблетки."
+      },
+      {
+        "en": "Don't hunt for a silver bullet.",
+        "ru": "Не ищи панацею."
+      },
+      {
+        "en": "Tests aren't a silver bullet.",
+        "ru": "Тесты — не панацея."
+      }
+    ]
+  },
+  {
+    "word": "red flag",
+    "lemma": "red flag",
+    "level": "b1",
+    "tr": "красный флаг; тревожный сигнал",
+    "colloc": "red flag · raise a red flag",
+    "pattern": "red flag",
+    "note": "",
+    "examples": [
+      {
+        "en": "Missing tests are a red flag.",
+        "ru": "Отсутствие тестов — красный флаг."
+      },
+      {
+        "en": "That raised a red flag for me.",
+        "ru": "Это подняло красный флаг."
+      },
+      {
+        "en": "Watch for red flags in the contract.",
+        "ru": "Следи за red flags в договоре."
+      }
+    ]
+  },
+  {
+    "word": "green light",
+    "lemma": "green light",
+    "level": "b1",
+    "tr": "зелёный свет; добро",
+    "colloc": "green light · give the green light",
+    "pattern": "give/get the green light",
+    "note": "",
+    "examples": [
+      {
+        "en": "We got the green light to ship.",
+        "ru": "Получили зелёный свет на выкатку."
+      },
+      {
+        "en": "Give the green light when ready.",
+        "ru": "Дай добро, когда готово."
+      },
+      {
+        "en": "No green light from legal yet.",
+        "ru": "От юристов пока нет добро."
+      }
+    ]
+  }
+]

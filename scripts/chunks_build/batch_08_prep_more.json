@@ -1,0 +1,968 @@
+[
+  {
+    "word": "in public",
+    "lemma": "in public",
+    "level": "b1",
+    "tr": "публично",
+    "colloc": "in public",
+    "pattern": "in public",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't discuss salaries in public.",
+        "ru": "Не обсуждай зарплаты публично."
+      },
+      {
+        "en": "She apologized in public.",
+        "ru": "Она извинилась публично."
+      },
+      {
+        "en": "Be careful what you say in public.",
+        "ru": "Осторожнее с тем, что говоришь публично."
+      }
+    ]
+  },
+  {
+    "word": "in private",
+    "lemma": "in private",
+    "level": "b1",
+    "tr": "наедине; конфиденциально",
+    "colloc": "in private",
+    "pattern": "in private",
+    "note": "",
+    "examples": [
+      {
+        "en": "Let's talk in private.",
+        "ru": "Давай поговорим наедине."
+      },
+      {
+        "en": "Share the feedback in private.",
+        "ru": "Дай фидбек конфиденциально."
+      },
+      {
+        "en": "He admitted the mistake in private.",
+        "ru": "Он признал ошибку наедине."
+      }
+    ]
+  },
+  {
+    "word": "in person",
+    "lemma": "in person",
+    "level": "b1",
+    "tr": "лично; очно",
+    "colloc": "in person",
+    "pattern": "in person",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'd rather meet in person.",
+        "ru": "Лучше встретиться лично."
+      },
+      {
+        "en": "Sign the papers in person.",
+        "ru": "Подпиши бумаги лично."
+      },
+      {
+        "en": "Support available in person downtown.",
+        "ru": "Поддержка лично в центре."
+      }
+    ]
+  },
+  {
+    "word": "in writing",
+    "lemma": "in writing",
+    "level": "b1",
+    "tr": "в письменном виде",
+    "colloc": "in writing",
+    "pattern": "in writing",
+    "note": "",
+    "examples": [
+      {
+        "en": "Confirm it in writing.",
+        "ru": "Подтверди письменно."
+      },
+      {
+        "en": "Get approval in writing.",
+        "ru": "Получи апрув в письменном виде."
+      },
+      {
+        "en": "Nothing counts unless it's in writing.",
+        "ru": "Ничего не считается, пока не письменно."
+      }
+    ]
+  },
+  {
+    "word": "in cash",
+    "lemma": "in cash",
+    "level": "b1",
+    "tr": "наличными",
+    "colloc": "in cash",
+    "pattern": "in cash",
+    "note": "",
+    "examples": [
+      {
+        "en": "Do you pay in cash or by card?",
+        "ru": "Платите наличными или картой?"
+      },
+      {
+        "en": "We don't accept in cash.",
+        "ru": "Наличные не принимаем."
+      },
+      {
+        "en": "He withdrew the sum in cash.",
+        "ru": "Он снял сумму наличными."
+      }
+    ]
+  },
+  {
+    "word": "in debt",
+    "lemma": "in debt",
+    "level": "b1",
+    "tr": "в долгах",
+    "colloc": "in debt · deep in debt",
+    "pattern": "be in debt",
+    "note": "",
+    "examples": [
+      {
+        "en": "The company is deep in debt.",
+        "ru": "Компания глубоко в долгах."
+      },
+      {
+        "en": "Don't get in debt for gadgets.",
+        "ru": "Не лезь в долги из-за гаджетов."
+      },
+      {
+        "en": "We're in debt to the early users.",
+        "ru": "Мы в долгу перед ранними пользователями."
+      }
+    ]
+  },
+  {
+    "word": "in demand",
+    "lemma": "in demand",
+    "level": "b1",
+    "tr": "востребован",
+    "colloc": "in demand",
+    "pattern": "be in demand",
+    "note": "",
+    "examples": [
+      {
+        "en": "Backend engineers are in demand.",
+        "ru": "Бэкенд-инженеры востребованы."
+      },
+      {
+        "en": "The skill is in high demand.",
+        "ru": "Навык очень востребован."
+      },
+      {
+        "en": "Keep products that are in demand.",
+        "ru": "Держи товары, которые в спросе."
+      }
+    ]
+  },
+  {
+    "word": "in favor of",
+    "lemma": "in favor of",
+    "level": "b1",
+    "tr": "в пользу",
+    "colloc": "in favor of · in favour of",
+    "pattern": "in favor of + N",
+    "note": "AmE spelling; BrE favour.",
+    "examples": [
+      {
+        "en": "I'm in favor of the delay.",
+        "ru": "Я за отсрочку."
+      },
+      {
+        "en": "Vote in favor of the proposal.",
+        "ru": "Голосуй за предложение."
+      },
+      {
+        "en": "We decided in favor of option A.",
+        "ru": "Решили в пользу варианта A."
+      }
+    ]
+  },
+  {
+    "word": "in favour of",
+    "lemma": "in favour of",
+    "level": "b1",
+    "tr": "в пользу",
+    "colloc": "in favour of",
+    "pattern": "in favour of + N",
+    "note": "BrE spelling.",
+    "examples": [
+      {
+        "en": "The board ruled in favour of the merger.",
+        "ru": "Совет решил в пользу слияния."
+      },
+      {
+        "en": "Arguments in favour of rewrite are weak.",
+        "ru": "Аргументы в пользу рерайта слабы."
+      },
+      {
+        "en": "Step aside in favour of a better candidate.",
+        "ru": "Уступи место лучшему кандидату."
+      }
+    ]
+  },
+  {
+    "word": "for free",
+    "lemma": "for free",
+    "level": "b1",
+    "tr": "бесплатно",
+    "colloc": "for free",
+    "pattern": "for free",
+    "note": "",
+    "examples": [
+      {
+        "en": "The tool is free for open source.",
+        "ru": "Инструмент бесплатен для open source."
+      },
+      {
+        "en": "You get support for free the first month.",
+        "ru": "Поддержка первый месяц бесплатно."
+      },
+      {
+        "en": "Nothing is truly for free.",
+        "ru": "Ничто по-настоящему не бесплатно."
+      }
+    ]
+  },
+  {
+    "word": "for sure",
+    "lemma": "for sure",
+    "level": "b1",
+    "tr": "точно; наверняка",
+    "colloc": "for sure",
+    "pattern": "for sure",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "I'll be there for sure.",
+        "ru": "Точно буду."
+      },
+      {
+        "en": "Is it fixed for sure?",
+        "ru": "Точно починено?"
+      },
+      {
+        "en": "For sure we need tests.",
+        "ru": "Точно нужны тесты."
+      }
+    ]
+  },
+  {
+    "word": "for certain",
+    "lemma": "for certain",
+    "level": "b2",
+    "tr": "наверняка; точно",
+    "colloc": "for certain",
+    "pattern": "for certain",
+    "note": "",
+    "examples": [
+      {
+        "en": "I can't say for certain.",
+        "ru": "Не могу сказать наверняка."
+      },
+      {
+        "en": "We know for certain the disk failed.",
+        "ru": "Точно знаем: диск отказал."
+      },
+      {
+        "en": "Nothing is known for certain yet.",
+        "ru": "Пока ничего не известно наверняка."
+      }
+    ]
+  },
+  {
+    "word": "for a change",
+    "lemma": "for a change",
+    "level": "b1",
+    "tr": "для разнообразия",
+    "colloc": "for a change",
+    "pattern": "for a change",
+    "note": "",
+    "examples": [
+      {
+        "en": "Let's meet offline for a change.",
+        "ru": "Давай для разнообразия офлайн."
+      },
+      {
+        "en": "Ship early for a change.",
+        "ru": "Выкатим рано — для разнообразия."
+      },
+      {
+        "en": "I cooked for a change.",
+        "ru": "Для разнообразия приготовил сам."
+      }
+    ]
+  },
+  {
+    "word": "for good measure",
+    "lemma": "for good measure",
+    "level": "b2",
+    "tr": "для верности; вдобавок",
+    "colloc": "for good measure",
+    "pattern": "for good measure",
+    "note": "",
+    "examples": [
+      {
+        "en": "Add logging for good measure.",
+        "ru": "Для верности добавь логирование."
+      },
+      {
+        "en": "I checked twice for good measure.",
+        "ru": "Перепроверил для верности."
+      },
+      {
+        "en": "They cut costs and, for good measure, headcount.",
+        "ru": "Урезали затраты и вдобавок штат."
+      }
+    ]
+  },
+  {
+    "word": "for real",
+    "lemma": "for real",
+    "level": "b1",
+    "tr": "по-настоящему; серьёзно",
+    "colloc": "for real",
+    "pattern": "for real",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "Are you quitting for real?",
+        "ru": "Ты правда увольняешься?"
+      },
+      {
+        "en": "The outage was for real.",
+        "ru": "Авария была настоящей."
+      },
+      {
+        "en": "I'm happy for real this time.",
+        "ru": "На этот раз я правда рад."
+      }
+    ]
+  },
+  {
+    "word": "under the weather",
+    "lemma": "under the weather",
+    "level": "b2",
+    "tr": "неважно себя чувствует",
+    "colloc": "under the weather",
+    "pattern": "be under the weather",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'm a bit under the weather today.",
+        "ru": "Сегодня немного неважно себя чувствую."
+      },
+      {
+        "en": "She's under the weather — cover her alerts.",
+        "ru": "Ей нездоровится — прикрой её алерты."
+      },
+      {
+        "en": "Don't push if you're under the weather.",
+        "ru": "Не геройствуй, если недомогаешь."
+      }
+    ]
+  },
+  {
+    "word": "under wraps",
+    "lemma": "under wraps",
+    "level": "c1",
+    "tr": "в секрете; под покровом",
+    "colloc": "under wraps · keep under wraps",
+    "pattern": "keep under wraps",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep the launch under wraps.",
+        "ru": "Держи запуск в секрете."
+      },
+      {
+        "en": "The project stayed under wraps for months.",
+        "ru": "Проект месяцами был под покровом."
+      },
+      {
+        "en": "Nothing stays under wraps forever.",
+        "ru": "Ничто не остаётся секретом навсегда."
+      }
+    ]
+  },
+  {
+    "word": "under way",
+    "lemma": "under way",
+    "level": "b2",
+    "tr": "в процессе; идёт",
+    "colloc": "under way · underway",
+    "pattern": "be under way",
+    "note": "Также underway слитно.",
+    "examples": [
+      {
+        "en": "Talks are under way.",
+        "ru": "Переговоры идут."
+      },
+      {
+        "en": "The migration is under way.",
+        "ru": "Миграция в процессе."
+      },
+      {
+        "en": "Get the rollout under way.",
+        "ru": "Запусти раскатку."
+      }
+    ]
+  },
+  {
+    "word": "out of the question",
+    "lemma": "out of the question",
+    "level": "b2",
+    "tr": "исключено; об этом речи нет",
+    "colloc": "out of the question",
+    "pattern": "be out of the question",
+    "note": "",
+    "examples": [
+      {
+        "en": "A rewrite now is out of the question.",
+        "ru": "Рерайт сейчас исключён."
+      },
+      {
+        "en": "Skipping tests is out of the question.",
+        "ru": "Пропуск тестов — об этом речи нет."
+      },
+      {
+        "en": "Sharing keys is out of the question.",
+        "ru": "Шаринг ключей исключён."
+      }
+    ]
+  },
+  {
+    "word": "out of the ordinary",
+    "lemma": "out of the ordinary",
+    "level": "b2",
+    "tr": "необычный",
+    "colloc": "out of the ordinary",
+    "pattern": "out of the ordinary",
+    "note": "",
+    "examples": [
+      {
+        "en": "Nothing out of the ordinary in the logs.",
+        "ru": "В логах ничего необычного."
+      },
+      {
+        "en": "Did you notice anything out of the ordinary?",
+        "ru": "Заметил что-то необычное?"
+      },
+      {
+        "en": "The spike wasn't out of the ordinary for Black Friday.",
+        "ru": "Скачок для Black Friday не был необычным."
+      }
+    ]
+  },
+  {
+    "word": "out of reach",
+    "lemma": "out of reach",
+    "level": "b1",
+    "tr": "недоступен; вне досягаемости",
+    "colloc": "out of reach",
+    "pattern": "be out of reach",
+    "note": "",
+    "examples": [
+      {
+        "en": "The target is out of reach this quarter.",
+        "ru": "Цель в этом квартале недосягаема."
+      },
+      {
+        "en": "Keep medicine out of reach of children.",
+        "ru": "Лекарства — вне досягаемости детей."
+      },
+      {
+        "en": "Premium pricing puts it out of reach.",
+        "ru": "Премиум-цена делает недоступным."
+      }
+    ]
+  },
+  {
+    "word": "out of sight",
+    "lemma": "out of sight",
+    "level": "b1",
+    "tr": "вне поля зрения",
+    "colloc": "out of sight",
+    "pattern": "out of sight",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep secrets out of sight in demos.",
+        "ru": "В демо держи секреты вне поля зрения."
+      },
+      {
+        "en": "The bug was out of sight until prod.",
+        "ru": "Баг был вне поля зрения до прода."
+      },
+      {
+        "en": "Out of sight, out of mind.",
+        "ru": "С глаз долой — из сердца вон."
+      }
+    ]
+  },
+  {
+    "word": "out of luck",
+    "lemma": "out of luck",
+    "level": "b1",
+    "tr": "не повезло",
+    "colloc": "out of luck",
+    "pattern": "be out of luck",
+    "note": "",
+    "examples": [
+      {
+        "en": "If the queue is full, you're out of luck.",
+        "ru": "Если очередь полна — не повезло."
+      },
+      {
+        "en": "We're out of luck — the vendor is closed.",
+        "ru": "Не повезло: вендор закрыт."
+      },
+      {
+        "en": "Sorry, out of luck on that SKU.",
+        "ru": "Извини, по этой позиции не повезло."
+      }
+    ]
+  },
+  {
+    "word": "out of line",
+    "lemma": "out of line",
+    "level": "b2",
+    "tr": "за рамками; неуместно",
+    "colloc": "out of line",
+    "pattern": "be out of line",
+    "note": "",
+    "examples": [
+      {
+        "en": "That comment was out of line.",
+        "ru": "Тот комментарий был за рамками."
+      },
+      {
+        "en": "Don't get out of line with clients.",
+        "ru": "Не выходи за рамки с клиентами."
+      },
+      {
+        "en": "He was way out of line.",
+        "ru": "Он сильно перегнул."
+      }
+    ]
+  },
+  {
+    "word": "out of touch",
+    "lemma": "out of touch",
+    "level": "b2",
+    "tr": "не в курсе; потерял связь",
+    "colloc": "out of touch with",
+    "pattern": "be out of touch",
+    "note": "",
+    "examples": [
+      {
+        "en": "I'm out of touch with mobile trends.",
+        "ru": "Я не в курсе мобильных трендов."
+      },
+      {
+        "en": "Don't get out of touch with users.",
+        "ru": "Не теряй связь с пользователями."
+      },
+      {
+        "en": "Leadership seemed out of touch.",
+        "ru": "Руководство казалось оторванным."
+      }
+    ]
+  },
+  {
+    "word": "in the loop",
+    "lemma": "in the loop",
+    "level": "b2",
+    "tr": "в курсе дел",
+    "colloc": "in the loop · keep in the loop",
+    "pattern": "keep in the loop",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep me in the loop.",
+        "ru": "Держи меня в курсе."
+      },
+      {
+        "en": "Legal needs to stay in the loop.",
+        "ru": "Юристы должны быть в курсе."
+      },
+      {
+        "en": "I wasn't in the loop on that change.",
+        "ru": "Я не был в курсе того изменения."
+      }
+    ]
+  },
+  {
+    "word": "out of the loop",
+    "lemma": "out of the loop",
+    "level": "b2",
+    "tr": "не в курсе",
+    "colloc": "out of the loop",
+    "pattern": "be out of the loop",
+    "note": "",
+    "examples": [
+      {
+        "en": "I felt out of the loop after leave.",
+        "ru": "После отпуска чувствовал себя не в курсе."
+      },
+      {
+        "en": "Don't leave QA out of the loop.",
+        "ru": "Не оставляй QA вне курса дел."
+      },
+      {
+        "en": "Sorry I was out of the loop.",
+        "ru": "Извини, был не в курсе."
+      }
+    ]
+  },
+  {
+    "word": "in the dark",
+    "lemma": "in the dark",
+    "level": "b2",
+    "tr": "в неведении",
+    "colloc": "in the dark · keep in the dark",
+    "pattern": "be/keep in the dark",
+    "note": "",
+    "examples": [
+      {
+        "en": "We were kept in the dark about the sale.",
+        "ru": "Нас держали в неведении о продаже."
+      },
+      {
+        "en": "Don't leave the team in the dark.",
+        "ru": "Не оставляй команду в неведении."
+      },
+      {
+        "en": "I'm still in the dark on timelines.",
+        "ru": "Я всё ещё в неведении по срокам."
+      }
+    ]
+  },
+  {
+    "word": "in the clear",
+    "lemma": "in the clear",
+    "level": "b2",
+    "tr": "вне опасности; чист",
+    "colloc": "in the clear",
+    "pattern": "be in the clear",
+    "note": "",
+    "examples": [
+      {
+        "en": "After the audit we're in the clear.",
+        "ru": "После аудита мы чисты."
+      },
+      {
+        "en": "Once tests pass you're in the clear.",
+        "ru": "Как тесты пройдут — ты в безопасности."
+      },
+      {
+        "en": "Is legal in the clear?",
+        "ru": "Юристы всё ок?"
+      }
+    ]
+  },
+  {
+    "word": "in the works",
+    "lemma": "in the works",
+    "level": "b2",
+    "tr": "в разработке; готовится",
+    "colloc": "in the works",
+    "pattern": "be in the works",
+    "note": "",
+    "examples": [
+      {
+        "en": "A redesign is in the works.",
+        "ru": "Редизайн в разработке."
+      },
+      {
+        "en": "Something big is in the works.",
+        "ru": "Готовится что-то большое."
+      },
+      {
+        "en": "Patches are already in the works.",
+        "ru": "Патчи уже готовятся."
+      }
+    ]
+  },
+  {
+    "word": "in the pipeline",
+    "lemma": "in the pipeline",
+    "level": "b2",
+    "tr": "в планах; в работе",
+    "colloc": "in the pipeline",
+    "pattern": "be in the pipeline",
+    "note": "",
+    "examples": [
+      {
+        "en": "Several features are in the pipeline.",
+        "ru": "Несколько фич в пайплайне."
+      },
+      {
+        "en": "What's in the pipeline for Q4?",
+        "ru": "Что в планах на Q4?"
+      },
+      {
+        "en": "Hiring is in the pipeline.",
+        "ru": "Найм в работе."
+      }
+    ]
+  },
+  {
+    "word": "in the cards",
+    "lemma": "in the cards",
+    "level": "c1",
+    "tr": "вероятно; намечается",
+    "colloc": "in the cards",
+    "pattern": "be in the cards",
+    "note": "",
+    "examples": [
+      {
+        "en": "A raise isn't in the cards this year.",
+        "ru": "Повышение в этом году не намечается."
+      },
+      {
+        "en": "Is a merger in the cards?",
+        "ru": "Слияние вероятно?"
+      },
+      {
+        "en": "Layoffs may be in the cards.",
+        "ru": "Сокращения могут быть вероятны."
+      }
+    ]
+  },
+  {
+    "word": "in the long term",
+    "lemma": "in the long term",
+    "level": "b2",
+    "tr": "в долгосрочной перспективе",
+    "colloc": "in the long term",
+    "pattern": "in the long term",
+    "note": "Рядом с in the long run из discourse, но другая формула.",
+    "examples": [
+      {
+        "en": "In the long term this saves money.",
+        "ru": "В долгосрочной перспективе это экономит."
+      },
+      {
+        "en": "Think in the long term.",
+        "ru": "Думай долгосрочно."
+      },
+      {
+        "en": "In the long term users win.",
+        "ru": "В долгосрочной перспективе выигрывают пользователи."
+      }
+    ]
+  },
+  {
+    "word": "in the short term",
+    "lemma": "in the short term",
+    "level": "b2",
+    "tr": "в краткосрочной перспективе",
+    "colloc": "in the short term",
+    "pattern": "in the short term",
+    "note": "",
+    "examples": [
+      {
+        "en": "In the short term we'll patch.",
+        "ru": "В краткосрочной перспективе поставим патч."
+      },
+      {
+        "en": "Painful in the short term, better later.",
+        "ru": "Больно сейчас — лучше потом."
+      },
+      {
+        "en": "In the short term hire contractors.",
+        "ru": "Кратковременно найми контракторов."
+      }
+    ]
+  },
+  {
+    "word": "for the long haul",
+    "lemma": "for the long haul",
+    "level": "c1",
+    "tr": "надолго; всерьёз и надолго",
+    "colloc": "for the long haul",
+    "pattern": "for the long haul",
+    "note": "",
+    "examples": [
+      {
+        "en": "We're in this for the long haul.",
+        "ru": "Мы здесь всерьёз и надолго."
+      },
+      {
+        "en": "Choose tools for the long haul.",
+        "ru": "Выбирай инструменты надолго."
+      },
+      {
+        "en": "Investors stayed for the long haul.",
+        "ru": "Инвесторы остались надолго."
+      }
+    ]
+  },
+  {
+    "word": "at a glance",
+    "lemma": "at a glance",
+    "level": "b2",
+    "tr": "с первого взгляда; одним взглядом",
+    "colloc": "at a glance",
+    "pattern": "at a glance",
+    "note": "",
+    "examples": [
+      {
+        "en": "You can see health at a glance.",
+        "ru": "Здоровье видно с первого взгляда."
+      },
+      {
+        "en": "The dashboard shows KPIs at a glance.",
+        "ru": "Дашборд показывает KPI одним взглядом."
+      },
+      {
+        "en": "At a glance the PR looks fine.",
+        "ru": "С первого взгляда PR нормальный."
+      }
+    ]
+  },
+  {
+    "word": "at a stretch",
+    "lemma": "at a stretch",
+    "level": "b2",
+    "tr": "подряд; максимум",
+    "colloc": "at a stretch",
+    "pattern": "at a stretch",
+    "note": "",
+    "examples": [
+      {
+        "en": "I can focus for two hours at a stretch.",
+        "ru": "Могу сосредоточиться два часа подряд."
+      },
+      {
+        "en": "Three days at a stretch is too much.",
+        "ru": "Три дня подряд — слишком."
+      },
+      {
+        "en": "At a stretch we might hit Friday.",
+        "ru": "В лучшем случае можем успеть к пятнице."
+      }
+    ]
+  },
+  {
+    "word": "at face value",
+    "lemma": "at face value",
+    "level": "b2",
+    "tr": "за чистую монету",
+    "colloc": "at face value · take at face value",
+    "pattern": "take at face value",
+    "note": "",
+    "examples": [
+      {
+        "en": "Don't take marketing at face value.",
+        "ru": "Не принимай маркетинг за чистую монету."
+      },
+      {
+        "en": "Take the metric at face value with care.",
+        "ru": "Метрику за чистую монету — осторожно."
+      },
+      {
+        "en": "I took his apology at face value.",
+        "ru": "Я принял извинение за чистую монету."
+      }
+    ]
+  },
+  {
+    "word": "at length",
+    "lemma": "at length",
+    "level": "c1",
+    "tr": "подробно; долго",
+    "colloc": "at length",
+    "pattern": "at length",
+    "note": "",
+    "examples": [
+      {
+        "en": "We discussed the risk at length.",
+        "ru": "Мы подробно обсудили риск."
+      },
+      {
+        "en": "She spoke at length about culture.",
+        "ru": "Она долго говорила о культуре."
+      },
+      {
+        "en": "The postmortem covers it at length.",
+        "ru": "Постмортем освещает это подробно."
+      }
+    ]
+  },
+  {
+    "word": "in depth",
+    "lemma": "in depth",
+    "level": "b2",
+    "tr": "глубоко; подробно",
+    "colloc": "in depth · in-depth",
+    "pattern": "in depth",
+    "note": "",
+    "examples": [
+      {
+        "en": "We analyzed the incident in depth.",
+        "ru": "Мы глубоко разобрали инцидент."
+      },
+      {
+        "en": "An in-depth review is needed.",
+        "ru": "Нужно глубокое ревью."
+      },
+      {
+        "en": "Cover security in depth.",
+        "ru": "Освети безопасность подробно."
+      }
+    ]
+  },
+  {
+    "word": "in full",
+    "lemma": "in full",
+    "level": "b1",
+    "tr": "полностью",
+    "colloc": "in full",
+    "pattern": "in full",
+    "note": "",
+    "examples": [
+      {
+        "en": "Pay the invoice in full.",
+        "ru": "Оплати счёт полностью."
+      },
+      {
+        "en": "Read the license in full.",
+        "ru": "Прочитай лицензию полностью."
+      },
+      {
+        "en": "Refunded in full within days.",
+        "ru": "Полный возврат за несколько дней."
+      }
+    ]
+  },
+  {
+    "word": "in part",
+    "lemma": "in part",
+    "level": "b2",
+    "tr": "частично",
+    "colloc": "in part",
+    "pattern": "in part",
+    "note": "",
+    "examples": [
+      {
+        "en": "The outage was caused in part by a bad deploy.",
+        "ru": "Авария частично из-за плохого деплоя."
+      },
+      {
+        "en": "I agree in part.",
+        "ru": "Частично согласен."
+      },
+      {
+        "en": "Success was in part luck.",
+        "ru": "Успех частично удача."
+      }
+    ]
+  }
+]

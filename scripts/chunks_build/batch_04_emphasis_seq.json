@@ -1,0 +1,1014 @@
+[
+  {
+    "word": "the thing is",
+    "lemma": "the thing is",
+    "level": "b1",
+    "tr": "дело в том что",
+    "colloc": "the thing is",
+    "pattern": "The thing is, …",
+    "note": "Разговорный фокус.",
+    "examples": [
+      {
+        "en": "The thing is, we don't own the data.",
+        "ru": "Дело в том, что данные не наши."
+      },
+      {
+        "en": "I'd help — the thing is, I'm on call.",
+        "ru": "Я бы помог — дело в том, что я дежурю."
+      },
+      {
+        "en": "The thing is nobody tested mobile.",
+        "ru": "Дело в том, что мобилку никто не тестировал."
+      }
+    ]
+  },
+  {
+    "word": "the point is",
+    "lemma": "the point is",
+    "level": "b1",
+    "tr": "суть в том что",
+    "colloc": "the point is",
+    "pattern": "The point is …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The point is we need a decision.",
+        "ru": "Суть в том, что нужно решение."
+      },
+      {
+        "en": "I get the details — the point is urgency.",
+        "ru": "Детали понятны — суть в срочности."
+      },
+      {
+        "en": "The point is users can't finish checkout.",
+        "ru": "Суть в том, что пользователи не могут завершить оплату."
+      }
+    ]
+  },
+  {
+    "word": "the fact is",
+    "lemma": "the fact is",
+    "level": "b1",
+    "tr": "факт в том что",
+    "colloc": "the fact is",
+    "pattern": "The fact is …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The fact is we shipped without tests.",
+        "ru": "Факт в том, что выкатили без тестов."
+      },
+      {
+        "en": "The fact is latency is still high.",
+        "ru": "Факт в том, что задержка всё ещё высокая."
+      },
+      {
+        "en": "Like it or not, the fact is we're late.",
+        "ru": "Нравится или нет — факт в том, что мы опаздываем."
+      }
+    ]
+  },
+  {
+    "word": "the trouble is",
+    "lemma": "the trouble is",
+    "level": "b1",
+    "tr": "проблема в том что",
+    "colloc": "the trouble is",
+    "pattern": "The trouble is …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The trouble is the vendor is offline.",
+        "ru": "Проблема в том, что вендор недоступен."
+      },
+      {
+        "en": "I'd restart it — the trouble is it's stateful.",
+        "ru": "Я бы перезапустил — проблема в том, что он stateful."
+      },
+      {
+        "en": "The trouble is nobody reads the runbook.",
+        "ru": "Проблема в том, что ранбук никто не читает."
+      }
+    ]
+  },
+  {
+    "word": "here's the thing",
+    "lemma": "here's the thing",
+    "level": "b2",
+    "tr": "вот в чём дело",
+    "colloc": "here's the thing",
+    "pattern": "Here's the thing: …",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "Here's the thing: the cache never warmed.",
+        "ru": "Вот в чём дело: кэш так и не прогрелся."
+      },
+      {
+        "en": "I'd agree, but here's the thing.",
+        "ru": "Я бы согласился, но вот в чём дело."
+      },
+      {
+        "en": "Here's the thing — we lack staging.",
+        "ru": "Вот в чём дело — нет staging."
+      }
+    ]
+  },
+  {
+    "word": "make no mistake",
+    "lemma": "make no mistake",
+    "level": "b2",
+    "tr": "не обманывайтесь; не ошибитесь",
+    "colloc": "make no mistake",
+    "pattern": "Make no mistake: …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Make no mistake: this will be hard.",
+        "ru": "Не обманывайтесь: будет сложно."
+      },
+      {
+        "en": "Make no mistake, competitors are watching.",
+        "ru": "Не ошибитесь — конкуренты смотрят."
+      },
+      {
+        "en": "Make no mistake about it — quality slipped.",
+        "ru": "Не обманывайтесь — качество просело."
+      }
+    ]
+  },
+  {
+    "word": "rest assured",
+    "lemma": "rest assured",
+    "level": "b2",
+    "tr": "можете не сомневаться",
+    "colloc": "rest assured",
+    "pattern": "Rest assured, …",
+    "note": "Немного формальный / успокаивающий.",
+    "examples": [
+      {
+        "en": "Rest assured, we'll fix it today.",
+        "ru": "Можете не сомневаться — починим сегодня."
+      },
+      {
+        "en": "Rest assured the data is encrypted.",
+        "ru": "Можете быть уверены: данные зашифрованы."
+      },
+      {
+        "en": "Rest assured, I'll follow up.",
+        "ru": "Можете не сомневаться — я продолжу."
+      }
+    ]
+  },
+  {
+    "word": "bear in mind",
+    "lemma": "bear in mind",
+    "level": "b1",
+    "tr": "иметь в виду",
+    "colloc": "bear in mind",
+    "pattern": "bear in mind (that) …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Bear in mind the timezone difference.",
+        "ru": "Имей в виду разницу часовых поясов."
+      },
+      {
+        "en": "Bear in mind that caches expire.",
+        "ru": "Имей в виду, что кэш истекает."
+      },
+      {
+        "en": "Please bear in mind the legal review.",
+        "ru": "Пожалуйста, учтите юридическое ревью."
+      }
+    ]
+  },
+  {
+    "word": "keep in mind",
+    "lemma": "keep in mind",
+    "level": "b1",
+    "tr": "иметь в виду; помнить",
+    "colloc": "keep in mind",
+    "pattern": "keep in mind (that) …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Keep in mind that free tiers have limits.",
+        "ru": "Помни, что у бесплатных тарифов есть лимиты."
+      },
+      {
+        "en": "Keep this in mind when you estimate.",
+        "ru": "Имей это в виду при оценке."
+      },
+      {
+        "en": "Keep in mind mobile users are majority.",
+        "ru": "Помни: мобильных пользователей большинство."
+      }
+    ]
+  },
+  {
+    "word": "take into account",
+    "lemma": "take into account",
+    "level": "b1",
+    "tr": "учитывать",
+    "colloc": "take into account",
+    "pattern": "take X into account / take into account + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Take into account peak traffic.",
+        "ru": "Учти пиковый трафик."
+      },
+      {
+        "en": "We didn't take edge cases into account.",
+        "ru": "Мы не учли краевые случаи."
+      },
+      {
+        "en": "Take into account the review time.",
+        "ru": "Учти время на ревью."
+      }
+    ]
+  },
+  {
+    "word": "take into consideration",
+    "lemma": "take into consideration",
+    "level": "b2",
+    "tr": "принимать во внимание",
+    "colloc": "take into consideration",
+    "pattern": "take into consideration",
+    "note": "",
+    "examples": [
+      {
+        "en": "Take into consideration the support load.",
+        "ru": "Прими во внимание нагрузку на поддержку."
+      },
+      {
+        "en": "All factors were taken into consideration.",
+        "ru": "Все факторы были учтены."
+      },
+      {
+        "en": "Please take this into consideration.",
+        "ru": "Пожалуйста, примите это во внимание."
+      }
+    ]
+  },
+  {
+    "word": "it goes without saying",
+    "lemma": "it goes without saying",
+    "level": "b2",
+    "tr": "само собой разумеется",
+    "colloc": "it goes without saying",
+    "pattern": "It goes without saying (that) …",
+    "note": "",
+    "examples": [
+      {
+        "en": "It goes without saying that backups matter.",
+        "ru": "Само собой разумеется, что бэкапы важны."
+      },
+      {
+        "en": "It goes without saying we need tests.",
+        "ru": "Само собой — нужны тесты."
+      },
+      {
+        "en": "Security, it goes without saying, comes first.",
+        "ru": "Безопасность, само собой, на первом месте."
+      }
+    ]
+  },
+  {
+    "word": "first and foremost",
+    "lemma": "first and foremost",
+    "level": "b2",
+    "tr": "прежде всего",
+    "colloc": "first and foremost",
+    "pattern": "First and foremost, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "First and foremost, we need stability.",
+        "ru": "Прежде всего нужна стабильность."
+      },
+      {
+        "en": "First and foremost, thank the on-call team.",
+        "ru": "Прежде всего — спасибо дежурным."
+      },
+      {
+        "en": "First and foremost fix the data loss.",
+        "ru": "Прежде всего устрани потерю данных."
+      }
+    ]
+  },
+  {
+    "word": "last but not least",
+    "lemma": "last but not least",
+    "level": "b2",
+    "tr": "последнее по счёту, но не по важности",
+    "colloc": "last but not least",
+    "pattern": "Last but not least, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Last but not least, update the docs.",
+        "ru": "И наконец, но не менее важно — обнови доки."
+      },
+      {
+        "en": "Last but not least, thanks to QA.",
+        "ru": "И последнее по счёту, но не по важности — спасибо QA."
+      },
+      {
+        "en": "Last but not least comes monitoring.",
+        "ru": "И наконец — мониторинг."
+      }
+    ]
+  },
+  {
+    "word": "not to mention",
+    "lemma": "not to mention",
+    "level": "b1",
+    "tr": "не говоря уж о",
+    "colloc": "not to mention",
+    "pattern": "…, not to mention …",
+    "note": "",
+    "examples": [
+      {
+        "en": "The UI is slow, not to mention the crashes.",
+        "ru": "UI медленный, не говоря уж о крашах."
+      },
+      {
+        "en": "Not to mention the legal risk.",
+        "ru": "Не говоря уж о юридическом риске."
+      },
+      {
+        "en": "Costs rose, not to mention headcount.",
+        "ru": "Затраты выросли, не говоря уж о штате."
+      }
+    ]
+  },
+  {
+    "word": "let alone",
+    "lemma": "let alone",
+    "level": "b2",
+    "tr": "не говоря уж о; тем более не",
+    "colloc": "let alone",
+    "pattern": "…, let alone …",
+    "note": "После отрицания / недостаточности.",
+    "examples": [
+      {
+        "en": "We can't hire juniors, let alone seniors.",
+        "ru": "Не можем нанять джунов, не говоря уж о сеньорах."
+      },
+      {
+        "en": "I can't run a mile, let alone a marathon.",
+        "ru": "Не могу пробежать милю, тем более марафон."
+      },
+      {
+        "en": "There's no staging, let alone load tests.",
+        "ru": "Нет staging, не говоря уж о нагрузочных тестах."
+      }
+    ]
+  },
+  {
+    "word": "never mind",
+    "lemma": "never mind",
+    "level": "b1",
+    "tr": "не важно; не говоря уж",
+    "colloc": "never mind",
+    "pattern": "Never mind …",
+    "note": "Два смысла: «неважно» и «не говоря уж».",
+    "examples": [
+      {
+        "en": "Never mind the typo — fix the logic.",
+        "ru": "Не важно опечатка — чини логику."
+      },
+      {
+        "en": "I can't afford a laptop, never mind a server.",
+        "ru": "Не могу позволить ноутбук, не говоря уж о сервере."
+      },
+      {
+        "en": "Never mind — I figured it out.",
+        "ru": "Не важно — я разобрался."
+      }
+    ]
+  },
+  {
+    "word": "all the more",
+    "lemma": "all the more",
+    "level": "b2",
+    "tr": "тем более",
+    "colloc": "all the more",
+    "pattern": "all the more + adj / all the more reason",
+    "note": "",
+    "examples": [
+      {
+        "en": "That makes it all the more urgent.",
+        "ru": "Это делает это тем более срочным."
+      },
+      {
+        "en": "All the more reason to add tests.",
+        "ru": "Тем более повод добавить тесты."
+      },
+      {
+        "en": "I'm all the more convinced now.",
+        "ru": "Теперь я тем более убеждён."
+      }
+    ]
+  },
+  {
+    "word": "if only",
+    "lemma": "if only",
+    "level": "b1",
+    "tr": "если бы только",
+    "colloc": "if only",
+    "pattern": "If only …",
+    "note": "",
+    "examples": [
+      {
+        "en": "If only we had more time.",
+        "ru": "Если бы только было больше времени."
+      },
+      {
+        "en": "If only the logs were clearer.",
+        "ru": "Если бы только логи были понятнее."
+      },
+      {
+        "en": "If only I'd checked staging first.",
+        "ru": "Если бы только я сначала проверил staging."
+      }
+    ]
+  },
+  {
+    "word": "nothing but",
+    "lemma": "nothing but",
+    "level": "b1",
+    "tr": "только; ничего кроме",
+    "colloc": "nothing but",
+    "pattern": "nothing but + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "It was nothing but excuses.",
+        "ru": "Это были одни оправдания."
+      },
+      {
+        "en": "We got nothing but timeouts.",
+        "ru": "Получили одни таймауты."
+      },
+      {
+        "en": "She's nothing but helpful.",
+        "ru": "Она только и делает, что помогает."
+      }
+    ]
+  },
+  {
+    "word": "anything but",
+    "lemma": "anything but",
+    "level": "b2",
+    "tr": "всё что угодно кроме; отнюдь не",
+    "colloc": "anything but",
+    "pattern": "anything but + adj/N",
+    "note": "Ложный друг: не «что угодно включая».",
+    "examples": [
+      {
+        "en": "The launch was anything but smooth.",
+        "ru": "Запуск был отнюдь не гладким."
+      },
+      {
+        "en": "He's anything but lazy.",
+        "ru": "Он отнюдь не ленивый."
+      },
+      {
+        "en": "Choose anything but that vendor.",
+        "ru": "Выбери что угодно, только не того вендора."
+      }
+    ]
+  },
+  {
+    "word": "when it comes to",
+    "lemma": "when it comes to",
+    "level": "b1",
+    "tr": "когда речь о; что касается",
+    "colloc": "when it comes to",
+    "pattern": "when it comes to + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "When it comes to security, no shortcuts.",
+        "ru": "Когда речь о безопасности — без сокращений."
+      },
+      {
+        "en": "She's strict when it comes to deadlines.",
+        "ru": "Она строга, когда речь о дедлайнах."
+      },
+      {
+        "en": "When it comes to UX, details matter.",
+        "ru": "Что касается UX — детали важны."
+      }
+    ]
+  },
+  {
+    "word": "speaking of",
+    "lemma": "speaking of",
+    "level": "b1",
+    "tr": "кстати о; раз уж о",
+    "colloc": "speaking of · speaking of which",
+    "pattern": "Speaking of + N",
+    "note": "",
+    "examples": [
+      {
+        "en": "Speaking of backups, did we test restore?",
+        "ru": "Раз уж о бэкапах — тестировали restore?"
+      },
+      {
+        "en": "Speaking of deadlines, Friday is firm.",
+        "ru": "Кстати о дедлайнах — пятница жёсткая."
+      },
+      {
+        "en": "Speaking of which, who's on call?",
+        "ru": "Кстати об этом — кто дежурит?"
+      }
+    ]
+  },
+  {
+    "word": "talking of",
+    "lemma": "talking of",
+    "level": "b2",
+    "tr": "раз уж речь о",
+    "colloc": "talking of",
+    "pattern": "Talking of + N",
+    "note": "Британский вариант speaking of.",
+    "examples": [
+      {
+        "en": "Talking of holidays, I'm off next week.",
+        "ru": "Раз уж о отпусках — я на следующей вне."
+      },
+      {
+        "en": "Talking of bugs, this one's nasty.",
+        "ru": "Раз уж о багах — этот злой."
+      },
+      {
+        "en": "Talking of scale, do we need sharding?",
+        "ru": "Раз уж о масштабе — нужен шардинг?"
+      }
+    ]
+  },
+  {
+    "word": "by the way",
+    "lemma": "by the way",
+    "level": "b1",
+    "tr": "кстати",
+    "colloc": "by the way · BTW",
+    "pattern": "By the way, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "By the way, the cert expires tomorrow.",
+        "ru": "Кстати, сертификат истекает завтра."
+      },
+      {
+        "en": "By the way, nice work on the PR.",
+        "ru": "Кстати, отличная работа над PR."
+      },
+      {
+        "en": "I fixed it — by the way, tests pass.",
+        "ru": "Починил — кстати, тесты зелёные."
+      }
+    ]
+  },
+  {
+    "word": "incidentally",
+    "lemma": "incidentally",
+    "level": "b2",
+    "tr": "кстати; между прочим",
+    "colloc": "incidentally",
+    "pattern": "Incidentally, …",
+    "note": "Чуть формальнее by the way.",
+    "examples": [
+      {
+        "en": "Incidentally, the vendor replied.",
+        "ru": "Кстати, вендор ответил."
+      },
+      {
+        "en": "Incidentally, we still need a DPA.",
+        "ru": "Между прочим, DPA всё ещё нужен."
+      },
+      {
+        "en": "The bug is fixed; incidentally, docs too.",
+        "ru": "Баг починен; кстати, и доки."
+      }
+    ]
+  },
+  {
+    "word": "come to think of it",
+    "lemma": "come to think of it",
+    "level": "b2",
+    "tr": "если подумать",
+    "colloc": "come to think of it",
+    "pattern": "Come to think of it, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Come to think of it, we never tested Safari.",
+        "ru": "Если подумать, Safari мы так и не тестировали."
+      },
+      {
+        "en": "Come to think of it, she's right.",
+        "ru": "Если подумать, она права."
+      },
+      {
+        "en": "Come to think of it, the spike started Monday.",
+        "ru": "Если подумать, скачок начался в понедельник."
+      }
+    ]
+  },
+  {
+    "word": "before I forget",
+    "lemma": "before i forget",
+    "level": "b1",
+    "tr": "пока не забыл",
+    "colloc": "before I forget",
+    "pattern": "Before I forget, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Before I forget, rotate the keys.",
+        "ru": "Пока не забыл — ротируй ключи."
+      },
+      {
+        "en": "Before I forget — happy birthday!",
+        "ru": "Пока не забыл — с днём рождения!"
+      },
+      {
+        "en": "Before I forget, attach the logs.",
+        "ru": "Пока не забыл — приложи логи."
+      }
+    ]
+  },
+  {
+    "word": "on that note",
+    "lemma": "on that note",
+    "level": "b2",
+    "tr": "на этой ноте; в связи с этим",
+    "colloc": "on that note",
+    "pattern": "On that note, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "On that note, let's wrap up.",
+        "ru": "На этой ноте давайте завершим."
+      },
+      {
+        "en": "On that note, I'll send the summary.",
+        "ru": "В связи с этим пришлю саммари."
+      },
+      {
+        "en": "On that note, any other risks?",
+        "ru": "На этой ноте — ещё риски?"
+      }
+    ]
+  },
+  {
+    "word": "with this in mind",
+    "lemma": "with this in mind",
+    "level": "b2",
+    "tr": "с учётом этого",
+    "colloc": "with this in mind",
+    "pattern": "With this in mind, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "With this in mind, we chose a safer path.",
+        "ru": "С учётом этого выбрали более безопасный путь."
+      },
+      {
+        "en": "With this in mind, delay the launch.",
+        "ru": "С учётом этого отложи запуск."
+      },
+      {
+        "en": "Design the API with this in mind.",
+        "ru": "Проектируй API с учётом этого."
+      }
+    ]
+  },
+  {
+    "word": "going forward",
+    "lemma": "going forward",
+    "level": "b2",
+    "tr": "в дальнейшем; впредь",
+    "colloc": "going forward",
+    "pattern": "Going forward, …",
+    "note": "Бизнес-клише; уместно в апдейтах.",
+    "examples": [
+      {
+        "en": "Going forward, we'll require reviews.",
+        "ru": "Впредь будем требовать ревью."
+      },
+      {
+        "en": "Going forward, automate deploys.",
+        "ru": "В дальнейшем автоматизируйте деплои."
+      },
+      {
+        "en": "What should we change going forward?",
+        "ru": "Что менять в дальнейшем?"
+      }
+    ]
+  },
+  {
+    "word": "moving on",
+    "lemma": "moving on",
+    "level": "b1",
+    "tr": "далее; перейдём дальше",
+    "colloc": "moving on",
+    "pattern": "Moving on, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "Moving on, let's talk metrics.",
+        "ru": "Далее — поговорим о метриках."
+      },
+      {
+        "en": "Moving on to the next item.",
+        "ru": "Переходим к следующему пункту."
+      },
+      {
+        "en": "Any questions before moving on?",
+        "ru": "Вопросы перед тем как идти дальше?"
+      }
+    ]
+  },
+  {
+    "word": "first of all",
+    "lemma": "first of all",
+    "level": "b1",
+    "tr": "прежде всего; во-первых",
+    "colloc": "first of all",
+    "pattern": "First of all, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "First of all, check the logs.",
+        "ru": "Прежде всего проверь логи."
+      },
+      {
+        "en": "First of all thanks for joining.",
+        "ru": "Прежде всего спасибо, что подключились."
+      },
+      {
+        "en": "First of all we need requirements.",
+        "ru": "Во-первых нужны требования."
+      }
+    ]
+  },
+  {
+    "word": "first things first",
+    "lemma": "first things first",
+    "level": "b1",
+    "tr": "сначала главное",
+    "colloc": "first things first",
+    "pattern": "First things first: …",
+    "note": "",
+    "examples": [
+      {
+        "en": "First things first: reproduce the bug.",
+        "ru": "Сначала главное — воспроизведи баг."
+      },
+      {
+        "en": "First things first, backup the database.",
+        "ru": "Сначала — бэкап базы."
+      },
+      {
+        "en": "Coffee later — first things first.",
+        "ru": "Кофе потом — сначала главное."
+      }
+    ]
+  },
+  {
+    "word": "as follows",
+    "lemma": "as follows",
+    "level": "b2",
+    "tr": "следующим образом",
+    "colloc": "as follows",
+    "pattern": "… as follows",
+    "note": "",
+    "examples": [
+      {
+        "en": "The steps are as follows.",
+        "ru": "Шаги следующие."
+      },
+      {
+        "en": "Configure it as follows.",
+        "ru": "Настрой следующим образом."
+      },
+      {
+        "en": "Our priorities are as follows: reliability, then speed.",
+        "ru": "Приоритеты таковы: надёжность, затем скорость."
+      }
+    ]
+  },
+  {
+    "word": "long story short",
+    "lemma": "long story short",
+    "level": "b1",
+    "tr": "короче говоря",
+    "colloc": "long story short",
+    "pattern": "Long story short, …",
+    "note": "Разговорный.",
+    "examples": [
+      {
+        "en": "Long story short, we rolled back.",
+        "ru": "Короче, мы откатили."
+      },
+      {
+        "en": "Long story short — it worked.",
+        "ru": "Короче говоря — сработало."
+      },
+      {
+        "en": "Long story short, hire another engineer.",
+        "ru": "Короче, найми ещё инженера."
+      }
+    ]
+  },
+  {
+    "word": "to cut a long story short",
+    "lemma": "to cut a long story short",
+    "level": "b2",
+    "tr": "короче говоря",
+    "colloc": "to cut a long story short",
+    "pattern": "To cut a long story short, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "To cut a long story short, we migrated overnight.",
+        "ru": "Короче говоря, мигрировали за ночь."
+      },
+      {
+        "en": "To cut a long story short, the vendor flaked.",
+        "ru": "Короче, вендор слился."
+      },
+      {
+        "en": "To cut a long story short — approve the budget.",
+        "ru": "Короче — одобри бюджет."
+      }
+    ]
+  },
+  {
+    "word": "in a word",
+    "lemma": "in a word",
+    "level": "b2",
+    "tr": "одним словом",
+    "colloc": "in a word",
+    "pattern": "In a word, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "In a word, chaos.",
+        "ru": "Одним словом — хаос."
+      },
+      {
+        "en": "The release was, in a word, solid.",
+        "ru": "Релиз был, одним словом, крепким."
+      },
+      {
+        "en": "In a word: postpone.",
+        "ru": "Одним словом: отложить."
+      }
+    ]
+  },
+  {
+    "word": "all told",
+    "lemma": "all told",
+    "level": "c1",
+    "tr": "в общей сложности; в итоге",
+    "colloc": "all told",
+    "pattern": "All told, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "All told, we lost two days.",
+        "ru": "В общей сложности потеряли два дня."
+      },
+      {
+        "en": "All told the project cost less than planned.",
+        "ru": "В итоге проект стоил меньше плана."
+      },
+      {
+        "en": "There were, all told, fifty bugs.",
+        "ru": "Всего, в общей сложности, пятьдесят багов."
+      }
+    ]
+  },
+  {
+    "word": "at this stage",
+    "lemma": "at this stage",
+    "level": "b2",
+    "tr": "на данном этапе",
+    "colloc": "at this stage",
+    "pattern": "At this stage, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "At this stage we shouldn't optimize.",
+        "ru": "На данном этапе не стоит оптимизировать."
+      },
+      {
+        "en": "It's too early at this stage.",
+        "ru": "На данном этапе слишком рано."
+      },
+      {
+        "en": "At this stage, gather requirements.",
+        "ru": "На данном этапе собери требования."
+      }
+    ]
+  },
+  {
+    "word": "at this point",
+    "lemma": "at this point",
+    "level": "b1",
+    "tr": "на этом этапе; сейчас",
+    "colloc": "at this point",
+    "pattern": "At this point, …",
+    "note": "",
+    "examples": [
+      {
+        "en": "At this point we need help.",
+        "ru": "Сейчас нам нужна помощь."
+      },
+      {
+        "en": "At this point, rollback is safer.",
+        "ru": "На этом этапе безопаснее откат."
+      },
+      {
+        "en": "I'm not sure at this point.",
+        "ru": "На данный момент не уверен."
+      }
+    ]
+  },
+  {
+    "word": "at that point",
+    "lemma": "at that point",
+    "level": "b1",
+    "tr": "в тот момент",
+    "colloc": "at that point",
+    "pattern": "At that point …",
+    "note": "",
+    "examples": [
+      {
+        "en": "At that point we called on-call.",
+        "ru": "В тот момент вызвали дежурного."
+      },
+      {
+        "en": "At that point the disk was full.",
+        "ru": "В тот момент диск был полный."
+      },
+      {
+        "en": "I left at that point.",
+        "ru": "В тот момент я ушёл."
+      }
+    ]
+  },
+  {
+    "word": "at some point",
+    "lemma": "at some point",
+    "level": "b1",
+    "tr": "когда-нибудь; в какой-то момент",
+    "colloc": "at some point",
+    "pattern": "At some point …",
+    "note": "",
+    "examples": [
+      {
+        "en": "At some point we'll need sharding.",
+        "ru": "Когда-нибудь понадобится шардинг."
+      },
+      {
+        "en": "At some point the token expired.",
+        "ru": "В какой-то момент токен истёк."
+      },
+      {
+        "en": "Call me at some point today.",
+        "ru": "Позвони мне сегодня в какой-то момент."
+      }
+    ]
+  },
+  {
+    "word": "at one point",
+    "lemma": "at one point",
+    "level": "b1",
+    "tr": "в какой-то момент",
+    "colloc": "at one point",
+    "pattern": "At one point …",
+    "note": "",
+    "examples": [
+      {
+        "en": "At one point CPU hit 100%.",
+        "ru": "В какой-то момент CPU был 100%."
+      },
+      {
+        "en": "At one point we considered quitting.",
+        "ru": "В какой-то момент думали бросить."
+      },
+      {
+        "en": "I lived there at one point.",
+        "ru": "Когда-то я там жил."
+      }
+    ]
+  }
+]
