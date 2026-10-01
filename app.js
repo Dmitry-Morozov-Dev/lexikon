@@ -298,12 +298,7 @@
     }
     host.classList.remove('hidden');
     var lemma = (card.lemma || word).trim();
-    var links = [
-      { label: 'Google', href: 'https://www.google.com/search?q=' + encodeURIComponent('define ' + word) },
-      { label: 'Reverso', href: 'https://context.reverso.net/translation/english-russian/' + encodeURIComponent(word) },
-      { label: 'YouGlish', href: 'https://youglish.com/pronounce/' + encodeURIComponent(word) + '/english/us' },
-      { label: 'Cambridge', href: 'https://dictionary.cambridge.org/dictionary/english/' + encodeURIComponent(lemma || word) }
-    ];
+    var links = buildExtLinks(word, lemma);
     links.forEach(function (L) {
       var a = document.createElement('a');
       a.className = 'ext-pill';
@@ -420,6 +415,133 @@
       list = list.concat(state.deckCards[id]);
     });
     return list.concat(state.ownCards);
+  }
+
+  function isUserOwnedSource(source) {
+    return source === 'own' || source === 'csv' || source === 'pdf' || !source;
+  }
+
+  /** Свои / CSV / PDF (с participate документа). */
+  async function loadOwnCards() {
+    var all = await LexDB.getAllCards();
+    var docs = await LexDB.getAllDocuments();
+    var partMap = {};
+    docs.forEach(function (d) {
+      partMap[d.id] = d.participate !== false;
+    });
+    state.ownCards = all.filter(function (c) {
+      if (c.source === 'own' || c.source === 'csv' || !c.source) return true;
+      if (c.source === 'pdf') {
+        return !!c.docId && partMap[c.docId] === true;
+      }
+      return false;
+    });
+    return state.ownCards;
+  }
+
+  function lemmaCandidates(surface) {
+    var w = String(surface || '').toLowerCase().trim();
+    if (!w) return [];
+    var out = [w];
+    if (w.length > 4 && w.slice(-3) === 'ies') out.push(w.slice(0, -3) + 'y');
+    if (w.length > 3 && w.slice(-2) === 'es') out.push(w.slice(0, -2));
+    if (w.length > 2 && w.slice(-1) === 's' && w.slice(-2) !== 'ss') out.push(w.slice(0, -1));
+    if (w.length > 5 && w.slice(-3) === 'ing') {
+      out.push(w.slice(0, -3));
+      out.push(w.slice(0, -3) + 'e');
+    }
+    if (w.length > 3 && w.slice(-2) === 'ed') {
+      out.push(w.slice(0, -2));
+      out.push(w.slice(0, -1));
+    }
+    var seen = {};
+    return out.filter(function (x) {
+      if (!x || seen[x]) return false;
+      seen[x] = true;
+      return true;
+    });
+  }
+
+  /**
+   * Поиск карточки в загруженных колодах + own/pdf.
+   * Возвращает { card, match: 'lemma'|'word' } или null.
+   */
+  function lookupInLexicon(surface) {
+    var cands = lemmaCandidates(surface);
+    if (!cands.length) return null;
+    var all = allLoadedCards();
+    var i, j, c, lem, word;
+    // 1) exact lemma
+    for (i = 0; i < cands.length; i++) {
+      for (j = 0; j < all.length; j++) {
+        c = all[j];
+        lem = String(c.lemma || '').toLowerCase();
+        if (lem && lem === cands[i]) return { card: c, match: 'lemma', query: cands[i] };
+      }
+    }
+    // 2) exact word
+    for (i = 0; i < cands.length; i++) {
+      for (j = 0; j < all.length; j++) {
+        c = all[j];
+        word = String(c.word || '').toLowerCase();
+        if (word && word === cands[i]) return { card: c, match: 'word', query: cands[i] };
+      }
+    }
+    return null;
+  }
+
+  function buildExtLinks(word, lemma) {
+    word = String(word || '').trim();
+    lemma = String(lemma || word).trim();
+    if (!word) return [];
+    return [
+      { label: 'Google', href: 'https://www.google.com/search?q=' + encodeURIComponent('define ' + word) },
+      { label: 'Reverso', href: 'https://context.reverso.net/translation/english-russian/' + encodeURIComponent(word) },
+      { label: 'YouGlish', href: 'https://youglish.com/pronounce/' + encodeURIComponent(word) + '/english/us' },
+      { label: 'Cambridge', href: 'https://dictionary.cambridge.org/dictionary/english/' + encodeURIComponent(lemma || word) }
+    ];
+  }
+
+  async function upsertOwnCardState(card) {
+    var idx = state.ownCards.findIndex(function (c) { return c.id === card.id; });
+    if (card.source === 'pdf') {
+      var doc = card.docId ? await LexDB.getDocument(card.docId) : null;
+      var participates = doc && doc.participate !== false;
+      if (!participates) {
+        if (idx >= 0) state.ownCards.splice(idx, 1);
+        return;
+      }
+    }
+    if (idx >= 0) state.ownCards[idx] = card;
+    else state.ownCards.push(card);
+  }
+
+  function installLexikonBridge() {
+    globalThis.LexikonBridge = {
+      allCards: allLoadedCards,
+      lookup: lookupInLexicon,
+      lemmaCandidates: lemmaCandidates,
+      buildExtLinks: buildExtLinks,
+      toast: toast,
+      putCard: async function (card) {
+        await LexDB.putCard(card);
+        await LexDB.ensureProgress(card.id);
+        await upsertOwnCardState(card);
+        return card;
+      },
+      deleteCard: async function (id) {
+        await LexDB.deleteCard(id);
+        state.ownCards = state.ownCards.filter(function (c) { return c.id !== id; });
+      },
+      ensureProgress: function (id) { return LexDB.ensureProgress(id); },
+      refreshOwnCards: loadOwnCards,
+      onPdfParticipateChange: async function () {
+        await loadOwnCards();
+        if (els.screenToday && els.screenToday.classList.contains('active')) {
+          buildQueue();
+        }
+      }
+    };
   }
 
   function participatingDeckIds() {
@@ -1086,9 +1208,7 @@
       }
     }));
 
-    state.ownCards = (await LexDB.getAllCards()).filter(function (c) {
-      return c.source === 'own' || c.source === 'csv' || !c.source;
-    });
+    await loadOwnCards();
 
     renderDeckList();
   }
@@ -1163,7 +1283,7 @@
         showCard(c);
       });
       actions.appendChild(open);
-      if (c.source === 'own' || c.source === 'csv') {
+      if (c.source === 'own' || c.source === 'csv' || c.source === 'pdf') {
         var del = document.createElement('button');
         del.type = 'button';
         del.className = 'btn btn-ghost';
@@ -1245,7 +1365,7 @@
       '<div class="field"><label>Заметка</label><input id="e-note" value="' + escapeHtml(card.note || '') + '"/></div>' +
       '<div class="field"><label>Картинка</label><input id="e-img" value="' + escapeHtml(card.img || '') + '"/></div>' +
       '<button type="button" class="btn btn-accent btn-block" id="e-save">Сохранить</button>' +
-      (card.source === 'own' || card.source === 'csv'
+      (card.source === 'own' || card.source === 'csv' || card.source === 'pdf'
         ? '<button type="button" class="btn btn-block" id="e-del" style="margin-top:8px;color:var(--again)">Удалить</button>'
         : '<p class="muted" style="margin-top:8px">Встроенная карточка: правка сохранится как своя копия.</p>') +
       '<button type="button" class="btn btn-ghost btn-block" id="e-cancel" style="margin-top:8px">Отмена</button>' +
@@ -1276,8 +1396,18 @@
         toast('Нужны слово и перевод', 'error');
         return;
       }
-      var id = (card.source === 'own' || card.source === 'csv') ? card.id : uid('own');
+      var id = (card.source === 'own' || card.source === 'csv' || card.source === 'pdf') ? card.id : uid('own');
       var saved = await saveOwnCard(Object.assign({}, card, data), id);
+      // PDF: не терять привязку к документу при правке из модалки
+      if (card.source === 'pdf') {
+        saved.source = 'pdf';
+        saved.deckId = card.deckId;
+        saved.docId = card.docId;
+        saved.contextSentence = card.contextSentence || saved.contextSentence;
+        saved.contextSentenceRu = card.contextSentenceRu || saved.contextSentenceRu;
+        await LexDB.putCard(saved);
+        await upsertOwnCardState(saved);
+      }
       // если правили встроенную — прогресс можно перенести
       if (id !== card.id) {
         var p = await LexDB.getProgress(card.id);
@@ -1687,9 +1817,7 @@
       saveSettings();
       applyTheme(state.settings.theme || 'dark');
     }
-    state.ownCards = (await LexDB.getAllCards()).filter(function (c) {
-      return c.source === 'own' || c.source === 'csv' || !c.source;
-    });
+    await loadOwnCards();
     toast('Импорт завершён', 'ok');
     buildQueue();
     renderStats();
@@ -1865,6 +1993,7 @@
     }
     bind();
     registerSW();
+    installLexikonBridge();
     showOnboard(false);
     try {
       await LexDB.open();
