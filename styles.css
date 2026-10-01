@@ -181,6 +181,17 @@ a { color: var(--accent); }
 .vocab-card.swipe-right { transform: translateX(120%) rotate(8deg); opacity: 0; }
 .vocab-card.swipe-left { transform: translateX(-120%) rotate(-8deg); opacity: 0; }
 .vocab-card.dragging { transition: none; }
+.vocab-card.no-transition {
+  transition: none !important;
+  animation: none !important;
+}
+.vocab-card.card-enter {
+  animation: cardEnter 280ms ease;
+}
+@keyframes cardEnter {
+  from { opacity: 0; transform: translateY(12px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
 
 /* Полупрозрачные оттенки свайпа — в палитре успеха/«снова» */
 .vocab-card.tint-know::before,

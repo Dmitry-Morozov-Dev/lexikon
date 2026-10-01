@@ -34,7 +34,10 @@
     current: null,
     revealed: false,
     newShownToday: 0,
-    todayKey: ''
+    todayKey: '',
+    gradingBusy: false,
+    streamUnknown: 0,
+    streamKnown: 0
   };
 
   var els = {};
@@ -145,13 +148,29 @@
     wrap.appendChild(img);
   }
 
+  /** Сбросить оттенки/свайп/инлайн-стили карточки (без leftover tint). */
+  function clearCardChrome(opts) {
+    opts = opts || {};
+    var node = els.card;
+    node.classList.remove('tint-know', 'tint-again', 'swipe-left', 'swipe-right', 'dragging');
+    if (!opts.keepEnter) node.classList.remove('card-enter');
+    node.style.removeProperty('--swipe-tint');
+    if (!opts.keepTransform) node.style.transform = '';
+    if (!opts.keepOpacity) node.style.opacity = '';
+  }
+
   function showCard(card) {
     state.current = card;
     state.revealed = false;
     var node = els.card;
-    node.classList.remove('hidden', 'swipe-left', 'swipe-right', 'dragging');
-    node.style.transform = '';
-    node.style.opacity = '';
+    clearCardChrome({ keepOpacity: true, keepTransform: true, keepEnter: true });
+    node.classList.remove('hidden');
+    // Если не в середине fly→enter, нормализуем видимость
+    if (!node.classList.contains('no-transition')) {
+      node.style.transform = '';
+      node.style.opacity = '';
+      node.classList.remove('card-enter');
+    }
     els.cardWord.textContent = card.word || '';
     els.cardIpa.textContent = card.ipa || '';
     els.cardPos.textContent = card.pos || '';
@@ -177,6 +196,7 @@
     els.todayEmpty.classList.add('hidden');
     els.studyArea.classList.remove('hidden');
     updateSpeakBtn(card.word);
+    updateStreamCounts();
   }
 
   function revealCard() {
@@ -225,96 +245,224 @@
       .map(function (d) { return d.id; });
   }
 
-  async function buildQueue() {
-    var progressList = await LexDB.getAllProgress();
-    var byId = {};
-    progressList.forEach(function (p) { byId[p.id] = p; });
-
+  function studyPool() {
     var part = participatingDeckIds();
     var pool = [];
     part.forEach(function (id) {
       pool = pool.concat(state.deckCards[id] || []);
     });
-    // свои карточки всегда в пуле
-    pool = pool.concat(state.ownCards);
+    return pool.concat(state.ownCards);
+  }
 
-    var due = [];
-    var news = [];
-    var now = Date.now();
+  function updateStreamCounts() {
+    els.todayCounts.textContent =
+      'осталось ' + state.streamUnknown +
+      ' · выучено ' + state.streamKnown +
+      ' · в очереди ' + state.queue.length;
+  }
+
+  function showEmptyStream() {
+    clearCardChrome();
+    els.card.classList.add('hidden');
+    els.card.classList.remove('no-transition');
+    els.gradeRow.classList.add('hidden');
+    els.todayEmpty.classList.remove('hidden');
+    els.btnSpeak.classList.add('hidden');
+    state.current = null;
+    updateStreamCounts();
+  }
+
+  /** Вставить карточку в живую очередь через min..max позиций. */
+  function requeueCard(card, minGap, maxGap) {
+    var gap = minGap + Math.floor(Math.random() * (maxGap - minGap + 1));
+    var at = Math.min(gap, state.queue.length);
+    state.queue.splice(at, 0, card);
+  }
+
+  /**
+   * Бесконечный поток: все невыученные из выбранных колод.
+   * newPerDay не обрывает сессию; legacy state 'review' = выучено.
+   */
+  async function buildQueue() {
+    var progressList = await LexDB.getAllProgress();
+    var byId = {};
+    progressList.forEach(function (p) { byId[p.id] = p; });
+
+    var pool = studyPool();
+    var unknowns = [];
+    var knownCount = 0;
 
     pool.forEach(function (card) {
       var p = byId[card.id];
-      if (!p || p.state === 'new' || (p.repetition === 0 && p.state !== 'learning' && p.state !== 'relearning' && p.state !== 'review')) {
-        news.push(card);
-      } else if (LexSRS.isDue(p, now)) {
-        due.push(card);
+      if (LexSRS.isKnown(p)) {
+        knownCount += 1;
+      } else {
+        unknowns.push(card);
       }
     });
 
-    // Перемешиваем: due и новые из всех выбранных колод вперемешку
-    shuffleInPlace(due);
-    shuffleInPlace(news);
+    shuffleInPlace(unknowns);
+    state.streamUnknown = unknowns.length;
+    state.streamKnown = knownCount;
 
-    // лимит новых
-    var limit = state.settings.newPerDay;
-    var shownKey = 'newShown:' + todayKey();
-    var shown = parseInt(sessionStorage.getItem(shownKey) || '0', 10) || 0;
-    if (limit > 0) {
-      news = news.slice(0, Math.max(0, limit - shown));
-    }
-
-    // Сначала повторы (уже перемешанные), потом новые из разных колод
-    state.queue = due.concat(news);
-    state.newShownToday = shown;
-
-    els.todayCounts.textContent =
-      'Повторы: ' + due.length + ' · Новые: ' + news.length;
+    // Начальная порция очереди (остальное дольём refillQueue)
+    var seed = Math.min(unknowns.length, 24);
+    state.queue = unknowns.slice(0, seed);
 
     if (!state.queue.length) {
-      els.card.classList.add('hidden');
-      els.gradeRow.classList.add('hidden');
-      els.todayEmpty.classList.remove('hidden');
-      els.btnSpeak.classList.add('hidden');
-      state.current = null;
+      showEmptyStream();
       return;
     }
     showCard(state.queue[0]);
   }
 
+  /** Когда очередь редеет — добрать невыученные, которых ещё нет в queue. */
+  async function refillQueue() {
+    if (state.queue.length >= 8) {
+      updateStreamCounts();
+      return;
+    }
+    var progressList = await LexDB.getAllProgress();
+    var byId = {};
+    progressList.forEach(function (p) { byId[p.id] = p; });
+
+    var inQueue = {};
+    state.queue.forEach(function (c) { inQueue[c.id] = true; });
+
+    var pool = studyPool();
+    var knownCount = 0;
+    var unknownTotal = 0;
+    var candidates = [];
+
+    pool.forEach(function (card) {
+      var p = byId[card.id];
+      if (LexSRS.isKnown(p)) {
+        knownCount += 1;
+      } else {
+        unknownTotal += 1;
+        if (!inQueue[card.id]) candidates.push(card);
+      }
+    });
+
+    shuffleInPlace(candidates);
+    var need = Math.max(12 - state.queue.length, 0);
+    if (need > 0 && candidates.length) {
+      state.queue = state.queue.concat(candidates.slice(0, need));
+    }
+    state.streamUnknown = unknownTotal;
+    state.streamKnown = knownCount;
+    updateStreamCounts();
+  }
+
+  function playCardEnter(done) {
+    var node = els.card;
+    node.classList.add('no-transition');
+    node.style.opacity = '0';
+    node.style.transform = '';
+    // Два кадра: снять freeze и запустить вход новой карточки
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () {
+        node.classList.remove('no-transition');
+        node.style.opacity = '';
+        node.classList.remove('card-enter');
+        // force reflow so animation restarts
+        void node.offsetWidth;
+        node.classList.add('card-enter');
+        setTimeout(function () {
+          node.classList.remove('card-enter');
+          if (done) done();
+        }, 300);
+      });
+    });
+  }
+
   async function grade(quality) {
     var card = state.current;
-    if (!card) return;
-    // Свайп и кнопки работают и до «Показать»
+    if (!card || state.gradingBusy) return;
+    state.gradingBusy = true;
 
-    var prog = await LexDB.ensureProgress(card.id);
-    var wasNew = prog.state === 'new';
-    var next = LexSRS.review(prog, quality);
-    await LexDB.putProgress(next);
-    await LexDB.addReview(card.id, quality);
-
-    if (wasNew) {
-      var shownKey = 'newShown:' + todayKey();
-      var shown = (parseInt(sessionStorage.getItem(shownKey) || '0', 10) || 0) + 1;
-      sessionStorage.setItem(shownKey, String(shown));
+    try {
+      var prog = await LexDB.ensureProgress(card.id);
+      var next = LexSRS.review(prog, quality);
+      await LexDB.putProgress(next);
+      await LexDB.addReview(card.id, quality);
+    } catch (e) {
+      state.gradingBusy = false;
+      toast('Не удалось сохранить ответ', 'error');
+      return;
     }
 
-    // swipe visual
+    var node = els.card;
     var dir = quality === 0 || quality === 1 ? 'swipe-left' : 'swipe-right';
-    els.card.classList.add(dir);
-    setTimeout(function () {
-      state.queue.shift();
-      // «Снова»: вернуть карточку в очередь через пару позиций — повтор в этой же сессии
-      if (quality === 0) {
-        var insertAt = Math.min(3, state.queue.length);
-        state.queue.splice(insertAt, 0, card);
+    // Убрать inline drag, оставить tint, запустить вылет
+    node.classList.remove('dragging');
+    node.style.transform = '';
+    node.style.opacity = '';
+    if (quality === 0 || quality === 1) {
+      node.classList.add('tint-again');
+      node.classList.remove('tint-know');
+      if (!node.style.getPropertyValue('--swipe-tint')) {
+        node.style.setProperty('--swipe-tint', '0.32');
       }
-      if (!state.queue.length) {
-        buildQueue();
+    } else {
+      node.classList.add('tint-know');
+      node.classList.remove('tint-again');
+      if (!node.style.getPropertyValue('--swipe-tint')) {
+        node.style.setProperty('--swipe-tint', '0.32');
+      }
+    }
+    node.classList.add(dir);
+
+    setTimeout(async function () {
+      // Заморозить, снять свайп/tint, скрыть — затем новый контент
+      node.classList.add('no-transition');
+      node.classList.remove('swipe-left', 'swipe-right', 'tint-know', 'tint-again', 'dragging');
+      node.style.removeProperty('--swipe-tint');
+      node.style.opacity = '0';
+      node.style.transform = '';
+
+      // Снять текущую из головы очереди
+      if (state.queue.length && state.queue[0] && state.queue[0].id === card.id) {
+        state.queue.shift();
       } else {
-        showCard(state.queue[0]);
+        state.queue = state.queue.filter(function (c) { return c.id !== card.id; });
       }
+
+      // Снова → через 2–5; Трудно → через 6–10; Good/Easy → больше не в потоке
+      if (quality === 0) {
+        requeueCard(card, 2, 5);
+      } else if (quality === 1) {
+        requeueCard(card, 6, 10);
+      }
+
+      await refillQueue();
+
+      if (!state.queue.length) {
+        // Возможно ещё есть невыученные — полная пересборка; иначе пустой экран
+        var progressList = await LexDB.getAllProgress();
+        var byId = {};
+        progressList.forEach(function (p) { byId[p.id] = p; });
+        var left = studyPool().filter(function (c) { return !LexSRS.isKnown(byId[c.id]); });
+        if (left.length) {
+          shuffleInPlace(left);
+          state.queue = left.slice(0, 24);
+          state.streamUnknown = left.length;
+        }
+      }
+
+      if (!state.queue.length) {
+        showEmptyStream();
+        state.gradingBusy = false;
+        refreshStatsQuiet();
+        return;
+      }
+
+      showCard(state.queue[0]);
+      playCardEnter(function () {
+        state.gradingBusy = false;
+      });
       refreshStatsQuiet();
-    }, 240);
+    }, 280);
   }
 
   /* ---- Decks ---- */
@@ -627,13 +775,13 @@
     els.stToday.textContent = String(todayCount);
 
     var learned = progress.filter(function (p) {
-      return p.state === 'review' && p.repetition >= 2;
+      return LexSRS.isKnown(p);
     }).length;
     els.stLearned.textContent = String(learned);
 
     var tmr = startOfTomorrow() + 24 * 60 * 60 * 1000;
     var dueTmr = progress.filter(function (p) {
-      return p.state !== 'new' && p.due > 0 && p.due <= tmr;
+      return !LexSRS.isKnown(p) && p.state !== 'new' && p.due > 0 && p.due <= tmr;
     }).length;
     els.stDueTmr.textContent = String(dueTmr);
 
@@ -734,13 +882,14 @@
     var startX = 0, startY = 0, dx = 0, dy = 0, active = false;
 
     function onStart(x, y) {
-      if (!state.current) return;
+      if (!state.current || state.gradingBusy) return;
       active = true;
       startX = x; startY = y; dx = 0; dy = 0;
       card.classList.add('dragging');
     }
     function clearSwipeTint() {
-      card.classList.remove('tint-know', 'tint-again');
+      // Отмена свайпа: убрать tint, вернуть карточку на место
+      card.classList.remove('tint-know', 'tint-again', 'swipe-left', 'swipe-right');
       card.style.transform = '';
       card.style.opacity = '';
       card.style.removeProperty('--swipe-tint');
