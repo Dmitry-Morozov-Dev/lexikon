@@ -1,0 +1,2602 @@
+[
+  {
+    "word": "abide by",
+    "tr": "соблюдать; придерживаться",
+    "level": "b1"
+  },
+  {
+    "word": "account for",
+    "tr": "объяснять; составлять (долю)",
+    "level": "b2"
+  },
+  {
+    "word": "act on",
+    "tr": "действовать на основе",
+    "level": "b2"
+  },
+  {
+    "word": "act up",
+    "tr": "капризничать; сбоить",
+    "level": "b1"
+  },
+  {
+    "word": "add up",
+    "tr": "сходиться; иметь смысл",
+    "level": "b1"
+  },
+  {
+    "word": "add up to",
+    "tr": "в сумме составлять",
+    "level": "b1"
+  },
+  {
+    "word": "allow for",
+    "tr": "учитывать; предусматривать",
+    "level": "b2"
+  },
+  {
+    "word": "answer back",
+    "tr": "огрызаться",
+    "level": "b1"
+  },
+  {
+    "word": "ask around",
+    "tr": "спрашивать у разных людей",
+    "level": "b1"
+  },
+  {
+    "word": "ask out",
+    "tr": "пригласить на свидание",
+    "level": "a2"
+  },
+  {
+    "word": "back down",
+    "tr": "отступить; сдаться",
+    "level": "b2"
+  },
+  {
+    "word": "back off",
+    "tr": "отступить; отстать",
+    "level": "b1"
+  },
+  {
+    "word": "back up",
+    "tr": "поддерживать; делать резервную копию",
+    "level": "b1"
+  },
+  {
+    "word": "bail out",
+    "tr": "выручать; выходить",
+    "level": "b2"
+  },
+  {
+    "word": "bank on",
+    "tr": "рассчитывать на",
+    "level": "b2"
+  },
+  {
+    "word": "black out",
+    "tr": "терять сознание; затемнять",
+    "level": "b2"
+  },
+  {
+    "word": "blow out",
+    "tr": "задуть; лопнуть",
+    "level": "a2"
+  },
+  {
+    "word": "blow over",
+    "tr": "утихнуть (о скандале)",
+    "level": "b2"
+  },
+  {
+    "word": "blow up",
+    "tr": "взорвать(ся); вспылить",
+    "level": "b1"
+  },
+  {
+    "word": "boil down to",
+    "tr": "сводиться к",
+    "level": "b2"
+  },
+  {
+    "word": "break away",
+    "tr": "оторваться; отколоться",
+    "level": "b2"
+  },
+  {
+    "word": "break down",
+    "tr": "сломаться; дать сбой; разобрать",
+    "level": "b1"
+  },
+  {
+    "word": "break in",
+    "tr": "вломиться; притереть",
+    "level": "b1"
+  },
+  {
+    "word": "break into",
+    "tr": "вломиться; внезапно начать",
+    "level": "b1"
+  },
+  {
+    "word": "break off",
+    "tr": "прервать; отломить",
+    "level": "b2"
+  },
+  {
+    "word": "break out",
+    "tr": "вспыхнуть; сбежать",
+    "level": "b1"
+  },
+  {
+    "word": "break through",
+    "tr": "прорваться",
+    "level": "b2"
+  },
+  {
+    "word": "break up",
+    "tr": "расстаться; разогнать",
+    "level": "b1"
+  },
+  {
+    "word": "bring about",
+    "tr": "вызывать; осуществлять",
+    "level": "b2"
+  },
+  {
+    "word": "bring along",
+    "tr": "привести с собой",
+    "level": "a2"
+  },
+  {
+    "word": "bring back",
+    "tr": "вернуть; напомнить",
+    "level": "a2"
+  },
+  {
+    "word": "bring down",
+    "tr": "свергнуть; снизить",
+    "level": "b2"
+  },
+  {
+    "word": "bring forward",
+    "tr": "перенести на более ранний срок",
+    "level": "b2"
+  },
+  {
+    "word": "bring in",
+    "tr": "вводить; привлекать",
+    "level": "b1"
+  },
+  {
+    "word": "bring out",
+    "tr": "выпускать; выявлять",
+    "level": "b2"
+  },
+  {
+    "word": "bring up",
+    "tr": "поднимать (тему); воспитывать",
+    "level": "b1"
+  },
+  {
+    "word": "brush off",
+    "tr": "отмахнуться",
+    "level": "b2"
+  },
+  {
+    "word": "brush up",
+    "tr": "освежить (знания)",
+    "level": "b2"
+  },
+  {
+    "word": "build up",
+    "tr": "наращивать; укреплять",
+    "level": "b1"
+  },
+  {
+    "word": "bump into",
+    "tr": "случайно встретить",
+    "level": "b1"
+  },
+  {
+    "word": "burn out",
+    "tr": "выгореть",
+    "level": "b2"
+  },
+  {
+    "word": "call back",
+    "tr": "перезвонить",
+    "level": "a2"
+  },
+  {
+    "word": "call off",
+    "tr": "отменить",
+    "level": "b1"
+  },
+  {
+    "word": "call on",
+    "tr": "обратиться к; навестить",
+    "level": "b2"
+  },
+  {
+    "word": "call up",
+    "tr": "позвонить; призвать",
+    "level": "b1"
+  },
+  {
+    "word": "calm down",
+    "tr": "успокоиться",
+    "level": "a2"
+  },
+  {
+    "word": "carry on",
+    "tr": "продолжать",
+    "level": "b1"
+  },
+  {
+    "word": "carry out",
+    "tr": "выполнять; проводить",
+    "level": "b1"
+  },
+  {
+    "word": "catch on",
+    "tr": "прижиться; понять",
+    "level": "b2"
+  },
+  {
+    "word": "catch up",
+    "tr": "догнать",
+    "level": "a2"
+  },
+  {
+    "word": "catch up with",
+    "tr": "настичь; наверстать",
+    "level": "b1"
+  },
+  {
+    "word": "check in",
+    "tr": "зарегистрироваться",
+    "level": "a2"
+  },
+  {
+    "word": "check out",
+    "tr": "освободить номер; проверить",
+    "level": "a2"
+  },
+  {
+    "word": "cheer up",
+    "tr": "подбодрить(ся)",
+    "level": "a2"
+  },
+  {
+    "word": "chip in",
+    "tr": "скинуться; вставить слово",
+    "level": "b2"
+  },
+  {
+    "word": "clean up",
+    "tr": "убрать; навести порядок",
+    "level": "a2"
+  },
+  {
+    "word": "clear up",
+    "tr": "проясниться; убрать",
+    "level": "b1"
+  },
+  {
+    "word": "close down",
+    "tr": "закрыть (насовсем)",
+    "level": "b1"
+  },
+  {
+    "word": "come about",
+    "tr": "случиться",
+    "level": "b2"
+  },
+  {
+    "word": "come across",
+    "tr": "случайно найти; производить впечатление",
+    "level": "b1"
+  },
+  {
+    "word": "come along",
+    "tr": "идти вместе; прогрессировать",
+    "level": "b1"
+  },
+  {
+    "word": "come around",
+    "tr": "одуматься; зайти",
+    "level": "b2"
+  },
+  {
+    "word": "come back",
+    "tr": "вернуться",
+    "level": "a1"
+  },
+  {
+    "word": "come by",
+    "tr": "достать; зайти",
+    "level": "b2"
+  },
+  {
+    "word": "come down",
+    "tr": "снизиться; спуститься",
+    "level": "a2"
+  },
+  {
+    "word": "come down to",
+    "tr": "сводиться к",
+    "level": "b2"
+  },
+  {
+    "word": "come forward",
+    "tr": "выйти вперёд; вызватья",
+    "level": "b2"
+  },
+  {
+    "word": "come into",
+    "tr": "унаследовать; войти",
+    "level": "b2"
+  },
+  {
+    "word": "come off",
+    "tr": "удаться; оторваться",
+    "level": "b2"
+  },
+  {
+    "word": "come on",
+    "tr": "ну же; начинаться",
+    "level": "a2"
+  },
+  {
+    "word": "come out",
+    "tr": "выйти; опубликоваться",
+    "level": "b1"
+  },
+  {
+    "word": "come over",
+    "tr": "зайти; охватить",
+    "level": "b1"
+  },
+  {
+    "word": "come through",
+    "tr": "справиться; пройти",
+    "level": "b2"
+  },
+  {
+    "word": "come up",
+    "tr": "возникнуть; подойти",
+    "level": "b1"
+  },
+  {
+    "word": "come up against",
+    "tr": "столкнуться с",
+    "level": "b2"
+  },
+  {
+    "word": "come up with",
+    "tr": "придумать",
+    "level": "b1"
+  },
+  {
+    "word": "count on",
+    "tr": "рассчитывать на",
+    "level": "b1"
+  },
+  {
+    "word": "cross out",
+    "tr": "вычеркнуть",
+    "level": "a2"
+  },
+  {
+    "word": "cut back",
+    "tr": "сократить",
+    "level": "b2"
+  },
+  {
+    "word": "cut down",
+    "tr": "сократить; срубить",
+    "level": "b1"
+  },
+  {
+    "word": "cut down on",
+    "tr": "сократить потребление",
+    "level": "b1"
+  },
+  {
+    "word": "cut off",
+    "tr": "отключить; обрезать",
+    "level": "b1"
+  },
+  {
+    "word": "cut out",
+    "tr": "вырезать; прекратить",
+    "level": "b1"
+  },
+  {
+    "word": "deal with",
+    "tr": "иметь дело с; решать",
+    "level": "a2"
+  },
+  {
+    "word": "die out",
+    "tr": "вымирать; исчезнуть",
+    "level": "b2"
+  },
+  {
+    "word": "do away with",
+    "tr": "покончить с",
+    "level": "b2"
+  },
+  {
+    "word": "do over",
+    "tr": "переделать",
+    "level": "b2"
+  },
+  {
+    "word": "do up",
+    "tr": "застегнуть; отремонтировать",
+    "level": "b2"
+  },
+  {
+    "word": "do without",
+    "tr": "обойтись без",
+    "level": "b2"
+  },
+  {
+    "word": "dress up",
+    "tr": "нарядиться",
+    "level": "a2"
+  },
+  {
+    "word": "drop by",
+    "tr": "заглянуть",
+    "level": "b1"
+  },
+  {
+    "word": "drop off",
+    "tr": "высадить; заснуть; снизиться",
+    "level": "b1"
+  },
+  {
+    "word": "drop out",
+    "tr": "бросить (учёбу)",
+    "level": "b1"
+  },
+  {
+    "word": "eat out",
+    "tr": "есть вне дома",
+    "level": "a2"
+  },
+  {
+    "word": "end up",
+    "tr": "в итоге оказаться",
+    "level": "b1"
+  },
+  {
+    "word": "face up to",
+    "tr": "признать; смотреть в лицо",
+    "level": "b2"
+  },
+  {
+    "word": "fall apart",
+    "tr": "развалиться",
+    "level": "b1"
+  },
+  {
+    "word": "fall back on",
+    "tr": "опереться на (запасной вариант)",
+    "level": "b2"
+  },
+  {
+    "word": "fall behind",
+    "tr": "отстать",
+    "level": "b1"
+  },
+  {
+    "word": "fall for",
+    "tr": "попасться; влюбиться",
+    "level": "b2"
+  },
+  {
+    "word": "fall out",
+    "tr": "поссориться",
+    "level": "b1"
+  },
+  {
+    "word": "fall through",
+    "tr": "сорваться (о планах)",
+    "level": "b2"
+  },
+  {
+    "word": "figure out",
+    "tr": "понять; разобраться",
+    "level": "b1"
+  },
+  {
+    "word": "fill in",
+    "tr": "заполнить; заместить",
+    "level": "b1"
+  },
+  {
+    "word": "fill out",
+    "tr": "заполнить (бланк)",
+    "level": "a2"
+  },
+  {
+    "word": "fill up",
+    "tr": "наполнить",
+    "level": "a2"
+  },
+  {
+    "word": "find out",
+    "tr": "узнать",
+    "level": "a2"
+  },
+  {
+    "word": "fit in",
+    "tr": "вписаться",
+    "level": "b1"
+  },
+  {
+    "word": "fix up",
+    "tr": "починить",
+    "level": "a2"
+  },
+  {
+    "word": "follow up",
+    "tr": "проследить; сделать follow-up",
+    "level": "b2"
+  },
+  {
+    "word": "freak out",
+    "tr": "впасть в панику",
+    "level": "b1"
+  },
+  {
+    "word": "get across",
+    "tr": "донести (мысль)",
+    "level": "b2"
+  },
+  {
+    "word": "get ahead",
+    "tr": "продвигаться",
+    "level": "b2"
+  },
+  {
+    "word": "get along",
+    "tr": "ладить",
+    "level": "b1"
+  },
+  {
+    "word": "get along with",
+    "tr": "ладить с",
+    "level": "b1"
+  },
+  {
+    "word": "get around",
+    "tr": "передвигаться; обходить",
+    "level": "b2"
+  },
+  {
+    "word": "get at",
+    "tr": "намекать; достать",
+    "level": "b2"
+  },
+  {
+    "word": "get away",
+    "tr": "уйти; сбежать",
+    "level": "a2"
+  },
+  {
+    "word": "get away with",
+    "tr": "выйти сухим из воды",
+    "level": "b2"
+  },
+  {
+    "word": "get back",
+    "tr": "вернуться; вернуть",
+    "level": "a2"
+  },
+  {
+    "word": "get back to",
+    "tr": "ответить позже",
+    "level": "b1"
+  },
+  {
+    "word": "get by",
+    "tr": "сводить концы с концами",
+    "level": "b2"
+  },
+  {
+    "word": "get down",
+    "tr": "записать; расстроить",
+    "level": "b1"
+  },
+  {
+    "word": "get down to",
+    "tr": "приняться за",
+    "level": "b2"
+  },
+  {
+    "word": "get in",
+    "tr": "войти; прибыть",
+    "level": "a2"
+  },
+  {
+    "word": "get off",
+    "tr": "выйти (из транспорта); отделаться",
+    "level": "a2"
+  },
+  {
+    "word": "get on",
+    "tr": "сесть (на транспорт); ладить",
+    "level": "a2"
+  },
+  {
+    "word": "get on with",
+    "tr": "продолжать; ладить с",
+    "level": "b1"
+  },
+  {
+    "word": "get out",
+    "tr": "выйти; выбраться",
+    "level": "a2"
+  },
+  {
+    "word": "get over",
+    "tr": "пережить; оправиться",
+    "level": "b1"
+  },
+  {
+    "word": "get rid of",
+    "tr": "избавиться от",
+    "level": "b1"
+  },
+  {
+    "word": "get through",
+    "tr": "пройти; дозвониться",
+    "level": "b1"
+  },
+  {
+    "word": "get together",
+    "tr": "собраться",
+    "level": "a2"
+  },
+  {
+    "word": "get up",
+    "tr": "встать",
+    "level": "a1"
+  },
+  {
+    "word": "give away",
+    "tr": "раздать; выдать (секрет)",
+    "level": "b1"
+  },
+  {
+    "word": "give back",
+    "tr": "вернуть",
+    "level": "a2"
+  },
+  {
+    "word": "give in",
+    "tr": "сдаться; подать",
+    "level": "b1"
+  },
+  {
+    "word": "give off",
+    "tr": "издавать (запах)",
+    "level": "b2"
+  },
+  {
+    "word": "give out",
+    "tr": "раздать; кончиться",
+    "level": "b1"
+  },
+  {
+    "word": "give up",
+    "tr": "бросить; сдаться",
+    "level": "a2"
+  },
+  {
+    "word": "go ahead",
+    "tr": "действовать; вперёд",
+    "level": "b1"
+  },
+  {
+    "word": "go along with",
+    "tr": "соглашаться с",
+    "level": "b2"
+  },
+  {
+    "word": "go away",
+    "tr": "уйти",
+    "level": "a1"
+  },
+  {
+    "word": "go back",
+    "tr": "вернуться",
+    "level": "a1"
+  },
+  {
+    "word": "go back on",
+    "tr": "нарушить (обещание)",
+    "level": "b2"
+  },
+  {
+    "word": "go by",
+    "tr": "проходить (о времени)",
+    "level": "b1"
+  },
+  {
+    "word": "go down",
+    "tr": "снизиться; быть принятым",
+    "level": "a2"
+  },
+  {
+    "word": "go for",
+    "tr": "выбирать; нападать",
+    "level": "b1"
+  },
+  {
+    "word": "go into",
+    "tr": "вдаваться в; заняться",
+    "level": "b2"
+  },
+  {
+    "word": "go off",
+    "tr": "сработать; испортиться; уйти",
+    "level": "b1"
+  },
+  {
+    "word": "go on",
+    "tr": "продолжать; происходить",
+    "level": "a2"
+  },
+  {
+    "word": "go out",
+    "tr": "выйти; погаснуть",
+    "level": "a1"
+  },
+  {
+    "word": "go over",
+    "tr": "просмотреть; повторить",
+    "level": "b1"
+  },
+  {
+    "word": "go through",
+    "tr": "пройти через; тщательно проверить",
+    "level": "b1"
+  },
+  {
+    "word": "go under",
+    "tr": "обанкротиться",
+    "level": "b2"
+  },
+  {
+    "word": "go up",
+    "tr": "подняться",
+    "level": "a2"
+  },
+  {
+    "word": "go with",
+    "tr": "сочетаться; сопровождать",
+    "level": "b1"
+  },
+  {
+    "word": "go without",
+    "tr": "обходиться без",
+    "level": "b2"
+  },
+  {
+    "word": "grow up",
+    "tr": "вырасти",
+    "level": "a2"
+  },
+  {
+    "word": "hand in",
+    "tr": "сдать",
+    "level": "b1"
+  },
+  {
+    "word": "hand out",
+    "tr": "раздать",
+    "level": "a2"
+  },
+  {
+    "word": "hand over",
+    "tr": "передать",
+    "level": "b2"
+  },
+  {
+    "word": "hang on",
+    "tr": "подождать; держаться",
+    "level": "b1"
+  },
+  {
+    "word": "hang out",
+    "tr": "тусоваться",
+    "level": "b1"
+  },
+  {
+    "word": "hang up",
+    "tr": "повесить трубку",
+    "level": "a2"
+  },
+  {
+    "word": "head for",
+    "tr": "направляться к",
+    "level": "b1"
+  },
+  {
+    "word": "hold back",
+    "tr": "сдерживать; утаивать",
+    "level": "b2"
+  },
+  {
+    "word": "hold on",
+    "tr": "подождать; держаться",
+    "level": "a2"
+  },
+  {
+    "word": "hold out",
+    "tr": "продержаться; протянуть",
+    "level": "b2"
+  },
+  {
+    "word": "hold up",
+    "tr": "задержать; ограбить",
+    "level": "b1"
+  },
+  {
+    "word": "keep at",
+    "tr": "продолжать стараться",
+    "level": "b2"
+  },
+  {
+    "word": "keep away",
+    "tr": "держаться подальше",
+    "level": "b1"
+  },
+  {
+    "word": "keep back",
+    "tr": "удерживать; не рассказывать",
+    "level": "b2"
+  },
+  {
+    "word": "keep down",
+    "tr": "сдерживать; не поднимать",
+    "level": "b2"
+  },
+  {
+    "word": "keep from",
+    "tr": "удерживать от",
+    "level": "b2"
+  },
+  {
+    "word": "keep off",
+    "tr": "не наступать; держаться в стороне",
+    "level": "b1"
+  },
+  {
+    "word": "keep on",
+    "tr": "продолжать",
+    "level": "b1"
+  },
+  {
+    "word": "keep up",
+    "tr": "поддерживать темп",
+    "level": "b1"
+  },
+  {
+    "word": "keep up with",
+    "tr": "успевать за",
+    "level": "b1"
+  },
+  {
+    "word": "kick off",
+    "tr": "начать(ся)",
+    "level": "b2"
+  },
+  {
+    "word": "knock down",
+    "tr": "сбить; снести",
+    "level": "b1"
+  },
+  {
+    "word": "knock out",
+    "tr": "нокаутировать; впечатлить",
+    "level": "b2"
+  },
+  {
+    "word": "lay off",
+    "tr": "уволить (временно)",
+    "level": "b2"
+  },
+  {
+    "word": "lay out",
+    "tr": "выложить; изложить",
+    "level": "b2"
+  },
+  {
+    "word": "leave out",
+    "tr": "пропустить; не включить",
+    "level": "b1"
+  },
+  {
+    "word": "let down",
+    "tr": "подвести",
+    "level": "b1"
+  },
+  {
+    "word": "let in",
+    "tr": "впустить",
+    "level": "a2"
+  },
+  {
+    "word": "let off",
+    "tr": "отпустить без наказания; высадить",
+    "level": "b2"
+  },
+  {
+    "word": "let on",
+    "tr": "проговориться",
+    "level": "b2"
+  },
+  {
+    "word": "let out",
+    "tr": "выпустить; расширить (одежду)",
+    "level": "b1"
+  },
+  {
+    "word": "light up",
+    "tr": "загореться; оживиться",
+    "level": "b1"
+  },
+  {
+    "word": "line up",
+    "tr": "выстроиться; организовать",
+    "level": "b1"
+  },
+  {
+    "word": "live on",
+    "tr": "жить на (доход)",
+    "level": "b1"
+  },
+  {
+    "word": "live up to",
+    "tr": "оправдать (ожидания)",
+    "level": "b2"
+  },
+  {
+    "word": "look after",
+    "tr": "присматривать за",
+    "level": "a2"
+  },
+  {
+    "word": "look back",
+    "tr": "оглядываться назад",
+    "level": "b1"
+  },
+  {
+    "word": "look down on",
+    "tr": "смотреть свысока",
+    "level": "b2"
+  },
+  {
+    "word": "look for",
+    "tr": "искать",
+    "level": "a1"
+  },
+  {
+    "word": "look forward to",
+    "tr": "ждать с нетерпением",
+    "level": "a2"
+  },
+  {
+    "word": "look into",
+    "tr": "разобраться в",
+    "level": "b1"
+  },
+  {
+    "word": "look on",
+    "tr": "смотреть со стороны",
+    "level": "b2"
+  },
+  {
+    "word": "look out",
+    "tr": "осторожно; высматривать",
+    "level": "a2"
+  },
+  {
+    "word": "look over",
+    "tr": "просмотреть",
+    "level": "b1"
+  },
+  {
+    "word": "look through",
+    "tr": "просмотреть",
+    "level": "b1"
+  },
+  {
+    "word": "look up",
+    "tr": "искать (в справочнике); улучшаться",
+    "level": "a2"
+  },
+  {
+    "word": "look up to",
+    "tr": "уважать; равняться на",
+    "level": "b1"
+  },
+  {
+    "word": "make for",
+    "tr": "направляться к; способствовать",
+    "level": "b2"
+  },
+  {
+    "word": "make of",
+    "tr": "думать о; понимать",
+    "level": "b2"
+  },
+  {
+    "word": "make out",
+    "tr": "разобрать; понять",
+    "level": "b2"
+  },
+  {
+    "word": "make up",
+    "tr": "придумать; помириться; накрасить",
+    "level": "b1"
+  },
+  {
+    "word": "make up for",
+    "tr": "компенсировать",
+    "level": "b2"
+  },
+  {
+    "word": "mix up",
+    "tr": "перепутать",
+    "level": "b1"
+  },
+  {
+    "word": "move in",
+    "tr": "въехать",
+    "level": "a2"
+  },
+  {
+    "word": "move on",
+    "tr": "идти дальше",
+    "level": "b1"
+  },
+  {
+    "word": "move out",
+    "tr": "съехать",
+    "level": "a2"
+  },
+  {
+    "word": "move up",
+    "tr": "продвинуться",
+    "level": "b1"
+  },
+  {
+    "word": "note down",
+    "tr": "записать",
+    "level": "b1"
+  },
+  {
+    "word": "opt out",
+    "tr": "отказаться от участия",
+    "level": "b2"
+  },
+  {
+    "word": "pass away",
+    "tr": "скончаться",
+    "level": "b1"
+  },
+  {
+    "word": "pass on",
+    "tr": "передать",
+    "level": "b1"
+  },
+  {
+    "word": "pass out",
+    "tr": "потерять сознание; раздать",
+    "level": "b1"
+  },
+  {
+    "word": "pass up",
+    "tr": "упустить (шанс)",
+    "level": "b2"
+  },
+  {
+    "word": "pay back",
+    "tr": "вернуть долг; отплатить",
+    "level": "b1"
+  },
+  {
+    "word": "pay off",
+    "tr": "окупиться; расплатиться",
+    "level": "b2"
+  },
+  {
+    "word": "pick on",
+    "tr": "придираться к",
+    "level": "b2"
+  },
+  {
+    "word": "pick out",
+    "tr": "выбрать",
+    "level": "b1"
+  },
+  {
+    "word": "pick up",
+    "tr": "поднять; забрать; подхватить",
+    "level": "a2"
+  },
+  {
+    "word": "pile up",
+    "tr": "накапливаться",
+    "level": "b2"
+  },
+  {
+    "word": "point out",
+    "tr": "указать",
+    "level": "b1"
+  },
+  {
+    "word": "put across",
+    "tr": "донести (идею)",
+    "level": "b2"
+  },
+  {
+    "word": "put aside",
+    "tr": "отложить",
+    "level": "b1"
+  },
+  {
+    "word": "put away",
+    "tr": "убрать на место",
+    "level": "a2"
+  },
+  {
+    "word": "put back",
+    "tr": "поставить обратно; отложить",
+    "level": "a2"
+  },
+  {
+    "word": "put down",
+    "tr": "положить; принизить; записать",
+    "level": "b1"
+  },
+  {
+    "word": "put forward",
+    "tr": "выдвинуть",
+    "level": "b2"
+  },
+  {
+    "word": "put off",
+    "tr": "отложить; отталкивать",
+    "level": "b1"
+  },
+  {
+    "word": "put on",
+    "tr": "надеть; включить; набрать (вес)",
+    "level": "a2"
+  },
+  {
+    "word": "put out",
+    "tr": "потушить; выпустить; обременять",
+    "level": "b1"
+  },
+  {
+    "word": "put through",
+    "tr": "соединить (по телефону); подвергнуть",
+    "level": "b2"
+  },
+  {
+    "word": "put together",
+    "tr": "собрать",
+    "level": "b1"
+  },
+  {
+    "word": "put up",
+    "tr": "разместить; поднять; повесить",
+    "level": "b1"
+  },
+  {
+    "word": "put up with",
+    "tr": "терпеть",
+    "level": "b2"
+  },
+  {
+    "word": "read out",
+    "tr": "прочитать вслух",
+    "level": "a2"
+  },
+  {
+    "word": "rely on",
+    "tr": "полагаться на",
+    "level": "b1"
+  },
+  {
+    "word": "ring back",
+    "tr": "перезвонить",
+    "level": "b1"
+  },
+  {
+    "word": "ring up",
+    "tr": "позвонить; пробить на кассе",
+    "level": "b1"
+  },
+  {
+    "word": "rip off",
+    "tr": "обдирать; обманывать",
+    "level": "b2"
+  },
+  {
+    "word": "rule out",
+    "tr": "исключить",
+    "level": "b2"
+  },
+  {
+    "word": "run away",
+    "tr": "убежать",
+    "level": "a2"
+  },
+  {
+    "word": "run into",
+    "tr": "случайно встретить; столкнуться с",
+    "level": "b1"
+  },
+  {
+    "word": "run out",
+    "tr": "закончиться",
+    "level": "b1"
+  },
+  {
+    "word": "run out of",
+    "tr": "исчерпать",
+    "level": "b1"
+  },
+  {
+    "word": "run over",
+    "tr": "переехать; быстро просмотреть",
+    "level": "b2"
+  },
+  {
+    "word": "run through",
+    "tr": "быстро пройтись по",
+    "level": "b2"
+  },
+  {
+    "word": "scale back",
+    "tr": "сократить масштабы",
+    "level": "b2"
+  },
+  {
+    "word": "see off",
+    "tr": "проводить",
+    "level": "b1"
+  },
+  {
+    "word": "see through",
+    "tr": "раскусить; довести до конца",
+    "level": "b2"
+  },
+  {
+    "word": "send back",
+    "tr": "отправить обратно",
+    "level": "a2"
+  },
+  {
+    "word": "send off",
+    "tr": "отправить",
+    "level": "b1"
+  },
+  {
+    "word": "set aside",
+    "tr": "отложить; выделить",
+    "level": "b2"
+  },
+  {
+    "word": "set back",
+    "tr": "отбросить назад; стоить",
+    "level": "b2"
+  },
+  {
+    "word": "set off",
+    "tr": "отправиться; вызвать",
+    "level": "b1"
+  },
+  {
+    "word": "set out",
+    "tr": "отправиться; изложить",
+    "level": "b2"
+  },
+  {
+    "word": "set up",
+    "tr": "учредить; настроить",
+    "level": "b1"
+  },
+  {
+    "word": "settle down",
+    "tr": "остепениться; успокоиться",
+    "level": "b1"
+  },
+  {
+    "word": "settle in",
+    "tr": "освоиться",
+    "level": "b1"
+  },
+  {
+    "word": "show off",
+    "tr": "хвастаться",
+    "level": "b1"
+  },
+  {
+    "word": "show up",
+    "tr": "появиться",
+    "level": "b1"
+  },
+  {
+    "word": "shut down",
+    "tr": "выключить; закрыть",
+    "level": "b1"
+  },
+  {
+    "word": "shut up",
+    "tr": "заткнуться",
+    "level": "b1"
+  },
+  {
+    "word": "sign up",
+    "tr": "записаться",
+    "level": "b1"
+  },
+  {
+    "word": "sit down",
+    "tr": "сесть",
+    "level": "a1"
+  },
+  {
+    "word": "sit up",
+    "tr": "сесть прямо; не ложиться",
+    "level": "a2"
+  },
+  {
+    "word": "slow down",
+    "tr": "замедлить(ся)",
+    "level": "a2"
+  },
+  {
+    "word": "sort out",
+    "tr": "разобраться; упорядочить",
+    "level": "b1"
+  },
+  {
+    "word": "speak up",
+    "tr": "говорить громче; высказаться",
+    "level": "b1"
+  },
+  {
+    "word": "speed up",
+    "tr": "ускорить(ся)",
+    "level": "b1"
+  },
+  {
+    "word": "stand by",
+    "tr": "поддерживать; быть наготове",
+    "level": "b2"
+  },
+  {
+    "word": "stand for",
+    "tr": "означать; терпеть",
+    "level": "b1"
+  },
+  {
+    "word": "stand out",
+    "tr": "выделяться",
+    "level": "b1"
+  },
+  {
+    "word": "stand up",
+    "tr": "встать",
+    "level": "a1"
+  },
+  {
+    "word": "stand up for",
+    "tr": "заступаться за",
+    "level": "b2"
+  },
+  {
+    "word": "stand up to",
+    "tr": "противостоять",
+    "level": "b2"
+  },
+  {
+    "word": "stay over",
+    "tr": "переночевать",
+    "level": "b1"
+  },
+  {
+    "word": "stick around",
+    "tr": "остаться поблизости",
+    "level": "b2"
+  },
+  {
+    "word": "stick out",
+    "tr": "торчать; выделяться",
+    "level": "b1"
+  },
+  {
+    "word": "stick to",
+    "tr": "придерживаться",
+    "level": "b1"
+  },
+  {
+    "word": "stick with",
+    "tr": "оставаться с",
+    "level": "b1"
+  },
+  {
+    "word": "stop by",
+    "tr": "заглянуть",
+    "level": "b1"
+  },
+  {
+    "word": "sum up",
+    "tr": "подвести итог",
+    "level": "b1"
+  },
+  {
+    "word": "switch off",
+    "tr": "выключить",
+    "level": "a2"
+  },
+  {
+    "word": "switch on",
+    "tr": "включить",
+    "level": "a2"
+  },
+  {
+    "word": "take after",
+    "tr": "быть похожим на",
+    "level": "b1"
+  },
+  {
+    "word": "take apart",
+    "tr": "разобрать",
+    "level": "b2"
+  },
+  {
+    "word": "take away",
+    "tr": "убрать; забрать",
+    "level": "a2"
+  },
+  {
+    "word": "take back",
+    "tr": "забрать обратно; взять слова назад",
+    "level": "b1"
+  },
+  {
+    "word": "take down",
+    "tr": "записать; снять",
+    "level": "b1"
+  },
+  {
+    "word": "take in",
+    "tr": "понять; обмануть; принять",
+    "level": "b2"
+  },
+  {
+    "word": "take off",
+    "tr": "взлететь; снять (одежду); пойти в гору",
+    "level": "a2"
+  },
+  {
+    "word": "take on",
+    "tr": "взяться; нанять; принять вызов",
+    "level": "b2"
+  },
+  {
+    "word": "take out",
+    "tr": "вынуть; повести (куда-то)",
+    "level": "a2"
+  },
+  {
+    "word": "take over",
+    "tr": "принять на себя; захватить",
+    "level": "b1"
+  },
+  {
+    "word": "take up",
+    "tr": "начать (хобби); занять (время/место)",
+    "level": "b1"
+  },
+  {
+    "word": "talk into",
+    "tr": "уговорить",
+    "level": "b2"
+  },
+  {
+    "word": "talk out of",
+    "tr": "отговорить",
+    "level": "b2"
+  },
+  {
+    "word": "talk over",
+    "tr": "обсудить",
+    "level": "b1"
+  },
+  {
+    "word": "tear down",
+    "tr": "снести",
+    "level": "b2"
+  },
+  {
+    "word": "tear up",
+    "tr": "разорвать",
+    "level": "b1"
+  },
+  {
+    "word": "tell apart",
+    "tr": "отличить",
+    "level": "b2"
+  },
+  {
+    "word": "tell off",
+    "tr": "отчитать",
+    "level": "b2"
+  },
+  {
+    "word": "think over",
+    "tr": "обдумать",
+    "level": "b1"
+  },
+  {
+    "word": "throw away",
+    "tr": "выбросить",
+    "level": "a2"
+  },
+  {
+    "word": "throw out",
+    "tr": "выбросить; выгнать",
+    "level": "b1"
+  },
+  {
+    "word": "throw up",
+    "tr": "вырвать; поднять",
+    "level": "b1"
+  },
+  {
+    "word": "tie up",
+    "tr": "связать; занять",
+    "level": "b2"
+  },
+  {
+    "word": "track down",
+    "tr": "разыскать",
+    "level": "b2"
+  },
+  {
+    "word": "try on",
+    "tr": "примерить",
+    "level": "a2"
+  },
+  {
+    "word": "try out",
+    "tr": "испробовать",
+    "level": "b1"
+  },
+  {
+    "word": "turn around",
+    "tr": "развернуться; переломить ситуацию",
+    "level": "b1"
+  },
+  {
+    "word": "turn away",
+    "tr": "отвернуть(ся); отказать",
+    "level": "b1"
+  },
+  {
+    "word": "turn back",
+    "tr": "повернуть назад",
+    "level": "b1"
+  },
+  {
+    "word": "turn down",
+    "tr": "отклонить; убавить",
+    "level": "b1"
+  },
+  {
+    "word": "turn in",
+    "tr": "сдать; лечь спать",
+    "level": "b2"
+  },
+  {
+    "word": "turn into",
+    "tr": "превратиться в",
+    "level": "b1"
+  },
+  {
+    "word": "turn off",
+    "tr": "выключить; отталкивать",
+    "level": "a2"
+  },
+  {
+    "word": "turn on",
+    "tr": "включить",
+    "level": "a2"
+  },
+  {
+    "word": "turn out",
+    "tr": "оказаться; явиться; выпустить",
+    "level": "b1"
+  },
+  {
+    "word": "turn over",
+    "tr": "перевернуть; передать",
+    "level": "b1"
+  },
+  {
+    "word": "turn up",
+    "tr": "появиться; прибавить",
+    "level": "b1"
+  },
+  {
+    "word": "use up",
+    "tr": "израсходовать",
+    "level": "b1"
+  },
+  {
+    "word": "wake up",
+    "tr": "проснуться",
+    "level": "a1"
+  },
+  {
+    "word": "walk out",
+    "tr": "уйти (в знак протеста)",
+    "level": "b2"
+  },
+  {
+    "word": "warm up",
+    "tr": "размяться; разогреть",
+    "level": "a2"
+  },
+  {
+    "word": "wash up",
+    "tr": "мыть посуду; умыться",
+    "level": "a2"
+  },
+  {
+    "word": "watch out",
+    "tr": "осторожно",
+    "level": "a2"
+  },
+  {
+    "word": "wear off",
+    "tr": "пройти (об эффекте)",
+    "level": "b2"
+  },
+  {
+    "word": "wear out",
+    "tr": "износить(ся); утомить",
+    "level": "b1"
+  },
+  {
+    "word": "weigh in",
+    "tr": "высказаться; пройти взвешивание",
+    "level": "b2"
+  },
+  {
+    "word": "whip up",
+    "tr": "быстро приготовить; разжечь",
+    "level": "b2"
+  },
+  {
+    "word": "work out",
+    "tr": "получиться; тренироваться; вычислить",
+    "level": "b1"
+  },
+  {
+    "word": "wrap up",
+    "tr": "завершить; укутать",
+    "level": "b1"
+  },
+  {
+    "word": "write down",
+    "tr": "записать",
+    "level": "a2"
+  },
+  {
+    "word": "write off",
+    "tr": "списать; считать безнадёжным",
+    "level": "b2"
+  },
+  {
+    "word": "write up",
+    "tr": "оформить письменно",
+    "level": "b2"
+  },
+  {
+    "word": "zip up",
+    "tr": "застегнуть на молнию",
+    "level": "a2"
+  },
+  {
+    "word": "zoom in",
+    "tr": "приблизить (изображение)",
+    "level": "b1"
+  },
+  {
+    "word": "zoom out",
+    "tr": "отдалить",
+    "level": "b1"
+  },
+  {
+    "word": "beef up",
+    "tr": "усилить",
+    "level": "b2"
+  },
+  {
+    "word": "belt out",
+    "tr": "спеть/сыграть громко",
+    "level": "b2"
+  },
+  {
+    "word": "blend in",
+    "tr": "слиться с окружением",
+    "level": "b2"
+  },
+  {
+    "word": "branch out",
+    "tr": "расширить сферу",
+    "level": "b2"
+  },
+  {
+    "word": "break even",
+    "tr": "выйти в ноль",
+    "level": "b2"
+  },
+  {
+    "word": "bring forth",
+    "tr": "породить; представить",
+    "level": "c1"
+  },
+  {
+    "word": "brush aside",
+    "tr": "отмахнуться от",
+    "level": "b2"
+  },
+  {
+    "word": "buckle down",
+    "tr": "взяться серьёзно",
+    "level": "b2"
+  },
+  {
+    "word": "call for",
+    "tr": "требовать; зайти за",
+    "level": "b1"
+  },
+  {
+    "word": "carry over",
+    "tr": "перенести",
+    "level": "b2"
+  },
+  {
+    "word": "cash in",
+    "tr": "обналичить; нажиться",
+    "level": "b2"
+  },
+  {
+    "word": "cast aside",
+    "tr": "отвергнуть",
+    "level": "c1"
+  },
+  {
+    "word": "catch out",
+    "tr": "поймать на ошибке",
+    "level": "b2"
+  },
+  {
+    "word": "check off",
+    "tr": "отметить галочкой",
+    "level": "b1"
+  },
+  {
+    "word": "cheer on",
+    "tr": "подбадривать",
+    "level": "b1"
+  },
+  {
+    "word": "clamp down",
+    "tr": "ужесточить контроль",
+    "level": "b2"
+  },
+  {
+    "word": "clean out",
+    "tr": "вычистить; опустошить",
+    "level": "b1"
+  },
+  {
+    "word": "clear out",
+    "tr": "убрать; уйти",
+    "level": "b1"
+  },
+  {
+    "word": "clock in",
+    "tr": "отметиться на входе",
+    "level": "b2"
+  },
+  {
+    "word": "clock out",
+    "tr": "отметиться на выходе",
+    "level": "b2"
+  },
+  {
+    "word": "cloud over",
+    "tr": "затянуться облаками",
+    "level": "b1"
+  },
+  {
+    "word": "come into force",
+    "tr": "вступить в силу",
+    "level": "b2"
+  },
+  {
+    "word": "come round",
+    "tr": "одуматься; зайти",
+    "level": "b2"
+  },
+  {
+    "word": "conjure up",
+    "tr": "вызвать в воображении",
+    "level": "c1"
+  },
+  {
+    "word": "cool down",
+    "tr": "остыть; остудить",
+    "level": "b1"
+  },
+  {
+    "word": "cop out",
+    "tr": "увильнуть",
+    "level": "b2"
+  },
+  {
+    "word": "crack down",
+    "tr": "жёстко пресечь",
+    "level": "b2"
+  },
+  {
+    "word": "crack up",
+    "tr": "рассмеяться; сорваться",
+    "level": "b2"
+  },
+  {
+    "word": "crop up",
+    "tr": "внезапно возникнуть",
+    "level": "b2"
+  },
+  {
+    "word": "cry out",
+    "tr": "вскрикнуть",
+    "level": "b1"
+  },
+  {
+    "word": "cut across",
+    "tr": "пересекать; затрагивать",
+    "level": "b2"
+  },
+  {
+    "word": "cut in",
+    "tr": "врезаться; перебить",
+    "level": "b1"
+  },
+  {
+    "word": "dawn on",
+    "tr": "дойти до (сознания)",
+    "level": "b2"
+  },
+  {
+    "word": "die down",
+    "tr": "утихнуть",
+    "level": "b2"
+  },
+  {
+    "word": "dig in",
+    "tr": "закопаться; начать есть",
+    "level": "b2"
+  },
+  {
+    "word": "dig up",
+    "tr": "откопать; раскопать факты",
+    "level": "b2"
+  },
+  {
+    "word": "dish out",
+    "tr": "раздавать",
+    "level": "b2"
+  },
+  {
+    "word": "dive in",
+    "tr": "ринуться",
+    "level": "b2"
+  },
+  {
+    "word": "double back",
+    "tr": "вернуть назад тем же путём",
+    "level": "b2"
+  },
+  {
+    "word": "drag on",
+    "tr": "тянуться",
+    "level": "b2"
+  },
+  {
+    "word": "draw up",
+    "tr": "составить (документ)",
+    "level": "b2"
+  },
+  {
+    "word": "dress down",
+    "tr": "одеться просто; отчитать",
+    "level": "b2"
+  },
+  {
+    "word": "drink up",
+    "tr": "допить",
+    "level": "a2"
+  },
+  {
+    "word": "drive away",
+    "tr": "уехать; отпугнуть",
+    "level": "b1"
+  },
+  {
+    "word": "drive off",
+    "tr": "уехать",
+    "level": "b1"
+  },
+  {
+    "word": "drum up",
+    "tr": "набрать (поддержку)",
+    "level": "b2"
+  },
+  {
+    "word": "dry out",
+    "tr": "высохнуть; протрезветь",
+    "level": "b2"
+  },
+  {
+    "word": "dry up",
+    "tr": "пересохнуть; иссякнуть",
+    "level": "b2"
+  },
+  {
+    "word": "ease off",
+    "tr": "ослабеть",
+    "level": "b2"
+  },
+  {
+    "word": "ease up",
+    "tr": "ослабить давление",
+    "level": "b2"
+  },
+  {
+    "word": "egg on",
+    "tr": "подзуживать",
+    "level": "b2"
+  },
+  {
+    "word": "embark on",
+    "tr": "начать (дело)",
+    "level": "b2"
+  },
+  {
+    "word": "enter into",
+    "tr": "вступить в",
+    "level": "b2"
+  },
+  {
+    "word": "even out",
+    "tr": "выровняться",
+    "level": "b2"
+  },
+  {
+    "word": "explain away",
+    "tr": "отговориться объяснением",
+    "level": "c1"
+  },
+  {
+    "word": "factor in",
+    "tr": "учесть",
+    "level": "b2"
+  },
+  {
+    "word": "fade away",
+    "tr": "угаснуть",
+    "level": "b1"
+  },
+  {
+    "word": "fade out",
+    "tr": "постепенно исчезнуть",
+    "level": "b2"
+  },
+  {
+    "word": "fend off",
+    "tr": "отразить",
+    "level": "b2"
+  },
+  {
+    "word": "ferret out",
+    "tr": "выведать",
+    "level": "c1"
+  },
+  {
+    "word": "fiddle with",
+    "tr": "ковыряться с",
+    "level": "b2"
+  },
+  {
+    "word": "fight back",
+    "tr": "дать отпор",
+    "level": "b1"
+  },
+  {
+    "word": "fight off",
+    "tr": "отбить",
+    "level": "b2"
+  },
+  {
+    "word": "filter out",
+    "tr": "отфильтровать",
+    "level": "b2"
+  },
+  {
+    "word": "fire up",
+    "tr": "завести; воодушевить",
+    "level": "b2"
+  },
+  {
+    "word": "fish out",
+    "tr": "достать",
+    "level": "b2"
+  },
+  {
+    "word": "flare up",
+    "tr": "вспыхнуть",
+    "level": "b2"
+  },
+  {
+    "word": "flip through",
+    "tr": "быстро пролистать",
+    "level": "b2"
+  },
+  {
+    "word": "float around",
+    "tr": "ходить (о слухах)",
+    "level": "b2"
+  },
+  {
+    "word": "focus on",
+    "tr": "сосредоточиться на",
+    "level": "a2"
+  },
+  {
+    "word": "fold up",
+    "tr": "сложить",
+    "level": "a2"
+  },
+  {
+    "word": "fool around",
+    "tr": "валять дурака",
+    "level": "b1"
+  },
+  {
+    "word": "force out",
+    "tr": "вытеснить",
+    "level": "b2"
+  },
+  {
+    "word": "forge ahead",
+    "tr": "уверенно продвигаться",
+    "level": "b2"
+  },
+  {
+    "word": "foul up",
+    "tr": "испортить",
+    "level": "b2"
+  },
+  {
+    "word": "freeze over",
+    "tr": "покрыться льдом",
+    "level": "b1"
+  },
+  {
+    "word": "freeze up",
+    "tr": "застыть; заклинить",
+    "level": "b2"
+  },
+  {
+    "word": "freshen up",
+    "tr": "освежиться",
+    "level": "b1"
+  },
+  {
+    "word": "frighten off",
+    "tr": "спугнуть",
+    "level": "b2"
+  },
+  {
+    "word": "gang up",
+    "tr": "объединиться против",
+    "level": "b2"
+  },
+  {
+    "word": "gear up",
+    "tr": "подготовиться",
+    "level": "b2"
+  },
+  {
+    "word": "get about",
+    "tr": "передвигаться; распространяться",
+    "level": "b2"
+  },
+  {
+    "word": "get after",
+    "tr": "понукать",
+    "level": "b2"
+  },
+  {
+    "word": "get even",
+    "tr": "поквитаться",
+    "level": "b2"
+  },
+  {
+    "word": "get in on",
+    "tr": "включиться в",
+    "level": "b2"
+  },
+  {
+    "word": "get out of",
+    "tr": "избежать; выйти из",
+    "level": "b1"
+  },
+  {
+    "word": "get round",
+    "tr": "обойти; уговорить",
+    "level": "b2"
+  },
+  {
+    "word": "give way",
+    "tr": "уступить; обрушиться",
+    "level": "b2"
+  },
+  {
+    "word": "gloss over",
+    "tr": "замять",
+    "level": "c1"
+  },
+  {
+    "word": "go about",
+    "tr": "заниматься; приниматься",
+    "level": "b2"
+  },
+  {
+    "word": "go after",
+    "tr": "преследовать; добиваться",
+    "level": "b1"
+  },
+  {
+    "word": "go against",
+    "tr": "идти вразрез",
+    "level": "b2"
+  },
+  {
+    "word": "go down with",
+    "tr": "заболеть",
+    "level": "b2"
+  },
+  {
+    "word": "go in for",
+    "tr": "увлекаться; участвовать",
+    "level": "b2"
+  },
+  {
+    "word": "go through with",
+    "tr": "довести до конца",
+    "level": "b2"
+  },
+  {
+    "word": "grind on",
+    "tr": "тянуться",
+    "level": "c1"
+  },
+  {
+    "word": "grow apart",
+    "tr": "отдаляться",
+    "level": "b2"
+  },
+  {
+    "word": "grow out of",
+    "tr": "перерасти",
+    "level": "b2"
+  },
+  {
+    "word": "hammer out",
+    "tr": "выработать (соглашение)",
+    "level": "c1"
+  },
+  {
+    "word": "hang about",
+    "tr": "болтаться",
+    "level": "b1"
+  },
+  {
+    "word": "head off",
+    "tr": "направиться; предотвратить",
+    "level": "b2"
+  },
+  {
+    "word": "help out",
+    "tr": "помочь",
+    "level": "a2"
+  },
+  {
+    "word": "hinge on",
+    "tr": "зависеть от",
+    "level": "c1"
+  },
+  {
+    "word": "hit on",
+    "tr": "случайно найти; приставать",
+    "level": "b2"
+  },
+  {
+    "word": "hit upon",
+    "tr": "наткнуться на идею",
+    "level": "b2"
+  },
+  {
+    "word": "hold down",
+    "tr": "удерживать; сохранять (работу)",
+    "level": "b2"
+  },
+  {
+    "word": "hold forth",
+    "tr": "разглагольствовать",
+    "level": "c1"
+  },
+  {
+    "word": "hold off",
+    "tr": "откладывать; сдерживать",
+    "level": "b2"
+  },
+  {
+    "word": "hook up",
+    "tr": "подключить; встретиться",
+    "level": "b2"
+  },
+  {
+    "word": "horse around",
+    "tr": "дурачиться",
+    "level": "b1"
+  },
+  {
+    "word": "hunt down",
+    "tr": "выследить",
+    "level": "b2"
+  },
+  {
+    "word": "hurry up",
+    "tr": "поторапливаться",
+    "level": "a2"
+  },
+  {
+    "word": "iron out",
+    "tr": "уладить",
+    "level": "b2"
+  },
+  {
+    "word": "jack up",
+    "tr": "поднять домкратом; взвинтить",
+    "level": "b2"
+  },
+  {
+    "word": "join in",
+    "tr": "присоединиться",
+    "level": "a2"
+  },
+  {
+    "word": "jump at",
+    "tr": "ухватиться за",
+    "level": "b2"
+  },
+  {
+    "word": "jump in",
+    "tr": "вмешаться",
+    "level": "b1"
+  },
+  {
+    "word": "keep in",
+    "tr": "не выпускать",
+    "level": "b1"
+  },
+  {
+    "word": "keep to",
+    "tr": "придерживаться",
+    "level": "b1"
+  },
+  {
+    "word": "key in",
+    "tr": "ввести (данные)",
+    "level": "b1"
+  },
+  {
+    "word": "kick back",
+    "tr": "расслабиться",
+    "level": "b2"
+  },
+  {
+    "word": "kick out",
+    "tr": "выгнать",
+    "level": "b1"
+  },
+  {
+    "word": "kill off",
+    "tr": "истребить",
+    "level": "b2"
+  },
+  {
+    "word": "knock off",
+    "tr": "закончить работу; сбить цену",
+    "level": "b2"
+  },
+  {
+    "word": "lash out",
+    "tr": "наброситься",
+    "level": "b2"
+  },
+  {
+    "word": "latch on",
+    "tr": "уловить; прицепиться",
+    "level": "b2"
+  },
+  {
+    "word": "laugh off",
+    "tr": "отшутиться",
+    "level": "b2"
+  },
+  {
+    "word": "launch into",
+    "tr": "ринуться в",
+    "level": "b2"
+  },
+  {
+    "word": "lay down",
+    "tr": "установить; сложить оружие",
+    "level": "b2"
+  },
+  {
+    "word": "lead on",
+    "tr": "водить за нос",
+    "level": "b2"
+  },
+  {
+    "word": "leak out",
+    "tr": "просочиться",
+    "level": "b2"
+  },
+  {
+    "word": "lean on",
+    "tr": "опираться на; давить на",
+    "level": "b2"
+  },
+  {
+    "word": "leap at",
+    "tr": "ухватиться",
+    "level": "b2"
+  },
+  {
+    "word": "leave behind",
+    "tr": "оставить позади",
+    "level": "a2"
+  },
+  {
+    "word": "level off",
+    "tr": "выровняться",
+    "level": "b2"
+  },
+  {
+    "word": "lie down",
+    "tr": "лечь",
+    "level": "a1"
+  },
+  {
+    "word": "lift off",
+    "tr": "взлететь (о ракете)",
+    "level": "b2"
+  },
+  {
+    "word": "light upon",
+    "tr": "наткнуться",
+    "level": "c1"
+  },
+  {
+    "word": "listen in",
+    "tr": "подслушивать",
+    "level": "b2"
+  },
+  {
+    "word": "live down",
+    "tr": "изжить (позор)",
+    "level": "c1"
+  },
+  {
+    "word": "live off",
+    "tr": "жить за счёт",
+    "level": "b2"
+  },
+  {
+    "word": "load up",
+    "tr": "загрузить",
+    "level": "b1"
+  },
+  {
+    "word": "lock in",
+    "tr": "заблокировать; зафиксировать",
+    "level": "b2"
+  },
+  {
+    "word": "lock out",
+    "tr": "не впустить",
+    "level": "b1"
+  },
+  {
+    "word": "lock up",
+    "tr": "запереть",
+    "level": "a2"
+  },
+  {
+    "word": "log in",
+    "tr": "войти в систему",
+    "level": "a2"
+  },
+  {
+    "word": "log off",
+    "tr": "выйти из системы",
+    "level": "a2"
+  },
+  {
+    "word": "log on",
+    "tr": "войти в систему",
+    "level": "a2"
+  },
+  {
+    "word": "log out",
+    "tr": "выйти из системы",
+    "level": "a2"
+  },
+  {
+    "word": "look around",
+    "tr": "осмотреться",
+    "level": "a2"
+  },
+  {
+    "word": "loom ahead",
+    "tr": "маячить впереди",
+    "level": "c1"
+  },
+  {
+    "word": "lose out",
+    "tr": "проиграть",
+    "level": "b2"
+  },
+  {
+    "word": "magic away",
+    "tr": "сделать так, чтобы исчезло",
+    "level": "c1"
+  },
+  {
+    "word": "mark down",
+    "tr": "снизить цену; записать",
+    "level": "b1"
+  },
+  {
+    "word": "mark up",
+    "tr": "поднять цену",
+    "level": "b2"
+  },
+  {
+    "word": "measure up",
+    "tr": "соответствовать",
+    "level": "b2"
+  },
+  {
+    "word": "meet up",
+    "tr": "встретиться",
+    "level": "a2"
+  },
+  {
+    "word": "mess around",
+    "tr": "валять дурака",
+    "level": "b1"
+  },
+  {
+    "word": "mess up",
+    "tr": "испортить",
+    "level": "b1"
+  },
+  {
+    "word": "mill around",
+    "tr": "слоняться",
+    "level": "b2"
+  },
+  {
+    "word": "miss out",
+    "tr": "упустить",
+    "level": "b1"
+  },
+  {
+    "word": "move ahead",
+    "tr": "продвигаться",
+    "level": "b1"
+  },
+  {
+    "word": "mull over",
+    "tr": "обдумывать",
+    "level": "b2"
+  },
+  {
+    "word": "nail down",
+    "tr": "закрепить; уточнить",
+    "level": "b2"
+  },
+  {
+    "word": "narrow down",
+    "tr": "сузить",
+    "level": "b2"
+  },
+  {
+    "word": "nod off",
+    "tr": "задремать",
+    "level": "b2"
+  },
+  {
+    "word": "nose around",
+    "tr": "рыться; вынюхивать",
+    "level": "b2"
+  },
+  {
+    "word": "open up",
+    "tr": "открыться; разоткровенничаться",
+    "level": "b1"
+  },
+  {
+    "word": "own up",
+    "tr": "признаться",
+    "level": "b2"
+  },
+  {
+    "word": "pack up",
+    "tr": "собрать вещи; сломаться",
+    "level": "b1"
+  },
+  {
+    "word": "pair up",
+    "tr": "разбиться на пары",
+    "level": "b1"
+  },
+  {
+    "word": "pan out",
+    "tr": "удаться",
+    "level": "b2"
+  },
+  {
+    "word": "pass by",
+    "tr": "пройти мимо",
+    "level": "a2"
+  }
+]
