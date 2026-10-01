@@ -9,6 +9,17 @@
   var ONBOARD_KEY = 'lexikon-onboard-done';
   var SWIPE_THRESHOLD = 110;
 
+  /** Перемешать массив на месте (Фишер–Йейтс). */
+  function shuffleInPlace(arr) {
+    for (var i = arr.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = arr[i];
+      arr[i] = arr[j];
+      arr[j] = t;
+    }
+    return arr;
+  }
+
   var state = {
     settings: {
       theme: 'dark',
@@ -240,6 +251,10 @@
       }
     });
 
+    // Перемешиваем: due и новые из всех выбранных колод вперемешку
+    shuffleInPlace(due);
+    shuffleInPlace(news);
+
     // лимит новых
     var limit = state.settings.newPerDay;
     var shownKey = 'newShown:' + todayKey();
@@ -248,7 +263,7 @@
       news = news.slice(0, Math.max(0, limit - shown));
     }
 
-    // due сначала
+    // Сначала повторы (уже перемешанные), потом новые из разных колод
     state.queue = due.concat(news);
     state.newShownToday = shown;
 
@@ -268,7 +283,8 @@
 
   async function grade(quality) {
     var card = state.current;
-    if (!card || !state.revealed) return;
+    if (!card) return;
+    // Свайп и кнопки работают и до «Показать»
 
     var prog = await LexDB.ensureProgress(card.id);
     var wasNew = prog.state === 'new';
@@ -287,6 +303,11 @@
     els.card.classList.add(dir);
     setTimeout(function () {
       state.queue.shift();
+      // «Снова»: вернуть карточку в очередь через пару позиций — повтор в этой же сессии
+      if (quality === 0) {
+        var insertAt = Math.min(3, state.queue.length);
+        state.queue.splice(insertAt, 0, card);
+      }
       if (!state.queue.length) {
         buildQueue();
       } else {
@@ -718,6 +739,12 @@
       startX = x; startY = y; dx = 0; dy = 0;
       card.classList.add('dragging');
     }
+    function clearSwipeTint() {
+      card.classList.remove('tint-know', 'tint-again');
+      card.style.transform = '';
+      card.style.opacity = '';
+      card.style.removeProperty('--swipe-tint');
+    }
     function onMove(x, y) {
       if (!active) return;
       dx = x - startX; dy = y - startY;
@@ -727,24 +754,33 @@
       }
       var rot = dx / 28;
       card.style.transform = 'translateX(' + dx + 'px) rotate(' + rot + 'deg)';
-      card.style.opacity = String(Math.max(0.4, 1 - Math.abs(dx) / 400));
+      card.style.opacity = String(Math.max(0.55, 1 - Math.abs(dx) / 520));
+      // Полупрозрачный оттенок в стиле палитры
+      var strength = Math.min(1, Math.abs(dx) / SWIPE_THRESHOLD);
+      if (dx > 24) {
+        card.classList.add('tint-know');
+        card.classList.remove('tint-again');
+        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+      } else if (dx < -24) {
+        card.classList.add('tint-again');
+        card.classList.remove('tint-know');
+        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+      } else {
+        card.classList.remove('tint-know', 'tint-again');
+        card.style.removeProperty('--swipe-tint');
+      }
     }
     function onEnd() {
       if (!active) return;
       active = false;
       card.classList.remove('dragging');
-      if (!state.revealed) {
-        card.style.transform = '';
-        card.style.opacity = '';
-        return;
-      }
+      // Свайп без «Показать»: вправо — знаю, влево — повторить
       if (dx > SWIPE_THRESHOLD) {
         grade(2);
       } else if (dx < -SWIPE_THRESHOLD) {
         grade(0);
       } else {
-        card.style.transform = '';
-        card.style.opacity = '';
+        clearSwipeTint();
       }
     }
 
@@ -760,8 +796,7 @@
     card.addEventListener('touchcancel', function () {
       active = false;
       card.classList.remove('dragging');
-      card.style.transform = '';
-      card.style.opacity = '';
+      clearSwipeTint();
     });
 
     // mouse fallback

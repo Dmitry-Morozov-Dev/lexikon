@@ -182,6 +182,33 @@ a { color: var(--accent); }
 .vocab-card.swipe-left { transform: translateX(-120%) rotate(-8deg); opacity: 0; }
 .vocab-card.dragging { transition: none; }
 
+/* Полупрозрачные оттенки свайпа — в палитре успеха/«снова» */
+.vocab-card.tint-know::before,
+.vocab-card.tint-again::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  pointer-events: none;
+  border-radius: inherit;
+  opacity: var(--swipe-tint, 0.2);
+  transition: opacity 120ms ease;
+}
+.vocab-card.tint-know::before {
+  background: rgba(125, 171, 127, 0.55);
+  box-shadow: inset 0 0 0 1px rgba(125, 171, 127, 0.35);
+}
+.vocab-card.tint-again::before {
+  background: rgba(196, 107, 90, 0.5);
+  box-shadow: inset 0 0 0 1px rgba(196, 107, 90, 0.32);
+}
+[data-theme="light"] .vocab-card.tint-know::before {
+  background: rgba(125, 171, 127, 0.42);
+}
+[data-theme="light"] .vocab-card.tint-again::before {
+  background: rgba(196, 107, 90, 0.38);
+}
+
 .card-img-wrap {
   position: relative;
   aspect-ratio: 16 / 10;
