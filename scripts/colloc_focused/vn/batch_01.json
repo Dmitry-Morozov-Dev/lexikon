@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "make a decision",
+    "lemma": "make a decision",
+    "level": "b1",
+    "tr": "принять решение",
+    "examples": [
+      {
+        "en": "We need to make a decision by Friday.",
+        "ru": "Нам нужно принять решение к пятнице."
+      },
+      {
+        "en": "She made a decision to change careers.",
+        "ru": "Она приняла решение сменить карьеру."
+      },
+      {
+        "en": "Don't make a decision when you're angry.",
+        "ru": "Не принимай решение, когда злишься."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a mistake",
+    "lemma": "make a mistake",
+    "level": "b1",
+    "tr": "совершить ошибку; ошибиться",
+    "examples": [
+      {
+        "en": "Everyone makes mistakes at work.",
+        "ru": "Все ошибаются на работе."
+      },
+      {
+        "en": "I made a mistake in the invoice.",
+        "ru": "Я ошибся в счёте."
+      },
+      {
+        "en": "Admitting you made a mistake builds trust.",
+        "ru": "Признание ошибки укрепляет доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an effort",
+    "lemma": "make an effort",
+    "level": "b1",
+    "tr": "приложить усилие",
+    "examples": [
+      {
+        "en": "Please make an effort to arrive on time.",
+        "ru": "Пожалуйста, постарайся приходить вовремя."
+      },
+      {
+        "en": "He made an effort to learn Spanish.",
+        "ru": "Он приложил усилия, чтобы выучить испанский."
+      },
+      {
+        "en": "A small effort can make a big difference.",
+        "ru": "Небольшое усилие может многое изменить."
+      }
+    ],
+    "note": "",
+    "colloc": "make an effort / make every effort",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make progress",
+    "lemma": "make progress",
+    "level": "b1",
+    "tr": "добиваться прогресса; продвигаться",
+    "examples": [
+      {
+        "en": "The team is making good progress.",
+        "ru": "Команда хорошо продвигается."
+      },
+      {
+        "en": "We're making progress on the redesign.",
+        "ru": "Мы продвигаемся с редизайном."
+      },
+      {
+        "en": "She made steady progress all year.",
+        "ru": "Она стабильно прогрессировала весь год."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make sure",
+    "lemma": "make sure",
+    "level": "b1",
+    "tr": "убедиться; проследить",
+    "examples": [
+      {
+        "en": "Make sure you save the file.",
+        "ru": "Убедись, что сохранил файл."
+      },
+      {
+        "en": "I'll make sure everyone gets the invite.",
+        "ru": "Я прослежу, чтобы всем пришло приглашение."
+      },
+      {
+        "en": "Make sure the door is locked.",
+        "ru": "Проверь, что дверь закрыта."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a choice",
+    "lemma": "make a choice",
+    "level": "b1",
+    "tr": "сделать выбор",
+    "examples": [
+      {
+        "en": "You have to make a choice eventually.",
+        "ru": "Тебе всё равно придётся сделать выбор."
+      },
+      {
+        "en": "She made a difficult choice.",
+        "ru": "Она сделала трудный выбор."
+      },
+      {
+        "en": "We made the right choice.",
+        "ru": "Мы сделали правильный выбор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an appointment",
+    "lemma": "make an appointment",
+    "level": "b1",
+    "tr": "записаться на приём; назначить встречу",
+    "examples": [
+      {
+        "en": "I need to make an appointment with the dentist.",
+        "ru": "Мне нужно записаться к стоматологу."
+      },
+      {
+        "en": "Can we make an appointment for Tuesday?",
+        "ru": "Можем назначить встречу на вторник?"
+      },
+      {
+        "en": "She made an appointment online.",
+        "ru": "Она записалась онлайн."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a complaint",
+    "lemma": "make a complaint",
+    "level": "b1",
+    "tr": "подать жалобу",
+    "examples": [
+      {
+        "en": "Customers can make a complaint in writing.",
+        "ru": "Клиенты могут подать жалобу письменно."
+      },
+      {
+        "en": "He made a formal complaint to HR.",
+        "ru": "Он подал официальную жалобу в HR."
+      },
+      {
+        "en": "I'd rather resolve it than make a complaint.",
+        "ru": "Лучше решить вопрос, чем жаловаться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make money",
+    "lemma": "make money",
+    "level": "b1",
+    "tr": "зарабатывать деньги",
+    "examples": [
+      {
+        "en": "The app started making money last year.",
+        "ru": "Приложение начало приносить деньги в прошлом году."
+      },
+      {
+        "en": "He makes money from freelancing.",
+        "ru": "Он зарабатывает на фрилансе."
+      },
+      {
+        "en": "It's hard to make money in that niche.",
+        "ru": "В этой нише сложно зарабатывать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a profit",
+    "lemma": "make a profit",
+    "level": "b1",
+    "tr": "получить прибыль",
+    "examples": [
+      {
+        "en": "The store made a profit in Q3.",
+        "ru": "Магазин получил прибыль в третьем квартале."
+      },
+      {
+        "en": "We need to make a profit to stay open.",
+        "ru": "Нам нужна прибыль, чтобы остаться на плаву."
+      },
+      {
+        "en": "Startups often don't make a profit at first.",
+        "ru": "Стартапы сначала часто без прибыли."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a loss",
+    "lemma": "make a loss",
+    "level": "b2",
+    "tr": "понести убыток",
+    "examples": [
+      {
+        "en": "The division made a loss last year.",
+        "ru": "Подразделение понесло убыток в прошлом году."
+      },
+      {
+        "en": "We made a small loss on the sale.",
+        "ru": "Мы немного проиграли на продаже."
+      },
+      {
+        "en": "Airlines made heavy losses during lockdowns.",
+        "ru": "Авиалинии понесли тяжёлые убытки во время локдаунов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a speech",
+    "lemma": "make a speech",
+    "level": "b1",
+    "tr": "произнести речь",
+    "examples": [
+      {
+        "en": "She made a short speech at the wedding.",
+        "ru": "Она произнесла короткую речь на свадьбе."
+      },
+      {
+        "en": "The CEO will make a speech tomorrow.",
+        "ru": "CEO завтра выступит с речью."
+      },
+      {
+        "en": "I hate making speeches in public.",
+        "ru": "Ненавижу публичные речи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a suggestion",
+    "lemma": "make a suggestion",
+    "level": "b1",
+    "tr": "предложить; внести предложение",
+    "examples": [
+      {
+        "en": "Can I make a suggestion?",
+        "ru": "Могу предложить идею?"
+      },
+      {
+        "en": "He made a useful suggestion in the meeting.",
+        "ru": "Он внёс полезное предложение на встрече."
+      },
+      {
+        "en": "Feel free to make suggestions.",
+        "ru": "Смело предлагайте идеи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a recommendation",
+    "lemma": "make a recommendation",
+    "level": "b2",
+    "tr": "дать рекомендацию",
+    "examples": [
+      {
+        "en": "The auditor made several recommendations.",
+        "ru": "Аудитор дал несколько рекомендаций."
+      },
+      {
+        "en": "I'd make a recommendation to upgrade.",
+        "ru": "Я бы рекомендовал обновиться."
+      },
+      {
+        "en": "She made a strong recommendation for hire.",
+        "ru": "Она сильно рекомендовала нанять."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a comment",
+    "lemma": "make a comment",
+    "level": "b1",
+    "tr": "сделать замечание; прокомментировать",
+    "examples": [
+      {
+        "en": "He made a rude comment about her work.",
+        "ru": "Он грубо прокомментировал её работу."
+      },
+      {
+        "en": "Anyone can make a comment below.",
+        "ru": "Любой может оставить комментарий ниже."
+      },
+      {
+        "en": "I'd rather not make a comment.",
+        "ru": "Предпочитаю не комментировать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an excuse",
+    "lemma": "make an excuse",
+    "level": "b1",
+    "tr": "найти отговорку",
+    "examples": [
+      {
+        "en": "Stop making excuses and finish it.",
+        "ru": "Хватит отговорок — доделай."
+      },
+      {
+        "en": "He made an excuse to leave early.",
+        "ru": "Он придумал отговорку, чтобы уйти пораньше."
+      },
+      {
+        "en": "There's no excuse for being late twice.",
+        "ru": "Два опоздания уже ничем не оправдать."
+      }
+    ],
+    "note": "make an excuse ≠ have an excuse",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a promise",
+    "lemma": "make a promise",
+    "level": "b1",
+    "tr": "дать обещание",
+    "examples": [
+      {
+        "en": "Don't make a promise you can't keep.",
+        "ru": "Не давай обещаний, которые не сдержишь."
+      },
+      {
+        "en": "She made a promise to call every week.",
+        "ru": "Она пообещала звонить каждую неделю."
+      },
+      {
+        "en": "He made a promise and kept it.",
+        "ru": "Он дал обещание и сдержал его."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make arrangements",
+    "lemma": "make arrangements",
+    "level": "b1",
+    "tr": "организовать; договориться о деталях",
+    "examples": [
+      {
+        "en": "I'll make arrangements for the hotel.",
+        "ru": "Я организую отель."
+      },
+      {
+        "en": "Have you made arrangements for travel?",
+        "ru": "Ты уже договорился о поездке?"
+      },
+      {
+        "en": "We made all the arrangements in advance.",
+        "ru": "Мы всё организовали заранее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make friends",
+    "lemma": "make friends",
+    "level": "b1",
+    "tr": "заводить друзей",
+    "examples": [
+      {
+        "en": "It's easy to make friends at camp.",
+        "ru": "На кемпе легко заводить друзей."
+      },
+      {
+        "en": "She made friends quickly in the new city.",
+        "ru": "Она быстро завела друзей в новом городе."
+      },
+      {
+        "en": "He finds it hard to make friends online.",
+        "ru": "Ему сложно заводить друзей онлайн."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make peace",
+    "lemma": "make peace",
+    "level": "b2",
+    "tr": "помириться; заключить мир",
+    "examples": [
+      {
+        "en": "They finally made peace after years.",
+        "ru": "Они наконец помирились после многих лет."
+      },
+      {
+        "en": "The countries made peace in 1995.",
+        "ru": "Страны заключили мир в 1995."
+      },
+      {
+        "en": "It's time to make peace with the past.",
+        "ru": "Пора помириться с прошлым."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make noise",
+    "lemma": "make noise",
+    "level": "b1",
+    "tr": "шуметь",
+    "examples": [
+      {
+        "en": "Please don't make noise after 10 p.m.",
+        "ru": "Пожалуйста, не шумите после 22:00."
+      },
+      {
+        "en": "The kids were making too much noise.",
+        "ru": "Дети слишком шумели."
+      },
+      {
+        "en": "The fan makes a weird noise.",
+        "ru": "Вентилятор странно шумит."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a mess",
+    "lemma": "make a mess",
+    "level": "b1",
+    "tr": "навести беспорядок; наломать дров",
+    "examples": [
+      {
+        "en": "Don't make a mess in the kitchen.",
+        "ru": "Не устраивай беспорядок на кухне."
+      },
+      {
+        "en": "The puppy made a mess on the carpet.",
+        "ru": "Щенок наследил на ковре."
+      },
+      {
+        "en": "The update made a mess of our configs.",
+        "ru": "Обновление разнесло наши конфиги."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make room",
+    "lemma": "make room",
+    "level": "b1",
+    "tr": "освободить место",
+    "examples": [
+      {
+        "en": "Can you make room for one more chair?",
+        "ru": "Освободишь место для ещё одного стула?"
+      },
+      {
+        "en": "We made room for the new server.",
+        "ru": "Мы освободили место под новый сервер."
+      },
+      {
+        "en": "Make room — the trolley is coming.",
+        "ru": "Посторонитесь — едет тележка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make way",
+    "lemma": "make way",
+    "level": "b2",
+    "tr": "дать дорогу; уступить место",
+    "examples": [
+      {
+        "en": "Please make way for the ambulance.",
+        "ru": "Пропустите скорую."
+      },
+      {
+        "en": "Old habits must make way for new ones.",
+        "ru": "Старые привычки должны уступить новым."
+      },
+      {
+        "en": "Make way — coming through!",
+        "ru": "Дорогу — проходим!"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make contact",
+    "lemma": "make contact",
+    "level": "b2",
+    "tr": "установить контакт; связаться",
+    "examples": [
+      {
+        "en": "We made contact with the vendor yesterday.",
+        "ru": "Вчера связались с поставщиком."
+      },
+      {
+        "en": "She's trying to make contact with alumni.",
+        "ru": "Она пытается выйти на связь с выпускниками."
+      },
+      {
+        "en": "Make contact before you ship anything.",
+        "ru": "Свяжитесь, прежде чем что-то отправлять."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a deal",
+    "lemma": "make a deal",
+    "level": "b1",
+    "tr": "заключить сделку",
+    "examples": [
+      {
+        "en": "They made a deal after long talks.",
+        "ru": "Они заключили сделку после долгих переговоров."
+      },
+      {
+        "en": "Can we make a deal on the price?",
+        "ru": "Можем договориться о цене?"
+      },
+      {
+        "en": "He made a deal with his brother.",
+        "ru": "Он договорился с братом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an offer",
+    "lemma": "make an offer",
+    "level": "b1",
+    "tr": "сделать предложение (оферту)",
+    "examples": [
+      {
+        "en": "They made an offer on the house.",
+        "ru": "Они сделали оферту на дом."
+      },
+      {
+        "en": "We made a competitive offer.",
+        "ru": "Мы сделали конкурентоспособное предложение."
+      },
+      {
+        "en": "She turned down the offer we made.",
+        "ru": "Она отклонила наше предложение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a contribution",
+    "lemma": "make a contribution",
+    "level": "b2",
+    "tr": "внести вклад",
+    "examples": [
+      {
+        "en": "Everyone made a contribution to the fund.",
+        "ru": "Каждый внёс вклад в фонд."
+      },
+      {
+        "en": "She made a major contribution to the paper.",
+        "ru": "Она внесла большой вклад в статью."
+      },
+      {
+        "en": "Even small donations make a contribution.",
+        "ru": "Даже маленькие пожертвования — это вклад."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a discovery",
+    "lemma": "make a discovery",
+    "level": "b2",
+    "tr": "сделать открытие",
+    "examples": [
+      {
+        "en": "Scientists made an important discovery.",
+        "ru": "Учёные сделали важное открытие."
+      },
+      {
+        "en": "He made a surprising discovery in the logs.",
+        "ru": "Он сделал неожиданное открытие в логах."
+      },
+      {
+        "en": "They made the discovery by accident.",
+        "ru": "Они сделали открытие случайно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an attempt",
+    "lemma": "make an attempt",
+    "level": "b1",
+    "tr": "предпринять попытку",
+    "examples": [
+      {
+        "en": "She made an attempt to fix the bug.",
+        "ru": "Она попыталась починить баг."
+      },
+      {
+        "en": "They made several attempts to call.",
+        "ru": "Они несколько раз пытались дозвониться."
+      },
+      {
+        "en": "At least make an attempt before quitting.",
+        "ru": "Хотя бы попробуй, прежде чем сдаваться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a breakthrough",
+    "lemma": "make a breakthrough",
+    "level": "b2",
+    "tr": "совершить прорыв",
+    "examples": [
+      {
+        "en": "The lab made a breakthrough in battery tech.",
+        "ru": "Лаборатория совершила прорыв в батареях."
+      },
+      {
+        "en": "We finally made a breakthrough in talks.",
+        "ru": "Мы наконец добились прорыва в переговорах."
+      },
+      {
+        "en": "A breakthrough like that takes years.",
+        "ru": "Такой прорыв занимает годы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a living",
+    "lemma": "make a living",
+    "level": "b1",
+    "tr": "зарабатывать на жизнь",
+    "examples": [
+      {
+        "en": "She makes a living as a designer.",
+        "ru": "Она зарабатывает на жизнь дизайном."
+      },
+      {
+        "en": "It's hard to make a living in freelancing.",
+        "ru": "На фрилансе сложно зарабатывать на жизнь."
+      },
+      {
+        "en": "He makes a decent living.",
+        "ru": "Он неплохо зарабатывает."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make the most of",
+    "lemma": "make the most of",
+    "level": "b2",
+    "tr": "извлечь максимум из",
+    "examples": [
+      {
+        "en": "Make the most of your free time.",
+        "ru": "Используй свободное время по максимуму."
+      },
+      {
+        "en": "We made the most of the sunny weekend.",
+        "ru": "Мы выжали максимум из солнечных выходных."
+      },
+      {
+        "en": "She made the most of a bad situation.",
+        "ru": "Она извлекла максимум из плохой ситуации."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a habit of",
+    "lemma": "make a habit of",
+    "level": "b2",
+    "tr": "взять в привычку",
+    "examples": [
+      {
+        "en": "Make a habit of reviewing your notes.",
+        "ru": "Возьми в привычку пересматривать заметки."
+      },
+      {
+        "en": "He's made a habit of arriving early.",
+        "ru": "Он привык приходить рано."
+      },
+      {
+        "en": "Don't make a habit of skipping lunch.",
+        "ru": "Не привыкай пропускать обед."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make clear",
+    "lemma": "make clear",
+    "level": "b2",
+    "tr": "прояснить; дать понять",
+    "examples": [
+      {
+        "en": "Let me make one thing clear.",
+        "ru": "Позвольте кое-что прояснить."
+      },
+      {
+        "en": "The email made our position clear.",
+        "ru": "Письмо прояснило нашу позицию."
+      },
+      {
+        "en": "She made it clear she disagreed.",
+        "ru": "Она ясно дала понять, что не согласна."
+      }
+    ],
+    "note": "часто make it clear",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make known",
+    "lemma": "make known",
+    "level": "c1",
+    "tr": "сделать известным; объявить",
+    "examples": [
+      {
+        "en": "The results will be made known next week.",
+        "ru": "Результаты объявят на следующей неделе."
+      },
+      {
+        "en": "He made his views known publicly.",
+        "ru": "Он публично озвучил свои взгляды."
+      },
+      {
+        "en": "Please make any conflicts known early.",
+        "ru": "Сообщайте о конфликтах интересов заранее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make public",
+    "lemma": "make public",
+    "level": "b2",
+    "tr": "обнародовать; предать гласности",
+    "examples": [
+      {
+        "en": "They made the report public yesterday.",
+        "ru": "Вчера они обнародовали отчёт."
+      },
+      {
+        "en": "Don't make personal data public.",
+        "ru": "Не выкладывайте персональные данные в открытый доступ."
+      },
+      {
+        "en": "The company made the recall public.",
+        "ru": "Компания публично объявила об отзыве."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a request",
+    "lemma": "make a request",
+    "level": "b1",
+    "tr": "сделать запрос; попросить",
+    "examples": [
+      {
+        "en": "I'd like to make a request for time off.",
+        "ru": "Хочу попросить отгул."
+      },
+      {
+        "en": "Customers can make a request via chat.",
+        "ru": "Клиенты могут сделать запрос в чате."
+      },
+      {
+        "en": "She made a polite request for help.",
+        "ru": "Она вежливо попросила о помощи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a reservation",
+    "lemma": "make a reservation",
+    "level": "b1",
+    "tr": "забронировать",
+    "examples": [
+      {
+        "en": "Did you make a reservation for dinner?",
+        "ru": "Ты забронировал столик на ужин?"
+      },
+      {
+        "en": "I'll make a reservation online.",
+        "ru": "Забронирую онлайн."
+      },
+      {
+        "en": "We made a reservation under your name.",
+        "ru": "Мы забронировали на ваше имя."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a booking",
+    "lemma": "make a booking",
+    "level": "b1",
+    "tr": "сделать бронь",
+    "examples": [
+      {
+        "en": "Make a booking before the seats sell out.",
+        "ru": "Забронируй, пока места не разобрали."
+      },
+      {
+        "en": "I made a booking for two nights.",
+        "ru": "Я забронировал на две ночи."
+      },
+      {
+        "en": "You can make a booking by phone.",
+        "ru": "Бронь можно сделать по телефону."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an inquiry",
+    "lemma": "make an inquiry",
+    "level": "b2",
+    "tr": "сделать запрос; навести справку",
+    "examples": [
+      {
+        "en": "She made an inquiry about the warranty.",
+        "ru": "Она навела справку о гарантии."
+      },
+      {
+        "en": "We've made several inquiries already.",
+        "ru": "Мы уже сделали несколько запросов."
+      },
+      {
+        "en": "Make an inquiry before you buy.",
+        "ru": "Наведите справки перед покупкой."
+      }
+    ],
+    "note": "AmE inquiry / BrE enquiry",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a payment",
+    "lemma": "make a payment",
+    "level": "b1",
+    "tr": "совершить платёж",
+    "examples": [
+      {
+        "en": "Please make a payment by the due date.",
+        "ru": "Пожалуйста, оплатите до срока."
+      },
+      {
+        "en": "I made a payment this morning.",
+        "ru": "Я оплатил сегодня утром."
+      },
+      {
+        "en": "You can make a payment in the app.",
+        "ru": "Оплатить можно в приложении."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a deposit",
+    "lemma": "make a deposit",
+    "level": "b1",
+    "tr": "внести депозит / вклад",
+    "examples": [
+      {
+        "en": "We made a deposit on the apartment.",
+        "ru": "Мы внесли депозит за квартиру."
+      },
+      {
+        "en": "Make a deposit to confirm the booking.",
+        "ru": "Внесите депозит, чтобы подтвердить бронь."
+      },
+      {
+        "en": "She made a deposit into her savings.",
+        "ru": "Она положила деньги на сберегательный счёт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a withdrawal",
+    "lemma": "make a withdrawal",
+    "level": "b2",
+    "tr": "снять деньги (со счёта)",
+    "examples": [
+      {
+        "en": "He made a withdrawal at the ATM.",
+        "ru": "Он снял деньги в банкомате."
+      },
+      {
+        "en": "You can make a withdrawal free twice a month.",
+        "ru": "Снимать бесплатно можно дважды в месяц."
+      },
+      {
+        "en": "Large withdrawals may need notice.",
+        "ru": "Крупные снятия могут требовать уведомления."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a call",
+    "lemma": "make a call",
+    "level": "b1",
+    "tr": "позвонить",
+    "examples": [
+      {
+        "en": "I need to make a quick call.",
+        "ru": "Мне нужно быстро позвонить."
+      },
+      {
+        "en": "She made a call to support.",
+        "ru": "Она позвонила в поддержку."
+      },
+      {
+        "en": "Can I make a call from here?",
+        "ru": "Можно отсюда позвонить?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a change",
+    "lemma": "make a change",
+    "level": "b1",
+    "tr": "внести изменение",
+    "examples": [
+      {
+        "en": "We need to make a change to the design.",
+        "ru": "Нужно изменить дизайн."
+      },
+      {
+        "en": "They made several changes overnight.",
+        "ru": "Они внесли несколько правок за ночь."
+      },
+      {
+        "en": "One small change made everything clearer.",
+        "ru": "Одна маленькая правка всё прояснила."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make improvements",
+    "lemma": "make improvements",
+    "level": "b1",
+    "tr": "улучшать; вносить улучшения",
+    "examples": [
+      {
+        "en": "The team made improvements to the UI.",
+        "ru": "Команда улучшила интерфейс."
+      },
+      {
+        "en": "We've made steady improvements this year.",
+        "ru": "В этом году мы стабильно улучшаемся."
+      },
+      {
+        "en": "Make improvements based on user feedback.",
+        "ru": "Улучшайте на основе фидбека пользователей."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make use of",
+    "lemma": "make use of",
+    "level": "b2",
+    "tr": "использовать; воспользоваться",
+    "examples": [
+      {
+        "en": "Make use of the free templates.",
+        "ru": "Воспользуйтесь бесплатными шаблонами."
+      },
+      {
+        "en": "She made good use of her network.",
+        "ru": "Она хорошо использовала свои связи."
+      },
+      {
+        "en": "We made use of every spare minute.",
+        "ru": "Мы использовали каждую свободную минуту."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "make fun of",
+    "lemma": "make fun of",
+    "level": "b1",
+    "tr": "высмеивать; подшучивать",
+    "examples": [
+      {
+        "en": "Don't make fun of his accent.",
+        "ru": "Не насмехайся над его акцентом."
+      },
+      {
+        "en": "They made fun of the old logo.",
+        "ru": "Они посмеялись над старым логотипом."
+      },
+      {
+        "en": "She hates being made fun of.",
+        "ru": "Она ненавидит, когда над ней шутят."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take responsibility",
+    "lemma": "take responsibility",
+    "level": "b1",
+    "tr": "взять на себя ответственность",
+    "examples": [
+      {
+        "en": "Someone has to take responsibility for the outage.",
+        "ru": "Кто-то должен взять ответственность за аварию."
+      },
+      {
+        "en": "She took responsibility and fixed the process.",
+        "ru": "Она взяла ответственность и исправила процесс."
+      },
+      {
+        "en": "Don't take responsibility for others' mistakes.",
+        "ru": "Не бери ответственность за чужие ошибки."
+      }
+    ],
+    "note": "",
+    "colloc": "take responsibility (for)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take action",
+    "lemma": "take action",
+    "level": "b1",
+    "tr": "принять меры; действовать",
+    "examples": [
+      {
+        "en": "We need to take action immediately.",
+        "ru": "Нужно немедленно принять меры."
+      },
+      {
+        "en": "They took action after the audit.",
+        "ru": "Они приняли меры после аудита."
+      },
+      {
+        "en": "Failure to take action will cost more later.",
+        "ru": "Бездействие обойдётся дороже потом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take part",
+    "lemma": "take part",
+    "level": "b1",
+    "tr": "принимать участие",
+    "examples": [
+      {
+        "en": "Would you like to take part in the survey?",
+        "ru": "Хотите принять участие в опросе?"
+      },
+      {
+        "en": "Over 200 people took part.",
+        "ru": "Участие приняли более 200 человек."
+      },
+      {
+        "en": "She took part in three workshops.",
+        "ru": "Она участвовала в трёх воркшопах."
+      }
+    ],
+    "note": "",
+    "colloc": "take part (in)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take care",
+    "lemma": "take care",
+    "level": "b1",
+    "tr": "заботиться; беречь себя",
+    "examples": [
+      {
+        "en": "Take care on the icy roads.",
+        "ru": "Осторожнее на обледенелых дорогах."
+      },
+      {
+        "en": "She takes care of her younger brother.",
+        "ru": "Она заботится о младшем брате."
+      },
+      {
+        "en": "Take care — talk soon.",
+        "ru": "Береги себя — спишемся."
+      }
+    ],
+    "note": "",
+    "colloc": "take care (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take advantage",
+    "lemma": "take advantage",
+    "level": "b1",
+    "tr": "воспользоваться; воспользоваться преимуществом",
+    "examples": [
+      {
+        "en": "Take advantage of the free trial.",
+        "ru": "Воспользуйтесь бесплатным пробным периодом."
+      },
+      {
+        "en": "He took advantage of the quiet morning.",
+        "ru": "Он воспользовался тихим утром."
+      },
+      {
+        "en": "Don't let others take advantage of you.",
+        "ru": "Не позволяй другим тебя использовать."
+      }
+    ],
+    "note": "take advantage of = воспользоваться; иногда «использовать в своих целях»",
+    "colloc": "take advantage of",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a break",
+    "lemma": "take a break",
+    "level": "b1",
+    "tr": "сделать перерыв",
+    "examples": [
+      {
+        "en": "Let's take a break for ten minutes.",
+        "ru": "Давайте сделаем перерыв на десять минут."
+      },
+      {
+        "en": "She took a break from social media.",
+        "ru": "Она взяла перерыв от соцсетей."
+      },
+      {
+        "en": "I need to take a short break.",
+        "ru": "Мне нужен короткий перерыв."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a look",
+    "lemma": "take a look",
+    "level": "b1",
+    "tr": "взглянуть; посмотреть",
+    "examples": [
+      {
+        "en": "Can you take a look at this error?",
+        "ru": "Можешь глянуть на эту ошибку?"
+      },
+      {
+        "en": "Take a look at the new mockups.",
+        "ru": "Посмотри новые макеты."
+      },
+      {
+        "en": "I'll take a quick look after lunch.",
+        "ru": "Быстро гляну после обеда."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take notes",
+    "lemma": "take notes",
+    "level": "b1",
+    "tr": "делать заметки; конспектировать",
+    "examples": [
+      {
+        "en": "Please take notes during the call.",
+        "ru": "Делайте заметки во время созвона."
+      },
+      {
+        "en": "She takes detailed notes in every class.",
+        "ru": "Она подробно конспектирует на каждой паре."
+      },
+      {
+        "en": "I forgot to take notes yesterday.",
+        "ru": "Вчера забыл законспектировать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a risk",
+    "lemma": "take a risk",
+    "level": "b1",
+    "tr": "рискнуть",
+    "examples": [
+      {
+        "en": "Sometimes you have to take a risk.",
+        "ru": "Иногда приходится рисковать."
+      },
+      {
+        "en": "They took a calculated risk.",
+        "ru": "Они пошли на продуманный риск."
+      },
+      {
+        "en": "I'm not ready to take that risk.",
+        "ru": "Я не готов на такой риск."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a chance",
+    "lemma": "take a chance",
+    "level": "b1",
+    "tr": "рискнуть; дать шанс",
+    "examples": [
+      {
+        "en": "Take a chance — apply anyway.",
+        "ru": "Рискни — подай заявку всё равно."
+      },
+      {
+        "en": "She took a chance on a new career.",
+        "ru": "Она рискнула ради новой карьеры."
+      },
+      {
+        "en": "We took a chance and it paid off.",
+        "ru": "Мы рискнули — и окупилось."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take account of",
+    "lemma": "take account of",
+    "level": "b2",
+    "tr": "учитывать",
+    "examples": [
+      {
+        "en": "Take account of timezone differences.",
+        "ru": "Учитывайте разницу часовых поясов."
+      },
+      {
+        "en": "The plan takes account of seasonal demand.",
+        "ru": "План учитывает сезонный спрос."
+      },
+      {
+        "en": "Did you take account of shipping costs?",
+        "ru": "Ты учёл стоимость доставки?"
+      }
+    ],
+    "note": "BrE; AmE чаще take into account",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take turns",
+    "lemma": "take turns",
+    "level": "b1",
+    "tr": "делать по очереди",
+    "examples": [
+      {
+        "en": "The kids took turns on the swing.",
+        "ru": "Дети качались по очереди."
+      },
+      {
+        "en": "Let's take turns presenting.",
+        "ru": "Давайте презентовать по очереди."
+      },
+      {
+        "en": "They take turns cooking dinner.",
+        "ru": "Они готовят ужин по очереди."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a seat",
+    "lemma": "take a seat",
+    "level": "b1",
+    "tr": "присесть; занять место",
+    "examples": [
+      {
+        "en": "Please take a seat.",
+        "ru": "Присаживайтесь, пожалуйста."
+      },
+      {
+        "en": "She took a seat near the window.",
+        "ru": "Она села у окна."
+      },
+      {
+        "en": "Take a seat — we'll start soon.",
+        "ru": "Садитесь — скоро начнём."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a photo",
+    "lemma": "take a photo",
+    "level": "b1",
+    "tr": "сфотографировать",
+    "examples": [
+      {
+        "en": "Can I take a photo of the whiteboard?",
+        "ru": "Можно сфотографировать доску?"
+      },
+      {
+        "en": "He took a photo for the report.",
+        "ru": "Он сделал фото для отчёта."
+      },
+      {
+        "en": "Tourists took photos of the square.",
+        "ru": "Туристы фотографировали площадь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a picture",
+    "lemma": "take a picture",
+    "level": "b1",
+    "tr": "сделать снимок",
+    "examples": [
+      {
+        "en": "Take a picture — this view is great.",
+        "ru": "Сфотографируй — вид отличный."
+      },
+      {
+        "en": "She took a picture of the receipt.",
+        "ru": "Она сфотографировала чек."
+      },
+      {
+        "en": "We took pictures all afternoon.",
+        "ru": "Мы весь день фотографировали."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a shower",
+    "lemma": "take a shower",
+    "level": "b1",
+    "tr": "принять душ",
+    "examples": [
+      {
+        "en": "I need to take a shower before we leave.",
+        "ru": "Мне нужно принять душ перед выходом."
+      },
+      {
+        "en": "He took a quick shower.",
+        "ru": "Он быстро принял душ."
+      },
+      {
+        "en": "She takes a shower every morning.",
+        "ru": "Она принимает душ каждое утро."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a bath",
+    "lemma": "take a bath",
+    "level": "b1",
+    "tr": "принять ванну",
+    "examples": [
+      {
+        "en": "The kids take a bath before bed.",
+        "ru": "Дети принимают ванну перед сном."
+      },
+      {
+        "en": "I took a long bath after work.",
+        "ru": "После работы я принял долгую ванну."
+      },
+      {
+        "en": "Don't take a bath if you're in a hurry.",
+        "ru": "Не принимай ванну, если спешишь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take medicine",
+    "lemma": "take medicine",
+    "level": "b1",
+    "tr": "принимать лекарство",
+    "examples": [
+      {
+        "en": "Take this medicine twice a day.",
+        "ru": "Принимайте это лекарство дважды в день."
+      },
+      {
+        "en": "She forgot to take her medicine.",
+        "ru": "Она забыла принять лекарство."
+      },
+      {
+        "en": "Did you take your medicine today?",
+        "ru": "Ты сегодня принял лекарство?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a pill",
+    "lemma": "take a pill",
+    "level": "b1",
+    "tr": "принять таблетку",
+    "examples": [
+      {
+        "en": "Take a pill with water.",
+        "ru": "Примите таблетку с водой."
+      },
+      {
+        "en": "He took a pill for the headache.",
+        "ru": "Он принял таблетку от головной боли."
+      },
+      {
+        "en": "Don't take more pills than prescribed.",
+        "ru": "Не превышай назначенную дозу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a test",
+    "lemma": "take a test",
+    "level": "b1",
+    "tr": "сдавать тест / экзамен",
+    "examples": [
+      {
+        "en": "I'm taking a test tomorrow morning.",
+        "ru": "Завтра утром сдаю тест."
+      },
+      {
+        "en": "She took the driving test twice.",
+        "ru": "Она сдавала экзамен по вождению дважды."
+      },
+      {
+        "en": "Students take tests at the end of term.",
+        "ru": "Студенты сдают тесты в конце семестра."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take an exam",
+    "lemma": "take an exam",
+    "level": "b1",
+    "tr": "сдавать экзамен",
+    "examples": [
+      {
+        "en": "He takes his final exam next week.",
+        "ru": "Финальный экзамен у него на следующей неделе."
+      },
+      {
+        "en": "I took the exam in June.",
+        "ru": "Я сдавал экзамен в июне."
+      },
+      {
+        "en": "Calm down before you take the exam.",
+        "ru": "Успокойся перед экзаменом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a course",
+    "lemma": "take a course",
+    "level": "b1",
+    "tr": "пройти курс",
+    "examples": [
+      {
+        "en": "She took a course in data analysis.",
+        "ru": "Она прошла курс по анализу данных."
+      },
+      {
+        "en": "I'm taking an online course.",
+        "ru": "Я прохожу онлайн-курс."
+      },
+      {
+        "en": "Take a course if you need the skill.",
+        "ru": "Пройди курс, если нужен навык."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take advice",
+    "lemma": "take advice",
+    "level": "b1",
+    "tr": "последовать совету",
+    "examples": [
+      {
+        "en": "You should take her advice.",
+        "ru": "Тебе стоит последовать её совету."
+      },
+      {
+        "en": "He rarely takes advice from anyone.",
+        "ru": "Он редко слушает чужие советы."
+      },
+      {
+        "en": "I took your advice and it worked.",
+        "ru": "Я последовал твоему совету — сработало."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a message",
+    "lemma": "take a message",
+    "level": "b1",
+    "tr": "принять сообщение / передать",
+    "examples": [
+      {
+        "en": "Can I take a message?",
+        "ru": "Могу я передать сообщение?"
+      },
+      {
+        "en": "She took a message while I was out.",
+        "ru": "Она приняла сообщение, пока меня не было."
+      },
+      {
+        "en": "Please take a message if he calls.",
+        "ru": "Если позвонит — примите сообщение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take the lead",
+    "lemma": "take the lead",
+    "level": "b2",
+    "tr": "взять инициативу / лидерство",
+    "examples": [
+      {
+        "en": "She took the lead on the project.",
+        "ru": "Она взяла лидерство по проекту."
+      },
+      {
+        "en": "Someone needs to take the lead here.",
+        "ru": "Кому-то нужно взять инициативу."
+      },
+      {
+        "en": "Our team took the lead in the second half.",
+        "ru": "Наша команда вышла вперёд во втором тайме."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take charge",
+    "lemma": "take charge",
+    "level": "b2",
+    "tr": "взять управление / ответственность",
+    "examples": [
+      {
+        "en": "He took charge when the manager left.",
+        "ru": "Он взял управление, когда ушёл менеджер."
+      },
+      {
+        "en": "Who will take charge of onboarding?",
+        "ru": "Кто возьмёт на себя онбординг?"
+      },
+      {
+        "en": "She took charge of the crisis response.",
+        "ru": "Она возглавила реагирование на кризис."
+      }
+    ],
+    "note": "",
+    "colloc": "take charge (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take control",
+    "lemma": "take control",
+    "level": "b2",
+    "tr": "взять под контроль",
+    "examples": [
+      {
+        "en": "We need to take control of costs.",
+        "ru": "Нужно взять расходы под контроль."
+      },
+      {
+        "en": "She took control of the negotiation.",
+        "ru": "Она взяла переговоры под контроль."
+      },
+      {
+        "en": "Hackers took control of the account.",
+        "ru": "Хакеры захватили контроль над аккаунтом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take pride",
+    "lemma": "take pride",
+    "level": "b2",
+    "tr": "гордиться",
+    "examples": [
+      {
+        "en": "Take pride in your craft.",
+        "ru": "Гордись своим мастерством."
+      },
+      {
+        "en": "They take pride in customer service.",
+        "ru": "Они гордятся сервисом."
+      },
+      {
+        "en": "She took pride in finishing first.",
+        "ru": "Она гордилась тем, что финишировала первой."
+      }
+    ],
+    "note": "",
+    "colloc": "take pride (in)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take offense",
+    "lemma": "take offense",
+    "level": "b2",
+    "tr": "обидеться",
+    "examples": [
+      {
+        "en": "Please don't take offense — I was joking.",
+        "ru": "Не обижайся — я шутил."
+      },
+      {
+        "en": "He took offense at the remark.",
+        "ru": "Он обиделся на замечание."
+      },
+      {
+        "en": "Some users took offense at the ad.",
+        "ru": "Некоторые пользователи обиделись на рекламу."
+      }
+    ],
+    "note": "AmE offense / BrE offence",
+    "colloc": "take offense (at)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take notice",
+    "lemma": "take notice",
+    "level": "b2",
+    "tr": "обратить внимание",
+    "examples": [
+      {
+        "en": "Investors began to take notice.",
+        "ru": "Инвесторы начали обращать внимание."
+      },
+      {
+        "en": "Take notice of the warning signs.",
+        "ru": "Обрати внимание на тревожные сигналы."
+      },
+      {
+        "en": "Nobody took notice of the typo.",
+        "ru": "На опечатку никто не обратил внимания."
+      }
+    ],
+    "note": "",
+    "colloc": "take notice (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take cover",
+    "lemma": "take cover",
+    "level": "b2",
+    "tr": "укрыться",
+    "examples": [
+      {
+        "en": "Take cover — the rain is heavy.",
+        "ru": "Укройтесь — сильный дождь."
+      },
+      {
+        "en": "People took cover under the bridge.",
+        "ru": "Люди укрылись под мостом."
+      },
+      {
+        "en": "Soldiers took cover behind the wall.",
+        "ru": "Солдаты укрылись за стеной."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take shelter",
+    "lemma": "take shelter",
+    "level": "b2",
+    "tr": "укрыться; найти убежище",
+    "examples": [
+      {
+        "en": "Hikers took shelter from the storm.",
+        "ru": "Туристы укрылись от бури."
+      },
+      {
+        "en": "Take shelter indoors during the alert.",
+        "ru": "Во время тревоги укройтесь в помещении."
+      },
+      {
+        "en": "Animals take shelter in the trees.",
+        "ru": "Животные укрываются на деревьях."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take revenge",
+    "lemma": "take revenge",
+    "level": "b2",
+    "tr": "отомстить",
+    "examples": [
+      {
+        "en": "Don't take revenge — walk away.",
+        "ru": "Не мсти — просто уйди."
+      },
+      {
+        "en": "He took revenge years later.",
+        "ru": "Он отомстил годы спустя."
+      },
+      {
+        "en": "Taking revenge rarely helps.",
+        "ru": "Месть редко помогает."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take the blame",
+    "lemma": "take the blame",
+    "level": "b2",
+    "tr": "принять вину на себя",
+    "examples": [
+      {
+        "en": "He took the blame for the team.",
+        "ru": "Он принял вину за команду."
+      },
+      {
+        "en": "I won't take the blame for this mess.",
+        "ru": "Я не приму вину за этот бардак."
+      },
+      {
+        "en": "Someone always has to take the blame.",
+        "ru": "Кто-то всегда должен принять вину."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take credit",
+    "lemma": "take credit",
+    "level": "b2",
+    "tr": "присвоить заслугу",
+    "examples": [
+      {
+        "en": "Don't take credit for her work.",
+        "ru": "Не присваивай заслугу за её работу."
+      },
+      {
+        "en": "He took credit for the idea.",
+        "ru": "Он приписал идею себе."
+      },
+      {
+        "en": "She refused to take credit alone.",
+        "ru": "Она отказалась принимать заслугу в одиночку."
+      }
+    ],
+    "note": "",
+    "colloc": "take credit (for)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a toll",
+    "lemma": "take a toll",
+    "level": "c1",
+    "tr": "сказаться; нанести урон",
+    "examples": [
+      {
+        "en": "Long hours take a toll on health.",
+        "ru": "Долгие часы сказываются на здоровье."
+      },
+      {
+        "en": "The crisis took a toll on morale.",
+        "ru": "Кризис ударил по моральному духу."
+      },
+      {
+        "en": "Stress is taking a toll on him.",
+        "ru": "Стресс на нём сказывается."
+      }
+    ],
+    "note": "",
+    "colloc": "take a toll (on)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take shape",
+    "lemma": "take shape",
+    "level": "b2",
+    "tr": "обретать форму; складываться",
+    "examples": [
+      {
+        "en": "The plan is starting to take shape.",
+        "ru": "План начинает обретать форму."
+      },
+      {
+        "en": "Ideas took shape during the workshop.",
+        "ru": "Идеи сложились на воркшопе."
+      },
+      {
+        "en": "The novel took shape over five years.",
+        "ru": "Роман складывался пять лет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take hold",
+    "lemma": "take hold",
+    "level": "c1",
+    "tr": "укрепиться; взяться (о привычке/идее)",
+    "examples": [
+      {
+        "en": "New habits take hold slowly.",
+        "ru": "Новые привычки закрепляются медленно."
+      },
+      {
+        "en": "Panic took hold of the crowd.",
+        "ru": "Паника охватила толпу."
+      },
+      {
+        "en": "The trend took hold among teens.",
+        "ru": "Тренд закрепился среди подростков."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take root",
+    "lemma": "take root",
+    "level": "c1",
+    "tr": "укорениться",
+    "examples": [
+      {
+        "en": "Democracy took root after reforms.",
+        "ru": "Демократия укоренилась после реформ."
+      },
+      {
+        "en": "Doubt began to take root.",
+        "ru": "Сомнения начали укореняться."
+      },
+      {
+        "en": "The idea has taken root in the team.",
+        "ru": "Идея укоренилась в команде."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take precedence",
+    "lemma": "take precedence",
+    "level": "c1",
+    "tr": "иметь приоритет",
+    "examples": [
+      {
+        "en": "Safety takes precedence over speed.",
+        "ru": "Безопасность имеет приоритет над скоростью."
+      },
+      {
+        "en": "Urgent tickets take precedence.",
+        "ru": "Срочные тикеты в приоритете."
+      },
+      {
+        "en": "Family took precedence that week.",
+        "ru": "В ту неделю семья была важнее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take precedence over",
+    "lemma": "take precedence over",
+    "level": "c1",
+    "tr": "иметь приоритет над",
+    "examples": [
+      {
+        "en": "Quality takes precedence over quantity.",
+        "ru": "Качество важнее количества."
+      },
+      {
+        "en": "Legal review takes precedence over launch.",
+        "ru": "Юрпроверка важнее запуска."
+      },
+      {
+        "en": "Customer safety takes precedence over profit.",
+        "ru": "Безопасность клиентов важнее прибыли."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a conversation",
+    "lemma": "have a conversation",
+    "level": "b1",
+    "tr": "побеседовать; провести разговор",
+    "examples": [
+      {
+        "en": "Can we have a conversation about this?",
+        "ru": "Можем поговорить об этом?"
+      },
+      {
+        "en": "They had a long conversation after dinner.",
+        "ru": "После ужина они долго беседовали."
+      },
+      {
+        "en": "I'd rather have a conversation than email.",
+        "ru": "Лучше поговорить, чем писать письма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a discussion",
+    "lemma": "have a discussion",
+    "level": "b1",
+    "tr": "обсудить; провести дискуссию",
+    "examples": [
+      {
+        "en": "Let's have a discussion in the standup.",
+        "ru": "Давайте обсудим это на стендапе."
+      },
+      {
+        "en": "We had a productive discussion.",
+        "ru": "У нас было продуктивное обсуждение."
+      },
+      {
+        "en": "The panel had a heated discussion.",
+        "ru": "На панели была жаркая дискуссия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an argument",
+    "lemma": "have an argument",
+    "level": "b1",
+    "tr": "поссориться; поспорить",
+    "examples": [
+      {
+        "en": "They had an argument about money.",
+        "ru": "Они поссорились из-за денег."
+      },
+      {
+        "en": "I hate having arguments at work.",
+        "ru": "Ненавижу рабочие ссоры."
+      },
+      {
+        "en": "We had a short argument, then moved on.",
+        "ru": "Коротко поспорили и пошли дальше."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a word",
+    "lemma": "have a word",
+    "level": "b1",
+    "tr": "переговорить; сказать пару слов",
+    "examples": [
+      {
+        "en": "Can I have a word with you?",
+        "ru": "Можно на пару слов?"
+      },
+      {
+        "en": "The manager had a word with him.",
+        "ru": "Менеджер с ним переговорил."
+      },
+      {
+        "en": "I'd like to have a word after the call.",
+        "ru": "Хочу переговорить после созвона."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a look",
+    "lemma": "have a look",
+    "level": "b1",
+    "tr": "взглянуть",
+    "examples": [
+      {
+        "en": "Have a look at this chart.",
+        "ru": "Взгляни на этот график."
+      },
+      {
+        "en": "I'll have a look later today.",
+        "ru": "Посмотрю сегодня попозже."
+      },
+      {
+        "en": "She had a look and spotted the bug.",
+        "ru": "Она глянула и нашла баг."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have fun",
+    "lemma": "have fun",
+    "level": "b1",
+    "tr": "веселиться; получать удовольствие",
+    "examples": [
+      {
+        "en": "Have fun at the party!",
+        "ru": "Веселись на вечеринке!"
+      },
+      {
+        "en": "We had fun exploring the city.",
+        "ru": "Мы отлично провели время, исследуя город."
+      },
+      {
+        "en": "Kids were having fun outside.",
+        "ru": "Дети веселились на улице."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have trouble",
+    "lemma": "have trouble",
+    "level": "b1",
+    "tr": "испытывать трудности",
+    "examples": [
+      {
+        "en": "I'm having trouble with the login.",
+        "ru": "У меня проблемы со входом."
+      },
+      {
+        "en": "She had trouble sleeping.",
+        "ru": "Ей было трудно спать."
+      },
+      {
+        "en": "We had trouble finding parking.",
+        "ru": "Нам было сложно найти парковку."
+      }
+    ],
+    "note": "",
+    "colloc": "have trouble (with / -ing)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have difficulty",
+    "lemma": "have difficulty",
+    "level": "b2",
+    "tr": "испытывать затруднения",
+    "examples": [
+      {
+        "en": "He has difficulty speaking in public.",
+        "ru": "Ему трудно говорить на публике."
+      },
+      {
+        "en": "We had difficulty reaching support.",
+        "ru": "Нам было сложно дозвониться в поддержку."
+      },
+      {
+        "en": "Students have difficulty with this topic.",
+        "ru": "Студентам эта тема даётся трудно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an impact",
+    "lemma": "have an impact",
+    "level": "b1",
+    "tr": "оказывать влияние",
+    "examples": [
+      {
+        "en": "The policy will have an impact on prices.",
+        "ru": "Политика повлияет на цены."
+      },
+      {
+        "en": "Her speech had a real impact.",
+        "ru": "Её речь реально повлияла."
+      },
+      {
+        "en": "Small changes can have a big impact.",
+        "ru": "Маленькие изменения могут сильно повлиять."
+      }
+    ],
+    "note": "",
+    "colloc": "have an impact (on)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an effect",
+    "lemma": "have an effect",
+    "level": "b1",
+    "tr": "оказывать эффект / влияние",
+    "examples": [
+      {
+        "en": "The medicine had an effect within an hour.",
+        "ru": "Лекарство подействовало в течение часа."
+      },
+      {
+        "en": "Noise has an effect on concentration.",
+        "ru": "Шум влияет на концентрацию."
+      },
+      {
+        "en": "Did the update have any effect?",
+        "ru": "Обновление что-то изменило?"
+      }
+    ],
+    "note": "",
+    "colloc": "have an effect (on)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  }
+]

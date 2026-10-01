@@ -1,0 +1,1514 @@
+[
+  {
+    "word": "year over year",
+    "lemma": "year over year",
+    "level": "b2",
+    "tr": "YoY; год к году",
+    "examples": [
+      {
+        "en": "We should focus on year over year.",
+        "ru": "Стоит сфокусироваться на: YoY; год к году."
+      },
+      {
+        "en": "Can you clarify year over year?",
+        "ru": "Уточни, пожалуйста: YoY; год к году."
+      },
+      {
+        "en": "This relates to year over year.",
+        "ru": "Это связано с: YoY; год к году."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "month over month",
+    "lemma": "month over month",
+    "level": "b2",
+    "tr": "MoM; месяц к месяцу",
+    "examples": [
+      {
+        "en": "We should focus on month over month.",
+        "ru": "Стоит сфокусироваться на: MoM; месяц к месяцу."
+      },
+      {
+        "en": "Can you clarify month over month?",
+        "ru": "Уточни, пожалуйста: MoM; месяц к месяцу."
+      },
+      {
+        "en": "This relates to month over month.",
+        "ru": "Это связано с: MoM; месяц к месяцу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "quarter over quarter",
+    "lemma": "quarter over quarter",
+    "level": "c1",
+    "tr": "QoQ; квартал к кварталу",
+    "examples": [
+      {
+        "en": "We should focus on quarter over quarter.",
+        "ru": "Стоит сфокусироваться на: QoQ; квартал к кварталу."
+      },
+      {
+        "en": "Can you clarify quarter over quarter?",
+        "ru": "Уточни, пожалуйста: QoQ; квартал к кварталу."
+      },
+      {
+        "en": "This relates to quarter over quarter.",
+        "ru": "Это связано с: QoQ; квартал к кварталу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "go dark",
+    "lemma": "go dark",
+    "level": "c1",
+    "tr": "пропасть из коммуникации",
+    "examples": [
+      {
+        "en": "We should focus on go dark.",
+        "ru": "Стоит сфокусироваться на: пропасть из коммуникации."
+      },
+      {
+        "en": "Can you clarify go dark?",
+        "ru": "Уточни, пожалуйста: пропасть из коммуникации."
+      },
+      {
+        "en": "This relates to go dark.",
+        "ru": "Это связано с: пропасть из коммуникации."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "radio silence",
+    "lemma": "radio silence",
+    "level": "c1",
+    "tr": "радиомолчание",
+    "examples": [
+      {
+        "en": "We should focus on radio silence.",
+        "ru": "Стоит сфокусироваться на: радиомолчание."
+      },
+      {
+        "en": "Can you clarify radio silence?",
+        "ru": "Уточни, пожалуйста: радиомолчание."
+      },
+      {
+        "en": "This relates to radio silence.",
+        "ru": "Это связано с: радиомолчание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "read the room",
+    "lemma": "read the room",
+    "level": "c1",
+    "tr": "считать атмосферу",
+    "examples": [
+      {
+        "en": "We should focus on read the room.",
+        "ru": "Стоит сфокусироваться на: считать атмосферу."
+      },
+      {
+        "en": "Can you clarify read the room?",
+        "ru": "Уточни, пожалуйста: считать атмосферу."
+      },
+      {
+        "en": "This relates to read the room.",
+        "ru": "Это связано с: считать атмосферу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "manage expectations",
+    "lemma": "manage expectations",
+    "level": "b2",
+    "tr": "управлять ожиданиями",
+    "examples": [
+      {
+        "en": "We should focus on manage expectations.",
+        "ru": "Стоит сфокусироваться на: управлять ожиданиями."
+      },
+      {
+        "en": "Can you clarify manage expectations?",
+        "ru": "Уточни, пожалуйста: управлять ожиданиями."
+      },
+      {
+        "en": "This relates to manage expectations.",
+        "ru": "Это связано с: управлять ожиданиями."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "under promise over deliver",
+    "lemma": "under promise over deliver",
+    "level": "c1",
+    "tr": "обещать меньше — делать больше",
+    "examples": [
+      {
+        "en": "We should focus on under promise over deliver.",
+        "ru": "Стоит сфокусироваться на: обещать меньше — делать больше."
+      },
+      {
+        "en": "Can you clarify under promise over deliver?",
+        "ru": "Уточни, пожалуйста: обещать меньше — делать больше."
+      },
+      {
+        "en": "This relates to under promise over deliver.",
+        "ru": "Это связано с: обещать меньше — делать больше."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "close the loop",
+    "lemma": "close the loop",
+    "level": "b2",
+    "tr": "закрыть цикл коммуникации",
+    "examples": [
+      {
+        "en": "We should focus on close the loop.",
+        "ru": "Стоит сфокусироваться на: закрыть цикл коммуникации."
+      },
+      {
+        "en": "Can you clarify close the loop?",
+        "ru": "Уточни, пожалуйста: закрыть цикл коммуникации."
+      },
+      {
+        "en": "This relates to close the loop.",
+        "ru": "Это связано с: закрыть цикл коммуникации."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "double-check",
+    "lemma": "double-check",
+    "level": "b1",
+    "tr": "перепроверить",
+    "examples": [
+      {
+        "en": "We should focus on double-check.",
+        "ru": "Стоит сфокусироваться на: перепроверить."
+      },
+      {
+        "en": "Can you clarify double-check?",
+        "ru": "Уточни, пожалуйста: перепроверить."
+      },
+      {
+        "en": "This relates to double-check.",
+        "ru": "Это связано с: перепроверить."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "triple-check",
+    "lemma": "triple-check",
+    "level": "b2",
+    "tr": "перепроверить трижды",
+    "examples": [
+      {
+        "en": "We should focus on triple-check.",
+        "ru": "Стоит сфокусироваться на: перепроверить трижды."
+      },
+      {
+        "en": "Can you clarify triple-check?",
+        "ru": "Уточни, пожалуйста: перепроверить трижды."
+      },
+      {
+        "en": "This relates to triple-check.",
+        "ru": "Это связано с: перепроверить трижды."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "for the record",
+    "lemma": "for the record",
+    "level": "b2",
+    "tr": "для протокола",
+    "examples": [
+      {
+        "en": "We should focus on for the record.",
+        "ru": "Стоит сфокусироваться на: для протокола."
+      },
+      {
+        "en": "Can you clarify for the record?",
+        "ru": "Уточни, пожалуйста: для протокола."
+      },
+      {
+        "en": "This relates to for the record.",
+        "ru": "Это связано с: для протокола."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "off the record",
+    "lemma": "off the record",
+    "level": "b2",
+    "tr": "не для протокола",
+    "examples": [
+      {
+        "en": "We should focus on off the record.",
+        "ru": "Стоит сфокусироваться на: не для протокола."
+      },
+      {
+        "en": "Can you clarify off the record?",
+        "ru": "Уточни, пожалуйста: не для протокола."
+      },
+      {
+        "en": "This relates to off the record.",
+        "ru": "Это связано с: не для протокола."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "on the record",
+    "lemma": "on the record",
+    "level": "b2",
+    "tr": "для протокола / официально",
+    "examples": [
+      {
+        "en": "We should focus on on the record.",
+        "ru": "Стоит сфокусироваться на: для протокола / официально."
+      },
+      {
+        "en": "Can you clarify on the record?",
+        "ru": "Уточни, пожалуйста: для протокола / официально."
+      },
+      {
+        "en": "This relates to on the record.",
+        "ru": "Это связано с: для протокола / официально."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "per our conversation",
+    "lemma": "per our conversation",
+    "level": "b2",
+    "tr": "согласно нашему разговору",
+    "examples": [
+      {
+        "en": "We should focus on per our conversation.",
+        "ru": "Стоит сфокусироваться на: согласно нашему разговору."
+      },
+      {
+        "en": "Can you clarify per our conversation?",
+        "ru": "Уточни, пожалуйста: согласно нашему разговору."
+      },
+      {
+        "en": "This relates to per our conversation.",
+        "ru": "Это связано с: согласно нашему разговору."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "further to my email",
+    "lemma": "further to my email",
+    "level": "c1",
+    "tr": "в продолжение моего письма",
+    "examples": [
+      {
+        "en": "We should focus on further to my email.",
+        "ru": "Стоит сфокусироваться на: в продолжение моего письма."
+      },
+      {
+        "en": "Can you clarify further to my email?",
+        "ru": "Уточни, пожалуйста: в продолжение моего письма."
+      },
+      {
+        "en": "This relates to further to my email.",
+        "ru": "Это связано с: в продолжение моего письма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "with reference to",
+    "lemma": "with reference to",
+    "level": "c1",
+    "tr": "ссылаясь на",
+    "examples": [
+      {
+        "en": "We should focus on with reference to.",
+        "ru": "Стоит сфокусироваться на: ссылаясь на."
+      },
+      {
+        "en": "Can you clarify with reference to?",
+        "ru": "Уточни, пожалуйста: ссылаясь на."
+      },
+      {
+        "en": "This relates to with reference to.",
+        "ru": "Это связано с: ссылаясь на."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "please advise",
+    "lemma": "please advise",
+    "level": "b2",
+    "tr": "прошу совета / указаний",
+    "examples": [
+      {
+        "en": "We should focus on please advise.",
+        "ru": "Стоит сфокусироваться на: прошу совета / указаний."
+      },
+      {
+        "en": "Can you clarify please advise?",
+        "ru": "Уточни, пожалуйста: прошу совета / указаний."
+      },
+      {
+        "en": "This relates to please advise.",
+        "ru": "Это связано с: прошу совета / указаний."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "please confirm",
+    "lemma": "please confirm",
+    "level": "b1",
+    "tr": "пожалуйста, подтвердите",
+    "examples": [
+      {
+        "en": "We should focus on please confirm.",
+        "ru": "Стоит сфокусироваться на: пожалуйста, подтвердите."
+      },
+      {
+        "en": "Can you clarify please confirm?",
+        "ru": "Уточни, пожалуйста: пожалуйста, подтвердите."
+      },
+      {
+        "en": "This relates to please confirm.",
+        "ru": "Это связано с: пожалуйста, подтвердите."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "pending approval",
+    "lemma": "pending approval",
+    "level": "b1",
+    "tr": "ожидает одобрения",
+    "examples": [
+      {
+        "en": "We should focus on pending approval.",
+        "ru": "Стоит сфокусироваться на: ожидает одобрения."
+      },
+      {
+        "en": "Can you clarify pending approval?",
+        "ru": "Уточни, пожалуйста: ожидает одобрения."
+      },
+      {
+        "en": "This relates to pending approval.",
+        "ru": "Это связано с: ожидает одобрения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "awaiting feedback",
+    "lemma": "awaiting feedback",
+    "level": "b1",
+    "tr": "ждёт фидбека",
+    "examples": [
+      {
+        "en": "We should focus on awaiting feedback.",
+        "ru": "Стоит сфокусироваться на: ждёт фидбека."
+      },
+      {
+        "en": "Can you clarify awaiting feedback?",
+        "ru": "Уточни, пожалуйста: ждёт фидбека."
+      },
+      {
+        "en": "This relates to awaiting feedback.",
+        "ru": "Это связано с: ждёт фидбека."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "blocked on",
+    "lemma": "blocked on",
+    "level": "b2",
+    "tr": "заблокирован из-за",
+    "examples": [
+      {
+        "en": "We should focus on blocked on.",
+        "ru": "Стоит сфокусироваться на: заблокирован из-за."
+      },
+      {
+        "en": "Can you clarify blocked on?",
+        "ru": "Уточни, пожалуйста: заблокирован из-за."
+      },
+      {
+        "en": "This relates to blocked on.",
+        "ru": "Это связано с: заблокирован из-за."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard dependency",
+    "lemma": "hard dependency",
+    "level": "b2",
+    "tr": "жёсткая зависимость",
+    "examples": [
+      {
+        "en": "We should focus on hard dependency.",
+        "ru": "Стоит сфокусироваться на: жёсткая зависимость."
+      },
+      {
+        "en": "Can you clarify hard dependency?",
+        "ru": "Уточни, пожалуйста: жёсткая зависимость."
+      },
+      {
+        "en": "This relates to hard dependency.",
+        "ru": "Это связано с: жёсткая зависимость."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "soft dependency",
+    "lemma": "soft dependency",
+    "level": "b2",
+    "tr": "мягкая зависимость",
+    "examples": [
+      {
+        "en": "We should focus on soft dependency.",
+        "ru": "Стоит сфокусироваться на: мягкая зависимость."
+      },
+      {
+        "en": "Can you clarify soft dependency?",
+        "ru": "Уточни, пожалуйста: мягкая зависимость."
+      },
+      {
+        "en": "This relates to soft dependency.",
+        "ru": "Это связано с: мягкая зависимость."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "critical path",
+    "lemma": "critical path",
+    "level": "c1",
+    "tr": "критический путь",
+    "examples": [
+      {
+        "en": "We should focus on critical path.",
+        "ru": "Стоит сфокусироваться на: критический путь."
+      },
+      {
+        "en": "Can you clarify critical path?",
+        "ru": "Уточни, пожалуйста: критический путь."
+      },
+      {
+        "en": "This relates to critical path.",
+        "ru": "Это связано с: критический путь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "milestone",
+    "lemma": "milestone",
+    "level": "b1",
+    "tr": "веха",
+    "examples": [
+      {
+        "en": "We should focus on milestone.",
+        "ru": "Стоит сфокусироваться на: веха."
+      },
+      {
+        "en": "Can you clarify milestone?",
+        "ru": "Уточни, пожалуйста: веха."
+      },
+      {
+        "en": "This relates to milestone.",
+        "ru": "Это связано с: веха."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "checkpoint",
+    "lemma": "checkpoint",
+    "level": "b1",
+    "tr": "контрольная точка",
+    "examples": [
+      {
+        "en": "We should focus on checkpoint.",
+        "ru": "Стоит сфокусироваться на: контрольная точка."
+      },
+      {
+        "en": "Can you clarify checkpoint?",
+        "ru": "Уточни, пожалуйста: контрольная точка."
+      },
+      {
+        "en": "This relates to checkpoint.",
+        "ru": "Это связано с: контрольная точка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "gate review",
+    "lemma": "gate review",
+    "level": "c1",
+    "tr": "гейтовый ревью",
+    "examples": [
+      {
+        "en": "We should focus on gate review.",
+        "ru": "Стоит сфокусироваться на: гейтовый ревью."
+      },
+      {
+        "en": "Can you clarify gate review?",
+        "ru": "Уточни, пожалуйста: гейтовый ревью."
+      },
+      {
+        "en": "This relates to gate review.",
+        "ru": "Это связано с: гейтовый ревью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "go/no-go",
+    "lemma": "go/no-go",
+    "level": "c1",
+    "tr": "go/no-go решение",
+    "examples": [
+      {
+        "en": "We should focus on go/no-go.",
+        "ru": "Стоит сфокусироваться на: go/no-go решение."
+      },
+      {
+        "en": "Can you clarify go/no-go?",
+        "ru": "Уточни, пожалуйста: go/no-go решение."
+      },
+      {
+        "en": "This relates to go/no-go.",
+        "ru": "Это связано с: go/no-go решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "launch window",
+    "lemma": "launch window",
+    "level": "b2",
+    "tr": "окно запуска",
+    "examples": [
+      {
+        "en": "We should focus on launch window.",
+        "ru": "Стоит сфокусироваться на: окно запуска."
+      },
+      {
+        "en": "Can you clarify launch window?",
+        "ru": "Уточни, пожалуйста: окно запуска."
+      },
+      {
+        "en": "This relates to launch window.",
+        "ru": "Это связано с: окно запуска."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "maintenance window",
+    "lemma": "maintenance window",
+    "level": "b2",
+    "tr": "окно обслуживания",
+    "examples": [
+      {
+        "en": "We should focus on maintenance window.",
+        "ru": "Стоит сфокусироваться на: окно обслуживания."
+      },
+      {
+        "en": "Can you clarify maintenance window?",
+        "ru": "Уточни, пожалуйста: окно обслуживания."
+      },
+      {
+        "en": "This relates to maintenance window.",
+        "ru": "Это связано с: окно обслуживания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "change freeze",
+    "lemma": "change freeze",
+    "level": "b2",
+    "tr": "заморозка изменений",
+    "examples": [
+      {
+        "en": "We should focus on change freeze.",
+        "ru": "Стоит сфокусироваться на: заморозка изменений."
+      },
+      {
+        "en": "Can you clarify change freeze?",
+        "ru": "Уточни, пожалуйста: заморозка изменений."
+      },
+      {
+        "en": "This relates to change freeze.",
+        "ru": "Это связано с: заморозка изменений."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "production access",
+    "lemma": "production access",
+    "level": "b2",
+    "tr": "доступ в прод",
+    "examples": [
+      {
+        "en": "We should focus on production access.",
+        "ru": "Стоит сфокусироваться на: доступ в прод."
+      },
+      {
+        "en": "Can you clarify production access?",
+        "ru": "Уточни, пожалуйста: доступ в прод."
+      },
+      {
+        "en": "This relates to production access.",
+        "ru": "Это связано с: доступ в прод."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "least privilege",
+    "lemma": "least privilege",
+    "level": "c1",
+    "tr": "минимально необходимые права",
+    "examples": [
+      {
+        "en": "We should focus on least privilege.",
+        "ru": "Стоит сфокусироваться на: минимально необходимые права."
+      },
+      {
+        "en": "Can you clarify least privilege?",
+        "ru": "Уточни, пожалуйста: минимально необходимые права."
+      },
+      {
+        "en": "This relates to least privilege.",
+        "ru": "Это связано с: минимально необходимые права."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "need to know",
+    "lemma": "need to know",
+    "level": "c1",
+    "tr": "доступ по необходимости",
+    "examples": [
+      {
+        "en": "We should focus on need to know.",
+        "ru": "Стоит сфокусироваться на: доступ по необходимости."
+      },
+      {
+        "en": "Can you clarify need to know?",
+        "ru": "Уточни, пожалуйста: доступ по необходимости."
+      },
+      {
+        "en": "This relates to need to know.",
+        "ru": "Это связано с: доступ по необходимости."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reserve a desk",
+    "lemma": "reserve a desk",
+    "level": "b1",
+    "tr": "забронировать стол",
+    "examples": [
+      {
+        "en": "Reserve a desk for Thursday.",
+        "ru": "Забронируй стол на четверг."
+      },
+      {
+        "en": "He reserved a desk near the window.",
+        "ru": "Он забронировал стол у окна."
+      },
+      {
+        "en": "Desk booking closes at 9 a.m.",
+        "ru": "Бронь столов закрывается в 9:00."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "join the call",
+    "lemma": "join the call",
+    "level": "b1",
+    "tr": "подключиться к созвону",
+    "examples": [
+      {
+        "en": "Join the call five minutes early.",
+        "ru": "Подключайся к созвону за пять минут."
+      },
+      {
+        "en": "She couldn't join the call.",
+        "ru": "Она не смогла подключиться."
+      },
+      {
+        "en": "Link to join the call is in the invite.",
+        "ru": "Ссылка на созвон в инвайте."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "leave the call",
+    "lemma": "leave the call",
+    "level": "b1",
+    "tr": "выйти из созвона",
+    "examples": [
+      {
+        "en": "I have to leave the call early.",
+        "ru": "Мне нужно раньше выйти из созвона."
+      },
+      {
+        "en": "He left the call after his update.",
+        "ru": "Он вышел после своего апдейта."
+      },
+      {
+        "en": "Don't leave the call without saying.",
+        "ru": "Не выходи молча."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "share feedback",
+    "lemma": "share feedback",
+    "level": "b1",
+    "tr": "поделиться фидбеком",
+    "examples": [
+      {
+        "en": "Please share feedback by Friday.",
+        "ru": "Поделись фидбеком к пятнице."
+      },
+      {
+        "en": "She shared candid feedback.",
+        "ru": "Она поделилась честным фидбеком."
+      },
+      {
+        "en": "We share feedback in writing.",
+        "ru": "Мы делимся фидбеком письменно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "collect feedback",
+    "lemma": "collect feedback",
+    "level": "b1",
+    "tr": "собрать фидбек",
+    "examples": [
+      {
+        "en": "Collect feedback after the demo.",
+        "ru": "Собери фидбек после демо."
+      },
+      {
+        "en": "We collected feedback from 40 users.",
+        "ru": "Собрали фидбек от 40 пользователей."
+      },
+      {
+        "en": "Collect feedback before the redesign.",
+        "ru": "Собери фидбек до редизайна."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "incorporate feedback",
+    "lemma": "incorporate feedback",
+    "level": "b2",
+    "tr": "учесть фидбек",
+    "examples": [
+      {
+        "en": "We'll incorporate feedback in v2.",
+        "ru": "Учтём фидбек в v2."
+      },
+      {
+        "en": "She incorporated feedback overnight.",
+        "ru": "Она учла фидбек за ночь."
+      },
+      {
+        "en": "Not all feedback should be incorporated.",
+        "ru": "Не весь фидбек нужно учитывать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "set expectations",
+    "lemma": "set expectations",
+    "level": "b2",
+    "tr": "задать ожидания",
+    "examples": [
+      {
+        "en": "Set expectations early.",
+        "ru": "Задай ожидания рано."
+      },
+      {
+        "en": "He set clear expectations.",
+        "ru": "Он задал чёткие ожидания."
+      },
+      {
+        "en": "Misaligned expectations hurt trust.",
+        "ru": "Разъехавшиеся ожидания бьют по доверию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reset expectations",
+    "lemma": "reset expectations",
+    "level": "b2",
+    "tr": "перезадать ожидания",
+    "examples": [
+      {
+        "en": "We need to reset expectations.",
+        "ru": "Нужно перезадать ожидания."
+      },
+      {
+        "en": "She reset expectations on timeline.",
+        "ru": "Она перезадала ожидания по срокам."
+      },
+      {
+        "en": "Reset expectations before the delay hits.",
+        "ru": "Перезадайте ожидания до срыва."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "under deliver",
+    "lemma": "under deliver",
+    "level": "b2",
+    "tr": "недопоставить",
+    "examples": [
+      {
+        "en": "Don't under deliver on promises.",
+        "ru": "Не недопоставляй обещанное."
+      },
+      {
+        "en": "The vendor under delivered.",
+        "ru": "Вендор недопоставил."
+      },
+      {
+        "en": "Under delivering erodes trust.",
+        "ru": "Недопоставка размывает доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "over deliver",
+    "lemma": "over deliver",
+    "level": "b2",
+    "tr": "перевыполнить ожидания",
+    "examples": [
+      {
+        "en": "We over delivered on quality.",
+        "ru": "Мы превзошли ожидания по качеству."
+      },
+      {
+        "en": "She over delivers quietly.",
+        "ru": "Она тихо перевыполняет."
+      },
+      {
+        "en": "Over delivering once resets the bar.",
+        "ru": "Один раз перевыполнил — планка новая."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss the mark",
+    "lemma": "miss the mark",
+    "level": "b2",
+    "tr": "промахнуться мимо цели",
+    "examples": [
+      {
+        "en": "The campaign missed the mark.",
+        "ru": "Кампания промахнулась."
+      },
+      {
+        "en": "Our copy missed the mark.",
+        "ru": "Текст промахнулся мимо цели."
+      },
+      {
+        "en": "Don't miss the mark on tone.",
+        "ru": "Не промахнись с тоном."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "get up to speed",
+    "lemma": "get up to speed",
+    "level": "b1",
+    "tr": "втянуться; войти в курс",
+    "examples": [
+      {
+        "en": "I need a day to get up to speed.",
+        "ru": "Мне нужен день, чтобы втянуться."
+      },
+      {
+        "en": "She got up to speed quickly.",
+        "ru": "Она быстро вошла в курс."
+      },
+      {
+        "en": "This doc gets you up to speed.",
+        "ru": "Этот док вводит в курс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "bring up to speed",
+    "lemma": "bring up to speed",
+    "level": "b1",
+    "tr": "ввести в курс",
+    "examples": [
+      {
+        "en": "Can you bring me up to speed?",
+        "ru": "Можешь ввести меня в курс?"
+      },
+      {
+        "en": "She brought the new PM up to speed.",
+        "ru": "Она ввела нового PM в курс."
+      },
+      {
+        "en": "A short brief brings people up to speed.",
+        "ru": "Короткий бриф вводит в курс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "take ownership",
+    "lemma": "take ownership",
+    "level": "b2",
+    "tr": "взять ответственность",
+    "examples": [
+      {
+        "en": "Take ownership of the outcome.",
+        "ru": "Возьми ответственность за результат."
+      },
+      {
+        "en": "She took ownership of the incident.",
+        "ru": "Она взяла ownership инцидента."
+      },
+      {
+        "en": "Teams thrive when people take ownership.",
+        "ru": "Команды сильнее, когда берут ownership."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "drive a project",
+    "lemma": "drive a project",
+    "level": "b2",
+    "tr": "вести проект",
+    "examples": [
+      {
+        "en": "She drives the project end to end.",
+        "ru": "Она ведёт проект от края до края."
+      },
+      {
+        "en": "Who drives this project?",
+        "ru": "Кто ведёт этот проект?"
+      },
+      {
+        "en": "He drove the project to launch.",
+        "ru": "Он довёл проект до релиза."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "drive adoption",
+    "lemma": "drive adoption",
+    "level": "c1",
+    "tr": "стимулировать внедрение",
+    "examples": [
+      {
+        "en": "Training drives adoption.",
+        "ru": "Обучение стимулирует внедрение."
+      },
+      {
+        "en": "We need to drive adoption of the tool.",
+        "ru": "Нужно стимулировать внедрение инструмента."
+      },
+      {
+        "en": "Incentives drove adoption.",
+        "ru": "Стимулы ускорили внедрение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "surface an issue",
+    "lemma": "surface an issue",
+    "level": "b2",
+    "tr": "поднять / всплыть проблему",
+    "examples": [
+      {
+        "en": "Please surface issues early.",
+        "ru": "Поднимайте проблемы рано."
+      },
+      {
+        "en": "She surfaced an issue in QA.",
+        "ru": "Она всплыла проблему в QA."
+      },
+      {
+        "en": "Monitoring surfaced the issue.",
+        "ru": "Мониторинг выявил проблему."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "park a topic",
+    "lemma": "park a topic",
+    "level": "b2",
+    "tr": "отложить тему",
+    "examples": [
+      {
+        "en": "Let's park this topic.",
+        "ru": "Отложим эту тему."
+      },
+      {
+        "en": "We parked three topics.",
+        "ru": "Отложили три темы."
+      },
+      {
+        "en": "Parked topics return next week.",
+        "ru": "Отложенные темы вернутся на следующей неделе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "timebox",
+    "lemma": "timebox",
+    "level": "b2",
+    "tr": "ограничить по времени",
+    "examples": [
+      {
+        "en": "Timebox the debate to 10 minutes.",
+        "ru": "Ограничьте спор 10 минутами."
+      },
+      {
+        "en": "She timeboxed design review.",
+        "ru": "Она таймбокснула дизайн-ревью."
+      },
+      {
+        "en": "Timeboxing keeps meetings sane.",
+        "ru": "Таймбокс спасает встречи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard stop",
+    "lemma": "hard stop",
+    "level": "b2",
+    "tr": "жёсткий конец встречи",
+    "examples": [
+      {
+        "en": "I have a hard stop at noon.",
+        "ru": "У меня hard stop в полдень."
+      },
+      {
+        "en": "Hard stop — please wrap up.",
+        "ru": "Hard stop — завершайте."
+      },
+      {
+        "en": "Respect people's hard stops.",
+        "ru": "Уважайте hard stop коллег."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "working agreement",
+    "lemma": "working agreement",
+    "level": "b2",
+    "tr": "рабочее соглашение команды",
+    "examples": [
+      {
+        "en": "Draft a working agreement.",
+        "ru": "Набросайте working agreement."
+      },
+      {
+        "en": "Our working agreement bans drive-bys.",
+        "ru": "В нашем соглашении запрещены drive-by ревью."
+      },
+      {
+        "en": "Revisit working agreements quarterly.",
+        "ru": "Пересматривайте соглашения раз в квартал."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "definition of ready",
+    "lemma": "definition of ready",
+    "level": "c1",
+    "tr": "критерии готовности к спринту",
+    "examples": [
+      {
+        "en": "Check the definition of ready.",
+        "ru": "Проверь definition of ready."
+      },
+      {
+        "en": "DoR prevents half-baked stories.",
+        "ru": "DoR не пускает сырые story."
+      },
+      {
+        "en": "Without DoR, planning suffers.",
+        "ru": "Без DoR планирование страдает."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "capacity planning",
+    "lemma": "capacity planning",
+    "level": "b2",
+    "tr": "планирование мощности",
+    "examples": [
+      {
+        "en": "Do capacity planning before Black Friday.",
+        "ru": "Сделай capacity planning до Чёрной пятницы."
+      },
+      {
+        "en": "Capacity planning avoided the outage.",
+        "ru": "Capacity planning предотвратил аварию."
+      },
+      {
+        "en": "Finance joined capacity planning.",
+        "ru": "Финансы присоединились к capacity planning."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "resource allocation",
+    "lemma": "resource allocation",
+    "level": "b2",
+    "tr": "распределение ресурсов",
+    "examples": [
+      {
+        "en": "Review resource allocation weekly.",
+        "ru": "Еженедельно смотри распределение ресурсов."
+      },
+      {
+        "en": "Poor resource allocation burns teams.",
+        "ru": "Плохое распределение выжигает команды."
+      },
+      {
+        "en": "She owns resource allocation.",
+        "ru": "Она отвечает за распределение ресурсов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "headcount freeze",
+    "lemma": "headcount freeze",
+    "level": "b2",
+    "tr": "заморозка найма",
+    "examples": [
+      {
+        "en": "There's a headcount freeze.",
+        "ru": "Найм заморожен."
+      },
+      {
+        "en": "Headcount freeze hit mid-year.",
+        "ru": "Заморозка найма пришла в середине года."
+      },
+      {
+        "en": "During a freeze, backfills need approval.",
+        "ru": "Во время freeze бэкфиллы требуют апрува."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "hiring freeze",
+    "lemma": "hiring freeze",
+    "level": "b2",
+    "tr": "заморозка найма",
+    "examples": [
+      {
+        "en": "The hiring freeze starts Monday.",
+        "ru": "Заморозка найма с понедельника."
+      },
+      {
+        "en": "Hiring freeze paused open reqs.",
+        "ru": "Заморозка поставила на паузу открытые заявки."
+      },
+      {
+        "en": "Exceptions to the hiring freeze are rare.",
+        "ru": "Исключения из freeze редки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "salary band",
+    "lemma": "salary band",
+    "level": "b2",
+    "tr": "вилка зарплаты",
+    "examples": [
+      {
+        "en": "What's the salary band for this role?",
+        "ru": "Какая вилка для этой роли?"
+      },
+      {
+        "en": "She negotiated within the salary band.",
+        "ru": "Она торговалась внутри вилки."
+      },
+      {
+        "en": "Transparent salary bands build trust.",
+        "ru": "Прозрачные вилки строят доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "total compensation",
+    "lemma": "total compensation",
+    "level": "c1",
+    "tr": "совокупный компенсационный пакет",
+    "examples": [
+      {
+        "en": "Compare total compensation, not base alone.",
+        "ru": "Сравнивай total comp, не только оклад."
+      },
+      {
+        "en": "Equity is part of total compensation.",
+        "ru": "Equity — часть total compensation."
+      },
+      {
+        "en": "Total compensation includes benefits.",
+        "ru": "Total compensation включает бенефиты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  }
+]

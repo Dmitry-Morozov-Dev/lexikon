@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "carry out research",
+    "lemma": "carry out research",
+    "level": "b2",
+    "tr": "проводить исследование",
+    "examples": [
+      {
+        "en": "We carried out research last year.",
+        "ru": "В прошлом году провели исследование."
+      },
+      {
+        "en": "Students carry out research projects.",
+        "ru": "Студенты выполняют исследовательские проекты."
+      },
+      {
+        "en": "The team carried out research ethically.",
+        "ru": "Команда провела исследование этично."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "publish a paper",
+    "lemma": "publish a paper",
+    "level": "b2",
+    "tr": "опубликовать статью",
+    "examples": [
+      {
+        "en": "They published a paper in Nature.",
+        "ru": "Они опубликовали статью в Nature."
+      },
+      {
+        "en": "She published a paper on NLP.",
+        "ru": "Она опубликовала статью по NLP."
+      },
+      {
+        "en": "PhD students aim to publish papers.",
+        "ru": "Аспиранты стремятся публиковать статьи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "peer review",
+    "lemma": "peer review",
+    "level": "b2",
+    "tr": "рецензирование",
+    "examples": [
+      {
+        "en": "The article is under peer review.",
+        "ru": "Статья на peer review."
+      },
+      {
+        "en": "Peer review improves quality.",
+        "ru": "Рецензирование повышает качество."
+      },
+      {
+        "en": "She completed a peer review.",
+        "ru": "Она завершила рецензию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "literature review",
+    "lemma": "literature review",
+    "level": "b2",
+    "tr": "обзор литературы",
+    "examples": [
+      {
+        "en": "Start with a literature review.",
+        "ru": "Начни с обзора литературы."
+      },
+      {
+        "en": "Her literature review was thorough.",
+        "ru": "Её обзор литературы был тщательным."
+      },
+      {
+        "en": "A literature review maps the field.",
+        "ru": "Обзор литературы картирует поле."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "research question",
+    "lemma": "research question",
+    "level": "b2",
+    "tr": "исследовательский вопрос",
+    "examples": [
+      {
+        "en": "Clarify your research question.",
+        "ru": "Проясни исследовательский вопрос."
+      },
+      {
+        "en": "A weak research question sinks papers.",
+        "ru": "Слабый research question топит статьи."
+      },
+      {
+        "en": "They refined the research question twice.",
+        "ru": "Они дважды уточнили вопрос."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "research gap",
+    "lemma": "research gap",
+    "level": "c1",
+    "tr": "пробел в исследованиях",
+    "examples": [
+      {
+        "en": "Identify a research gap.",
+        "ru": "Найди пробел в исследованиях."
+      },
+      {
+        "en": "The paper fills a research gap.",
+        "ru": "Статья закрывает пробел."
+      },
+      {
+        "en": "Funding follows clear research gaps.",
+        "ru": "Финансирование идёт за ясными пробелами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "null hypothesis",
+    "lemma": "null hypothesis",
+    "level": "c1",
+    "tr": "нулевая гипотеза",
+    "examples": [
+      {
+        "en": "We failed to reject the null hypothesis.",
+        "ru": "Не удалось отвергнуть нулевую гипотезу."
+      },
+      {
+        "en": "State the null hypothesis clearly.",
+        "ru": "Чётко сформулируй нулевую гипотезу."
+      },
+      {
+        "en": "p-values relate to the null hypothesis.",
+        "ru": "p-value связан с нулевой гипотезой."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "alternative hypothesis",
+    "lemma": "alternative hypothesis",
+    "level": "c1",
+    "tr": "альтернативная гипотеза",
+    "examples": [
+      {
+        "en": "The alternative hypothesis predicts a difference.",
+        "ru": "Альтернативная гипотеза предсказывает различие."
+      },
+      {
+        "en": "Support for the alternative hypothesis grew.",
+        "ru": "Поддержка альтернативной гипотезы выросла."
+      },
+      {
+        "en": "Define both null and alternative hypotheses.",
+        "ru": "Определи и нулевую, и альтернативную."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "statistically significant",
+    "lemma": "statistically significant",
+    "level": "b2",
+    "tr": "статистически значимый",
+    "examples": [
+      {
+        "en": "The result was statistically significant.",
+        "ru": "Результат был статистически значимым."
+      },
+      {
+        "en": "Statistically significant ≠ important.",
+        "ru": "Статистически значимо ≠ важно."
+      },
+      {
+        "en": "They reported a statistically significant effect.",
+        "ru": "Сообщили о статистически значимом эффекте."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "confidence interval",
+    "lemma": "confidence interval",
+    "level": "c1",
+    "tr": "доверительный интервал",
+    "examples": [
+      {
+        "en": "Report the confidence interval.",
+        "ru": "Укажи доверительный интервал."
+      },
+      {
+        "en": "The 95% confidence interval was narrow.",
+        "ru": "95% доверительный интервал был узким."
+      },
+      {
+        "en": "Overlapping confidence intervals need care.",
+        "ru": "Перекрывающиеся интервалы требуют осторожности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "sample size",
+    "lemma": "sample size",
+    "level": "b2",
+    "tr": "размер выборки",
+    "examples": [
+      {
+        "en": "Increase the sample size.",
+        "ru": "Увеличь размер выборки."
+      },
+      {
+        "en": "Small sample size limits power.",
+        "ru": "Маленькая выборка ограничивает мощность."
+      },
+      {
+        "en": "They justified the sample size.",
+        "ru": "Они обосновали размер выборки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "control group",
+    "lemma": "control group",
+    "level": "b2",
+    "tr": "контрольная группа",
+    "examples": [
+      {
+        "en": "Assign participants to a control group.",
+        "ru": "Распредели участников в контрольную группу."
+      },
+      {
+        "en": "The control group received a placebo.",
+        "ru": "Контрольная группа получила плацебо."
+      },
+      {
+        "en": "Compare treatment and control groups.",
+        "ru": "Сравни группы лечения и контроля."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "experimental group",
+    "lemma": "experimental group",
+    "level": "b2",
+    "tr": "экспериментальная группа",
+    "examples": [
+      {
+        "en": "The experimental group improved.",
+        "ru": "Экспериментальная группа улучшилась."
+      },
+      {
+        "en": "Randomize into experimental groups.",
+        "ru": "Рандомизируй по экспериментальным группам."
+      },
+      {
+        "en": "Blinding protects experimental groups.",
+        "ru": "Блайндинг защищает эксперимент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "random sample",
+    "lemma": "random sample",
+    "level": "b2",
+    "tr": "случайная выборка",
+    "examples": [
+      {
+        "en": "Draw a random sample.",
+        "ru": "Сделай случайную выборку."
+      },
+      {
+        "en": "A random sample reduces bias.",
+        "ru": "Случайная выборка снижает смещение."
+      },
+      {
+        "en": "They used a stratified random sample.",
+        "ru": "Использовали стратифицированную случайную выборку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "theoretical framework",
+    "lemma": "theoretical framework",
+    "level": "c1",
+    "tr": "теоретическая рамка",
+    "examples": [
+      {
+        "en": "Adopt a clear theoretical framework.",
+        "ru": "Возьми ясную теоретическую рамку."
+      },
+      {
+        "en": "The theoretical framework guided analysis.",
+        "ru": "Теоретическая рамка вела анализ."
+      },
+      {
+        "en": "Without a framework, findings float.",
+        "ru": "Без рамки находки «висят»."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "case study",
+    "lemma": "case study",
+    "level": "b2",
+    "tr": "кейс-стади; исследование случая",
+    "examples": [
+      {
+        "en": "They wrote a case study.",
+        "ru": "Они написали кейс-стади."
+      },
+      {
+        "en": "A case study explores context deeply.",
+        "ru": "Кейс глубоко исследует контекст."
+      },
+      {
+        "en": "Teaching used industry case studies.",
+        "ru": "В обучении использовали отраслевые кейсы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "pilot study",
+    "lemma": "pilot study",
+    "level": "b2",
+    "tr": "пилотное исследование",
+    "examples": [
+      {
+        "en": "Run a pilot study first.",
+        "ru": "Сначала сделай пилот."
+      },
+      {
+        "en": "The pilot study revealed flaws.",
+        "ru": "Пилот выявил изъяны."
+      },
+      {
+        "en": "Fund a small pilot study.",
+        "ru": "Финансируй небольшой пилот."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "longitudinal study",
+    "lemma": "longitudinal study",
+    "level": "c1",
+    "tr": "лонгитюдное исследование",
+    "examples": [
+      {
+        "en": "A longitudinal study tracks change.",
+        "ru": "Лонгитюд отслеживает изменения."
+      },
+      {
+        "en": "They ran a 10-year longitudinal study.",
+        "ru": "Они вели 10-летний лонгитюд."
+      },
+      {
+        "en": "Attrition threatens longitudinal studies.",
+        "ru": "Отсев угрожает лонгитюдам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "cross-sectional study",
+    "lemma": "cross-sectional study",
+    "level": "c1",
+    "tr": "поперечное исследование",
+    "examples": [
+      {
+        "en": "A cross-sectional study snapshots one time.",
+        "ru": "Поперечное исследование — снимок момента."
+      },
+      {
+        "en": "They used a cross-sectional design.",
+        "ru": "Использовали поперечный дизайн."
+      },
+      {
+        "en": "Causality is limited in cross-sectional studies.",
+        "ru": "В поперечных исследованиях причинность ограничена."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "meta-analysis",
+    "lemma": "meta-analysis",
+    "level": "c1",
+    "tr": "метаанализ",
+    "examples": [
+      {
+        "en": "The meta-analysis pooled 40 studies.",
+        "ru": "Метаанализ объединил 40 исследований."
+      },
+      {
+        "en": "A meta-analysis needs quality checks.",
+        "ru": "Метаанализу нужны проверки качества."
+      },
+      {
+        "en": "They published a meta-analysis on sleep.",
+        "ru": "Опубликовали метаанализ по сну."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "systematic review",
+    "lemma": "systematic review",
+    "level": "c1",
+    "tr": "систематический обзор",
+    "examples": [
+      {
+        "en": "A systematic review follows a protocol.",
+        "ru": "Систематический обзор следует протоколу."
+      },
+      {
+        "en": "They registered a systematic review.",
+        "ru": "Они зарегистрировали систематический обзор."
+      },
+      {
+        "en": "PRISMA guides systematic reviews.",
+        "ru": "PRISMA ведёт систематические обзоры."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "qualitative research",
+    "lemma": "qualitative research",
+    "level": "b2",
+    "tr": "качественное исследование",
+    "examples": [
+      {
+        "en": "Qualitative research explores meaning.",
+        "ru": "Качественные исследования изучают смысл."
+      },
+      {
+        "en": "She specializes in qualitative research.",
+        "ru": "Она специализируется на качественных исследованиях."
+      },
+      {
+        "en": "Interviews support qualitative research.",
+        "ru": "Интервью поддерживают качественные исследования."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "quantitative research",
+    "lemma": "quantitative research",
+    "level": "b2",
+    "tr": "количественное исследование",
+    "examples": [
+      {
+        "en": "Quantitative research uses numbers.",
+        "ru": "Количественные исследования используют числа."
+      },
+      {
+        "en": "Surveys often feed quantitative research.",
+        "ru": "Опросы часто питают количественные исследования."
+      },
+      {
+        "en": "Combine quantitative and qualitative research.",
+        "ru": "Комбинируй количественное и качественное."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "data collection",
+    "lemma": "data collection",
+    "level": "b2",
+    "tr": "сбор данных",
+    "examples": [
+      {
+        "en": "Plan data collection carefully.",
+        "ru": "Тщательно спланируй сбор данных."
+      },
+      {
+        "en": "Data collection took six months.",
+        "ru": "Сбор данных занял шесть месяцев."
+      },
+      {
+        "en": "Ethics review precedes data collection.",
+        "ru": "Этика предшествует сбору данных."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "data analysis",
+    "lemma": "data analysis",
+    "level": "b2",
+    "tr": "анализ данных",
+    "examples": [
+      {
+        "en": "Data analysis revealed patterns.",
+        "ru": "Анализ данных выявил паттерны."
+      },
+      {
+        "en": "She teaches data analysis.",
+        "ru": "Она преподаёт анализ данных."
+      },
+      {
+        "en": "Transparent data analysis builds trust.",
+        "ru": "Прозрачный анализ строит доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "findings suggest",
+    "lemma": "findings suggest",
+    "level": "b2",
+    "tr": "результаты предполагают",
+    "examples": [
+      {
+        "en": "Findings suggest a modest effect.",
+        "ru": "Результаты предполагают умеренный эффект."
+      },
+      {
+        "en": "Our findings suggest further study.",
+        "ru": "Наши результаты предполагают дальнейшие исследования."
+      },
+      {
+        "en": "Cautious wording: findings suggest…",
+        "ru": "Осторожная формулировка: findings suggest…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "findings indicate",
+    "lemma": "findings indicate",
+    "level": "b2",
+    "tr": "результаты указывают",
+    "examples": [
+      {
+        "en": "Findings indicate higher risk.",
+        "ru": "Результаты указывают на более высокий риск."
+      },
+      {
+        "en": "The findings indicate a trend.",
+        "ru": "Результаты указывают на тренд."
+      },
+      {
+        "en": "Findings indicate, but don't prove.",
+        "ru": "Указывают, но не доказывают."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a challenge",
+    "lemma": "pose a challenge",
+    "level": "b2",
+    "tr": "представлять вызов",
+    "examples": [
+      {
+        "en": "Measurement poses a challenge.",
+        "ru": "Измерение представляет вызов."
+      },
+      {
+        "en": "Replication poses a challenge.",
+        "ru": "Репликация представляет вызов."
+      },
+      {
+        "en": "Ethics pose challenges online.",
+        "ru": "Этика ставит вызовы онлайн."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "address a gap",
+    "lemma": "address a gap",
+    "level": "c1",
+    "tr": "закрыть пробел",
+    "examples": [
+      {
+        "en": "The study addresses a gap.",
+        "ru": "Исследование закрывает пробел."
+      },
+      {
+        "en": "We aim to address this gap.",
+        "ru": "Мы стремимся закрыть этот пробел."
+      },
+      {
+        "en": "Few papers address this gap.",
+        "ru": "Мало статей закрывают этот пробел."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "contribute to the literature",
+    "lemma": "contribute to the literature",
+    "level": "c1",
+    "tr": "внести вклад в литературу",
+    "examples": [
+      {
+        "en": "The paper contributes to the literature.",
+        "ru": "Статья вносит вклад в литературу."
+      },
+      {
+        "en": "We contribute to the literature on X.",
+        "ru": "Мы вносим вклад в литературу по X."
+      },
+      {
+        "en": "Novel methods contribute to the literature.",
+        "ru": "Новые методы вносят вклад в литературу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "build on previous work",
+    "lemma": "build on previous work",
+    "level": "b2",
+    "tr": "опираться на предыдущие работы",
+    "examples": [
+      {
+        "en": "We build on previous work by Lee.",
+        "ru": "Мы опираемся на работы Lee."
+      },
+      {
+        "en": "Build on previous work carefully.",
+        "ru": "Опирайся на предыдущие работы аккуратно."
+      },
+      {
+        "en": "Citations show what you build on.",
+        "ru": "Цитаты показывают, на что опираешься."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "prior research",
+    "lemma": "prior research",
+    "level": "b2",
+    "tr": "предшествующие исследования",
+    "examples": [
+      {
+        "en": "Prior research is mixed.",
+        "ru": "Предшествующие исследования неоднозначны."
+      },
+      {
+        "en": "We review prior research first.",
+        "ru": "Сначала обзор prior research."
+      },
+      {
+        "en": "Prior research overlooked edge cases.",
+        "ru": "Prior research упустил крайние случаи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "existing literature",
+    "lemma": "existing literature",
+    "level": "b2",
+    "tr": "существующая литература",
+    "examples": [
+      {
+        "en": "Survey the existing literature.",
+        "ru": "Обзор существующей литературы."
+      },
+      {
+        "en": "Existing literature lacks consensus.",
+        "ru": "В существующей литературе нет консенсуса."
+      },
+      {
+        "en": "Situate findings in existing literature.",
+        "ru": "Помести находки в существующую литературу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "body of research",
+    "lemma": "body of research",
+    "level": "c1",
+    "tr": "массив исследований",
+    "examples": [
+      {
+        "en": "A growing body of research shows…",
+        "ru": "Растущий массив исследований показывает…"
+      },
+      {
+        "en": "The body of research is thin.",
+        "ru": "Массив исследований тонок."
+      },
+      {
+        "en": "Cite the body of research fairly.",
+        "ru": "Цитируй массив исследований честно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "growing body of evidence",
+    "lemma": "growing body of evidence",
+    "level": "c1",
+    "tr": "растущий массив доказательств",
+    "examples": [
+      {
+        "en": "A growing body of evidence supports X.",
+        "ru": "Растущий массив доказательств поддерживает X."
+      },
+      {
+        "en": "Despite a growing body of evidence…",
+        "ru": "Несмотря на растущий массив доказательств…"
+      },
+      {
+        "en": "Synthesize the growing body of evidence.",
+        "ru": "Синтезируй растущий массив доказательств."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "on the basis of",
+    "lemma": "on the basis of",
+    "level": "b2",
+    "tr": "на основании",
+    "examples": [
+      {
+        "en": "Decide on the basis of evidence.",
+        "ru": "Решай на основании доказательств."
+      },
+      {
+        "en": "Admission on the basis of merit.",
+        "ru": "Приём на основании заслуг."
+      },
+      {
+        "en": "We rejected H0 on the basis of p<.05.",
+        "ru": "Отклонили H0 на основании p<.05."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "for the purposes of",
+    "lemma": "for the purposes of",
+    "level": "b2",
+    "tr": "для целей",
+    "examples": [
+      {
+        "en": "For the purposes of this paper…",
+        "ru": "Для целей этой статьи…"
+      },
+      {
+        "en": "Defined for the purposes of analysis.",
+        "ru": "Определено для целей анализа."
+      },
+      {
+        "en": "For the purposes of comparison…",
+        "ru": "Для целей сравнения…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "it can be argued that",
+    "lemma": "it can be argued that",
+    "level": "c1",
+    "tr": "можно утверждать, что",
+    "examples": [
+      {
+        "en": "It can be argued that X causes Y.",
+        "ru": "Можно утверждать, что X вызывает Y."
+      },
+      {
+        "en": "It can be argued that the sample is small.",
+        "ru": "Можно утверждать, что выборка мала."
+      },
+      {
+        "en": "Hedge: it can be argued that…",
+        "ru": "Хедж: it can be argued that…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "it is worth noting",
+    "lemma": "it is worth noting",
+    "level": "b2",
+    "tr": "стоит отметить",
+    "examples": [
+      {
+        "en": "It is worth noting the outlier.",
+        "ru": "Стоит отметить выброс."
+      },
+      {
+        "en": "It is worth noting that n was small.",
+        "ru": "Стоит отметить, что n был мал."
+      },
+      {
+        "en": "It is worth noting the ethical limits.",
+        "ru": "Стоит отметить этические ограничения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "it should be noted",
+    "lemma": "it should be noted",
+    "level": "b2",
+    "tr": "следует отметить",
+    "examples": [
+      {
+        "en": "It should be noted that…",
+        "ru": "Следует отметить, что…"
+      },
+      {
+        "en": "It should be noted the missing data.",
+        "ru": "Следует отметить пропуски данных."
+      },
+      {
+        "en": "Reviewers wrote: it should be noted…",
+        "ru": "Ревьюеры писали: it should be noted…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as shown in",
+    "lemma": "as shown in",
+    "level": "b1",
+    "tr": "как показано в",
+    "examples": [
+      {
+        "en": "As shown in Figure 2…",
+        "ru": "Как показано на рисунке 2…"
+      },
+      {
+        "en": "As shown in Table 1…",
+        "ru": "Как показано в таблице 1…"
+      },
+      {
+        "en": "As shown in previous work…",
+        "ru": "Как показано в предыдущих работах…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as discussed above",
+    "lemma": "as discussed above",
+    "level": "b2",
+    "tr": "как обсуждалось выше",
+    "examples": [
+      {
+        "en": "As discussed above, bias remains.",
+        "ru": "Как обсуждалось выше, смещение остаётся."
+      },
+      {
+        "en": "As discussed above…",
+        "ru": "Как обсуждалось выше…"
+      },
+      {
+        "en": "Return to methods as discussed above.",
+        "ru": "Вернись к методам, как обсуждалось выше."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as previously mentioned",
+    "lemma": "as previously mentioned",
+    "level": "b2",
+    "tr": "как упоминалось ранее",
+    "examples": [
+      {
+        "en": "As previously mentioned, n=120.",
+        "ru": "Как упоминалось ранее, n=120."
+      },
+      {
+        "en": "As previously mentioned…",
+        "ru": "Как упоминалось ранее…"
+      },
+      {
+        "en": "Limitations as previously mentioned.",
+        "ru": "Ограничения, как упоминалось ранее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "see for example",
+    "lemma": "see for example",
+    "level": "b2",
+    "tr": "см., например",
+    "examples": [
+      {
+        "en": "See, for example, Smith (2020).",
+        "ru": "См., например, Smith (2020)."
+      },
+      {
+        "en": "See for example the appendix.",
+        "ru": "См., например, приложение."
+      },
+      {
+        "en": "Many uses: see for example…",
+        "ru": "Часто: see for example…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "et al.",
+    "lemma": "et al.",
+    "level": "b1",
+    "tr": "и другие",
+    "examples": [
+      {
+        "en": "Smith et al. (2021) found…",
+        "ru": "Smith et al. (2021) обнаружили…"
+      },
+      {
+        "en": "Cite et al. after the first author.",
+        "ru": "et al. после первого автора."
+      },
+      {
+        "en": "Et al. is Latin et alii.",
+        "ru": "et al. — от лат. et alii."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "in press",
+    "lemma": "in press",
+    "level": "b2",
+    "tr": "в печати",
+    "examples": [
+      {
+        "en": "The article is in press.",
+        "ru": "Статья в печати."
+      },
+      {
+        "en": "Cite as Author (in press).",
+        "ru": "Цитируй Author (in press)."
+      },
+      {
+        "en": "In-press papers lack final pages.",
+        "ru": "У in press нет финальных страниц."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "under review",
+    "lemma": "under review",
+    "level": "b2",
+    "tr": "на рецензии",
+    "examples": [
+      {
+        "en": "The manuscript is under review.",
+        "ru": "Рукопись на рецензии."
+      },
+      {
+        "en": "Don't cite work still under review lightly.",
+        "ru": "Осторожнее цитируй то, что ещё under review."
+      },
+      {
+        "en": "Status: under review at Journal X.",
+        "ru": "Статус: under review в Journal X."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "revise and resubmit",
+    "lemma": "revise and resubmit",
+    "level": "c1",
+    "tr": "доработать и подать снова",
+    "examples": [
+      {
+        "en": "We received a revise and resubmit.",
+        "ru": "Получили revise and resubmit."
+      },
+      {
+        "en": "R&R = revise and resubmit.",
+        "ru": "R&R = доработать и подать снова."
+      },
+      {
+        "en": "Address every R&R comment.",
+        "ru": "Ответь на каждый комментарий R&R."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "camera-ready",
+    "lemma": "camera-ready",
+    "level": "c1",
+    "tr": "готово к печати",
+    "examples": [
+      {
+        "en": "Submit the camera-ready version.",
+        "ru": "Сдай camera-ready версию."
+      },
+      {
+        "en": "Camera-ready fixes formatting.",
+        "ru": "Camera-ready правит вёрстку."
+      },
+      {
+        "en": "Deadline for camera-ready is Friday.",
+        "ru": "Дедлайн camera-ready — пятница."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "open access",
+    "lemma": "open access",
+    "level": "b2",
+    "tr": "открытый доступ",
+    "examples": [
+      {
+        "en": "Publish open access if funded.",
+        "ru": "Публикуй open access, если финансируют."
+      },
+      {
+        "en": "Open-access fees vary.",
+        "ru": "Сборы open access различаются."
+      },
+      {
+        "en": "Open access widens readership.",
+        "ru": "Open access расширяет аудиторию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "working paper",
+    "lemma": "working paper",
+    "level": "c1",
+    "tr": "рабочий доклад",
+    "examples": [
+      {
+        "en": "They released a working paper.",
+        "ru": "Они выпустили working paper."
+      },
+      {
+        "en": "Working papers invite early feedback.",
+        "ru": "Working papers дают ранний фидбек."
+      },
+      {
+        "en": "NBER working papers are common.",
+        "ru": "Working papers NBER обычны."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "white paper",
+    "lemma": "white paper",
+    "level": "b2",
+    "tr": "белая книга; аналитический доклад",
+    "examples": [
+      {
+        "en": "The agency issued a white paper.",
+        "ru": "Агентство выпустило white paper."
+      },
+      {
+        "en": "Read the white paper before the RFP.",
+        "ru": "Прочти white paper до RFP."
+      },
+      {
+        "en": "Industry white papers vary in rigor.",
+        "ru": "Отраслевые white papers разной строгости."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "position paper",
+    "lemma": "position paper",
+    "level": "c1",
+    "tr": "позиционный документ",
+    "examples": [
+      {
+        "en": "The society published a position paper.",
+        "ru": "Общество опубликовало position paper."
+      },
+      {
+        "en": "A position paper states a stance.",
+        "ru": "Position paper формулирует позицию."
+      },
+      {
+        "en": "Cite position papers as advocacy, not data.",
+        "ru": "Position paper — позиция, не данные."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "call for papers",
+    "lemma": "call for papers",
+    "level": "b2",
+    "tr": "приём докладов",
+    "examples": [
+      {
+        "en": "The call for papers closes May 1.",
+        "ru": "Call for papers закрывается 1 мая."
+      },
+      {
+        "en": "CFP = call for papers.",
+        "ru": "CFP = приём докладов."
+      },
+      {
+        "en": "Submit before the call for papers ends.",
+        "ru": "Успей до конца CFP."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "conference proceedings",
+    "lemma": "conference proceedings",
+    "level": "b2",
+    "tr": "материалы конференции",
+    "examples": [
+      {
+        "en": "Published in the conference proceedings.",
+        "ru": "Опубликовано в материалах конференции."
+      },
+      {
+        "en": "Proceedings appear after the event.",
+        "ru": "Proceedings выходят после события."
+      },
+      {
+        "en": "Cite the proceedings volume carefully.",
+        "ru": "Аккуратно цитируй том proceedings."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "keynote speech",
+    "lemma": "keynote speech",
+    "level": "b2",
+    "tr": "пленарный доклад",
+    "examples": [
+      {
+        "en": "She gave the keynote speech.",
+        "ru": "Она выступила с пленарным докладом."
+      },
+      {
+        "en": "The keynote speech set the theme.",
+        "ru": "Пленарный доклад задал тему."
+      },
+      {
+        "en": "Invite a keynote speaker early.",
+        "ru": "Приглашай кейноут заранее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "poster session",
+    "lemma": "poster session",
+    "level": "b2",
+    "tr": "постерная сессия",
+    "examples": [
+      {
+        "en": "Present at the poster session.",
+        "ru": "Представь на постерной сессии."
+      },
+      {
+        "en": "Poster sessions encourage discussion.",
+        "ru": "Постерные сессии стимулируют обсуждение."
+      },
+      {
+        "en": "Print a clear poster for the session.",
+        "ru": "Напечатай понятный постер."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "oral presentation",
+    "lemma": "oral presentation",
+    "level": "b2",
+    "tr": "устный доклад",
+    "examples": [
+      {
+        "en": "Prepare an oral presentation.",
+        "ru": "Подготовь устный доклад."
+      },
+      {
+        "en": "Oral presentations are timed.",
+        "ru": "Устные доклады ограничены по времени."
+      },
+      {
+        "en": "Practice the oral presentation aloud.",
+        "ru": "Прорепетируй доклад вслух."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "abstract submission",
+    "lemma": "abstract submission",
+    "level": "b2",
+    "tr": "подача тезисов",
+    "examples": [
+      {
+        "en": "Abstract submission is due Friday.",
+        "ru": "Подача тезисов — до пятницы."
+      },
+      {
+        "en": "Late abstract submission is rare.",
+        "ru": "Поздняя подача тезисов редка."
+      },
+      {
+        "en": "Guidelines govern abstract submission.",
+        "ru": "Гайдлайны регулируют подачу тезисов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "blind review",
+    "lemma": "blind review",
+    "level": "c1",
+    "tr": "слепое рецензирование",
+    "examples": [
+      {
+        "en": "The journal uses blind review.",
+        "ru": "Журнал использует слепое рецензирование."
+      },
+      {
+        "en": "Double-blind review hides both sides.",
+        "ru": "Double-blind скрывает обе стороны."
+      },
+      {
+        "en": "Anonymize for blind review.",
+        "ru": "Анонимизируй для blind review."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "double-blind",
+    "lemma": "double-blind",
+    "level": "c1",
+    "tr": "двойной блайнд",
+    "examples": [
+      {
+        "en": "Use a double-blind design.",
+        "ru": "Используй double-blind дизайн."
+      },
+      {
+        "en": "Double-blind trials reduce bias.",
+        "ru": "Double-blind испытания снижают смещение."
+      },
+      {
+        "en": "Allocation was double-blind.",
+        "ru": "Распределение было double-blind."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "informed consent",
+    "lemma": "informed consent",
+    "level": "b2",
+    "tr": "информированное согласие",
+    "examples": [
+      {
+        "en": "Obtain informed consent first.",
+        "ru": "Сначала получи информированное согласие."
+      },
+      {
+        "en": "Participants signed informed consent.",
+        "ru": "Участники подписали согласие."
+      },
+      {
+        "en": "Informed consent must be voluntary.",
+        "ru": "Согласие должно быть добровольным."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "ethics approval",
+    "lemma": "ethics approval",
+    "level": "b2",
+    "tr": "этическое одобрение",
+    "examples": [
+      {
+        "en": "Seek ethics approval early.",
+        "ru": "Запроси этическое одобрение рано."
+      },
+      {
+        "en": "Ethics approval was granted.",
+        "ru": "Этическое одобрение получено."
+      },
+      {
+        "en": "No data without ethics approval.",
+        "ru": "Без этики — без данных."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "institutional review board",
+    "lemma": "institutional review board",
+    "level": "c1",
+    "tr": "этический комитет (IRB)",
+    "examples": [
+      {
+        "en": "Submit to the IRB.",
+        "ru": "Подай в IRB."
+      },
+      {
+        "en": "IRB = institutional review board.",
+        "ru": "IRB = этический комитет."
+      },
+      {
+        "en": "The IRB requested revisions.",
+        "ru": "IRB запросил правки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "citation count",
+    "lemma": "citation count",
+    "level": "b2",
+    "tr": "число цитирований",
+    "examples": [
+      {
+        "en": "Citation count is a crude metric.",
+        "ru": "Число цитирований — грубая метрика."
+      },
+      {
+        "en": "Her citation count rose quickly.",
+        "ru": "Число цитирований быстро выросло."
+      },
+      {
+        "en": "Don't chase citation count alone.",
+        "ru": "Не гонись только за цитированиями."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "impact factor",
+    "lemma": "impact factor",
+    "level": "c1",
+    "tr": "импакт-фактор",
+    "examples": [
+      {
+        "en": "The journal's impact factor is high.",
+        "ru": "Импакт-фактор журнала высок."
+      },
+      {
+        "en": "Impact factor has limits.",
+        "ru": "У импакт-фактора есть пределы."
+      },
+      {
+        "en": "Don't worship impact factor.",
+        "ru": "Не боготвори импакт-фактор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "h-index",
+    "lemma": "h-index",
+    "level": "c1",
+    "tr": "индекс Хирша",
+    "examples": [
+      {
+        "en": "His h-index is 24.",
+        "ru": "Его h-index — 24."
+      },
+      {
+        "en": "h-index grows with career length.",
+        "ru": "h-index растёт с длиной карьеры."
+      },
+      {
+        "en": "Fields differ in typical h-index.",
+        "ru": "В разных полях разный типичный h-index."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "open science",
+    "lemma": "open science",
+    "level": "c1",
+    "tr": "открытая наука",
+    "examples": [
+      {
+        "en": "Practice open science when possible.",
+        "ru": "Практикуй open science, когда можно."
+      },
+      {
+        "en": "Open science includes sharing data.",
+        "ru": "Open science включает шаринг данных."
+      },
+      {
+        "en": "Funders encourage open science.",
+        "ru": "Спонсоры поощряют open science."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reproducibility crisis",
+    "lemma": "reproducibility crisis",
+    "level": "c1",
+    "tr": "кризис воспроизводимости",
+    "examples": [
+      {
+        "en": "Psychology faced a reproducibility crisis.",
+        "ru": "Психология столкнулась с кризисом воспроизводимости."
+      },
+      {
+        "en": "The reproducibility crisis spurred reform.",
+        "ru": "Кризис подтолкнул реформы."
+      },
+      {
+        "en": "Preregistration fights the reproducibility crisis.",
+        "ru": "Пререгистрация борется с кризисом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "replication study",
+    "lemma": "replication study",
+    "level": "c1",
+    "tr": "репликационное исследование",
+    "examples": [
+      {
+        "en": "A replication study tested the claim.",
+        "ru": "Репликация проверила утверждение."
+      },
+      {
+        "en": "Fund replication studies.",
+        "ru": "Финансируй репликации."
+      },
+      {
+        "en": "Failed replications still teach.",
+        "ru": "Неудачные репликации тоже учат."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "external validity",
+    "lemma": "external validity",
+    "level": "c1",
+    "tr": "внешняя валидность",
+    "examples": [
+      {
+        "en": "Threats to external validity…",
+        "ru": "Угрозы внешней валидности…"
+      },
+      {
+        "en": "Lab settings may hurt external validity.",
+        "ru": "Лаборатория может бить по внешней валидности."
+      },
+      {
+        "en": "Field studies boost external validity.",
+        "ru": "Полевые исследования усиливают внешнюю валидность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "internal validity",
+    "lemma": "internal validity",
+    "level": "c1",
+    "tr": "внутренняя валидность",
+    "examples": [
+      {
+        "en": "Controls protect internal validity.",
+        "ru": "Контроли защищают внутреннюю валидность."
+      },
+      {
+        "en": "Confounds threaten internal validity.",
+        "ru": "Конфаунды угрожают внутренней валидности."
+      },
+      {
+        "en": "Randomization aids internal validity.",
+        "ru": "Рандомизация помогает внутренней валидности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "construct validity",
+    "lemma": "construct validity",
+    "level": "c1",
+    "tr": "конструктная валидность",
+    "examples": [
+      {
+        "en": "Measures need construct validity.",
+        "ru": "Измерениям нужна конструктная валидность."
+      },
+      {
+        "en": "Poor items hurt construct validity.",
+        "ru": "Плохие пункты бьют по конструктной валидности."
+      },
+      {
+        "en": "Argue for construct validity explicitly.",
+        "ru": "Явно обоснуй конструктную валидность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "face validity",
+    "lemma": "face validity",
+    "level": "c1",
+    "tr": "очевидная валидность",
+    "examples": [
+      {
+        "en": "The scale has face validity.",
+        "ru": "Шкала имеет очевидную валидность."
+      },
+      {
+        "en": "Face validity is not enough.",
+        "ru": "Очевидной валидности мало."
+      },
+      {
+        "en": "Experts judged face validity.",
+        "ru": "Эксперты оценили face validity."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "content validity",
+    "lemma": "content validity",
+    "level": "c1",
+    "tr": "содержательная валидность",
+    "examples": [
+      {
+        "en": "Experts assessed content validity.",
+        "ru": "Эксперты оценили содержательную валидность."
+      },
+      {
+        "en": "Content validity covers the domain.",
+        "ru": "Содержательная валидность покрывает область."
+      },
+      {
+        "en": "Blueprints aid content validity.",
+        "ru": "Спецификации помогают содержательной валидности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "criterion validity",
+    "lemma": "criterion validity",
+    "level": "c1",
+    "tr": "критериальная валидность",
+    "examples": [
+      {
+        "en": "Correlate for criterion validity.",
+        "ru": "Коррелируй для критериальной валидности."
+      },
+      {
+        "en": "Predictive criterion validity matters.",
+        "ru": "Прогностическая критериальная валидность важна."
+      },
+      {
+        "en": "Establish criterion validity with outcomes.",
+        "ru": "Установи критериальную валидность по исходам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "measurement error",
+    "lemma": "measurement error",
+    "level": "b2",
+    "tr": "ошибка измерения",
+    "examples": [
+      {
+        "en": "Reduce measurement error.",
+        "ru": "Снижай ошибку измерения."
+      },
+      {
+        "en": "Measurement error attenuates correlations.",
+        "ru": "Ошибка измерения ослабляет корреляции."
+      },
+      {
+        "en": "Report measurement error estimates.",
+        "ru": "Сообщай оценки ошибки измерения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "standard deviation",
+    "lemma": "standard deviation",
+    "level": "b2",
+    "tr": "стандартное отклонение",
+    "examples": [
+      {
+        "en": "Report mean and standard deviation.",
+        "ru": "Укажи среднее и стандартное отклонение."
+      },
+      {
+        "en": "SD = standard deviation.",
+        "ru": "SD = стандартное отклонение."
+      },
+      {
+        "en": "Wide standard deviation means spread.",
+        "ru": "Большое SD значит разброс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "standard error",
+    "lemma": "standard error",
+    "level": "c1",
+    "tr": "стандартная ошибка",
+    "examples": [
+      {
+        "en": "Plot standard errors on bars.",
+        "ru": "Отметь стандартные ошибки на столбцах."
+      },
+      {
+        "en": "SE = standard error.",
+        "ru": "SE = стандартная ошибка."
+      },
+      {
+        "en": "Standard error shrinks with n.",
+        "ru": "Стандартная ошибка падает с ростом n."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "effect size",
+    "lemma": "effect size",
+    "level": "c1",
+    "tr": "размер эффекта",
+    "examples": [
+      {
+        "en": "Report effect size, not only p.",
+        "ru": "Указывай размер эффекта, не только p."
+      },
+      {
+        "en": "Cohen's d is an effect size.",
+        "ru": "Cohen's d — размер эффекта."
+      },
+      {
+        "en": "Small effect sizes can still matter.",
+        "ru": "Маленький эффект всё же может быть важен."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "p-value",
+    "lemma": "p-value",
+    "level": "b2",
+    "tr": "p-значение",
+    "examples": [
+      {
+        "en": "Don't worship the p-value.",
+        "ru": "Не боготвори p-value."
+      },
+      {
+        "en": "A p-value of .04 was reported.",
+        "ru": "Сообщили p-value .04."
+      },
+      {
+        "en": "Interpret p-values with context.",
+        "ru": "Интерпретируй p-value в контексте."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "type I error",
+    "lemma": "type i error",
+    "level": "c1",
+    "tr": "ошибка I рода",
+    "examples": [
+      {
+        "en": "False positives are type I errors.",
+        "ru": "Ложные срабатывания — ошибки I рода."
+      },
+      {
+        "en": "Alpha controls type I error.",
+        "ru": "Альфа контролирует ошибку I рода."
+      },
+      {
+        "en": "Multiple tests inflate type I error.",
+        "ru": "Множественные тесты раздувают ошибку I рода."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "type II error",
+    "lemma": "type ii error",
+    "level": "c1",
+    "tr": "ошибка II рода",
+    "examples": [
+      {
+        "en": "Missing a real effect is type II.",
+        "ru": "Пропуск реального эффекта — ошибка II рода."
+      },
+      {
+        "en": "Low power raises type II error.",
+        "ru": "Низкая мощность повышает ошибку II рода."
+      },
+      {
+        "en": "Balance type I and type II errors.",
+        "ru": "Балансируй ошибки I и II рода."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "statistical power",
+    "lemma": "statistical power",
+    "level": "c1",
+    "tr": "статистическая мощность",
+    "examples": [
+      {
+        "en": "Increase power with larger n.",
+        "ru": "Увеличь мощность большим n."
+      },
+      {
+        "en": "Underpowered studies waste effort.",
+        "ru": "Слабые по мощности исследования зря тратят силы."
+      },
+      {
+        "en": "Estimate power before collecting data.",
+        "ru": "Оцени мощность до сбора данных."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "confounding variable",
+    "lemma": "confounding variable",
+    "level": "c1",
+    "tr": "конфаундер",
+    "examples": [
+      {
+        "en": "Control for confounding variables.",
+        "ru": "Контролируй конфаундеры."
+      },
+      {
+        "en": "Age was a confounding variable.",
+        "ru": "Возраст был конфаундером."
+      },
+      {
+        "en": "Design reduces confounding.",
+        "ru": "Дизайн снижает конфаундинг."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "independent variable",
+    "lemma": "independent variable",
+    "level": "b2",
+    "tr": "независимая переменная",
+    "examples": [
+      {
+        "en": "Manipulate the independent variable.",
+        "ru": "Манипулируй независимой переменной."
+      },
+      {
+        "en": "IV = independent variable.",
+        "ru": "IV = независимая переменная."
+      },
+      {
+        "en": "List independent variables clearly.",
+        "ru": "Чётко перечисли независимые переменные."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "control variable",
+    "lemma": "control variable",
+    "level": "b2",
+    "tr": "контрольная переменная",
+    "examples": [
+      {
+        "en": "Include control variables in the model.",
+        "ru": "Включи контрольные переменные в модель."
+      },
+      {
+        "en": "Socioeconomic status was a control.",
+        "ru": "Соцэкономстатус был контролем."
+      },
+      {
+        "en": "Too many controls can overfit.",
+        "ru": "Слишком много контролей — переобучение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "mediating variable",
+    "lemma": "mediating variable",
+    "level": "c1",
+    "tr": "медиатор",
+    "examples": [
+      {
+        "en": "Test the mediating variable.",
+        "ru": "Проверь медиатор."
+      },
+      {
+        "en": "Stress mediated the effect.",
+        "ru": "Стресс медиатировал эффект."
+      },
+      {
+        "en": "Mediation needs theory.",
+        "ru": "Медиации нужна теория."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "moderating variable",
+    "lemma": "moderating variable",
+    "level": "c1",
+    "tr": "модератор",
+    "examples": [
+      {
+        "en": "Age was a moderating variable.",
+        "ru": "Возраст был модератором."
+      },
+      {
+        "en": "Test interactions for moderation.",
+        "ru": "Тестируй взаимодействия для модерации."
+      },
+      {
+        "en": "Moderators qualify effects.",
+        "ru": "Модераторы уточняют эффекты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "academic integrity",
+    "lemma": "academic integrity",
+    "level": "b2",
+    "tr": "академическая честность",
+    "examples": [
+      {
+        "en": "The paper discusses academic integrity.",
+        "ru": "В статье обсуждается: академическая честность."
+      },
+      {
+        "en": "We carefully considered academic integrity.",
+        "ru": "Мы тщательно учли: академическая честность."
+      },
+      {
+        "en": "Students should understand academic integrity.",
+        "ru": "Студентам важно понимать: академическая честность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "academic misconduct",
+    "lemma": "academic misconduct",
+    "level": "c1",
+    "tr": "академический проступок",
+    "examples": [
+      {
+        "en": "The paper discusses academic misconduct.",
+        "ru": "В статье обсуждается: академический проступок."
+      },
+      {
+        "en": "We carefully considered academic misconduct.",
+        "ru": "Мы тщательно учли: академический проступок."
+      },
+      {
+        "en": "Students should understand academic misconduct.",
+        "ru": "Студентам важно понимать: академический проступок."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "plagiarism detection",
+    "lemma": "plagiarism detection",
+    "level": "b2",
+    "tr": "обнаружение плагиата",
+    "examples": [
+      {
+        "en": "The paper discusses plagiarism detection.",
+        "ru": "В статье обсуждается: обнаружение плагиата."
+      },
+      {
+        "en": "We carefully considered plagiarism detection.",
+        "ru": "Мы тщательно учли: обнаружение плагиата."
+      },
+      {
+        "en": "Students should understand plagiarism detection.",
+        "ru": "Студентам важно понимать: обнаружение плагиата."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "citation style",
+    "lemma": "citation style",
+    "level": "b1",
+    "tr": "стиль цитирования",
+    "examples": [
+      {
+        "en": "The paper discusses citation style.",
+        "ru": "В статье обсуждается: стиль цитирования."
+      },
+      {
+        "en": "We carefully considered citation style.",
+        "ru": "Мы тщательно учли: стиль цитирования."
+      },
+      {
+        "en": "Students should understand citation style.",
+        "ru": "Студентам важно понимать: стиль цитирования."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reference list",
+    "lemma": "reference list",
+    "level": "b1",
+    "tr": "список литературы",
+    "examples": [
+      {
+        "en": "The paper discusses reference list.",
+        "ru": "В статье обсуждается: список литературы."
+      },
+      {
+        "en": "We carefully considered reference list.",
+        "ru": "Мы тщательно учли: список литературы."
+      },
+      {
+        "en": "Students should understand reference list.",
+        "ru": "Студентам важно понимать: список литературы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "bibliography entry",
+    "lemma": "bibliography entry",
+    "level": "b2",
+    "tr": "библиографическая запись",
+    "examples": [
+      {
+        "en": "The paper discusses bibliography entry.",
+        "ru": "В статье обсуждается: библиографическая запись."
+      },
+      {
+        "en": "We carefully considered bibliography entry.",
+        "ru": "Мы тщательно учли: библиографическая запись."
+      },
+      {
+        "en": "Students should understand bibliography entry.",
+        "ru": "Студентам важно понимать: библиографическая запись."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "in-text citation",
+    "lemma": "in-text citation",
+    "level": "b1",
+    "tr": "внутритекстовая ссылка",
+    "examples": [
+      {
+        "en": "The paper discusses in-text citation.",
+        "ru": "В статье обсуждается: внутритекстовая ссылка."
+      },
+      {
+        "en": "We carefully considered in-text citation.",
+        "ru": "Мы тщательно учли: внутритекстовая ссылка."
+      },
+      {
+        "en": "Students should understand in-text citation.",
+        "ru": "Студентам важно понимать: внутритекстовая ссылка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "footnote citation",
+    "lemma": "footnote citation",
+    "level": "b2",
+    "tr": "ссылка в сноске",
+    "examples": [
+      {
+        "en": "The paper discusses footnote citation.",
+        "ru": "В статье обсуждается: ссылка в сноске."
+      },
+      {
+        "en": "We carefully considered footnote citation.",
+        "ru": "Мы тщательно учли: ссылка в сноске."
+      },
+      {
+        "en": "Students should understand footnote citation.",
+        "ru": "Студентам важно понимать: ссылка в сноске."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "secondary source",
+    "lemma": "secondary source",
+    "level": "b2",
+    "tr": "вторичный источник",
+    "examples": [
+      {
+        "en": "The paper discusses secondary source.",
+        "ru": "В статье обсуждается: вторичный источник."
+      },
+      {
+        "en": "We carefully considered secondary source.",
+        "ru": "Мы тщательно учли: вторичный источник."
+      },
+      {
+        "en": "Students should understand secondary source.",
+        "ru": "Студентам важно понимать: вторичный источник."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "tertiary source",
+    "lemma": "tertiary source",
+    "level": "c1",
+    "tr": "третичный источник",
+    "examples": [
+      {
+        "en": "The paper discusses tertiary source.",
+        "ru": "В статье обсуждается: третичный источник."
+      },
+      {
+        "en": "We carefully considered tertiary source.",
+        "ru": "Мы тщательно учли: третичный источник."
+      },
+      {
+        "en": "Students should understand tertiary source.",
+        "ru": "Студентам важно понимать: третичный источник."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "scholarly article",
+    "lemma": "scholarly article",
+    "level": "b2",
+    "tr": "научная статья",
+    "examples": [
+      {
+        "en": "The paper discusses scholarly article.",
+        "ru": "В статье обсуждается: научная статья."
+      },
+      {
+        "en": "We carefully considered scholarly article.",
+        "ru": "Мы тщательно учли: научная статья."
+      },
+      {
+        "en": "Students should understand scholarly article.",
+        "ru": "Студентам важно понимать: научная статья."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  }
+]

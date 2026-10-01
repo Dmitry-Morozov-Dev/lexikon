@@ -65,6 +65,51 @@
       "defaultParticipate": false
     },
     {
+      "id": "colloc-verb-noun",
+      "title": "Глагол + существительное",
+      "description": "Высокочастотные словосочетания V+N (make a decision, take responsibility, raise awareness…)",
+      "level": "b1-c1",
+      "path": "data/colloc-verb-noun.json",
+      "color": "#6B8E9F",
+      "defaultParticipate": true
+    },
+    {
+      "id": "colloc-adj-noun",
+      "title": "Прилагательное + существительное",
+      "description": "Сильные Adj+N (strong evidence, heavy traffic, tight deadline…)",
+      "level": "b1-c1",
+      "path": "data/colloc-adj-noun.json",
+      "color": "#7DAB7F",
+      "defaultParticipate": true
+    },
+    {
+      "id": "colloc-prep",
+      "title": "Предложные сочетания",
+      "description": "Глагол/прилагательное + предлог (depend on, accuse of, keen on…) — частые ловушки",
+      "level": "b1-c1",
+      "path": "data/colloc-prep.json",
+      "color": "#D4A05A",
+      "defaultParticipate": true
+    },
+    {
+      "id": "colloc-business",
+      "title": "Бизнес-коллокации",
+      "description": "Рабочие словосочетания: встречи, почта, процессы (не полноценные идиомы)",
+      "level": "b1-c1",
+      "path": "data/colloc-business.json",
+      "color": "#8B9AA8",
+      "defaultParticipate": true
+    },
+    {
+      "id": "colloc-academic",
+      "title": "Академические словосочетания",
+      "description": "Многословные академические коллокации (beyond одиночные слова Academic)",
+      "level": "b2-c1",
+      "path": "data/colloc-academic.json",
+      "color": "#C46B5A",
+      "defaultParticipate": true
+    },
+    {
       "id": "idioms",
       "title": "Idioms",
       "description": "Идиомы",

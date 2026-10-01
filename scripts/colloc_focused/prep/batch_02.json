@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "search for",
+    "lemma": "search for",
+    "level": "b1",
+    "tr": "искать",
+    "examples": [
+      {
+        "en": "Search for the error code.",
+        "ru": "Ищи код ошибки."
+      },
+      {
+        "en": "She's searching for a flat.",
+        "ru": "Она ищет квартиру."
+      },
+      {
+        "en": "We searched for a workaround.",
+        "ru": "Мы искали обходной путь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "specialize in",
+    "lemma": "specialize in",
+    "level": "b2",
+    "tr": "специализироваться на",
+    "examples": [
+      {
+        "en": "They specialize in security.",
+        "ru": "Они специализируются на безопасности."
+      },
+      {
+        "en": "She specializes in UX research.",
+        "ru": "Она специализируется на UX-исследованиях."
+      },
+      {
+        "en": "The firm specializes in logistics.",
+        "ru": "Фирма специализируется на логистике."
+      }
+    ],
+    "note": "BrE specialise",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend on",
+    "lemma": "spend on",
+    "level": "b1",
+    "tr": "тратить на",
+    "examples": [
+      {
+        "en": "How much did you spend on ads?",
+        "ru": "Сколько потратили на рекламу?"
+      },
+      {
+        "en": "She spends too much on coffee.",
+        "ru": "Она слишком много тратит на кофе."
+      },
+      {
+        "en": "We spent little on marketing.",
+        "ru": "На маркетинг мы потратили мало."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "succeed in",
+    "lemma": "succeed in",
+    "level": "b1",
+    "tr": "преуспеть в",
+    "examples": [
+      {
+        "en": "She succeeded in fixing the race.",
+        "ru": "Ей удалось починить гонку."
+      },
+      {
+        "en": "Will we succeed in shipping on time?",
+        "ru": "Успеем ли зарелизить вовремя?"
+      },
+      {
+        "en": "He succeeded in the interview.",
+        "ru": "Он преуспел на собеседовании."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer from",
+    "lemma": "suffer from",
+    "level": "b1",
+    "tr": "страдать от",
+    "examples": [
+      {
+        "en": "He suffers from migraines.",
+        "ru": "Он страдает мигренями."
+      },
+      {
+        "en": "The site suffered from lag.",
+        "ru": "Сайт страдал от лагов."
+      },
+      {
+        "en": "Teams suffer from unclear goals.",
+        "ru": "Команды страдают от неясных целей."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "talk about",
+    "lemma": "talk about",
+    "level": "b1",
+    "tr": "говорить о",
+    "examples": [
+      {
+        "en": "Let's talk about the budget.",
+        "ru": "Давайте поговорим о бюджете."
+      },
+      {
+        "en": "She talked about her trip.",
+        "ru": "Она рассказывала о поездке."
+      },
+      {
+        "en": "We need to talk about ownership.",
+        "ru": "Нужно поговорить об ownership."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "talk to",
+    "lemma": "talk to",
+    "level": "b1",
+    "tr": "говорить с",
+    "examples": [
+      {
+        "en": "Can I talk to the manager?",
+        "ru": "Можно поговорить с менеджером?"
+      },
+      {
+        "en": "She talked to support.",
+        "ru": "Она поговорила с поддержкой."
+      },
+      {
+        "en": "Talk to me before you revert.",
+        "ru": "Поговори со мной, прежде чем откатывать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "think about",
+    "lemma": "think about",
+    "level": "b1",
+    "tr": "думать о",
+    "examples": [
+      {
+        "en": "Think about the trade-offs.",
+        "ru": "Подумай о компромиссах."
+      },
+      {
+        "en": "I'm thinking about quitting.",
+        "ru": "Я думаю об увольнении."
+      },
+      {
+        "en": "She thought about the offer.",
+        "ru": "Она думала об оффере."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "think of",
+    "lemma": "think of",
+    "level": "b1",
+    "tr": "думать о; придумать",
+    "examples": [
+      {
+        "en": "What do you think of the design?",
+        "ru": "Что думаешь о дизайне?"
+      },
+      {
+        "en": "I can't think of a better name.",
+        "ru": "Не могу придумать имя лучше."
+      },
+      {
+        "en": "She thought of a workaround.",
+        "ru": "Она придумала обходной путь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "wait for",
+    "lemma": "wait for",
+    "level": "b1",
+    "tr": "ждать",
+    "examples": [
+      {
+        "en": "Wait for the green light.",
+        "ru": "Жди зелёного света."
+      },
+      {
+        "en": "We're waiting for approval.",
+        "ru": "Ждём одобрения."
+      },
+      {
+        "en": "Don't wait for perfection.",
+        "ru": "Не жди идеала."
+      }
+    ],
+    "note": "не wait the bus",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "warn about",
+    "lemma": "warn about",
+    "level": "b1",
+    "tr": "предупреждать о",
+    "examples": [
+      {
+        "en": "They warned about icy roads.",
+        "ru": "Предупредили об обледенелых дорогах."
+      },
+      {
+        "en": "She warned about the risk.",
+        "ru": "Она предупредила о риске."
+      },
+      {
+        "en": "Docs warn about breaking changes.",
+        "ru": "Доки предупреждают о breaking changes."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "worry about",
+    "lemma": "worry about",
+    "level": "b1",
+    "tr": "беспокоиться о",
+    "examples": [
+      {
+        "en": "Don't worry about typos now.",
+        "ru": "Сейчас не переживай об опечатках."
+      },
+      {
+        "en": "Parents worry about grades.",
+        "ru": "Родители беспокоятся об оценках."
+      },
+      {
+        "en": "I worry about missing the train.",
+        "ru": "Боюсь опоздать на поезд."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "work on",
+    "lemma": "work on",
+    "level": "b1",
+    "tr": "работать над",
+    "examples": [
+      {
+        "en": "I'm working on a fix.",
+        "ru": "Я работаю над фиксом."
+      },
+      {
+        "en": "She works on payments.",
+        "ru": "Она работает над платежами."
+      },
+      {
+        "en": "We worked on the proposal all night.",
+        "ru": "Мы всю ночь работали над предложением."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "work for",
+    "lemma": "work for",
+    "level": "b1",
+    "tr": "работать на / в",
+    "examples": [
+      {
+        "en": "She works for a bank.",
+        "ru": "Она работает в банке."
+      },
+      {
+        "en": "Who do you work for?",
+        "ru": "На кого ты работаешь?"
+      },
+      {
+        "en": "He worked for the vendor before.",
+        "ru": "Раньше он работал у вендора."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "work with",
+    "lemma": "work with",
+    "level": "b1",
+    "tr": "работать с",
+    "examples": [
+      {
+        "en": "I work with designers closely.",
+        "ru": "Я тесно работаю с дизайнерами."
+      },
+      {
+        "en": "She works with legacy code.",
+        "ru": "Она работает с легаси."
+      },
+      {
+        "en": "We love working with this client.",
+        "ru": "Нам нравится работать с этим клиентом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "angry with",
+    "lemma": "angry with",
+    "level": "b1",
+    "tr": "злой на (кого-то)",
+    "examples": [
+      {
+        "en": "She's angry with me.",
+        "ru": "Она зла на меня."
+      },
+      {
+        "en": "Don't be angry with the messenger.",
+        "ru": "Не злись на вестника."
+      },
+      {
+        "en": "He was angry with his teammate.",
+        "ru": "Он злился на тиммейта."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "anxious about",
+    "lemma": "anxious about",
+    "level": "b2",
+    "tr": "тревожиться из-за",
+    "examples": [
+      {
+        "en": "I'm anxious about the interview.",
+        "ru": "Я тревожусь из-за собеседования."
+      },
+      {
+        "en": "Parents are anxious about grades.",
+        "ru": "Родители тревожатся об оценках."
+      },
+      {
+        "en": "She's anxious about flying.",
+        "ru": "Она тревожится из-за полётов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "astonished at",
+    "lemma": "astonished at",
+    "level": "c1",
+    "tr": "поражён",
+    "examples": [
+      {
+        "en": "I was astonished at the speed.",
+        "ru": "Я был поражён скоростью."
+      },
+      {
+        "en": "They were astonished at the result.",
+        "ru": "Они были поражены результатом."
+      },
+      {
+        "en": "She looked astonished at the news.",
+        "ru": "Она выглядела поражённой новостью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "attached to",
+    "lemma": "attached to",
+    "level": "b2",
+    "tr": "привязан к",
+    "examples": [
+      {
+        "en": "He's attached to his old laptop.",
+        "ru": "Он привязан к старому ноутбуку."
+      },
+      {
+        "en": "Don't get too attached to a draft.",
+        "ru": "Не привязывайся слишком к черновику."
+      },
+      {
+        "en": "She's attached to the city.",
+        "ru": "Она привязана к городу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "bad for",
+    "lemma": "bad for",
+    "level": "b1",
+    "tr": "вреден для",
+    "examples": [
+      {
+        "en": "Sugar is bad for your teeth.",
+        "ru": "Сахар вреден для зубов."
+      },
+      {
+        "en": "Sitting all day is bad for health.",
+        "ru": "Целый день сидеть вредно для здоровья."
+      },
+      {
+        "en": "Blame is bad for team culture.",
+        "ru": "Обвинения вредны для культуры команды."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "beneficial to",
+    "lemma": "beneficial to",
+    "level": "b2",
+    "tr": "полезен для",
+    "examples": [
+      {
+        "en": "Exercise is beneficial to mood.",
+        "ru": "Спорт полезен для настроения."
+      },
+      {
+        "en": "Sleep is beneficial to focus.",
+        "ru": "Сон полезен для концентрации."
+      },
+      {
+        "en": "The change was beneficial to users.",
+        "ru": "Изменение было полезно пользователям."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "bound to",
+    "lemma": "bound to",
+    "level": "b2",
+    "tr": "обязательно; Bound to + verb",
+    "examples": [
+      {
+        "en": "It's bound to happen.",
+        "ru": "Это обязательно случится."
+      },
+      {
+        "en": "She's bound to notice.",
+        "ru": "Она обязательно заметит."
+      },
+      {
+        "en": "With that load it's bound to crash.",
+        "ru": "При такой нагрузке оно обязательно упадёт."
+      }
+    ],
+    "note": "bound to + infinitive",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "brilliant at",
+    "lemma": "brilliant at",
+    "level": "b2",
+    "tr": "блестяще умеет",
+    "examples": [
+      {
+        "en": "He's brilliant at debugging.",
+        "ru": "Он блестяще отлаживает."
+      },
+      {
+        "en": "She's brilliant at storytelling.",
+        "ru": "Она блестяще рассказывает истории."
+      },
+      {
+        "en": "The team is brilliant at incident response.",
+        "ru": "Команда блестяще реагирует на инциденты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "busy with",
+    "lemma": "busy with",
+    "level": "b1",
+    "tr": "занят",
+    "examples": [
+      {
+        "en": "I'm busy with a release.",
+        "ru": "Я занят релизом."
+      },
+      {
+        "en": "She's busy with clients.",
+        "ru": "Она занята клиентами."
+      },
+      {
+        "en": "We're busy with onboarding.",
+        "ru": "Мы заняты онбордингом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "careful with",
+    "lemma": "careful with",
+    "level": "b1",
+    "tr": "осторожен с",
+    "examples": [
+      {
+        "en": "Be careful with production data.",
+        "ru": "Осторожнее с продовыми данными."
+      },
+      {
+        "en": "She's careful with words.",
+        "ru": "Она осторожна со словами."
+      },
+      {
+        "en": "Be careful with that cable.",
+        "ru": "Осторожнее с этим кабелем."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "certain of",
+    "lemma": "certain of",
+    "level": "b2",
+    "tr": "уверен в",
+    "examples": [
+      {
+        "en": "Are you certain of the numbers?",
+        "ru": "Ты уверен в цифрах?"
+      },
+      {
+        "en": "I'm certain of one thing.",
+        "ru": "Я уверен в одном."
+      },
+      {
+        "en": "She was certain of success.",
+        "ru": "Она была уверена в успехе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "close to",
+    "lemma": "close to",
+    "level": "b1",
+    "tr": "близок к",
+    "examples": [
+      {
+        "en": "We're close to a fix.",
+        "ru": "Мы близки к фиксу."
+      },
+      {
+        "en": "She's close to her sister.",
+        "ru": "Она близка с сестрой."
+      },
+      {
+        "en": "The score is close to zero.",
+        "ru": "Счёт близок к нулю."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "concerned about",
+    "lemma": "concerned about",
+    "level": "b1",
+    "tr": "обеспокоен",
+    "examples": [
+      {
+        "en": "I'm concerned about latency.",
+        "ru": "Меня беспокоит задержка."
+      },
+      {
+        "en": "Parents are concerned about screen time.",
+        "ru": "Родителей беспокоит экранное время."
+      },
+      {
+        "en": "She's concerned about the budget.",
+        "ru": "Её беспокоит бюджет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "confident about",
+    "lemma": "confident about",
+    "level": "b1",
+    "tr": "уверен насчёт",
+    "examples": [
+      {
+        "en": "I'm confident about the plan.",
+        "ru": "Я уверен в плане."
+      },
+      {
+        "en": "She's confident about passing.",
+        "ru": "Она уверена, что сдаст."
+      },
+      {
+        "en": "Are you confident about shipping?",
+        "ru": "Ты уверен насчёт релиза?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "confused about",
+    "lemma": "confused about",
+    "level": "b1",
+    "tr": "запутался в",
+    "examples": [
+      {
+        "en": "I'm confused about the requirements.",
+        "ru": "Я запутался в требованиях."
+      },
+      {
+        "en": "Users are confused about pricing.",
+        "ru": "Пользователи путаются в ценах."
+      },
+      {
+        "en": "She's confused about next steps.",
+        "ru": "Она запуталась в следующих шагах."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "content with",
+    "lemma": "content with",
+    "level": "b2",
+    "tr": "доволен",
+    "examples": [
+      {
+        "en": "I'm content with a simple setup.",
+        "ru": "Мне достаточно простого сетапа."
+      },
+      {
+        "en": "She's content with progress.",
+        "ru": "Она довольна прогрессом."
+      },
+      {
+        "en": "Be content with small wins sometimes.",
+        "ru": "Иногда довольствуйся маленькими победами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "convinced of",
+    "lemma": "convinced of",
+    "level": "b2",
+    "tr": "убеждён в",
+    "examples": [
+      {
+        "en": "I'm convinced of her honesty.",
+        "ru": "Я убеждён в её честности."
+      },
+      {
+        "en": "She was convinced of the need for tests.",
+        "ru": "Она была убеждена в необходимости тестов."
+      },
+      {
+        "en": "Are you convinced of this approach?",
+        "ru": "Ты убеждён в этом подходе?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "crazy about",
+    "lemma": "crazy about",
+    "level": "b1",
+    "tr": "без ума от",
+    "examples": [
+      {
+        "en": "He's crazy about football.",
+        "ru": "Он без ума от футбола."
+      },
+      {
+        "en": "She's crazy about this band.",
+        "ru": "Она без ума от этой группы."
+      },
+      {
+        "en": "I'm crazy about clean APIs.",
+        "ru": "Я без ума от чистых API."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "critical of",
+    "lemma": "critical of",
+    "level": "b2",
+    "tr": "критичен к",
+    "examples": [
+      {
+        "en": "He's critical of the proposal.",
+        "ru": "Он критичен к предложению."
+      },
+      {
+        "en": "Don't be overly critical of juniors.",
+        "ru": "Не будь слишком критичен к джунам."
+      },
+      {
+        "en": "Reviewers were critical of the methods.",
+        "ru": "Ревьюеры критиковали методы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "curious about",
+    "lemma": "curious about",
+    "level": "b1",
+    "tr": "любопытен насчёт",
+    "examples": [
+      {
+        "en": "I'm curious about the metrics.",
+        "ru": "Мне любопытны метрики."
+      },
+      {
+        "en": "She's curious about your stack.",
+        "ru": "Ей любопытен твой стек."
+      },
+      {
+        "en": "Kids are curious about everything.",
+        "ru": "Детям всё любопытно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "dependent on",
+    "lemma": "dependent on",
+    "level": "b2",
+    "tr": "зависим от",
+    "examples": [
+      {
+        "en": "The app is dependent on the API.",
+        "ru": "Приложение зависит от API."
+      },
+      {
+        "en": "Don't be dependent on one vendor.",
+        "ru": "Не завись от одного вендора."
+      },
+      {
+        "en": "Growth is dependent on retention.",
+        "ru": "Рост зависит от удержания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "disappointed in",
+    "lemma": "disappointed in",
+    "level": "b2",
+    "tr": "разочарован в (человеке)",
+    "examples": [
+      {
+        "en": "I'm disappointed in him.",
+        "ru": "Я разочарован в нём."
+      },
+      {
+        "en": "She was disappointed in the team.",
+        "ru": "Она разочаровалась в команде."
+      },
+      {
+        "en": "Don't be disappointed in yourself.",
+        "ru": "Не разочаровывайся в себе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "eager for",
+    "lemma": "eager for",
+    "level": "b2",
+    "tr": "жаждет",
+    "examples": [
+      {
+        "en": "Students are eager for feedback.",
+        "ru": "Студенты жаждут фидбека."
+      },
+      {
+        "en": "She's eager for a challenge.",
+        "ru": "Она жаждет вызова."
+      },
+      {
+        "en": "We're eager for the launch.",
+        "ru": "Мы жаждем запуска."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "eligible for",
+    "lemma": "eligible for",
+    "level": "b2",
+    "tr": "имеет право на",
+    "examples": [
+      {
+        "en": "You're eligible for a refund.",
+        "ru": "Ты имеешь право на возврат."
+      },
+      {
+        "en": "Is she eligible for the grant?",
+        "ru": "Имеет ли она право на грант?"
+      },
+      {
+        "en": "Only seniors are eligible for that perk.",
+        "ru": "Только сеньоры имеют право на этот бонус."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "enthusiastic about",
+    "lemma": "enthusiastic about",
+    "level": "b2",
+    "tr": "в восторге от",
+    "examples": [
+      {
+        "en": "She's enthusiastic about the project.",
+        "ru": "Она в восторге от проекта."
+      },
+      {
+        "en": "I'm enthusiastic about mentoring.",
+        "ru": "Мне нравится менторство."
+      },
+      {
+        "en": "The team is enthusiastic about the rewrite.",
+        "ru": "Команда в восторге от переписывания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "essential to",
+    "lemma": "essential to",
+    "level": "b2",
+    "tr": "существенен для",
+    "examples": [
+      {
+        "en": "Sleep is essential to health.",
+        "ru": "Сон существенен для здоровья."
+      },
+      {
+        "en": "Tests are essential to confidence.",
+        "ru": "Тесты существенны для уверенности."
+      },
+      {
+        "en": "Trust is essential to teamwork.",
+        "ru": "Доверие существенно для командной работы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "experienced in",
+    "lemma": "experienced in",
+    "level": "b1",
+    "tr": "опытен в",
+    "examples": [
+      {
+        "en": "She's experienced in Go.",
+        "ru": "Она опытна в Go."
+      },
+      {
+        "en": "We're looking for people experienced in cloud.",
+        "ru": "Ищем людей с опытом в облаке."
+      },
+      {
+        "en": "He's experienced in incident response.",
+        "ru": "Он опытен в реагировании на инциденты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "exposed to",
+    "lemma": "exposed to",
+    "level": "b2",
+    "tr": "подвержен",
+    "examples": [
+      {
+        "en": "Don't get exposed to phishing.",
+        "ru": "Не попадайся на фишинг."
+      },
+      {
+        "en": "Kids are exposed to ads early.",
+        "ru": "Дети рано сталкиваются с рекламой."
+      },
+      {
+        "en": "Servers were exposed to the internet.",
+        "ru": "Серверы были открыты в интернет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "far from",
+    "lemma": "far from",
+    "level": "b1",
+    "tr": "далёк от",
+    "examples": [
+      {
+        "en": "We're far from done.",
+        "ru": "Мы далеки от завершения."
+      },
+      {
+        "en": "That's far from ideal.",
+        "ru": "Это далеко от идеала."
+      },
+      {
+        "en": "The office is far from the station.",
+        "ru": "Офис далеко от станции."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "fascinated by",
+    "lemma": "fascinated by",
+    "level": "b2",
+    "tr": "очарован",
+    "examples": [
+      {
+        "en": "I'm fascinated by languages.",
+        "ru": "Меня очаровывают языки."
+      },
+      {
+        "en": "She's fascinated by space.",
+        "ru": "Её очаровывает космос."
+      },
+      {
+        "en": "He was fascinated by the demo.",
+        "ru": "Его очаровал демо."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "fit for",
+    "lemma": "fit for",
+    "level": "b2",
+    "tr": "пригоден для",
+    "examples": [
+      {
+        "en": "Is this fit for production?",
+        "ru": "Это годится для продакшена?"
+      },
+      {
+        "en": "The room isn't fit for meetings.",
+        "ru": "Комната не годится для встреч."
+      },
+      {
+        "en": "She's fit for the role.",
+        "ru": "Она подходит для роли."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "free from",
+    "lemma": "free from",
+    "level": "b2",
+    "tr": "свободен от",
+    "examples": [
+      {
+        "en": "The city is free from smog today.",
+        "ru": "Город сегодня без смога."
+      },
+      {
+        "en": "Keep the repo free from secrets.",
+        "ru": "Держи репозиторий без секретов."
+      },
+      {
+        "en": "She wants a life free from debt.",
+        "ru": "Она хочет жизнь без долгов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "friendly to",
+    "lemma": "friendly to",
+    "level": "b1",
+    "tr": "дружелюбен к",
+    "examples": [
+      {
+        "en": "Be friendly to newcomers.",
+        "ru": "Будь дружелюбен к новичкам."
+      },
+      {
+        "en": "The UI is friendly to beginners.",
+        "ru": "UI дружелюбен к новичкам."
+      },
+      {
+        "en": "Staff were friendly to visitors.",
+        "ru": "Персонал был дружелюбен к посетителям."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "frightened of",
+    "lemma": "frightened of",
+    "level": "b1",
+    "tr": "испуган",
+    "examples": [
+      {
+        "en": "She's frightened of dogs.",
+        "ru": "Она боится собак."
+      },
+      {
+        "en": "Don't be frightened of asking.",
+        "ru": "Не бойся спрашивать."
+      },
+      {
+        "en": "He was frightened of the dark as a kid.",
+        "ru": "В детстве он боялся темноты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "full of",
+    "lemma": "full of",
+    "level": "b1",
+    "tr": "полон",
+    "examples": [
+      {
+        "en": "The inbox is full of spam.",
+        "ru": "Инбокс полон спама."
+      },
+      {
+        "en": "She's full of ideas.",
+        "ru": "Она полна идей."
+      },
+      {
+        "en": "The talk was full of insights.",
+        "ru": "Доклад был полон инсайтов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "furious about",
+    "lemma": "furious about",
+    "level": "b2",
+    "tr": "в ярости из-за",
+    "examples": [
+      {
+        "en": "He's furious about the leak.",
+        "ru": "Он в ярости из-за утечки."
+      },
+      {
+        "en": "Users were furious about the outage.",
+        "ru": "Пользователи были в ярости из-за аварии."
+      },
+      {
+        "en": "She's furious about unpaid work.",
+        "ru": "Она в ярости из-за неоплаченной работы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "good for",
+    "lemma": "good for",
+    "level": "b1",
+    "tr": "полезен для",
+    "examples": [
+      {
+        "en": "Walking is good for you.",
+        "ru": "Ходьба тебе полезна."
+      },
+      {
+        "en": "This tool is good for beginners.",
+        "ru": "Этот инструмент хорош для новичков."
+      },
+      {
+        "en": "Rest is good for recovery.",
+        "ru": "Отдых полезен для восстановления."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "grateful for",
+    "lemma": "grateful for",
+    "level": "b1",
+    "tr": "благодарен за",
+    "examples": [
+      {
+        "en": "I'm grateful for your help.",
+        "ru": "Я благодарен за помощь."
+      },
+      {
+        "en": "She's grateful for the chance.",
+        "ru": "Она благодарна за шанс."
+      },
+      {
+        "en": "We're grateful for feedback.",
+        "ru": "Мы благодарны за фидбек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "guilty of",
+    "lemma": "guilty of",
+    "level": "b2",
+    "tr": "виновен в",
+    "examples": [
+      {
+        "en": "He was found guilty of fraud.",
+        "ru": "Его признали виновным в мошенничестве."
+      },
+      {
+        "en": "Don't assume people are guilty of malice.",
+        "ru": "Не считай людей виновными в злонамеренности."
+      },
+      {
+        "en": "She's guilty of overpromising.",
+        "ru": "Она виновна в завышенных обещаниях."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "happy about",
+    "lemma": "happy about",
+    "level": "b1",
+    "tr": "рад из-за",
+    "examples": [
+      {
+        "en": "I'm happy about the news.",
+        "ru": "Я рад новости."
+      },
+      {
+        "en": "She's happy about the move.",
+        "ru": "Она рада переезду."
+      },
+      {
+        "en": "Are you happy about the change?",
+        "ru": "Ты рад изменению?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "happy with",
+    "lemma": "happy with",
+    "level": "b1",
+    "tr": "доволен",
+    "examples": [
+      {
+        "en": "I'm happy with the result.",
+        "ru": "Я доволен результатом."
+      },
+      {
+        "en": "Customers are happy with support.",
+        "ru": "Клиенты довольны поддержкой."
+      },
+      {
+        "en": "She's not happy with the draft.",
+        "ru": "Она недовольна черновиком."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "harmful to",
+    "lemma": "harmful to",
+    "level": "b2",
+    "tr": "вреден для",
+    "examples": [
+      {
+        "en": "Smoking is harmful to lungs.",
+        "ru": "Курение вредно для лёгких."
+      },
+      {
+        "en": "Toxicity is harmful to culture.",
+        "ru": "Токсичность вредна для культуры."
+      },
+      {
+        "en": "Blue light can be harmful to sleep.",
+        "ru": "Синий свет может вредить сну."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "hopeless at",
+    "lemma": "hopeless at",
+    "level": "b2",
+    "tr": "безнадёжен в",
+    "examples": [
+      {
+        "en": "I'm hopeless at drawing.",
+        "ru": "Я безнадёжен в рисовании."
+      },
+      {
+        "en": "He's hopeless at small talk.",
+        "ru": "Он безнадёжен в small talk."
+      },
+      {
+        "en": "Don't say you're hopeless at math.",
+        "ru": "Не говори, что безнадёжен в математике."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "identical to",
+    "lemma": "identical to",
+    "level": "b2",
+    "tr": "идентичен",
+    "examples": [
+      {
+        "en": "This build is identical to staging.",
+        "ru": "Эта сборка идентична стейджингу."
+      },
+      {
+        "en": "Her story is identical to his.",
+        "ru": "Её история идентична его."
+      },
+      {
+        "en": "The hash is identical to the release.",
+        "ru": "Хеш идентичен релизу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "impressed with",
+    "lemma": "impressed with",
+    "level": "b1",
+    "tr": "впечатлён",
+    "examples": [
+      {
+        "en": "I'm impressed with the speed.",
+        "ru": "Меня впечатлила скорость."
+      },
+      {
+        "en": "We were impressed with her talk.",
+        "ru": "Нас впечатлил её доклад."
+      },
+      {
+        "en": "Managers were impressed with the fix.",
+        "ru": "Менеджеров впечатлил фикс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "inferior to",
+    "lemma": "inferior to",
+    "level": "c1",
+    "tr": "хуже чем",
+    "examples": [
+      {
+        "en": "This version is inferior to the last.",
+        "ru": "Эта версия хуже предыдущей."
+      },
+      {
+        "en": "Don't feel inferior to seniors.",
+        "ru": "Не чувствуй себя хуже сеньоров."
+      },
+      {
+        "en": "The copy is inferior to the original.",
+        "ru": "Копия хуже оригинала."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "innocent of",
+    "lemma": "innocent of",
+    "level": "b2",
+    "tr": "невиновен в",
+    "examples": [
+      {
+        "en": "He was innocent of the charge.",
+        "ru": "Он был невиновен в обвинении."
+      },
+      {
+        "en": "She's innocent of any wrongdoing.",
+        "ru": "Она невиновна ни в каком проступке."
+      },
+      {
+        "en": "Assume people are innocent of malice.",
+        "ru": "Считай людей невиновными в злонамеренности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "involved with",
+    "lemma": "involved with",
+    "level": "b2",
+    "tr": "связан с",
+    "examples": [
+      {
+        "en": "She's involved with several charities.",
+        "ru": "Она связана с несколькими благотворительными организациями."
+      },
+      {
+        "en": "Don't get involved with toxic projects.",
+        "ru": "Не ввязывайся в токсичные проекты."
+      },
+      {
+        "en": "He got involved with the wrong crowd.",
+        "ru": "Он связался с плохой компанией."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "kind to",
+    "lemma": "kind to",
+    "level": "b1",
+    "tr": "добр к",
+    "examples": [
+      {
+        "en": "Be kind to juniors.",
+        "ru": "Будь добр к джунам."
+      },
+      {
+        "en": "She was kind to strangers.",
+        "ru": "Она была добра к незнакомцам."
+      },
+      {
+        "en": "Please be kind to future readers of this code.",
+        "ru": "Будь добр к будущим читателям этого кода."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "known for",
+    "lemma": "known for",
+    "level": "b1",
+    "tr": "известен чем",
+    "examples": [
+      {
+        "en": "The city is known for coffee.",
+        "ru": "Город известен кофе."
+      },
+      {
+        "en": "She's known for clear writing.",
+        "ru": "Она известна ясным письмом."
+      },
+      {
+        "en": "The brand is known for reliability.",
+        "ru": "Бренд известен надёжностью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "late for",
+    "lemma": "late for",
+    "level": "b1",
+    "tr": "опаздывать на",
+    "examples": [
+      {
+        "en": "I'm late for the meeting.",
+        "ru": "Я опаздываю на встречу."
+      },
+      {
+        "en": "Don't be late for the interview.",
+        "ru": "Не опаздывай на собеседование."
+      },
+      {
+        "en": "She was late for class.",
+        "ru": "Она опоздала на пару."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "limited to",
+    "lemma": "limited to",
+    "level": "b2",
+    "tr": "ограничен",
+    "examples": [
+      {
+        "en": "Access is limited to admins.",
+        "ru": "Доступ ограничен админами."
+      },
+      {
+        "en": "The offer is limited to new users.",
+        "ru": "Оффер только для новых пользователей."
+      },
+      {
+        "en": "Discussion was limited to blockers.",
+        "ru": "Обсуждение ограничили блокерами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "mad at",
+    "lemma": "mad at",
+    "level": "b1",
+    "tr": "зол на (разг.)",
+    "examples": [
+      {
+        "en": "Are you mad at me?",
+        "ru": "Ты на меня злишься?"
+      },
+      {
+        "en": "She's mad at the vendor.",
+        "ru": "Она зла на вендора."
+      },
+      {
+        "en": "Don't be mad at the messenger.",
+        "ru": "Не злись на вестника."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "married to",
+    "lemma": "married to",
+    "level": "b1",
+    "tr": "женат / замужем за",
+    "examples": [
+      {
+        "en": "She's married to a doctor.",
+        "ru": "Она замужем за врачом."
+      },
+      {
+        "en": "He's married to his work.",
+        "ru": "Он женат на работе."
+      },
+      {
+        "en": "Are you married to that idea?",
+        "ru": "Ты прикипел к этой идее?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "nervous about",
+    "lemma": "nervous about",
+    "level": "b1",
+    "tr": "нервничает из-за",
+    "examples": [
+      {
+        "en": "I'm nervous about presenting.",
+        "ru": "Я нервничаю из-за выступления."
+      },
+      {
+        "en": "She's nervous about the exam.",
+        "ru": "Она нервничает из-за экзамена."
+      },
+      {
+        "en": "Don't be nervous about asking.",
+        "ru": "Не нервничай из-за вопросов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "new to",
+    "lemma": "new to",
+    "level": "b1",
+    "tr": "новичок в",
+    "examples": [
+      {
+        "en": "I'm new to Rust.",
+        "ru": "Я новичок в Rust."
+      },
+      {
+        "en": "She's new to the team.",
+        "ru": "Она новичок в команде."
+      },
+      {
+        "en": "If you're new to Git, start here.",
+        "ru": "Если ты новенький в Git — начни здесь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "nice to",
+    "lemma": "nice to",
+    "level": "b1",
+    "tr": "мил с",
+    "examples": [
+      {
+        "en": "Be nice to customers.",
+        "ru": "Будь мил с клиентами."
+      },
+      {
+        "en": "She was nice to everyone.",
+        "ru": "Она была мила со всеми."
+      },
+      {
+        "en": "It's nice to meet you.",
+        "ru": "Приятно познакомиться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "notorious for",
+    "lemma": "notorious for",
+    "level": "c1",
+    "tr": "печально известен",
+    "examples": [
+      {
+        "en": "The road is notorious for jams.",
+        "ru": "Дорога печально известна пробками."
+      },
+      {
+        "en": "He's notorious for missing deadlines.",
+        "ru": "Он печально известен срывами дедлайнов."
+      },
+      {
+        "en": "The market is notorious for volatility.",
+        "ru": "Рынок печально известен волатильностью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "opposed to",
+    "lemma": "opposed to",
+    "level": "b2",
+    "tr": "против",
+    "examples": [
+      {
+        "en": "I'm opposed to the cut.",
+        "ru": "Я против сокращения."
+      },
+      {
+        "en": "She's opposed to unpaid overtime.",
+        "ru": "Она против неоплачиваемой переработки."
+      },
+      {
+        "en": "Many were opposed to the merger.",
+        "ru": "Многие были против слияния."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "optimistic about",
+    "lemma": "optimistic about",
+    "level": "b2",
+    "tr": "оптимистичен насчёт",
+    "examples": [
+      {
+        "en": "I'm optimistic about Q4.",
+        "ru": "Я оптимистичен насчёт Q4."
+      },
+      {
+        "en": "She's optimistic about recovery.",
+        "ru": "Она оптимистична насчёт восстановления."
+      },
+      {
+        "en": "Are you optimistic about the launch?",
+        "ru": "Ты оптимистичен насчёт релиза?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "patient with",
+    "lemma": "patient with",
+    "level": "b1",
+    "tr": "терпелив с",
+    "examples": [
+      {
+        "en": "Be patient with beginners.",
+        "ru": "Будь терпелив с новичками."
+      },
+      {
+        "en": "She's patient with bugs.",
+        "ru": "Она терпелива к багам."
+      },
+      {
+        "en": "Thanks for being patient with me.",
+        "ru": "Спасибо, что терпишь меня."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "pessimistic about",
+    "lemma": "pessimistic about",
+    "level": "b2",
+    "tr": "пессимистичен",
+    "examples": [
+      {
+        "en": "Don't be pessimistic about early metrics.",
+        "ru": "Не будь пессимистом из-за ранних метрик."
+      },
+      {
+        "en": "He's pessimistic about the market.",
+        "ru": "Он пессимистичен насчёт рынка."
+      },
+      {
+        "en": "She felt pessimistic about recovery.",
+        "ru": "Она пессимистично смотрела на восстановление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "pleased with",
+    "lemma": "pleased with",
+    "level": "b1",
+    "tr": "доволен",
+    "examples": [
+      {
+        "en": "I'm pleased with the outcome.",
+        "ru": "Я доволен исходом."
+      },
+      {
+        "en": "They're pleased with the hire.",
+        "ru": "Они довольны наймом."
+      },
+      {
+        "en": "She was pleased with herself.",
+        "ru": "Она была собой довольна."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "polite to",
+    "lemma": "polite to",
+    "level": "b1",
+    "tr": "вежлив с",
+    "examples": [
+      {
+        "en": "Be polite to support agents.",
+        "ru": "Будь вежлив с операторами поддержки."
+      },
+      {
+        "en": "She was polite to critics.",
+        "ru": "Она была вежлива с критиками."
+      },
+      {
+        "en": "He's always polite to strangers.",
+        "ru": "Он всегда вежлив с незнакомцами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "popular with",
+    "lemma": "popular with",
+    "level": "b1",
+    "tr": "популярен у",
+    "examples": [
+      {
+        "en": "The feature is popular with teens.",
+        "ru": "Фича популярна у подростков."
+      },
+      {
+        "en": "She's popular with classmates.",
+        "ru": "Она популярна у одноклассников."
+      },
+      {
+        "en": "This cafe is popular with freelancers.",
+        "ru": "Это кафе популярно у фрилансеров."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "prepared for",
+    "lemma": "prepared for",
+    "level": "b1",
+    "tr": "готов к",
+    "examples": [
+      {
+        "en": "Are you prepared for the exam?",
+        "ru": "Ты готов к экзамену?"
+      },
+      {
+        "en": "We weren't prepared for the spike.",
+        "ru": "Мы не были готовы к всплеску."
+      },
+      {
+        "en": "She's prepared for tough questions.",
+        "ru": "Она готова к жёстким вопросам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "ready for",
+    "lemma": "ready for",
+    "level": "b1",
+    "tr": "готов к",
+    "examples": [
+      {
+        "en": "Ready for launch?",
+        "ru": "Готовы к релизу?"
+      },
+      {
+        "en": "I'm ready for feedback.",
+        "ru": "Я готов к фидбеку."
+      },
+      {
+        "en": "She's ready for the next challenge.",
+        "ru": "Она готова к следующему вызову."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "rich in",
+    "lemma": "rich in",
+    "level": "b2",
+    "tr": "богат чем-то",
+    "examples": [
+      {
+        "en": "The soil is rich in minerals.",
+        "ru": "Почва богата минералами."
+      },
+      {
+        "en": "This talk is rich in examples.",
+        "ru": "Доклад богат примерами."
+      },
+      {
+        "en": "Diets rich in fiber help.",
+        "ru": "Диеты, богатые клетчаткой, помогают."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "rude to",
+    "lemma": "rude to",
+    "level": "b1",
+    "tr": "груб с",
+    "examples": [
+      {
+        "en": "Don't be rude to staff.",
+        "ru": "Не груби персоналу."
+      },
+      {
+        "en": "He was rude to the waiter.",
+        "ru": "Он нагрубил официанту."
+      },
+      {
+        "en": "She apologized for being rude to him.",
+        "ru": "Она извинилась, что нагрубила ему."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "safe from",
+    "lemma": "safe from",
+    "level": "b1",
+    "tr": "в безопасности от",
+    "examples": [
+      {
+        "en": "Keep backups safe from ransomware.",
+        "ru": "Держи бэкапы в безопасности от ransomware."
+      },
+      {
+        "en": "The vault is safe from theft.",
+        "ru": "Хранилище защищено от кражи."
+      },
+      {
+        "en": "No system is fully safe from zero-days.",
+        "ru": "Ни одна система не полностью безопасна от zero-day."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "sensitive to",
+    "lemma": "sensitive to",
+    "level": "b2",
+    "tr": "чувствителен к",
+    "examples": [
+      {
+        "en": "Some people are sensitive to caffeine.",
+        "ru": "Некоторые чувствительны к кофеину."
+      },
+      {
+        "en": "The sensor is sensitive to light.",
+        "ru": "Датчик чувствителен к свету."
+      },
+      {
+        "en": "Be sensitive to cultural differences.",
+        "ru": "Будь чуток к культурным различиям."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "serious about",
+    "lemma": "serious about",
+    "level": "b1",
+    "tr": "серьёзен насчёт",
+    "examples": [
+      {
+        "en": "Are you serious about quitting?",
+        "ru": "Ты серьёзно насчёт увольнения?"
+      },
+      {
+        "en": "She's serious about fitness.",
+        "ru": "Она серьёзно относится к фитнесу."
+      },
+      {
+        "en": "We're serious about security.",
+        "ru": "Мы серьёзно относимся к безопасности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "shocked at",
+    "lemma": "shocked at",
+    "level": "b2",
+    "tr": "шокирован",
+    "examples": [
+      {
+        "en": "I was shocked at the price.",
+        "ru": "Я был шокирован ценой."
+      },
+      {
+        "en": "They were shocked at the news.",
+        "ru": "Они были шокированы новостью."
+      },
+      {
+        "en": "She looked shocked at the results.",
+        "ru": "Она выглядела шокированной результатами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "short of",
+    "lemma": "short of",
+    "level": "b2",
+    "tr": "не хватает",
+    "examples": [
+      {
+        "en": "We're short of time.",
+        "ru": "Нам не хватает времени."
+      },
+      {
+        "en": "I'm short of cash this week.",
+        "ru": "На этой неделе мне не хватает денег."
+      },
+      {
+        "en": "The project is short of testers.",
+        "ru": "В проекте не хватает тестировщиков."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "sick of",
+    "lemma": "sick of",
+    "level": "b1",
+    "tr": "сыт по горло",
+    "examples": [
+      {
+        "en": "I'm sick of waiting.",
+        "ru": "Мне сыт по горло ожидание."
+      },
+      {
+        "en": "She's sick of excuses.",
+        "ru": "Ей надоели отговорки."
+      },
+      {
+        "en": "We're sick of flaky tests.",
+        "ru": "Нам надоели флакающие тесты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "skilled at",
+    "lemma": "skilled at",
+    "level": "b2",
+    "tr": "умел в",
+    "examples": [
+      {
+        "en": "She's skilled at negotiation.",
+        "ru": "Она умела вести переговоры."
+      },
+      {
+        "en": "He's skilled at refactoring.",
+        "ru": "Он умел рефакторить."
+      },
+      {
+        "en": "The team is skilled at migrations.",
+        "ru": "Команда умела делать миграции."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "successful in",
+    "lemma": "successful in",
+    "level": "b1",
+    "tr": "успешен в",
+    "examples": [
+      {
+        "en": "She was successful in her appeal.",
+        "ru": "Она успешно выиграла апелляцию."
+      },
+      {
+        "en": "Were you successful in reaching them?",
+        "ru": "Тебе удалось до них дозвониться?"
+      },
+      {
+        "en": "He's successful in sales.",
+        "ru": "Он успешен в продажах."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "suitable for",
+    "lemma": "suitable for",
+    "level": "b1",
+    "tr": "подходит для",
+    "examples": [
+      {
+        "en": "Is this suitable for beginners?",
+        "ru": "Это подходит новичкам?"
+      },
+      {
+        "en": "The room is suitable for workshops.",
+        "ru": "Комната подходит для воркшопов."
+      },
+      {
+        "en": "Find a tool suitable for your stack.",
+        "ru": "Найди инструмент под свой стек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "superior to",
+    "lemma": "superior to",
+    "level": "c1",
+    "tr": "превосходит",
+    "examples": [
+      {
+        "en": "This design is superior to the old one.",
+        "ru": "Этот дизайн превосходит старый."
+      },
+      {
+        "en": "Don't act superior to teammates.",
+        "ru": "Не веди себя так, будто ты выше тиммейтов."
+      },
+      {
+        "en": "The new alloy is superior to steel here.",
+        "ru": "Новый сплав здесь превосходит сталь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "sure of",
+    "lemma": "sure of",
+    "level": "b1",
+    "tr": "уверен в",
+    "examples": [
+      {
+        "en": "Are you sure of the path?",
+        "ru": "Ты уверен в пути?"
+      },
+      {
+        "en": "I'm sure of one thing.",
+        "ru": "Я уверен в одном."
+      },
+      {
+        "en": "She's sure of her decision.",
+        "ru": "Она уверена в своём решении."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "surprised at",
+    "lemma": "surprised at",
+    "level": "b1",
+    "tr": "surprised by",
+    "examples": [
+      {
+        "en": "I was surprised at the turnout.",
+        "ru": "Я удивился явке."
+      },
+      {
+        "en": "She was surprised at how fast it shipped.",
+        "ru": "Она удивилась, как быстро зарелизили."
+      },
+      {
+        "en": "Don't be surprised at pushback.",
+        "ru": "Не удивляйся сопротивлению."
+      }
+    ],
+    "note": "surprised at/by — оба ок",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "thankful for",
+    "lemma": "thankful for",
+    "level": "b1",
+    "tr": "благодарен за",
+    "examples": [
+      {
+        "en": "I'm thankful for quiet mornings.",
+        "ru": "Я благодарен за тихие утра."
+      },
+      {
+        "en": "She's thankful for the mentorship.",
+        "ru": "Она благодарна за менторство."
+      },
+      {
+        "en": "We're thankful for your patience.",
+        "ru": "Мы благодарны за терпение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "typical of",
+    "lemma": "typical of",
+    "level": "b2",
+    "tr": "типично для",
+    "examples": [
+      {
+        "en": "That's typical of early startups.",
+        "ru": "Это типично для ранних стартапов."
+      },
+      {
+        "en": "Delays are typical of this season.",
+        "ru": "Задержки типичны для этого сезона."
+      },
+      {
+        "en": "The error is typical of race conditions.",
+        "ru": "Ошибка типична для гонок."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "upset about",
+    "lemma": "upset about",
+    "level": "b1",
+    "tr": "расстроен из-за",
+    "examples": [
+      {
+        "en": "I'm upset about the cancellation.",
+        "ru": "Я расстроен отменой."
+      },
+      {
+        "en": "She's upset about the feedback.",
+        "ru": "Она расстроена фидбеком."
+      },
+      {
+        "en": "Don't get upset about one bad review.",
+        "ru": "Не расстраивайся из-за одного плохого отзыва."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  },
+  {
+    "word": "used to",
+    "lemma": "used to",
+    "level": "b1",
+    "tr": "привык к",
+    "examples": [
+      {
+        "en": "I'm used to early mornings.",
+        "ru": "Я привык к ранним утрам."
+      },
+      {
+        "en": "She's used to remote work.",
+        "ru": "Она привыкла к удалёнке."
+      },
+      {
+        "en": "You'll get used to the tools.",
+        "ru": "Привыкнешь к инструментам."
+      }
+    ],
+    "note": "used to + noun/-ing ≠ used to do (прошлое)",
+    "colloc": "",
+    "pattern": "adj + prep",
+    "pos": "collocation"
+  }
+]

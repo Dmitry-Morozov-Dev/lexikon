@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "blind alley",
+    "lemma": "blind alley",
+    "level": "c1",
+    "tr": "тупик",
+    "examples": [
+      {
+        "en": "This is a blind alley.",
+        "ru": "Это тупик."
+      },
+      {
+        "en": "We need a blind alley.",
+        "ru": "Нам нужен тупик."
+      },
+      {
+        "en": "Consider the blind alley carefully.",
+        "ru": "Внимательно учти — тупик."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "brief visit",
+    "lemma": "brief visit",
+    "level": "b1",
+    "tr": "краткий визит",
+    "examples": [
+      {
+        "en": "This is a brief visit.",
+        "ru": "Это краткий визит."
+      },
+      {
+        "en": "We need a brief visit.",
+        "ru": "Нам нужен краткий визит."
+      },
+      {
+        "en": "Consider the brief visit carefully.",
+        "ru": "Внимательно учти — краткий визит."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "broad consensus",
+    "lemma": "broad consensus",
+    "level": "c1",
+    "tr": "широкий консенсус",
+    "examples": [
+      {
+        "en": "This is a broad consensus.",
+        "ru": "Это широкий консенсус."
+      },
+      {
+        "en": "We need a broad consensus.",
+        "ru": "Нам нужен широкий консенсус."
+      },
+      {
+        "en": "Consider the broad consensus carefully.",
+        "ru": "Внимательно учти — широкий консенсус."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "broad smile",
+    "lemma": "broad smile",
+    "level": "b1",
+    "tr": "широкая улыбка",
+    "examples": [
+      {
+        "en": "This is a broad smile.",
+        "ru": "Это широкая улыбка."
+      },
+      {
+        "en": "We need a broad smile.",
+        "ru": "Нам нужен широкая улыбка."
+      },
+      {
+        "en": "Consider the broad smile carefully.",
+        "ru": "Внимательно учти — широкая улыбка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "brutal honesty",
+    "lemma": "brutal honesty",
+    "level": "c1",
+    "tr": "жёсткая честность",
+    "examples": [
+      {
+        "en": "This is a brutal honesty.",
+        "ru": "Это жёсткая честность."
+      },
+      {
+        "en": "We need a brutal honesty.",
+        "ru": "Нам нужен жёсткая честность."
+      },
+      {
+        "en": "Consider the brutal honesty carefully.",
+        "ru": "Внимательно учти — жёсткая честность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "careful planning",
+    "lemma": "careful planning",
+    "level": "b1",
+    "tr": "тщательное планирование",
+    "examples": [
+      {
+        "en": "This is a careful planning.",
+        "ru": "Это тщательное планирование."
+      },
+      {
+        "en": "We need a careful planning.",
+        "ru": "Нам нужен тщательное планирование."
+      },
+      {
+        "en": "Consider the careful planning carefully.",
+        "ru": "Внимательно учти — тщательное планирование."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "casual conversation",
+    "lemma": "casual conversation",
+    "level": "b1",
+    "tr": "непринуждённый разговор",
+    "examples": [
+      {
+        "en": "This is a casual conversation.",
+        "ru": "Это непринуждённый разговор."
+      },
+      {
+        "en": "We need a casual conversation.",
+        "ru": "Нам нужен непринуждённый разговор."
+      },
+      {
+        "en": "Consider the casual conversation carefully.",
+        "ru": "Внимательно учти — непринуждённый разговор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "casual remark",
+    "lemma": "casual remark",
+    "level": "b2",
+    "tr": "между прочим брошенное замечание",
+    "examples": [
+      {
+        "en": "This is a casual remark.",
+        "ru": "Это между прочим брошенное замечание."
+      },
+      {
+        "en": "We need a casual remark.",
+        "ru": "Нам нужен между прочим брошенное замечание."
+      },
+      {
+        "en": "Consider the casual remark carefully.",
+        "ru": "Внимательно учти — между прочим брошенное замечание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "certain extent",
+    "lemma": "certain extent",
+    "level": "b2",
+    "tr": "определённая степень",
+    "examples": [
+      {
+        "en": "This is a certain extent.",
+        "ru": "Это определённая степень."
+      },
+      {
+        "en": "We need a certain extent.",
+        "ru": "Нам нужен определённая степень."
+      },
+      {
+        "en": "Consider the certain extent carefully.",
+        "ru": "Внимательно учти — определённая степень."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "chronic pain",
+    "lemma": "chronic pain",
+    "level": "b2",
+    "tr": "хроническая боль",
+    "examples": [
+      {
+        "en": "This is a chronic pain.",
+        "ru": "Это хроническая боль."
+      },
+      {
+        "en": "We need a chronic pain.",
+        "ru": "Нам нужен хроническая боль."
+      },
+      {
+        "en": "Consider the chronic pain carefully.",
+        "ru": "Внимательно учти — хроническая боль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "civil war",
+    "lemma": "civil war",
+    "level": "b1",
+    "tr": "гражданская война",
+    "examples": [
+      {
+        "en": "This is a civil war.",
+        "ru": "Это гражданская война."
+      },
+      {
+        "en": "We need a civil war.",
+        "ru": "Нам нужен гражданская война."
+      },
+      {
+        "en": "Consider the civil war carefully.",
+        "ru": "Внимательно учти — гражданская война."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "classic example",
+    "lemma": "classic example",
+    "level": "b1",
+    "tr": "классический пример",
+    "examples": [
+      {
+        "en": "This is a classic example.",
+        "ru": "Это классический пример."
+      },
+      {
+        "en": "We need a classic example.",
+        "ru": "Нам нужен классический пример."
+      },
+      {
+        "en": "Consider the classic example carefully.",
+        "ru": "Внимательно учти — классический пример."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clean break",
+    "lemma": "clean break",
+    "level": "c1",
+    "tr": "чистый разрыв",
+    "examples": [
+      {
+        "en": "This is a clean break.",
+        "ru": "Это чистый разрыв."
+      },
+      {
+        "en": "We need a clean break.",
+        "ru": "Нам нужен чистый разрыв."
+      },
+      {
+        "en": "Consider the clean break carefully.",
+        "ru": "Внимательно учти — чистый разрыв."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clean energy",
+    "lemma": "clean energy",
+    "level": "b1",
+    "tr": "чистая энергия",
+    "examples": [
+      {
+        "en": "This is a clean energy.",
+        "ru": "Это чистая энергия."
+      },
+      {
+        "en": "We need a clean energy.",
+        "ru": "Нам нужен чистая энергия."
+      },
+      {
+        "en": "Consider the clean energy carefully.",
+        "ru": "Внимательно учти — чистая энергия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear advantage",
+    "lemma": "clear advantage",
+    "level": "b1",
+    "tr": "явное преимущество",
+    "examples": [
+      {
+        "en": "This is a clear advantage.",
+        "ru": "Это явное преимущество."
+      },
+      {
+        "en": "We need a clear advantage.",
+        "ru": "Нам нужен явное преимущество."
+      },
+      {
+        "en": "Consider the clear advantage carefully.",
+        "ru": "Внимательно учти — явное преимущество."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear instructions",
+    "lemma": "clear instructions",
+    "level": "b1",
+    "tr": "чёткие инструкции",
+    "examples": [
+      {
+        "en": "This is a clear instructions.",
+        "ru": "Это чёткие инструкции."
+      },
+      {
+        "en": "We need a clear instructions.",
+        "ru": "Нам нужен чёткие инструкции."
+      },
+      {
+        "en": "Consider the clear instructions carefully.",
+        "ru": "Внимательно учти — чёткие инструкции."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear majority",
+    "lemma": "clear majority",
+    "level": "b2",
+    "tr": "явное большинство",
+    "examples": [
+      {
+        "en": "This is a clear majority.",
+        "ru": "Это явное большинство."
+      },
+      {
+        "en": "We need a clear majority.",
+        "ru": "Нам нужен явное большинство."
+      },
+      {
+        "en": "Consider the clear majority carefully.",
+        "ru": "Внимательно учти — явное большинство."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "close attention",
+    "lemma": "close attention",
+    "level": "b2",
+    "tr": "пристальное внимание",
+    "examples": [
+      {
+        "en": "This is a close attention.",
+        "ru": "Это пристальное внимание."
+      },
+      {
+        "en": "We need a close attention.",
+        "ru": "Нам нужен пристальное внимание."
+      },
+      {
+        "en": "Consider the close attention carefully.",
+        "ru": "Внимательно учти — пристальное внимание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "close examination",
+    "lemma": "close examination",
+    "level": "b2",
+    "tr": "пристальное изучение",
+    "examples": [
+      {
+        "en": "This is a close examination.",
+        "ru": "Это пристальное изучение."
+      },
+      {
+        "en": "We need a close examination.",
+        "ru": "Нам нужен пристальное изучение."
+      },
+      {
+        "en": "Consider the close examination carefully.",
+        "ru": "Внимательно учти — пристальное изучение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "close range",
+    "lemma": "close range",
+    "level": "b2",
+    "tr": "близкое расстояние",
+    "examples": [
+      {
+        "en": "This is a close range.",
+        "ru": "Это близкое расстояние."
+      },
+      {
+        "en": "We need a close range.",
+        "ru": "Нам нужен близкое расстояние."
+      },
+      {
+        "en": "Consider the close range carefully.",
+        "ru": "Внимательно учти — близкое расстояние."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "cloudy judgment",
+    "lemma": "cloudy judgment",
+    "level": "c1",
+    "tr": "затуманенное суждение",
+    "examples": [
+      {
+        "en": "This is a cloudy judgment.",
+        "ru": "Это затуманенное суждение."
+      },
+      {
+        "en": "We need a cloudy judgment.",
+        "ru": "Нам нужен затуманенное суждение."
+      },
+      {
+        "en": "Consider the cloudy judgment carefully.",
+        "ru": "Внимательно учти — затуманенное суждение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "cold comfort",
+    "lemma": "cold comfort",
+    "level": "c1",
+    "tr": "слабое утешение",
+    "examples": [
+      {
+        "en": "This is a cold comfort.",
+        "ru": "Это слабое утешение."
+      },
+      {
+        "en": "We need a cold comfort.",
+        "ru": "Нам нужен слабое утешение."
+      },
+      {
+        "en": "Consider the cold comfort carefully.",
+        "ru": "Внимательно учти — слабое утешение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "collective effort",
+    "lemma": "collective effort",
+    "level": "b2",
+    "tr": "коллективные усилия",
+    "examples": [
+      {
+        "en": "This is a collective effort.",
+        "ru": "Это коллективные усилия."
+      },
+      {
+        "en": "We need a collective effort.",
+        "ru": "Нам нужен коллективные усилия."
+      },
+      {
+        "en": "Consider the collective effort carefully.",
+        "ru": "Внимательно учти — коллективные усилия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "common ground",
+    "lemma": "common ground",
+    "level": "b2",
+    "tr": "общая почва; точки соприкосновения",
+    "examples": [
+      {
+        "en": "This is a common ground.",
+        "ru": "Это общая почва; точки соприкосновения."
+      },
+      {
+        "en": "We need a common ground.",
+        "ru": "Нам нужен общая почва; точки соприкосновения."
+      },
+      {
+        "en": "Consider the common ground carefully.",
+        "ru": "Внимательно учти — общая почва; точки соприкосновения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "common practice",
+    "lemma": "common practice",
+    "level": "b2",
+    "tr": "обычная практика",
+    "examples": [
+      {
+        "en": "This is a common practice.",
+        "ru": "Это обычная практика."
+      },
+      {
+        "en": "We need a common practice.",
+        "ru": "Нам нужен обычная практика."
+      },
+      {
+        "en": "Consider the common practice carefully.",
+        "ru": "Внимательно учти — обычная практика."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "complete stranger",
+    "lemma": "complete stranger",
+    "level": "b1",
+    "tr": "полный незнакомец",
+    "examples": [
+      {
+        "en": "This is a complete stranger.",
+        "ru": "Это полный незнакомец."
+      },
+      {
+        "en": "We need a complete stranger.",
+        "ru": "Нам нужен полный незнакомец."
+      },
+      {
+        "en": "Consider the complete stranger carefully.",
+        "ru": "Внимательно учти — полный незнакомец."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "complete surprise",
+    "lemma": "complete surprise",
+    "level": "b1",
+    "tr": "полная неожиданность",
+    "examples": [
+      {
+        "en": "This is a complete surprise.",
+        "ru": "Это полная неожиданность."
+      },
+      {
+        "en": "We need a complete surprise.",
+        "ru": "Нам нужен полная неожиданность."
+      },
+      {
+        "en": "Consider the complete surprise carefully.",
+        "ru": "Внимательно учти — полная неожиданность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "concrete example",
+    "lemma": "concrete example",
+    "level": "b1",
+    "tr": "конкретный пример",
+    "examples": [
+      {
+        "en": "This is a concrete example.",
+        "ru": "Это конкретный пример."
+      },
+      {
+        "en": "We need a concrete example.",
+        "ru": "Нам нужен конкретный пример."
+      },
+      {
+        "en": "Consider the concrete example carefully.",
+        "ru": "Внимательно учти — конкретный пример."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "concrete plan",
+    "lemma": "concrete plan",
+    "level": "b1",
+    "tr": "конкретный план",
+    "examples": [
+      {
+        "en": "This is a concrete plan.",
+        "ru": "Это конкретный план."
+      },
+      {
+        "en": "We need a concrete plan.",
+        "ru": "Нам нужен конкретный план."
+      },
+      {
+        "en": "Consider the concrete plan carefully.",
+        "ru": "Внимательно учти — конкретный план."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "considerable amount",
+    "lemma": "considerable amount",
+    "level": "b2",
+    "tr": "значительное количество",
+    "examples": [
+      {
+        "en": "This is a considerable amount.",
+        "ru": "Это значительное количество."
+      },
+      {
+        "en": "We need a considerable amount.",
+        "ru": "Нам нужен значительное количество."
+      },
+      {
+        "en": "Consider the considerable amount carefully.",
+        "ru": "Внимательно учти — значительное количество."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "considerable risk",
+    "lemma": "considerable risk",
+    "level": "b2",
+    "tr": "значительный риск",
+    "examples": [
+      {
+        "en": "This is a considerable risk.",
+        "ru": "Это значительный риск."
+      },
+      {
+        "en": "We need a considerable risk.",
+        "ru": "Нам нужен значительный риск."
+      },
+      {
+        "en": "Consider the considerable risk carefully.",
+        "ru": "Внимательно учти — значительный риск."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "constant pressure",
+    "lemma": "constant pressure",
+    "level": "b2",
+    "tr": "постоянное давление",
+    "examples": [
+      {
+        "en": "This is a constant pressure.",
+        "ru": "Это постоянное давление."
+      },
+      {
+        "en": "We need a constant pressure.",
+        "ru": "Нам нужен постоянное давление."
+      },
+      {
+        "en": "Consider the constant pressure carefully.",
+        "ru": "Внимательно учти — постоянное давление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "constructive feedback",
+    "lemma": "constructive feedback",
+    "level": "b1",
+    "tr": "конструктивный фидбек",
+    "examples": [
+      {
+        "en": "This is a constructive feedback.",
+        "ru": "Это конструктивный фидбек."
+      },
+      {
+        "en": "We need a constructive feedback.",
+        "ru": "Нам нужен конструктивный фидбек."
+      },
+      {
+        "en": "Consider the constructive feedback carefully.",
+        "ru": "Внимательно учти — конструктивный фидбек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "constructive criticism",
+    "lemma": "constructive criticism",
+    "level": "b2",
+    "tr": "конструктивная критика",
+    "examples": [
+      {
+        "en": "This is a constructive criticism.",
+        "ru": "Это конструктивная критика."
+      },
+      {
+        "en": "We need a constructive criticism.",
+        "ru": "Нам нужен конструктивная критика."
+      },
+      {
+        "en": "Consider the constructive criticism carefully.",
+        "ru": "Внимательно учти — конструктивная критика."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "contemporary art",
+    "lemma": "contemporary art",
+    "level": "b2",
+    "tr": "современное искусство",
+    "examples": [
+      {
+        "en": "This is a contemporary art.",
+        "ru": "Это современное искусство."
+      },
+      {
+        "en": "We need a contemporary art.",
+        "ru": "Нам нужен современное искусство."
+      },
+      {
+        "en": "Consider the contemporary art carefully.",
+        "ru": "Внимательно учти — современное искусство."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "continuous improvement",
+    "lemma": "continuous improvement",
+    "level": "b2",
+    "tr": "непрерывное улучшение",
+    "examples": [
+      {
+        "en": "This is a continuous improvement.",
+        "ru": "Это непрерывное улучшение."
+      },
+      {
+        "en": "We need a continuous improvement.",
+        "ru": "Нам нужен непрерывное улучшение."
+      },
+      {
+        "en": "Consider the continuous improvement carefully.",
+        "ru": "Внимательно учти — непрерывное улучшение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "controversial topic",
+    "lemma": "controversial topic",
+    "level": "b2",
+    "tr": "спорная тема",
+    "examples": [
+      {
+        "en": "This is a controversial topic.",
+        "ru": "Это спорная тема."
+      },
+      {
+        "en": "We need a controversial topic.",
+        "ru": "Нам нужен спорная тема."
+      },
+      {
+        "en": "Consider the controversial topic carefully.",
+        "ru": "Внимательно учти — спорная тема."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "correct answer",
+    "lemma": "correct answer",
+    "level": "b1",
+    "tr": "правильный ответ",
+    "examples": [
+      {
+        "en": "This is a correct answer.",
+        "ru": "Это правильный ответ."
+      },
+      {
+        "en": "We need a correct answer.",
+        "ru": "Нам нужен правильный ответ."
+      },
+      {
+        "en": "Consider the correct answer carefully.",
+        "ru": "Внимательно учти — правильный ответ."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "critical feedback",
+    "lemma": "critical feedback",
+    "level": "b2",
+    "tr": "критический фидбек",
+    "examples": [
+      {
+        "en": "This is a critical feedback.",
+        "ru": "Это критический фидбек."
+      },
+      {
+        "en": "We need a critical feedback.",
+        "ru": "Нам нужен критический фидбек."
+      },
+      {
+        "en": "Consider the critical feedback carefully.",
+        "ru": "Внимательно учти — критический фидбек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "critical mass",
+    "lemma": "critical mass",
+    "level": "c1",
+    "tr": "критическая масса",
+    "examples": [
+      {
+        "en": "This is a critical mass.",
+        "ru": "Это критическая масса."
+      },
+      {
+        "en": "We need a critical mass.",
+        "ru": "Нам нужен критическая масса."
+      },
+      {
+        "en": "Consider the critical mass carefully.",
+        "ru": "Внимательно учти — критическая масса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "current affairs",
+    "lemma": "current affairs",
+    "level": "b2",
+    "tr": "текущие события",
+    "examples": [
+      {
+        "en": "This is a current affairs.",
+        "ru": "Это текущие события."
+      },
+      {
+        "en": "We need a current affairs.",
+        "ru": "Нам нужен текущие события."
+      },
+      {
+        "en": "Consider the current affairs carefully.",
+        "ru": "Внимательно учти — текущие события."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "daily routine",
+    "lemma": "daily routine",
+    "level": "b1",
+    "tr": "ежедневная рутина",
+    "examples": [
+      {
+        "en": "This is a daily routine.",
+        "ru": "Это ежедневная рутина."
+      },
+      {
+        "en": "We need a daily routine.",
+        "ru": "Нам нужен ежедневная рутина."
+      },
+      {
+        "en": "Consider the daily routine carefully.",
+        "ru": "Внимательно учти — ежедневная рутина."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "damaging effect",
+    "lemma": "damaging effect",
+    "level": "c1",
+    "tr": "разрушительный эффект",
+    "examples": [
+      {
+        "en": "This is a damaging effect.",
+        "ru": "Это разрушительный эффект."
+      },
+      {
+        "en": "We need a damaging effect.",
+        "ru": "Нам нужен разрушительный эффект."
+      },
+      {
+        "en": "Consider the damaging effect carefully.",
+        "ru": "Внимательно учти — разрушительный эффект."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dead end",
+    "lemma": "dead end",
+    "level": "b1",
+    "tr": "тупик",
+    "examples": [
+      {
+        "en": "This is a dead end.",
+        "ru": "Это тупик."
+      },
+      {
+        "en": "We need a dead end.",
+        "ru": "Нам нужен тупик."
+      },
+      {
+        "en": "Consider the dead end carefully.",
+        "ru": "Внимательно учти — тупик."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dead silence",
+    "lemma": "dead silence",
+    "level": "b2",
+    "tr": "мёртвая тишина",
+    "examples": [
+      {
+        "en": "This is a dead silence.",
+        "ru": "Это мёртвая тишина."
+      },
+      {
+        "en": "We need a dead silence.",
+        "ru": "Нам нужен мёртвая тишина."
+      },
+      {
+        "en": "Consider the dead silence carefully.",
+        "ru": "Внимательно учти — мёртвая тишина."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "deadly weapon",
+    "lemma": "deadly weapon",
+    "level": "b2",
+    "tr": "смертельное оружие",
+    "examples": [
+      {
+        "en": "This is a deadly weapon.",
+        "ru": "Это смертельное оружие."
+      },
+      {
+        "en": "We need a deadly weapon.",
+        "ru": "Нам нужен смертельное оружие."
+      },
+      {
+        "en": "Consider the deadly weapon carefully.",
+        "ru": "Внимательно учти — смертельное оружие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep concern",
+    "lemma": "deep concern",
+    "level": "b2",
+    "tr": "глубокая обеспокоенность",
+    "examples": [
+      {
+        "en": "This is a deep concern.",
+        "ru": "Это глубокая обеспокоенность."
+      },
+      {
+        "en": "We need a deep concern.",
+        "ru": "Нам нужен глубокая обеспокоенность."
+      },
+      {
+        "en": "Consider the deep concern carefully.",
+        "ru": "Внимательно учти — глубокая обеспокоенность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep regret",
+    "lemma": "deep regret",
+    "level": "b2",
+    "tr": "глубокое сожаление",
+    "examples": [
+      {
+        "en": "This is a deep regret.",
+        "ru": "Это глубокое сожаление."
+      },
+      {
+        "en": "We need a deep regret.",
+        "ru": "Нам нужен глубокое сожаление."
+      },
+      {
+        "en": "Consider the deep regret carefully.",
+        "ru": "Внимательно учти — глубокое сожаление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "delicate balance",
+    "lemma": "delicate balance",
+    "level": "c1",
+    "tr": "хрупкий баланс",
+    "examples": [
+      {
+        "en": "This is a delicate balance.",
+        "ru": "Это хрупкий баланс."
+      },
+      {
+        "en": "We need a delicate balance.",
+        "ru": "Нам нужен хрупкий баланс."
+      },
+      {
+        "en": "Consider the delicate balance carefully.",
+        "ru": "Внимательно учти — хрупкий баланс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "delicate matter",
+    "lemma": "delicate matter",
+    "level": "b2",
+    "tr": "деликатный вопрос",
+    "examples": [
+      {
+        "en": "This is a delicate matter.",
+        "ru": "Это деликатный вопрос."
+      },
+      {
+        "en": "We need a delicate matter.",
+        "ru": "Нам нужен деликатный вопрос."
+      },
+      {
+        "en": "Consider the delicate matter carefully.",
+        "ru": "Внимательно учти — деликатный вопрос."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dense fog",
+    "lemma": "dense fog",
+    "level": "b1",
+    "tr": "густой туман",
+    "examples": [
+      {
+        "en": "This is a dense fog.",
+        "ru": "Это густой туман."
+      },
+      {
+        "en": "We need a dense fog.",
+        "ru": "Нам нужен густой туман."
+      },
+      {
+        "en": "Consider the dense fog carefully.",
+        "ru": "Внимательно учти — густой туман."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "detailed plan",
+    "lemma": "detailed plan",
+    "level": "b1",
+    "tr": "детальный план",
+    "examples": [
+      {
+        "en": "This is a detailed plan.",
+        "ru": "Это детальный план."
+      },
+      {
+        "en": "We need a detailed plan.",
+        "ru": "Нам нужен детальный план."
+      },
+      {
+        "en": "Consider the detailed plan carefully.",
+        "ru": "Внимательно учти — детальный план."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dirty trick",
+    "lemma": "dirty trick",
+    "level": "b2",
+    "tr": "грязный трюк",
+    "examples": [
+      {
+        "en": "This is a dirty trick.",
+        "ru": "Это грязный трюк."
+      },
+      {
+        "en": "We need a dirty trick.",
+        "ru": "Нам нужен грязный трюк."
+      },
+      {
+        "en": "Consider the dirty trick carefully.",
+        "ru": "Внимательно учти — грязный трюк."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "distant relative",
+    "lemma": "distant relative",
+    "level": "b1",
+    "tr": "дальний родственник",
+    "examples": [
+      {
+        "en": "This is a distant relative.",
+        "ru": "Это дальний родственник."
+      },
+      {
+        "en": "We need a distant relative.",
+        "ru": "Нам нужен дальний родственник."
+      },
+      {
+        "en": "Consider the distant relative carefully.",
+        "ru": "Внимательно учти — дальний родственник."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "distinct advantage",
+    "lemma": "distinct advantage",
+    "level": "b2",
+    "tr": "явное преимущество",
+    "examples": [
+      {
+        "en": "This is a distinct advantage.",
+        "ru": "Это явное преимущество."
+      },
+      {
+        "en": "We need a distinct advantage.",
+        "ru": "Нам нужен явное преимущество."
+      },
+      {
+        "en": "Consider the distinct advantage carefully.",
+        "ru": "Внимательно учти — явное преимущество."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "distinct impression",
+    "lemma": "distinct impression",
+    "level": "c1",
+    "tr": "отчётливое впечатление",
+    "examples": [
+      {
+        "en": "This is a distinct impression.",
+        "ru": "Это отчётливое впечатление."
+      },
+      {
+        "en": "We need a distinct impression.",
+        "ru": "Нам нужен отчётливое впечатление."
+      },
+      {
+        "en": "Consider the distinct impression carefully.",
+        "ru": "Внимательно учти — отчётливое впечатление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dramatic improvement",
+    "lemma": "dramatic improvement",
+    "level": "b2",
+    "tr": "резкое улучшение",
+    "examples": [
+      {
+        "en": "This is a dramatic improvement.",
+        "ru": "Это резкое улучшение."
+      },
+      {
+        "en": "We need a dramatic improvement.",
+        "ru": "Нам нужен резкое улучшение."
+      },
+      {
+        "en": "Consider the dramatic improvement carefully.",
+        "ru": "Внимательно учти — резкое улучшение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "drastic measures",
+    "lemma": "drastic measures",
+    "level": "c1",
+    "tr": "радикальные меры",
+    "examples": [
+      {
+        "en": "This is a drastic measures.",
+        "ru": "Это радикальные меры."
+      },
+      {
+        "en": "We need a drastic measures.",
+        "ru": "Нам нужен радикальные меры."
+      },
+      {
+        "en": "Consider the drastic measures carefully.",
+        "ru": "Внимательно учти — радикальные меры."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "early stage",
+    "lemma": "early stage",
+    "level": "b1",
+    "tr": "ранняя стадия",
+    "examples": [
+      {
+        "en": "This is an early stage.",
+        "ru": "Это ранняя стадия."
+      },
+      {
+        "en": "We need an early stage.",
+        "ru": "Нам нужен ранняя стадия."
+      },
+      {
+        "en": "Consider the early stage carefully.",
+        "ru": "Внимательно учти — ранняя стадия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "easy target",
+    "lemma": "easy target",
+    "level": "b2",
+    "tr": "лёгкая мишень",
+    "examples": [
+      {
+        "en": "This is an easy target.",
+        "ru": "Это лёгкая мишень."
+      },
+      {
+        "en": "We need an easy target.",
+        "ru": "Нам нужен лёгкая мишень."
+      },
+      {
+        "en": "Consider the easy target carefully.",
+        "ru": "Внимательно учти — лёгкая мишень."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "economic growth",
+    "lemma": "economic growth",
+    "level": "b1",
+    "tr": "экономический рост",
+    "examples": [
+      {
+        "en": "This is an economic growth.",
+        "ru": "Это экономический рост."
+      },
+      {
+        "en": "We need an economic growth.",
+        "ru": "Нам нужен экономический рост."
+      },
+      {
+        "en": "Consider the economic growth carefully.",
+        "ru": "Внимательно учти — экономический рост."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "effective solution",
+    "lemma": "effective solution",
+    "level": "b1",
+    "tr": "эффективное решение",
+    "examples": [
+      {
+        "en": "This is an effective solution.",
+        "ru": "Это эффективное решение."
+      },
+      {
+        "en": "We need an effective solution.",
+        "ru": "Нам нужен эффективное решение."
+      },
+      {
+        "en": "Consider the effective solution carefully.",
+        "ru": "Внимательно учти — эффективное решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "elderly person",
+    "lemma": "elderly person",
+    "level": "b1",
+    "tr": "пожилой человек",
+    "examples": [
+      {
+        "en": "This is an elderly person.",
+        "ru": "Это пожилой человек."
+      },
+      {
+        "en": "We need an elderly person.",
+        "ru": "Нам нужен пожилой человек."
+      },
+      {
+        "en": "Consider the elderly person carefully.",
+        "ru": "Внимательно учти — пожилой человек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "electric atmosphere",
+    "lemma": "electric atmosphere",
+    "level": "c1",
+    "tr": "наэлектризованная атмосфера",
+    "examples": [
+      {
+        "en": "This is an electric atmosphere.",
+        "ru": "Это наэлектризованная атмосфера."
+      },
+      {
+        "en": "We need an electric atmosphere.",
+        "ru": "Нам нужен наэлектризованная атмосфера."
+      },
+      {
+        "en": "Consider the electric atmosphere carefully.",
+        "ru": "Внимательно учти — наэлектризованная атмосфера."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "empty promise",
+    "lemma": "empty promise",
+    "level": "b2",
+    "tr": "пустое обещание",
+    "examples": [
+      {
+        "en": "This is an empty promise.",
+        "ru": "Это пустое обещание."
+      },
+      {
+        "en": "We need an empty promise.",
+        "ru": "Нам нужен пустое обещание."
+      },
+      {
+        "en": "Consider the empty promise carefully.",
+        "ru": "Внимательно учти — пустое обещание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "endless supply",
+    "lemma": "endless supply",
+    "level": "b2",
+    "tr": "бесконечный запас",
+    "examples": [
+      {
+        "en": "This is an endless supply.",
+        "ru": "Это бесконечный запас."
+      },
+      {
+        "en": "We need an endless supply.",
+        "ru": "Нам нужен бесконечный запас."
+      },
+      {
+        "en": "Consider the endless supply carefully.",
+        "ru": "Внимательно учти — бесконечный запас."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "equal opportunity",
+    "lemma": "equal opportunity",
+    "level": "b2",
+    "tr": "равные возможности",
+    "examples": [
+      {
+        "en": "This is an equal opportunity.",
+        "ru": "Это равные возможности."
+      },
+      {
+        "en": "We need an equal opportunity.",
+        "ru": "Нам нужен равные возможности."
+      },
+      {
+        "en": "Consider the equal opportunity carefully.",
+        "ru": "Внимательно учти — равные возможности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "essential skill",
+    "lemma": "essential skill",
+    "level": "b1",
+    "tr": "необходимый навык",
+    "examples": [
+      {
+        "en": "This is an essential skill.",
+        "ru": "Это необходимый навык."
+      },
+      {
+        "en": "We need an essential skill.",
+        "ru": "Нам нужен необходимый навык."
+      },
+      {
+        "en": "Consider the essential skill carefully.",
+        "ru": "Внимательно учти — необходимый навык."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "eternal optimism",
+    "lemma": "eternal optimism",
+    "level": "c1",
+    "tr": "вечный оптимизм",
+    "examples": [
+      {
+        "en": "This is an eternal optimism.",
+        "ru": "Это вечный оптимизм."
+      },
+      {
+        "en": "We need an eternal optimism.",
+        "ru": "Нам нужен вечный оптимизм."
+      },
+      {
+        "en": "Consider the eternal optimism carefully.",
+        "ru": "Внимательно учти — вечный оптимизм."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "everyday life",
+    "lemma": "everyday life",
+    "level": "b1",
+    "tr": "повседневная жизнь",
+    "examples": [
+      {
+        "en": "This is an everyday life.",
+        "ru": "Это повседневная жизнь."
+      },
+      {
+        "en": "We need an everyday life.",
+        "ru": "Нам нужен повседневная жизнь."
+      },
+      {
+        "en": "Consider the everyday life carefully.",
+        "ru": "Внимательно учти — повседневная жизнь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "exact opposite",
+    "lemma": "exact opposite",
+    "level": "b1",
+    "tr": "точная противоположность",
+    "examples": [
+      {
+        "en": "This is an exact opposite.",
+        "ru": "Это точная противоположность."
+      },
+      {
+        "en": "We need an exact opposite.",
+        "ru": "Нам нужен точная противоположность."
+      },
+      {
+        "en": "Consider the exact opposite carefully.",
+        "ru": "Внимательно учти — точная противоположность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "exact science",
+    "lemma": "exact science",
+    "level": "b2",
+    "tr": "точная наука",
+    "examples": [
+      {
+        "en": "This is an exact science.",
+        "ru": "Это точная наука."
+      },
+      {
+        "en": "We need an exact science.",
+        "ru": "Нам нужен точная наука."
+      },
+      {
+        "en": "Consider the exact science carefully.",
+        "ru": "Внимательно учти — точная наука."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "existing customer",
+    "lemma": "existing customer",
+    "level": "b1",
+    "tr": "существующий клиент",
+    "examples": [
+      {
+        "en": "This is an existing customer.",
+        "ru": "Это существующий клиент."
+      },
+      {
+        "en": "We need an existing customer.",
+        "ru": "Нам нужен существующий клиент."
+      },
+      {
+        "en": "Consider the existing customer carefully.",
+        "ru": "Внимательно учти — существующий клиент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "false alarm",
+    "lemma": "false alarm",
+    "level": "b1",
+    "tr": "ложная тревога",
+    "examples": [
+      {
+        "en": "This is a false alarm.",
+        "ru": "Это ложная тревога."
+      },
+      {
+        "en": "We need a false alarm.",
+        "ru": "Нам нужен ложная тревога."
+      },
+      {
+        "en": "Consider the false alarm carefully.",
+        "ru": "Внимательно учти — ложная тревога."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "false impression",
+    "lemma": "false impression",
+    "level": "b2",
+    "tr": "ложное впечатление",
+    "examples": [
+      {
+        "en": "This is a false impression.",
+        "ru": "Это ложное впечатление."
+      },
+      {
+        "en": "We need a false impression.",
+        "ru": "Нам нужен ложное впечатление."
+      },
+      {
+        "en": "Consider the false impression carefully.",
+        "ru": "Внимательно учти — ложное впечатление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "false sense",
+    "lemma": "false sense",
+    "level": "c1",
+    "tr": "ложное ощущение",
+    "examples": [
+      {
+        "en": "This is a false sense.",
+        "ru": "Это ложное ощущение."
+      },
+      {
+        "en": "We need a false sense.",
+        "ru": "Нам нужен ложное ощущение."
+      },
+      {
+        "en": "Consider the false sense carefully.",
+        "ru": "Внимательно учти — ложное ощущение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "familiar face",
+    "lemma": "familiar face",
+    "level": "b1",
+    "tr": "знакомое лицо",
+    "examples": [
+      {
+        "en": "This is a familiar face.",
+        "ru": "Это знакомое лицо."
+      },
+      {
+        "en": "We need a familiar face.",
+        "ru": "Нам нужен знакомое лицо."
+      },
+      {
+        "en": "Consider the familiar face carefully.",
+        "ru": "Внимательно учти — знакомое лицо."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "far-reaching consequences",
+    "lemma": "far-reaching consequences",
+    "level": "c1",
+    "tr": "далеко идущие последствия",
+    "examples": [
+      {
+        "en": "This is a far-reaching consequences.",
+        "ru": "Это далеко идущие последствия."
+      },
+      {
+        "en": "We need a far-reaching consequences.",
+        "ru": "Нам нужен далеко идущие последствия."
+      },
+      {
+        "en": "Consider the far-reaching consequences carefully.",
+        "ru": "Внимательно учти — далеко идущие последствия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fatal mistake",
+    "lemma": "fatal mistake",
+    "level": "b2",
+    "tr": "роковая ошибка",
+    "examples": [
+      {
+        "en": "This is a fatal mistake.",
+        "ru": "Это роковая ошибка."
+      },
+      {
+        "en": "We need a fatal mistake.",
+        "ru": "Нам нужен роковая ошибка."
+      },
+      {
+        "en": "Consider the fatal mistake carefully.",
+        "ru": "Внимательно учти — роковая ошибка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "favorable conditions",
+    "lemma": "favorable conditions",
+    "level": "b2",
+    "tr": "благоприятные условия",
+    "examples": [
+      {
+        "en": "This is a favorable conditions.",
+        "ru": "Это благоприятные условия."
+      },
+      {
+        "en": "We need a favorable conditions.",
+        "ru": "Нам нужен благоприятные условия."
+      },
+      {
+        "en": "Consider the favorable conditions carefully.",
+        "ru": "Внимательно учти — благоприятные условия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "final decision",
+    "lemma": "final decision",
+    "level": "b1",
+    "tr": "окончательное решение",
+    "examples": [
+      {
+        "en": "This is a final decision.",
+        "ru": "Это окончательное решение."
+      },
+      {
+        "en": "We need a final decision.",
+        "ru": "Нам нужен окончательное решение."
+      },
+      {
+        "en": "Consider the final decision carefully.",
+        "ru": "Внимательно учти — окончательное решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "final draft",
+    "lemma": "final draft",
+    "level": "b1",
+    "tr": "финальный черновик",
+    "examples": [
+      {
+        "en": "This is a final draft.",
+        "ru": "Это финальный черновик."
+      },
+      {
+        "en": "We need a final draft.",
+        "ru": "Нам нужен финальный черновик."
+      },
+      {
+        "en": "Consider the final draft carefully.",
+        "ru": "Внимательно учти — финальный черновик."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "financial burden",
+    "lemma": "financial burden",
+    "level": "b2",
+    "tr": "финансовое бремя",
+    "examples": [
+      {
+        "en": "This is a financial burden.",
+        "ru": "Это финансовое бремя."
+      },
+      {
+        "en": "We need a financial burden.",
+        "ru": "Нам нужен финансовое бремя."
+      },
+      {
+        "en": "Consider the financial burden carefully.",
+        "ru": "Внимательно учти — финансовое бремя."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "financial crisis",
+    "lemma": "financial crisis",
+    "level": "b1",
+    "tr": "финансовый кризис",
+    "examples": [
+      {
+        "en": "This is a financial crisis.",
+        "ru": "Это финансовый кризис."
+      },
+      {
+        "en": "We need a financial crisis.",
+        "ru": "Нам нужен финансовый кризис."
+      },
+      {
+        "en": "Consider the financial crisis carefully.",
+        "ru": "Внимательно учти — финансовый кризис."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "firm decision",
+    "lemma": "firm decision",
+    "level": "b2",
+    "tr": "твёрдое решение",
+    "examples": [
+      {
+        "en": "This is a firm decision.",
+        "ru": "Это твёрдое решение."
+      },
+      {
+        "en": "We need a firm decision.",
+        "ru": "Нам нужен твёрдое решение."
+      },
+      {
+        "en": "Consider the firm decision carefully.",
+        "ru": "Внимательно учти — твёрдое решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "first impression",
+    "lemma": "first impression",
+    "level": "b1",
+    "tr": "первое впечатление",
+    "examples": [
+      {
+        "en": "This is a first impression.",
+        "ru": "Это первое впечатление."
+      },
+      {
+        "en": "We need a first impression.",
+        "ru": "Нам нужен первое впечатление."
+      },
+      {
+        "en": "Consider the first impression carefully.",
+        "ru": "Внимательно учти — первое впечатление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fitting tribute",
+    "lemma": "fitting tribute",
+    "level": "c1",
+    "tr": "подобающая дань",
+    "examples": [
+      {
+        "en": "This is a fitting tribute.",
+        "ru": "Это подобающая дань."
+      },
+      {
+        "en": "We need a fitting tribute.",
+        "ru": "Нам нужен подобающая дань."
+      },
+      {
+        "en": "Consider the fitting tribute carefully.",
+        "ru": "Внимательно учти — подобающая дань."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fixed income",
+    "lemma": "fixed income",
+    "level": "b2",
+    "tr": "фиксированный доход",
+    "examples": [
+      {
+        "en": "This is a fixed income.",
+        "ru": "Это фиксированный доход."
+      },
+      {
+        "en": "We need a fixed income.",
+        "ru": "Нам нужен фиксированный доход."
+      },
+      {
+        "en": "Consider the fixed income carefully.",
+        "ru": "Внимательно учти — фиксированный доход."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "flat rate",
+    "lemma": "flat rate",
+    "level": "b2",
+    "tr": "фиксированная ставка",
+    "examples": [
+      {
+        "en": "This is a flat rate.",
+        "ru": "Это фиксированная ставка."
+      },
+      {
+        "en": "We need a flat rate.",
+        "ru": "Нам нужен фиксированная ставка."
+      },
+      {
+        "en": "Consider the flat rate carefully.",
+        "ru": "Внимательно учти — фиксированная ставка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fleeting moment",
+    "lemma": "fleeting moment",
+    "level": "c1",
+    "tr": "мимолётный момент",
+    "examples": [
+      {
+        "en": "This is a fleeting moment.",
+        "ru": "Это мимолётный момент."
+      },
+      {
+        "en": "We need a fleeting moment.",
+        "ru": "Нам нужен мимолётный момент."
+      },
+      {
+        "en": "Consider the fleeting moment carefully.",
+        "ru": "Внимательно учти — мимолётный момент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "flexible schedule",
+    "lemma": "flexible schedule",
+    "level": "b1",
+    "tr": "гибкий график",
+    "examples": [
+      {
+        "en": "This is a flexible schedule.",
+        "ru": "Это гибкий график."
+      },
+      {
+        "en": "We need a flexible schedule.",
+        "ru": "Нам нужен гибкий график."
+      },
+      {
+        "en": "Consider the flexible schedule carefully.",
+        "ru": "Внимательно учти — гибкий график."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "foolish mistake",
+    "lemma": "foolish mistake",
+    "level": "b1",
+    "tr": "глупая ошибка",
+    "examples": [
+      {
+        "en": "This is a foolish mistake.",
+        "ru": "Это глупая ошибка."
+      },
+      {
+        "en": "We need a foolish mistake.",
+        "ru": "Нам нужен глупая ошибка."
+      },
+      {
+        "en": "Consider the foolish mistake carefully.",
+        "ru": "Внимательно учти — глупая ошибка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "formal complaint",
+    "lemma": "formal complaint",
+    "level": "b1",
+    "tr": "официальная жалоба",
+    "examples": [
+      {
+        "en": "This is a formal complaint.",
+        "ru": "Это официальная жалоба."
+      },
+      {
+        "en": "We need a formal complaint.",
+        "ru": "Нам нужен официальная жалоба."
+      },
+      {
+        "en": "Consider the formal complaint carefully.",
+        "ru": "Внимательно учти — официальная жалоба."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "formal education",
+    "lemma": "formal education",
+    "level": "b2",
+    "tr": "формальное образование",
+    "examples": [
+      {
+        "en": "This is a formal education.",
+        "ru": "Это формальное образование."
+      },
+      {
+        "en": "We need a formal education.",
+        "ru": "Нам нужен формальное образование."
+      },
+      {
+        "en": "Consider the formal education carefully.",
+        "ru": "Внимательно учти — формальное образование."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "former colleague",
+    "lemma": "former colleague",
+    "level": "b1",
+    "tr": "бывший коллега",
+    "examples": [
+      {
+        "en": "This is a former colleague.",
+        "ru": "Это бывший коллега."
+      },
+      {
+        "en": "We need a former colleague.",
+        "ru": "Нам нужен бывший коллега."
+      },
+      {
+        "en": "Consider the former colleague carefully.",
+        "ru": "Внимательно учти — бывший коллега."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fragile peace",
+    "lemma": "fragile peace",
+    "level": "c1",
+    "tr": "хрупкий мир",
+    "examples": [
+      {
+        "en": "This is a fragile peace.",
+        "ru": "Это хрупкий мир."
+      },
+      {
+        "en": "We need a fragile peace.",
+        "ru": "Нам нужен хрупкий мир."
+      },
+      {
+        "en": "Consider the fragile peace carefully.",
+        "ru": "Внимательно учти — хрупкий мир."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "frank discussion",
+    "lemma": "frank discussion",
+    "level": "b2",
+    "tr": "откровенный разговор",
+    "examples": [
+      {
+        "en": "This is a frank discussion.",
+        "ru": "Это откровенный разговор."
+      },
+      {
+        "en": "We need a frank discussion.",
+        "ru": "Нам нужен откровенный разговор."
+      },
+      {
+        "en": "Consider the frank discussion carefully.",
+        "ru": "Внимательно учти — откровенный разговор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "free advice",
+    "lemma": "free advice",
+    "level": "b1",
+    "tr": "бесплатный совет",
+    "examples": [
+      {
+        "en": "This is a free advice.",
+        "ru": "Это бесплатный совет."
+      },
+      {
+        "en": "We need a free advice.",
+        "ru": "Нам нужен бесплатный совет."
+      },
+      {
+        "en": "Consider the free advice carefully.",
+        "ru": "Внимательно учти — бесплатный совет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "free speech",
+    "lemma": "free speech",
+    "level": "b2",
+    "tr": "свобода слова",
+    "examples": [
+      {
+        "en": "This is a free speech.",
+        "ru": "Это свобода слова."
+      },
+      {
+        "en": "We need a free speech.",
+        "ru": "Нам нужен свобода слова."
+      },
+      {
+        "en": "Consider the free speech carefully.",
+        "ru": "Внимательно учти — свобода слова."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fresh air",
+    "lemma": "fresh air",
+    "level": "b1",
+    "tr": "свежий воздух",
+    "examples": [
+      {
+        "en": "This is a fresh air.",
+        "ru": "Это свежий воздух."
+      },
+      {
+        "en": "We need a fresh air.",
+        "ru": "Нам нужен свежий воздух."
+      },
+      {
+        "en": "Consider the fresh air carefully.",
+        "ru": "Внимательно учти — свежий воздух."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  }
+]

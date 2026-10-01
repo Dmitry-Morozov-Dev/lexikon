@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "schedule a meeting",
+    "lemma": "schedule a meeting",
+    "level": "b1",
+    "tr": "назначить встречу",
+    "examples": [
+      {
+        "en": "Let's schedule a meeting for Tuesday.",
+        "ru": "Давайте назначим встречу на вторник."
+      },
+      {
+        "en": "She scheduled a meeting with legal.",
+        "ru": "Она назначила встречу с юристами."
+      },
+      {
+        "en": "Can we schedule a quick meeting?",
+        "ru": "Можем быстро назначить встречу?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "cancel a meeting",
+    "lemma": "cancel a meeting",
+    "level": "b1",
+    "tr": "отменить встречу",
+    "examples": [
+      {
+        "en": "Sorry — I need to cancel the meeting.",
+        "ru": "Извини — нужно отменить встречу."
+      },
+      {
+        "en": "They canceled the meeting last minute.",
+        "ru": "Они отменили встречу в последний момент."
+      },
+      {
+        "en": "Please cancel the meeting if you're sick.",
+        "ru": "Отмени встречу, если заболел."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reschedule a meeting",
+    "lemma": "reschedule a meeting",
+    "level": "b1",
+    "tr": "перенести встречу",
+    "examples": [
+      {
+        "en": "Can we reschedule the meeting?",
+        "ru": "Можем перенести встречу?"
+      },
+      {
+        "en": "She rescheduled the meeting to Friday.",
+        "ru": "Она перенесла встречу на пятницу."
+      },
+      {
+        "en": "I'll reschedule if the flight is late.",
+        "ru": "Перенесу, если рейс задержится."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a meeting",
+    "lemma": "run a meeting",
+    "level": "b1",
+    "tr": "вести встречу",
+    "examples": [
+      {
+        "en": "Who's running the meeting?",
+        "ru": "Кто ведёт встречу?"
+      },
+      {
+        "en": "She runs meetings efficiently.",
+        "ru": "Она эффективно ведёт встречи."
+      },
+      {
+        "en": "He ran the meeting without an agenda.",
+        "ru": "Он провёл встречу без повестки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "set an agenda",
+    "lemma": "set an agenda",
+    "level": "b1",
+    "tr": "составить повестку",
+    "examples": [
+      {
+        "en": "Please set an agenda before the call.",
+        "ru": "Составь повестку до созвона."
+      },
+      {
+        "en": "She set a clear agenda.",
+        "ru": "Она составила чёткую повестку."
+      },
+      {
+        "en": "Without an agenda, meetings drift.",
+        "ru": "Без повестки встречи расползаются."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "stick to the agenda",
+    "lemma": "stick to the agenda",
+    "level": "b2",
+    "tr": "держаться повестки",
+    "examples": [
+      {
+        "en": "Let's stick to the agenda.",
+        "ru": "Давайте держаться повестки."
+      },
+      {
+        "en": "She kept us sticking to the agenda.",
+        "ru": "Она заставляла держаться повестки."
+      },
+      {
+        "en": "We failed to stick to the agenda.",
+        "ru": "Мы не удержались в повестке."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "take minutes",
+    "lemma": "take minutes",
+    "level": "b2",
+    "tr": "вести протокол",
+    "examples": [
+      {
+        "en": "Who will take minutes?",
+        "ru": "Кто будет вести протокол?"
+      },
+      {
+        "en": "She took minutes carefully.",
+        "ru": "Она аккуратно вела протокол."
+      },
+      {
+        "en": "Please take minutes and share them.",
+        "ru": "Веди протокол и поделись им."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "circulate the minutes",
+    "lemma": "circulate the minutes",
+    "level": "b2",
+    "tr": "разослать протокол",
+    "examples": [
+      {
+        "en": "I'll circulate the minutes after lunch.",
+        "ru": "После обеда разошлю протокол."
+      },
+      {
+        "en": "She circulated the minutes promptly.",
+        "ru": "Она оперативно разослала протокол."
+      },
+      {
+        "en": "Circulate the minutes to attendees.",
+        "ru": "Разошли протокол участникам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "assign an owner",
+    "lemma": "assign an owner",
+    "level": "b1",
+    "tr": "назначить ответственного",
+    "examples": [
+      {
+        "en": "Assign an owner to each task.",
+        "ru": "Назначь ответственного на каждую задачу."
+      },
+      {
+        "en": "Who's the owner of this ticket?",
+        "ru": "Кто owner этого тикета?"
+      },
+      {
+        "en": "She assigned an owner before leaving.",
+        "ru": "Она назначила ответственного перед уходом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "own a task",
+    "lemma": "own a task",
+    "level": "b2",
+    "tr": "владеть задачей; отвечать за",
+    "examples": [
+      {
+        "en": "I'll own this task.",
+        "ru": "Я возьму эту задачу на себя."
+      },
+      {
+        "en": "She owns the migration.",
+        "ru": "Она отвечает за миграцию."
+      },
+      {
+        "en": "Someone needs to own the risk.",
+        "ru": "Кто-то должен владеть риском."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "block a decision",
+    "lemma": "block a decision",
+    "level": "b2",
+    "tr": "блокировать решение",
+    "examples": [
+      {
+        "en": "Don't block a decision without data.",
+        "ru": "Не блокируй решение без данных."
+      },
+      {
+        "en": "Legal blocked the decision temporarily.",
+        "ru": "Юристы временно заблокировали решение."
+      },
+      {
+        "en": "One objection blocked the decision.",
+        "ru": "Одно возражение заблокировало решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "escalate an issue",
+    "lemma": "escalate an issue",
+    "level": "b2",
+    "tr": "эскалировать проблему",
+    "examples": [
+      {
+        "en": "Escalate the issue if it's P0.",
+        "ru": "Эскалируй, если это P0."
+      },
+      {
+        "en": "She escalated the issue to the CTO.",
+        "ru": "Она эскалировала проблему CTO."
+      },
+      {
+        "en": "Don't escalate every minor issue.",
+        "ru": "Не эскалируй каждую мелочь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise a concern",
+    "lemma": "raise a concern",
+    "level": "b2",
+    "tr": "выразить обеспокоенность",
+    "examples": [
+      {
+        "en": "I'd like to raise a concern.",
+        "ru": "Хочу выразить обеспокоенность."
+      },
+      {
+        "en": "She raised a concern about scope.",
+        "ru": "Она подняла вопрос о скоупе."
+      },
+      {
+        "en": "Feel free to raise concerns early.",
+        "ru": "Смело поднимайте concerns рано."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "flag a risk",
+    "lemma": "flag a risk",
+    "level": "b2",
+    "tr": "отметить риск",
+    "examples": [
+      {
+        "en": "Please flag any risks in the doc.",
+        "ru": "Отметьте риски в доке."
+      },
+      {
+        "en": "He flagged a risk with the vendor.",
+        "ru": "Он отметил риск по вендору."
+      },
+      {
+        "en": "QA flagged a risk before launch.",
+        "ru": "QA отметили риск до релиза."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "mitigate a risk",
+    "lemma": "mitigate a risk",
+    "level": "b2",
+    "tr": "снизить риск",
+    "examples": [
+      {
+        "en": "How do we mitigate this risk?",
+        "ru": "Как снизить этот риск?"
+      },
+      {
+        "en": "Backups mitigate data-loss risk.",
+        "ru": "Бэкапы снижают риск потери данных."
+      },
+      {
+        "en": "She proposed a plan to mitigate risk.",
+        "ru": "Она предложила план снижения риска."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "send an email",
+    "lemma": "send an email",
+    "level": "b1",
+    "tr": "отправить письмо",
+    "examples": [
+      {
+        "en": "I'll send an email after the call.",
+        "ru": "Отправлю письмо после созвона."
+      },
+      {
+        "en": "She sent an email to the whole team.",
+        "ru": "Она отправила письмо всей команде."
+      },
+      {
+        "en": "Don't send an email in anger.",
+        "ru": "Не пиши письма в гневе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "draft an email",
+    "lemma": "draft an email",
+    "level": "b1",
+    "tr": "набросать письмо",
+    "examples": [
+      {
+        "en": "Draft an email and I'll review it.",
+        "ru": "Набросай письмо — я поревьюю."
+      },
+      {
+        "en": "She drafted a careful email.",
+        "ru": "Она набросала аккуратное письмо."
+      },
+      {
+        "en": "I drafted an email but didn't send it.",
+        "ru": "Я набросал письмо, но не отправил."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reply all",
+    "lemma": "reply all",
+    "level": "b1",
+    "tr": "ответить всем",
+    "examples": [
+      {
+        "en": "Don't reply all unless needed.",
+        "ru": "Не жми Reply All без нужды."
+      },
+      {
+        "en": "She accidentally hit reply all.",
+        "ru": "Она случайно нажала Reply All."
+      },
+      {
+        "en": "Reply all flooded the thread.",
+        "ru": "Reply All засыпал тред."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "cc someone",
+    "lemma": "cc someone",
+    "level": "b1",
+    "tr": "поставить в копию",
+    "examples": [
+      {
+        "en": "Please cc me on that thread.",
+        "ru": "Поставь меня в копию в том треде."
+      },
+      {
+        "en": "She cc'd the manager.",
+        "ru": "Она поставила менеджера в копию."
+      },
+      {
+        "en": "Don't cc the whole company.",
+        "ru": "Не ставь в копию всю компанию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "bcc someone",
+    "lemma": "bcc someone",
+    "level": "b2",
+    "tr": "поставить в скрытую копию",
+    "examples": [
+      {
+        "en": "I'll bcc legal for awareness.",
+        "ru": "Поставлю юристов в скрытую копию для сведения."
+      },
+      {
+        "en": "She bcc'd herself.",
+        "ru": "Она поставила себя в скрытую копию."
+      },
+      {
+        "en": "Use bcc for large announcement lists.",
+        "ru": "Для больших рассылок используй bcc."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "loop someone in",
+    "lemma": "loop someone in",
+    "level": "b2",
+    "tr": "добавить в переписку / в курс",
+    "examples": [
+      {
+        "en": "Loop me in on that thread.",
+        "ru": "Добавь меня в тот тред."
+      },
+      {
+        "en": "She looped in the designer.",
+        "ru": "Она подключила дизайнера."
+      },
+      {
+        "en": "Let's loop finance in.",
+        "ru": "Давайте подключим финансы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep someone in the loop",
+    "lemma": "keep someone in the loop",
+    "level": "b1",
+    "tr": "держать в курсе",
+    "examples": [
+      {
+        "en": "Keep me in the loop.",
+        "ru": "Держи меня в курсе."
+      },
+      {
+        "en": "She kept stakeholders in the loop.",
+        "ru": "Она держала стейкхолдеров в курсе."
+      },
+      {
+        "en": "Please keep the team in the loop.",
+        "ru": "Держите команду в курсе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as discussed",
+    "lemma": "as discussed",
+    "level": "b1",
+    "tr": "как обсуждали",
+    "examples": [
+      {
+        "en": "As discussed, we'll ship Friday.",
+        "ru": "Как обсуждали, релизим в пятницу."
+      },
+      {
+        "en": "I'm attaching the file as discussed.",
+        "ru": "Прикрепляю файл, как обсуждали."
+      },
+      {
+        "en": "As discussed on the call…",
+        "ru": "Как обсуждали на созвоне…"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as mentioned",
+    "lemma": "as mentioned",
+    "level": "b1",
+    "tr": "как упоминалось",
+    "examples": [
+      {
+        "en": "As mentioned earlier, costs rose.",
+        "ru": "Как упоминалось раньше, затраты выросли."
+      },
+      {
+        "en": "As mentioned in the brief…",
+        "ru": "Как упоминалось в брифе…"
+      },
+      {
+        "en": "Please review as mentioned below.",
+        "ru": "Пожалуйста, посмотри, как указано ниже."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "as per",
+    "lemma": "as per",
+    "level": "b2",
+    "tr": "согласно; в соответствии с",
+    "examples": [
+      {
+        "en": "As per the contract, payment is due.",
+        "ru": "Согласно контракту, оплата к сроку."
+      },
+      {
+        "en": "As per your request, attached.",
+        "ru": "Согласно вашей просьбе — во вложении."
+      },
+      {
+        "en": "We proceeded as per the checklist.",
+        "ru": "Мы шли по чеклисту."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "please find attached",
+    "lemma": "please find attached",
+    "level": "b1",
+    "tr": "во вложении",
+    "examples": [
+      {
+        "en": "Please find attached the report.",
+        "ru": "Во вложении — отчёт."
+      },
+      {
+        "en": "Please find attached my resume.",
+        "ru": "Во вложении — резюме."
+      },
+      {
+        "en": "Please find the invoice attached.",
+        "ru": "Счёт во вложении."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "kind regards",
+    "lemma": "kind regards",
+    "level": "b1",
+    "tr": "с уважением (нейтрально)",
+    "examples": [
+      {
+        "en": "Kind regards, Anna.",
+        "ru": "С уважением, Анна."
+      },
+      {
+        "en": "She ends emails with Kind regards.",
+        "ru": "Она заканчивает письма Kind regards."
+      },
+      {
+        "en": "Kind regards is safer than Love.",
+        "ru": "Kind regards безопаснее, чем Love."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "best regards",
+    "lemma": "best regards",
+    "level": "b1",
+    "tr": "с наилучшими пожеланиями",
+    "examples": [
+      {
+        "en": "Best regards, Tom.",
+        "ru": "С наилучшими пожеланиями, Том."
+      },
+      {
+        "en": "I signed off with Best regards.",
+        "ru": "Я закончил Best regards."
+      },
+      {
+        "en": "Best regards fits most business mail.",
+        "ru": "Best regards подходит большинству деловых писем."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "looking forward to hearing",
+    "lemma": "looking forward to hearing",
+    "level": "b1",
+    "tr": "жду вашего ответа",
+    "examples": [
+      {
+        "en": "Looking forward to hearing from you.",
+        "ru": "Жду вашего ответа."
+      },
+      {
+        "en": "We're looking forward to hearing your thoughts.",
+        "ru": "Ждём ваших мыслей."
+      },
+      {
+        "en": "Looking forward to hearing back soon.",
+        "ru": "Жду скорого ответа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "at your earliest convenience",
+    "lemma": "at your earliest convenience",
+    "level": "b2",
+    "tr": "при первой возможности",
+    "examples": [
+      {
+        "en": "Please reply at your earliest convenience.",
+        "ru": "Ответьте при первой возможности."
+      },
+      {
+        "en": "Call me at your earliest convenience.",
+        "ru": "Позвоните при первой возможности."
+      },
+      {
+        "en": "A bit formal — use sparingly.",
+        "ru": "Формально — используй умеренно."
+      }
+    ],
+    "note": "формально",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "by end of day",
+    "lemma": "by end of day",
+    "level": "b1",
+    "tr": "к концу дня",
+    "examples": [
+      {
+        "en": "Need this by end of day.",
+        "ru": "Нужно к концу дня."
+      },
+      {
+        "en": "She delivered by end of day.",
+        "ru": "Она сдала к концу дня."
+      },
+      {
+        "en": "EOD means by end of day.",
+        "ru": "EOD = к концу дня."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "by end of week",
+    "lemma": "by end of week",
+    "level": "b1",
+    "tr": "к концу недели",
+    "examples": [
+      {
+        "en": "Ship by end of week.",
+        "ru": "Релиз к концу недели."
+      },
+      {
+        "en": "We'll decide by end of week.",
+        "ru": "Решим к концу недели."
+      },
+      {
+        "en": "EOW = by end of week.",
+        "ru": "EOW = к концу недели."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "close of business",
+    "lemma": "close of business",
+    "level": "b2",
+    "tr": "конец рабочего дня",
+    "examples": [
+      {
+        "en": "Submit by close of business.",
+        "ru": "Сдай до конца рабочего дня."
+      },
+      {
+        "en": "COB means close of business.",
+        "ru": "COB = конец рабочего дня."
+      },
+      {
+        "en": "Files arrived after close of business.",
+        "ru": "Файлы пришли после конца рабочего дня."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "out of office",
+    "lemma": "out of office",
+    "level": "b1",
+    "tr": "вне офиса; автоответ",
+    "examples": [
+      {
+        "en": "I'm out of office until Monday.",
+        "ru": "Я вне офиса до понедельника."
+      },
+      {
+        "en": "Set an out-of-office reply.",
+        "ru": "Поставь автоответ out of office."
+      },
+      {
+        "en": "Her out-of-office mentioned a backup.",
+        "ru": "В автоответе был указан замещающий."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "working from home",
+    "lemma": "working from home",
+    "level": "b1",
+    "tr": "работа из дома",
+    "examples": [
+      {
+        "en": "I'm working from home today.",
+        "ru": "Сегодня работаю из дома."
+      },
+      {
+        "en": "She's working from home this week.",
+        "ru": "На этой неделе она работает из дома."
+      },
+      {
+        "en": "WFH = working from home.",
+        "ru": "WFH = работа из дома."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "time off",
+    "lemma": "time off",
+    "level": "b1",
+    "tr": "отгул / выходной",
+    "examples": [
+      {
+        "en": "I'm taking time off next week.",
+        "ru": "На следующей неделе беру выходные."
+      },
+      {
+        "en": "Request time off in the portal.",
+        "ru": "Запроси отгул в портале."
+      },
+      {
+        "en": "She needs time off after the release.",
+        "ru": "Ей нужен отдых после релиза."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "paid time off",
+    "lemma": "paid time off",
+    "level": "b1",
+    "tr": "оплачиваемый отпуск",
+    "examples": [
+      {
+        "en": "Check your paid time off balance.",
+        "ru": "Проверь баланс оплачиваемого отпуска."
+      },
+      {
+        "en": "PTO = paid time off.",
+        "ru": "PTO = оплачиваемый отпуск."
+      },
+      {
+        "en": "He used paid time off for the trip.",
+        "ru": "Он использовал PTO на поездку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "sick leave",
+    "lemma": "sick leave",
+    "level": "b1",
+    "tr": "больничный",
+    "examples": [
+      {
+        "en": "She's on sick leave.",
+        "ru": "Она на больничном."
+      },
+      {
+        "en": "Take sick leave if you're contagious.",
+        "ru": "Бери больничный, если заразен."
+      },
+      {
+        "en": "Sick leave requires a note sometimes.",
+        "ru": "Иногда для больничного нужна справка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "performance review",
+    "lemma": "performance review",
+    "level": "b1",
+    "tr": "оценка эффективности",
+    "examples": [
+      {
+        "en": "My performance review is in March.",
+        "ru": "Оценка эффективности у меня в марте."
+      },
+      {
+        "en": "She prepared for the performance review.",
+        "ru": "Она готовилась к performance review."
+      },
+      {
+        "en": "Feedback feeds the performance review.",
+        "ru": "Фидбек питает performance review."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "status update",
+    "lemma": "status update",
+    "level": "b1",
+    "tr": "статус-апдейт",
+    "examples": [
+      {
+        "en": "Send a status update by noon.",
+        "ru": "Пришли статус-апдейт к полудню."
+      },
+      {
+        "en": "She gave a brief status update.",
+        "ru": "Она кратко обновила статус."
+      },
+      {
+        "en": "Daily status updates reduce surprises.",
+        "ru": "Ежедневные статус-апдейты уменьшают сюрпризы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "progress report",
+    "lemma": "progress report",
+    "level": "b1",
+    "tr": "отчёт о прогрессе",
+    "examples": [
+      {
+        "en": "Attach the progress report.",
+        "ru": "Приложи отчёт о прогрессе."
+      },
+      {
+        "en": "He wrote a weekly progress report.",
+        "ru": "Он писал еженедельный отчёт о прогрессе."
+      },
+      {
+        "en": "Stakeholders want a progress report.",
+        "ru": "Стейкхолдеры хотят отчёт о прогрессе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "quarterly review",
+    "lemma": "quarterly review",
+    "level": "b2",
+    "tr": "квартальный обзор",
+    "examples": [
+      {
+        "en": "The quarterly review is next week.",
+        "ru": "Квартальный обзор на следующей неделе."
+      },
+      {
+        "en": "Prepare slides for the quarterly review.",
+        "ru": "Подготовь слайды к квартальному обзору."
+      },
+      {
+        "en": "Metrics drive the quarterly review.",
+        "ru": "Метрики ведут квартальный обзор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "kickoff meeting",
+    "lemma": "kickoff meeting",
+    "level": "b1",
+    "tr": "стартовая встреча",
+    "examples": [
+      {
+        "en": "We held a kickoff meeting Monday.",
+        "ru": "В понедельник провели kickoff."
+      },
+      {
+        "en": "Invite stakeholders to the kickoff meeting.",
+        "ru": "Пригласи стейкхолдеров на kickoff."
+      },
+      {
+        "en": "A clear kickoff meeting saves time later.",
+        "ru": "Чёткий kickoff экономит время потом."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "parking lot",
+    "lemma": "parking lot",
+    "level": "b2",
+    "tr": "парковка идей (на потом)",
+    "examples": [
+      {
+        "en": "Put that in the parking lot.",
+        "ru": "Отложим это в parking lot."
+      },
+      {
+        "en": "We parked three topics in the parking lot.",
+        "ru": "Три темы отправили в parking lot."
+      },
+      {
+        "en": "Revisit the parking lot next week.",
+        "ru": "Вернёмся к parking lot на следующей неделе."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "offline discussion",
+    "lemma": "offline discussion",
+    "level": "b2",
+    "tr": "обсуждение офлайн / отдельно",
+    "examples": [
+      {
+        "en": "Let's take this offline.",
+        "ru": "Давайте это отдельно."
+      },
+      {
+        "en": "We'll continue in an offline discussion.",
+        "ru": "Продолжим в отдельном обсуждении."
+      },
+      {
+        "en": "Offline discussion saved the meeting.",
+        "ru": "Отдельное обсуждение спасло встречу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "sync up",
+    "lemma": "sync up",
+    "level": "b1",
+    "tr": "синхронизироваться",
+    "examples": [
+      {
+        "en": "Let's sync up tomorrow.",
+        "ru": "Давайте завтра синхронизируемся."
+      },
+      {
+        "en": "She synced up with design.",
+        "ru": "Она синхронизировалась с дизайном."
+      },
+      {
+        "en": "Quick sync-up after lunch?",
+        "ru": "Быстрый sync после обеда?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "push back",
+    "lemma": "push back",
+    "level": "b2",
+    "tr": "отложить; возразить",
+    "examples": [
+      {
+        "en": "Can we push back the deadline?",
+        "ru": "Можем сдвинуть дедлайн?"
+      },
+      {
+        "en": "She pushed back on the scope.",
+        "ru": "Она возразила против скоупа."
+      },
+      {
+        "en": "Don't push back without reasons.",
+        "ru": "Не отталкивай без аргументов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "scope creep",
+    "lemma": "scope creep",
+    "level": "b2",
+    "tr": "расползание скоупа",
+    "examples": [
+      {
+        "en": "Watch for scope creep.",
+        "ru": "Следи за расползанием скоупа."
+      },
+      {
+        "en": "Scope creep delayed the launch.",
+        "ru": "Scope creep задержал релиз."
+      },
+      {
+        "en": "Change control limits scope creep.",
+        "ru": "Контроль изменений ограничивает scope creep."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "change request",
+    "lemma": "change request",
+    "level": "b2",
+    "tr": "запрос на изменение",
+    "examples": [
+      {
+        "en": "File a change request.",
+        "ru": "Оформи change request."
+      },
+      {
+        "en": "The client sent a change request.",
+        "ru": "Клиент прислал change request."
+      },
+      {
+        "en": "Approve change requests carefully.",
+        "ru": "Одобряй change request осторожно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "go-live",
+    "lemma": "go-live",
+    "level": "b2",
+    "tr": "запуск в прод",
+    "examples": [
+      {
+        "en": "Go-live is scheduled for Sunday.",
+        "ru": "Go-live запланирован на воскресенье."
+      },
+      {
+        "en": "We delayed go-live by a week.",
+        "ru": "Мы сдвинули go-live на неделю."
+      },
+      {
+        "en": "After go-live, monitor closely.",
+        "ru": "После go-live мониторь внимательно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard launch",
+    "lemma": "hard launch",
+    "level": "b2",
+    "tr": "полный запуск",
+    "examples": [
+      {
+        "en": "Hard launch follows the soft launch.",
+        "ru": "После soft launch идёт hard launch."
+      },
+      {
+        "en": "Marketing timed the hard launch.",
+        "ru": "Маркетинг синхронизировал hard launch."
+      },
+      {
+        "en": "Hard launch hit social feeds.",
+        "ru": "Hard launch попал в соцсети."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "rollout plan",
+    "lemma": "rollout plan",
+    "level": "b2",
+    "tr": "план выкатки",
+    "examples": [
+      {
+        "en": "Share the rollout plan.",
+        "ru": "Поделись планом выкатки."
+      },
+      {
+        "en": "The rollout plan has three phases.",
+        "ru": "В плане выкатки три фазы."
+      },
+      {
+        "en": "Stick to the rollout plan.",
+        "ru": "Держись плана выкатки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "feature freeze",
+    "lemma": "feature freeze",
+    "level": "b2",
+    "tr": "заморозка фич",
+    "examples": [
+      {
+        "en": "Feature freeze starts Friday.",
+        "ru": "Заморозка фич с пятницы."
+      },
+      {
+        "en": "After feature freeze, only bugfixes.",
+        "ru": "После feature freeze — только багфиксы."
+      },
+      {
+        "en": "Respect the feature freeze.",
+        "ru": "Соблюдай feature freeze."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "code freeze",
+    "lemma": "code freeze",
+    "level": "b2",
+    "tr": "заморозка кода",
+    "examples": [
+      {
+        "en": "Code freeze is tonight.",
+        "ru": "Заморозка кода сегодня ночью."
+      },
+      {
+        "en": "No merges after code freeze.",
+        "ru": "После code freeze без мерджей."
+      },
+      {
+        "en": "We lifted code freeze after hotfix.",
+        "ru": "Сняли code freeze после хотфикса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "sign off",
+    "lemma": "sign off",
+    "level": "b2",
+    "tr": "утвердить; подписать",
+    "examples": [
+      {
+        "en": "Need your sign-off on the design.",
+        "ru": "Нужен твой sign-off по дизайну."
+      },
+      {
+        "en": "Legal signed off on the wording.",
+        "ru": "Юристы утвердили формулировку."
+      },
+      {
+        "en": "She signed off and we shipped.",
+        "ru": "Она утвердила — и мы зарелизили."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "due diligence",
+    "lemma": "due diligence",
+    "level": "c1",
+    "tr": "должная проверка",
+    "examples": [
+      {
+        "en": "Do due diligence on vendors.",
+        "ru": "Делай due diligence по вендорам."
+      },
+      {
+        "en": "Investors completed due diligence.",
+        "ru": "Инвесторы завершили due diligence."
+      },
+      {
+        "en": "Skip due diligence at your peril.",
+        "ru": "Пропуск due diligence — на свой страх."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "open a req",
+    "lemma": "open a req",
+    "level": "b2",
+    "tr": "открыть заявку на найм",
+    "examples": [
+      {
+        "en": "We opened a req for a designer.",
+        "ru": "Открыли заявку на дизайнера."
+      },
+      {
+        "en": "The req is still open.",
+        "ru": "Заявка всё ещё открыта."
+      },
+      {
+        "en": "Close the req after the offer.",
+        "ru": "Закрой заявку после оффера."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "extend an offer",
+    "lemma": "extend an offer",
+    "level": "b2",
+    "tr": "сделать оффер",
+    "examples": [
+      {
+        "en": "We extended an offer yesterday.",
+        "ru": "Вчера сделали оффер."
+      },
+      {
+        "en": "She extended a competitive offer.",
+        "ru": "Она сделала конкурентоспособный оффер."
+      },
+      {
+        "en": "They extended an offer with relocation.",
+        "ru": "Сделали оффер с релокацией."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "decline an offer",
+    "lemma": "decline an offer",
+    "level": "b1",
+    "tr": "отклонить оффер",
+    "examples": [
+      {
+        "en": "He declined the offer politely.",
+        "ru": "Он вежливо отклонил оффер."
+      },
+      {
+        "en": "She declined for personal reasons.",
+        "ru": "Она отказалась по личным причинам."
+      },
+      {
+        "en": "Don't ghost — decline the offer.",
+        "ru": "Не пропадай — отклони оффер."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "notice period",
+    "lemma": "notice period",
+    "level": "b2",
+    "tr": "срок отработки",
+    "examples": [
+      {
+        "en": "My notice period is two weeks.",
+        "ru": "Срок отработки — две недели."
+      },
+      {
+        "en": "She worked her notice period.",
+        "ru": "Она отработала notice period."
+      },
+      {
+        "en": "Check the notice period in the contract.",
+        "ru": "Проверь notice period в контракте."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "knowledge transfer",
+    "lemma": "knowledge transfer",
+    "level": "b2",
+    "tr": "передача знаний",
+    "examples": [
+      {
+        "en": "Schedule knowledge transfer sessions.",
+        "ru": "Запланируй сессии передачи знаний."
+      },
+      {
+        "en": "KT = knowledge transfer.",
+        "ru": "KT = передача знаний."
+      },
+      {
+        "en": "Poor knowledge transfer hurts teams.",
+        "ru": "Плохая передача знаний бьёт по командам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "all-hands",
+    "lemma": "all-hands",
+    "level": "b2",
+    "tr": "общая встреча компании",
+    "examples": [
+      {
+        "en": "All-hands is at 4 p.m.",
+        "ru": "All-hands в 16:00."
+      },
+      {
+        "en": "The CEO spoke at all-hands.",
+        "ru": "CEO выступил на all-hands."
+      },
+      {
+        "en": "Questions are welcome at all-hands.",
+        "ru": "На all-hands вопросы приветствуются."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "town hall",
+    "lemma": "town hall",
+    "level": "b2",
+    "tr": "открытая встреча с руководством",
+    "examples": [
+      {
+        "en": "Town hall covers strategy.",
+        "ru": "Town hall про стратегию."
+      },
+      {
+        "en": "Ask questions at the town hall.",
+        "ru": "Задавай вопросы на town hall."
+      },
+      {
+        "en": "Recording of the town hall is up.",
+        "ru": "Запись town hall выложена."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "stand-up",
+    "lemma": "stand-up",
+    "level": "b1",
+    "tr": "стендап; ежедневная летучка",
+    "examples": [
+      {
+        "en": "Stand-up is at 10.",
+        "ru": "Стендап в 10."
+      },
+      {
+        "en": "Keep stand-ups under 15 minutes.",
+        "ru": "Держи стендапы короче 15 минут."
+      },
+      {
+        "en": "She missed stand-up yesterday.",
+        "ru": "Вчера она пропустила стендап."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "sprint planning",
+    "lemma": "sprint planning",
+    "level": "b1",
+    "tr": "планирование спринта",
+    "examples": [
+      {
+        "en": "Sprint planning is Monday.",
+        "ru": "Планирование спринта в понедельник."
+      },
+      {
+        "en": "Come prepared to sprint planning.",
+        "ru": "Приходи на планирование готовым."
+      },
+      {
+        "en": "We cut scope in sprint planning.",
+        "ru": "На планировании урезали скоуп."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "backlog grooming",
+    "lemma": "backlog grooming",
+    "level": "b2",
+    "tr": "груминг бэклога",
+    "examples": [
+      {
+        "en": "Backlog grooming is mid-week.",
+        "ru": "Груминг бэклога — в середине недели."
+      },
+      {
+        "en": "Grooming keeps the backlog healthy.",
+        "ru": "Груминг держит бэклог в форме."
+      },
+      {
+        "en": "Join backlog grooming if you can.",
+        "ru": "Подключись к грумингу, если можешь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "user story",
+    "lemma": "user story",
+    "level": "b1",
+    "tr": "пользовательская история",
+    "examples": [
+      {
+        "en": "Write a clear user story.",
+        "ru": "Напиши ясную user story."
+      },
+      {
+        "en": "Each user story needs acceptance criteria.",
+        "ru": "У каждой story нужны acceptance criteria."
+      },
+      {
+        "en": "We split a large user story.",
+        "ru": "Мы разбили большую user story."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "acceptance criteria",
+    "lemma": "acceptance criteria",
+    "level": "b2",
+    "tr": "критерии приёмки",
+    "examples": [
+      {
+        "en": "Define acceptance criteria first.",
+        "ru": "Сначала определи критерии приёмки."
+      },
+      {
+        "en": "The story lacks acceptance criteria.",
+        "ru": "У story нет критериев приёмки."
+      },
+      {
+        "en": "QA tests against acceptance criteria.",
+        "ru": "QA тестирует по критериям приёмки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "definition of done",
+    "lemma": "definition of done",
+    "level": "b2",
+    "tr": "критерии готовности",
+    "examples": [
+      {
+        "en": "Check the definition of done.",
+        "ru": "Проверь definition of done."
+      },
+      {
+        "en": "DoD = definition of done.",
+        "ru": "DoD = критерии готовности."
+      },
+      {
+        "en": "Without DoD, 'done' is fuzzy.",
+        "ru": "Без DoD «готово» размыто."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "ship it",
+    "lemma": "ship it",
+    "level": "b1",
+    "tr": "выкатывай; релизь",
+    "examples": [
+      {
+        "en": "Tests are green — ship it.",
+        "ru": "Тесты зелёные — выкатывай."
+      },
+      {
+        "en": "She said ship it after review.",
+        "ru": "После ревью она сказала ship it."
+      },
+      {
+        "en": "Don't ship it without a rollback plan.",
+        "ru": "Не релизь без плана отката."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "root cause",
+    "lemma": "root cause",
+    "level": "b2",
+    "tr": "корневая причина",
+    "examples": [
+      {
+        "en": "Find the root cause, not symptoms.",
+        "ru": "Ищи корневую причину, не симптомы."
+      },
+      {
+        "en": "Root cause was a bad config.",
+        "ru": "Корневая причина — плохой конфиг."
+      },
+      {
+        "en": "Don't stop at the first root cause guess.",
+        "ru": "Не останавливайся на первой догадке."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "top line",
+    "lemma": "top line",
+    "level": "c1",
+    "tr": "выручка (верхняя строка)",
+    "examples": [
+      {
+        "en": "Top-line growth was strong.",
+        "ru": "Рост выручки был сильным."
+      },
+      {
+        "en": "Focus on top line and margins.",
+        "ru": "Смотри на выручку и маржу."
+      },
+      {
+        "en": "Ads lifted the top line.",
+        "ru": "Реклама подняла выручку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "run rate",
+    "lemma": "run rate",
+    "level": "c1",
+    "tr": "темп / годовая экстраполяция",
+    "examples": [
+      {
+        "en": "Our run rate is $12M.",
+        "ru": "Наш run rate — $12M."
+      },
+      {
+        "en": "Hiring affects the run rate.",
+        "ru": "Найм влияет на run rate."
+      },
+      {
+        "en": "Investors asked about run rate.",
+        "ru": "Инвесторы спросили про run rate."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "burn rate",
+    "lemma": "burn rate",
+    "level": "c1",
+    "tr": "темп сжигания денег",
+    "examples": [
+      {
+        "en": "Watch the burn rate.",
+        "ru": "Следи за burn rate."
+      },
+      {
+        "en": "High burn rate shortens runway.",
+        "ru": "Высокий burn rate укорачивает runway."
+      },
+      {
+        "en": "We cut burn rate last quarter.",
+        "ru": "В прошлом квартале снизили burn rate."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "unit economics",
+    "lemma": "unit economics",
+    "level": "c1",
+    "tr": "юнит-экономика",
+    "examples": [
+      {
+        "en": "Fix unit economics before scaling.",
+        "ru": "Почини юнит-экономику до масштабирования."
+      },
+      {
+        "en": "Unit economics looked healthy.",
+        "ru": "Юнит-экономика выглядела здоровой."
+      },
+      {
+        "en": "Investors probe unit economics.",
+        "ru": "Инвесторы копают юнит-экономику."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "gross margin",
+    "lemma": "gross margin",
+    "level": "c1",
+    "tr": "валовая маржа",
+    "examples": [
+      {
+        "en": "Gross margin improved to 62%.",
+        "ru": "Валовая маржа выросла до 62%."
+      },
+      {
+        "en": "COGS affect gross margin.",
+        "ru": "COGS влияют на валовую маржу."
+      },
+      {
+        "en": "Track gross margin by product.",
+        "ru": "Веди валовую маржу по продуктам."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "net profit",
+    "lemma": "net profit",
+    "level": "b2",
+    "tr": "чистая прибыль",
+    "examples": [
+      {
+        "en": "Net profit rose this year.",
+        "ru": "Чистая прибыль выросла в этом году."
+      },
+      {
+        "en": "After taxes came net profit.",
+        "ru": "После налогов — чистая прибыль."
+      },
+      {
+        "en": "Don't confuse revenue with net profit.",
+        "ru": "Не путай выручку и чистую прибыль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "cash flow",
+    "lemma": "cash flow",
+    "level": "b2",
+    "tr": "денежный поток",
+    "examples": [
+      {
+        "en": "Watch cash flow weekly.",
+        "ru": "Следи за кэшфлоу еженедельно."
+      },
+      {
+        "en": "Positive cash flow funds hiring.",
+        "ru": "Положительный кэшфлоу финансирует найм."
+      },
+      {
+        "en": "Cash-flow problems kill startups.",
+        "ru": "Проблемы с кэшфлоу убивают стартапы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "purchase order",
+    "lemma": "purchase order",
+    "level": "b2",
+    "tr": "заказ на закупку",
+    "examples": [
+      {
+        "en": "Raise a purchase order.",
+        "ru": "Оформи purchase order."
+      },
+      {
+        "en": "PO = purchase order.",
+        "ru": "PO = заказ на закупку."
+      },
+      {
+        "en": "Finance won't pay without a PO.",
+        "ru": "Финансы не оплатят без PO."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "net 30",
+    "lemma": "net 30",
+    "level": "b2",
+    "tr": "оплата в течение 30 дней",
+    "examples": [
+      {
+        "en": "Terms are net 30.",
+        "ru": "Условия — net 30."
+      },
+      {
+        "en": "Vendors prefer net 30 or better.",
+        "ru": "Вендоры предпочитают net 30 или лучше."
+      },
+      {
+        "en": "Net 30 starts from the invoice date.",
+        "ru": "Net 30 считается с даты счёта."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "accounts payable",
+    "lemma": "accounts payable",
+    "level": "c1",
+    "tr": "кредиторская задолженность",
+    "examples": [
+      {
+        "en": "Accounts payable is behind.",
+        "ru": "Кредиторка отстаёт."
+      },
+      {
+        "en": "AP = accounts payable.",
+        "ru": "AP = кредиторская задолженность."
+      },
+      {
+        "en": "She works in accounts payable.",
+        "ru": "Она работает в accounts payable."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "accounts receivable",
+    "lemma": "accounts receivable",
+    "level": "c1",
+    "tr": "дебиторская задолженность",
+    "examples": [
+      {
+        "en": "Chase accounts receivable weekly.",
+        "ru": "Еженедельно тереби дебиторку."
+      },
+      {
+        "en": "AR = accounts receivable.",
+        "ru": "AR = дебиторская задолженность."
+      },
+      {
+        "en": "Slow AR hurts cash flow.",
+        "ru": "Медленная AR бьёт по кэшфлоу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "non-disclosure agreement",
+    "lemma": "non-disclosure agreement",
+    "level": "b2",
+    "tr": "соглашение о неразглашении",
+    "examples": [
+      {
+        "en": "Sign the NDA first.",
+        "ru": "Сначала подпиши NDA."
+      },
+      {
+        "en": "NDA = non-disclosure agreement.",
+        "ru": "NDA = соглашение о неразглашении."
+      },
+      {
+        "en": "Legal sent a mutual NDA.",
+        "ru": "Юристы прислали взаимный NDA."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "statement of work",
+    "lemma": "statement of work",
+    "level": "b2",
+    "tr": "описание работ",
+    "examples": [
+      {
+        "en": "Attach the statement of work.",
+        "ru": "Приложи statement of work."
+      },
+      {
+        "en": "SOW = statement of work.",
+        "ru": "SOW = описание работ."
+      },
+      {
+        "en": "The SOW defines deliverables.",
+        "ru": "SOW определяет deliverables."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "master service agreement",
+    "lemma": "master service agreement",
+    "level": "c1",
+    "tr": "рамочный договор услуг",
+    "examples": [
+      {
+        "en": "Sign the MSA before the SOW.",
+        "ru": "Подпиши MSA до SOW."
+      },
+      {
+        "en": "MSA = master service agreement.",
+        "ru": "MSA = рамочный договор."
+      },
+      {
+        "en": "The MSA sets liability caps.",
+        "ru": "MSA задаёт лимиты ответственности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "service-level agreement",
+    "lemma": "service-level agreement",
+    "level": "b2",
+    "tr": "соглашение об уровне сервиса",
+    "examples": [
+      {
+        "en": "Review the service-level agreement.",
+        "ru": "Просмотри SLA."
+      },
+      {
+        "en": "The SLA defines uptime targets.",
+        "ru": "SLA задаёт цели аптайма."
+      },
+      {
+        "en": "Breach of SLA triggers credits.",
+        "ru": "Нарушение SLA даёт кредиты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "align with stakeholders",
+    "lemma": "align with stakeholders",
+    "level": "b2",
+    "tr": "синхронизироваться со стейкхолдерами",
+    "examples": [
+      {
+        "en": "We should focus on align with stakeholders.",
+        "ru": "Стоит сфокусироваться на: синхронизироваться со стейкхолдерами."
+      },
+      {
+        "en": "Can you clarify align with stakeholders?",
+        "ru": "Уточни, пожалуйста: синхронизироваться со стейкхолдерами."
+      },
+      {
+        "en": "This relates to align with stakeholders.",
+        "ru": "Это связано с: синхронизироваться со стейкхолдерами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "get alignment",
+    "lemma": "get alignment",
+    "level": "b2",
+    "tr": "добиться согласованности",
+    "examples": [
+      {
+        "en": "We should focus on get alignment.",
+        "ru": "Стоит сфокусироваться на: добиться согласованности."
+      },
+      {
+        "en": "Can you clarify get alignment?",
+        "ru": "Уточни, пожалуйста: добиться согласованности."
+      },
+      {
+        "en": "This relates to get alignment.",
+        "ru": "Это связано с: добиться согласованности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "drive consensus",
+    "lemma": "drive consensus",
+    "level": "c1",
+    "tr": "добиться консенсуса",
+    "examples": [
+      {
+        "en": "We should focus on drive consensus.",
+        "ru": "Стоит сфокусироваться на: добиться консенсуса."
+      },
+      {
+        "en": "Can you clarify drive consensus?",
+        "ru": "Уточни, пожалуйста: добиться консенсуса."
+      },
+      {
+        "en": "This relates to drive consensus.",
+        "ru": "Это связано с: добиться консенсуса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach alignment",
+    "lemma": "reach alignment",
+    "level": "b2",
+    "tr": "достичь согласованности",
+    "examples": [
+      {
+        "en": "We should focus on reach alignment.",
+        "ru": "Стоит сфокусироваться на: достичь согласованности."
+      },
+      {
+        "en": "Can you clarify reach alignment?",
+        "ru": "Уточни, пожалуйста: достичь согласованности."
+      },
+      {
+        "en": "This relates to reach alignment.",
+        "ru": "Это связано с: достичь согласованности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "share the screen",
+    "lemma": "share the screen",
+    "level": "b1",
+    "tr": "демонстрировать экран",
+    "examples": [
+      {
+        "en": "We should focus on share the screen.",
+        "ru": "Стоит сфокусироваться на: демонстрировать экран."
+      },
+      {
+        "en": "Can you clarify share the screen?",
+        "ru": "Уточни, пожалуйста: демонстрировать экран."
+      },
+      {
+        "en": "This relates to share the screen.",
+        "ru": "Это связано с: демонстрировать экран."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "mute yourself",
+    "lemma": "mute yourself",
+    "level": "b1",
+    "tr": "выключить микрофон",
+    "examples": [
+      {
+        "en": "We should focus on mute yourself.",
+        "ru": "Стоит сфокусироваться на: выключить микрофон."
+      },
+      {
+        "en": "Can you clarify mute yourself?",
+        "ru": "Уточни, пожалуйста: выключить микрофон."
+      },
+      {
+        "en": "This relates to mute yourself.",
+        "ru": "Это связано с: выключить микрофон."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "unmute yourself",
+    "lemma": "unmute yourself",
+    "level": "b1",
+    "tr": "включить микрофон",
+    "examples": [
+      {
+        "en": "We should focus on unmute yourself.",
+        "ru": "Стоит сфокусироваться на: включить микрофон."
+      },
+      {
+        "en": "Can you clarify unmute yourself?",
+        "ru": "Уточни, пожалуйста: включить микрофон."
+      },
+      {
+        "en": "This relates to unmute yourself.",
+        "ru": "Это связано с: включить микрофон."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn on camera",
+    "lemma": "turn on camera",
+    "level": "b1",
+    "tr": "включить камеру",
+    "examples": [
+      {
+        "en": "We should focus on turn on camera.",
+        "ru": "Стоит сфокусироваться на: включить камеру."
+      },
+      {
+        "en": "Can you clarify turn on camera?",
+        "ru": "Уточни, пожалуйста: включить камеру."
+      },
+      {
+        "en": "This relates to turn on camera.",
+        "ru": "Это связано с: включить камеру."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "drop off a call",
+    "lemma": "drop off a call",
+    "level": "b2",
+    "tr": "отключиться от звонка",
+    "examples": [
+      {
+        "en": "We should focus on drop off a call.",
+        "ru": "Стоит сфокусироваться на: отключиться от звонка."
+      },
+      {
+        "en": "Can you clarify drop off a call?",
+        "ru": "Уточни, пожалуйста: отключиться от звонка."
+      },
+      {
+        "en": "This relates to drop off a call.",
+        "ru": "Это связано с: отключиться от звонка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "jump on a call",
+    "lemma": "jump on a call",
+    "level": "b1",
+    "tr": "подключиться к звонку",
+    "examples": [
+      {
+        "en": "We should focus on jump on a call.",
+        "ru": "Стоит сфокусироваться на: подключиться к звонку."
+      },
+      {
+        "en": "Can you clarify jump on a call?",
+        "ru": "Уточни, пожалуйста: подключиться к звонку."
+      },
+      {
+        "en": "This relates to jump on a call.",
+        "ru": "Это связано с: подключиться к звонку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "dial in",
+    "lemma": "dial in",
+    "level": "b1",
+    "tr": "дозвониться / подключиться",
+    "examples": [
+      {
+        "en": "We should focus on dial in.",
+        "ru": "Стоит сфокусироваться на: дозвониться / подключиться."
+      },
+      {
+        "en": "Can you clarify dial in?",
+        "ru": "Уточни, пожалуйста: дозвониться / подключиться."
+      },
+      {
+        "en": "This relates to dial in.",
+        "ru": "Это связано с: дозвониться / подключиться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "screen share",
+    "lemma": "screen share",
+    "level": "b1",
+    "tr": "шаринг экрана",
+    "examples": [
+      {
+        "en": "We should focus on screen share.",
+        "ru": "Стоит сфокусироваться на: шаринг экрана."
+      },
+      {
+        "en": "Can you clarify screen share?",
+        "ru": "Уточни, пожалуйста: шаринг экрана."
+      },
+      {
+        "en": "This relates to screen share.",
+        "ru": "Это связано с: шаринг экрана."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "take it offline",
+    "lemma": "take it offline",
+    "level": "b2",
+    "tr": "вынести из общего созвона",
+    "examples": [
+      {
+        "en": "We should focus on take it offline.",
+        "ru": "Стоит сфокусироваться на: вынести из общего созвона."
+      },
+      {
+        "en": "Can you clarify take it offline?",
+        "ru": "Уточни, пожалуйста: вынести из общего созвона."
+      },
+      {
+        "en": "This relates to take it offline.",
+        "ru": "Это связано с: вынести из общего созвона."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "table a discussion",
+    "lemma": "table a discussion",
+    "level": "c1",
+    "tr": "отложить обсуждение",
+    "examples": [
+      {
+        "en": "We should focus on table a discussion.",
+        "ru": "Стоит сфокусироваться на: отложить обсуждение."
+      },
+      {
+        "en": "Can you clarify table a discussion?",
+        "ru": "Уточни, пожалуйста: отложить обсуждение."
+      },
+      {
+        "en": "This relates to table a discussion.",
+        "ru": "Это связано с: отложить обсуждение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "business collocation",
+    "pos": "collocation"
+  }
+]

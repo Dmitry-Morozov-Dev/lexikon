@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "pass judgment",
+    "lemma": "pass judgment",
+    "level": "c1",
+    "tr": "выносить суждение",
+    "examples": [
+      {
+        "en": "We need to pass judgment.",
+        "ru": "Нам нужно выносить суждение."
+      },
+      {
+        "en": "She managed to pass judgment.",
+        "ru": "Ей удалось выносить суждение."
+      },
+      {
+        "en": "They decided to pass judgment.",
+        "ru": "Они решили выносить суждение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pave the way",
+    "lemma": "pave the way",
+    "level": "b2",
+    "tr": "проложить путь",
+    "examples": [
+      {
+        "en": "We need to pave the way.",
+        "ru": "Нам нужно проложить путь."
+      },
+      {
+        "en": "She managed to pave the way.",
+        "ru": "Ей удалось проложить путь."
+      },
+      {
+        "en": "They decided to pave the way.",
+        "ru": "Они решили проложить путь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay a fine",
+    "lemma": "pay a fine",
+    "level": "b1",
+    "tr": "заплатить штраф",
+    "examples": [
+      {
+        "en": "We need to pay a fine.",
+        "ru": "Нам нужно заплатить штраф."
+      },
+      {
+        "en": "She managed to pay a fine.",
+        "ru": "Ей удалось заплатить штраф."
+      },
+      {
+        "en": "They decided to pay a fine.",
+        "ru": "Они решили заплатить штраф."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pick a fight",
+    "lemma": "pick a fight",
+    "level": "b2",
+    "tr": "лезть в конфликт",
+    "examples": [
+      {
+        "en": "We need to pick a fight.",
+        "ru": "Нам нужно лезть в конфликт."
+      },
+      {
+        "en": "She managed to pick a fight.",
+        "ru": "Ей удалось лезть в конфликт."
+      },
+      {
+        "en": "They decided to pick a fight.",
+        "ru": "Они решили лезть в конфликт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pick up the bill",
+    "lemma": "pick up the bill",
+    "level": "b2",
+    "tr": "оплатить счёт",
+    "examples": [
+      {
+        "en": "We need to pick up the bill.",
+        "ru": "Нам нужно оплатить счёт."
+      },
+      {
+        "en": "She managed to pick up the bill.",
+        "ru": "Ей удалось оплатить счёт."
+      },
+      {
+        "en": "They decided to pick up the bill.",
+        "ru": "Они решили оплатить счёт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "play a part",
+    "lemma": "play a part",
+    "level": "b1",
+    "tr": "играть роль; участвовать",
+    "examples": [
+      {
+        "en": "We need to play a part.",
+        "ru": "Нам нужно играть роль; участвовать."
+      },
+      {
+        "en": "She managed to play a part.",
+        "ru": "Ей удалось играть роль; участвовать."
+      },
+      {
+        "en": "They decided to play a part.",
+        "ru": "Они решили играть роль; участвовать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a threat",
+    "lemma": "pose a threat",
+    "level": "b2",
+    "tr": "представлять угрозу",
+    "examples": [
+      {
+        "en": "The malware poses a threat.",
+        "ru": "Вредонос представляет угрозу."
+      },
+      {
+        "en": "Rising costs pose a threat to margins.",
+        "ru": "Рост затрат угрожает марже."
+      },
+      {
+        "en": "Does this pose a threat to privacy?",
+        "ru": "Это угрожает приватности?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a question",
+    "lemma": "pose a question",
+    "level": "b2",
+    "tr": "задать вопрос",
+    "examples": [
+      {
+        "en": "This could pose a question.",
+        "ru": "Это может задать вопрос."
+      },
+      {
+        "en": "Rising costs pose a question.",
+        "ru": "Рост затрат задать вопрос."
+      },
+      {
+        "en": "Does outdated code pose a question?",
+        "ru": "Устаревший код задать вопрос?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a risk",
+    "lemma": "pose a risk",
+    "level": "b2",
+    "tr": "представлять риск",
+    "examples": [
+      {
+        "en": "Skipping QA poses a risk.",
+        "ru": "Пропуск QA — это риск."
+      },
+      {
+        "en": "The shortcut poses a risk.",
+        "ru": "Этот шорткат несёт риск."
+      },
+      {
+        "en": "Outdated libs pose a security risk.",
+        "ru": "Устаревшие библиотеки — риск безопасности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pull one's weight",
+    "lemma": "pull one's weight",
+    "level": "b2",
+    "tr": "вносить свою долю труда",
+    "examples": [
+      {
+        "en": "We need to pull one's weight.",
+        "ru": "Нам нужно вносить свою долю труда."
+      },
+      {
+        "en": "She managed to pull one's weight.",
+        "ru": "Ей удалось вносить свою долю труда."
+      },
+      {
+        "en": "They decided to pull one's weight.",
+        "ru": "Они решили вносить свою долю труда."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put a stop to",
+    "lemma": "put a stop to",
+    "level": "b2",
+    "tr": "прекратить",
+    "examples": [
+      {
+        "en": "We need to put a stop to.",
+        "ru": "Нам нужно прекратить."
+      },
+      {
+        "en": "She managed to put a stop to.",
+        "ru": "Ей удалось прекратить."
+      },
+      {
+        "en": "They decided to put a stop to.",
+        "ru": "Они решили прекратить."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put faith in",
+    "lemma": "put faith in",
+    "level": "b2",
+    "tr": "доверять; возлагать надежды",
+    "examples": [
+      {
+        "en": "We need to put faith in.",
+        "ru": "Нам нужно доверять; возлагать надежды."
+      },
+      {
+        "en": "She managed to put faith in.",
+        "ru": "Ей удалось доверять; возлагать надежды."
+      },
+      {
+        "en": "They decided to put faith in.",
+        "ru": "Они решили доверять; возлагать надежды."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a conclusion",
+    "lemma": "reach a conclusion",
+    "level": "b1",
+    "tr": "прийти к выводу",
+    "examples": [
+      {
+        "en": "We need to reach a conclusion.",
+        "ru": "Нам нужно прийти к выводу."
+      },
+      {
+        "en": "She managed to reach a conclusion.",
+        "ru": "Ей удалось прийти к выводу."
+      },
+      {
+        "en": "They decided to reach a conclusion.",
+        "ru": "Они решили прийти к выводу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a compromise",
+    "lemma": "reach a compromise",
+    "level": "b2",
+    "tr": "достичь компромисса",
+    "examples": [
+      {
+        "en": "We need to reach a compromise.",
+        "ru": "Нам нужно достичь компромисса."
+      },
+      {
+        "en": "She managed to reach a compromise.",
+        "ru": "Ей удалось достичь компромисса."
+      },
+      {
+        "en": "They decided to reach a compromise.",
+        "ru": "Они решили достичь компромисса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach an agreement",
+    "lemma": "reach an agreement",
+    "level": "b1",
+    "tr": "достичь соглашения",
+    "examples": [
+      {
+        "en": "We need to reach an agreement.",
+        "ru": "Нам нужно достичь соглашения."
+      },
+      {
+        "en": "She managed to reach an agreement.",
+        "ru": "Ей удалось достичь соглашения."
+      },
+      {
+        "en": "They decided to reach an agreement.",
+        "ru": "Они решили достичь соглашения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a consensus",
+    "lemma": "reach a consensus",
+    "level": "b2",
+    "tr": "достичь консенсуса",
+    "examples": [
+      {
+        "en": "We need to reach a consensus.",
+        "ru": "Нам нужно достичь консенсуса."
+      },
+      {
+        "en": "She managed to reach a consensus.",
+        "ru": "Ей удалось достичь консенсуса."
+      },
+      {
+        "en": "They decided to reach a consensus.",
+        "ru": "Они решили достичь консенсуса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a peak",
+    "lemma": "reach a peak",
+    "level": "b2",
+    "tr": "достичь пика",
+    "examples": [
+      {
+        "en": "We need to reach a peak.",
+        "ru": "Нам нужно достичь пика."
+      },
+      {
+        "en": "She managed to reach a peak.",
+        "ru": "Ей удалось достичь пика."
+      },
+      {
+        "en": "They decided to reach a peak.",
+        "ru": "Они решили достичь пика."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach out",
+    "lemma": "reach out",
+    "level": "b1",
+    "tr": "выйти на связь",
+    "examples": [
+      {
+        "en": "Reach out if you need help.",
+        "ru": "Напиши, если нужна помощь."
+      },
+      {
+        "en": "I'll reach out to the vendor.",
+        "ru": "Я свяжусь с поставщиком."
+      },
+      {
+        "en": "She reached out after the meetup.",
+        "ru": "Она вышла на связь после митапа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "receive feedback",
+    "lemma": "receive feedback",
+    "level": "b1",
+    "tr": "получить обратную связь",
+    "examples": [
+      {
+        "en": "We need to receive feedback.",
+        "ru": "Нам нужно получить обратную связь."
+      },
+      {
+        "en": "She managed to receive feedback.",
+        "ru": "Ей удалось получить обратную связь."
+      },
+      {
+        "en": "They decided to receive feedback.",
+        "ru": "Они решили получить обратную связь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "receive support",
+    "lemma": "receive support",
+    "level": "b1",
+    "tr": "получить поддержку",
+    "examples": [
+      {
+        "en": "We need to receive support.",
+        "ru": "Нам нужно получить поддержку."
+      },
+      {
+        "en": "She managed to receive support.",
+        "ru": "Ей удалось получить поддержку."
+      },
+      {
+        "en": "They decided to receive support.",
+        "ru": "Они решили получить поддержку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reduce costs",
+    "lemma": "reduce costs",
+    "level": "b1",
+    "tr": "снижать затраты",
+    "examples": [
+      {
+        "en": "We need to reduce costs.",
+        "ru": "Нам нужно снижать затраты."
+      },
+      {
+        "en": "She managed to reduce costs.",
+        "ru": "Ей удалось снижать затраты."
+      },
+      {
+        "en": "They decided to reduce costs.",
+        "ru": "Они решили снижать затраты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reduce risk",
+    "lemma": "reduce risk",
+    "level": "b1",
+    "tr": "снижать риск",
+    "examples": [
+      {
+        "en": "We need to reduce risk.",
+        "ru": "Нам нужно снижать риск."
+      },
+      {
+        "en": "She managed to reduce risk.",
+        "ru": "Ей удалось снижать риск."
+      },
+      {
+        "en": "They decided to reduce risk.",
+        "ru": "Они решили снижать риск."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "regain control",
+    "lemma": "regain control",
+    "level": "b2",
+    "tr": "вернуть контроль",
+    "examples": [
+      {
+        "en": "We need to regain control.",
+        "ru": "Нам нужно вернуть контроль."
+      },
+      {
+        "en": "She managed to regain control.",
+        "ru": "Ей удалось вернуть контроль."
+      },
+      {
+        "en": "They decided to regain control.",
+        "ru": "Они решили вернуть контроль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "regain confidence",
+    "lemma": "regain confidence",
+    "level": "b2",
+    "tr": "вернуть уверенность",
+    "examples": [
+      {
+        "en": "We need to regain confidence.",
+        "ru": "Нам нужно вернуть уверенность."
+      },
+      {
+        "en": "She managed to regain confidence.",
+        "ru": "Ей удалось вернуть уверенность."
+      },
+      {
+        "en": "They decided to regain confidence.",
+        "ru": "Они решили вернуть уверенность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "reject an offer",
+    "lemma": "reject an offer",
+    "level": "b1",
+    "tr": "отклонить предложение",
+    "examples": [
+      {
+        "en": "We need to reject an offer.",
+        "ru": "Нам нужно отклонить предложение."
+      },
+      {
+        "en": "She managed to reject an offer.",
+        "ru": "Ей удалось отклонить предложение."
+      },
+      {
+        "en": "They decided to reject an offer.",
+        "ru": "Они решили отклонить предложение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "resolve a conflict",
+    "lemma": "resolve a conflict",
+    "level": "b1",
+    "tr": "разрешить конфликт",
+    "examples": [
+      {
+        "en": "We need to resolve a conflict.",
+        "ru": "Нам нужно разрешить конфликт."
+      },
+      {
+        "en": "She managed to resolve a conflict.",
+        "ru": "Ей удалось разрешить конфликт."
+      },
+      {
+        "en": "They decided to resolve a conflict.",
+        "ru": "Они решили разрешить конфликт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "resolve a dispute",
+    "lemma": "resolve a dispute",
+    "level": "b2",
+    "tr": "урегулировать спор",
+    "examples": [
+      {
+        "en": "We need to resolve a dispute.",
+        "ru": "Нам нужно урегулировать спор."
+      },
+      {
+        "en": "She managed to resolve a dispute.",
+        "ru": "Ей удалось урегулировать спор."
+      },
+      {
+        "en": "They decided to resolve a dispute.",
+        "ru": "Они решили урегулировать спор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "restore order",
+    "lemma": "restore order",
+    "level": "b2",
+    "tr": "восстановить порядок",
+    "examples": [
+      {
+        "en": "We need to restore order.",
+        "ru": "Нам нужно восстановить порядок."
+      },
+      {
+        "en": "She managed to restore order.",
+        "ru": "Ей удалось восстановить порядок."
+      },
+      {
+        "en": "They decided to restore order.",
+        "ru": "Они решили восстановить порядок."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "restore confidence",
+    "lemma": "restore confidence",
+    "level": "b2",
+    "tr": "восстановить доверие",
+    "examples": [
+      {
+        "en": "We need to restore confidence.",
+        "ru": "Нам нужно восстановить доверие."
+      },
+      {
+        "en": "She managed to restore confidence.",
+        "ru": "Ей удалось восстановить доверие."
+      },
+      {
+        "en": "They decided to restore confidence.",
+        "ru": "Они решили восстановить доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "return a favor",
+    "lemma": "return a favor",
+    "level": "b1",
+    "tr": "отплатить услугой",
+    "examples": [
+      {
+        "en": "We need to return a favor.",
+        "ru": "Нам нужно отплатить услугой."
+      },
+      {
+        "en": "She managed to return a favor.",
+        "ru": "Ей удалось отплатить услугой."
+      },
+      {
+        "en": "They decided to return a favor.",
+        "ru": "Они решили отплатить услугой."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "risk one's life",
+    "lemma": "risk one's life",
+    "level": "b2",
+    "tr": "рисковать жизнью",
+    "examples": [
+      {
+        "en": "We need to risk one's life.",
+        "ru": "Нам нужно рисковать жизнью."
+      },
+      {
+        "en": "She managed to risk one's life.",
+        "ru": "Ей удалось рисковать жизнью."
+      },
+      {
+        "en": "They decided to risk one's life.",
+        "ru": "Они решили рисковать жизнью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "roll out a product",
+    "lemma": "roll out a product",
+    "level": "b2",
+    "tr": "выкатить продукт",
+    "examples": [
+      {
+        "en": "We need to roll out a product.",
+        "ru": "Нам нужно выкатить продукт."
+      },
+      {
+        "en": "She managed to roll out a product.",
+        "ru": "Ей удалось выкатить продукт."
+      },
+      {
+        "en": "They decided to roll out a product.",
+        "ru": "Они решили выкатить продукт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "run an errand",
+    "lemma": "run an errand",
+    "level": "b1",
+    "tr": "сходить по делу",
+    "examples": [
+      {
+        "en": "We need to run an errand.",
+        "ru": "Нам нужно сходить по делу."
+      },
+      {
+        "en": "She managed to run an errand.",
+        "ru": "Ей удалось сходить по делу."
+      },
+      {
+        "en": "They decided to run an errand.",
+        "ru": "Они решили сходить по делу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "run for office",
+    "lemma": "run for office",
+    "level": "b2",
+    "tr": "баллотироваться",
+    "examples": [
+      {
+        "en": "We need to run for office.",
+        "ru": "Нам нужно баллотироваться."
+      },
+      {
+        "en": "She managed to run for office.",
+        "ru": "Ей удалось баллотироваться."
+      },
+      {
+        "en": "They decided to run for office.",
+        "ru": "Они решили баллотироваться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "save the day",
+    "lemma": "save the day",
+    "level": "b2",
+    "tr": "спасти положение",
+    "examples": [
+      {
+        "en": "We need to save the day.",
+        "ru": "Нам нужно спасти положение."
+      },
+      {
+        "en": "She managed to save the day.",
+        "ru": "Ей удалось спасти положение."
+      },
+      {
+        "en": "They decided to save the day.",
+        "ru": "Они решили спасти положение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "say goodbye",
+    "lemma": "say goodbye",
+    "level": "b1",
+    "tr": "попрощаться",
+    "examples": [
+      {
+        "en": "We need to say goodbye.",
+        "ru": "Нам нужно попрощаться."
+      },
+      {
+        "en": "She managed to say goodbye.",
+        "ru": "Ей удалось попрощаться."
+      },
+      {
+        "en": "They decided to say goodbye.",
+        "ru": "Они решили попрощаться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "seal a deal",
+    "lemma": "seal a deal",
+    "level": "b2",
+    "tr": "заверить сделку",
+    "examples": [
+      {
+        "en": "We need to seal a deal.",
+        "ru": "Нам нужно заверить сделку."
+      },
+      {
+        "en": "She managed to seal a deal.",
+        "ru": "Ей удалось заверить сделку."
+      },
+      {
+        "en": "They decided to seal a deal.",
+        "ru": "Они решили заверить сделку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "seek advice",
+    "lemma": "seek advice",
+    "level": "b1",
+    "tr": "искать совета",
+    "examples": [
+      {
+        "en": "We need to seek advice.",
+        "ru": "Нам нужно искать совета."
+      },
+      {
+        "en": "She managed to seek advice.",
+        "ru": "Ей удалось искать совета."
+      },
+      {
+        "en": "They decided to seek advice.",
+        "ru": "Они решили искать совета."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "seek help",
+    "lemma": "seek help",
+    "level": "b1",
+    "tr": "искать помощи",
+    "examples": [
+      {
+        "en": "We need to seek help.",
+        "ru": "Нам нужно искать помощи."
+      },
+      {
+        "en": "She managed to seek help.",
+        "ru": "Ей удалось искать помощи."
+      },
+      {
+        "en": "They decided to seek help.",
+        "ru": "Они решили искать помощи."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "seek permission",
+    "lemma": "seek permission",
+    "level": "b2",
+    "tr": "просить разрешения",
+    "examples": [
+      {
+        "en": "We need to seek permission.",
+        "ru": "Нам нужно просить разрешения."
+      },
+      {
+        "en": "She managed to seek permission.",
+        "ru": "Ей удалось просить разрешения."
+      },
+      {
+        "en": "They decided to seek permission.",
+        "ru": "Они решили просить разрешения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "seize an opportunity",
+    "lemma": "seize an opportunity",
+    "level": "b2",
+    "tr": "ухватиться за возможность",
+    "examples": [
+      {
+        "en": "We need to seize an opportunity.",
+        "ru": "Нам нужно ухватиться за возможность."
+      },
+      {
+        "en": "They decided to seize an opportunity.",
+        "ru": "Они решили ухватиться за возможность."
+      },
+      {
+        "en": "Try to seize an opportunity carefully.",
+        "ru": "Постарайся аккуратно ухватиться за возможность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "send a message",
+    "lemma": "send a message",
+    "level": "b1",
+    "tr": "отправить сообщение",
+    "examples": [
+      {
+        "en": "We need to send a message.",
+        "ru": "Нам нужно отправить сообщение."
+      },
+      {
+        "en": "She managed to send a message.",
+        "ru": "Ей удалось отправить сообщение."
+      },
+      {
+        "en": "They decided to send a message.",
+        "ru": "Они решили отправить сообщение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "serve a purpose",
+    "lemma": "serve a purpose",
+    "level": "b2",
+    "tr": "служить цели",
+    "examples": [
+      {
+        "en": "We need to serve a purpose.",
+        "ru": "Нам нужно служить цели."
+      },
+      {
+        "en": "She managed to serve a purpose.",
+        "ru": "Ей удалось служить цели."
+      },
+      {
+        "en": "They decided to serve a purpose.",
+        "ru": "Они решили служить цели."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a record",
+    "lemma": "set a record",
+    "level": "b1",
+    "tr": "установить рекорд",
+    "examples": [
+      {
+        "en": "We need to set a record.",
+        "ru": "Нам нужно установить рекорд."
+      },
+      {
+        "en": "She managed to set a record.",
+        "ru": "Ей удалось установить рекорд."
+      },
+      {
+        "en": "They decided to set a record.",
+        "ru": "Они решили установить рекорд."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a trap",
+    "lemma": "set a trap",
+    "level": "b2",
+    "tr": "поставить ловушку",
+    "examples": [
+      {
+        "en": "We need to set a trap.",
+        "ru": "Нам нужно поставить ловушку."
+      },
+      {
+        "en": "She managed to set a trap.",
+        "ru": "Ей удалось поставить ловушку."
+      },
+      {
+        "en": "They decided to set a trap.",
+        "ru": "Они решили поставить ловушку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set aside time",
+    "lemma": "set aside time",
+    "level": "b1",
+    "tr": "выделить время",
+    "examples": [
+      {
+        "en": "We need to set aside time.",
+        "ru": "Нам нужно выделить время."
+      },
+      {
+        "en": "She managed to set aside time.",
+        "ru": "Ей удалось выделить время."
+      },
+      {
+        "en": "They decided to set aside time.",
+        "ru": "Они решили выделить время."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "settle a dispute",
+    "lemma": "settle a dispute",
+    "level": "b2",
+    "tr": "урегулировать спор",
+    "examples": [
+      {
+        "en": "We need to settle a dispute.",
+        "ru": "Нам нужно урегулировать спор."
+      },
+      {
+        "en": "She managed to settle a dispute.",
+        "ru": "Ей удалось урегулировать спор."
+      },
+      {
+        "en": "They decided to settle a dispute.",
+        "ru": "Они решили урегулировать спор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "settle differences",
+    "lemma": "settle differences",
+    "level": "b2",
+    "tr": "уладить разногласия",
+    "examples": [
+      {
+        "en": "We need to settle differences.",
+        "ru": "Нам нужно уладить разногласия."
+      },
+      {
+        "en": "She managed to settle differences.",
+        "ru": "Ей удалось уладить разногласия."
+      },
+      {
+        "en": "They decided to settle differences.",
+        "ru": "Они решили уладить разногласия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "shake hands",
+    "lemma": "shake hands",
+    "level": "b1",
+    "tr": "пожать руки",
+    "examples": [
+      {
+        "en": "We need to shake hands.",
+        "ru": "Нам нужно пожать руки."
+      },
+      {
+        "en": "She managed to shake hands.",
+        "ru": "Ей удалось пожать руки."
+      },
+      {
+        "en": "They decided to shake hands.",
+        "ru": "Они решили пожать руки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "share a concern",
+    "lemma": "share a concern",
+    "level": "b2",
+    "tr": "поделиться обеспокоенностью",
+    "examples": [
+      {
+        "en": "We need to share a concern.",
+        "ru": "Нам нужно поделиться обеспокоенностью."
+      },
+      {
+        "en": "She managed to share a concern.",
+        "ru": "Ей удалось поделиться обеспокоенностью."
+      },
+      {
+        "en": "They decided to share a concern.",
+        "ru": "Они решили поделиться обеспокоенностью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "share an opinion",
+    "lemma": "share an opinion",
+    "level": "b1",
+    "tr": "поделиться мнением",
+    "examples": [
+      {
+        "en": "We need to share an opinion.",
+        "ru": "Нам нужно поделиться мнением."
+      },
+      {
+        "en": "She managed to share an opinion.",
+        "ru": "Ей удалось поделиться мнением."
+      },
+      {
+        "en": "They decided to share an opinion.",
+        "ru": "Они решили поделиться мнением."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "shed light",
+    "lemma": "shed light",
+    "level": "b2",
+    "tr": "пролить свет",
+    "examples": [
+      {
+        "en": "The logs shed light on the bug.",
+        "ru": "Логи пролили свет на баг."
+      },
+      {
+        "en": "Can you shed light on this?",
+        "ru": "Можешь пролить свет на это?"
+      },
+      {
+        "en": "New documents shed light on the deal.",
+        "ru": "Новые документы пролили свет на сделку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "shift blame",
+    "lemma": "shift blame",
+    "level": "b2",
+    "tr": "перекладывать вину",
+    "examples": [
+      {
+        "en": "We need to shift blame.",
+        "ru": "Нам нужно перекладывать вину."
+      },
+      {
+        "en": "She managed to shift blame.",
+        "ru": "Ей удалось перекладывать вину."
+      },
+      {
+        "en": "They decided to shift blame.",
+        "ru": "Они решили перекладывать вину."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "shift focus",
+    "lemma": "shift focus",
+    "level": "b2",
+    "tr": "сместить фокус",
+    "examples": [
+      {
+        "en": "We need to shift focus.",
+        "ru": "Нам нужно сместить фокус."
+      },
+      {
+        "en": "She managed to shift focus.",
+        "ru": "Ей удалось сместить фокус."
+      },
+      {
+        "en": "They decided to shift focus.",
+        "ru": "Они решили сместить фокус."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "show appreciation",
+    "lemma": "show appreciation",
+    "level": "b2",
+    "tr": "проявить признательность",
+    "examples": [
+      {
+        "en": "We need to show appreciation.",
+        "ru": "Нам нужно проявить признательность."
+      },
+      {
+        "en": "She managed to show appreciation.",
+        "ru": "Ей удалось проявить признательность."
+      },
+      {
+        "en": "They decided to show appreciation.",
+        "ru": "Они решили проявить признательность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "show interest",
+    "lemma": "show interest",
+    "level": "b1",
+    "tr": "проявить интерес",
+    "examples": [
+      {
+        "en": "We need to show interest.",
+        "ru": "Нам нужно проявить интерес."
+      },
+      {
+        "en": "She managed to show interest.",
+        "ru": "Ей удалось проявить интерес."
+      },
+      {
+        "en": "They decided to show interest.",
+        "ru": "Они решили проявить интерес."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "show respect",
+    "lemma": "show respect",
+    "level": "b1",
+    "tr": "проявить уважение",
+    "examples": [
+      {
+        "en": "We need to show respect.",
+        "ru": "Нам нужно проявить уважение."
+      },
+      {
+        "en": "She managed to show respect.",
+        "ru": "Ей удалось проявить уважение."
+      },
+      {
+        "en": "They decided to show respect.",
+        "ru": "Они решили проявить уважение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "show support",
+    "lemma": "show support",
+    "level": "b1",
+    "tr": "проявить поддержку",
+    "examples": [
+      {
+        "en": "We need to show support.",
+        "ru": "Нам нужно проявить поддержку."
+      },
+      {
+        "en": "She managed to show support.",
+        "ru": "Ей удалось проявить поддержку."
+      },
+      {
+        "en": "They decided to show support.",
+        "ru": "Они решили проявить поддержку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "sign a contract",
+    "lemma": "sign a contract",
+    "level": "b1",
+    "tr": "подписать контракт",
+    "examples": [
+      {
+        "en": "We need to sign a contract.",
+        "ru": "Нам нужно подписать контракт."
+      },
+      {
+        "en": "She managed to sign a contract.",
+        "ru": "Ей удалось подписать контракт."
+      },
+      {
+        "en": "They decided to sign a contract.",
+        "ru": "Они решили подписать контракт."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "sign an agreement",
+    "lemma": "sign an agreement",
+    "level": "b1",
+    "tr": "подписать соглашение",
+    "examples": [
+      {
+        "en": "We need to sign an agreement.",
+        "ru": "Нам нужно подписать соглашение."
+      },
+      {
+        "en": "She managed to sign an agreement.",
+        "ru": "Ей удалось подписать соглашение."
+      },
+      {
+        "en": "They decided to sign an agreement.",
+        "ru": "Они решили подписать соглашение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "solve a problem",
+    "lemma": "solve a problem",
+    "level": "b1",
+    "tr": "решить проблему",
+    "examples": [
+      {
+        "en": "We need to solve a problem.",
+        "ru": "Нам нужно решить проблему."
+      },
+      {
+        "en": "She managed to solve a problem.",
+        "ru": "Ей удалось решить проблему."
+      },
+      {
+        "en": "They decided to solve a problem.",
+        "ru": "Они решили решить проблему."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "solve a puzzle",
+    "lemma": "solve a puzzle",
+    "level": "b1",
+    "tr": "разгадать головоломку",
+    "examples": [
+      {
+        "en": "We need to solve a puzzle.",
+        "ru": "Нам нужно разгадать головоломку."
+      },
+      {
+        "en": "She managed to solve a puzzle.",
+        "ru": "Ей удалось разгадать головоломку."
+      },
+      {
+        "en": "They decided to solve a puzzle.",
+        "ru": "Они решили разгадать головоломку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "spare time",
+    "lemma": "spare time",
+    "level": "b1",
+    "tr": "уделить время",
+    "examples": [
+      {
+        "en": "We need to spare time.",
+        "ru": "Нам нужно уделить время."
+      },
+      {
+        "en": "She managed to spare time.",
+        "ru": "Ей удалось уделить время."
+      },
+      {
+        "en": "They decided to spare time.",
+        "ru": "Они решили уделить время."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "spread the word",
+    "lemma": "spread the word",
+    "level": "b1",
+    "tr": "распространить информацию",
+    "examples": [
+      {
+        "en": "We need to spread the word.",
+        "ru": "Нам нужно распространить информацию."
+      },
+      {
+        "en": "She managed to spread the word.",
+        "ru": "Ей удалось распространить информацию."
+      },
+      {
+        "en": "They decided to spread the word.",
+        "ru": "Они решили распространить информацию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "stand a chance",
+    "lemma": "stand a chance",
+    "level": "b2",
+    "tr": "иметь шанс",
+    "examples": [
+      {
+        "en": "Do we stand a chance?",
+        "ru": "У нас есть шанс?"
+      },
+      {
+        "en": "Without practice you don't stand a chance.",
+        "ru": "Без практики шансов нет."
+      },
+      {
+        "en": "She still stands a chance of winning.",
+        "ru": "У неё ещё есть шанс победить."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "stick to a plan",
+    "lemma": "stick to a plan",
+    "level": "b1",
+    "tr": "придерживаться плана",
+    "examples": [
+      {
+        "en": "We need to stick to a plan.",
+        "ru": "Нам нужно придерживаться плана."
+      },
+      {
+        "en": "She managed to stick to a plan.",
+        "ru": "Ей удалось придерживаться плана."
+      },
+      {
+        "en": "They decided to stick to a plan.",
+        "ru": "Они решили придерживаться плана."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "stick to a budget",
+    "lemma": "stick to a budget",
+    "level": "b1",
+    "tr": "укладываться в бюджет",
+    "examples": [
+      {
+        "en": "We need to stick to a budget.",
+        "ru": "Нам нужно укладываться в бюджет."
+      },
+      {
+        "en": "She managed to stick to a budget.",
+        "ru": "Ей удалось укладываться в бюджет."
+      },
+      {
+        "en": "They decided to stick to a budget.",
+        "ru": "Они решили укладываться в бюджет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "strike a balance",
+    "lemma": "strike a balance",
+    "level": "b2",
+    "tr": "найти баланс",
+    "examples": [
+      {
+        "en": "We need to strike a balance.",
+        "ru": "Нам нужно найти баланс."
+      },
+      {
+        "en": "She managed to strike a balance.",
+        "ru": "Ей удалось найти баланс."
+      },
+      {
+        "en": "They decided to strike a balance.",
+        "ru": "Они решили найти баланс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "strike a deal",
+    "lemma": "strike a deal",
+    "level": "b2",
+    "tr": "заключить сделку",
+    "examples": [
+      {
+        "en": "We need to strike a deal.",
+        "ru": "Нам нужно заключить сделку."
+      },
+      {
+        "en": "She managed to strike a deal.",
+        "ru": "Ей удалось заключить сделку."
+      },
+      {
+        "en": "They decided to strike a deal.",
+        "ru": "Они решили заключить сделку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer a loss",
+    "lemma": "suffer a loss",
+    "level": "b2",
+    "tr": "понести убыток",
+    "examples": [
+      {
+        "en": "The firm may suffer a loss.",
+        "ru": "Фирма может понести убыток."
+      },
+      {
+        "en": "They suffered a loss.",
+        "ru": "Они понести убыток."
+      },
+      {
+        "en": "Nobody wants to suffer a loss.",
+        "ru": "Никто не хочет понести убыток."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer damage",
+    "lemma": "suffer damage",
+    "level": "b2",
+    "tr": "понести ущерб",
+    "examples": [
+      {
+        "en": "The firm may suffer damage.",
+        "ru": "Фирма может понести ущерб."
+      },
+      {
+        "en": "They suffered damage.",
+        "ru": "Они понести ущерб."
+      },
+      {
+        "en": "Nobody wants to suffer damage.",
+        "ru": "Никто не хочет понести ущерб."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer defeat",
+    "lemma": "suffer defeat",
+    "level": "b2",
+    "tr": "потерпеть поражение",
+    "examples": [
+      {
+        "en": "The firm may suffer defeat.",
+        "ru": "Фирма может потерпеть поражение."
+      },
+      {
+        "en": "They suffered defeat.",
+        "ru": "Они потерпеть поражение."
+      },
+      {
+        "en": "Nobody wants to suffer defeat.",
+        "ru": "Никто не хочет потерпеть поражение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a bite",
+    "lemma": "take a bite",
+    "level": "b1",
+    "tr": "откусить; перекусить",
+    "examples": [
+      {
+        "en": "We need to take a bite.",
+        "ru": "Нам нужно откусить; перекусить."
+      },
+      {
+        "en": "She managed to take a bite.",
+        "ru": "Ей удалось откусить; перекусить."
+      },
+      {
+        "en": "They decided to take a bite.",
+        "ru": "Они решили откусить; перекусить."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a deep breath",
+    "lemma": "take a deep breath",
+    "level": "b1",
+    "tr": "глубоко вдохнуть",
+    "examples": [
+      {
+        "en": "We need to take a deep breath.",
+        "ru": "Нам нужно глубоко вдохнуть."
+      },
+      {
+        "en": "She managed to take a deep breath.",
+        "ru": "Ей удалось глубоко вдохнуть."
+      },
+      {
+        "en": "They decided to take a deep breath.",
+        "ru": "Они решили глубоко вдохнуть."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a nap",
+    "lemma": "take a nap",
+    "level": "b1",
+    "tr": "вздремнуть",
+    "examples": [
+      {
+        "en": "We need to take a nap.",
+        "ru": "Нам нужно вздремнуть."
+      },
+      {
+        "en": "She managed to take a nap.",
+        "ru": "Ей удалось вздремнуть."
+      },
+      {
+        "en": "They decided to take a nap.",
+        "ru": "Они решили вздремнуть."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a walk",
+    "lemma": "take a walk",
+    "level": "b1",
+    "tr": "прогуляться",
+    "examples": [
+      {
+        "en": "We need to take a walk.",
+        "ru": "Нам нужно прогуляться."
+      },
+      {
+        "en": "She managed to take a walk.",
+        "ru": "Ей удалось прогуляться."
+      },
+      {
+        "en": "They decided to take a walk.",
+        "ru": "Они решили прогуляться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take the initiative",
+    "lemma": "take the initiative",
+    "level": "b2",
+    "tr": "проявить инициативу",
+    "examples": [
+      {
+        "en": "We need to take the initiative.",
+        "ru": "Нам нужно проявить инициативу."
+      },
+      {
+        "en": "She managed to take the initiative.",
+        "ru": "Ей удалось проявить инициативу."
+      },
+      {
+        "en": "They decided to take the initiative.",
+        "ru": "Они решили проявить инициативу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "take the plunge",
+    "lemma": "take the plunge",
+    "level": "b2",
+    "tr": "решиться на рискованный шаг",
+    "examples": [
+      {
+        "en": "We need to take the plunge.",
+        "ru": "Нам нужно решиться на рискованный шаг."
+      },
+      {
+        "en": "She managed to take the plunge.",
+        "ru": "Ей удалось решиться на рискованный шаг."
+      },
+      {
+        "en": "They decided to take the plunge.",
+        "ru": "Они решили решиться на рискованный шаг."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell a lie",
+    "lemma": "tell a lie",
+    "level": "b1",
+    "tr": "соврать",
+    "examples": [
+      {
+        "en": "We need to tell a lie.",
+        "ru": "Нам нужно соврать."
+      },
+      {
+        "en": "She managed to tell a lie.",
+        "ru": "Ей удалось соврать."
+      },
+      {
+        "en": "They decided to tell a lie.",
+        "ru": "Они решили соврать."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell the truth",
+    "lemma": "tell the truth",
+    "level": "b1",
+    "tr": "сказать правду",
+    "examples": [
+      {
+        "en": "We need to tell the truth.",
+        "ru": "Нам нужно сказать правду."
+      },
+      {
+        "en": "She managed to tell the truth.",
+        "ru": "Ей удалось сказать правду."
+      },
+      {
+        "en": "They decided to tell the truth.",
+        "ru": "Они решили сказать правду."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell a story",
+    "lemma": "tell a story",
+    "level": "b1",
+    "tr": "рассказать историю",
+    "examples": [
+      {
+        "en": "We need to tell a story.",
+        "ru": "Нам нужно рассказать историю."
+      },
+      {
+        "en": "She managed to tell a story.",
+        "ru": "Ей удалось рассказать историю."
+      },
+      {
+        "en": "They decided to tell a story.",
+        "ru": "Они решили рассказать историю."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "throw a party",
+    "lemma": "throw a party",
+    "level": "b1",
+    "tr": "устроить вечеринку",
+    "examples": [
+      {
+        "en": "We need to throw a party.",
+        "ru": "Нам нужно устроить вечеринку."
+      },
+      {
+        "en": "She managed to throw a party.",
+        "ru": "Ей удалось устроить вечеринку."
+      },
+      {
+        "en": "They decided to throw a party.",
+        "ru": "Они решили устроить вечеринку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn a profit",
+    "lemma": "turn a profit",
+    "level": "b2",
+    "tr": "получить прибыль",
+    "examples": [
+      {
+        "en": "We need to turn a profit.",
+        "ru": "Нам нужно получить прибыль."
+      },
+      {
+        "en": "She managed to turn a profit.",
+        "ru": "Ей удалось получить прибыль."
+      },
+      {
+        "en": "They decided to turn a profit.",
+        "ru": "Они решили получить прибыль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn the page",
+    "lemma": "turn the page",
+    "level": "b2",
+    "tr": "перевернуть страницу",
+    "examples": [
+      {
+        "en": "We need to turn the page.",
+        "ru": "Нам нужно перевернуть страницу."
+      },
+      {
+        "en": "She managed to turn the page.",
+        "ru": "Ей удалось перевернуть страницу."
+      },
+      {
+        "en": "They decided to turn the page.",
+        "ru": "Они решили перевернуть страницу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "undermine confidence",
+    "lemma": "undermine confidence",
+    "level": "c1",
+    "tr": "подорвать доверие",
+    "examples": [
+      {
+        "en": "We need to undermine confidence.",
+        "ru": "Нам нужно подорвать доверие."
+      },
+      {
+        "en": "They decided to undermine confidence.",
+        "ru": "Они решили подорвать доверие."
+      },
+      {
+        "en": "Try to undermine confidence carefully.",
+        "ru": "Постарайся аккуратно подорвать доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "undermine authority",
+    "lemma": "undermine authority",
+    "level": "c1",
+    "tr": "подорвать авторитет",
+    "examples": [
+      {
+        "en": "We need to undermine authority.",
+        "ru": "Нам нужно подорвать авторитет."
+      },
+      {
+        "en": "She managed to undermine authority.",
+        "ru": "Ей удалось подорвать авторитет."
+      },
+      {
+        "en": "They decided to undermine authority.",
+        "ru": "Они решили подорвать авторитет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "voice concern",
+    "lemma": "voice concern",
+    "level": "b2",
+    "tr": "выразить обеспокоенность",
+    "examples": [
+      {
+        "en": "We need to voice concern.",
+        "ru": "Нам нужно выразить обеспокоенность."
+      },
+      {
+        "en": "She managed to voice concern.",
+        "ru": "Ей удалось выразить обеспокоенность."
+      },
+      {
+        "en": "They decided to voice concern.",
+        "ru": "Они решили выразить обеспокоенность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "voice an opinion",
+    "lemma": "voice an opinion",
+    "level": "b1",
+    "tr": "высказать мнение",
+    "examples": [
+      {
+        "en": "We need to voice an opinion.",
+        "ru": "Нам нужно высказать мнение."
+      },
+      {
+        "en": "She managed to voice an opinion.",
+        "ru": "Ей удалось высказать мнение."
+      },
+      {
+        "en": "They decided to voice an opinion.",
+        "ru": "Они решили высказать мнение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste effort",
+    "lemma": "waste effort",
+    "level": "b2",
+    "tr": "тратить усилия впустую",
+    "examples": [
+      {
+        "en": "We need to waste effort.",
+        "ru": "Нам нужно тратить усилия впустую."
+      },
+      {
+        "en": "She managed to waste effort.",
+        "ru": "Ей удалось тратить усилия впустую."
+      },
+      {
+        "en": "They decided to waste effort.",
+        "ru": "Они решили тратить усилия впустую."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "win a prize",
+    "lemma": "win a prize",
+    "level": "b1",
+    "tr": "выиграть приз",
+    "examples": [
+      {
+        "en": "We need to win a prize.",
+        "ru": "Нам нужно выиграть приз."
+      },
+      {
+        "en": "She managed to win a prize.",
+        "ru": "Ей удалось выиграть приз."
+      },
+      {
+        "en": "They decided to win a prize.",
+        "ru": "Они решили выиграть приз."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "win an award",
+    "lemma": "win an award",
+    "level": "b1",
+    "tr": "получить награду",
+    "examples": [
+      {
+        "en": "We need to win an award.",
+        "ru": "Нам нужно получить награду."
+      },
+      {
+        "en": "She managed to win an award.",
+        "ru": "Ей удалось получить награду."
+      },
+      {
+        "en": "They decided to win an award.",
+        "ru": "Они решили получить награду."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "win support",
+    "lemma": "win support",
+    "level": "b2",
+    "tr": "завоевать поддержку",
+    "examples": [
+      {
+        "en": "We need to win support.",
+        "ru": "Нам нужно завоевать поддержку."
+      },
+      {
+        "en": "She managed to win support.",
+        "ru": "Ей удалось завоевать поддержку."
+      },
+      {
+        "en": "They decided to win support.",
+        "ru": "Они решили завоевать поддержку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "win trust",
+    "lemma": "win trust",
+    "level": "b2",
+    "tr": "завоевать доверие",
+    "examples": [
+      {
+        "en": "We need to win trust.",
+        "ru": "Нам нужно завоевать доверие."
+      },
+      {
+        "en": "She managed to win trust.",
+        "ru": "Ей удалось завоевать доверие."
+      },
+      {
+        "en": "They decided to win trust.",
+        "ru": "Они решили завоевать доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "withdraw support",
+    "lemma": "withdraw support",
+    "level": "b2",
+    "tr": "отозвать поддержку",
+    "examples": [
+      {
+        "en": "We need to withdraw support.",
+        "ru": "Нам нужно отозвать поддержку."
+      },
+      {
+        "en": "She managed to withdraw support.",
+        "ru": "Ей удалось отозвать поддержку."
+      },
+      {
+        "en": "They decided to withdraw support.",
+        "ru": "Они решили отозвать поддержку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "withstand pressure",
+    "lemma": "withstand pressure",
+    "level": "c1",
+    "tr": "выдержать давление",
+    "examples": [
+      {
+        "en": "We need to withstand pressure.",
+        "ru": "Нам нужно выдержать давление."
+      },
+      {
+        "en": "She managed to withstand pressure.",
+        "ru": "Ей удалось выдержать давление."
+      },
+      {
+        "en": "They decided to withstand pressure.",
+        "ru": "Они решили выдержать давление."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "work wonders",
+    "lemma": "work wonders",
+    "level": "b2",
+    "tr": "творить чудеса",
+    "examples": [
+      {
+        "en": "We need to work wonders.",
+        "ru": "Нам нужно творить чудеса."
+      },
+      {
+        "en": "She managed to work wonders.",
+        "ru": "Ей удалось творить чудеса."
+      },
+      {
+        "en": "They decided to work wonders.",
+        "ru": "Они решили творить чудеса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "yield results",
+    "lemma": "yield results",
+    "level": "b2",
+    "tr": "давать результаты",
+    "examples": [
+      {
+        "en": "We need to yield results.",
+        "ru": "Нам нужно давать результаты."
+      },
+      {
+        "en": "She managed to yield results.",
+        "ru": "Ей удалось давать результаты."
+      },
+      {
+        "en": "They decided to yield results.",
+        "ru": "Они решили давать результаты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "go viral",
+    "lemma": "go viral",
+    "level": "b2",
+    "tr": "разойтись вирусным",
+    "examples": [
+      {
+        "en": "The clip went viral overnight.",
+        "ru": "Ролик за ночь разошёлся вирусным."
+      },
+      {
+        "en": "Their post went viral.",
+        "ru": "Их пост завирусился."
+      },
+      {
+        "en": "Not every meme goes viral.",
+        "ru": "Не каждый мем становится вирусным."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "go bankrupt",
+    "lemma": "go bankrupt",
+    "level": "b2",
+    "tr": "обанкротиться",
+    "examples": [
+      {
+        "en": "The retailer went bankrupt.",
+        "ru": "Ритейлер обанкротился."
+      },
+      {
+        "en": "Without cashflow, firms go bankrupt.",
+        "ru": "Без кэшфлоу фирмы банкротятся."
+      },
+      {
+        "en": "He nearly went bankrupt.",
+        "ru": "Он почти обанкротился."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "go blank",
+    "lemma": "go blank",
+    "level": "b2",
+    "tr": "провалиться (о памяти)",
+    "examples": [
+      {
+        "en": "My mind went blank in the interview.",
+        "ru": "На собеседовании у меня провалилась память."
+      },
+      {
+        "en": "The screen went blank.",
+        "ru": "Экран погас."
+      },
+      {
+        "en": "His mind goes blank under stress.",
+        "ru": "Под стрессом у него пустеет голова."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  }
+]

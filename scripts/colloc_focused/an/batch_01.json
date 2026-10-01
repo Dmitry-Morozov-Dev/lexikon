@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "strong evidence",
+    "lemma": "strong evidence",
+    "level": "b2",
+    "tr": "веские доказательства",
+    "examples": [
+      {
+        "en": "There is strong evidence for the claim.",
+        "ru": "Есть веские доказательства этого утверждения."
+      },
+      {
+        "en": "Police found strong evidence at the scene.",
+        "ru": "Полиция нашла веские доказательства на месте."
+      },
+      {
+        "en": "We need stronger evidence before accusing.",
+        "ru": "Нужны более веские доказательства, прежде чем обвинять."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavy traffic",
+    "lemma": "heavy traffic",
+    "level": "b1",
+    "tr": "плотный трафик; сильные пробки",
+    "examples": [
+      {
+        "en": "Heavy traffic delayed the delivery.",
+        "ru": "Плотный трафик задержал доставку."
+      },
+      {
+        "en": "Avoid the bridge in heavy traffic.",
+        "ru": "В пробках избегай моста."
+      },
+      {
+        "en": "There is heavy traffic every Friday.",
+        "ru": "По пятницам всегда сильные пробки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "tight deadline",
+    "lemma": "tight deadline",
+    "level": "b1",
+    "tr": "жёсткий дедлайн",
+    "examples": [
+      {
+        "en": "We're working under a tight deadline.",
+        "ru": "Мы работаем в жёстком дедлайне."
+      },
+      {
+        "en": "Tight deadlines increase stress.",
+        "ru": "Жёсткие дедлайны повышают стресс."
+      },
+      {
+        "en": "Can we move this tight deadline?",
+        "ru": "Можем сдвинуть этот жёсткий дедлайн?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep sleep",
+    "lemma": "deep sleep",
+    "level": "b1",
+    "tr": "глубокий сон",
+    "examples": [
+      {
+        "en": "I fell into a deep sleep.",
+        "ru": "Я провалился в глубокий сон."
+      },
+      {
+        "en": "Noise woke her from deep sleep.",
+        "ru": "Шум разбудил её из глубокого сна."
+      },
+      {
+        "en": "Babies need deep sleep to grow.",
+        "ru": "Младенцам нужен глубокий сон для роста."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "high priority",
+    "lemma": "high priority",
+    "level": "b1",
+    "tr": "высокий приоритет",
+    "examples": [
+      {
+        "en": "Mark this as high priority.",
+        "ru": "Отметь это как высокий приоритет."
+      },
+      {
+        "en": "Security is a high priority.",
+        "ru": "Безопасность — высокий приоритет."
+      },
+      {
+        "en": "High-priority tickets jump the queue.",
+        "ru": "Тикеты с высоким приоритетом идут вне очереди."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "low priority",
+    "lemma": "low priority",
+    "level": "b1",
+    "tr": "низкий приоритет",
+    "examples": [
+      {
+        "en": "Cosmetic bugs are low priority.",
+        "ru": "Косметические баги — низкий приоритет."
+      },
+      {
+        "en": "Put it on the low-priority list.",
+        "ru": "Положи в список низкого приоритета."
+      },
+      {
+        "en": "Low priority doesn't mean ignored.",
+        "ru": "Низкий приоритет не значит «забыли»."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bad habit",
+    "lemma": "bad habit",
+    "level": "b1",
+    "tr": "плохая привычка",
+    "examples": [
+      {
+        "en": "Scrolling in bed is a bad habit.",
+        "ru": "Листать ленту в постели — плохая привычка."
+      },
+      {
+        "en": "Breaking a bad habit takes time.",
+        "ru": "Избавиться от плохой привычки нужно время."
+      },
+      {
+        "en": "Don't start bad habits early.",
+        "ru": "Не заводи плохие привычки рано."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "good habit",
+    "lemma": "good habit",
+    "level": "b1",
+    "tr": "хорошая привычка",
+    "examples": [
+      {
+        "en": "Reading daily is a good habit.",
+        "ru": "Ежедневное чтение — хорошая привычка."
+      },
+      {
+        "en": "Kids learn good habits from parents.",
+        "ru": "Дети перенимают хорошие привычки у родителей."
+      },
+      {
+        "en": "Build good habits one at a time.",
+        "ru": "Строй хорошие привычки по одной."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "common sense",
+    "lemma": "common sense",
+    "level": "b1",
+    "tr": "здравый смысл",
+    "examples": [
+      {
+        "en": "Use common sense online.",
+        "ru": "Пользуйся здравым смыслом в сети."
+      },
+      {
+        "en": "That's just common sense.",
+        "ru": "Это просто здравый смысл."
+      },
+      {
+        "en": "Common sense isn't always common.",
+        "ru": "Здравый смысл не всегда распространен."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "common knowledge",
+    "lemma": "common knowledge",
+    "level": "b2",
+    "tr": "общеизвестный факт",
+    "examples": [
+      {
+        "en": "It's common knowledge that sleep matters.",
+        "ru": "Общеизвестно, что сон важен."
+      },
+      {
+        "en": "That fact is common knowledge here.",
+        "ru": "Этот факт здесь общеизвестен."
+      },
+      {
+        "en": "Don't treat rumors as common knowledge.",
+        "ru": "Не считай слухи общеизвестными фактами."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "common mistake",
+    "lemma": "common mistake",
+    "level": "b1",
+    "tr": "частая ошибка",
+    "examples": [
+      {
+        "en": "Mixing up its/it's is a common mistake.",
+        "ru": "Путать its/it's — частая ошибка."
+      },
+      {
+        "en": "This is a common mistake among beginners.",
+        "ru": "Это частая ошибка новичков."
+      },
+      {
+        "en": "Avoid this common mistake in emails.",
+        "ru": "Избегай этой частой ошибки в письмах."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "serious problem",
+    "lemma": "serious problem",
+    "level": "b1",
+    "tr": "серьёзная проблема",
+    "examples": [
+      {
+        "en": "We have a serious problem with latency.",
+        "ru": "У нас серьёзная проблема с задержкой."
+      },
+      {
+        "en": "Ignoring it will become a serious problem.",
+        "ru": "Игнорирование станет серьёзной проблемой."
+      },
+      {
+        "en": "She raised a serious problem in QA.",
+        "ru": "Она подняла серьёзную проблему в QA."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "serious illness",
+    "lemma": "serious illness",
+    "level": "b1",
+    "tr": "серьёзное заболевание",
+    "examples": [
+      {
+        "en": "He recovered from a serious illness.",
+        "ru": "Он оправился после серьёзного заболевания."
+      },
+      {
+        "en": "Early detection helps with serious illness.",
+        "ru": "Раннее выявление помогает при серьёзных болезнях."
+      },
+      {
+        "en": "Insurance covers serious illness.",
+        "ru": "Страховка покрывает серьёзные заболевания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "major issue",
+    "lemma": "major issue",
+    "level": "b1",
+    "tr": "серьёзный / крупный вопрос",
+    "examples": [
+      {
+        "en": "Privacy is a major issue.",
+        "ru": "Приватность — крупный вопрос."
+      },
+      {
+        "en": "We fixed the major issues first.",
+        "ru": "Сначала починили крупные проблемы."
+      },
+      {
+        "en": "Don't ignore major issues.",
+        "ru": "Не игнорируй серьёзные вопросы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "minor issue",
+    "lemma": "minor issue",
+    "level": "b1",
+    "tr": "незначительная проблема",
+    "examples": [
+      {
+        "en": "It's only a minor issue.",
+        "ru": "Это лишь мелкая проблема."
+      },
+      {
+        "en": "Minor issues can wait until Monday.",
+        "ru": "Мелочи могут подождать до понедельника."
+      },
+      {
+        "en": "She reported a minor issue in UI.",
+        "ru": "Она сообщила о мелкой проблеме в UI."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "key factor",
+    "lemma": "key factor",
+    "level": "b1",
+    "tr": "ключевой фактор",
+    "examples": [
+      {
+        "en": "Trust is a key factor in sales.",
+        "ru": "Доверие — ключевой фактор в продажах."
+      },
+      {
+        "en": "Identify the key factors first.",
+        "ru": "Сначала определи ключевые факторы."
+      },
+      {
+        "en": "Timing was the key factor.",
+        "ru": "Время стало ключевым фактором."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "key point",
+    "lemma": "key point",
+    "level": "b1",
+    "tr": "ключевой момент",
+    "examples": [
+      {
+        "en": "The key point is simplicity.",
+        "ru": "Ключевой момент — простота."
+      },
+      {
+        "en": "Let me summarize the key points.",
+        "ru": "Кратко по ключевым пунктам."
+      },
+      {
+        "en": "You missed the key point.",
+        "ru": "Ты упустил ключевой момент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "main reason",
+    "lemma": "main reason",
+    "level": "b1",
+    "tr": "главная причина",
+    "examples": [
+      {
+        "en": "The main reason is cost.",
+        "ru": "Главная причина — стоимость."
+      },
+      {
+        "en": "What's the main reason for the delay?",
+        "ru": "Какова главная причина задержки?"
+      },
+      {
+        "en": "There isn't one main reason.",
+        "ru": "Одной главной причины нет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "main goal",
+    "lemma": "main goal",
+    "level": "b1",
+    "tr": "главная цель",
+    "examples": [
+      {
+        "en": "Our main goal is retention.",
+        "ru": "Главная цель — удержание."
+      },
+      {
+        "en": "Keep the main goal in sight.",
+        "ru": "Держи главную цель в поле зрения."
+      },
+      {
+        "en": "Shipping was the main goal this sprint.",
+        "ru": "Главной целью спринта был релиз."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "vast majority",
+    "lemma": "vast majority",
+    "level": "b2",
+    "tr": "подавляющее большинство",
+    "examples": [
+      {
+        "en": "The vast majority agreed.",
+        "ru": "Подавляющее большинство согласилось."
+      },
+      {
+        "en": "The vast majority of bugs are minor.",
+        "ru": "Подавляющее большинство багов мелкие."
+      },
+      {
+        "en": "In the vast majority of cases it works.",
+        "ru": "В подавляющем большинстве случаев работает."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "wide range",
+    "lemma": "wide range",
+    "level": "b1",
+    "tr": "широкий диапазон / ассортимент",
+    "examples": [
+      {
+        "en": "We offer a wide range of plans.",
+        "ru": "У нас широкий ассортимент тарифов."
+      },
+      {
+        "en": "She has a wide range of skills.",
+        "ru": "У неё широкий спектр навыков."
+      },
+      {
+        "en": "Choose from a wide range of colors.",
+        "ru": "Выбирай из широкой палитры цветов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "narrow escape",
+    "lemma": "narrow escape",
+    "level": "b2",
+    "tr": "чудом избежать",
+    "examples": [
+      {
+        "en": "They had a narrow escape from the fire.",
+        "ru": "Они чудом спаслись от пожара."
+      },
+      {
+        "en": "It was a narrow escape.",
+        "ru": "Это было чудесное спасение."
+      },
+      {
+        "en": "A narrow escape taught him caution.",
+        "ru": "Чудом избежав беды, он стал осторожнее."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "close call",
+    "lemma": "close call",
+    "level": "b2",
+    "tr": "почти катастрофа; на волоске",
+    "examples": [
+      {
+        "en": "That was a close call — the car nearly hit us.",
+        "ru": "Это было на волоске — машина едва не сбила."
+      },
+      {
+        "en": "The outage was a close call.",
+        "ru": "Авария едва не случилась по-крупному."
+      },
+      {
+        "en": "Close calls make good postmortems.",
+        "ru": "Почти-аварии — хороший материал для постмортема."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "close friend",
+    "lemma": "close friend",
+    "level": "b1",
+    "tr": "близкий друг",
+    "examples": [
+      {
+        "en": "She's a close friend from college.",
+        "ru": "Она близкая подруга со студенчества."
+      },
+      {
+        "en": "I only told close friends.",
+        "ru": "Я сказал только близким друзьям."
+      },
+      {
+        "en": "We became close friends quickly.",
+        "ru": "Мы быстро стали близкими друзьями."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "rough estimate",
+    "lemma": "rough estimate",
+    "level": "b2",
+    "tr": "грубая оценка",
+    "examples": [
+      {
+        "en": "Give me a rough estimate of cost.",
+        "ru": "Дай грубую оценку стоимости."
+      },
+      {
+        "en": "A rough estimate is enough for now.",
+        "ru": "Пока хватит грубой оценки."
+      },
+      {
+        "en": "My rough estimate was too low.",
+        "ru": "Моя грубая оценка оказалась заниженной."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "rough draft",
+    "lemma": "rough draft",
+    "level": "b1",
+    "tr": "черновик",
+    "examples": [
+      {
+        "en": "Send the rough draft by Friday.",
+        "ru": "Пришли черновик к пятнице."
+      },
+      {
+        "en": "This is just a rough draft.",
+        "ru": "Это лишь черновик."
+      },
+      {
+        "en": "I wrote a rough draft overnight.",
+        "ru": "Я за ночь набросал черновик."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "rough idea",
+    "lemma": "rough idea",
+    "level": "b1",
+    "tr": "приблизительное представление",
+    "examples": [
+      {
+        "en": "I have a rough idea of the scope.",
+        "ru": "У меня есть приблизительное представление о скоупе."
+      },
+      {
+        "en": "Give me a rough idea of timing.",
+        "ru": "Дай примерно понять по срокам."
+      },
+      {
+        "en": "She shared a rough idea for the logo.",
+        "ru": "Она набросала идею логотипа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear picture",
+    "lemma": "clear picture",
+    "level": "b1",
+    "tr": "ясная картина",
+    "examples": [
+      {
+        "en": "We need a clear picture of usage.",
+        "ru": "Нужна ясная картина использования."
+      },
+      {
+        "en": "The metrics give a clear picture.",
+        "ru": "Метрики дают ясную картину."
+      },
+      {
+        "en": "Without logs there's no clear picture.",
+        "ru": "Без логов нет ясной картины."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear conscience",
+    "lemma": "clear conscience",
+    "level": "b2",
+    "tr": "чистая совесть",
+    "examples": [
+      {
+        "en": "I can sleep with a clear conscience.",
+        "ru": "Могу спать с чистой совестью."
+      },
+      {
+        "en": "She resigned with a clear conscience.",
+        "ru": "Она ушла с чистой совестью."
+      },
+      {
+        "en": "Honesty keeps a clear conscience.",
+        "ru": "Честность сохраняет чистую совесть."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "harsh criticism",
+    "lemma": "harsh criticism",
+    "level": "b2",
+    "tr": "жёсткая критика",
+    "examples": [
+      {
+        "en": "The film received harsh criticism.",
+        "ru": "Фильм получил жёсткую критику."
+      },
+      {
+        "en": "Harsh criticism can still be fair.",
+        "ru": "Жёсткая критика бывает справедливой."
+      },
+      {
+        "en": "He struggled with harsh criticism.",
+        "ru": "Ему было тяжело от жёсткой критики."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "harsh reality",
+    "lemma": "harsh reality",
+    "level": "b2",
+    "tr": "суровая реальность",
+    "examples": [
+      {
+        "en": "Layoffs are a harsh reality.",
+        "ru": "Сокращения — суровая реальность."
+      },
+      {
+        "en": "She faced the harsh reality of debt.",
+        "ru": "Она столкнулась с суровой реальностью долгов."
+      },
+      {
+        "en": "Documentaries show harsh realities.",
+        "ru": "Документалки показывают суровые реалии."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "harsh words",
+    "lemma": "harsh words",
+    "level": "b2",
+    "tr": "резкие слова",
+    "examples": [
+      {
+        "en": "I regret my harsh words.",
+        "ru": "Жалею о резких словах."
+      },
+      {
+        "en": "Harsh words damaged the friendship.",
+        "ru": "Резкие слова испортили дружбу."
+      },
+      {
+        "en": "Avoid harsh words in feedback.",
+        "ru": "Избегай резких слов в фидбеке."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitter disappointment",
+    "lemma": "bitter disappointment",
+    "level": "b2",
+    "tr": "горькое разочарование",
+    "examples": [
+      {
+        "en": "Losing was a bitter disappointment.",
+        "ru": "Поражение стало горьким разочарованием."
+      },
+      {
+        "en": "She hid her bitter disappointment.",
+        "ru": "Она скрыла горькое разочарование."
+      },
+      {
+        "en": "The cancellation caused bitter disappointment.",
+        "ru": "Отмена вызвала горькое разочарование."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitter argument",
+    "lemma": "bitter argument",
+    "level": "b2",
+    "tr": "ожесточённый спор",
+    "examples": [
+      {
+        "en": "They had a bitter argument.",
+        "ru": "У них был ожесточённый спор."
+      },
+      {
+        "en": "A bitter argument split the team.",
+        "ru": "Ожесточённый спор расколол команду."
+      },
+      {
+        "en": "Don't let feedback become a bitter argument.",
+        "ru": "Не превращай фидбек в ожесточённый спор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "warm welcome",
+    "lemma": "warm welcome",
+    "level": "b1",
+    "tr": "тёплый приём",
+    "examples": [
+      {
+        "en": "They gave us a warm welcome.",
+        "ru": "Нас тепло приняли."
+      },
+      {
+        "en": "Thanks for the warm welcome.",
+        "ru": "Спасибо за тёплый приём."
+      },
+      {
+        "en": "New hires deserve a warm welcome.",
+        "ru": "Новым нужен тёплый приём."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "warm smile",
+    "lemma": "warm smile",
+    "level": "b1",
+    "tr": "тёплая улыбка",
+    "examples": [
+      {
+        "en": "She greeted me with a warm smile.",
+        "ru": "Она поприветствовала тёплой улыбкой."
+      },
+      {
+        "en": "A warm smile helps in support.",
+        "ru": "В поддержке помогает тёплая улыбка."
+      },
+      {
+        "en": "His warm smile put me at ease.",
+        "ru": "Его тёплая улыбка меня успокоила."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "cold reception",
+    "lemma": "cold reception",
+    "level": "b2",
+    "tr": "холодный приём",
+    "examples": [
+      {
+        "en": "The idea got a cold reception.",
+        "ru": "Идею встретили холодно."
+      },
+      {
+        "en": "The film had a cold reception.",
+        "ru": "Фильм встретили холодно."
+      },
+      {
+        "en": "Expect a cold reception if you're late.",
+        "ru": "Если опоздаешь — жди холодный приём."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "cold weather",
+    "lemma": "cold weather",
+    "level": "b1",
+    "tr": "холодная погода",
+    "examples": [
+      {
+        "en": "I hate cold weather.",
+        "ru": "Ненавижу холодную погоду."
+      },
+      {
+        "en": "Dress for cold weather.",
+        "ru": "Одевайся по холодной погоде."
+      },
+      {
+        "en": "Cold weather slows deliveries.",
+        "ru": "Холод замедляет доставки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hot weather",
+    "lemma": "hot weather",
+    "level": "b1",
+    "tr": "жаркая погода",
+    "examples": [
+      {
+        "en": "Hot weather drains batteries faster.",
+        "ru": "В жару батареи садятся быстрее."
+      },
+      {
+        "en": "Stay hydrated in hot weather.",
+        "ru": "В жару пей воду."
+      },
+      {
+        "en": "Hot weather delayed the race.",
+        "ru": "Жара задержала гонку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright future",
+    "lemma": "bright future",
+    "level": "b1",
+    "tr": "светлое будущее",
+    "examples": [
+      {
+        "en": "The startup has a bright future.",
+        "ru": "У стартапа светлое будущее."
+      },
+      {
+        "en": "Education opens a bright future.",
+        "ru": "Образование открывает светлое будущее."
+      },
+      {
+        "en": "I wish you a bright future.",
+        "ru": "Желаю светлого будущего."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright idea",
+    "lemma": "bright idea",
+    "level": "b1",
+    "tr": "блестящая идея",
+    "examples": [
+      {
+        "en": "That's a bright idea!",
+        "ru": "Блестящая идея!"
+      },
+      {
+        "en": "She had a bright idea for onboarding.",
+        "ru": "У неё была блестящая идея для онбординга."
+      },
+      {
+        "en": "Not every bright idea ships well.",
+        "ru": "Не каждая блестящая идея хорошо релизится."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dark humor",
+    "lemma": "dark humor",
+    "level": "b2",
+    "tr": "тёмный юмор",
+    "examples": [
+      {
+        "en": "Some people dislike dark humor.",
+        "ru": "Некоторым не нравится тёмный юмор."
+      },
+      {
+        "en": "The show uses dark humor.",
+        "ru": "В шоу используют тёмный юмор."
+      },
+      {
+        "en": "Dark humor isn't for every audience.",
+        "ru": "Тёмный юмор не для любой аудитории."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "dark side",
+    "lemma": "dark side",
+    "level": "b2",
+    "tr": "тёмная сторона",
+    "examples": [
+      {
+        "en": "Fame has a dark side.",
+        "ru": "У славы есть тёмная сторона."
+      },
+      {
+        "en": "Don't ignore the dark side of growth.",
+        "ru": "Не игнорируй тёмную сторону роста."
+      },
+      {
+        "en": "Every tool has a dark side.",
+        "ru": "У каждого инструмента есть тёмная сторона."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "blank stare",
+    "lemma": "blank stare",
+    "level": "b2",
+    "tr": "пустой взгляд",
+    "examples": [
+      {
+        "en": "He gave me a blank stare.",
+        "ru": "Он посмотрел пустым взглядом."
+      },
+      {
+        "en": "Blank stares meant the joke failed.",
+        "ru": "Пустые взгляды значили: шутка не зашла."
+      },
+      {
+        "en": "Don't confuse a blank stare with agreement.",
+        "ru": "Не путай пустой взгляд с согласием."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "blank check",
+    "lemma": "blank check",
+    "level": "c1",
+    "tr": "карт-бланш; незаполненный чек",
+    "examples": [
+      {
+        "en": "Don't give anyone a blank check.",
+        "ru": "Не давай никому карт-бланш."
+      },
+      {
+        "en": "They wrote a blank check for R&D.",
+        "ru": "Они выписали карт-бланш на R&D."
+      },
+      {
+        "en": "A blank check invites overspend.",
+        "ru": "Карт-бланш провоцирует перерасход."
+      }
+    ],
+    "note": "часто переносно",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "blind faith",
+    "lemma": "blind faith",
+    "level": "c1",
+    "tr": "слепая вера",
+    "examples": [
+      {
+        "en": "Blind faith in vendors is risky.",
+        "ru": "Слепая вера в вендоров рискованна."
+      },
+      {
+        "en": "She rejected blind faith.",
+        "ru": "Она отвергла слепую веру."
+      },
+      {
+        "en": "Science questions blind faith.",
+        "ru": "Наука ставит под сомнение слепую веру."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "blind spot",
+    "lemma": "blind spot",
+    "level": "b2",
+    "tr": "слепая зона",
+    "examples": [
+      {
+        "en": "Every team has blind spots.",
+        "ru": "У каждой команды есть слепые зоны."
+      },
+      {
+        "en": "Check your blind spot when merging.",
+        "ru": "Проверь слепую зону при перестроении."
+      },
+      {
+        "en": "Bias creates blind spots.",
+        "ru": "Предвзятость создаёт слепые зоны."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "busy schedule",
+    "lemma": "busy schedule",
+    "level": "b1",
+    "tr": "плотный график",
+    "examples": [
+      {
+        "en": "I have a busy schedule this week.",
+        "ru": "На этой неделе у меня плотный график."
+      },
+      {
+        "en": "Despite a busy schedule, she called.",
+        "ru": "При плотном графике она всё же позвонила."
+      },
+      {
+        "en": "Busy schedules need buffers.",
+        "ru": "Плотному графику нужны буферы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "busy day",
+    "lemma": "busy day",
+    "level": "b1",
+    "tr": "напряжённый день",
+    "examples": [
+      {
+        "en": "It's been a busy day.",
+        "ru": "День выдался напряжённым."
+      },
+      {
+        "en": "Tomorrow looks like a busy day.",
+        "ru": "Завтра похоже на напряжённый день."
+      },
+      {
+        "en": "After a busy day I crash early.",
+        "ru": "После напряжённого дня рано отключаюсь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "free time",
+    "lemma": "free time",
+    "level": "b1",
+    "tr": "свободное время",
+    "examples": [
+      {
+        "en": "I read in my free time.",
+        "ru": "В свободное время я читаю."
+      },
+      {
+        "en": "How do you spend free time?",
+        "ru": "Как проводишь свободное время?"
+      },
+      {
+        "en": "Free time is scarce this month.",
+        "ru": "В этом месяце свободного времени мало."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "full capacity",
+    "lemma": "full capacity",
+    "level": "b2",
+    "tr": "полная загрузка / мощность",
+    "examples": [
+      {
+        "en": "The server is at full capacity.",
+        "ru": "Сервер на полной загрузке."
+      },
+      {
+        "en": "Hotels run at full capacity in summer.",
+        "ru": "Летом отели работают на полную."
+      },
+      {
+        "en": "We're near full capacity.",
+        "ru": "Мы почти на полной загрузке."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "full potential",
+    "lemma": "full potential",
+    "level": "b2",
+    "tr": "полный потенциал",
+    "examples": [
+      {
+        "en": "She hasn't reached her full potential.",
+        "ru": "Она ещё не раскрыла полный потенциал."
+      },
+      {
+        "en": "Coaching unlocks full potential.",
+        "ru": "Коучинг раскрывает полный потенциал."
+      },
+      {
+        "en": "Use the tool to its full potential.",
+        "ru": "Используй инструмент на полную."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "full attention",
+    "lemma": "full attention",
+    "level": "b1",
+    "tr": "полное внимание",
+    "examples": [
+      {
+        "en": "Please give this your full attention.",
+        "ru": "Уделите этому полное внимание."
+      },
+      {
+        "en": "Kids need full attention sometimes.",
+        "ru": "Детям иногда нужно полное внимание."
+      },
+      {
+        "en": "I can't give full attention while driving.",
+        "ru": "За рулём не могу уделить полное внимание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "great success",
+    "lemma": "great success",
+    "level": "b1",
+    "tr": "большой успех",
+    "examples": [
+      {
+        "en": "The launch was a great success.",
+        "ru": "Релиз стал большим успехом."
+      },
+      {
+        "en": "We wish you great success.",
+        "ru": "Желаем большого успеха."
+      },
+      {
+        "en": "Hard work led to great success.",
+        "ru": "Труд привёл к большому успеху."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "great deal",
+    "lemma": "great deal",
+    "level": "b1",
+    "tr": "много; большая сделка",
+    "examples": [
+      {
+        "en": "We learned a great deal.",
+        "ru": "Мы многому научились."
+      },
+      {
+        "en": "Thanks — that helped a great deal.",
+        "ru": "Спасибо — это очень помогло."
+      },
+      {
+        "en": "They closed a great deal yesterday.",
+        "ru": "Вчера они закрыли крупную сделку."
+      }
+    ],
+    "note": "a great deal = много; также «выгодная сделка»",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "great length",
+    "lemma": "great length",
+    "level": "c1",
+    "tr": "большая длина / степень",
+    "examples": [
+      {
+        "en": "She went to great lengths to help.",
+        "ru": "Она приложила огромные усилия, чтобы помочь."
+      },
+      {
+        "en": "Docs go to great lengths to explain.",
+        "ru": "Документация очень подробно объясняет."
+      },
+      {
+        "en": "Don't go to great lengths for vanity metrics.",
+        "ru": "Не лезь из кожи вон ради vanity-метрик."
+      }
+    ],
+    "note": "часто go to great lengths",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard work",
+    "lemma": "hard work",
+    "level": "b1",
+    "tr": "тяжёлый труд",
+    "examples": [
+      {
+        "en": "Success takes hard work.",
+        "ru": "Успех требует тяжёлого труда."
+      },
+      {
+        "en": "I appreciate your hard work.",
+        "ru": "Ценю твой тяжёлый труд."
+      },
+      {
+        "en": "Hard work alone isn't enough.",
+        "ru": "Одного тяжёлого труда мало."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard time",
+    "lemma": "hard time",
+    "level": "b1",
+    "tr": "трудные времена; тяжело",
+    "examples": [
+      {
+        "en": "She's having a hard time.",
+        "ru": "Ей сейчас тяжело."
+      },
+      {
+        "en": "We had a hard time deploying.",
+        "ru": "Нам было тяжело с деплоем."
+      },
+      {
+        "en": "Don't give him a hard time.",
+        "ru": "Не доставай его."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard evidence",
+    "lemma": "hard evidence",
+    "level": "c1",
+    "tr": "неопровержимые доказательства",
+    "examples": [
+      {
+        "en": "We need hard evidence, not rumors.",
+        "ru": "Нужны твёрдые доказательства, не слухи."
+      },
+      {
+        "en": "Hard evidence convinced auditors.",
+        "ru": "Твёрдые доказательства убедили аудиторов."
+      },
+      {
+        "en": "Without hard evidence, drop the claim.",
+        "ru": "Без твёрдых доказательств снимите утверждение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "soft skills",
+    "lemma": "soft skills",
+    "level": "b1",
+    "tr": "гибкие навыки",
+    "examples": [
+      {
+        "en": "Soft skills matter in leadership.",
+        "ru": "Гибкие навыки важны в лидерстве."
+      },
+      {
+        "en": "Interviews test soft skills too.",
+        "ru": "На собеседованиях проверяют и soft skills."
+      },
+      {
+        "en": "Empathy is a key soft skill.",
+        "ru": "Эмпатия — ключевой soft skill."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "soft launch",
+    "lemma": "soft launch",
+    "level": "b2",
+    "tr": "мягкий запуск",
+    "examples": [
+      {
+        "en": "We did a soft launch in one city.",
+        "ru": "Мы сделали мягкий запуск в одном городе."
+      },
+      {
+        "en": "A soft launch reduces risk.",
+        "ru": "Мягкий запуск снижает риск."
+      },
+      {
+        "en": "Feedback from the soft launch shaped v1.",
+        "ru": "Фидбек мягкого запуска сформировал v1."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "solid foundation",
+    "lemma": "solid foundation",
+    "level": "b2",
+    "tr": "прочный фундамент",
+    "examples": [
+      {
+        "en": "Math builds a solid foundation.",
+        "ru": "Математика даёт прочный фундамент."
+      },
+      {
+        "en": "Tests provide a solid foundation for refactors.",
+        "ru": "Тесты — прочный фундамент для рефакторинга."
+      },
+      {
+        "en": "Start with a solid foundation.",
+        "ru": "Начни с прочного фундамента."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "solid evidence",
+    "lemma": "solid evidence",
+    "level": "b2",
+    "tr": "убедительные доказательства",
+    "examples": [
+      {
+        "en": "Prosecutors presented solid evidence.",
+        "ru": "Обвинение представило убедительные доказательства."
+      },
+      {
+        "en": "We need solid evidence before shipping.",
+        "ru": "Нужны убедительные доказательства перед релизом."
+      },
+      {
+        "en": "The paper lacks solid evidence.",
+        "ru": "В статье не хватает убедительных доказательств."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "firm belief",
+    "lemma": "firm belief",
+    "level": "b2",
+    "tr": "твёрдое убеждение",
+    "examples": [
+      {
+        "en": "It's my firm belief that privacy matters.",
+        "ru": "Я твёрдо убеждён, что приватность важна."
+      },
+      {
+        "en": "She held a firm belief in fairness.",
+        "ru": "Она твёрдо верила в справедливость."
+      },
+      {
+        "en": "Firm beliefs can still be updated.",
+        "ru": "Твёрдые убеждения всё же можно пересмотреть."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "firm grip",
+    "lemma": "firm grip",
+    "level": "b2",
+    "tr": "твёрдая хватка",
+    "examples": [
+      {
+        "en": "Keep a firm grip on the rope.",
+        "ru": "Держи верёвку крепко."
+      },
+      {
+        "en": "He kept a firm grip on costs.",
+        "ru": "Он крепко держал расходы."
+      },
+      {
+        "en": "Loss of a firm grip caused the fall.",
+        "ru": "Из-за слабой хватки произошло падение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "strict rules",
+    "lemma": "strict rules",
+    "level": "b1",
+    "tr": "строгие правила",
+    "examples": [
+      {
+        "en": "The dorm has strict rules.",
+        "ru": "В общежитии строгие правила."
+      },
+      {
+        "en": "Strict rules protect users.",
+        "ru": "Строгие правила защищают пользователей."
+      },
+      {
+        "en": "Follow the strict rules on PII.",
+        "ru": "Соблюдай строгие правила по ПДн."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "strict deadline",
+    "lemma": "strict deadline",
+    "level": "b1",
+    "tr": "строгий дедлайн",
+    "examples": [
+      {
+        "en": "There's a strict deadline on Friday.",
+        "ru": "В пятницу строгий дедлайн."
+      },
+      {
+        "en": "Strict deadlines leave no buffer.",
+        "ru": "Строгие дедлайны не оставляют буфера."
+      },
+      {
+        "en": "We missed a strict deadline once.",
+        "ru": "Однажды сорвали строгий дедлайн."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "severe damage",
+    "lemma": "severe damage",
+    "level": "b2",
+    "tr": "серьёзный ущерб",
+    "examples": [
+      {
+        "en": "The storm caused severe damage.",
+        "ru": "Шторм нанёс серьёзный ущерб."
+      },
+      {
+        "en": "Severe damage can take months to fix.",
+        "ru": "Серьёзный ущерб чинят месяцами."
+      },
+      {
+        "en": "Backups limit severe damage.",
+        "ru": "Бэкапы ограничивают серьёзный ущерб."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "severe pain",
+    "lemma": "severe pain",
+    "level": "b1",
+    "tr": "сильная боль",
+    "examples": [
+      {
+        "en": "He was in severe pain.",
+        "ru": "Он испытывал сильную боль."
+      },
+      {
+        "en": "Seek help for severe pain.",
+        "ru": "При сильной боли обратись за помощью."
+      },
+      {
+        "en": "The injury caused severe pain.",
+        "ru": "Травма вызвала сильную боль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "severe weather",
+    "lemma": "severe weather",
+    "level": "b1",
+    "tr": "суровая / опасная погода",
+    "examples": [
+      {
+        "en": "Flights paused due to severe weather.",
+        "ru": "Рейсы отложили из-за опасной погоды."
+      },
+      {
+        "en": "Check alerts for severe weather.",
+        "ru": "Проверь предупреждения об опасной погоде."
+      },
+      {
+        "en": "Severe weather hit the coast.",
+        "ru": "На побережье обрушилась суровая погода."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "urgent need",
+    "lemma": "urgent need",
+    "level": "b1",
+    "tr": "острая нужда",
+    "examples": [
+      {
+        "en": "There's an urgent need for blood donors.",
+        "ru": "Срочно нужны доноры крови."
+      },
+      {
+        "en": "We have an urgent need for more RAM.",
+        "ru": "Срочно нужна дополнительная память."
+      },
+      {
+        "en": "Address urgent needs first.",
+        "ru": "Сначала закрывай острые нужды."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "urgent matter",
+    "lemma": "urgent matter",
+    "level": "b1",
+    "tr": "срочный вопрос",
+    "examples": [
+      {
+        "en": "This is an urgent matter.",
+        "ru": "Это срочный вопрос."
+      },
+      {
+        "en": "Call me about urgent matters only.",
+        "ru": "Звони только по срочным вопросам."
+      },
+      {
+        "en": "She left for an urgent matter.",
+        "ru": "Она ушла по срочному делу."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pressing issue",
+    "lemma": "pressing issue",
+    "level": "b2",
+    "tr": "насущная проблема",
+    "examples": [
+      {
+        "en": "Climate is a pressing issue.",
+        "ru": "Климат — насущная проблема."
+      },
+      {
+        "en": "We must tackle pressing issues first.",
+        "ru": "Сначала нужно решать насущные проблемы."
+      },
+      {
+        "en": "Housing remains a pressing issue.",
+        "ru": "Жильё остаётся насущной проблемой."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "burning question",
+    "lemma": "burning question",
+    "level": "b2",
+    "tr": "жгучий вопрос",
+    "examples": [
+      {
+        "en": "The burning question is funding.",
+        "ru": "Жгучий вопрос — финансирование."
+      },
+      {
+        "en": "Everyone asked the burning question.",
+        "ru": "Все задали жгучий вопрос."
+      },
+      {
+        "en": "Let's address the burning question.",
+        "ru": "Давайте разберём жгучий вопрос."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "burning desire",
+    "lemma": "burning desire",
+    "level": "c1",
+    "tr": "жгучее желание",
+    "examples": [
+      {
+        "en": "He had a burning desire to learn.",
+        "ru": "У него было жгучее желание учиться."
+      },
+      {
+        "en": "A burning desire fuels long hours.",
+        "ru": "Жгучее желание питает долгие часы работы."
+      },
+      {
+        "en": "Follow your burning desire carefully.",
+        "ru": "Следуй жгучему желанию осторожно."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "vivid memory",
+    "lemma": "vivid memory",
+    "level": "b2",
+    "tr": "яркое воспоминание",
+    "examples": [
+      {
+        "en": "I have a vivid memory of that day.",
+        "ru": "У меня яркое воспоминание о том дне."
+      },
+      {
+        "en": "Trauma can leave vivid memories.",
+        "ru": "Травма оставляет яркие воспоминания."
+      },
+      {
+        "en": "Smell triggers vivid memories.",
+        "ru": "Запах вызывает яркие воспоминания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "vivid description",
+    "lemma": "vivid description",
+    "level": "b2",
+    "tr": "яркое описание",
+    "examples": [
+      {
+        "en": "She gave a vivid description.",
+        "ru": "Она дала яркое описание."
+      },
+      {
+        "en": "Vivid descriptions help readers.",
+        "ru": "Яркие описания помогают читателям."
+      },
+      {
+        "en": "The report lacks vivid description.",
+        "ru": "В отчёте не хватает яркого описания."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "vague idea",
+    "lemma": "vague idea",
+    "level": "b2",
+    "tr": "смутное представление",
+    "examples": [
+      {
+        "en": "I only have a vague idea.",
+        "ru": "У меня лишь смутное представление."
+      },
+      {
+        "en": "Vague ideas don't ship.",
+        "ru": "Смутные идеи не релизятся."
+      },
+      {
+        "en": "Turn a vague idea into a brief.",
+        "ru": "Преврати смутное представление в бриф."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "vague answer",
+    "lemma": "vague answer",
+    "level": "b2",
+    "tr": "расплывчатый ответ",
+    "examples": [
+      {
+        "en": "He gave a vague answer.",
+        "ru": "Он дал расплывчатый ответ."
+      },
+      {
+        "en": "Avoid vague answers in interviews.",
+        "ru": "Избегай расплывчатых ответов на собеседованиях."
+      },
+      {
+        "en": "Vague answers raise suspicion.",
+        "ru": "Расплывчатые ответы вызывают подозрение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "remote chance",
+    "lemma": "remote chance",
+    "level": "b2",
+    "tr": "мизерный шанс",
+    "examples": [
+      {
+        "en": "There's a remote chance of snow.",
+        "ru": "Есть мизерный шанс снега."
+      },
+      {
+        "en": "Even a remote chance is worth it.",
+        "ru": "Даже мизерный шанс стоит того."
+      },
+      {
+        "en": "We can't rely on a remote chance.",
+        "ru": "Нельзя полагаться на мизерный шанс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "slim chance",
+    "lemma": "slim chance",
+    "level": "b2",
+    "tr": "крошечный шанс",
+    "examples": [
+      {
+        "en": "There's a slim chance we'll finish early.",
+        "ru": "Есть крошечный шанс закончить раньше."
+      },
+      {
+        "en": "Slim chances still motivate some.",
+        "ru": "Крошечные шансы всё же кого-то мотивируют."
+      },
+      {
+        "en": "Don't bet on a slim chance.",
+        "ru": "Не ставь на крошечный шанс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fair chance",
+    "lemma": "fair chance",
+    "level": "b1",
+    "tr": "реальный / справедливый шанс",
+    "examples": [
+      {
+        "en": "Give everyone a fair chance.",
+        "ru": "Дай всем справедливый шанс."
+      },
+      {
+        "en": "You have a fair chance of passing.",
+        "ru": "У тебя реальный шанс сдать."
+      },
+      {
+        "en": "A fair chance beats a biased process.",
+        "ru": "Справедливый шанс лучше предвзятого процесса."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fair share",
+    "lemma": "fair share",
+    "level": "b1",
+    "tr": "справедливая доля",
+    "examples": [
+      {
+        "en": "Do your fair share of chores.",
+        "ru": "Делай свою справедливую долю домашних дел."
+      },
+      {
+        "en": "Everyone paid their fair share.",
+        "ru": "Каждый заплатил свою долю."
+      },
+      {
+        "en": "He never does his fair share.",
+        "ru": "Он никогда не делает свою долю."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "fair warning",
+    "lemma": "fair warning",
+    "level": "b2",
+    "tr": "честное предупреждение",
+    "examples": [
+      {
+        "en": "Fair warning: this will be hard.",
+        "ru": "Честно предупреждаю: будет сложно."
+      },
+      {
+        "en": "She gave fair warning about delays.",
+        "ru": "Она честно предупредила о задержках."
+      },
+      {
+        "en": "Consider this fair warning.",
+        "ru": "Считай это честным предупреждением."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raw data",
+    "lemma": "raw data",
+    "level": "b1",
+    "tr": "сырые данные",
+    "examples": [
+      {
+        "en": "We analyzed the raw data.",
+        "ru": "Мы проанализировали сырые данные."
+      },
+      {
+        "en": "Don't publish raw data with PII.",
+        "ru": "Не публикуй сырые данные с ПДн."
+      },
+      {
+        "en": "Raw data needs cleaning.",
+        "ru": "Сырые данные нужно чистить."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raw talent",
+    "lemma": "raw talent",
+    "level": "b2",
+    "tr": "сырой талант",
+    "examples": [
+      {
+        "en": "She has raw talent.",
+        "ru": "У неё сырой талант."
+      },
+      {
+        "en": "Coaches shape raw talent.",
+        "ru": "Тренеры шлифуют сырой талант."
+      },
+      {
+        "en": "Raw talent without practice stalls.",
+        "ru": "Сырой талант без практики буксует."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raw emotion",
+    "lemma": "raw emotion",
+    "level": "c1",
+    "tr": "неприукрашенная эмоция",
+    "examples": [
+      {
+        "en": "The speech was full of raw emotion.",
+        "ru": "Речь была полна неприукрашенных эмоций."
+      },
+      {
+        "en": "Raw emotion can overwhelm logic.",
+        "ru": "Голая эмоция может затмить логику."
+      },
+      {
+        "en": "Art captures raw emotion.",
+        "ru": "Искусство ловит сырую эмоцию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "absolute necessity",
+    "lemma": "absolute necessity",
+    "level": "b2",
+    "tr": "абсолютная необходимость",
+    "examples": [
+      {
+        "en": "This is an absolute necessity.",
+        "ru": "Это абсолютная необходимость."
+      },
+      {
+        "en": "We need an absolute necessity.",
+        "ru": "Нам нужен абсолютная необходимость."
+      },
+      {
+        "en": "Consider the absolute necessity carefully.",
+        "ru": "Внимательно учти — абсолютная необходимость."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "absolute silence",
+    "lemma": "absolute silence",
+    "level": "b2",
+    "tr": "абсолютная тишина",
+    "examples": [
+      {
+        "en": "This is an absolute silence.",
+        "ru": "Это абсолютная тишина."
+      },
+      {
+        "en": "We need an absolute silence.",
+        "ru": "Нам нужен абсолютная тишина."
+      },
+      {
+        "en": "Consider the absolute silence carefully.",
+        "ru": "Внимательно учти — абсолютная тишина."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "acute pain",
+    "lemma": "acute pain",
+    "level": "b2",
+    "tr": "острая боль",
+    "examples": [
+      {
+        "en": "This is an acute pain.",
+        "ru": "Это острая боль."
+      },
+      {
+        "en": "We need an acute pain.",
+        "ru": "Нам нужен острая боль."
+      },
+      {
+        "en": "Consider the acute pain carefully.",
+        "ru": "Внимательно учти — острая боль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "acute shortage",
+    "lemma": "acute shortage",
+    "level": "c1",
+    "tr": "острая нехватка",
+    "examples": [
+      {
+        "en": "This is an acute shortage.",
+        "ru": "Это острая нехватка."
+      },
+      {
+        "en": "We need an acute shortage.",
+        "ru": "Нам нужен острая нехватка."
+      },
+      {
+        "en": "Consider the acute shortage carefully.",
+        "ru": "Внимательно учти — острая нехватка."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "adverse weather",
+    "lemma": "adverse weather",
+    "level": "b2",
+    "tr": "неблагоприятная погода",
+    "examples": [
+      {
+        "en": "This is an adverse weather.",
+        "ru": "Это неблагоприятная погода."
+      },
+      {
+        "en": "We need an adverse weather.",
+        "ru": "Нам нужен неблагоприятная погода."
+      },
+      {
+        "en": "Consider the adverse weather carefully.",
+        "ru": "Внимательно учти — неблагоприятная погода."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "alarming rate",
+    "lemma": "alarming rate",
+    "level": "c1",
+    "tr": "тревожный темп",
+    "examples": [
+      {
+        "en": "This is an alarming rate.",
+        "ru": "Это тревожный темп."
+      },
+      {
+        "en": "We need an alarming rate.",
+        "ru": "Нам нужен тревожный темп."
+      },
+      {
+        "en": "Consider the alarming rate carefully.",
+        "ru": "Внимательно учти — тревожный темп."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "annual fee",
+    "lemma": "annual fee",
+    "level": "b1",
+    "tr": "годовая плата",
+    "examples": [
+      {
+        "en": "This is an annual fee.",
+        "ru": "Это годовая плата."
+      },
+      {
+        "en": "We need an annual fee.",
+        "ru": "Нам нужен годовая плата."
+      },
+      {
+        "en": "Consider the annual fee carefully.",
+        "ru": "Внимательно учти — годовая плата."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "apparent reason",
+    "lemma": "apparent reason",
+    "level": "b2",
+    "tr": "очевидная причина",
+    "examples": [
+      {
+        "en": "This is an apparent reason.",
+        "ru": "Это очевидная причина."
+      },
+      {
+        "en": "We need an apparent reason.",
+        "ru": "Нам нужен очевидная причина."
+      },
+      {
+        "en": "Consider the apparent reason carefully.",
+        "ru": "Внимательно учти — очевидная причина."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "arbitrary decision",
+    "lemma": "arbitrary decision",
+    "level": "c1",
+    "tr": "произвольное решение",
+    "examples": [
+      {
+        "en": "This is an arbitrary decision.",
+        "ru": "Это произвольное решение."
+      },
+      {
+        "en": "We need an arbitrary decision.",
+        "ru": "Нам нужен произвольное решение."
+      },
+      {
+        "en": "Consider the arbitrary decision carefully.",
+        "ru": "Внимательно учти — произвольное решение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "awkward silence",
+    "lemma": "awkward silence",
+    "level": "b2",
+    "tr": "неловкое молчание",
+    "examples": [
+      {
+        "en": "This is an awkward silence.",
+        "ru": "Это неловкое молчание."
+      },
+      {
+        "en": "We need an awkward silence.",
+        "ru": "Нам нужен неловкое молчание."
+      },
+      {
+        "en": "Consider the awkward silence carefully.",
+        "ru": "Внимательно учти — неловкое молчание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "basic needs",
+    "lemma": "basic needs",
+    "level": "b1",
+    "tr": "базовые потребности",
+    "examples": [
+      {
+        "en": "This is a basic needs.",
+        "ru": "Это базовые потребности."
+      },
+      {
+        "en": "We need a basic needs.",
+        "ru": "Нам нужен базовые потребности."
+      },
+      {
+        "en": "Consider the basic needs carefully.",
+        "ru": "Внимательно учти — базовые потребности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "basic skills",
+    "lemma": "basic skills",
+    "level": "b1",
+    "tr": "базовые навыки",
+    "examples": [
+      {
+        "en": "This is a basic skills.",
+        "ru": "Это базовые навыки."
+      },
+      {
+        "en": "We need a basic skills.",
+        "ru": "Нам нужен базовые навыки."
+      },
+      {
+        "en": "Consider the basic skills carefully.",
+        "ru": "Внимательно учти — базовые навыки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitter pill",
+    "lemma": "bitter pill",
+    "level": "c1",
+    "tr": "горькая пилюля",
+    "examples": [
+      {
+        "en": "This is a bitter pill.",
+        "ru": "Это горькая пилюля."
+      },
+      {
+        "en": "We need a bitter pill.",
+        "ru": "Нам нужен горькая пилюля."
+      },
+      {
+        "en": "Consider the bitter pill carefully.",
+        "ru": "Внимательно учти — горькая пилюля."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "adj + n",
+    "pos": "collocation"
+  }
+]

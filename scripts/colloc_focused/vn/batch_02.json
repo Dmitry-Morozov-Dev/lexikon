@@ -1,0 +1,2402 @@
+[
+  {
+    "word": "have a chance",
+    "lemma": "have a chance",
+    "level": "b1",
+    "tr": "иметь шанс",
+    "examples": [
+      {
+        "en": "You still have a chance to apply.",
+        "ru": "У тебя ещё есть шанс подать заявку."
+      },
+      {
+        "en": "She had a chance to travel abroad.",
+        "ru": "У неё был шанс поехать за границу."
+      },
+      {
+        "en": "We didn't have a chance to say goodbye.",
+        "ru": "Мы не успели попрощаться."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have access",
+    "lemma": "have access",
+    "level": "b1",
+    "tr": "иметь доступ",
+    "examples": [
+      {
+        "en": "Do you have access to the admin panel?",
+        "ru": "У тебя есть доступ к админке?"
+      },
+      {
+        "en": "Only managers have access to payroll.",
+        "ru": "К зарплатной ведомости есть доступ только у менеджеров."
+      },
+      {
+        "en": "She had access for two weeks.",
+        "ru": "У неё был доступ две недели."
+      }
+    ],
+    "note": "",
+    "colloc": "have access (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a deadline",
+    "lemma": "have a deadline",
+    "level": "b1",
+    "tr": "иметь дедлайн",
+    "examples": [
+      {
+        "en": "We have a deadline on Friday.",
+        "ru": "У нас дедлайн в пятницу."
+      },
+      {
+        "en": "The team has a tight deadline.",
+        "ru": "У команды жёсткий дедлайн."
+      },
+      {
+        "en": "I have three deadlines this week.",
+        "ru": "На этой неделе у меня три дедлайна."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a meeting",
+    "lemma": "have a meeting",
+    "level": "b1",
+    "tr": "провести / иметь встречу",
+    "examples": [
+      {
+        "en": "I have a meeting at noon.",
+        "ru": "У меня встреча в полдень."
+      },
+      {
+        "en": "We had a meeting with the client.",
+        "ru": "У нас была встреча с клиентом."
+      },
+      {
+        "en": "Can we have a short meeting?",
+        "ru": "Можем коротко созвониться?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do business",
+    "lemma": "do business",
+    "level": "b1",
+    "tr": "вести дела; заниматься бизнесом",
+    "examples": [
+      {
+        "en": "We do business in three countries.",
+        "ru": "Мы ведём дела в трёх странах."
+      },
+      {
+        "en": "It's a pleasure to do business with you.",
+        "ru": "Приятно с вами работать."
+      },
+      {
+        "en": "They stopped doing business together.",
+        "ru": "Они перестали вести совместный бизнес."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do research",
+    "lemma": "do research",
+    "level": "b1",
+    "tr": "проводить исследование",
+    "examples": [
+      {
+        "en": "She does research on climate policy.",
+        "ru": "Она проводит исследования по климатической политике."
+      },
+      {
+        "en": "We need to do more research first.",
+        "ru": "Сначала нужно больше исследовать."
+      },
+      {
+        "en": "He did research for his thesis.",
+        "ru": "Он проводил исследование для диссертации."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do homework",
+    "lemma": "do homework",
+    "level": "b1",
+    "tr": "делать домашнее задание",
+    "examples": [
+      {
+        "en": "Have you done your homework?",
+        "ru": "Ты сделал домашку?"
+      },
+      {
+        "en": "Kids do homework after dinner.",
+        "ru": "Дети делают домашку после ужина."
+      },
+      {
+        "en": "I did my homework on the train.",
+        "ru": "Я сделал домашку в поезде."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the dishes",
+    "lemma": "do the dishes",
+    "level": "b1",
+    "tr": "мыть посуду",
+    "examples": [
+      {
+        "en": "I'll do the dishes tonight.",
+        "ru": "Сегодня я помою посуду."
+      },
+      {
+        "en": "He hates doing the dishes.",
+        "ru": "Он ненавидит мыть посуду."
+      },
+      {
+        "en": "Who did the dishes yesterday?",
+        "ru": "Кто вчера мыл посуду?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the laundry",
+    "lemma": "do the laundry",
+    "level": "b1",
+    "tr": "стирать бельё",
+    "examples": [
+      {
+        "en": "I need to do the laundry this weekend.",
+        "ru": "На выходных нужно постирать."
+      },
+      {
+        "en": "She does the laundry on Sundays.",
+        "ru": "Она стирает по воскресеньям."
+      },
+      {
+        "en": "Can you do the laundry while I'm out?",
+        "ru": "Можешь постирать, пока меня нет?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do a favor",
+    "lemma": "do a favor",
+    "level": "b1",
+    "tr": "сделать одолжение",
+    "examples": [
+      {
+        "en": "Could you do me a favor?",
+        "ru": "Можешь сделать одолжение?"
+      },
+      {
+        "en": "He did her a big favor.",
+        "ru": "Он сделал ей большое одолжение."
+      },
+      {
+        "en": "I owe you for that favor you did.",
+        "ru": "Я у тебя в долгу за то одолжение."
+      }
+    ],
+    "note": "AmE favor / BrE favour",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do harm",
+    "lemma": "do harm",
+    "level": "b2",
+    "tr": "причинять вред",
+    "examples": [
+      {
+        "en": "Smoking does harm to your lungs.",
+        "ru": "Курение вредит лёгким."
+      },
+      {
+        "en": "The rumor did real harm.",
+        "ru": "Слух реально навредил."
+      },
+      {
+        "en": "Will this change do more harm than good?",
+        "ru": "Эта правка больше навредит, чем поможет?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do justice",
+    "lemma": "do justice",
+    "level": "c1",
+    "tr": "отдать должное; воздать по справедливости",
+    "examples": [
+      {
+        "en": "A photo can't do justice to the view.",
+        "ru": "Фото не передаёт этот вид."
+      },
+      {
+        "en": "The summary doesn't do justice to her work.",
+        "ru": "Краткое изложение не отдаёт должного её работе."
+      },
+      {
+        "en": "The court failed to do justice.",
+        "ru": "Суд не воздал по справедливости."
+      }
+    ],
+    "note": "",
+    "colloc": "do justice (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do one's best",
+    "lemma": "do one's best",
+    "level": "b1",
+    "tr": "сделать всё возможное",
+    "examples": [
+      {
+        "en": "Just do your best — that's enough.",
+        "ru": "Просто сделай всё возможное — этого достаточно."
+      },
+      {
+        "en": "She did her best under pressure.",
+        "ru": "Она выложилась по максимуму под давлением."
+      },
+      {
+        "en": "We'll do our best to deliver on time.",
+        "ru": "Сделаем всё возможное, чтобы сдать вовремя."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "do one's duty",
+    "lemma": "do one's duty",
+    "level": "b2",
+    "tr": "выполнить долг",
+    "examples": [
+      {
+        "en": "Soldiers must do their duty.",
+        "ru": "Солдаты должны выполнять свой долг."
+      },
+      {
+        "en": "He did his duty as a citizen.",
+        "ru": "Он выполнил гражданский долг."
+      },
+      {
+        "en": "She felt she had done her duty.",
+        "ru": "Она чувствовала, что выполнила долг."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give advice",
+    "lemma": "give advice",
+    "level": "b1",
+    "tr": "давать совет",
+    "examples": [
+      {
+        "en": "Can you give me some advice?",
+        "ru": "Можешь дать совет?"
+      },
+      {
+        "en": "She gave useful advice about interviews.",
+        "ru": "Она дала полезный совет по собеседованиям."
+      },
+      {
+        "en": "Don't give advice unless asked.",
+        "ru": "Не давай советов, пока не просят."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give a presentation",
+    "lemma": "give a presentation",
+    "level": "b1",
+    "tr": "выступить с презентацией",
+    "examples": [
+      {
+        "en": "I'm giving a presentation tomorrow.",
+        "ru": "Завтра выступаю с презентацией."
+      },
+      {
+        "en": "He gave a clear presentation.",
+        "ru": "Он ясно презентовал."
+      },
+      {
+        "en": "She gave a presentation on security.",
+        "ru": "Она выступила с презентацией по безопасности."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give a talk",
+    "lemma": "give a talk",
+    "level": "b1",
+    "tr": "выступить с докладом",
+    "examples": [
+      {
+        "en": "She gave a talk at the conference.",
+        "ru": "Она выступила с докладом на конференции."
+      },
+      {
+        "en": "He's giving a talk on AI ethics.",
+        "ru": "Он читает доклад по этике ИИ."
+      },
+      {
+        "en": "Would you give a short talk?",
+        "ru": "Не выступишь коротко?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give a speech",
+    "lemma": "give a speech",
+    "level": "b1",
+    "tr": "произнести речь",
+    "examples": [
+      {
+        "en": "The mayor gave a short speech.",
+        "ru": "Мэр произнёс короткую речь."
+      },
+      {
+        "en": "I'm nervous about giving a speech.",
+        "ru": "Я нервничаю перед речью."
+      },
+      {
+        "en": "She gave an inspiring speech.",
+        "ru": "Она произнесла вдохновляющую речь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give permission",
+    "lemma": "give permission",
+    "level": "b1",
+    "tr": "дать разрешение",
+    "examples": [
+      {
+        "en": "Parents must give permission first.",
+        "ru": "Сначала нужно разрешение родителей."
+      },
+      {
+        "en": "HR gave permission for remote work.",
+        "ru": "HR разрешил удалёнку."
+      },
+      {
+        "en": "Did they give you permission to share it?",
+        "ru": "Тебе разрешили этим делиться?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give notice",
+    "lemma": "give notice",
+    "level": "b2",
+    "tr": "уведомить; подать заявление об уходе",
+    "examples": [
+      {
+        "en": "She gave two weeks' notice.",
+        "ru": "Она предупредила за две недели (об уходе)."
+      },
+      {
+        "en": "Please give notice before canceling.",
+        "ru": "Предупредите перед отменой."
+      },
+      {
+        "en": "The landlord gave notice to vacate.",
+        "ru": "Арендодатель уведомил об освобождении."
+      }
+    ],
+    "note": "в работе часто = уведомить об увольнении",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give feedback",
+    "lemma": "give feedback",
+    "level": "b1",
+    "tr": "дать обратную связь",
+    "examples": [
+      {
+        "en": "Please give feedback after the demo.",
+        "ru": "Дайте фидбек после демо."
+      },
+      {
+        "en": "He gave honest feedback.",
+        "ru": "Он дал честную обратную связь."
+      },
+      {
+        "en": "Managers should give regular feedback.",
+        "ru": "Менеджеры должны регулярно давать фидбек."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give support",
+    "lemma": "give support",
+    "level": "b1",
+    "tr": "оказать поддержку",
+    "examples": [
+      {
+        "en": "Friends gave support during the move.",
+        "ru": "Друзья поддержали во время переезда."
+      },
+      {
+        "en": "The company gives support to startups.",
+        "ru": "Компания поддерживает стартапы."
+      },
+      {
+        "en": "Thank you for the support you gave.",
+        "ru": "Спасибо за поддержку."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give thought",
+    "lemma": "give thought",
+    "level": "b2",
+    "tr": "подумать; уделить внимание мысли",
+    "examples": [
+      {
+        "en": "Give some thought to the timeline.",
+        "ru": "Подумай о сроках."
+      },
+      {
+        "en": "I've given it a lot of thought.",
+        "ru": "Я много об этом думал."
+      },
+      {
+        "en": "They gave little thought to usability.",
+        "ru": "О юзабилити они почти не думали."
+      }
+    ],
+    "note": "",
+    "colloc": "give thought (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "give priority",
+    "lemma": "give priority",
+    "level": "b2",
+    "tr": "отдать приоритет",
+    "examples": [
+      {
+        "en": "Give priority to critical bugs.",
+        "ru": "Отдайте приоритет критическим багам."
+      },
+      {
+        "en": "Safety was given priority.",
+        "ru": "Безопасности отдали приоритет."
+      },
+      {
+        "en": "We give priority to existing customers.",
+        "ru": "Приоритет — текущим клиентам."
+      }
+    ],
+    "note": "",
+    "colloc": "give priority (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get permission",
+    "lemma": "get permission",
+    "level": "b1",
+    "tr": "получить разрешение",
+    "examples": [
+      {
+        "en": "Did you get permission to publish?",
+        "ru": "Ты получил разрешение на публикацию?"
+      },
+      {
+        "en": "We got permission from legal.",
+        "ru": "Мы получили разрешение у юристов."
+      },
+      {
+        "en": "You need to get permission first.",
+        "ru": "Сначала нужно получить разрешение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a job",
+    "lemma": "get a job",
+    "level": "b1",
+    "tr": "получить работу",
+    "examples": [
+      {
+        "en": "She got a job at a bank.",
+        "ru": "Она получила работу в банке."
+      },
+      {
+        "en": "It's tough to get a job without experience.",
+        "ru": "Без опыта сложно найти работу."
+      },
+      {
+        "en": "He finally got a job after months.",
+        "ru": "Он наконец нашёл работу спустя месяцы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a degree",
+    "lemma": "get a degree",
+    "level": "b1",
+    "tr": "получить степень / диплом",
+    "examples": [
+      {
+        "en": "She got a degree in economics.",
+        "ru": "Она получила диплом по экономике."
+      },
+      {
+        "en": "He's getting a master's degree.",
+        "ru": "Он получает степень магистра."
+      },
+      {
+        "en": "When did you get your degree?",
+        "ru": "Когда ты получил диплом?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get experience",
+    "lemma": "get experience",
+    "level": "b1",
+    "tr": "получить опыт",
+    "examples": [
+      {
+        "en": "Internships help you get experience.",
+        "ru": "Стажировки помогают набраться опыта."
+      },
+      {
+        "en": "I got valuable experience abroad.",
+        "ru": "Я получил ценный опыт за границей."
+      },
+      {
+        "en": "She wants to get more experience first.",
+        "ru": "Сначала она хочет набраться опыта."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get results",
+    "lemma": "get results",
+    "level": "b1",
+    "tr": "добиться результатов",
+    "examples": [
+      {
+        "en": "The new process gets better results.",
+        "ru": "Новый процесс даёт лучшие результаты."
+      },
+      {
+        "en": "We got results within a week.",
+        "ru": "Результаты появились за неделю."
+      },
+      {
+        "en": "Hard work alone doesn't always get results.",
+        "ru": "Одного труда не всегда достаточно для результата."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get attention",
+    "lemma": "get attention",
+    "level": "b1",
+    "tr": "привлечь внимание",
+    "examples": [
+      {
+        "en": "The headline got a lot of attention.",
+        "ru": "Заголовок привлёк много внимания."
+      },
+      {
+        "en": "Kids get attention by shouting.",
+        "ru": "Дети привлекают внимание криком."
+      },
+      {
+        "en": "The campaign got national attention.",
+        "ru": "Кампания привлекла внимание всей страны."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "get in touch",
+    "lemma": "get in touch",
+    "level": "b1",
+    "tr": "связаться",
+    "examples": [
+      {
+        "en": "Get in touch if you have questions.",
+        "ru": "Свяжитесь, если будут вопросы."
+      },
+      {
+        "en": "I'll get in touch tomorrow.",
+        "ru": "Свяжусь завтра."
+      },
+      {
+        "en": "We got in touch through LinkedIn.",
+        "ru": "Мы связались через LinkedIn."
+      }
+    ],
+    "note": "",
+    "colloc": "get in touch (with)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep a secret",
+    "lemma": "keep a secret",
+    "level": "b1",
+    "tr": "хранить секрет",
+    "examples": [
+      {
+        "en": "Can you keep a secret?",
+        "ru": "Умеешь хранить секреты?"
+      },
+      {
+        "en": "She kept the secret for years.",
+        "ru": "Она хранила секрет годами."
+      },
+      {
+        "en": "I can't keep this secret anymore.",
+        "ru": "Больше не могу хранить этот секрет."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep a promise",
+    "lemma": "keep a promise",
+    "level": "b1",
+    "tr": "сдержать обещание",
+    "examples": [
+      {
+        "en": "He always keeps his promises.",
+        "ru": "Он всегда держит обещания."
+      },
+      {
+        "en": "I kept my promise to call.",
+        "ru": "Я сдержал обещание позвонить."
+      },
+      {
+        "en": "Keeping a promise builds trust.",
+        "ru": "Сдержанное обещание укрепляет доверие."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep a record",
+    "lemma": "keep a record",
+    "level": "b1",
+    "tr": "вести учёт / запись",
+    "examples": [
+      {
+        "en": "Keep a record of all expenses.",
+        "ru": "Ведите учёт всех расходов."
+      },
+      {
+        "en": "She keeps detailed records.",
+        "ru": "Она ведёт подробные записи."
+      },
+      {
+        "en": "We kept a record of every change.",
+        "ru": "Мы фиксировали каждое изменение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep track",
+    "lemma": "keep track",
+    "level": "b1",
+    "tr": "отслеживать; следить",
+    "examples": [
+      {
+        "en": "Keep track of your hours.",
+        "ru": "Отслеживай часы."
+      },
+      {
+        "en": "It's hard to keep track of versions.",
+        "ru": "Сложно следить за версиями."
+      },
+      {
+        "en": "She keeps track of every bug.",
+        "ru": "Она отслеживает каждый баг."
+      }
+    ],
+    "note": "",
+    "colloc": "keep track (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep pace",
+    "lemma": "keep pace",
+    "level": "b2",
+    "tr": "идти в ногу; не отставать",
+    "examples": [
+      {
+        "en": "It's hard to keep pace with updates.",
+        "ru": "Сложно успевать за обновлениями."
+      },
+      {
+        "en": "She kept pace with the leaders.",
+        "ru": "Она не отставала от лидеров."
+      },
+      {
+        "en": "Our tools help teams keep pace.",
+        "ru": "Наши инструменты помогают командам не отставать."
+      }
+    ],
+    "note": "",
+    "colloc": "keep pace (with)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a promise",
+    "lemma": "break a promise",
+    "level": "b1",
+    "tr": "нарушить обещание",
+    "examples": [
+      {
+        "en": "Don't break a promise lightly.",
+        "ru": "Не нарушай обещания легкомысленно."
+      },
+      {
+        "en": "He broke his promise again.",
+        "ru": "Он снова нарушил обещание."
+      },
+      {
+        "en": "Breaking a promise damages trust.",
+        "ru": "Нарушенное обещание бьёт по доверию."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a record",
+    "lemma": "break a record",
+    "level": "b1",
+    "tr": "побить рекорд",
+    "examples": [
+      {
+        "en": "The runner broke the world record.",
+        "ru": "Бегун побил мировой рекорд."
+      },
+      {
+        "en": "Sales broke a company record.",
+        "ru": "Продажи побили рекорд компании."
+      },
+      {
+        "en": "They broke the record by two seconds.",
+        "ru": "Они побили рекорд на две секунды."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "break the law",
+    "lemma": "break the law",
+    "level": "b1",
+    "tr": "нарушить закон",
+    "examples": [
+      {
+        "en": "You can get fined for breaking the law.",
+        "ru": "За нарушение закона можно получить штраф."
+      },
+      {
+        "en": "He never deliberately breaks the law.",
+        "ru": "Он никогда намеренно не нарушает закон."
+      },
+      {
+        "en": "Companies that break the law face penalties.",
+        "ru": "Компании-нарушители получают штрафы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a habit",
+    "lemma": "break a habit",
+    "level": "b2",
+    "tr": "избавиться от привычки",
+    "examples": [
+      {
+        "en": "It's hard to break a bad habit.",
+        "ru": "От плохой привычки сложно избавиться."
+      },
+      {
+        "en": "He broke the habit of late nights.",
+        "ru": "Он избавился от привычки засиживаться допоздна."
+      },
+      {
+        "en": "Apps claim to help break habits.",
+        "ru": "Приложения обещают помочь бросить привычки."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch a cold",
+    "lemma": "catch a cold",
+    "level": "b1",
+    "tr": "простудиться",
+    "examples": [
+      {
+        "en": "I caught a cold on the flight.",
+        "ru": "Я простудился в самолёте."
+      },
+      {
+        "en": "Kids catch colds often in winter.",
+        "ru": "Зимой дети часто простужаются."
+      },
+      {
+        "en": "Wear a coat or you'll catch a cold.",
+        "ru": "Надень куртку, а то простудишься."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch fire",
+    "lemma": "catch fire",
+    "level": "b1",
+    "tr": "загореться",
+    "examples": [
+      {
+        "en": "The toaster caught fire.",
+        "ru": "Тостер загорелся."
+      },
+      {
+        "en": "Dry grass can catch fire easily.",
+        "ru": "Сухая трава легко загорается."
+      },
+      {
+        "en": "Luckily nothing caught fire.",
+        "ru": "К счастью, ничего не загорелось."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch a glimpse",
+    "lemma": "catch a glimpse",
+    "level": "b2",
+    "tr": "мельком увидеть",
+    "examples": [
+      {
+        "en": "I caught a glimpse of the stage.",
+        "ru": "Я мельком увидел сцену."
+      },
+      {
+        "en": "She caught a glimpse of the email.",
+        "ru": "Она мельком взглянула на письмо."
+      },
+      {
+        "en": "Tourists caught a glimpse of the palace.",
+        "ru": "Туристы мельком увидели дворец."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay attention",
+    "lemma": "pay attention",
+    "level": "b1",
+    "tr": "обращать внимание",
+    "examples": [
+      {
+        "en": "Pay attention to the instructions.",
+        "ru": "Обратите внимание на инструкции."
+      },
+      {
+        "en": "He wasn't paying attention in class.",
+        "ru": "Он не внимал на уроке."
+      },
+      {
+        "en": "Drivers must pay attention at all times.",
+        "ru": "Водители должны всегда быть внимательны."
+      }
+    ],
+    "note": "",
+    "colloc": "pay attention (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay a visit",
+    "lemma": "pay a visit",
+    "level": "b1",
+    "tr": "нанести визит",
+    "examples": [
+      {
+        "en": "We paid a visit to grandma.",
+        "ru": "Мы навестили бабушку."
+      },
+      {
+        "en": "The inspector paid a surprise visit.",
+        "ru": "Инспектор нанёс внезапный визит."
+      },
+      {
+        "en": "I'd like to pay a visit next month.",
+        "ru": "Хочу навестить в следующем месяце."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay a compliment",
+    "lemma": "pay a compliment",
+    "level": "b2",
+    "tr": "сделать комплимент",
+    "examples": [
+      {
+        "en": "She paid him a nice compliment.",
+        "ru": "Она сделала ему приятный комплимент."
+      },
+      {
+        "en": "Pay a compliment when it's deserved.",
+        "ru": "Делай комплимент, когда он заслужен."
+      },
+      {
+        "en": "He rarely pays compliments.",
+        "ru": "Он редко делает комплименты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay the price",
+    "lemma": "pay the price",
+    "level": "b2",
+    "tr": "поплатиться; заплатить цену",
+    "examples": [
+      {
+        "en": "If you skip sleep, you'll pay the price.",
+        "ru": "Если недосыпаешь — поплатишься."
+      },
+      {
+        "en": "The company paid the price for cutting QA.",
+        "ru": "Компания поплатилась за сокращение QA."
+      },
+      {
+        "en": "He paid a heavy price for that choice.",
+        "ru": "Он дорого заплатил за тот выбор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay tribute",
+    "lemma": "pay tribute",
+    "level": "c1",
+    "tr": "отдать дань уважения",
+    "examples": [
+      {
+        "en": "Fans paid tribute to the singer.",
+        "ru": "Фанаты отдали дань уважения певцу."
+      },
+      {
+        "en": "The speech paid tribute to volunteers.",
+        "ru": "Речь отдала дань волонтёрам."
+      },
+      {
+        "en": "We pay tribute to those who served.",
+        "ru": "Мы отдаём дань тем, кто служил."
+      }
+    ],
+    "note": "",
+    "colloc": "pay tribute (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put pressure",
+    "lemma": "put pressure",
+    "level": "b2",
+    "tr": "оказывать давление",
+    "examples": [
+      {
+        "en": "Don't put pressure on the team.",
+        "ru": "Не дави на команду."
+      },
+      {
+        "en": "Deadlines put pressure on everyone.",
+        "ru": "Дедлайны давят на всех."
+      },
+      {
+        "en": "Investors put pressure on the board.",
+        "ru": "Инвесторы давили на совет директоров."
+      }
+    ],
+    "note": "",
+    "colloc": "put pressure (on)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put an end to",
+    "lemma": "put an end to",
+    "level": "b2",
+    "tr": "положить конец",
+    "examples": [
+      {
+        "en": "We need to put an end to the leaks.",
+        "ru": "Нужно положить конец утечкам."
+      },
+      {
+        "en": "The ruling put an end to the dispute.",
+        "ru": "Решение положило конец спору."
+      },
+      {
+        "en": "She put an end to the rumor.",
+        "ru": "Она прекратила слух."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put emphasis",
+    "lemma": "put emphasis",
+    "level": "b2",
+    "tr": "делать акцент; подчёркивать",
+    "examples": [
+      {
+        "en": "The guide puts emphasis on safety.",
+        "ru": "Гайд делает акцент на безопасности."
+      },
+      {
+        "en": "Teachers put emphasis on practice.",
+        "ru": "Учителя подчёркивают практику."
+      },
+      {
+        "en": "The talk put emphasis on ethics.",
+        "ru": "Доклад сделал акцент на этике."
+      }
+    ],
+    "note": "",
+    "colloc": "put emphasis (on)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "put into practice",
+    "lemma": "put into practice",
+    "level": "b2",
+    "tr": "претворить в практику",
+    "examples": [
+      {
+        "en": "It's time to put the plan into practice.",
+        "ru": "Пора претворить план в практику."
+      },
+      {
+        "en": "She put the advice into practice.",
+        "ru": "Она применила совет на практике."
+      },
+      {
+        "en": "Ideas are useless until put into practice.",
+        "ru": "Идеи бесполезны, пока не применены."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a goal",
+    "lemma": "set a goal",
+    "level": "b1",
+    "tr": "поставить цель",
+    "examples": [
+      {
+        "en": "Set a goal you can measure.",
+        "ru": "Поставь измеримую цель."
+      },
+      {
+        "en": "We set a goal of 10% growth.",
+        "ru": "Мы поставили цель роста на 10%."
+      },
+      {
+        "en": "She set ambitious goals for the year.",
+        "ru": "Она поставила амбициозные цели на год."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a deadline",
+    "lemma": "set a deadline",
+    "level": "b1",
+    "tr": "установить дедлайн",
+    "examples": [
+      {
+        "en": "Let's set a deadline for Friday.",
+        "ru": "Давайте поставим дедлайн на пятницу."
+      },
+      {
+        "en": "They set unrealistic deadlines.",
+        "ru": "Они ставили нереалистичные дедлайны."
+      },
+      {
+        "en": "Who set this deadline?",
+        "ru": "Кто поставил этот дедлайн?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set an example",
+    "lemma": "set an example",
+    "level": "b1",
+    "tr": "подать пример",
+    "examples": [
+      {
+        "en": "Leaders should set an example.",
+        "ru": "Лидеры должны подавать пример."
+      },
+      {
+        "en": "She set a good example for juniors.",
+        "ru": "Она подала хороший пример джунам."
+      },
+      {
+        "en": "Parents set an example every day.",
+        "ru": "Родители каждый день подают пример."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "set fire",
+    "lemma": "set fire",
+    "level": "b2",
+    "tr": "поджечь; устроить пожар",
+    "examples": [
+      {
+        "en": "Someone set fire to the shed.",
+        "ru": "Кто-то поджёг сарай."
+      },
+      {
+        "en": "Protesters set fire to tires.",
+        "ru": "Протестующие подожгли покрышки."
+      },
+      {
+        "en": "Never set fire to waste outdoors.",
+        "ru": "Никогда не сжигайте мусор на улице."
+      }
+    ],
+    "note": "",
+    "colloc": "set fire (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise awareness",
+    "lemma": "raise awareness",
+    "level": "b2",
+    "tr": "повышать осведомлённость",
+    "examples": [
+      {
+        "en": "The campaign raised awareness of mental health.",
+        "ru": "Кампания повысила осведомлённость о ментальном здоровье."
+      },
+      {
+        "en": "We need to raise awareness among staff.",
+        "ru": "Нужно повысить осведомлённость сотрудников."
+      },
+      {
+        "en": "Schools raise awareness about bullying.",
+        "ru": "Школы повышают осведомлённость о травле."
+      }
+    ],
+    "note": "",
+    "colloc": "raise awareness (of/about)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise funds",
+    "lemma": "raise funds",
+    "level": "b1",
+    "tr": "собирать средства",
+    "examples": [
+      {
+        "en": "They raised funds for the hospital.",
+        "ru": "Они собрали средства для больницы."
+      },
+      {
+        "en": "We're raising funds online.",
+        "ru": "Мы собираем средства онлайн."
+      },
+      {
+        "en": "The event raised significant funds.",
+        "ru": "Мероприятие собрало значительные средства."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise a question",
+    "lemma": "raise a question",
+    "level": "b2",
+    "tr": "поднять вопрос",
+    "examples": [
+      {
+        "en": "That raises a question about privacy.",
+        "ru": "Это поднимает вопрос о приватности."
+      },
+      {
+        "en": "She raised an important question.",
+        "ru": "Она подняла важный вопрос."
+      },
+      {
+        "en": "Investors raised several questions.",
+        "ru": "Инвесторы подняли несколько вопросов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise an issue",
+    "lemma": "raise an issue",
+    "level": "b2",
+    "tr": "поднять проблему / вопрос",
+    "examples": [
+      {
+        "en": "I'd like to raise an issue with payroll.",
+        "ru": "Хочу поднять вопрос по зарплате."
+      },
+      {
+        "en": "He raised the issue in the meeting.",
+        "ru": "Он поднял проблему на встрече."
+      },
+      {
+        "en": "Nobody raised the issue until Friday.",
+        "ru": "До пятницы никто не поднимал вопрос."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise objections",
+    "lemma": "raise objections",
+    "level": "b2",
+    "tr": "возражать; выдвигать возражения",
+    "examples": [
+      {
+        "en": "Legal raised objections to the clause.",
+        "ru": "Юристы возразили против пункта."
+      },
+      {
+        "en": "No one raised objections.",
+        "ru": "Никто не возразил."
+      },
+      {
+        "en": "She raised strong objections.",
+        "ru": "Она выдвинула жёсткие возражения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise standards",
+    "lemma": "raise standards",
+    "level": "b2",
+    "tr": "повышать стандарты",
+    "examples": [
+      {
+        "en": "The reform raised standards of care.",
+        "ru": "Реформа повысила стандарты ухода."
+      },
+      {
+        "en": "We aim to raise standards across teams.",
+        "ru": "Мы хотим повысить стандарты во всех командах."
+      },
+      {
+        "en": "Competition raises industry standards.",
+        "ru": "Конкуренция повышает отраслевые стандарты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a risk",
+    "lemma": "run a risk",
+    "level": "b2",
+    "tr": "подвергаться риску; рисковать",
+    "examples": [
+      {
+        "en": "You run a risk if you skip backups.",
+        "ru": "Без бэкапов ты рискуешь."
+      },
+      {
+        "en": "Companies run a risk with unverified vendors.",
+        "ru": "С непроверенными вендорами компании рискуют."
+      },
+      {
+        "en": "He ran the risk of being late.",
+        "ru": "Он рисковал опоздать."
+      }
+    ],
+    "note": "",
+    "colloc": "run a risk (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a business",
+    "lemma": "run a business",
+    "level": "b1",
+    "tr": "вести бизнес",
+    "examples": [
+      {
+        "en": "She runs a small business from home.",
+        "ru": "Она ведёт небольшой бизнес из дома."
+      },
+      {
+        "en": "Running a business takes discipline.",
+        "ru": "Вести бизнес требует дисциплины."
+      },
+      {
+        "en": "They run a family business.",
+        "ru": "Они ведут семейный бизнес."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "run out of time",
+    "lemma": "run out of time",
+    "level": "b1",
+    "tr": "не успеть; закончиться времени",
+    "examples": [
+      {
+        "en": "We ran out of time in the exam.",
+        "ru": "На экзамене нам не хватило времени."
+      },
+      {
+        "en": "Don't run out of time on the last question.",
+        "ru": "Не оставь последнее задание без времени."
+      },
+      {
+        "en": "The team ran out of time before launch.",
+        "ru": "Команда не успела до релиза."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet a deadline",
+    "lemma": "meet a deadline",
+    "level": "b1",
+    "tr": "уложиться в дедлайн",
+    "examples": [
+      {
+        "en": "We met the deadline despite bugs.",
+        "ru": "Мы уложились в дедлайн несмотря на баги."
+      },
+      {
+        "en": "Can you meet Friday's deadline?",
+        "ru": "Успеешь к пятничному дедлайну?"
+      },
+      {
+        "en": "They rarely meet deadlines.",
+        "ru": "Они редко укладываются в дедлайны."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet a requirement",
+    "lemma": "meet a requirement",
+    "level": "b2",
+    "tr": "соответствовать требованию",
+    "examples": [
+      {
+        "en": "The build meets all requirements.",
+        "ru": "Сборка соответствует всем требованиям."
+      },
+      {
+        "en": "Does this meet the security requirement?",
+        "ru": "Это соответствует требованию по безопасности?"
+      },
+      {
+        "en": "Candidates must meet the requirements.",
+        "ru": "Кандидаты должны соответствовать требованиям."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet expectations",
+    "lemma": "meet expectations",
+    "level": "b1",
+    "tr": "оправдать ожидания",
+    "examples": [
+      {
+        "en": "The product met our expectations.",
+        "ru": "Продукт оправдал ожидания."
+      },
+      {
+        "en": "Service didn't meet expectations.",
+        "ru": "Сервис не оправдал ожиданий."
+      },
+      {
+        "en": "We aim to meet customer expectations.",
+        "ru": "Мы стремимся оправдать ожидания клиентов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet a need",
+    "lemma": "meet a need",
+    "level": "b2",
+    "tr": "удовлетворять потребность",
+    "examples": [
+      {
+        "en": "The feature meets a real user need.",
+        "ru": "Фича закрывает реальную потребность пользователей."
+      },
+      {
+        "en": "Scholarships meet a financial need.",
+        "ru": "Стипендии закрывают финансовую потребность."
+      },
+      {
+        "en": "Does this meet your need?",
+        "ru": "Это закрывает твою потребность?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold a meeting",
+    "lemma": "hold a meeting",
+    "level": "b1",
+    "tr": "провести встречу",
+    "examples": [
+      {
+        "en": "We'll hold a meeting on Monday.",
+        "ru": "Проведём встречу в понедельник."
+      },
+      {
+        "en": "They held a meeting with investors.",
+        "ru": "Они провели встречу с инвесторами."
+      },
+      {
+        "en": "Who's holding the meeting?",
+        "ru": "Кто ведёт встречу?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold a conversation",
+    "lemma": "hold a conversation",
+    "level": "b2",
+    "tr": "вести разговор",
+    "examples": [
+      {
+        "en": "It's hard to hold a conversation in noise.",
+        "ru": "В шуме сложно вести разговор."
+      },
+      {
+        "en": "She can hold a conversation in French.",
+        "ru": "Она может поддержать разговор по-французски."
+      },
+      {
+        "en": "We held a brief conversation at lunch.",
+        "ru": "За обедом мы коротко поговорили."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold someone responsible",
+    "lemma": "hold someone responsible",
+    "level": "b2",
+    "tr": "считать кого-то ответственным",
+    "examples": [
+      {
+        "en": "We hold managers responsible for safety.",
+        "ru": "Мы считаем менеджеров ответственными за безопасность."
+      },
+      {
+        "en": "Don't hold me responsible for delays.",
+        "ru": "Не возлагай на меня ответственность за задержки."
+      },
+      {
+        "en": "The board held him responsible.",
+        "ru": "Совет возложил на него ответственность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold an opinion",
+    "lemma": "hold an opinion",
+    "level": "b2",
+    "tr": "придерживаться мнения",
+    "examples": [
+      {
+        "en": "I hold a different opinion.",
+        "ru": "Я придерживаюсь другого мнения."
+      },
+      {
+        "en": "She holds strong opinions on privacy.",
+        "ru": "У неё жёсткие взгляды на приватность."
+      },
+      {
+        "en": "You're free to hold any opinion.",
+        "ru": "Ты вправе придерживаться любого мнения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "draw a conclusion",
+    "lemma": "draw a conclusion",
+    "level": "b1",
+    "tr": "сделать вывод",
+    "examples": [
+      {
+        "en": "From the data we can draw a conclusion.",
+        "ru": "По данным можно сделать вывод."
+      },
+      {
+        "en": "Don't draw a conclusion too quickly.",
+        "ru": "Не делай вывод слишком быстро."
+      },
+      {
+        "en": "She drew a conclusion after the interview.",
+        "ru": "Она сделала вывод после интервью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "draw attention",
+    "lemma": "draw attention",
+    "level": "b1",
+    "tr": "привлечь внимание",
+    "examples": [
+      {
+        "en": "The banner drew attention to the sale.",
+        "ru": "Баннер привлёк внимание к распродаже."
+      },
+      {
+        "en": "His remark drew attention away from the bug.",
+        "ru": "Его реплика отвлекла внимание от бага."
+      },
+      {
+        "en": "We want to draw attention to safety.",
+        "ru": "Мы хотим привлечь внимание к безопасности."
+      }
+    ],
+    "note": "",
+    "colloc": "draw attention (to)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "draw a distinction",
+    "lemma": "draw a distinction",
+    "level": "c1",
+    "tr": "провести различие",
+    "examples": [
+      {
+        "en": "We must draw a distinction between bugs and features.",
+        "ru": "Нужно провести различие между багами и фичами."
+      },
+      {
+        "en": "She drew a clear distinction.",
+        "ru": "Она провела чёткое различие."
+      },
+      {
+        "en": "The law draws a distinction between the two.",
+        "ru": "Закон проводит различие между ними."
+      }
+    ],
+    "note": "",
+    "colloc": "draw a distinction (between)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "face a challenge",
+    "lemma": "face a challenge",
+    "level": "b1",
+    "tr": "столкнуться с вызовом",
+    "examples": [
+      {
+        "en": "Startups face many challenges.",
+        "ru": "Стартапы сталкиваются со многими вызовами."
+      },
+      {
+        "en": "We faced a challenge with scaling.",
+        "ru": "Мы столкнулись с вызовом масштабирования."
+      },
+      {
+        "en": "She faced the challenge calmly.",
+        "ru": "Она спокойно встретила вызов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "face the facts",
+    "lemma": "face the facts",
+    "level": "b2",
+    "tr": "смотреть фактам в лицо",
+    "examples": [
+      {
+        "en": "It's time to face the facts.",
+        "ru": "Пора смотреть фактам в лицо."
+      },
+      {
+        "en": "He refused to face the facts.",
+        "ru": "Он отказывался смотреть фактам в лицо."
+      },
+      {
+        "en": "Facing the facts helped us pivot.",
+        "ru": "Взгляд фактам в лицо помог сменить курс."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "face competition",
+    "lemma": "face competition",
+    "level": "b2",
+    "tr": "сталкиваться с конкуренцией",
+    "examples": [
+      {
+        "en": "Local shops face tough competition.",
+        "ru": "Местным магазинам приходится конкурировать жёстко."
+      },
+      {
+        "en": "We face competition from bigger firms.",
+        "ru": "Мы сталкиваемся с конкуренцией крупных компаний."
+      },
+      {
+        "en": "New apps face fierce competition.",
+        "ru": "Новые приложения сталкиваются с жёсткой конкуренцией."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain experience",
+    "lemma": "gain experience",
+    "level": "b1",
+    "tr": "набраться опыта",
+    "examples": [
+      {
+        "en": "Internships help you gain experience.",
+        "ru": "Стажировки помогают набраться опыта."
+      },
+      {
+        "en": "She gained experience abroad.",
+        "ru": "Она набралась опыта за границей."
+      },
+      {
+        "en": "You gain experience by shipping.",
+        "ru": "Опыт приходит, когда ты реально релизишь."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain weight",
+    "lemma": "gain weight",
+    "level": "b1",
+    "tr": "набрать вес",
+    "examples": [
+      {
+        "en": "He gained weight after the holidays.",
+        "ru": "Он набрал вес после праздников."
+      },
+      {
+        "en": "Patients sometimes gain weight on this drug.",
+        "ru": "На этом препарате пациенты иногда набирают вес."
+      },
+      {
+        "en": "I don't want to gain weight.",
+        "ru": "Не хочу набирать вес."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose weight",
+    "lemma": "lose weight",
+    "level": "b1",
+    "tr": "сбросить вес",
+    "examples": [
+      {
+        "en": "She lost weight by walking daily.",
+        "ru": "Она сбросила вес ежедневной ходьбой."
+      },
+      {
+        "en": "It's hard to lose weight quickly.",
+        "ru": "Быстро сбросить вес сложно."
+      },
+      {
+        "en": "He wants to lose weight before summer.",
+        "ru": "Он хочет сбросить вес к лету."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain confidence",
+    "lemma": "gain confidence",
+    "level": "b1",
+    "tr": "обрести уверенность",
+    "examples": [
+      {
+        "en": "Practice helped her gain confidence.",
+        "ru": "Практика помогла ей обрести уверенность."
+      },
+      {
+        "en": "He gained confidence after the talk.",
+        "ru": "После выступления он стал увереннее."
+      },
+      {
+        "en": "Kids gain confidence through small wins.",
+        "ru": "Дети обретают уверенность через маленькие победы."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain access",
+    "lemma": "gain access",
+    "level": "b2",
+    "tr": "получить доступ",
+    "examples": [
+      {
+        "en": "Employees gain access after onboarding.",
+        "ru": "Сотрудники получают доступ после онбординга."
+      },
+      {
+        "en": "Hackers gained access to the database.",
+        "ru": "Хакеры получили доступ к базе."
+      },
+      {
+        "en": "How do I gain access to the folder?",
+        "ru": "Как получить доступ к папке?"
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain support",
+    "lemma": "gain support",
+    "level": "b2",
+    "tr": "получить поддержку",
+    "examples": [
+      {
+        "en": "The bill gained support in parliament.",
+        "ru": "Законопроект получил поддержку в парламенте."
+      },
+      {
+        "en": "We need to gain support from users.",
+        "ru": "Нужно заручиться поддержкой пользователей."
+      },
+      {
+        "en": "She gained support for the proposal.",
+        "ru": "Она получила поддержку предложения."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose touch",
+    "lemma": "lose touch",
+    "level": "b1",
+    "tr": "потерять связь",
+    "examples": [
+      {
+        "en": "We lost touch after college.",
+        "ru": "После университета мы потеряли связь."
+      },
+      {
+        "en": "Don't lose touch — write sometimes.",
+        "ru": "Не теряй связь — иногда пиши."
+      },
+      {
+        "en": "I lost touch with most classmates.",
+        "ru": "Я потерял связь с большинством однокурсников."
+      }
+    ],
+    "note": "",
+    "colloc": "lose touch (with)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose track",
+    "lemma": "lose track",
+    "level": "b1",
+    "tr": "потерять счёт / след",
+    "examples": [
+      {
+        "en": "I lost track of time.",
+        "ru": "Я потерял счёт времени."
+      },
+      {
+        "en": "It's easy to lose track of versions.",
+        "ru": "Легко потерять след версий."
+      },
+      {
+        "en": "She lost track of the conversation.",
+        "ru": "Она потеряла нить разговора."
+      }
+    ],
+    "note": "",
+    "colloc": "lose track (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose interest",
+    "lemma": "lose interest",
+    "level": "b1",
+    "tr": "потерять интерес",
+    "examples": [
+      {
+        "en": "Users lose interest after three clicks.",
+        "ru": "Пользователи теряют интерес после трёх кликов."
+      },
+      {
+        "en": "He lost interest in the hobby.",
+        "ru": "Он потерял интерес к хобби."
+      },
+      {
+        "en": "Don't let them lose interest.",
+        "ru": "Не дай им потерять интерес."
+      }
+    ],
+    "note": "",
+    "colloc": "lose interest (in)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose control",
+    "lemma": "lose control",
+    "level": "b1",
+    "tr": "потерять контроль",
+    "examples": [
+      {
+        "en": "The driver lost control on ice.",
+        "ru": "Водитель потерял управление на льду."
+      },
+      {
+        "en": "Don't lose control of the schedule.",
+        "ru": "Не теряй контроль над расписанием."
+      },
+      {
+        "en": "She briefly lost control of her temper.",
+        "ru": "Она ненадолго потеряла контроль над собой."
+      }
+    ],
+    "note": "",
+    "colloc": "lose control (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose sight",
+    "lemma": "lose sight",
+    "level": "b2",
+    "tr": "упустить из виду",
+    "examples": [
+      {
+        "en": "Don't lose sight of the goal.",
+        "ru": "Не упускай цель из виду."
+      },
+      {
+        "en": "We lost sight of the boat.",
+        "ru": "Мы потеряли лодку из виду."
+      },
+      {
+        "en": "Managers sometimes lose sight of users.",
+        "ru": "Менеджеры иногда упускают пользователей из виду."
+      }
+    ],
+    "note": "",
+    "colloc": "lose sight (of)",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose one's temper",
+    "lemma": "lose one's temper",
+    "level": "b2",
+    "tr": "выйти из себя",
+    "examples": [
+      {
+        "en": "He lost his temper in the meeting.",
+        "ru": "Он вышел из себя на встрече."
+      },
+      {
+        "en": "Try not to lose your temper.",
+        "ru": "Постарайся не выходить из себя."
+      },
+      {
+        "en": "She rarely loses her temper.",
+        "ru": "Она редко выходит из себя."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "save time",
+    "lemma": "save time",
+    "level": "b1",
+    "tr": "сэкономить время",
+    "examples": [
+      {
+        "en": "Templates save time.",
+        "ru": "Шаблоны экономят время."
+      },
+      {
+        "en": "This shortcut saved me time.",
+        "ru": "Этот шорткат сэкономил мне время."
+      },
+      {
+        "en": "Automation saves time every week.",
+        "ru": "Автоматизация каждую неделю экономит время."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "save money",
+    "lemma": "save money",
+    "level": "b1",
+    "tr": "сэкономить деньги",
+    "examples": [
+      {
+        "en": "Cooking at home saves money.",
+        "ru": "Готовка дома экономит деньги."
+      },
+      {
+        "en": "We saved money by switching plans.",
+        "ru": "Мы сэкономили, сменив тариф."
+      },
+      {
+        "en": "Bulk buying can save money.",
+        "ru": "Оптовые покупки могут экономить деньги."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "save energy",
+    "lemma": "save energy",
+    "level": "b1",
+    "tr": "экономить энергию",
+    "examples": [
+      {
+        "en": "LED bulbs save energy.",
+        "ru": "Светодиоды экономят энергию."
+      },
+      {
+        "en": "Turn off screens to save energy.",
+        "ru": "Выключай экраны, чтобы экономить энергию."
+      },
+      {
+        "en": "The building was designed to save energy.",
+        "ru": "Здание спроектировали с упором на экономию энергии."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste time",
+    "lemma": "waste time",
+    "level": "b1",
+    "tr": "тратить время впустую",
+    "examples": [
+      {
+        "en": "Don't waste time on busywork.",
+        "ru": "Не трать время на бессмысленную работу."
+      },
+      {
+        "en": "We wasted time in the wrong meeting.",
+        "ru": "Мы потратили время на ненужную встречу."
+      },
+      {
+        "en": "Arguing further would waste time.",
+        "ru": "Дальше спорить — только терять время."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste money",
+    "lemma": "waste money",
+    "level": "b1",
+    "tr": "транжирить деньги",
+    "examples": [
+      {
+        "en": "Don't waste money on unused tools.",
+        "ru": "Не трать деньги на ненужные инструменты."
+      },
+      {
+        "en": "They wasted money on ads that flopped.",
+        "ru": "Они потратили деньги на провальные объявления."
+      },
+      {
+        "en": "Repairing it twice wasted money.",
+        "ru": "Два ремонта оказались пустой тратой."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend time",
+    "lemma": "spend time",
+    "level": "b1",
+    "tr": "тратить / проводить время",
+    "examples": [
+      {
+        "en": "I spend time with family on Sundays.",
+        "ru": "По воскресеньям я провожу время с семьёй."
+      },
+      {
+        "en": "She spends too much time on email.",
+        "ru": "Она слишком много времени тратит на почту."
+      },
+      {
+        "en": "We spent time debugging overnight.",
+        "ru": "Мы провели ночь за отладкой."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend money",
+    "lemma": "spend money",
+    "level": "b1",
+    "tr": "тратить деньги",
+    "examples": [
+      {
+        "en": "They spend money carefully.",
+        "ru": "Они тратят деньги осторожно."
+      },
+      {
+        "en": "Don't spend money you don't have.",
+        "ru": "Не трать деньги, которых нет."
+      },
+      {
+        "en": "We spent money on better hardware.",
+        "ru": "Мы потратили деньги на лучшее железо."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "kill time",
+    "lemma": "kill time",
+    "level": "b2",
+    "tr": "убивать время",
+    "examples": [
+      {
+        "en": "I killed time at the airport cafe.",
+        "ru": "Я убивал время в кафе аэропорта."
+      },
+      {
+        "en": "Games help kill time on trains.",
+        "ru": "Игры помогают убивать время в поезде."
+      },
+      {
+        "en": "We killed time until the store opened.",
+        "ru": "Мы убивали время, пока не открылся магазин."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  },
+  {
+    "word": "buy time",
+    "lemma": "buy time",
+    "level": "b2",
+    "tr": "выиграть время",
+    "examples": [
+      {
+        "en": "A temporary fix buys time.",
+        "ru": "Временный фикс выигрывает время."
+      },
+      {
+        "en": "They bought time with a soft launch.",
+        "ru": "Они выиграли время мягким запуском."
+      },
+      {
+        "en": "Asking for a week bought us time.",
+        "ru": "Просьба о неделе выиграла нам время."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "v + n",
+    "pos": "collocation"
+  }
+]

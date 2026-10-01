@@ -1,0 +1,1370 @@
+[
+  {
+    "word": "conceptual model",
+    "lemma": "conceptual model",
+    "level": "b2",
+    "tr": "концептуальная модель",
+    "examples": [
+      {
+        "en": "The paper discusses conceptual model.",
+        "ru": "В статье обсуждается: концептуальная модель."
+      },
+      {
+        "en": "We carefully considered conceptual model.",
+        "ru": "Мы тщательно учли: концептуальная модель."
+      },
+      {
+        "en": "Students should understand conceptual model.",
+        "ru": "Студентам важно понимать: концептуальная модель."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "path diagram",
+    "lemma": "path diagram",
+    "level": "c1",
+    "tr": "path-диаграмма",
+    "examples": [
+      {
+        "en": "The paper discusses path diagram.",
+        "ru": "В статье обсуждается: path-диаграмма."
+      },
+      {
+        "en": "We carefully considered path diagram.",
+        "ru": "Мы тщательно учли: path-диаграмма."
+      },
+      {
+        "en": "Students should understand path diagram.",
+        "ru": "Студентам важно понимать: path-диаграмма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "structural equation modeling",
+    "lemma": "structural equation modeling",
+    "level": "c1",
+    "tr": "моделирование структурными уравнениями",
+    "examples": [
+      {
+        "en": "The paper discusses structural equation modeling.",
+        "ru": "В статье обсуждается: моделирование структурными уравнениями."
+      },
+      {
+        "en": "We carefully considered structural equation modeling.",
+        "ru": "Мы тщательно учли: моделирование структурными уравнениями."
+      },
+      {
+        "en": "Students should understand structural equation modeling.",
+        "ru": "Студентам важно понимать: моделирование структурными уравнениями."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "hierarchical model",
+    "lemma": "hierarchical model",
+    "level": "c1",
+    "tr": "иерархическая модель",
+    "examples": [
+      {
+        "en": "The paper discusses hierarchical model.",
+        "ru": "В статье обсуждается: иерархическая модель."
+      },
+      {
+        "en": "We carefully considered hierarchical model.",
+        "ru": "Мы тщательно учли: иерархическая модель."
+      },
+      {
+        "en": "Students should understand hierarchical model.",
+        "ru": "Студентам важно понимать: иерархическая модель."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "multilevel model",
+    "lemma": "multilevel model",
+    "level": "c1",
+    "tr": "многоуровневая модель",
+    "examples": [
+      {
+        "en": "The paper discusses multilevel model.",
+        "ru": "В статье обсуждается: многоуровневая модель."
+      },
+      {
+        "en": "We carefully considered multilevel model.",
+        "ru": "Мы тщательно учли: многоуровневая модель."
+      },
+      {
+        "en": "Students should understand multilevel model.",
+        "ru": "Студентам важно понимать: многоуровневая модель."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "fixed effects",
+    "lemma": "fixed effects",
+    "level": "c1",
+    "tr": "фиксированные эффекты",
+    "examples": [
+      {
+        "en": "The paper discusses fixed effects.",
+        "ru": "В статье обсуждается: фиксированные эффекты."
+      },
+      {
+        "en": "We carefully considered fixed effects.",
+        "ru": "Мы тщательно учли: фиксированные эффекты."
+      },
+      {
+        "en": "Students should understand fixed effects.",
+        "ru": "Студентам важно понимать: фиксированные эффекты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "random effects",
+    "lemma": "random effects",
+    "level": "c1",
+    "tr": "случайные эффекты",
+    "examples": [
+      {
+        "en": "The paper discusses random effects.",
+        "ru": "В статье обсуждается: случайные эффекты."
+      },
+      {
+        "en": "We carefully considered random effects.",
+        "ru": "Мы тщательно учли: случайные эффекты."
+      },
+      {
+        "en": "Students should understand random effects.",
+        "ru": "Студентам важно понимать: случайные эффекты."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "instrumental variable",
+    "lemma": "instrumental variable",
+    "level": "c1",
+    "tr": "инструментальная переменная",
+    "examples": [
+      {
+        "en": "The paper discusses instrumental variable.",
+        "ru": "В статье обсуждается: инструментальная переменная."
+      },
+      {
+        "en": "We carefully considered instrumental variable.",
+        "ru": "Мы тщательно учли: инструментальная переменная."
+      },
+      {
+        "en": "Students should understand instrumental variable.",
+        "ru": "Студентам важно понимать: инструментальная переменная."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "natural experiment",
+    "lemma": "natural experiment",
+    "level": "c1",
+    "tr": "естественный эксперимент",
+    "examples": [
+      {
+        "en": "The paper discusses natural experiment.",
+        "ru": "В статье обсуждается: естественный эксперимент."
+      },
+      {
+        "en": "We carefully considered natural experiment.",
+        "ru": "Мы тщательно учли: естественный эксперимент."
+      },
+      {
+        "en": "Students should understand natural experiment.",
+        "ru": "Студентам важно понимать: естественный эксперимент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "quasi-experiment",
+    "lemma": "quasi-experiment",
+    "level": "c1",
+    "tr": "квазиэксперимент",
+    "examples": [
+      {
+        "en": "The paper discusses quasi-experiment.",
+        "ru": "В статье обсуждается: квазиэксперимент."
+      },
+      {
+        "en": "We carefully considered quasi-experiment.",
+        "ru": "Мы тщательно учли: квазиэксперимент."
+      },
+      {
+        "en": "Students should understand quasi-experiment.",
+        "ru": "Студентам важно понимать: квазиэксперимент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "field experiment",
+    "lemma": "field experiment",
+    "level": "b2",
+    "tr": "полевой эксперимент",
+    "examples": [
+      {
+        "en": "The paper discusses field experiment.",
+        "ru": "В статье обсуждается: полевой эксперимент."
+      },
+      {
+        "en": "We carefully considered field experiment.",
+        "ru": "Мы тщательно учли: полевой эксперимент."
+      },
+      {
+        "en": "Students should understand field experiment.",
+        "ru": "Студентам важно понимать: полевой эксперимент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "lab experiment",
+    "lemma": "lab experiment",
+    "level": "b2",
+    "tr": "лабораторный эксперимент",
+    "examples": [
+      {
+        "en": "The paper discusses lab experiment.",
+        "ru": "В статье обсуждается: лабораторный эксперимент."
+      },
+      {
+        "en": "We carefully considered lab experiment.",
+        "ru": "Мы тщательно учли: лабораторный эксперимент."
+      },
+      {
+        "en": "Students should understand lab experiment.",
+        "ru": "Студентам важно понимать: лабораторный эксперимент."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "A/B test",
+    "lemma": "a/b test",
+    "level": "b1",
+    "tr": "A/B-тест",
+    "examples": [
+      {
+        "en": "The paper discusses A/B test.",
+        "ru": "В статье обсуждается: A/B-тест."
+      },
+      {
+        "en": "We carefully considered A/B test.",
+        "ru": "Мы тщательно учли: A/B-тест."
+      },
+      {
+        "en": "Students should understand A/B test.",
+        "ru": "Студентам важно понимать: A/B-тест."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "randomized controlled trial",
+    "lemma": "randomized controlled trial",
+    "level": "c1",
+    "tr": "рандомизированное контролируемое испытание",
+    "examples": [
+      {
+        "en": "The paper discusses randomized controlled trial.",
+        "ru": "В статье обсуждается: рандомизированное контролируемое испытание."
+      },
+      {
+        "en": "We carefully considered randomized controlled trial.",
+        "ru": "Мы тщательно учли: рандомизированное контролируемое испытание."
+      },
+      {
+        "en": "Students should understand randomized controlled trial.",
+        "ru": "Студентам важно понимать: рандомизированное контролируемое испытание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "clinical trial",
+    "lemma": "clinical trial",
+    "level": "b2",
+    "tr": "клиническое испытание",
+    "examples": [
+      {
+        "en": "The paper discusses clinical trial.",
+        "ru": "В статье обсуждается: клиническое испытание."
+      },
+      {
+        "en": "We carefully considered clinical trial.",
+        "ru": "Мы тщательно учли: клиническое испытание."
+      },
+      {
+        "en": "Students should understand clinical trial.",
+        "ru": "Студентам важно понимать: клиническое испытание."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "cohort study",
+    "lemma": "cohort study",
+    "level": "c1",
+    "tr": "когортное исследование",
+    "examples": [
+      {
+        "en": "The paper discusses cohort study.",
+        "ru": "В статье обсуждается: когортное исследование."
+      },
+      {
+        "en": "We carefully considered cohort study.",
+        "ru": "Мы тщательно учли: когортное исследование."
+      },
+      {
+        "en": "Students should understand cohort study.",
+        "ru": "Студентам важно понимать: когортное исследование."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "case-control study",
+    "lemma": "case-control study",
+    "level": "c1",
+    "tr": "исследование случай-контроль",
+    "examples": [
+      {
+        "en": "The paper discusses case-control study.",
+        "ru": "В статье обсуждается: исследование случай-контроль."
+      },
+      {
+        "en": "We carefully considered case-control study.",
+        "ru": "Мы тщательно учли: исследование случай-контроль."
+      },
+      {
+        "en": "Students should understand case-control study.",
+        "ru": "Студентам важно понимать: исследование случай-контроль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "ethnographic study",
+    "lemma": "ethnographic study",
+    "level": "c1",
+    "tr": "этнографическое исследование",
+    "examples": [
+      {
+        "en": "The paper discusses ethnographic study.",
+        "ru": "В статье обсуждается: этнографическое исследование."
+      },
+      {
+        "en": "We carefully considered ethnographic study.",
+        "ru": "Мы тщательно учли: этнографическое исследование."
+      },
+      {
+        "en": "Students should understand ethnographic study.",
+        "ru": "Студентам важно понимать: этнографическое исследование."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "participant observation",
+    "lemma": "participant observation",
+    "level": "c1",
+    "tr": "включённое наблюдение",
+    "examples": [
+      {
+        "en": "The paper discusses participant observation.",
+        "ru": "В статье обсуждается: включённое наблюдение."
+      },
+      {
+        "en": "We carefully considered participant observation.",
+        "ru": "Мы тщательно учли: включённое наблюдение."
+      },
+      {
+        "en": "Students should understand participant observation.",
+        "ru": "Студентам важно понимать: включённое наблюдение."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "semi-structured interview",
+    "lemma": "semi-structured interview",
+    "level": "c1",
+    "tr": "полуструктурированное интервью",
+    "examples": [
+      {
+        "en": "The paper discusses semi-structured interview.",
+        "ru": "В статье обсуждается: полуструктурированное интервью."
+      },
+      {
+        "en": "We carefully considered semi-structured interview.",
+        "ru": "Мы тщательно учли: полуструктурированное интервью."
+      },
+      {
+        "en": "Students should understand semi-structured interview.",
+        "ru": "Студентам важно понимать: полуструктурированное интервью."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "focus group",
+    "lemma": "focus group",
+    "level": "b2",
+    "tr": "фокус-группа",
+    "examples": [
+      {
+        "en": "The paper discusses focus group.",
+        "ru": "В статье обсуждается: фокус-группа."
+      },
+      {
+        "en": "We carefully considered focus group.",
+        "ru": "Мы тщательно учли: фокус-группа."
+      },
+      {
+        "en": "Students should understand focus group.",
+        "ru": "Студентам важно понимать: фокус-группа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "transcript analysis",
+    "lemma": "transcript analysis",
+    "level": "c1",
+    "tr": "анализ транскриптов",
+    "examples": [
+      {
+        "en": "The paper discusses transcript analysis.",
+        "ru": "В статье обсуждается: анализ транскриптов."
+      },
+      {
+        "en": "We carefully considered transcript analysis.",
+        "ru": "Мы тщательно учли: анализ транскриптов."
+      },
+      {
+        "en": "Students should understand transcript analysis.",
+        "ru": "Студентам важно понимать: анализ транскриптов."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "coding scheme",
+    "lemma": "coding scheme",
+    "level": "c1",
+    "tr": "схема кодирования",
+    "examples": [
+      {
+        "en": "The paper discusses coding scheme.",
+        "ru": "В статье обсуждается: схема кодирования."
+      },
+      {
+        "en": "We carefully considered coding scheme.",
+        "ru": "Мы тщательно учли: схема кодирования."
+      },
+      {
+        "en": "Students should understand coding scheme.",
+        "ru": "Студентам важно понимать: схема кодирования."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "intercoder agreement",
+    "lemma": "intercoder agreement",
+    "level": "c1",
+    "tr": "согласие кодировщиков",
+    "examples": [
+      {
+        "en": "The paper discusses intercoder agreement.",
+        "ru": "В статье обсуждается: согласие кодировщиков."
+      },
+      {
+        "en": "We carefully considered intercoder agreement.",
+        "ru": "Мы тщательно учли: согласие кодировщиков."
+      },
+      {
+        "en": "Students should understand intercoder agreement.",
+        "ru": "Студентам важно понимать: согласие кодировщиков."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "member checking",
+    "lemma": "member checking",
+    "level": "c1",
+    "tr": "проверка участниками",
+    "examples": [
+      {
+        "en": "The paper discusses member checking.",
+        "ru": "В статье обсуждается: проверка участниками."
+      },
+      {
+        "en": "We carefully considered member checking.",
+        "ru": "Мы тщательно учли: проверка участниками."
+      },
+      {
+        "en": "Students should understand member checking.",
+        "ru": "Студентам важно понимать: проверка участниками."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "triangulation",
+    "lemma": "triangulation",
+    "level": "c1",
+    "tr": "триангуляция",
+    "examples": [
+      {
+        "en": "The paper discusses triangulation.",
+        "ru": "В статье обсуждается: триангуляция."
+      },
+      {
+        "en": "We carefully considered triangulation.",
+        "ru": "Мы тщательно учли: триангуляция."
+      },
+      {
+        "en": "Students should understand triangulation.",
+        "ru": "Студентам важно понимать: триангуляция."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "transferability",
+    "lemma": "transferability",
+    "level": "c1",
+    "tr": "переносимость",
+    "examples": [
+      {
+        "en": "The paper discusses transferability.",
+        "ru": "В статье обсуждается: переносимость."
+      },
+      {
+        "en": "We carefully considered transferability.",
+        "ru": "Мы тщательно учли: переносимость."
+      },
+      {
+        "en": "Students should understand transferability.",
+        "ru": "Студентам важно понимать: переносимость."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "credibility",
+    "lemma": "credibility",
+    "level": "c1",
+    "tr": "достоверность (кач.)",
+    "examples": [
+      {
+        "en": "The paper discusses credibility.",
+        "ru": "В статье обсуждается: достоверность (кач.)."
+      },
+      {
+        "en": "We carefully considered credibility.",
+        "ru": "Мы тщательно учли: достоверность (кач.)."
+      },
+      {
+        "en": "Students should understand credibility.",
+        "ru": "Студентам важно понимать: достоверность (кач.)."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "dependability",
+    "lemma": "dependability",
+    "level": "c1",
+    "tr": "надёжность (кач.)",
+    "examples": [
+      {
+        "en": "The paper discusses dependability.",
+        "ru": "В статье обсуждается: надёжность (кач.)."
+      },
+      {
+        "en": "We carefully considered dependability.",
+        "ru": "Мы тщательно учли: надёжность (кач.)."
+      },
+      {
+        "en": "Students should understand dependability.",
+        "ru": "Студентам важно понимать: надёжность (кач.)."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "confirmability",
+    "lemma": "confirmability",
+    "level": "c1",
+    "tr": "подтверждаемость",
+    "examples": [
+      {
+        "en": "The paper discusses confirmability.",
+        "ru": "В статье обсуждается: подтверждаемость."
+      },
+      {
+        "en": "We carefully considered confirmability.",
+        "ru": "Мы тщательно учли: подтверждаемость."
+      },
+      {
+        "en": "Students should understand confirmability.",
+        "ru": "Студентам важно понимать: подтверждаемость."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "positionality",
+    "lemma": "positionality",
+    "level": "c1",
+    "tr": "позициональность",
+    "examples": [
+      {
+        "en": "The paper discusses positionality.",
+        "ru": "В статье обсуждается: позициональность."
+      },
+      {
+        "en": "We carefully considered positionality.",
+        "ru": "Мы тщательно учли: позициональность."
+      },
+      {
+        "en": "Students should understand positionality.",
+        "ru": "Студентам важно понимать: позициональность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "reflexivity",
+    "lemma": "reflexivity",
+    "level": "c1",
+    "tr": "рефлексивность",
+    "examples": [
+      {
+        "en": "The paper discusses reflexivity.",
+        "ru": "В статье обсуждается: рефлексивность."
+      },
+      {
+        "en": "We carefully considered reflexivity.",
+        "ru": "Мы тщательно учли: рефлексивность."
+      },
+      {
+        "en": "Students should understand reflexivity.",
+        "ru": "Студентам важно понимать: рефлексивность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "epistemology",
+    "lemma": "epistemology",
+    "level": "c1",
+    "tr": "эпистемология",
+    "examples": [
+      {
+        "en": "The paper discusses epistemology.",
+        "ru": "В статье обсуждается: эпистемология."
+      },
+      {
+        "en": "We carefully considered epistemology.",
+        "ru": "Мы тщательно учли: эпистемология."
+      },
+      {
+        "en": "Students should understand epistemology.",
+        "ru": "Студентам важно понимать: эпистемология."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "ontology",
+    "lemma": "ontology",
+    "level": "c1",
+    "tr": "онтология",
+    "examples": [
+      {
+        "en": "The paper discusses ontology.",
+        "ru": "В статье обсуждается: онтология."
+      },
+      {
+        "en": "We carefully considered ontology.",
+        "ru": "Мы тщательно учли: онтология."
+      },
+      {
+        "en": "Students should understand ontology.",
+        "ru": "Студентам важно понимать: онтология."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "methodology",
+    "lemma": "methodology",
+    "level": "b2",
+    "tr": "методология",
+    "examples": [
+      {
+        "en": "The paper discusses methodology.",
+        "ru": "В статье обсуждается: методология."
+      },
+      {
+        "en": "We carefully considered methodology.",
+        "ru": "Мы тщательно учли: методология."
+      },
+      {
+        "en": "Students should understand methodology.",
+        "ru": "Студентам важно понимать: методология."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "research paradigm",
+    "lemma": "research paradigm",
+    "level": "c1",
+    "tr": "исследовательская парадигма",
+    "examples": [
+      {
+        "en": "The paper discusses research paradigm.",
+        "ru": "В статье обсуждается: исследовательская парадигма."
+      },
+      {
+        "en": "We carefully considered research paradigm.",
+        "ru": "Мы тщательно учли: исследовательская парадигма."
+      },
+      {
+        "en": "Students should understand research paradigm.",
+        "ru": "Студентам важно понимать: исследовательская парадигма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "positivist approach",
+    "lemma": "positivist approach",
+    "level": "c1",
+    "tr": "позитивистский подход",
+    "examples": [
+      {
+        "en": "The paper discusses positivist approach.",
+        "ru": "В статье обсуждается: позитивистский подход."
+      },
+      {
+        "en": "We carefully considered positivist approach.",
+        "ru": "Мы тщательно учли: позитивистский подход."
+      },
+      {
+        "en": "Students should understand positivist approach.",
+        "ru": "Студентам важно понимать: позитивистский подход."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "interpretivist approach",
+    "lemma": "interpretivist approach",
+    "level": "c1",
+    "tr": "интерпретивистский подход",
+    "examples": [
+      {
+        "en": "The paper discusses interpretivist approach.",
+        "ru": "В статье обсуждается: интерпретивистский подход."
+      },
+      {
+        "en": "We carefully considered interpretivist approach.",
+        "ru": "Мы тщательно учли: интерпретивистский подход."
+      },
+      {
+        "en": "Students should understand interpretivist approach.",
+        "ru": "Студентам важно понимать: интерпретивистский подход."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "theoretical lens",
+    "lemma": "theoretical lens",
+    "level": "c1",
+    "tr": "теоретическая призма",
+    "examples": [
+      {
+        "en": "The paper discusses theoretical lens.",
+        "ru": "В статье обсуждается: теоретическая призма."
+      },
+      {
+        "en": "We carefully considered theoretical lens.",
+        "ru": "Мы тщательно учли: теоретическая призма."
+      },
+      {
+        "en": "Students should understand theoretical lens.",
+        "ru": "Студентам важно понимать: теоретическая призма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "analytical lens",
+    "lemma": "analytical lens",
+    "level": "c1",
+    "tr": "аналитическая призма",
+    "examples": [
+      {
+        "en": "The paper discusses analytical lens.",
+        "ru": "В статье обсуждается: аналитическая призма."
+      },
+      {
+        "en": "We carefully considered analytical lens.",
+        "ru": "Мы тщательно учли: аналитическая призма."
+      },
+      {
+        "en": "Students should understand analytical lens.",
+        "ru": "Студентам важно понимать: аналитическая призма."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "unit of analysis",
+    "lemma": "unit of analysis",
+    "level": "c1",
+    "tr": "единица анализа",
+    "examples": [
+      {
+        "en": "The paper discusses unit of analysis.",
+        "ru": "В статье обсуждается: единица анализа."
+      },
+      {
+        "en": "We carefully considered unit of analysis.",
+        "ru": "Мы тщательно учли: единица анализа."
+      },
+      {
+        "en": "Students should understand unit of analysis.",
+        "ru": "Студентам важно понимать: единица анализа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "level of analysis",
+    "lemma": "level of analysis",
+    "level": "c1",
+    "tr": "уровень анализа",
+    "examples": [
+      {
+        "en": "The paper discusses level of analysis.",
+        "ru": "В статье обсуждается: уровень анализа."
+      },
+      {
+        "en": "We carefully considered level of analysis.",
+        "ru": "Мы тщательно учли: уровень анализа."
+      },
+      {
+        "en": "Students should understand level of analysis.",
+        "ru": "Студентам важно понимать: уровень анализа."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "scope conditions",
+    "lemma": "scope conditions",
+    "level": "c1",
+    "tr": "условия применимости",
+    "examples": [
+      {
+        "en": "The paper discusses scope conditions.",
+        "ru": "В статье обсуждается: условия применимости."
+      },
+      {
+        "en": "We carefully considered scope conditions.",
+        "ru": "Мы тщательно учли: условия применимости."
+      },
+      {
+        "en": "Students should understand scope conditions.",
+        "ru": "Студентам важно понимать: условия применимости."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "boundary conditions",
+    "lemma": "boundary conditions",
+    "level": "c1",
+    "tr": "граничные условия",
+    "examples": [
+      {
+        "en": "The paper discusses boundary conditions.",
+        "ru": "В статье обсуждается: граничные условия."
+      },
+      {
+        "en": "We carefully considered boundary conditions.",
+        "ru": "Мы тщательно учли: граничные условия."
+      },
+      {
+        "en": "Students should understand boundary conditions.",
+        "ru": "Студентам важно понимать: граничные условия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "mechanisms of action",
+    "lemma": "mechanisms of action",
+    "level": "c1",
+    "tr": "механизмы действия",
+    "examples": [
+      {
+        "en": "The paper discusses mechanisms of action.",
+        "ru": "В статье обсуждается: механизмы действия."
+      },
+      {
+        "en": "We carefully considered mechanisms of action.",
+        "ru": "Мы тщательно учли: механизмы действия."
+      },
+      {
+        "en": "Students should understand mechanisms of action.",
+        "ru": "Студентам важно понимать: механизмы действия."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "causal mechanism",
+    "lemma": "causal mechanism",
+    "level": "c1",
+    "tr": "причинный механизм",
+    "examples": [
+      {
+        "en": "The paper discusses causal mechanism.",
+        "ru": "В статье обсуждается: причинный механизм."
+      },
+      {
+        "en": "We carefully considered causal mechanism.",
+        "ru": "Мы тщательно учли: причинный механизм."
+      },
+      {
+        "en": "Students should understand causal mechanism.",
+        "ru": "Студентам важно понимать: причинный механизм."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "intervening variable",
+    "lemma": "intervening variable",
+    "level": "c1",
+    "tr": "промежуточная переменная",
+    "examples": [
+      {
+        "en": "The paper discusses intervening variable.",
+        "ru": "В статье обсуждается: промежуточная переменная."
+      },
+      {
+        "en": "We carefully considered intervening variable.",
+        "ru": "Мы тщательно учли: промежуточная переменная."
+      },
+      {
+        "en": "Students should understand intervening variable.",
+        "ru": "Студентам важно понимать: промежуточная переменная."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "spurious correlation",
+    "lemma": "spurious correlation",
+    "level": "c1",
+    "tr": "ложная корреляция",
+    "examples": [
+      {
+        "en": "The paper discusses spurious correlation.",
+        "ru": "В статье обсуждается: ложная корреляция."
+      },
+      {
+        "en": "We carefully considered spurious correlation.",
+        "ru": "Мы тщательно учли: ложная корреляция."
+      },
+      {
+        "en": "Students should understand spurious correlation.",
+        "ru": "Студентам важно понимать: ложная корреляция."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "omitted variable bias",
+    "lemma": "omitted variable bias",
+    "level": "c1",
+    "tr": "смещение из-за пропущенной переменной",
+    "examples": [
+      {
+        "en": "The paper discusses omitted variable bias.",
+        "ru": "В статье обсуждается: смещение из-за пропущенной переменной."
+      },
+      {
+        "en": "We carefully considered omitted variable bias.",
+        "ru": "Мы тщательно учли: смещение из-за пропущенной переменной."
+      },
+      {
+        "en": "Students should understand omitted variable bias.",
+        "ru": "Студентам важно понимать: смещение из-за пропущенной переменной."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "endogeneity",
+    "lemma": "endogeneity",
+    "level": "c1",
+    "tr": "эндогенность",
+    "examples": [
+      {
+        "en": "The paper discusses endogeneity.",
+        "ru": "В статье обсуждается: эндогенность."
+      },
+      {
+        "en": "We carefully considered endogeneity.",
+        "ru": "Мы тщательно учли: эндогенность."
+      },
+      {
+        "en": "Students should understand endogeneity.",
+        "ru": "Студентам важно понимать: эндогенность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "exogeneity",
+    "lemma": "exogeneity",
+    "level": "c1",
+    "tr": "экзогенность",
+    "examples": [
+      {
+        "en": "The paper discusses exogeneity.",
+        "ru": "В статье обсуждается: экзогенность."
+      },
+      {
+        "en": "We carefully considered exogeneity.",
+        "ru": "Мы тщательно учли: экзогенность."
+      },
+      {
+        "en": "Students should understand exogeneity.",
+        "ru": "Студентам важно понимать: экзогенность."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "identification strategy",
+    "lemma": "identification strategy",
+    "level": "c1",
+    "tr": "стратегия идентификации",
+    "examples": [
+      {
+        "en": "The paper discusses identification strategy.",
+        "ru": "В статье обсуждается: стратегия идентификации."
+      },
+      {
+        "en": "We carefully considered identification strategy.",
+        "ru": "Мы тщательно учли: стратегия идентификации."
+      },
+      {
+        "en": "Students should understand identification strategy.",
+        "ru": "Студентам важно понимать: стратегия идентификации."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "difference in differences",
+    "lemma": "difference in differences",
+    "level": "c1",
+    "tr": "разность разностей",
+    "examples": [
+      {
+        "en": "The paper discusses difference in differences.",
+        "ru": "В статье обсуждается: разность разностей."
+      },
+      {
+        "en": "We carefully considered difference in differences.",
+        "ru": "Мы тщательно учли: разность разностей."
+      },
+      {
+        "en": "Students should understand difference in differences.",
+        "ru": "Студентам важно понимать: разность разностей."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "regression discontinuity",
+    "lemma": "regression discontinuity",
+    "level": "c1",
+    "tr": "регрессионный разрыв",
+    "examples": [
+      {
+        "en": "The paper discusses regression discontinuity.",
+        "ru": "В статье обсуждается: регрессионный разрыв."
+      },
+      {
+        "en": "We carefully considered regression discontinuity.",
+        "ru": "Мы тщательно учли: регрессионный разрыв."
+      },
+      {
+        "en": "Students should understand regression discontinuity.",
+        "ru": "Студентам важно понимать: регрессионный разрыв."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "synthetic control",
+    "lemma": "synthetic control",
+    "level": "c1",
+    "tr": "синтетический контроль",
+    "examples": [
+      {
+        "en": "The paper discusses synthetic control.",
+        "ru": "В статье обсуждается: синтетический контроль."
+      },
+      {
+        "en": "We carefully considered synthetic control.",
+        "ru": "Мы тщательно учли: синтетический контроль."
+      },
+      {
+        "en": "Students should understand synthetic control.",
+        "ru": "Студентам важно понимать: синтетический контроль."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "matching method",
+    "lemma": "matching method",
+    "level": "c1",
+    "tr": "метод матчинга",
+    "examples": [
+      {
+        "en": "The paper discusses matching method.",
+        "ru": "В статье обсуждается: метод матчинга."
+      },
+      {
+        "en": "We carefully considered matching method.",
+        "ru": "Мы тщательно учли: метод матчинга."
+      },
+      {
+        "en": "Students should understand matching method.",
+        "ru": "Студентам важно понимать: метод матчинга."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  },
+  {
+    "word": "propensity score",
+    "lemma": "propensity score",
+    "level": "c1",
+    "tr": "пропенсити-скор",
+    "examples": [
+      {
+        "en": "The paper discusses propensity score.",
+        "ru": "В статье обсуждается: пропенсити-скор."
+      },
+      {
+        "en": "We carefully considered propensity score.",
+        "ru": "Мы тщательно учли: пропенсити-скор."
+      },
+      {
+        "en": "Students should understand propensity score.",
+        "ru": "Студентам важно понимать: пропенсити-скор."
+      }
+    ],
+    "note": "",
+    "colloc": "",
+    "pattern": "academic collocation",
+    "pos": "collocation"
+  }
+]
