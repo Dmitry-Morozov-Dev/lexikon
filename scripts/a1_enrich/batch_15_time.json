@@ -1,0 +1,327 @@
+{
+  "a1-0627": {
+    "examples": [
+      {
+        "en": "What time is it?",
+        "ru": "Который час?"
+      },
+      {
+        "en": "Do you have time to talk?",
+        "ru": "Есть время поговорить?"
+      },
+      {
+        "en": "What time is it?",
+        "ru": "Который час?"
+      }
+    ],
+    "colloc": "on time · free time · waste time"
+  },
+  "a1-0628": {
+    "examples": [
+      {
+        "en": "Wait one hour.",
+        "ru": "Подожди один час."
+      },
+      {
+        "en": "The meeting lasts one hour.",
+        "ru": "Встреча длится час."
+      },
+      {
+        "en": "I waited for an hour.",
+        "ru": "Я ждал час."
+      }
+    ],
+    "colloc": "half an hour · rush hour"
+  },
+  "a1-0629": {
+    "examples": [
+      {
+        "en": "Just a minute, please.",
+        "ru": "Минутку, пожалуйста."
+      },
+      {
+        "en": "Give me a minute.",
+        "ru": "Дай мне минуту."
+      },
+      {
+        "en": "The train leaves in five minutes.",
+        "ru": "Поезд уходит через пять минут."
+      }
+    ],
+    "colloc": "wait a minute · last-minute"
+  },
+  "a1-0630": {
+    "examples": [
+      {
+        "en": "Wait a second.",
+        "ru": "Подожди секунду."
+      },
+      {
+        "en": "Wait a second — I forgot my keys.",
+        "ru": "Секунду — я забыл ключи."
+      },
+      {
+        "en": "It only took a few seconds.",
+        "ru": "Это заняло всего несколько секунд."
+      }
+    ],
+    "colloc": "second thought · in a second"
+  },
+  "a1-0631": {
+    "examples": [
+      {
+        "en": "Have a nice day.",
+        "ru": "Хорошего дня."
+      },
+      {
+        "en": "Have a nice day!",
+        "ru": "Хорошего дня!"
+      },
+      {
+        "en": "One day I'd like to visit Japan.",
+        "ru": "Когда-нибудь хочу посетить Японию."
+      }
+    ],
+    "colloc": "all day · day off · someday"
+  },
+  "a1-0632": {
+    "examples": [
+      {
+        "en": "See you next week.",
+        "ru": "Увидимся на следующей неделе."
+      },
+      {
+        "en": "See you next week.",
+        "ru": "Увидимся на следующей неделе."
+      },
+      {
+        "en": "This week is very busy.",
+        "ru": "Эта неделя очень загружена."
+      }
+    ],
+    "colloc": "week of · weekend · week by week"
+  },
+  "a1-0633": {
+    "examples": [
+      {
+        "en": "This month is busy.",
+        "ru": "Этот месяц загружен."
+      },
+      {
+        "en": "Rent is due every month.",
+        "ru": "Аренду платят каждый месяц."
+      },
+      {
+        "en": "She leaves next month.",
+        "ru": "Она уезжает в следующем месяце."
+      }
+    ],
+    "colloc": "month of · once a month"
+  },
+  "a1-0634": {
+    "examples": [
+      {
+        "en": "Happy New Year!",
+        "ru": "С Новым годом!"
+      },
+      {
+        "en": "Happy New Year!",
+        "ru": "С Новым годом!"
+      },
+      {
+        "en": "I've lived here for a year.",
+        "ru": "Я живу здесь год."
+      }
+    ],
+    "colloc": "year of · last year · New Year"
+  },
+  "a1-0635": {
+    "examples": [
+      {
+        "en": "Good morning, everyone.",
+        "ru": "Доброе утро всем."
+      },
+      {
+        "en": "I run every morning.",
+        "ru": "Я бегаю каждое утро."
+      },
+      {
+        "en": "See you tomorrow morning.",
+        "ru": "Увидимся завтра утром."
+      }
+    ],
+    "colloc": "in the morning · good morning"
+  },
+  "a1-0636": {
+    "examples": [
+      {
+        "en": "See you this afternoon.",
+        "ru": "Увидимся днём."
+      },
+      {
+        "en": "Let's meet this afternoon.",
+        "ru": "Давай встретимся сегодня днём."
+      },
+      {
+        "en": "The afternoon sun was warm.",
+        "ru": "Дневное солнце было тёплым."
+      }
+    ],
+    "colloc": "in the afternoon · good afternoon"
+  },
+  "a1-0637": {
+    "examples": [
+      {
+        "en": "Good evening, friends.",
+        "ru": "Добрый вечер, друзья."
+      },
+      {
+        "en": "I free up evenings for family.",
+        "ru": "Вечера я оставляю для семьи."
+      },
+      {
+        "en": "Good evening, everyone.",
+        "ru": "Добрый вечер всем."
+      }
+    ],
+    "colloc": "in the evening · this evening"
+  },
+  "a1-0638": {
+    "examples": [
+      {
+        "en": "Good night and sleep well.",
+        "ru": "Спокойной ночи."
+      },
+      {
+        "en": "I sleep better at night.",
+        "ru": "Ночью я сплю лучше."
+      },
+      {
+        "en": "We talked all night.",
+        "ru": "Мы разговаривали всю ночь."
+      }
+    ],
+    "colloc": "at night · good night · last night"
+  },
+  "a1-0639": {
+    "examples": [
+      {
+        "en": "I relax on the weekend.",
+        "ru": "На выходных я отдыхаю."
+      },
+      {
+        "en": "Any plans for the weekend?",
+        "ru": "Есть планы на выходные?"
+      },
+      {
+        "en": "Weekends go by too fast.",
+        "ru": "Выходные пролетают слишком быстро."
+      }
+    ],
+    "colloc": "on the weekend · long weekend"
+  },
+  "a1-0640": {
+    "examples": [
+      {
+        "en": "Happy holiday to you.",
+        "ru": "С праздником."
+      },
+      {
+        "en": "We're away for the holiday.",
+        "ru": "Мы уезжаем на праздники."
+      },
+      {
+        "en": "Happy holidays!",
+        "ru": "С праздниками!"
+      }
+    ],
+    "colloc": "public holiday · holiday season",
+    "note": "BrE: holiday ≈ AmE vacation"
+  },
+  "a1-0641": {
+    "examples": [
+      {
+        "en": "Happy birthday!",
+        "ru": "С днём рождения!"
+      },
+      {
+        "en": "Happy birthday!",
+        "ru": "С днём рождения!"
+      },
+      {
+        "en": "Her birthday is in March.",
+        "ru": "Её день рождения в марте."
+      }
+    ],
+    "colloc": "birthday cake · birthday party"
+  },
+  "a1-0649": {
+    "examples": [
+      {
+        "en": "Flowers bloom in spring.",
+        "ru": "Весной цветут цветы."
+      },
+      {
+        "en": "Flowers bloom in spring.",
+        "ru": "Весной цветут цветы."
+      },
+      {
+        "en": "Spring started early this year.",
+        "ru": "В этом году весна началась рано."
+      }
+    ],
+    "colloc": "spring break · in spring"
+  },
+  "a1-0650": {
+    "examples": [
+      {
+        "en": "Summer is hot here.",
+        "ru": "Летом здесь жарко."
+      },
+      {
+        "en": "We travel every summer.",
+        "ru": "Каждое лето мы путешествуем."
+      },
+      {
+        "en": "Summer nights feel endless.",
+        "ru": "Летние ночи кажутся бесконечными."
+      }
+    ],
+    "colloc": "summer vacation · in summer"
+  },
+  "a1-0651": {
+    "examples": [
+      {
+        "en": "Autumn colors are nice.",
+        "ru": "Осенние краски красивы."
+      },
+      {
+        "en": "Leaves fall in autumn.",
+        "ru": "Осенью опадают листья."
+      },
+      {
+        "en": "Autumn air feels crisp.",
+        "ru": "Осенний воздух свежий."
+      }
+    ],
+    "colloc": "in autumn",
+    "note": "AmE also: fall"
+  },
+  "a1-0652": {
+    "examples": [
+      {
+        "en": "Winter is cold.",
+        "ru": "Зима холодная."
+      },
+      {
+        "en": "Winters here are mild.",
+        "ru": "Зимы здесь мягкие."
+      },
+      {
+        "en": "I love winter sports.",
+        "ru": "Я люблю зимние виды спорта."
+      }
+    ],
+    "colloc": "in winter · winter coat"
+  }
+}

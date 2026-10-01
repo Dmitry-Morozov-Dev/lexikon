@@ -1,0 +1,327 @@
+{
+  "a1-0608": {
+    "examples": [
+      {
+        "en": "This book is interesting.",
+        "ru": "Книга интересная."
+      },
+      {
+        "en": "I finished that book last night.",
+        "ru": "Я закончил ту книгу прошлой ночью."
+      },
+      {
+        "en": "Open your books to page ten.",
+        "ru": "Откройте книги на странице десять."
+      }
+    ],
+    "colloc": "notebook · book club · read a book"
+  },
+  "a1-0609": {
+    "examples": [
+      {
+        "en": "Turn the page.",
+        "ru": "Переверни страницу."
+      },
+      {
+        "en": "Turn the page slowly.",
+        "ru": "Перелистывай страницу медленно."
+      },
+      {
+        "en": "There's a stain on this page.",
+        "ru": "На этой странице пятно."
+      }
+    ],
+    "colloc": "page number · blank page"
+  },
+  "a1-0610": {
+    "examples": [
+      {
+        "en": "I need a blue pen.",
+        "ru": "Мне нужна синяя ручка."
+      },
+      {
+        "en": "Can I borrow a pen?",
+        "ru": "Можно одолжить ручку?"
+      },
+      {
+        "en": "This pen is out of ink.",
+        "ru": "В ручке закончились чернила."
+      }
+    ],
+    "colloc": "pen and paper · ballpoint pen"
+  },
+  "a1-0611": {
+    "examples": [
+      {
+        "en": "Sharpen your pencil.",
+        "ru": "Заточи карандаш."
+      },
+      {
+        "en": "Sharpen your pencil.",
+        "ru": "Заточи карандаш."
+      },
+      {
+        "en": "I prefer pencils for sketches.",
+        "ru": "Для набросков предпочитаю карандаши."
+      }
+    ],
+    "colloc": "pencil case · colored pencil"
+  },
+  "a1-0612": {
+    "examples": [
+      {
+        "en": "Write on this paper.",
+        "ru": "Пиши на этой бумаге."
+      },
+      {
+        "en": "Write it on a piece of paper.",
+        "ru": "Напиши это на листе бумаги."
+      },
+      {
+        "en": "We're out of printer paper.",
+        "ru": "Закончилась бумага для принтера."
+      }
+    ],
+    "colloc": "piece of paper · paper cut",
+    "note": "paper часто неисчисляемое"
+  },
+  "a1-0613": {
+    "examples": [
+      {
+        "en": "Open your notebook.",
+        "ru": "Открой тетрадь."
+      },
+      {
+        "en": "I lost my notebook on the bus.",
+        "ru": "Я потерял тетрадь в автобусе."
+      },
+      {
+        "en": "Take notes in your notebook.",
+        "ru": "Веди записи в тетради."
+      }
+    ],
+    "colloc": "spiral notebook"
+  },
+  "a1-0614": {
+    "examples": [
+      {
+        "en": "Use an eraser here.",
+        "ru": "Используй ластик."
+      },
+      {
+        "en": "Lend me your eraser.",
+        "ru": "Одолжи ластик."
+      },
+      {
+        "en": "The eraser left pink dust.",
+        "ru": "Ластик оставил розовую пыль."
+      }
+    ],
+    "colloc": "pencil eraser"
+  },
+  "a1-0615": {
+    "examples": [
+      {
+        "en": "Measure with a ruler.",
+        "ru": "Измерь линейкой."
+      },
+      {
+        "en": "Use a ruler to draw a line.",
+        "ru": "Используй линейку, чтобы провести линию."
+      },
+      {
+        "en": "My ruler is only 15 cm.",
+        "ru": "Моя линейка всего 15 см."
+      }
+    ],
+    "colloc": "metal ruler"
+  },
+  "a1-0616": {
+    "examples": [
+      {
+        "en": "Do your homework now.",
+        "ru": "Сделай домашку."
+      },
+      {
+        "en": "Finish your homework before TV.",
+        "ru": "Сделай домашку до телевизора."
+      },
+      {
+        "en": "We have a lot of homework.",
+        "ru": "У нас много домашнего задания."
+      }
+    ],
+    "colloc": "do homework · homework assignment",
+    "note": "homework неисчисляемое"
+  },
+  "a1-0617": {
+    "examples": [
+      {
+        "en": "We have a test today.",
+        "ru": "У нас сегодня тест."
+      },
+      {
+        "en": "We have a math test tomorrow.",
+        "ru": "Завтра контрольная по математике."
+      },
+      {
+        "en": "I passed the driving test.",
+        "ru": "Я сдал экзамен по вождению."
+      }
+    ],
+    "colloc": "take a test · test results"
+  },
+  "a1-0618": {
+    "examples": [
+      {
+        "en": "The exam is hard.",
+        "ru": "Экзамен сложный."
+      },
+      {
+        "en": "She studied all night for the exam.",
+        "ru": "Она всю ночь готовилась к экзамену."
+      },
+      {
+        "en": "Final exams start next week.",
+        "ru": "Финальные экзамены — на следующей неделе."
+      }
+    ],
+    "colloc": "exam week · pass an exam"
+  },
+  "a1-0619": {
+    "examples": [
+      {
+        "en": "The lesson starts soon.",
+        "ru": "Урок скоро начнётся."
+      },
+      {
+        "en": "Today's lesson was about weather.",
+        "ru": "Сегодняшний урок был о погоде."
+      },
+      {
+        "en": "Don't skip your piano lesson.",
+        "ru": "Не пропускай урок фортепиано."
+      }
+    ],
+    "colloc": "lesson plan · learn a lesson"
+  },
+  "a1-0620": {
+    "examples": [
+      {
+        "en": "Our class is friendly.",
+        "ru": "Наш класс дружный."
+      },
+      {
+        "en": "Class starts at nine.",
+        "ru": "Урок начинается в девять."
+      },
+      {
+        "en": "I have a yoga class tonight.",
+        "ru": "Сегодня вечером у меня йога."
+      }
+    ],
+    "colloc": "class of · after class · miss class"
+  },
+  "a1-0621": {
+    "examples": [
+      {
+        "en": "Ask a clear question.",
+        "ru": "Задай ясный вопрос."
+      },
+      {
+        "en": "Any questions before we start?",
+        "ru": "Есть вопросы, прежде чем начнём?"
+      },
+      {
+        "en": "That's a hard question.",
+        "ru": "Это трудный вопрос."
+      }
+    ],
+    "colloc": "ask a question · question mark"
+  },
+  "a1-0622": {
+    "examples": [
+      {
+        "en": "Learn a new word.",
+        "ru": "Выучи новое слово."
+      },
+      {
+        "en": "I learned a new word today.",
+        "ru": "Сегодня я выучил новое слово."
+      },
+      {
+        "en": "What's another word for happy?",
+        "ru": "Какое ещё слово значит «счастливый»?"
+      }
+    ],
+    "colloc": "word for · in other words · word of"
+  },
+  "a1-0623": {
+    "examples": [
+      {
+        "en": "Read this sentence aloud.",
+        "ru": "Прочитай предложение вслух."
+      },
+      {
+        "en": "Write a sentence with this word.",
+        "ru": "Напиши предложение с этим словом."
+      },
+      {
+        "en": "This sentence is too long.",
+        "ru": "Это предложение слишком длинное."
+      }
+    ],
+    "colloc": "full sentence · sentence structure"
+  },
+  "a1-0624": {
+    "examples": [
+      {
+        "en": "English is a language.",
+        "ru": "Английский — язык."
+      },
+      {
+        "en": "English is a global language.",
+        "ru": "Английский — мировой язык."
+      },
+      {
+        "en": "She speaks three languages.",
+        "ru": "Она говорит на трёх языках."
+      }
+    ],
+    "colloc": "body language · language barrier"
+  },
+  "a1-0625": {
+    "examples": [
+      {
+        "en": "Send a letter home.",
+        "ru": "Отправь письмо домой."
+      },
+      {
+        "en": "I wrote a letter to grandma.",
+        "ru": "Я написал письмо бабушке."
+      },
+      {
+        "en": "The letter A comes first.",
+        "ru": "Буква A идёт первой."
+      }
+    ],
+    "colloc": "cover letter · letter of"
+  },
+  "a1-0626": {
+    "examples": [
+      {
+        "en": "What is this number?",
+        "ru": "Какое это число?"
+      },
+      {
+        "en": "What's your phone number?",
+        "ru": "Какой у тебя номер телефона?"
+      },
+      {
+        "en": "Circle the correct number.",
+        "ru": "Обведи правильное число."
+      }
+    ],
+    "colloc": "phone number · number of"
+  }
+}

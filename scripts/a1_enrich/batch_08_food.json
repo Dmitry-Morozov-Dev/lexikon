@@ -1,0 +1,564 @@
+{
+  "a1-0450": {
+    "examples": [
+      {
+        "en": "The food is delicious.",
+        "ru": "Еда вкусная."
+      },
+      {
+        "en": "The food at this café is great.",
+        "ru": "Еда в этом кафе отличная."
+      },
+      {
+        "en": "Don't waste food.",
+        "ru": "Не выбрасывай еду."
+      }
+    ],
+    "colloc": "fast food · food poisoning"
+  },
+  "a1-0451": {
+    "examples": [
+      {
+        "en": "Lunch is my main meal.",
+        "ru": "Обед — основной приём пищи."
+      },
+      {
+        "en": "Dinner is my favorite meal.",
+        "ru": "Ужин — мой любимый приём пищи."
+      },
+      {
+        "en": "We shared a meal after the meeting.",
+        "ru": "После встречи мы вместе поели."
+      }
+    ],
+    "colloc": "home-cooked meal · skip a meal"
+  },
+  "a1-0452": {
+    "examples": [
+      {
+        "en": "Breakfast is ready.",
+        "ru": "Завтрак готов."
+      },
+      {
+        "en": "I skip breakfast when I'm late.",
+        "ru": "Когда опаздываю, пропускаю завтрак."
+      },
+      {
+        "en": "Breakfast is ready!",
+        "ru": "Завтрак готов!"
+      }
+    ],
+    "colloc": "have breakfast · breakfast time",
+    "note": "have breakfast (не eat обязательно)"
+  },
+  "a1-0453": {
+    "examples": [
+      {
+        "en": "I eat lunch at noon.",
+        "ru": "Я обедаю в полдень."
+      },
+      {
+        "en": "Let's have lunch together.",
+        "ru": "Давай пообедаем вместе."
+      },
+      {
+        "en": "I packed lunch for work.",
+        "ru": "Я собрал обед на работу."
+      }
+    ],
+    "colloc": "lunch break · have lunch"
+  },
+  "a1-0454": {
+    "examples": [
+      {
+        "en": "Dinner is at seven.",
+        "ru": "Ужин в семь."
+      },
+      {
+        "en": "What's for dinner tonight?",
+        "ru": "Что на ужин сегодня?"
+      },
+      {
+        "en": "We invite friends for dinner.",
+        "ru": "Мы зовём друзей на ужин."
+      }
+    ],
+    "colloc": "have dinner · dinner party"
+  },
+  "a1-0455": {
+    "examples": [
+      {
+        "en": "I need a small snack.",
+        "ru": "Нужен лёгкий перекус."
+      },
+      {
+        "en": "I need a quick snack.",
+        "ru": "Мне нужен быстрый перекус."
+      },
+      {
+        "en": "Fruit makes a healthy snack.",
+        "ru": "Фрукты — полезный перекус."
+      }
+    ],
+    "colloc": "snack bar · afternoon snack"
+  },
+  "a1-0456": {
+    "examples": [
+      {
+        "en": "Fresh bread smells good.",
+        "ru": "Свежий хлеб вкусно пахнет."
+      },
+      {
+        "en": "Slice the bread thickly.",
+        "ru": "Нарежь хлеб потолще."
+      },
+      {
+        "en": "Fresh bread smells wonderful.",
+        "ru": "Свежий хлеб чудесно пахнет."
+      }
+    ],
+    "colloc": "loaf of bread · bread and butter"
+  },
+  "a1-0457": {
+    "examples": [
+      {
+        "en": "Spread butter on toast.",
+        "ru": "Намажь масло на тост."
+      },
+      {
+        "en": "Spread butter on the toast.",
+        "ru": "Намажь масло на тост."
+      },
+      {
+        "en": "We're out of butter.",
+        "ru": "Масло закончилось."
+      }
+    ],
+    "colloc": "peanut butter · bread and butter"
+  },
+  "a1-0458": {
+    "examples": [
+      {
+        "en": "I like soft cheese.",
+        "ru": "Мне нравится мягкий сыр."
+      },
+      {
+        "en": "Grate some cheese on the pasta.",
+        "ru": "Натри сыр на пасту."
+      },
+      {
+        "en": "This cheese is too strong for me.",
+        "ru": "Этот сыр для меня слишком резкий."
+      }
+    ],
+    "colloc": "cheese sandwich · soft cheese"
+  },
+  "a1-0459": {
+    "examples": [
+      {
+        "en": "Boil an egg.",
+        "ru": "Свари яйцо."
+      },
+      {
+        "en": "Boil two eggs for breakfast.",
+        "ru": "Свари два яйца на завтрак."
+      },
+      {
+        "en": "I like scrambled eggs.",
+        "ru": "Я люблю яичницу-болтунью."
+      }
+    ],
+    "colloc": "fried egg · egg salad"
+  },
+  "a1-0460": {
+    "examples": [
+      {
+        "en": "Do you eat meat?",
+        "ru": "Ты ешь мясо?"
+      },
+      {
+        "en": "We don't eat much meat.",
+        "ru": "Мы мало едим мяса."
+      },
+      {
+        "en": "The meat needs more salt.",
+        "ru": "Мясу нужно больше соли."
+      }
+    ],
+    "colloc": "meat and potatoes · red meat"
+  },
+  "a1-0461": {
+    "examples": [
+      {
+        "en": "We cook chicken tonight.",
+        "ru": "Готовим курицу."
+      },
+      {
+        "en": "Roast chicken for Sunday dinner.",
+        "ru": "Запечённая курица на воскресный ужин."
+      },
+      {
+        "en": "Do you prefer chicken or fish?",
+        "ru": "Ты больше любишь курицу или рыбу?"
+      }
+    ],
+    "colloc": "chicken soup · fried chicken"
+  },
+  "a1-0462": {
+    "examples": [
+      {
+        "en": "Fish is healthy food.",
+        "ru": "Рыба — здоровая еда."
+      },
+      {
+        "en": "We had fish and rice.",
+        "ru": "У нас была рыба с рисом."
+      },
+      {
+        "en": "Fresh fish is sold at the market.",
+        "ru": "Свежую рыбу продают на рынке."
+      }
+    ],
+    "colloc": "fish and chips · catch fish"
+  },
+  "a1-0463": {
+    "examples": [
+      {
+        "en": "This beef is tender.",
+        "ru": "Говядина нежная."
+      },
+      {
+        "en": "This beef is very tender.",
+        "ru": "Эта говядина очень нежная."
+      },
+      {
+        "en": "I ordered a beef sandwich.",
+        "ru": "Я заказал сэндвич с говядиной."
+      }
+    ],
+    "colloc": "roast beef · ground beef"
+  },
+  "a1-0464": {
+    "examples": [
+      {
+        "en": "Pork needs good cooking.",
+        "ru": "Свинину нужно хорошо готовить."
+      },
+      {
+        "en": "Pork goes well with apples.",
+        "ru": "Свинина хорошо сочетается с яблоками."
+      },
+      {
+        "en": "She doesn't eat pork.",
+        "ru": "Она не ест свинину."
+      }
+    ],
+    "colloc": "pork chop · pulled pork"
+  },
+  "a1-0465": {
+    "examples": [
+      {
+        "en": "Rice with vegetables.",
+        "ru": "Рис с овощами."
+      },
+      {
+        "en": "Cook the rice for twenty minutes.",
+        "ru": "Вари рис двадцать минут."
+      },
+      {
+        "en": "Brown rice is healthier.",
+        "ru": "Бурый рис полезнее."
+      }
+    ],
+    "colloc": "bowl of rice · fried rice"
+  },
+  "a1-0466": {
+    "examples": [
+      {
+        "en": "Pasta is easy to cook.",
+        "ru": "Пасту легко готовить."
+      },
+      {
+        "en": "Boil the pasta until soft.",
+        "ru": "Вари пасту до мягкости."
+      },
+      {
+        "en": "We eat pasta on Fridays.",
+        "ru": "По пятницам мы едим пасту."
+      }
+    ],
+    "colloc": "pasta sauce · pasta dish"
+  },
+  "a1-0467": {
+    "examples": [
+      {
+        "en": "Hot soup warms you.",
+        "ru": "Горячий суп согревает."
+      },
+      {
+        "en": "The soup needs more pepper.",
+        "ru": "Супу нужно больше перца."
+      },
+      {
+        "en": "I ordered tomato soup.",
+        "ru": "Я заказал томатный суп."
+      }
+    ],
+    "colloc": "bowl of soup · soup spoon"
+  },
+  "a1-0468": {
+    "examples": [
+      {
+        "en": "I order a salad.",
+        "ru": "Я заказываю салат."
+      },
+      {
+        "en": "I'll have a green salad.",
+        "ru": "Я возьму зелёный салат."
+      },
+      {
+        "en": "Mix the salad with oil.",
+        "ru": "Заправь салат маслом."
+      }
+    ],
+    "colloc": "fruit salad · side salad"
+  },
+  "a1-0469": {
+    "examples": [
+      {
+        "en": "Make a cheese sandwich.",
+        "ru": "Сделай бутерброд с сыром."
+      },
+      {
+        "en": "I packed a cheese sandwich.",
+        "ru": "Я собрал сэндвич с сыром."
+      },
+      {
+        "en": "This sandwich is huge.",
+        "ru": "Этот сэндвич огромный."
+      }
+    ],
+    "colloc": "sandwich shop · make a sandwich"
+  },
+  "a1-0470": {
+    "examples": [
+      {
+        "en": "We share a pizza.",
+        "ru": "Мы делим пиццу."
+      },
+      {
+        "en": "Let's order pizza tonight.",
+        "ru": "Давай закажем пиццу сегодня вечером."
+      },
+      {
+        "en": "Extra cheese on the pizza, please.",
+        "ru": "Дополнительный сыр на пиццу, пожалуйста."
+      }
+    ],
+    "colloc": "pizza slice · pizza delivery"
+  },
+  "a1-0471": {
+    "examples": [
+      {
+        "en": "This burger is huge.",
+        "ru": "Бургер огромный."
+      },
+      {
+        "en": "I ordered a burger and fries.",
+        "ru": "Я заказал бургер с картошкой."
+      },
+      {
+        "en": "This burger is too greasy.",
+        "ru": "Этот бургер слишком жирный."
+      }
+    ],
+    "colloc": "cheeseburger · burger joint"
+  },
+  "a1-0472": {
+    "examples": [
+      {
+        "en": "Fries are salty.",
+        "ru": "Фри солёные."
+      },
+      {
+        "en": "The fries are crispy.",
+        "ru": "Картошка хрустящая."
+      },
+      {
+        "en": "Do you want fries with that?",
+        "ru": "Картошку к этому?"
+      }
+    ],
+    "colloc": "french fries · order of fries"
+  },
+  "a1-0473": {
+    "examples": [
+      {
+        "en": "Eat more fruit.",
+        "ru": "Ешь больше фруктов."
+      },
+      {
+        "en": "Eat more fruit every day.",
+        "ru": "Ешь больше фруктов каждый день."
+      },
+      {
+        "en": "Fresh fruit is on the table.",
+        "ru": "Свежие фрукты на столе."
+      }
+    ],
+    "colloc": "fruit juice · tropical fruit"
+  },
+  "a1-0474": {
+    "examples": [
+      {
+        "en": "I eat an apple.",
+        "ru": "Я ем яблоко."
+      },
+      {
+        "en": "I packed an apple for lunch.",
+        "ru": "Я положил яблоко в обед."
+      },
+      {
+        "en": "These apples are sweet.",
+        "ru": "Эти яблоки сладкие."
+      }
+    ],
+    "colloc": "apple pie · apple juice"
+  },
+  "a1-0475": {
+    "examples": [
+      {
+        "en": "The banana is ripe.",
+        "ru": "Банан спелый."
+      },
+      {
+        "en": "Bananas turn brown quickly.",
+        "ru": "Бананы быстро темнеют."
+      },
+      {
+        "en": "She ate a banana after the run.",
+        "ru": "Она съела банан после пробежки."
+      }
+    ],
+    "colloc": "banana peel · bunch of bananas"
+  },
+  "a1-0476": {
+    "examples": [
+      {
+        "en": "Peel the orange.",
+        "ru": "Очисти апельсин."
+      },
+      {
+        "en": "Peel the orange over the sink.",
+        "ru": "Чисти апельсин над раковиной."
+      },
+      {
+        "en": "Orange juice, please.",
+        "ru": "Апельсиновый сок, пожалуйста."
+      }
+    ],
+    "colloc": "orange juice · orange peel"
+  },
+  "a1-0477": {
+    "examples": [
+      {
+        "en": "Add lemon to tea.",
+        "ru": "Добавь лимон в чай."
+      },
+      {
+        "en": "Add a slice of lemon to the tea.",
+        "ru": "Добавь дольку лимона в чай."
+      },
+      {
+        "en": "This lemon is very sour.",
+        "ru": "Этот лимон очень кислый."
+      }
+    ],
+    "colloc": "lemon juice · lemon slice"
+  },
+  "a1-0478": {
+    "examples": [
+      {
+        "en": "This grape is sweet.",
+        "ru": "Виноградина сладкая."
+      },
+      {
+        "en": "Wash the grapes before eating.",
+        "ru": "Мой виноград перед едой."
+      },
+      {
+        "en": "These grapes are seedless.",
+        "ru": "Этот виноград без косточек."
+      }
+    ],
+    "colloc": "bunch of grapes · grape juice"
+  },
+  "a1-0479": {
+    "examples": [
+      {
+        "en": "Strawberry jam is sweet.",
+        "ru": "Клубничное варенье сладкое."
+      },
+      {
+        "en": "Strawberries are in season.",
+        "ru": "Клубника сейчас в сезоне."
+      },
+      {
+        "en": "I put strawberries on my cereal.",
+        "ru": "Я положил клубнику в хлопья."
+      }
+    ],
+    "colloc": "strawberry jam"
+  },
+  "a1-0480": {
+    "examples": [
+      {
+        "en": "Watermelon is juicy.",
+        "ru": "Арбуз сочный."
+      },
+      {
+        "en": "Watermelon is perfect in summer.",
+        "ru": "Арбуз идеален летом."
+      },
+      {
+        "en": "We shared a big watermelon.",
+        "ru": "Мы разделили большой арбуз."
+      }
+    ],
+    "colloc": "slice of watermelon"
+  },
+  "a1-0481": {
+    "examples": [
+      {
+        "en": "Eat a green vegetable.",
+        "ru": "Съешь зелёный овощ."
+      },
+      {
+        "en": "Eat more vegetables.",
+        "ru": "Ешь больше овощей."
+      },
+      {
+        "en": "Roasted vegetables taste great.",
+        "ru": "Запечённые овощи очень вкусные."
+      }
+    ],
+    "colloc": "vegetable soup · fresh vegetables"
+  },
+  "a1-0482": {
+    "examples": [
+      {
+        "en": "Slice the tomato.",
+        "ru": "Нарежь помидор."
+      },
+      {
+        "en": "Slice a tomato for the salad.",
+        "ru": "Нарежь помидор для салата."
+      },
+      {
+        "en": "These tomatoes are ripe.",
+        "ru": "Эти помидоры спелые."
+      }
+    ],
+    "colloc": "tomato sauce · cherry tomato"
+  }
+}

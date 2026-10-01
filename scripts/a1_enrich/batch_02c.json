@@ -1,0 +1,586 @@
+{
+  "a1-0251": {
+    "examples": [
+      {
+        "en": "Practice every day for ten minutes.",
+        "ru": "Практикуйся каждый день по десять минут."
+      },
+      {
+        "en": "She practiced the piano after school.",
+        "ru": "После школы она занималась на пианино."
+      },
+      {
+        "en": "I need more practice.",
+        "ru": "Мне нужно больше практики."
+      }
+    ],
+    "colloc": "practice doing · in practice",
+    "note": "AmE: practice (n+v); BrE: practise (v)",
+    "pattern": "practice + N / practice + Ving"
+  },
+  "a1-0252": {
+    "examples": [
+      {
+        "en": "Repeat after me.",
+        "ru": "Повторяй за мной."
+      },
+      {
+        "en": "Can you repeat that, please?",
+        "ru": "Можешь повторить, пожалуйста?"
+      },
+      {
+        "en": "History often repeats itself.",
+        "ru": "История часто повторяется."
+      }
+    ],
+    "colloc": "repeat after · repeat a question",
+    "pattern": "repeat + N"
+  },
+  "a1-0253": {
+    "examples": [
+      {
+        "en": "Spell your last name, please.",
+        "ru": "Произнеси фамилию по буквам, пожалуйста."
+      },
+      {
+        "en": "How do you spell that word?",
+        "ru": "Как пишется это слово?"
+      },
+      {
+        "en": "I spelled it wrong.",
+        "ru": "Я написал его неправильно."
+      }
+    ],
+    "colloc": "spell check · how do you spell",
+    "pattern": "spell + N"
+  },
+  "a1-0254": {
+    "examples": [
+      {
+        "en": "Type your password carefully.",
+        "ru": "Введи пароль внимательно."
+      },
+      {
+        "en": "She types very fast.",
+        "ru": "Она очень быстро печатает."
+      },
+      {
+        "en": "What type of music do you like?",
+        "ru": "Какой тип музыки тебе нравится?"
+      }
+    ],
+    "colloc": "type in · blood type",
+    "pattern": "type + N"
+  },
+  "a1-0255": {
+    "examples": [
+      {
+        "en": "Click the blue button.",
+        "ru": "Нажми синюю кнопку."
+      },
+      {
+        "en": "Double-click the icon.",
+        "ru": "Дважды щёлкни по значку."
+      },
+      {
+        "en": "I heard a click at the door.",
+        "ru": "Я услышал щелчок у двери."
+      }
+    ],
+    "colloc": "click on · click here",
+    "pattern": "click + N / click on"
+  },
+  "a1-0256": {
+    "examples": [
+      {
+        "en": "Download the file from the site.",
+        "ru": "Скачай файл с сайта."
+      },
+      {
+        "en": "The download failed.",
+        "ru": "Загрузка не удалась."
+      },
+      {
+        "en": "I downloaded a new podcast.",
+        "ru": "Я скачал новый подкаст."
+      }
+    ],
+    "colloc": "download from · free download",
+    "pattern": "download + N",
+    "ant": "upload"
+  },
+  "a1-0257": {
+    "examples": [
+      {
+        "en": "Upload your photo to the form.",
+        "ru": "Загрузи фото в форму."
+      },
+      {
+        "en": "The upload is complete.",
+        "ru": "Загрузка завершена."
+      },
+      {
+        "en": "She uploaded the video last night.",
+        "ru": "Она загрузила видео прошлой ночью."
+      }
+    ],
+    "colloc": "upload to · file upload",
+    "pattern": "upload + N",
+    "ant": "download"
+  },
+  "a1-0258": {
+    "examples": [
+      {
+        "en": "Search for the word in the dictionary.",
+        "ru": "Найди слово в словаре."
+      },
+      {
+        "en": "I searched the whole house.",
+        "ru": "Я обыскал весь дом."
+      },
+      {
+        "en": "Search results appear below.",
+        "ru": "Результаты поиска ниже."
+      }
+    ],
+    "colloc": "search for · search engine",
+    "pattern": "search for + N / search + place"
+  },
+  "a1-0259": {
+    "examples": [
+      {
+        "en": "Save your work often.",
+        "ru": "Часто сохраняй работу."
+      },
+      {
+        "en": "I saved some money for a trip.",
+        "ru": "Я отложил деньги на поездку."
+      },
+      {
+        "en": "This seat is saved for my friend.",
+        "ru": "Это место занято для моего друга."
+      }
+    ],
+    "colloc": "save money · save a file · save time",
+    "pattern": "save + N"
+  },
+  "a1-0260": {
+    "examples": [
+      {
+        "en": "Print this page, please.",
+        "ru": "Распечатай эту страницу, пожалуйста."
+      },
+      {
+        "en": "The printer is out of paper.",
+        "ru": "В принтере закончилась бумага."
+      },
+      {
+        "en": "I need a printed copy.",
+        "ru": "Мне нужна распечатка."
+      }
+    ],
+    "colloc": "print out · in print",
+    "pattern": "print + N"
+  },
+  "a1-0261": {
+    "examples": [
+      {
+        "en": "Copy the text into the email.",
+        "ru": "Скопируй текст в письмо."
+      },
+      {
+        "en": "I made a copy of my passport.",
+        "ru": "Я сделал копию паспорта."
+      },
+      {
+        "en": "Don't copy during the test.",
+        "ru": "Не списывай на тесте."
+      }
+    ],
+    "colloc": "copy and paste · make a copy",
+    "pattern": "copy + N"
+  },
+  "a1-0262": {
+    "examples": [
+      {
+        "en": "Delete old files from the phone.",
+        "ru": "Удали старые файлы с телефона."
+      },
+      {
+        "en": "I accidentally deleted the message.",
+        "ru": "Я случайно удалил сообщение."
+      },
+      {
+        "en": "Swipe left to delete.",
+        "ru": "Свайпни влево, чтобы удалить."
+      }
+    ],
+    "colloc": "delete a file · permanently delete",
+    "pattern": "delete + N"
+  },
+  "a1-0263": {
+    "examples": [
+      {
+        "en": "May I borrow a pen?",
+        "ru": "Можно одолжить ручку?"
+      },
+      {
+        "en": "I borrowed this book from the library.",
+        "ru": "Я взял эту книгу в библиотеке."
+      },
+      {
+        "en": "Don't forget to return what you borrow.",
+        "ru": "Не забудь вернуть то, что берёшь."
+      }
+    ],
+    "colloc": "borrow from",
+    "note": "borrow = брать; lend = давать",
+    "pattern": "borrow + N (from sb)",
+    "ant": "lend"
+  },
+  "a1-0264": {
+    "examples": [
+      {
+        "en": "Can you lend me twenty dollars?",
+        "ru": "Можешь одолжить мне двадцать долларов?"
+      },
+      {
+        "en": "She lent him her umbrella.",
+        "ru": "Она одолжила ему зонтик."
+      },
+      {
+        "en": "Banks lend money to buyers.",
+        "ru": "Банки дают кредиты покупателям."
+      }
+    ],
+    "colloc": "lend to · lend a hand",
+    "note": "lend sb sth = дать взаймы",
+    "pattern": "lend sb sth",
+    "ant": "borrow"
+  },
+  "a1-0265": {
+    "examples": [
+      {
+        "en": "Smell these flowers — they're sweet.",
+        "ru": "Понюхай эти цветы — они сладко пахнут."
+      },
+      {
+        "en": "Something smells burned.",
+        "ru": "Чем-то пахнет горелым."
+      },
+      {
+        "en": "I have a bad cold and can't smell.",
+        "ru": "У меня сильный насморк, и я не чувствую запахов."
+      }
+    ],
+    "colloc": "smell like · smell good",
+    "pattern": "smell + N / smell + adj"
+  },
+  "a1-0266": {
+    "examples": [
+      {
+        "en": "Taste the soup — needs salt?",
+        "ru": "Попробуй суп — соли не хватает?"
+      },
+      {
+        "en": "This cake tastes amazing.",
+        "ru": "Этот торт на вкус потрясающий."
+      },
+      {
+        "en": "I can't taste anything with a cold.",
+        "ru": "С насморком я ничего не чувствую на вкус."
+      }
+    ],
+    "colloc": "taste like · taste good · a taste of",
+    "pattern": "taste + N / taste + adj"
+  },
+  "a1-0267": {
+    "examples": [
+      {
+        "en": "Don't touch the wet paint.",
+        "ru": "Не трогай свежую краску."
+      },
+      {
+        "en": "She touched my shoulder gently.",
+        "ru": "Она мягко коснулась моего плеча."
+      },
+      {
+        "en": "Keep in touch!",
+        "ru": "На связи!"
+      }
+    ],
+    "colloc": "touch screen · get in touch · don't touch",
+    "pattern": "touch + N"
+  },
+  "a1-0268": {
+    "examples": [
+      {
+        "en": "Throw the ball to me.",
+        "ru": "Брось мне мяч."
+      },
+      {
+        "en": "Don't throw trash on the street.",
+        "ru": "Не бросай мусор на улицу."
+      },
+      {
+        "en": "She threw away the old magazines.",
+        "ru": "Она выбросила старые журналы."
+      }
+    ],
+    "colloc": "throw away · throw a party · throw out",
+    "pattern": "throw + N"
+  },
+  "a1-0269": {
+    "examples": [
+      {
+        "en": "Catch the ball!",
+        "ru": "Лови мяч!"
+      },
+      {
+        "en": "I caught a cold last week.",
+        "ru": "На прошлой неделе я простудился."
+      },
+      {
+        "en": "We caught the last train.",
+        "ru": "Мы успели на последний поезд."
+      }
+    ],
+    "colloc": "catch a bus · catch a cold · catch up",
+    "pattern": "catch + N"
+  },
+  "a1-0270": {
+    "examples": [
+      {
+        "en": "Kick the ball toward the goal.",
+        "ru": "Пни мяч в сторону ворот."
+      },
+      {
+        "en": "Don't kick the chair.",
+        "ru": "Не пинай стул."
+      },
+      {
+        "en": "She kicked off her shoes.",
+        "ru": "Она сбросила туфли."
+      }
+    ],
+    "colloc": "kick off · kick a ball",
+    "pattern": "kick + N"
+  },
+  "a1-0271": {
+    "examples": [
+      {
+        "en": "Don't hit the desk.",
+        "ru": "Не бей по столу."
+      },
+      {
+        "en": "The ball hit the window.",
+        "ru": "Мяч ударил в окно."
+      },
+      {
+        "en": "The news hit me hard.",
+        "ru": "Новость сильно меня задела."
+      }
+    ],
+    "colloc": "hit the road · hit a button",
+    "pattern": "hit + N"
+  },
+  "a1-0272": {
+    "examples": [
+      {
+        "en": "Climb the stairs slowly.",
+        "ru": "Поднимайся по лестнице медленно."
+      },
+      {
+        "en": "We climbed the hill at sunrise.",
+        "ru": "Мы поднялись на холм на рассвете."
+      },
+      {
+        "en": "Kids love to climb trees.",
+        "ru": "Дети любят лазить по деревьям."
+      }
+    ],
+    "colloc": "climb up · climb stairs",
+    "pattern": "climb + N"
+  },
+  "a1-0273": {
+    "examples": [
+      {
+        "en": "Be careful not to fall.",
+        "ru": "Осторожно, не упади."
+      },
+      {
+        "en": "Leaves fall in autumn.",
+        "ru": "Осенью опадают листья."
+      },
+      {
+        "en": "I fell asleep on the couch.",
+        "ru": "Я заснул на диване."
+      }
+    ],
+    "colloc": "fall asleep · fall down · fall in love",
+    "pattern": "fall + adv"
+  },
+  "a1-0274": {
+    "examples": [
+      {
+        "en": "Fill the glass with water.",
+        "ru": "Наполни стакан водой."
+      },
+      {
+        "en": "Please fill out this form.",
+        "ru": "Пожалуйста, заполни эту форму."
+      },
+      {
+        "en": "The room filled with smoke.",
+        "ru": "Комната наполнилась дымом."
+      }
+    ],
+    "colloc": "fill out · fill up · fill with",
+    "pattern": "fill + N / fill with"
+  },
+  "a1-0275": {
+    "examples": [
+      {
+        "en": "Pour some water into the cup.",
+        "ru": "Налей воды в чашку."
+      },
+      {
+        "en": "She poured tea for everyone.",
+        "ru": "Она налила всем чаю."
+      },
+      {
+        "en": "It's pouring outside.",
+        "ru": "На улице льёт как из ведра."
+      }
+    ],
+    "colloc": "pour into · pour out · pouring rain",
+    "pattern": "pour + N"
+  },
+  "a1-0276": {
+    "examples": [
+      {
+        "en": "Mix flour and eggs in a bowl.",
+        "ru": "Смешай муку и яйца в миске."
+      },
+      {
+        "en": "Don't mix these two chemicals.",
+        "ru": "Не смешивай эти два вещества."
+      },
+      {
+        "en": "We mixed with the other guests.",
+        "ru": "Мы пообщались с другими гостями."
+      }
+    ],
+    "colloc": "mix with · mix up · mix together",
+    "pattern": "mix + N"
+  },
+  "a1-0277": {
+    "examples": [
+      {
+        "en": "Plants grow fast in spring.",
+        "ru": "Весной растения быстро растут."
+      },
+      {
+        "en": "She grew up in a small town.",
+        "ru": "Она выросла в маленьком городе."
+      },
+      {
+        "en": "My hair grows quickly.",
+        "ru": "Мои волосы быстро растут."
+      }
+    ],
+    "colloc": "grow up · grow older · grow into",
+    "pattern": "grow + adv"
+  },
+  "a1-0278": {
+    "examples": [
+      {
+        "en": "We plant flowers every April.",
+        "ru": "Каждый апрель мы сажаем цветы."
+      },
+      {
+        "en": "Farmers plant corn in this field.",
+        "ru": "Фермеры сажают кукурузу на этом поле."
+      },
+      {
+        "en": "A plant needs light and water.",
+        "ru": "Растению нужны свет и вода."
+      }
+    ],
+    "colloc": "plant a tree · power plant",
+    "pattern": "plant + N"
+  },
+  "a1-0279": {
+    "examples": [
+      {
+        "en": "It rains a lot here in spring.",
+        "ru": "Весной здесь часто идёт дождь."
+      },
+      {
+        "en": "Take a coat — it might rain.",
+        "ru": "Возьми пальто — может пойти дождь."
+      },
+      {
+        "en": "It rained all weekend.",
+        "ru": "Весь уикенд шёл дождь."
+      }
+    ],
+    "colloc": "heavy rain · rain hard · rain check",
+    "note": "it rains (без subject «дождь»)",
+    "pattern": "it + rain"
+  },
+  "a1-0280": {
+    "examples": [
+      {
+        "en": "It may snow tonight.",
+        "ru": "Сегодня ночью может пойти снег."
+      },
+      {
+        "en": "It snowed heavily yesterday.",
+        "ru": "Вчера сильно шёл снег."
+      },
+      {
+        "en": "Kids love playing in the snow.",
+        "ru": "Дети любят играть в снегу."
+      }
+    ],
+    "colloc": "heavy snow · snow day",
+    "pattern": "it + snow"
+  },
+  "a1-0281": {
+    "examples": [
+      {
+        "en": "The sun shines brightly today.",
+        "ru": "Сегодня ярко светит солнце."
+      },
+      {
+        "en": "Her eyes shone with joy.",
+        "ru": "Её глаза сияли от радости."
+      },
+      {
+        "en": "Shine your shoes before the meeting.",
+        "ru": "Почисти туфли перед встречей."
+      }
+    ],
+    "colloc": "sunshine · shine through",
+    "pattern": "shine + adv"
+  },
+  "a1-0282": {
+    "examples": [
+      {
+        "en": "The wind blows hard by the sea.",
+        "ru": "У моря сильно дует ветер."
+      },
+      {
+        "en": "Blow out the candles!",
+        "ru": "Задуй свечи!"
+      },
+      {
+        "en": "She blew her nose quietly.",
+        "ru": "Она тихо высморкалась."
+      }
+    ],
+    "colloc": "blow out · blow away · blow dry",
+    "pattern": "blow + adv"
+  }
+}

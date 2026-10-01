@@ -1,0 +1,984 @@
+{
+  "a1-0700": {
+    "examples": [
+      {
+        "en": "This is a good idea.",
+        "ru": "Хорошая идея."
+      },
+      {
+        "en": "Have a good trip!",
+        "ru": "Хорошей поездки!"
+      },
+      {
+        "en": "This soup tastes good.",
+        "ru": "Этот суп вкусный."
+      }
+    ],
+    "colloc": "good at · feel good · good morning",
+    "note": "ant: bad"
+  },
+  "a1-0701": {
+    "examples": [
+      {
+        "en": "That is a bad plan.",
+        "ru": "Плохой план."
+      },
+      {
+        "en": "That was a bad idea.",
+        "ru": "Это была плохая идея."
+      },
+      {
+        "en": "I feel bad about being late.",
+        "ru": "Мне стыдно, что опоздал."
+      }
+    ],
+    "colloc": "bad at · bad news · feel bad",
+    "note": "ant: good"
+  },
+  "a1-0702": {
+    "examples": [
+      {
+        "en": "A big house stands here.",
+        "ru": "Здесь большой дом."
+      },
+      {
+        "en": "We live in a big city.",
+        "ru": "Мы живём в большом городе."
+      },
+      {
+        "en": "Don't make a big deal of it.",
+        "ru": "Не раздувай из этого проблему."
+      }
+    ],
+    "colloc": "big city · big problem",
+    "note": "syn: large; ant: small"
+  },
+  "a1-0703": {
+    "examples": [
+      {
+        "en": "A small dog sits there.",
+        "ru": "Там сидит маленькая собака."
+      },
+      {
+        "en": "They have a small dog.",
+        "ru": "У них маленькая собака."
+      },
+      {
+        "en": "Can I ask a small favor?",
+        "ru": "Можно маленькую просьбу?"
+      }
+    ],
+    "colloc": "small town · small talk",
+    "note": "syn: little; ant: big"
+  },
+  "a1-0704": {
+    "examples": [
+      {
+        "en": "A large box is heavy.",
+        "ru": "Большая коробка тяжёлая."
+      },
+      {
+        "en": "Take the large pizza.",
+        "ru": "Бери большую пиццу."
+      },
+      {
+        "en": "A large family needs space.",
+        "ru": "Большой семье нужно пространство."
+      }
+    ],
+    "colloc": "large size · large family",
+    "note": "syn: big; ant: small"
+  },
+  "a1-0705": {
+    "examples": [
+      {
+        "en": "Wait a little bit.",
+        "ru": "Подожди немного."
+      },
+      {
+        "en": "Wait a little, please.",
+        "ru": "Подожди немного, пожалуйста."
+      },
+      {
+        "en": "She has little free time.",
+        "ru": "У неё мало свободного времени."
+      }
+    ],
+    "colloc": "a little · little by little",
+    "note": "little = маленький / немного"
+  },
+  "a1-0706": {
+    "examples": [
+      {
+        "en": "A long road ahead.",
+        "ru": "Впереди длинная дорога."
+      },
+      {
+        "en": "It was a long day.",
+        "ru": "Это был долгий день."
+      },
+      {
+        "en": "How long does it take?",
+        "ru": "Сколько это займёт?"
+      }
+    ],
+    "colloc": "long time · long hair · how long",
+    "note": "ant: short"
+  },
+  "a1-0707": {
+    "examples": [
+      {
+        "en": "A short break helps.",
+        "ru": "Короткий перерыв помогает."
+      },
+      {
+        "en": "Take a short break.",
+        "ru": "Сделай короткий перерыв."
+      },
+      {
+        "en": "He has short hair.",
+        "ru": "У него короткие волосы."
+      }
+    ],
+    "colloc": "short break · in short",
+    "note": "ant: long/tall"
+  },
+  "a1-0708": {
+    "examples": [
+      {
+        "en": "He is tall and strong.",
+        "ru": "Он высокий и сильный."
+      },
+      {
+        "en": "She is taller than her brother.",
+        "ru": "Она выше брата."
+      },
+      {
+        "en": "A tall building blocks the view.",
+        "ru": "Высокое здание закрывает вид."
+      }
+    ],
+    "colloc": "how tall · tall building",
+    "note": "tall — люди/здания; high — горы/цены"
+  },
+  "a1-0709": {
+    "examples": [
+      {
+        "en": "A high mountain rises.",
+        "ru": "Возвышается высокая гора."
+      },
+      {
+        "en": "Prices are high this year.",
+        "ru": "Цены в этом году высокие."
+      },
+      {
+        "en": "The plane flew high above us.",
+        "ru": "Самолёт летел высоко над нами."
+      }
+    ],
+    "colloc": "high price · high school",
+    "note": "ant: low"
+  },
+  "a1-0710": {
+    "examples": [
+      {
+        "en": "The price is low.",
+        "ru": "Цена низкая."
+      },
+      {
+        "en": "Keep your voice low.",
+        "ru": "Говори тише."
+      },
+      {
+        "en": "The battery is low.",
+        "ru": "Батарея садится."
+      }
+    ],
+    "colloc": "low price · low battery",
+    "note": "ant: high"
+  },
+  "a1-0711": {
+    "examples": [
+      {
+        "en": "A wide river flows.",
+        "ru": "Течёт широкая река."
+      },
+      {
+        "en": "The river is wide here.",
+        "ru": "Здесь река широкая."
+      },
+      {
+        "en": "Open your arms wide.",
+        "ru": "Широко раскрой руки."
+      }
+    ],
+    "colloc": "wide open · worldwide",
+    "note": "ant: narrow"
+  },
+  "a1-0712": {
+    "examples": [
+      {
+        "en": "A narrow path begins.",
+        "ru": "Начинается узкая тропа."
+      },
+      {
+        "en": "The hallway is narrow.",
+        "ru": "Коридор узкий."
+      },
+      {
+        "en": "We drove down a narrow road.",
+        "ru": "Мы ехали по узкой дороге."
+      }
+    ],
+    "colloc": "narrow escape",
+    "note": "ant: wide"
+  },
+  "a1-0713": {
+    "examples": [
+      {
+        "en": "A thick book is hard.",
+        "ru": "Толстая книга сложная."
+      },
+      {
+        "en": "Cut thick slices of bread.",
+        "ru": "Нарежь толстые ломти хлеба."
+      },
+      {
+        "en": "The fog was thick this morning.",
+        "ru": "Сегодня утром был густой туман."
+      }
+    ],
+    "colloc": "thick fog · thick book",
+    "note": "ant: thin"
+  },
+  "a1-0714": {
+    "examples": [
+      {
+        "en": "A thin line of light.",
+        "ru": "Тонкая полоска света."
+      },
+      {
+        "en": "She wore a thin jacket.",
+        "ru": "Она надела тонкую куртку."
+      },
+      {
+        "en": "Slice the onion thin.",
+        "ru": "Нарежь лук тонко."
+      }
+    ],
+    "colloc": "thin ice · thin air",
+    "note": "ant: thick"
+  },
+  "a1-0715": {
+    "examples": [
+      {
+        "en": "This bag is heavy.",
+        "ru": "Сумка тяжёлая."
+      },
+      {
+        "en": "This box is too heavy.",
+        "ru": "Эта коробка слишком тяжёлая."
+      },
+      {
+        "en": "Traffic is heavy today.",
+        "ru": "Сегодня сильные пробки."
+      }
+    ],
+    "colloc": "heavy rain · heavy traffic",
+    "note": "ant: light"
+  },
+  "a1-0716": {
+    "examples": [
+      {
+        "en": "This test is hard.",
+        "ru": "Тест сложный."
+      },
+      {
+        "en": "This test is hard.",
+        "ru": "Этот тест трудный."
+      },
+      {
+        "en": "The ground is hard after frost.",
+        "ru": "Земля твёрдая после мороза."
+      }
+    ],
+    "colloc": "work hard · hard to",
+    "note": "hard = трудный/твёрдый; hardly = едва"
+  },
+  "a1-0717": {
+    "examples": [
+      {
+        "en": "The pillow is soft.",
+        "ru": "Подушка мягкая."
+      },
+      {
+        "en": "The pillow feels soft.",
+        "ru": "Подушка мягкая."
+      },
+      {
+        "en": "Speak in a soft voice.",
+        "ru": "Говори мягким голосом."
+      }
+    ],
+    "colloc": "soft drink · soft voice",
+    "note": "ant: hard"
+  },
+  "a1-0718": {
+    "examples": [
+      {
+        "en": "She is strong.",
+        "ru": "Она сильная."
+      },
+      {
+        "en": "She is strong enough to lift it.",
+        "ru": "Она достаточно сильна, чтобы поднять."
+      },
+      {
+        "en": "I need a strong coffee.",
+        "ru": "Мне нужно крепкое кофе."
+      }
+    ],
+    "colloc": "strong coffee · strong wind",
+    "note": "ant: weak"
+  },
+  "a1-0719": {
+    "examples": [
+      {
+        "en": "I feel weak today.",
+        "ru": "Сегодня я слаб."
+      },
+      {
+        "en": "The signal is weak here.",
+        "ru": "Здесь слабый сигнал."
+      },
+      {
+        "en": "I felt weak after the flu.",
+        "ru": "После гриппа я чувствовал слабость."
+      }
+    ],
+    "colloc": "weak signal · feel weak",
+    "note": "ant: strong"
+  },
+  "a1-0720": {
+    "examples": [
+      {
+        "en": "A slow train arrives.",
+        "ru": "Приходит медленный поезд."
+      },
+      {
+        "en": "Traffic is slow after five.",
+        "ru": "После пяти движение медленное."
+      },
+      {
+        "en": "This computer is slow.",
+        "ru": "Этот компьютер медленный."
+      }
+    ],
+    "colloc": "slow down · slow cooker",
+    "note": "ant: fast"
+  },
+  "a1-0721": {
+    "examples": [
+      {
+        "en": "The coffee is hot.",
+        "ru": "Кофе горячий."
+      },
+      {
+        "en": "The soup is too hot.",
+        "ru": "Суп слишком горячий."
+      },
+      {
+        "en": "It was a hot summer.",
+        "ru": "Лето было жарким."
+      }
+    ],
+    "colloc": "hot weather · hot tea",
+    "note": "ant: cold"
+  },
+  "a1-0722": {
+    "examples": [
+      {
+        "en": "A warm jacket helps.",
+        "ru": "Тёплая куртка помогает."
+      },
+      {
+        "en": "Keep the baby warm.",
+        "ru": "Держи малыша в тепле."
+      },
+      {
+        "en": "We got a warm welcome.",
+        "ru": "Нас тепло встретили."
+      }
+    ],
+    "colloc": "warm welcome · warm weather",
+    "note": "ant: cool"
+  },
+  "a1-0723": {
+    "examples": [
+      {
+        "en": "A cool wind blows.",
+        "ru": "Дует прохладный ветер."
+      },
+      {
+        "en": "The evening air feels cool.",
+        "ru": "Вечерний воздух прохладный."
+      },
+      {
+        "en": "Stay cool under pressure.",
+        "ru": "Сохраняй спокойствие под давлением."
+      }
+    ],
+    "colloc": "cool down · stay cool",
+    "note": "cool = прохладный / крутой"
+  },
+  "a1-0724": {
+    "examples": [
+      {
+        "en": "I have a new phone.",
+        "ru": "У меня новый телефон."
+      },
+      {
+        "en": "I bought a new phone.",
+        "ru": "Я купил новый телефон."
+      },
+      {
+        "en": "Happy New Year!",
+        "ru": "С Новым годом!"
+      }
+    ],
+    "colloc": "brand new · New Year",
+    "note": "ant: old"
+  },
+  "a1-0725": {
+    "examples": [
+      {
+        "en": "An old book smells good.",
+        "ru": "Старая книга приятно пахнет."
+      },
+      {
+        "en": "This is an old photo.",
+        "ru": "Это старое фото."
+      },
+      {
+        "en": "How old are you?",
+        "ru": "Сколько тебе лет?"
+      }
+    ],
+    "colloc": "old friend · how old",
+    "note": "ant: new/young"
+  },
+  "a1-0726": {
+    "examples": [
+      {
+        "en": "A young teacher smiles.",
+        "ru": "Молодой учитель улыбается."
+      },
+      {
+        "en": "Young people use this app.",
+        "ru": "Молодые люди пользуются этим приложением."
+      },
+      {
+        "en": "She looks young for her age.",
+        "ru": "Она выглядит молодо для своего возраста."
+      }
+    ],
+    "colloc": "young people · young child",
+    "note": "ant: old"
+  },
+  "a1-0727": {
+    "examples": [
+      {
+        "en": "A beautiful day begins.",
+        "ru": "Начинается прекрасный день."
+      },
+      {
+        "en": "What a beautiful day!",
+        "ru": "Какой прекрасный день!"
+      },
+      {
+        "en": "The view is beautiful.",
+        "ru": "Вид прекрасный."
+      }
+    ],
+    "colloc": "beautiful view · beautiful day",
+    "note": "syn: pretty"
+  },
+  "a1-0728": {
+    "examples": [
+      {
+        "en": "A pretty flower blooms.",
+        "ru": "Распускается милый цветок."
+      },
+      {
+        "en": "She has a pretty smile.",
+        "ru": "У неё милая улыбка."
+      },
+      {
+        "en": "The weather is pretty good.",
+        "ru": "Погода довольно хорошая."
+      }
+    ],
+    "colloc": "pretty good · pretty girl",
+    "note": "pretty = милый; pretty good = довольно"
+  },
+  "a1-0729": {
+    "examples": [
+      {
+        "en": "An ugly stain remains.",
+        "ru": "Остаётся некрасивое пятно."
+      },
+      {
+        "en": "That was an ugly argument.",
+        "ru": "Это была неприятная ссора."
+      },
+      {
+        "en": "The building looks ugly after the fire.",
+        "ru": "Здание выглядит уродливо после пожара."
+      }
+    ],
+    "colloc": "ugly truth",
+    "note": "ant: beautiful"
+  },
+  "a1-0730": {
+    "examples": [
+      {
+        "en": "Have a nice day.",
+        "ru": "Хорошего дня."
+      },
+      {
+        "en": "Have a nice day!",
+        "ru": "Хорошего дня!"
+      },
+      {
+        "en": "That's a nice idea.",
+        "ru": "Хорошая идея."
+      }
+    ],
+    "colloc": "nice to meet you · nice weather"
+  },
+  "a1-0731": {
+    "examples": [
+      {
+        "en": "She is kind to all.",
+        "ru": "Она добра ко всем."
+      },
+      {
+        "en": "She was kind to strangers.",
+        "ru": "Она была добра к незнакомцам."
+      },
+      {
+        "en": "What kind of music do you like?",
+        "ru": "Какую музыку любишь?"
+      }
+    ],
+    "colloc": "kind of · be kind",
+    "note": "kind = добрый; a kind of = тип"
+  },
+  "a1-0732": {
+    "examples": [
+      {
+        "en": "Our dog is friendly.",
+        "ru": "Наша собака дружелюбная."
+      },
+      {
+        "en": "The staff is friendly.",
+        "ru": "Персонал дружелюбный."
+      },
+      {
+        "en": "Our dog is friendly with kids.",
+        "ru": "Наша собака дружелюбна к детям."
+      }
+    ],
+    "colloc": "friendly smile · user-friendly"
+  },
+  "a1-0733": {
+    "examples": [
+      {
+        "en": "I feel happy now.",
+        "ru": "Сейчас я счастлив."
+      },
+      {
+        "en": "I'm happy to help.",
+        "ru": "Рад помочь."
+      },
+      {
+        "en": "Happy birthday!",
+        "ru": "С днём рождения!"
+      }
+    ],
+    "colloc": "feel happy · happy birthday",
+    "note": "ant: sad"
+  },
+  "a1-0734": {
+    "examples": [
+      {
+        "en": "Why are you sad?",
+        "ru": "Почему ты грустный?"
+      },
+      {
+        "en": "The ending made me sad.",
+        "ru": "Концовка меня расстроила."
+      },
+      {
+        "en": "Don't look so sad.",
+        "ru": "Не выгляди таким грустным."
+      }
+    ],
+    "colloc": "feel sad · sad news",
+    "note": "ant: happy"
+  },
+  "a1-0735": {
+    "examples": [
+      {
+        "en": "Do not be angry.",
+        "ru": "Не злись."
+      },
+      {
+        "en": "He got angry about the delay.",
+        "ru": "Он разозлился из-за задержки."
+      },
+      {
+        "en": "Don't be angry with me.",
+        "ru": "Не сердись на меня."
+      }
+    ],
+    "colloc": "get angry · angry about"
+  },
+  "a1-0736": {
+    "examples": [
+      {
+        "en": "I am tired tonight.",
+        "ru": "Сегодня я устал."
+      },
+      {
+        "en": "I'm tired after work.",
+        "ru": "После работы я устал."
+      },
+      {
+        "en": "You look tired.",
+        "ru": "Ты выглядишь уставшим."
+      }
+    ],
+    "colloc": "feel tired · tired of"
+  },
+  "a1-0737": {
+    "examples": [
+      {
+        "en": "I am hungry now.",
+        "ru": "Я голоден."
+      },
+      {
+        "en": "I'm hungry — let's eat.",
+        "ru": "Я голоден — давай есть."
+      },
+      {
+        "en": "The kids get hungry after school.",
+        "ru": "Дети проголодаются после школы."
+      }
+    ],
+    "colloc": "feel hungry · hungry for"
+  },
+  "a1-0738": {
+    "examples": [
+      {
+        "en": "I am thirsty.",
+        "ru": "Я хочу пить."
+      },
+      {
+        "en": "I'm thirsty after the run.",
+        "ru": "После пробежки я хочу пить."
+      },
+      {
+        "en": "Stay thirsty for knowledge.",
+        "ru": "Оставайся жаждущим знаний."
+      }
+    ],
+    "colloc": "feel thirsty"
+  },
+  "a1-0739": {
+    "examples": [
+      {
+        "en": "I am busy today.",
+        "ru": "Сегодня я занят."
+      },
+      {
+        "en": "I'm busy this afternoon.",
+        "ru": "Сегодня днём я занят."
+      },
+      {
+        "en": "The café is busy on weekends.",
+        "ru": "По выходным в кафе людно."
+      }
+    ],
+    "colloc": "busy day · busy street",
+    "note": "ant: free"
+  },
+  "a1-0740": {
+    "examples": [
+      {
+        "en": "Are you free tonight?",
+        "ru": "Ты свободен сегодня вечером?"
+      },
+      {
+        "en": "Are you free tonight?",
+        "ru": "Ты свободен сегодня вечером?"
+      },
+      {
+        "en": "The parking is free after six.",
+        "ru": "После шести парковка бесплатная."
+      }
+    ],
+    "colloc": "free time · for free · feel free",
+    "note": "free = свободный/бесплатный"
+  },
+  "a1-0741": {
+    "examples": [
+      {
+        "en": "I am ready to go.",
+        "ru": "Я готов идти."
+      },
+      {
+        "en": "Dinner is ready.",
+        "ru": "Ужин готов."
+      },
+      {
+        "en": "Are you ready to go?",
+        "ru": "Готов идти?"
+      }
+    ],
+    "colloc": "ready for · get ready · ready to"
+  },
+  "a1-0742": {
+    "examples": [
+      {
+        "en": "This task is easy.",
+        "ru": "Задача лёгкая."
+      },
+      {
+        "en": "This puzzle is easy.",
+        "ru": "Этот пазл лёгкий."
+      },
+      {
+        "en": "Take it easy.",
+        "ru": "Не напрягайся."
+      }
+    ],
+    "colloc": "easy to · take it easy",
+    "note": "ant: difficult"
+  },
+  "a1-0743": {
+    "examples": [
+      {
+        "en": "The question is difficult.",
+        "ru": "Вопрос сложный."
+      },
+      {
+        "en": "The question is difficult.",
+        "ru": "Вопрос трудный."
+      },
+      {
+        "en": "I find mornings difficult.",
+        "ru": "Мне трудно по утрам."
+      }
+    ],
+    "colloc": "difficult question · find it difficult",
+    "note": "syn: hard; ant: easy"
+  },
+  "a1-0744": {
+    "examples": [
+      {
+        "en": "This is important news.",
+        "ru": "Важные новости."
+      },
+      {
+        "en": "This is an important meeting.",
+        "ru": "Это важная встреча."
+      },
+      {
+        "en": "Family is important to me.",
+        "ru": "Семья для меня важна."
+      }
+    ],
+    "colloc": "important to · most important"
+  },
+  "a1-0745": {
+    "examples": [
+      {
+        "en": "An interesting book waits.",
+        "ru": "Ждёт интересная книга."
+      },
+      {
+        "en": "That's an interesting idea.",
+        "ru": "Интересная идея."
+      },
+      {
+        "en": "The tour was interesting.",
+        "ru": "Экскурсия была интересной."
+      }
+    ],
+    "colloc": "interesting fact · sound interesting",
+    "note": "ant: boring"
+  },
+  "a1-0746": {
+    "examples": [
+      {
+        "en": "The film is boring.",
+        "ru": "Фильм скучный."
+      },
+      {
+        "en": "The meeting was boring.",
+        "ru": "Встреча была скучной."
+      },
+      {
+        "en": "Don't be boring — try something new.",
+        "ru": "Не будь скучным — попробуй что-то новое."
+      }
+    ],
+    "colloc": "boring meeting · get bored",
+    "note": "ant: interesting"
+  },
+  "a1-0747": {
+    "examples": [
+      {
+        "en": "The party is fun.",
+        "ru": "Вечеринка весёлая."
+      },
+      {
+        "en": "We had fun at the beach.",
+        "ru": "На пляже было весело."
+      },
+      {
+        "en": "Learning can be fun.",
+        "ru": "Учёба может быть весёлой."
+      }
+    ],
+    "colloc": "have fun · fun fact",
+    "note": "fun ≠ funny"
+  },
+  "a1-0748": {
+    "examples": [
+      {
+        "en": "A funny joke helps.",
+        "ru": "Смешная шутка помогает."
+      },
+      {
+        "en": "That joke was funny.",
+        "ru": "Эта шутка была смешной."
+      },
+      {
+        "en": "You look funny in that hat.",
+        "ru": "В этой шляпе ты выглядишь забавно."
+      }
+    ],
+    "colloc": "funny story · funny joke",
+    "note": "funny = смешной; fun = веселье"
+  },
+  "a1-0749": {
+    "examples": [
+      {
+        "en": "Please be quiet.",
+        "ru": "Пожалуйста, тише."
+      },
+      {
+        "en": "Please be quiet in the library.",
+        "ru": "Пожалуйста, тише в библиотеке."
+      },
+      {
+        "en": "We live on a quiet street.",
+        "ru": "Мы живём на тихой улице."
+      }
+    ],
+    "colloc": "keep quiet · quiet street",
+    "note": "ant: loud"
+  },
+  "a1-0750": {
+    "examples": [
+      {
+        "en": "Loud music plays.",
+        "ru": "Играет громкая музыка."
+      },
+      {
+        "en": "The music is too loud.",
+        "ru": "Музыка слишком громкая."
+      },
+      {
+        "en": "He has a loud voice.",
+        "ru": "У него громкий голос."
+      }
+    ],
+    "colloc": "loud music · too loud",
+    "note": "ant: quiet"
+  },
+  "a1-0751": {
+    "examples": [
+      {
+        "en": "Wash dirty hands.",
+        "ru": "Вымой грязные руки."
+      },
+      {
+        "en": "Don't sit on the dirty floor.",
+        "ru": "Не сиди на грязном полу."
+      },
+      {
+        "en": "My shoes got dirty in the mud.",
+        "ru": "Обувь испачкалась в грязи."
+      }
+    ],
+    "colloc": "dirty dishes · get dirty",
+    "note": "ant: clean"
+  },
+  "a1-0752": {
+    "examples": [
+      {
+        "en": "The glass is full.",
+        "ru": "Стакан полный."
+      },
+      {
+        "en": "The bus is full.",
+        "ru": "Автобус полный."
+      },
+      {
+        "en": "I'm full — no dessert.",
+        "ru": "Я сыт — без десерта."
+      }
+    ],
+    "colloc": "full of · full time · I'm full",
+    "note": "ant: empty"
+  },
+  "a1-0753": {
+    "examples": [
+      {
+        "en": "The bottle is empty.",
+        "ru": "Бутылка пустая."
+      },
+      {
+        "en": "The fridge is almost empty.",
+        "ru": "Холодильник почти пустой."
+      },
+      {
+        "en": "Leave the glass empty.",
+        "ru": "Оставь стакан пустым."
+      }
+    ],
+    "colloc": "empty bottle · empty street",
+    "note": "ant: full"
+  },
+  "a1-0754": {
+    "examples": [
+      {
+        "en": "The shop is closed.",
+        "ru": "Магазин закрыт."
+      },
+      {
+        "en": "The shop is closed on Sundays.",
+        "ru": "По воскресеньям магазин закрыт."
+      },
+      {
+        "en": "Keep the door closed.",
+        "ru": "Держи дверь закрытой."
+      }
+    ],
+    "colloc": "closed for lunch",
+    "note": "ant: open"
+  }
+}

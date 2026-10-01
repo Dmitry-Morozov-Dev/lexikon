@@ -1,0 +1,414 @@
+{
+  "a1-0359": {
+    "examples": [
+      {
+        "en": "Our house is near the park.",
+        "ru": "Наш дом рядом с парком."
+      },
+      {
+        "en": "They bought a small house.",
+        "ru": "Они купили небольшой дом."
+      },
+      {
+        "en": "Come to our house on Sunday.",
+        "ru": "Приходи к нам домой в воскресенье."
+      }
+    ],
+    "colloc": "house key · move house"
+  },
+  "a1-0360": {
+    "examples": [
+      {
+        "en": "I feel at home here.",
+        "ru": "Я чувствую себя здесь как дома."
+      },
+      {
+        "en": "Let's go home.",
+        "ru": "Давай пойдём домой."
+      },
+      {
+        "en": "Home is where the heart is.",
+        "ru": "Дом — там, где сердце."
+      }
+    ],
+    "colloc": "at home · go home · feel at home",
+    "note": "go home / at home — без артикля"
+  },
+  "a1-0361": {
+    "examples": [
+      {
+        "en": "We rent a small apartment.",
+        "ru": "Мы снимаем маленькую квартиру."
+      },
+      {
+        "en": "Her apartment is on the third floor.",
+        "ru": "Её квартира на третьем этаже."
+      },
+      {
+        "en": "The apartment comes with a balcony.",
+        "ru": "К квартире прилагается балкон."
+      }
+    ],
+    "colloc": "apartment building"
+  },
+  "a1-0362": {
+    "examples": [
+      {
+        "en": "This room gets a lot of light.",
+        "ru": "В этой комнате много света."
+      },
+      {
+        "en": "Clean your room before dinner.",
+        "ru": "Убери комнату до ужина."
+      },
+      {
+        "en": "Is there a free room tonight?",
+        "ru": "Есть свободная комната на сегодня?"
+      }
+    ],
+    "colloc": "living room · room for"
+  },
+  "a1-0363": {
+    "examples": [
+      {
+        "en": "Something smells good in the kitchen.",
+        "ru": "На кухне вкусно пахнет."
+      },
+      {
+        "en": "We remodeled the kitchen last year.",
+        "ru": "В прошлом году мы сделали ремонт кухни."
+      },
+      {
+        "en": "Meet me in the kitchen.",
+        "ru": "Встретимся на кухне."
+      }
+    ],
+    "colloc": "kitchen table · kitchen sink"
+  },
+  "a1-0364": {
+    "examples": [
+      {
+        "en": "Where is the bathroom?",
+        "ru": "Где ванная?"
+      },
+      {
+        "en": "The bathroom door is locked.",
+        "ru": "Дверь ванной закрыта."
+      },
+      {
+        "en": "I left my phone in the bathroom.",
+        "ru": "Я оставил телефон в ванной."
+      }
+    ],
+    "colloc": "bathroom mirror"
+  },
+  "a1-0365": {
+    "examples": [
+      {
+        "en": "My bedroom faces the street.",
+        "ru": "Моя спальня выходит на улицу."
+      },
+      {
+        "en": "The kids share a bedroom.",
+        "ru": "Дети делят спальню."
+      },
+      {
+        "en": "Turn off the light in the bedroom.",
+        "ru": "Выключи свет в спальне."
+      }
+    ],
+    "colloc": "bedroom window"
+  },
+  "a1-0366": {
+    "examples": [
+      {
+        "en": "Tomatoes grow in our garden.",
+        "ru": "В нашем саду растут помидоры."
+      },
+      {
+        "en": "She waters the garden every evening.",
+        "ru": "Она поливает сад каждый вечер."
+      },
+      {
+        "en": "Let's sit in the garden.",
+        "ru": "Давай посидим в саду."
+      }
+    ],
+    "colloc": "garden party · vegetable garden"
+  },
+  "a1-0367": {
+    "examples": [
+      {
+        "en": "The kids play in the yard.",
+        "ru": "Дети играют во дворе."
+      },
+      {
+        "en": "We have a small backyard.",
+        "ru": "У нас небольшой задний двор."
+      },
+      {
+        "en": "Rake the leaves in the yard.",
+        "ru": "Сгреби листья во дворе."
+      }
+    ],
+    "colloc": "front yard · backyard",
+    "note": "AmE: yard; BrE: garden"
+  },
+  "a1-0368": {
+    "examples": [
+      {
+        "en": "Close the door, please.",
+        "ru": "Закрой дверь, пожалуйста."
+      },
+      {
+        "en": "Someone is at the door.",
+        "ru": "Кто-то у двери."
+      },
+      {
+        "en": "The door won't open.",
+        "ru": "Дверь не открывается."
+      }
+    ],
+    "colloc": "front door · door handle · next door"
+  },
+  "a1-0369": {
+    "examples": [
+      {
+        "en": "Open the window for fresh air.",
+        "ru": "Открой окно для свежего воздуха."
+      },
+      {
+        "en": "Rain hit the window.",
+        "ru": "Дождь барабанил по окну."
+      },
+      {
+        "en": "Sit by the window.",
+        "ru": "Сядь у окна."
+      }
+    ],
+    "colloc": "window seat · out the window"
+  },
+  "a1-0370": {
+    "examples": [
+      {
+        "en": "Hang the picture on the wall.",
+        "ru": "Повесь картину на стену."
+      },
+      {
+        "en": "These walls are thin.",
+        "ru": "Эти стены тонкие."
+      },
+      {
+        "en": "He leaned against the wall.",
+        "ru": "Он прислонился к стене."
+      }
+    ],
+    "colloc": "wall clock · hit a wall"
+  },
+  "a1-0371": {
+    "examples": [
+      {
+        "en": "Don't sit on the cold floor.",
+        "ru": "Не сиди на холодном полу."
+      },
+      {
+        "en": "Our apartment is on the second floor.",
+        "ru": "Наша квартира на втором этаже."
+      },
+      {
+        "en": "Sweep the floor, please.",
+        "ru": "Подмети пол, пожалуйста."
+      }
+    ],
+    "colloc": "first floor · floor plan",
+    "note": "AmE first floor = BrE ground floor"
+  },
+  "a1-0372": {
+    "examples": [
+      {
+        "en": "The ceiling is painted white.",
+        "ru": "Потолок покрашен в белый."
+      },
+      {
+        "en": "A fly walked on the ceiling.",
+        "ru": "Муха ползла по потолку."
+      },
+      {
+        "en": "Low ceilings make rooms cozy.",
+        "ru": "Низкие потолки делают комнаты уютными."
+      }
+    ],
+    "colloc": "ceiling fan · hit the ceiling"
+  },
+  "a1-0373": {
+    "examples": [
+      {
+        "en": "Workers fixed the roof.",
+        "ru": "Рабочие починили крышу."
+      },
+      {
+        "en": "Cats love sitting on roofs.",
+        "ru": "Кошки любят сидеть на крышах."
+      },
+      {
+        "en": "Rain leaked through the roof.",
+        "ru": "Дождь протекал через крышу."
+      }
+    ],
+    "colloc": "roof rack · under one roof"
+  },
+  "a1-0374": {
+    "examples": [
+      {
+        "en": "Take the stairs — the elevator is broken.",
+        "ru": "Иди по лестнице — лифт сломан."
+      },
+      {
+        "en": "Be careful on the stairs.",
+        "ru": "Осторожнее на лестнице."
+      },
+      {
+        "en": "She ran up the stairs.",
+        "ru": "Она взбежала по лестнице."
+      }
+    ],
+    "colloc": "flight of stairs · upstairs"
+  },
+  "a1-0375": {
+    "examples": [
+      {
+        "en": "Take the elevator to floor five.",
+        "ru": "Поднимитесь на лифте на пятый этаж."
+      },
+      {
+        "en": "The elevator is crowded.",
+        "ru": "В лифте тесно."
+      },
+      {
+        "en": "We waited for the elevator.",
+        "ru": "Мы ждали лифт."
+      }
+    ],
+    "colloc": "elevator door",
+    "note": "AmE: elevator; BrE: lift"
+  },
+  "a1-0376": {
+    "examples": [
+      {
+        "en": "I lost my house key.",
+        "ru": "Я потерял ключ от дома."
+      },
+      {
+        "en": "Leave the key under the mat.",
+        "ru": "Оставь ключ под ковриком."
+      },
+      {
+        "en": "This key opens the garage.",
+        "ru": "Этот ключ открывает гараж."
+      }
+    ],
+    "colloc": "key ring · spare key · key to"
+  },
+  "a1-0377": {
+    "examples": [
+      {
+        "en": "Did you lock the door?",
+        "ru": "Ты закрыл дверь на ключ?"
+      },
+      {
+        "en": "The lock is broken.",
+        "ru": "Замок сломан."
+      },
+      {
+        "en": "Lock your bike at the station.",
+        "ru": "Пристегни велосипед на станции."
+      }
+    ],
+    "colloc": "door lock · lock up"
+  },
+  "a1-0378": {
+    "examples": [
+      {
+        "en": "Set the table for dinner.",
+        "ru": "Накрой на стол к ужину."
+      },
+      {
+        "en": "The book is on the table.",
+        "ru": "Книга на столе."
+      },
+      {
+        "en": "We sat around the table and talked.",
+        "ru": "Мы сидели вокруг стола и разговаривали."
+      }
+    ],
+    "colloc": "kitchen table · table for two"
+  },
+  "a1-0379": {
+    "examples": [
+      {
+        "en": "My desk faces the window.",
+        "ru": "Мой стол стоит у окна."
+      },
+      {
+        "en": "Clear your desk before you leave.",
+        "ru": "Убери со стола, прежде чем уйти."
+      },
+      {
+        "en": "She works at a standing desk.",
+        "ru": "Она работает за стоячим столом."
+      }
+    ],
+    "colloc": "desk lamp · desk job"
+  },
+  "a1-0380": {
+    "examples": [
+      {
+        "en": "Pull up a chair.",
+        "ru": "Придвинь стул."
+      },
+      {
+        "en": "This chair is uncomfortable.",
+        "ru": "Этот стул неудобный."
+      },
+      {
+        "en": "He sat in the chair by the fire.",
+        "ru": "Он сел в кресло у огня."
+      }
+    ],
+    "colloc": "office chair · armchair"
+  },
+  "a1-0381": {
+    "examples": [
+      {
+        "en": "We watched a movie on the sofa.",
+        "ru": "Мы смотрели фильм на диване."
+      },
+      {
+        "en": "The cat owns the sofa.",
+        "ru": "Диван принадлежит коту."
+      },
+      {
+        "en": "This sofa folds out into a bed.",
+        "ru": "Этот диван раскладывается в кровать."
+      }
+    ],
+    "colloc": "sofa bed · on the sofa"
+  },
+  "a1-0382": {
+    "examples": [
+      {
+        "en": "I made the bed this morning.",
+        "ru": "Сегодня утром я застелил кровать."
+      },
+      {
+        "en": "Go to bed early tonight.",
+        "ru": "Ложись сегодня пораньше."
+      },
+      {
+        "en": "The dog slept under the bed.",
+        "ru": "Собака спала под кроватью."
+      }
+    ],
+    "colloc": "go to bed · make the bed · bed time"
+  }
+}

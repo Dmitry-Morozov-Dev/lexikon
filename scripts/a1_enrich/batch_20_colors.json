@@ -1,0 +1,191 @@
+{
+  "a1-0807": {
+    "examples": [
+      {
+        "en": "A red apple looks ripe.",
+        "ru": "Красное яблоко спелое."
+      },
+      {
+        "en": "She wore a red dress.",
+        "ru": "Она надела красное платье."
+      },
+      {
+        "en": "Stop at the red light.",
+        "ru": "Остановись на красный."
+      }
+    ],
+    "colloc": "red light · red wine"
+  },
+  "a1-0808": {
+    "examples": [
+      {
+        "en": "The blue sky is clear.",
+        "ru": "Синее небо ясное."
+      },
+      {
+        "en": "The sky is blue today.",
+        "ru": "Сегодня небо голубое."
+      },
+      {
+        "en": "I feel a bit blue.",
+        "ru": "Мне немного грустно."
+      }
+    ],
+    "colloc": "blue sky · feel blue"
+  },
+  "a1-0809": {
+    "examples": [
+      {
+        "en": "Green grass grows fast.",
+        "ru": "Зелёная трава быстро растёт."
+      },
+      {
+        "en": "The grass is green after rain.",
+        "ru": "После дождя трава зелёная."
+      },
+      {
+        "en": "Go — the light is green.",
+        "ru": "Поезжай — зелёный."
+      }
+    ],
+    "colloc": "green tea · green light"
+  },
+  "a1-0810": {
+    "examples": [
+      {
+        "en": "A yellow sun rises.",
+        "ru": "Встаёт жёлтое солнце."
+      },
+      {
+        "en": "Yellow taxis fill the street.",
+        "ru": "Жёлтые такси заполняют улицу."
+      },
+      {
+        "en": "Highlight it in yellow.",
+        "ru": "Выдели жёлтым."
+      }
+    ],
+    "colloc": "yellow light · yellow pages"
+  },
+  "a1-0811": {
+    "examples": [
+      {
+        "en": "A black cat walks by.",
+        "ru": "Проходит чёрная кошка."
+      },
+      {
+        "en": "She wore a black coat.",
+        "ru": "Она надела чёрное пальто."
+      },
+      {
+        "en": "The screen went black.",
+        "ru": "Экран погас."
+      }
+    ],
+    "colloc": "black coffee · black and white"
+  },
+  "a1-0812": {
+    "examples": [
+      {
+        "en": "White snow covers all.",
+        "ru": "Белый снег всё покрывает."
+      },
+      {
+        "en": "Paint the walls white.",
+        "ru": "Покрась стены в белый."
+      },
+      {
+        "en": "White snow covered the yard.",
+        "ru": "Белый снег покрыл двор."
+      }
+    ],
+    "colloc": "white wine · white noise"
+  },
+  "a1-0813": {
+    "examples": [
+      {
+        "en": "Brown shoes look nice.",
+        "ru": "Коричневые туфли красивые."
+      },
+      {
+        "en": "He has brown eyes.",
+        "ru": "У него карие глаза."
+      },
+      {
+        "en": "Brown rice is healthier.",
+        "ru": "Бурый рис полезнее."
+      }
+    ],
+    "colloc": "brown sugar · brown bag"
+  },
+  "a1-0814": {
+    "examples": [
+      {
+        "en": "A gray cloud hangs.",
+        "ru": "Висит серое облако."
+      },
+      {
+        "en": "Gray clouds filled the sky.",
+        "ru": "Серые облака заполнили небо."
+      },
+      {
+        "en": "His hair is turning gray.",
+        "ru": "Его волосы седеют."
+      }
+    ],
+    "colloc": "gray area",
+    "note": "AmE: gray"
+  },
+  "a1-0815": {
+    "examples": [
+      {
+        "en": "Grey walls look calm.",
+        "ru": "Серые стены спокойны."
+      },
+      {
+        "en": "The cat is grey and white.",
+        "ru": "Кошка серо-белая."
+      },
+      {
+        "en": "Grey skies mean rain.",
+        "ru": "Серое небо — к дождю."
+      }
+    ],
+    "colloc": "grey area",
+    "note": "BrE: grey"
+  },
+  "a1-0816": {
+    "examples": [
+      {
+        "en": "A pink flower blooms.",
+        "ru": "Цветёт розовый цветок."
+      },
+      {
+        "en": "She bought pink flowers.",
+        "ru": "Она купила розовые цветы."
+      },
+      {
+        "en": "The sky turned pink at sunset.",
+        "ru": "На закате небо стало розовым."
+      }
+    ],
+    "colloc": "pink slip · tickled pink"
+  },
+  "a1-0817": {
+    "examples": [
+      {
+        "en": "A purple bag is rare.",
+        "ru": "Фиолетовая сумка редка."
+      },
+      {
+        "en": "Purple grapes are sweet.",
+        "ru": "Фиолетовый виноград сладкий."
+      },
+      {
+        "en": "She painted one wall purple.",
+        "ru": "Она покрасила одну стену в фиолетовый."
+      }
+    ],
+    "colloc": "purple heart"
+  }
+}

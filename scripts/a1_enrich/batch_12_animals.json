@@ -1,0 +1,343 @@
+{
+  "a1-0560": {
+    "examples": [
+      {
+        "en": "This animal is wild.",
+        "ru": "Это животное дикое."
+      },
+      {
+        "en": "This zoo has rare animals.",
+        "ru": "В этом зоопарке редкие животные."
+      },
+      {
+        "en": "Don't feed the animals.",
+        "ru": "Не корми животных."
+      }
+    ],
+    "colloc": "wild animal · animal shelter"
+  },
+  "a1-0561": {
+    "examples": [
+      {
+        "en": "The dog barks loudly.",
+        "ru": "Собака громко лает."
+      },
+      {
+        "en": "Our dog loves long walks.",
+        "ru": "Наша собака любит долгие прогулки."
+      },
+      {
+        "en": "Walk the dog before dinner.",
+        "ru": "Выгуляй собаку до ужина."
+      }
+    ],
+    "colloc": "dog park · pet dog"
+  },
+  "a1-0562": {
+    "examples": [
+      {
+        "en": "The cat sleeps here.",
+        "ru": "Кошка спит здесь."
+      },
+      {
+        "en": "The cat slept on the sofa.",
+        "ru": "Кошка спала на диване."
+      },
+      {
+        "en": "Our cat hates the rain.",
+        "ru": "Наша кошка ненавидит дождь."
+      }
+    ],
+    "colloc": "cat food · black cat"
+  },
+  "a1-0563": {
+    "examples": [
+      {
+        "en": "A bird sings outside.",
+        "ru": "Снаружи поёт птица."
+      },
+      {
+        "en": "A bird sang outside my window.",
+        "ru": "Птица пела за окном."
+      },
+      {
+        "en": "Birds fly south in winter.",
+        "ru": "Зимой птицы улетают на юг."
+      }
+    ],
+    "colloc": "bird song · early bird"
+  },
+  "a1-0564": {
+    "examples": [
+      {
+        "en": "The horse runs fast.",
+        "ru": "Лошадь быстро бежит."
+      },
+      {
+        "en": "She rides a horse on weekends.",
+        "ru": "По выходным она катается на лошади."
+      },
+      {
+        "en": "Horses ran across the field.",
+        "ru": "Лошади бежали через поле."
+      }
+    ],
+    "colloc": "horse ride · race horse"
+  },
+  "a1-0565": {
+    "examples": [
+      {
+        "en": "The cow gives milk.",
+        "ru": "Корова даёт молоко."
+      },
+      {
+        "en": "Cows grazed in the field.",
+        "ru": "Коровы паслись в поле."
+      },
+      {
+        "en": "The farm has twenty cows.",
+        "ru": "На ферме двадцать коров."
+      }
+    ],
+    "colloc": "dairy cow · cow milk"
+  },
+  "a1-0566": {
+    "examples": [
+      {
+        "en": "The pig is pink.",
+        "ru": "Свинья розовая."
+      },
+      {
+        "en": "Pigs rolled in the mud.",
+        "ru": "Свиньи валялись в грязи."
+      },
+      {
+        "en": "The farmer feeds the pigs at dawn.",
+        "ru": "Фермер кормит свиней на рассвете."
+      }
+    ],
+    "colloc": "pig farm · guinea pig"
+  },
+  "a1-0567": {
+    "examples": [
+      {
+        "en": "The sheep is white.",
+        "ru": "Овца белая."
+      },
+      {
+        "en": "Sheep covered the hillside.",
+        "ru": "Овцы покрыли склон."
+      },
+      {
+        "en": "A sheep got lost from the flock.",
+        "ru": "Овца отбилась от стада."
+      }
+    ],
+    "colloc": "sheep farm · black sheep",
+    "note": "sheep → sheep (мн. тоже sheep)"
+  },
+  "a1-0568": {
+    "examples": [
+      {
+        "en": "Ducks swim in the lake.",
+        "ru": "Утки плавают в озере."
+      },
+      {
+        "en": "Ducks swam on the pond.",
+        "ru": "Утки плавали на пруду."
+      },
+      {
+        "en": "Kids fed the ducks bread.",
+        "ru": "Дети кормили уток хлебом."
+      }
+    ],
+    "colloc": "duck pond · roast duck"
+  },
+  "a1-0569": {
+    "examples": [
+      {
+        "en": "The rabbit eats carrot.",
+        "ru": "Кролик ест морковь."
+      },
+      {
+        "en": "A rabbit hopped across the yard.",
+        "ru": "Кролик прыгал через двор."
+      },
+      {
+        "en": "She has a pet rabbit.",
+        "ru": "У неё домашний кролик."
+      }
+    ],
+    "colloc": "rabbit hole"
+  },
+  "a1-0570": {
+    "examples": [
+      {
+        "en": "The bear is strong.",
+        "ru": "Медведь сильный."
+      },
+      {
+        "en": "Bears live in this forest.",
+        "ru": "В этом лесу живут медведи."
+      },
+      {
+        "en": "Don't approach a bear.",
+        "ru": "Не подходи к медведю."
+      }
+    ],
+    "colloc": "polar bear · bear hug"
+  },
+  "a1-0571": {
+    "examples": [
+      {
+        "en": "The lion is king.",
+        "ru": "Лев — царь."
+      },
+      {
+        "en": "The lion roared at the zoo.",
+        "ru": "Лев зарычал в зоопарке."
+      },
+      {
+        "en": "Lions hunt in groups.",
+        "ru": "Львы охотятся группами."
+      }
+    ],
+    "colloc": "lion cub · sea lion"
+  },
+  "a1-0572": {
+    "examples": [
+      {
+        "en": "The tiger has stripes.",
+        "ru": "У тигра полосы."
+      },
+      {
+        "en": "A tiger paced in its enclosure.",
+        "ru": "Тигр ходил по вольеру."
+      },
+      {
+        "en": "Tigers are endangered.",
+        "ru": "Тигры под угрозой исчезновения."
+      }
+    ],
+    "colloc": "tiger cub"
+  },
+  "a1-0573": {
+    "examples": [
+      {
+        "en": "An elephant is huge.",
+        "ru": "Слон огромный."
+      },
+      {
+        "en": "Elephants use their trunks to drink.",
+        "ru": "Слоны пьют с помощью хобота."
+      },
+      {
+        "en": "We saw elephants on safari.",
+        "ru": "Мы видели слонов на сафари."
+      }
+    ],
+    "colloc": "elephant trunk"
+  },
+  "a1-0574": {
+    "examples": [
+      {
+        "en": "The monkey climbs trees.",
+        "ru": "Обезьяна лазает по деревьям."
+      },
+      {
+        "en": "Monkeys swung from the trees.",
+        "ru": "Обезьяны качались на деревьях."
+      },
+      {
+        "en": "The monkey stole a banana.",
+        "ru": "Обезьяна украла банан."
+      }
+    ],
+    "colloc": "monkey business"
+  },
+  "a1-0575": {
+    "examples": [
+      {
+        "en": "The snake is long.",
+        "ru": "Змея длинная."
+      },
+      {
+        "en": "A snake slid under a rock.",
+        "ru": "Змея ускользнула под камень."
+      },
+      {
+        "en": "Some snakes are dangerous.",
+        "ru": "Некоторые змеи опасны."
+      }
+    ],
+    "colloc": "snake bite"
+  },
+  "a1-0576": {
+    "examples": [
+      {
+        "en": "The frog jumps high.",
+        "ru": "Лягушка высоко прыгает."
+      },
+      {
+        "en": "Frogs croak after rain.",
+        "ru": "Лягушки квакают после дождя."
+      },
+      {
+        "en": "A frog jumped into the pond.",
+        "ru": "Лягушка прыгнула в пруд."
+      }
+    ],
+    "colloc": "frog jump"
+  },
+  "a1-0577": {
+    "examples": [
+      {
+        "en": "An insect sits on a leaf.",
+        "ru": "Насекомое сидит на листе."
+      },
+      {
+        "en": "Turn off the light — insects come.",
+        "ru": "Выключи свет — прилетают насекомые."
+      },
+      {
+        "en": "This insect bit my arm.",
+        "ru": "Это насекомое укусило руку."
+      }
+    ],
+    "colloc": "insect bite · insect spray"
+  },
+  "a1-0578": {
+    "examples": [
+      {
+        "en": "A butterfly is colorful.",
+        "ru": "Бабочка разноцветная."
+      },
+      {
+        "en": "A butterfly landed on the flower.",
+        "ru": "Бабочка села на цветок."
+      },
+      {
+        "en": "Butterflies filled the garden.",
+        "ru": "Сад наполнился бабочками."
+      }
+    ],
+    "colloc": "butterfly wings"
+  },
+  "a1-0579": {
+    "examples": [
+      {
+        "en": "A bee makes honey.",
+        "ru": "Пчела делает мёд."
+      },
+      {
+        "en": "A bee buzzed near the jam.",
+        "ru": "Пчела жужжала у джема."
+      },
+      {
+        "en": "Bees make honey.",
+        "ru": "Пчёлы делают мёд."
+      }
+    ],
+    "colloc": "bee sting · busy as a bee"
+  }
+}

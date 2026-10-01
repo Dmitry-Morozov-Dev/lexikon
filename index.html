@@ -48,10 +48,11 @@
               </div>
               <div id="card-reveal" class="card-reveal hidden">
                 <p class="card-tr" id="card-tr"></p>
-                <p class="card-ex" id="card-ex"></p>
-                <p class="card-ex-ru" id="card-ex-ru"></p>
-                <p class="card-colloc hidden" id="card-colloc"></p>
+                <div id="card-examples" class="card-examples"></div>
+                <div id="card-colloc" class="card-colloc hidden"></div>
+                <div id="card-meta" class="card-meta hidden"></div>
                 <p class="card-note hidden" id="card-note"></p>
+                <div id="card-links" class="card-links"></div>
               </div>
             </div>
           </article>
@@ -99,8 +100,11 @@
             </select>
           </div>
           <div class="field"><label for="f-tr">Перевод (RU)</label><input id="f-tr" required autocomplete="off" /></div>
-          <div class="field"><label for="f-ex">Пример (EN)</label><textarea id="f-ex"></textarea></div>
-          <div class="field"><label for="f-exRu">Пример (RU)</label><textarea id="f-exRu"></textarea></div>
+          <div class="field"><label for="f-ex">Пример 1 (EN)</label><textarea id="f-ex"></textarea></div>
+          <div class="field"><label for="f-exRu">Пример 1 (RU)</label><textarea id="f-exRu"></textarea></div>
+          <div class="field"><label for="f-ex2">Пример 2 (EN)</label><textarea id="f-ex2" placeholder="необязательно"></textarea></div>
+          <div class="field"><label for="f-ex2Ru">Пример 2 (RU)</label><textarea id="f-ex2Ru" placeholder="необязательно"></textarea></div>
+          <div class="field"><label for="f-colloc">Коллокации</label><input id="f-colloc" placeholder="make a decision · take a break" autocomplete="off" /></div>
           <div class="field"><label for="f-level">Уровень</label>
             <select id="f-level">
               <option value="a1">A1</option><option value="a2">A2</option>

@@ -1,0 +1,720 @@
+{
+  "a1-0383": {
+    "examples": [
+      {
+        "en": "Turn on the lamp.",
+        "ru": "Включи лампу."
+      },
+      {
+        "en": "The lamp on my desk is bright.",
+        "ru": "Лампа на столе яркая."
+      },
+      {
+        "en": "Turn on the lamp.",
+        "ru": "Включи лампу."
+      }
+    ],
+    "colloc": "desk lamp · lamp shade"
+  },
+  "a1-0384": {
+    "examples": [
+      {
+        "en": "The light is bright.",
+        "ru": "Свет яркий."
+      },
+      {
+        "en": "Turn off the light when you leave.",
+        "ru": "Выключи свет, когда уходишь."
+      },
+      {
+        "en": "Morning light filled the room.",
+        "ru": "Утренний свет заполнил комнату."
+      }
+    ],
+    "colloc": "traffic light · light up"
+  },
+  "a1-0385": {
+    "examples": [
+      {
+        "en": "Look in the mirror.",
+        "ru": "Посмотри в зеркало."
+      },
+      {
+        "en": "Look in the mirror before you go.",
+        "ru": "Посмотри в зеркало перед выходом."
+      },
+      {
+        "en": "The mirror is above the sink.",
+        "ru": "Зеркало над раковиной."
+      }
+    ],
+    "colloc": "rear-view mirror"
+  },
+  "a1-0386": {
+    "examples": [
+      {
+        "en": "Books are on the shelf.",
+        "ru": "Книги на полке."
+      },
+      {
+        "en": "Put the books on the shelf.",
+        "ru": "Поставь книги на полку."
+      },
+      {
+        "en": "This shelf holds spices.",
+        "ru": "На этой полке стоят специи."
+      }
+    ],
+    "colloc": "bookshelf · top shelf"
+  },
+  "a1-0387": {
+    "examples": [
+      {
+        "en": "Coats hang in the closet.",
+        "ru": "Пальто в шкафу."
+      },
+      {
+        "en": "Hang your coat in the closet.",
+        "ru": "Повесь пальто в шкаф."
+      },
+      {
+        "en": "The closet is full of shoes.",
+        "ru": "Шкаф забит обувью."
+      }
+    ],
+    "colloc": "closet door",
+    "note": "AmE: closet; BrE: wardrobe"
+  },
+  "a1-0388": {
+    "examples": [
+      {
+        "en": "Close the curtain.",
+        "ru": "Закрой штору."
+      },
+      {
+        "en": "Close the curtains at night.",
+        "ru": "На ночь задёрни шторы."
+      },
+      {
+        "en": "New curtains changed the room.",
+        "ru": "Новые шторы изменили комнату."
+      }
+    ],
+    "colloc": "shower curtain"
+  },
+  "a1-0389": {
+    "examples": [
+      {
+        "en": "The carpet is blue.",
+        "ru": "Ковёр синий."
+      },
+      {
+        "en": "We bought a soft carpet.",
+        "ru": "Мы купили мягкий ковёр."
+      },
+      {
+        "en": "Don't spill juice on the carpet.",
+        "ru": "Не пролей сок на ковёр."
+      }
+    ],
+    "colloc": "carpet cleaning"
+  },
+  "a1-0390": {
+    "examples": [
+      {
+        "en": "The clock shows noon.",
+        "ru": "Часы показывают полдень."
+      },
+      {
+        "en": "The clock on the wall is wrong.",
+        "ru": "Часы на стене врут."
+      },
+      {
+        "en": "Set the alarm clock for six.",
+        "ru": "Поставь будильник на шесть."
+      }
+    ],
+    "colloc": "alarm clock · around the clock"
+  },
+  "a1-0391": {
+    "examples": [
+      {
+        "en": "A picture hangs here.",
+        "ru": "Здесь висит картина."
+      },
+      {
+        "en": "Hang this picture over the sofa.",
+        "ru": "Повесь эту картину над диваном."
+      },
+      {
+        "en": "I took a picture of the sunset.",
+        "ru": "Я сделал снимок заката."
+      }
+    ],
+    "colloc": "take a picture · picture frame"
+  },
+  "a1-0392": {
+    "examples": [
+      {
+        "en": "This photo is old.",
+        "ru": "Это фото старое."
+      },
+      {
+        "en": "This photo is from our trip.",
+        "ru": "Это фото с нашей поездки."
+      },
+      {
+        "en": "Send me the photo, please.",
+        "ru": "Пришли фото, пожалуйста."
+      }
+    ],
+    "colloc": "photo album · take a photo"
+  },
+  "a1-0393": {
+    "examples": [
+      {
+        "en": "My phone is charging.",
+        "ru": "Телефон заряжается."
+      },
+      {
+        "en": "My phone battery is low.",
+        "ru": "Батарея телефона садится."
+      },
+      {
+        "en": "Can I use your phone?",
+        "ru": "Можно воспользоваться твоим телефоном?"
+      }
+    ],
+    "colloc": "cell phone · phone call"
+  },
+  "a1-0394": {
+    "examples": [
+      {
+        "en": "I use a computer daily.",
+        "ru": "Я пользуюсь компьютером."
+      },
+      {
+        "en": "I work on a computer all day.",
+        "ru": "Я весь день работаю за компьютером."
+      },
+      {
+        "en": "Turn off the computer at night.",
+        "ru": "Выключай компьютер на ночь."
+      }
+    ],
+    "colloc": "computer screen · laptop computer"
+  },
+  "a1-0395": {
+    "examples": [
+      {
+        "en": "My laptop is new.",
+        "ru": "Ноутбук новый."
+      },
+      {
+        "en": "I travel with my laptop.",
+        "ru": "Я путешествую с ноутбуком."
+      },
+      {
+        "en": "Charge the laptop overnight.",
+        "ru": "Заряди ноутбук на ночь."
+      }
+    ],
+    "colloc": "laptop bag · laptop charger"
+  },
+  "a1-0396": {
+    "examples": [
+      {
+        "en": "The screen is dark.",
+        "ru": "Экран тёмный."
+      },
+      {
+        "en": "The screen is too bright.",
+        "ru": "Экран слишком яркий."
+      },
+      {
+        "en": "Wipe the screen gently.",
+        "ru": "Аккуратно протри экран."
+      }
+    ],
+    "colloc": "touch screen · on screen"
+  },
+  "a1-0397": {
+    "examples": [
+      {
+        "en": "Clean the keyboard.",
+        "ru": "Почисти клавиатуру."
+      },
+      {
+        "en": "This keyboard is quiet.",
+        "ru": "Эта клавиатура тихая."
+      },
+      {
+        "en": "I spilled water on the keyboard.",
+        "ru": "Я пролил воду на клавиатуру."
+      }
+    ],
+    "colloc": "keyboard shortcut"
+  },
+  "a1-0398": {
+    "examples": [
+      {
+        "en": "Click with the mouse.",
+        "ru": "Кликни мышью."
+      },
+      {
+        "en": "Move the mouse to click.",
+        "ru": "Двигай мышь, чтобы кликнуть."
+      },
+      {
+        "en": "I need a wireless mouse.",
+        "ru": "Мне нужна беспроводная мышь."
+      }
+    ],
+    "colloc": "computer mouse · mouse pad"
+  },
+  "a1-0399": {
+    "examples": [
+      {
+        "en": "We watch TV at night.",
+        "ru": "Мы смотрим ТВ вечером."
+      },
+      {
+        "en": "We watch TV after dinner.",
+        "ru": "Мы смотрим телевизор после ужина."
+      },
+      {
+        "en": "Turn the TV down, please.",
+        "ru": "Сделай телевизор потише."
+      }
+    ],
+    "colloc": "TV show · on TV"
+  },
+  "a1-0400": {
+    "examples": [
+      {
+        "en": "Turn on the radio.",
+        "ru": "Включи радио."
+      },
+      {
+        "en": "I listen to the radio in the car.",
+        "ru": "В машине я слушаю радио."
+      },
+      {
+        "en": "Turn on the radio for news.",
+        "ru": "Включи радио для новостей."
+      }
+    ],
+    "colloc": "radio station · on the radio"
+  },
+  "a1-0401": {
+    "examples": [
+      {
+        "en": "The camera takes photos.",
+        "ru": "Камера делает фото."
+      },
+      {
+        "en": "This camera takes clear photos.",
+        "ru": "Эта камера делает чёткие фото."
+      },
+      {
+        "en": "Don't forget the camera on the trip.",
+        "ru": "Не забудь камеру в поездке."
+      }
+    ],
+    "colloc": "digital camera · camera roll"
+  },
+  "a1-0402": {
+    "examples": [
+      {
+        "en": "The battery is low.",
+        "ru": "Батарея садится."
+      },
+      {
+        "en": "The battery died on my phone.",
+        "ru": "Батарея телефона села."
+      },
+      {
+        "en": "Do you have spare batteries?",
+        "ru": "Есть запасные батарейки?"
+      }
+    ],
+    "colloc": "battery life · low battery"
+  },
+  "a1-0403": {
+    "examples": [
+      {
+        "en": "Where is the charger?",
+        "ru": "Где зарядка?"
+      },
+      {
+        "en": "I packed the wrong charger.",
+        "ru": "Я взял не тот зарядник."
+      },
+      {
+        "en": "Where is my phone charger?",
+        "ru": "Где зарядка от телефона?"
+      }
+    ],
+    "colloc": "phone charger · wireless charger"
+  },
+  "a1-0404": {
+    "examples": [
+      {
+        "en": "Pack your bag.",
+        "ru": "Собери сумку."
+      },
+      {
+        "en": "Pack a bag for the weekend.",
+        "ru": "Собери сумку на выходные."
+      },
+      {
+        "en": "She carried a heavy bag.",
+        "ru": "Она несла тяжёлую сумку."
+      }
+    ],
+    "colloc": "shopping bag · bag of"
+  },
+  "a1-0405": {
+    "examples": [
+      {
+        "en": "Open the box carefully.",
+        "ru": "Осторожно открой коробку."
+      },
+      {
+        "en": "Put the toys in the box.",
+        "ru": "Сложи игрушки в коробку."
+      },
+      {
+        "en": "This box is empty.",
+        "ru": "Эта коробка пустая."
+      }
+    ],
+    "colloc": "cardboard box · inbox"
+  },
+  "a1-0406": {
+    "examples": [
+      {
+        "en": "This bottle is empty.",
+        "ru": "Бутылка пустая."
+      },
+      {
+        "en": "Please recycle the bottle.",
+        "ru": "Пожалуйста, сдай бутылку на переработку."
+      },
+      {
+        "en": "A bottle of water, please.",
+        "ru": "Бутылку воды, пожалуйста."
+      }
+    ],
+    "colloc": "water bottle · bottle of"
+  },
+  "a1-0407": {
+    "examples": [
+      {
+        "en": "I need a clean cup.",
+        "ru": "Мне нужна чистая чашка."
+      },
+      {
+        "en": "I need a clean cup.",
+        "ru": "Мне нужна чистая чашка."
+      },
+      {
+        "en": "She drank a cup of tea.",
+        "ru": "Она выпила чашку чая."
+      }
+    ],
+    "colloc": "cup of coffee · paper cup"
+  },
+  "a1-0408": {
+    "examples": [
+      {
+        "en": "Fill the glass with water.",
+        "ru": "Наполни стакан водой."
+      },
+      {
+        "en": "Fill the glass with water.",
+        "ru": "Наполни стакан водой."
+      },
+      {
+        "en": "Be careful with that glass.",
+        "ru": "Осторожнее с этим стаканом."
+      }
+    ],
+    "colloc": "glass of water · wine glass",
+    "note": "glass = стакан/стекло"
+  },
+  "a1-0409": {
+    "examples": [
+      {
+        "en": "Wash the plate.",
+        "ru": "Вымой тарелку."
+      },
+      {
+        "en": "Wash the plates after dinner.",
+        "ru": "Помой тарелки после ужина."
+      },
+      {
+        "en": "A plate of pasta, please.",
+        "ru": "Тарелку пасты, пожалуйста."
+      }
+    ],
+    "colloc": "dinner plate · plate of"
+  },
+  "a1-0410": {
+    "examples": [
+      {
+        "en": "Soup is in the bowl.",
+        "ru": "Суп в миске."
+      },
+      {
+        "en": "I ate a bowl of soup.",
+        "ru": "Я съел миску супа."
+      },
+      {
+        "en": "Mix the eggs in a bowl.",
+        "ru": "Взбей яйца в миске."
+      }
+    ],
+    "colloc": "soup bowl · bowl of"
+  },
+  "a1-0411": {
+    "examples": [
+      {
+        "en": "Be careful with the knife.",
+        "ru": "Осторожнее с ножом."
+      },
+      {
+        "en": "Be careful with the knife.",
+        "ru": "Осторожнее с ножом."
+      },
+      {
+        "en": "I need a sharp knife.",
+        "ru": "Мне нужен острый нож."
+      }
+    ],
+    "colloc": "butter knife · knife and fork"
+  },
+  "a1-0412": {
+    "examples": [
+      {
+        "en": "Use a fork and knife.",
+        "ru": "Используй вилку и нож."
+      },
+      {
+        "en": "Use a fork for the salad.",
+        "ru": "Ешь салат вилкой."
+      },
+      {
+        "en": "There are not enough forks.",
+        "ru": "Вилок не хватает."
+      }
+    ],
+    "colloc": "knife and fork"
+  },
+  "a1-0413": {
+    "examples": [
+      {
+        "en": "Stir with a spoon.",
+        "ru": "Размешай ложкой."
+      },
+      {
+        "en": "Stir the soup with a spoon.",
+        "ru": "Помешай суп ложкой."
+      },
+      {
+        "en": "I need a spoon for the ice cream.",
+        "ru": "Мне нужна ложка для мороженого."
+      }
+    ],
+    "colloc": "soup spoon · spoonful"
+  },
+  "a1-0414": {
+    "examples": [
+      {
+        "en": "Heat the pan first.",
+        "ru": "Сначала нагрей сковороду."
+      },
+      {
+        "en": "Heat the pan before you cook.",
+        "ru": "Разогрей сковороду перед готовкой."
+      },
+      {
+        "en": "Wash the pan after use.",
+        "ru": "Помой сковороду после использования."
+      }
+    ],
+    "colloc": "frying pan · pan of"
+  },
+  "a1-0415": {
+    "examples": [
+      {
+        "en": "The pot is hot.",
+        "ru": "Кастрюля горячая."
+      },
+      {
+        "en": "A pot of soup is on the stove.",
+        "ru": "На плите кастрюля супа."
+      },
+      {
+        "en": "Cover the pot with a lid.",
+        "ru": "Накрой кастрюлю крышкой."
+      }
+    ],
+    "colloc": "coffee pot · pot of"
+  },
+  "a1-0416": {
+    "examples": [
+      {
+        "en": "Milk is in the fridge.",
+        "ru": "Молоко в холодильнике."
+      },
+      {
+        "en": "Put the milk in the fridge.",
+        "ru": "Поставь молоко в холодильник."
+      },
+      {
+        "en": "The fridge is almost empty.",
+        "ru": "Холодильник почти пустой."
+      }
+    ],
+    "colloc": "fridge door",
+    "note": "short for refrigerator"
+  },
+  "a1-0417": {
+    "examples": [
+      {
+        "en": "Bake it in the oven.",
+        "ru": "Испеки в духовке."
+      },
+      {
+        "en": "Bake the cake in the oven.",
+        "ru": "Испеки торт в духовке."
+      },
+      {
+        "en": "Preheat the oven to 350.",
+        "ru": "\"Разогрей духовку до 350°F.\""
+      }
+    ],
+    "colloc": "oven mitt · in the oven"
+  },
+  "a1-0418": {
+    "examples": [
+      {
+        "en": "Wash dishes in the sink.",
+        "ru": "Мой посуду в раковине."
+      },
+      {
+        "en": "Wash the dishes in the sink.",
+        "ru": "Мой посуду в раковине."
+      },
+      {
+        "en": "The sink is clogged.",
+        "ru": "Раковина засорилась."
+      }
+    ],
+    "colloc": "kitchen sink"
+  },
+  "a1-0419": {
+    "examples": [
+      {
+        "en": "Use soap and water.",
+        "ru": "Используй мыло и воду."
+      },
+      {
+        "en": "Use soap and water.",
+        "ru": "Используй мыло и воду."
+      },
+      {
+        "en": "We're out of hand soap.",
+        "ru": "Закончилось жидкое мыло."
+      }
+    ],
+    "colloc": "bar of soap · soap opera"
+  },
+  "a1-0420": {
+    "examples": [
+      {
+        "en": "Dry your hands with a towel.",
+        "ru": "Вытри руки полотенцем."
+      },
+      {
+        "en": "Dry your hands with a towel.",
+        "ru": "Вытри руки полотенцем."
+      },
+      {
+        "en": "Clean towels are in the closet.",
+        "ru": "Чистые полотенца в шкафу."
+      }
+    ],
+    "colloc": "hand towel · beach towel"
+  },
+  "a1-0421": {
+    "examples": [
+      {
+        "en": "I need a new toothbrush.",
+        "ru": "Мне нужна новая щётка."
+      },
+      {
+        "en": "Pack your toothbrush.",
+        "ru": "Возьми зубную щётку."
+      },
+      {
+        "en": "I need a new toothbrush.",
+        "ru": "Мне нужна новая зубная щётка."
+      }
+    ],
+    "colloc": "electric toothbrush"
+  },
+  "a1-0422": {
+    "examples": [
+      {
+        "en": "Buy more shampoo.",
+        "ru": "Купи ещё шампунь."
+      },
+      {
+        "en": "Rinse the shampoo well.",
+        "ru": "Хорошо смой шампунь."
+      },
+      {
+        "en": "We're almost out of shampoo.",
+        "ru": "Шампунь почти закончился."
+      }
+    ],
+    "colloc": "shampoo and conditioner"
+  },
+  "a1-0423": {
+    "examples": [
+      {
+        "en": "Take out the trash.",
+        "ru": "Вынеси мусор."
+      },
+      {
+        "en": "Take out the trash tonight.",
+        "ru": "Вынеси мусор сегодня вечером."
+      },
+      {
+        "en": "Don't leave trash on the beach.",
+        "ru": "Не оставляй мусор на пляже."
+      }
+    ],
+    "colloc": "trash can · take out the trash",
+    "note": "AmE: trash; BrE: rubbish"
+  },
+  "a1-0424": {
+    "examples": [
+      {
+        "en": "Put it in the bin.",
+        "ru": "Положи в урну."
+      },
+      {
+        "en": "Throw it in the bin.",
+        "ru": "Выброси это в урну."
+      },
+      {
+        "en": "The recycling bin is full.",
+        "ru": "Контейнер для вторсырья полный."
+      }
+    ],
+    "colloc": "recycling bin · bin bag"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "a1-0852": {
+    "examples": [
+      {
+        "en": "Thank you very much.",
+        "ru": "Большое спасибо."
+      },
+      {
+        "en": "Thank you for your help.",
+        "ru": "Спасибо за помощь."
+      },
+      {
+        "en": "No, thank you.",
+        "ru": "Нет, спасибо."
+      }
+    ],
+    "colloc": "thank you for"
+  },
+  "a1-0853": {
+    "examples": [
+      {
+        "en": "Excuse me, where is the exit?",
+        "ru": "Извините, где выход?"
+      },
+      {
+        "en": "Excuse me, where is the station?",
+        "ru": "Извините, где станция?"
+      },
+      {
+        "en": "Excuse me — coming through.",
+        "ru": "Простите — пройдите."
+      }
+    ],
+    "colloc": "excuse me",
+    "note": "excuse me = привлечь внимание; sorry = извиниться"
+  },
+  "a1-0854": {
+    "examples": [
+      {
+        "en": "Of course I can help.",
+        "ru": "Конечно, я могу помочь."
+      },
+      {
+        "en": "Of course I can help.",
+        "ru": "Конечно, могу помочь."
+      },
+      {
+        "en": "Of course not.",
+        "ru": "Конечно нет."
+      }
+    ],
+    "colloc": "of course not"
+  },
+  "a1-0855": {
+    "examples": [
+      {
+        "en": "All right, let's start.",
+        "ru": "Хорошо, начнём."
+      },
+      {
+        "en": "All right, let's start.",
+        "ru": "Ладно, начнём."
+      },
+      {
+        "en": "Are you all right?",
+        "ru": "Ты в порядке?"
+      }
+    ],
+    "colloc": "all right · it'll be all right"
+  },
+  "a1-0856": {
+    "examples": [
+      {
+        "en": "See you later!",
+        "ru": "Увидимся позже!"
+      },
+      {
+        "en": "See you tomorrow!",
+        "ru": "Увидимся завтра!"
+      },
+      {
+        "en": "See you later.",
+        "ru": "Увидимся позже."
+      }
+    ],
+    "colloc": "see you soon · see you later"
+  },
+  "a1-0857": {
+    "examples": [
+      {
+        "en": "Good morning, class.",
+        "ru": "Доброе утро, класс."
+      },
+      {
+        "en": "Good morning, everyone.",
+        "ru": "Доброе утро всем."
+      },
+      {
+        "en": "She said good morning and smiled.",
+        "ru": "Она сказала «доброе утро» и улыбнулась."
+      }
+    ],
+    "colloc": "good morning"
+  },
+  "a1-0858": {
+    "examples": [
+      {
+        "en": "Good night, sleep well.",
+        "ru": "Спокойной ночи."
+      },
+      {
+        "en": "Good night — sleep well.",
+        "ru": "Спокойной ночи — спи сладко."
+      },
+      {
+        "en": "They said good night at the door.",
+        "ru": "Они пожелали спокойной ночи у двери."
+      }
+    ],
+    "colloc": "good night"
+  },
+  "a1-0859": {
+    "examples": [
+      {
+        "en": "How much is this?",
+        "ru": "Сколько это стоит?"
+      },
+      {
+        "en": "How much is this bag?",
+        "ru": "Сколько стоит эта сумка?"
+      },
+      {
+        "en": "How much time do we have?",
+        "ru": "Сколько у нас времени?"
+      }
+    ],
+    "colloc": "how much"
+  },
+  "a1-0860": {
+    "examples": [
+      {
+        "en": "How many books do you have?",
+        "ru": "Сколько у тебя книг?"
+      },
+      {
+        "en": "How many tickets do you need?",
+        "ru": "Сколько билетов нужно?"
+      },
+      {
+        "en": "How many people are coming?",
+        "ru": "Сколько человек придёт?"
+      }
+    ],
+    "colloc": "how many",
+    "note": "how many + countable; how much + uncountable"
+  },
+  "a1-0861": {
+    "examples": [
+      {
+        "en": "I have a lot of work.",
+        "ru": "У меня много работы."
+      },
+      {
+        "en": "I have a lot of work.",
+        "ru": "У меня много работы."
+      },
+      {
+        "en": "Thanks a lot!",
+        "ru": "Большое спасибо!"
+      }
+    ],
+    "colloc": "a lot of · thanks a lot"
+  },
+  "a1-0862": {
+    "examples": [
+      {
+        "en": "I speak a little French.",
+        "ru": "Я немного говорю по-французски."
+      },
+      {
+        "en": "I speak a little Spanish.",
+        "ru": "Я немного говорю по-испански."
+      },
+      {
+        "en": "Just a little sugar, please.",
+        "ru": "Совсем немного сахара, пожалуйста."
+      }
+    ],
+    "colloc": "a little bit · just a little"
+  },
+  "a1-0863": {
+    "examples": [
+      {
+        "en": "They help each other.",
+        "ru": "Они помогают друг другу."
+      },
+      {
+        "en": "They help each other.",
+        "ru": "Они помогают друг другу."
+      },
+      {
+        "en": "We looked at each other and laughed.",
+        "ru": "Мы посмотрели друг на друга и засмеялись."
+      }
+    ],
+    "colloc": "help each other · each other"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "a1-0547": {
+    "examples": [
+      {
+        "en": "Our car is red.",
+        "ru": "Наша машина красная."
+      },
+      {
+        "en": "I left my bag in the car.",
+        "ru": "Я оставил сумку в машине."
+      },
+      {
+        "en": "Can you give me a ride in your car?",
+        "ru": "Можешь подвезти меня на машине?"
+      }
+    ],
+    "colloc": "by car · car key · park the car"
+  },
+  "a1-0548": {
+    "examples": [
+      {
+        "en": "I take the bus.",
+        "ru": "Я езжу на автобусе."
+      },
+      {
+        "en": "The bus is late again.",
+        "ru": "Автобус снова опаздывает."
+      },
+      {
+        "en": "I take the bus to work.",
+        "ru": "Я езжу на работу на автобусе."
+      }
+    ],
+    "colloc": "bus stop · by bus · miss the bus"
+  },
+  "a1-0549": {
+    "examples": [
+      {
+        "en": "The train is late.",
+        "ru": "Поезд опаздывает."
+      },
+      {
+        "en": "Our train leaves at noon.",
+        "ru": "Наш поезд уходит в полдень."
+      },
+      {
+        "en": "We missed the last train.",
+        "ru": "Мы опоздали на последний поезд."
+      }
+    ],
+    "colloc": "by train · train station · catch a train"
+  },
+  "a1-0550": {
+    "examples": [
+      {
+        "en": "The plane takes off.",
+        "ru": "Самолёт взлетает."
+      },
+      {
+        "en": "The plane landed on time.",
+        "ru": "Самолёт приземлился вовремя."
+      },
+      {
+        "en": "I'm afraid of flying on planes.",
+        "ru": "Я боюсь летать на самолётах."
+      }
+    ],
+    "colloc": "by plane · plane ticket · catch a plane"
+  },
+  "a1-0551": {
+    "examples": [
+      {
+        "en": "I ride a bike.",
+        "ru": "Я езжу на велосипеде."
+      },
+      {
+        "en": "I ride my bike to the store.",
+        "ru": "Я езжу в магазин на велосипеде."
+      },
+      {
+        "en": "Lock your bike at the rack.",
+        "ru": "Пристегни велосипед у стойки."
+      }
+    ],
+    "colloc": "ride a bike · bike lane"
+  },
+  "a1-0552": {
+    "examples": [
+      {
+        "en": "Call a taxi now.",
+        "ru": "Вызови такси."
+      },
+      {
+        "en": "We took a taxi home.",
+        "ru": "Мы поехали домой на такси."
+      },
+      {
+        "en": "Call a taxi — it's late.",
+        "ru": "Вызови такси — уже поздно."
+      }
+    ],
+    "colloc": "taxi ride · taxi driver"
+  },
+  "a1-0553": {
+    "examples": [
+      {
+        "en": "Take the subway downtown.",
+        "ru": "Поезжай в центр на метро."
+      },
+      {
+        "en": "Take the subway to downtown.",
+        "ru": "До центра доберись на метро."
+      },
+      {
+        "en": "The subway is crowded at rush hour.",
+        "ru": "В час пик в метро тесно."
+      }
+    ],
+    "colloc": "subway station · by subway",
+    "note": "AmE: subway; BrE: underground"
+  },
+  "a1-0554": {
+    "examples": [
+      {
+        "en": "We rent a boat.",
+        "ru": "Мы арендуем лодку."
+      },
+      {
+        "en": "We rented a small boat.",
+        "ru": "Мы арендовали маленькую лодку."
+      },
+      {
+        "en": "The boat rocked on the waves.",
+        "ru": "Лодка качалась на волнах."
+      }
+    ],
+    "colloc": "by boat · boat ride"
+  },
+  "a1-0555": {
+    "examples": [
+      {
+        "en": "The ship is large.",
+        "ru": "Корабль большой."
+      },
+      {
+        "en": "The ship leaves the harbor at dawn.",
+        "ru": "Корабль выходит из гавани на рассвете."
+      },
+      {
+        "en": "They traveled by ship.",
+        "ru": "Они путешествовали на корабле."
+      }
+    ],
+    "colloc": "cruise ship · ship cargo"
+  },
+  "a1-0556": {
+    "examples": [
+      {
+        "en": "The truck carries boxes.",
+        "ru": "Грузовик везёт коробки."
+      },
+      {
+        "en": "A delivery truck blocked the street.",
+        "ru": "Фургон доставки перекрыл улицу."
+      },
+      {
+        "en": "He drives a truck for work.",
+        "ru": "Он водит грузовик по работе."
+      }
+    ],
+    "colloc": "truck driver · dump truck"
+  },
+  "a1-0557": {
+    "examples": [
+      {
+        "en": "Traffic is heavy today.",
+        "ru": "Сегодня сильные пробки."
+      },
+      {
+        "en": "Traffic was terrible this morning.",
+        "ru": "Сегодня утром были ужасные пробки."
+      },
+      {
+        "en": "Avoid traffic by leaving early.",
+        "ru": "Избегай пробок — выезжай рано."
+      }
+    ],
+    "colloc": "traffic jam · traffic light"
+  },
+  "a1-0558": {
+    "examples": [
+      {
+        "en": "We plan a short trip.",
+        "ru": "Мы планируем короткую поездку."
+      },
+      {
+        "en": "We planned a short trip.",
+        "ru": "Мы спланировали короткую поездку."
+      },
+      {
+        "en": "Have a safe trip!",
+        "ru": "Счастливого пути!"
+      }
+    ],
+    "colloc": "business trip · take a trip"
+  },
+  "a1-0559": {
+    "examples": [
+      {
+        "en": "Summer vacation is fun.",
+        "ru": "Летний отпуск весёлый."
+      },
+      {
+        "en": "We're on vacation next week.",
+        "ru": "На следующей неделе мы в отпуске."
+      },
+      {
+        "en": "Where did you go on vacation?",
+        "ru": "Куда ты ездил в отпуск?"
+      }
+    ],
+    "colloc": "summer vacation · vacation day",
+    "note": "AmE: vacation; BrE: holiday"
+  }
+}

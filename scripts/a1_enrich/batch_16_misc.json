@@ -1,0 +1,517 @@
+{
+  "a1-0653": {
+    "examples": [
+      {
+        "en": "I need some money.",
+        "ru": "Мне нужны деньги."
+      },
+      {
+        "en": "I don't have enough money.",
+        "ru": "У меня недостаточно денег."
+      },
+      {
+        "en": "Save money for a trip.",
+        "ru": "Копи деньги на поездку."
+      }
+    ],
+    "colloc": "make money · spend money · save money",
+    "note": "money неисчисляемое"
+  },
+  "a1-0654": {
+    "examples": [
+      {
+        "en": "Do you have cash?",
+        "ru": "У тебя есть наличные?"
+      },
+      {
+        "en": "Do you take cash?",
+        "ru": "Вы принимаете наличные?"
+      },
+      {
+        "en": "I paid in cash.",
+        "ru": "Я заплатил наличными."
+      }
+    ],
+    "colloc": "cash only · cash machine"
+  },
+  "a1-0655": {
+    "examples": [
+      {
+        "en": "I pay with a card.",
+        "ru": "Я плачу картой."
+      },
+      {
+        "en": "Pay by card, please.",
+        "ru": "Оплатите картой, пожалуйста."
+      },
+      {
+        "en": "I lost my bank card.",
+        "ru": "Я потерял банковскую карту."
+      }
+    ],
+    "colloc": "credit card · debit card · gift card"
+  },
+  "a1-0656": {
+    "examples": [
+      {
+        "en": "What is the price?",
+        "ru": "Какая цена?"
+      },
+      {
+        "en": "What's the price of this bag?",
+        "ru": "Какая цена у этой сумки?"
+      },
+      {
+        "en": "Prices went up again.",
+        "ru": "Цены снова выросли."
+      }
+    ],
+    "colloc": "full price · price tag · at a price"
+  },
+  "a1-0657": {
+    "examples": [
+      {
+        "en": "Can I have the bill?",
+        "ru": "Можно счёт?"
+      },
+      {
+        "en": "Can I have the bill, please?",
+        "ru": "Можно счёт, пожалуйста?"
+      },
+      {
+        "en": "Don't forget to pay the electric bill.",
+        "ru": "Не забудь оплатить счёт за электричество."
+      }
+    ],
+    "colloc": "phone bill · pay the bill",
+    "note": "AmE: bill; BrE в ресторане часто check"
+  },
+  "a1-0658": {
+    "examples": [
+      {
+        "en": "Keep the receipt.",
+        "ru": "Сохрани чек."
+      },
+      {
+        "en": "Keep the receipt for returns.",
+        "ru": "Сохрани чек для возврата."
+      },
+      {
+        "en": "I need a receipt, please.",
+        "ru": "Мне нужен чек, пожалуйста."
+      }
+    ],
+    "colloc": "receipt book"
+  },
+  "a1-0659": {
+    "examples": [
+      {
+        "en": "My wallet is empty.",
+        "ru": "Кошелёк пуст."
+      },
+      {
+        "en": "My wallet is in my bag.",
+        "ru": "Кошелёк в сумке."
+      },
+      {
+        "en": "I left my wallet at home.",
+        "ru": "Я оставил кошелёк дома."
+      }
+    ],
+    "colloc": "leather wallet"
+  },
+  "a1-0660": {
+    "examples": [
+      {
+        "en": "I found a coin.",
+        "ru": "Я нашёл монету."
+      },
+      {
+        "en": "I need a coin for the meter.",
+        "ru": "Мне нужна монета для паркомата."
+      },
+      {
+        "en": "She collects old coins.",
+        "ru": "Она коллекционирует старые монеты."
+      }
+    ],
+    "colloc": "coin purse · toss a coin"
+  },
+  "a1-0661": {
+    "examples": [
+      {
+        "en": "It costs ten dollars.",
+        "ru": "Это стоит десять долларов."
+      },
+      {
+        "en": "This costs five dollars.",
+        "ru": "Это стоит пять долларов."
+      },
+      {
+        "en": "A dollar doesn't buy much now.",
+        "ru": "На доллар сейчас мало что купишь."
+      }
+    ],
+    "colloc": "dollar bill · dollar sign"
+  },
+  "a1-0662": {
+    "examples": [
+      {
+        "en": "One cent is small.",
+        "ru": "Один цент — мало."
+      },
+      {
+        "en": "It costs ninety-nine cents.",
+        "ru": "Это стоит девяносто девять центов."
+      },
+      {
+        "en": "I don't have any cents.",
+        "ru": "У меня нет монет."
+      }
+    ],
+    "colloc": "percent · cent symbol"
+  },
+  "a1-0663": {
+    "examples": [
+      {
+        "en": "I have a new job.",
+        "ru": "У меня новая работа."
+      },
+      {
+        "en": "She got a new job.",
+        "ru": "Она получила новую работу."
+      },
+      {
+        "en": "I'm looking for a job.",
+        "ru": "Я ищу работу."
+      }
+    ],
+    "colloc": "job interview · dream job · get a job"
+  },
+  "a1-0664": {
+    "examples": [
+      {
+        "en": "The meeting is short.",
+        "ru": "Встреча короткая."
+      },
+      {
+        "en": "The meeting starts at ten.",
+        "ru": "Встреча начинается в десять."
+      },
+      {
+        "en": "Cancel the meeting if you're sick.",
+        "ru": "Отмени встречу, если болеешь."
+      }
+    ],
+    "colloc": "team meeting · meeting room"
+  },
+  "a1-0665": {
+    "examples": [
+      {
+        "en": "Send me an email.",
+        "ru": "Пришли мне email."
+      },
+      {
+        "en": "Send me an email with details.",
+        "ru": "Пришли письмо с деталями."
+      },
+      {
+        "en": "I get too many emails.",
+        "ru": "Я получаю слишком много писем."
+      }
+    ],
+    "colloc": "email address · email inbox"
+  },
+  "a1-0666": {
+    "examples": [
+      {
+        "en": "I got your message.",
+        "ru": "Я получил сообщение."
+      },
+      {
+        "en": "I left you a message.",
+        "ru": "Я оставил тебе сообщение."
+      },
+      {
+        "en": "Did you get my message?",
+        "ru": "Ты получил моё сообщение?"
+      }
+    ],
+    "colloc": "text message · leave a message"
+  },
+  "a1-0667": {
+    "examples": [
+      {
+        "en": "The internet is slow.",
+        "ru": "Интернет медленный."
+      },
+      {
+        "en": "Is the internet working?",
+        "ru": "Интернет работает?"
+      },
+      {
+        "en": "I need internet for the call.",
+        "ru": "Мне нужен интернет для звонка."
+      }
+    ],
+    "colloc": "internet access · on the internet"
+  },
+  "a1-0668": {
+    "examples": [
+      {
+        "en": "Visit our website.",
+        "ru": "Зайди на наш сайт."
+      },
+      {
+        "en": "Visit our website for hours.",
+        "ru": "Посети наш сайт — там часы работы."
+      },
+      {
+        "en": "The website is down.",
+        "ru": "Сайт не работает."
+      }
+    ],
+    "colloc": "website design · official website"
+  },
+  "a1-0669": {
+    "examples": [
+      {
+        "en": "Do not share your password.",
+        "ru": "Не делись паролем."
+      },
+      {
+        "en": "Don't share your password.",
+        "ru": "Не делись паролем."
+      },
+      {
+        "en": "I forgot my password again.",
+        "ru": "Я снова забыл пароль."
+      }
+    ],
+    "colloc": "password reset · strong password"
+  },
+  "a1-0670": {
+    "examples": [
+      {
+        "en": "Download the app.",
+        "ru": "Скачай приложение."
+      },
+      {
+        "en": "Download the banking app.",
+        "ru": "Скачай банковское приложение."
+      },
+      {
+        "en": "This app uses too much battery.",
+        "ru": "Это приложение сильно сажает батарею."
+      }
+    ],
+    "colloc": "mobile app · app store"
+  },
+  "a1-0671": {
+    "examples": [
+      {
+        "en": "This game is fun.",
+        "ru": "Игра весёлая."
+      },
+      {
+        "en": "Want to play a game?",
+        "ru": "Хочешь сыграть в игру?"
+      },
+      {
+        "en": "The game ended in a draw.",
+        "ru": "Игра закончилась ничьей."
+      }
+    ],
+    "colloc": "board game · video game · game over"
+  },
+  "a1-0672": {
+    "examples": [
+      {
+        "en": "Throw the ball to me.",
+        "ru": "Брось мне мяч."
+      },
+      {
+        "en": "Throw the ball to me.",
+        "ru": "Брось мне мяч."
+      },
+      {
+        "en": "The dog chased the ball.",
+        "ru": "Собака гналась за мячом."
+      }
+    ],
+    "colloc": "soccer ball · ball game"
+  },
+  "a1-0673": {
+    "examples": [
+      {
+        "en": "Sport keeps you fit.",
+        "ru": "Спорт поддерживает форму."
+      },
+      {
+        "en": "What sport do you play?",
+        "ru": "Каким спортом ты занимаешься?"
+      },
+      {
+        "en": "Sport keeps me healthy.",
+        "ru": "Спорт поддерживает здоровье."
+      }
+    ],
+    "colloc": "team sport · sports center"
+  },
+  "a1-0674": {
+    "examples": [
+      {
+        "en": "Our team is strong.",
+        "ru": "Наша команда сильная."
+      },
+      {
+        "en": "Our team won yesterday.",
+        "ru": "Наша команда вчера выиграла."
+      },
+      {
+        "en": "She joined the debate team.",
+        "ru": "Она вступила в команду дебатов."
+      }
+    ],
+    "colloc": "team member · team work"
+  },
+  "a1-0675": {
+    "examples": [
+      {
+        "en": "I love this music.",
+        "ru": "Мне нравится эта музыка."
+      },
+      {
+        "en": "I listen to music while I cook.",
+        "ru": "Я слушаю музыку, когда готовлю."
+      },
+      {
+        "en": "Turn the music down.",
+        "ru": "Сделай музыку тише."
+      }
+    ],
+    "colloc": "live music · music class"
+  },
+  "a1-0676": {
+    "examples": [
+      {
+        "en": "This song is popular.",
+        "ru": "Песня популярная."
+      },
+      {
+        "en": "This song is stuck in my head.",
+        "ru": "Эта песня засела в голове."
+      },
+      {
+        "en": "She wrote a song for him.",
+        "ru": "Она написала ему песню."
+      }
+    ],
+    "colloc": "love song · sing a song"
+  },
+  "a1-0677": {
+    "examples": [
+      {
+        "en": "We watch a movie.",
+        "ru": "Мы смотрим фильм."
+      },
+      {
+        "en": "Want to watch a movie?",
+        "ru": "Хочешь посмотреть фильм?"
+      },
+      {
+        "en": "This movie made me cry.",
+        "ru": "Этот фильм довёл меня до слёз."
+      }
+    ],
+    "colloc": "movie theater · movie night",
+    "note": "AmE: movie"
+  },
+  "a1-0678": {
+    "examples": [
+      {
+        "en": "The film is long.",
+        "ru": "Фильм длинный."
+      },
+      {
+        "en": "The film starts at eight.",
+        "ru": "Фильм начинается в восемь."
+      },
+      {
+        "en": "She studied film in college.",
+        "ru": "Она изучала кино в колледже."
+      }
+    ],
+    "colloc": "film festival · short film",
+    "note": "BrE: film ≈ AmE movie"
+  },
+  "a1-0679": {
+    "examples": [
+      {
+        "en": "I watch the news.",
+        "ru": "Я смотрю новости."
+      },
+      {
+        "en": "Did you hear the news?",
+        "ru": "Ты слышал новости?"
+      },
+      {
+        "en": "Good news — we got the flat!",
+        "ru": "Хорошие новости — мы получили квартиру!"
+      }
+    ],
+    "colloc": "breaking news · news report",
+    "note": "news неисчисляемое: the news is…"
+  },
+  "a1-0680": {
+    "examples": [
+      {
+        "en": "Tell me a story.",
+        "ru": "Расскажи историю."
+      },
+      {
+        "en": "Tell me a bedtime story.",
+        "ru": "Расскажи сказку на ночь."
+      },
+      {
+        "en": "That's a long story.",
+        "ru": "Это долгая история."
+      }
+    ],
+    "colloc": "success story · short story"
+  },
+  "a1-0681": {
+    "examples": [
+      {
+        "en": "That is a good idea.",
+        "ru": "Хорошая идея."
+      },
+      {
+        "en": "That's a great idea!",
+        "ru": "Отличная идея!"
+      },
+      {
+        "en": "I have no idea where he is.",
+        "ru": "Понятия не имею, где он."
+      }
+    ],
+    "colloc": "good idea · idea of"
+  },
+  "a1-0682": {
+    "examples": [
+      {
+        "en": "We have a problem.",
+        "ru": "У нас проблема."
+      },
+      {
+        "en": "We have a small problem.",
+        "ru": "У нас небольшая проблема."
+      },
+      {
+        "en": "No problem — I can help.",
+        "ru": "Без проблем — я помогу."
+      }
+    ],
+    "colloc": "solve a problem · no problem"
+  }
+}

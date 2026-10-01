@@ -1,0 +1,291 @@
+{
+  "a1-0864": {
+    "examples": [
+      {
+        "en": "I need something cold.",
+        "ru": "Мне нужно что-то холодное."
+      },
+      {
+        "en": "I need something cold to drink.",
+        "ru": "Мне нужно что-то холодное выпить."
+      },
+      {
+        "en": "Something is wrong with the Wi-Fi.",
+        "ru": "С Wi-Fi что-то не так."
+      }
+    ],
+    "colloc": "something else · something to"
+  },
+  "a1-0865": {
+    "examples": [
+      {
+        "en": "Do you need anything?",
+        "ru": "Тебе что-нибудь нужно?"
+      },
+      {
+        "en": "Do you need anything from the store?",
+        "ru": "Тебе что-нибудь нужно из магазина?"
+      },
+      {
+        "en": "I can't see anything in the dark.",
+        "ru": "В темноте ничего не вижу."
+      }
+    ],
+    "colloc": "anything else · if anything"
+  },
+  "a1-0866": {
+    "examples": [
+      {
+        "en": "Nothing is wrong.",
+        "ru": "Ничего не случилось."
+      },
+      {
+        "en": "Nothing is wrong.",
+        "ru": "Ничего не случилось."
+      },
+      {
+        "en": "I have nothing to wear.",
+        "ru": "Мне нечего надеть."
+      }
+    ],
+    "colloc": "nothing else · nothing to"
+  },
+  "a1-0867": {
+    "examples": [
+      {
+        "en": "Someone is at the door.",
+        "ru": "Кто-то у двери."
+      },
+      {
+        "en": "Someone left a bag here.",
+        "ru": "Кто-то оставил здесь сумку."
+      },
+      {
+        "en": "I need someone to talk to.",
+        "ru": "Мне нужен кто-то, с кем поговорить."
+      }
+    ],
+    "colloc": "someone else"
+  },
+  "a1-0868": {
+    "examples": [
+      {
+        "en": "Can anyone help?",
+        "ru": "Кто-нибудь может помочь?"
+      },
+      {
+        "en": "Can anyone help?",
+        "ru": "Кто-нибудь может помочь?"
+      },
+      {
+        "en": "I didn't see anyone.",
+        "ru": "Я никого не видел."
+      }
+    ],
+    "colloc": "anyone else · hardly anyone"
+  },
+  "a1-0869": {
+    "examples": [
+      {
+        "en": "Everyone is welcome.",
+        "ru": "Все желанны."
+      },
+      {
+        "en": "Everyone is welcome.",
+        "ru": "Все желанны."
+      },
+      {
+        "en": "Is everyone here?",
+        "ru": "Все здесь?"
+      }
+    ],
+    "colloc": "everyone else · almost everyone"
+  },
+  "a1-0870": {
+    "examples": [
+      {
+        "en": "Nobody knows the answer.",
+        "ru": "Никто не знает ответа."
+      },
+      {
+        "en": "Nobody knows the answer.",
+        "ru": "Никто не знает ответа."
+      },
+      {
+        "en": "There's nobody home.",
+        "ru": "Дома никого нет."
+      }
+    ],
+    "colloc": "nobody else"
+  },
+  "a1-0871": {
+    "examples": [
+      {
+        "en": "Everything is ready.",
+        "ru": "Всё готово."
+      },
+      {
+        "en": "Everything is ready.",
+        "ru": "Всё готово."
+      },
+      {
+        "en": "Did you pack everything?",
+        "ru": "Ты всё собрал?"
+      }
+    ],
+    "colloc": "everything else · almost everything"
+  },
+  "a1-0872": {
+    "examples": [
+      {
+        "en": "We can go anywhere.",
+        "ru": "Мы можем пойти куда угодно."
+      },
+      {
+        "en": "We can go anywhere.",
+        "ru": "Мы можем пойти куда угодно."
+      },
+      {
+        "en": "I can't find my keys anywhere.",
+        "ru": "Нигде не могу найти ключи."
+      }
+    ],
+    "colloc": "anywhere else"
+  },
+  "a1-0873": {
+    "examples": [
+      {
+        "en": "I have nowhere to go.",
+        "ru": "Мне некуда идти."
+      },
+      {
+        "en": "I have nowhere to go.",
+        "ru": "Мне некуда идти."
+      },
+      {
+        "en": "The trail leads nowhere.",
+        "ru": "Тропа никуда не ведёт."
+      }
+    ],
+    "colloc": "nowhere else · nowhere to be found"
+  },
+  "a1-0874": {
+    "examples": [
+      {
+        "en": "This is my own room.",
+        "ru": "Это моя собственная комната."
+      },
+      {
+        "en": "This is my own room.",
+        "ru": "Это моя собственная комната."
+      },
+      {
+        "en": "I cooked it on my own.",
+        "ru": "Я приготовил это сам."
+      }
+    ],
+    "colloc": "on your own · own up"
+  },
+  "a1-0875": {
+    "examples": [
+      {
+        "en": "Try the other door.",
+        "ru": "Попробуй другую дверь."
+      },
+      {
+        "en": "Try the other door.",
+        "ru": "Попробуй другую дверь."
+      },
+      {
+        "en": "Do you have other plans?",
+        "ru": "Есть другие планы?"
+      }
+    ],
+    "colloc": "each other · other than"
+  },
+  "a1-0876": {
+    "examples": [
+      {
+        "en": "I need another pen.",
+        "ru": "Мне нужна ещё одна ручка."
+      },
+      {
+        "en": "I need another pen.",
+        "ru": "Мне нужна ещё одна ручка."
+      },
+      {
+        "en": "Let's try another café.",
+        "ru": "Давай попробуем другое кафе."
+      }
+    ],
+    "colloc": "another one · one another"
+  },
+  "a1-0877": {
+    "examples": [
+      {
+        "en": "Both answers are right.",
+        "ru": "Оба ответа верны."
+      },
+      {
+        "en": "Both answers are right.",
+        "ru": "Оба ответа верны."
+      },
+      {
+        "en": "I like both tea and coffee.",
+        "ru": "Мне нравятся и чай, и кофе."
+      }
+    ],
+    "colloc": "both of · both … and"
+  },
+  "a1-0878": {
+    "examples": [
+      {
+        "en": "All students are here.",
+        "ru": "Все студенты здесь."
+      },
+      {
+        "en": "All students are here.",
+        "ru": "Все студенты здесь."
+      },
+      {
+        "en": "That's all for today.",
+        "ru": "На сегодня всё."
+      }
+    ],
+    "colloc": "all of · all right · after all"
+  },
+  "a1-0879": {
+    "examples": [
+      {
+        "en": "I need some help.",
+        "ru": "Мне нужна помощь."
+      },
+      {
+        "en": "I need some help.",
+        "ru": "Мне нужна помощь."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Не хотите чаю?"
+      }
+    ],
+    "colloc": "some of · some more"
+  },
+  "a1-0880": {
+    "examples": [
+      {
+        "en": "Take any seat.",
+        "ru": "Садись на любое место."
+      },
+      {
+        "en": "Take any seat.",
+        "ru": "Садись на любое место."
+      },
+      {
+        "en": "Do you have any questions?",
+        "ru": "Есть вопросы?"
+      }
+    ],
+    "colloc": "any of · not any"
+  }
+}

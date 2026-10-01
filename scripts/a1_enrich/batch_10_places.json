@@ -1,0 +1,707 @@
+{
+  "a1-0506": {
+    "examples": [
+      {
+        "en": "I live in a big city.",
+        "ru": "Я живу в большом городе."
+      },
+      {
+        "en": "I live in a big city.",
+        "ru": "Я живу в большом городе."
+      },
+      {
+        "en": "The city never sleeps.",
+        "ru": "Город никогда не спит."
+      }
+    ],
+    "colloc": "city center · capital city"
+  },
+  "a1-0507": {
+    "examples": [
+      {
+        "en": "Our town is quiet.",
+        "ru": "Наш городок тихий."
+      },
+      {
+        "en": "Our town is quiet and small.",
+        "ru": "Наш городок тихий и маленький."
+      },
+      {
+        "en": "We drove to the next town.",
+        "ru": "Мы поехали в соседний город."
+      }
+    ],
+    "colloc": "small town · town hall"
+  },
+  "a1-0508": {
+    "examples": [
+      {
+        "en": "The village is small.",
+        "ru": "Деревня маленькая."
+      },
+      {
+        "en": "She grew up in a village.",
+        "ru": "Она выросла в деревне."
+      },
+      {
+        "en": "The village has one shop.",
+        "ru": "В деревне один магазин."
+      }
+    ],
+    "colloc": "village life · fishing village"
+  },
+  "a1-0509": {
+    "examples": [
+      {
+        "en": "This country is large.",
+        "ru": "Эта страна большая."
+      },
+      {
+        "en": "This country has great food.",
+        "ru": "В этой стране отличная еда."
+      },
+      {
+        "en": "We spent a week in the country.",
+        "ru": "Мы провели неделю за городом."
+      }
+    ],
+    "colloc": "country music · home country",
+    "note": "country = страна / сельская местность"
+  },
+  "a1-0510": {
+    "examples": [
+      {
+        "en": "Cross the street carefully.",
+        "ru": "Осторожно переходи улицу."
+      },
+      {
+        "en": "Cross the street carefully.",
+        "ru": "Переходи улицу осторожно."
+      },
+      {
+        "en": "Our street is very quiet.",
+        "ru": "Наша улица очень тихая."
+      }
+    ],
+    "colloc": "main street · street light"
+  },
+  "a1-0511": {
+    "examples": [
+      {
+        "en": "This road is long.",
+        "ru": "Дорога длинная."
+      },
+      {
+        "en": "This road leads to the lake.",
+        "ru": "Эта дорога ведёт к озеру."
+      },
+      {
+        "en": "Road work delayed us.",
+        "ru": "Дорожные работы нас задержали."
+      }
+    ],
+    "colloc": "road trip · main road"
+  },
+  "a1-0512": {
+    "examples": [
+      {
+        "en": "Walk down the avenue.",
+        "ru": "Иди по проспекту."
+      },
+      {
+        "en": "Their office is on Fifth Avenue.",
+        "ru": "Их офис на Пятой авеню."
+      },
+      {
+        "en": "Walk down the avenue to the park.",
+        "ru": "Иди по авеню до парка."
+      }
+    ],
+    "colloc": "park avenue"
+  },
+  "a1-0513": {
+    "examples": [
+      {
+        "en": "The bridge is old.",
+        "ru": "Мост старый."
+      },
+      {
+        "en": "We walked across the bridge.",
+        "ru": "Мы прошли по мосту."
+      },
+      {
+        "en": "The bridge is closed for repairs.",
+        "ru": "Мост закрыт на ремонт."
+      }
+    ],
+    "colloc": "bridge over · under the bridge"
+  },
+  "a1-0514": {
+    "examples": [
+      {
+        "en": "We walk in the park.",
+        "ru": "Мы гуляем в парке."
+      },
+      {
+        "en": "Let's meet at the park.",
+        "ru": "Давай встретимся в парке."
+      },
+      {
+        "en": "Dogs run free in this park.",
+        "ru": "В этом парке собаки бегают свободно."
+      }
+    ],
+    "colloc": "park bench · national park"
+  },
+  "a1-0515": {
+    "examples": [
+      {
+        "en": "Meet at the square.",
+        "ru": "Встретимся на площади."
+      },
+      {
+        "en": "The fountain is in the main square.",
+        "ru": "Фонтан на главной площади."
+      },
+      {
+        "en": "People gathered in the square.",
+        "ru": "Люди собрались на площади."
+      }
+    ],
+    "colloc": "town square · square meal"
+  },
+  "a1-0516": {
+    "examples": [
+      {
+        "en": "That building is tall.",
+        "ru": "То здание высокое."
+      },
+      {
+        "en": "That building is twenty floors high.",
+        "ru": "В том здании двадцать этажей."
+      },
+      {
+        "en": "Our office is in that building.",
+        "ru": "Наш офис в том здании."
+      }
+    ],
+    "colloc": "office building · apartment building"
+  },
+  "a1-0517": {
+    "examples": [
+      {
+        "en": "I work in an office.",
+        "ru": "Я работаю в офисе."
+      },
+      {
+        "en": "I left my keys at the office.",
+        "ru": "Я оставил ключи в офисе."
+      },
+      {
+        "en": "Her office door is open.",
+        "ru": "Дверь её кабинета открыта."
+      }
+    ],
+    "colloc": "office hours · home office"
+  },
+  "a1-0518": {
+    "examples": [
+      {
+        "en": "The shop closes at eight.",
+        "ru": "Магазин закрывается в восемь."
+      },
+      {
+        "en": "The shop closes at six.",
+        "ru": "Магазин закрывается в шесть."
+      },
+      {
+        "en": "I popped into a gift shop.",
+        "ru": "Я заскочил в сувенирный магазин."
+      }
+    ],
+    "colloc": "gift shop · shop for",
+    "note": "BrE: shop; AmE часто store"
+  },
+  "a1-0519": {
+    "examples": [
+      {
+        "en": "Buy milk at the store.",
+        "ru": "Купи молоко в магазине."
+      },
+      {
+        "en": "The store opens at nine.",
+        "ru": "Магазин открывается в девять."
+      },
+      {
+        "en": "I work at a grocery store.",
+        "ru": "Я работаю в продуктовом."
+      }
+    ],
+    "colloc": "grocery store · department store",
+    "note": "AmE: store"
+  },
+  "a1-0520": {
+    "examples": [
+      {
+        "en": "Fresh fruit at the market.",
+        "ru": "Свежие фрукты на рынке."
+      },
+      {
+        "en": "Buy fruit at the market.",
+        "ru": "Купи фрукты на рынке."
+      },
+      {
+        "en": "The market is busy on Saturdays.",
+        "ru": "По субботам на рынке людно."
+      }
+    ],
+    "colloc": "farmer's market · flea market"
+  },
+  "a1-0521": {
+    "examples": [
+      {
+        "en": "I shop at the supermarket.",
+        "ru": "Я хожу в супермаркет."
+      },
+      {
+        "en": "We shop at the supermarket weekly.",
+        "ru": "Мы ходим в супермаркет раз в неделю."
+      },
+      {
+        "en": "Parking at the supermarket is free.",
+        "ru": "Парковка у супермаркета бесплатная."
+      }
+    ],
+    "colloc": "supermarket aisle"
+  },
+  "a1-0522": {
+    "examples": [
+      {
+        "en": "The mall is crowded.",
+        "ru": "В торговом центре людно."
+      },
+      {
+        "en": "Teenagers hang out at the mall.",
+        "ru": "Подростки тусуются в молле."
+      },
+      {
+        "en": "The mall has a food court.",
+        "ru": "В молле есть фуд-корт."
+      }
+    ],
+    "colloc": "shopping mall"
+  },
+  "a1-0523": {
+    "examples": [
+      {
+        "en": "We eat at a restaurant.",
+        "ru": "Мы едим в ресторане."
+      },
+      {
+        "en": "Book a table at the restaurant.",
+        "ru": "Забронируй столик в ресторане."
+      },
+      {
+        "en": "This restaurant serves Italian food.",
+        "ru": "Этот ресторан подаёт итальянскую кухню."
+      }
+    ],
+    "colloc": "restaurant reservation"
+  },
+  "a1-0524": {
+    "examples": [
+      {
+        "en": "Meet me at the cafe.",
+        "ru": "Встреть меня в кафе."
+      },
+      {
+        "en": "Let's meet at the cafe.",
+        "ru": "Давай встретимся в кафе."
+      },
+      {
+        "en": "This cafe has free Wi-Fi.",
+        "ru": "В этом кафе бесплатный Wi-Fi."
+      }
+    ],
+    "colloc": "cafe table",
+    "note": "also café"
+  },
+  "a1-0525": {
+    "examples": [
+      {
+        "en": "We stay at a hotel.",
+        "ru": "Мы останавливаемся в отеле."
+      },
+      {
+        "en": "We stayed at a small hotel.",
+        "ru": "Мы остановились в маленьком отеле."
+      },
+      {
+        "en": "The hotel breakfast was good.",
+        "ru": "Завтрак в отеле был хорошим."
+      }
+    ],
+    "colloc": "hotel room · book a hotel"
+  },
+  "a1-0526": {
+    "examples": [
+      {
+        "en": "She works at a hospital.",
+        "ru": "Она работает в больнице."
+      },
+      {
+        "en": "She works at the city hospital.",
+        "ru": "Она работает в городской больнице."
+      },
+      {
+        "en": "Take him to the hospital.",
+        "ru": "Отвези его в больницу."
+      }
+    ],
+    "colloc": "hospital bed · in hospital"
+  },
+  "a1-0527": {
+    "examples": [
+      {
+        "en": "Kids go to school.",
+        "ru": "Дети ходят в школу."
+      },
+      {
+        "en": "Kids walk to school together.",
+        "ru": "Дети идут в школу вместе."
+      },
+      {
+        "en": "School starts in September.",
+        "ru": "Школа начинается в сентябре."
+      }
+    ],
+    "colloc": "go to school · high school"
+  },
+  "a1-0528": {
+    "examples": [
+      {
+        "en": "He studies at a university.",
+        "ru": "Он учится в университете."
+      },
+      {
+        "en": "She studies at the university.",
+        "ru": "Она учится в университете."
+      },
+      {
+        "en": "University fees are high.",
+        "ru": "Плата за университет высокая."
+      }
+    ],
+    "colloc": "university student · at university"
+  },
+  "a1-0529": {
+    "examples": [
+      {
+        "en": "Borrow books from the library.",
+        "ru": "Бери книги в библиотеке."
+      },
+      {
+        "en": "Return the books to the library.",
+        "ru": "Верни книги в библиотеку."
+      },
+      {
+        "en": "The library is quiet after five.",
+        "ru": "После пяти в библиотеке тихо."
+      }
+    ],
+    "colloc": "public library · library card",
+    "note": "library ≠ bookstore (магазин)"
+  },
+  "a1-0530": {
+    "examples": [
+      {
+        "en": "The museum opens at ten.",
+        "ru": "Музей открывается в десять."
+      },
+      {
+        "en": "The museum is free on Sundays.",
+        "ru": "По воскресеньям музей бесплатный."
+      },
+      {
+        "en": "We spent hours in the museum.",
+        "ru": "Мы провели часы в музее."
+      }
+    ],
+    "colloc": "art museum · museum visit"
+  },
+  "a1-0531": {
+    "examples": [
+      {
+        "en": "We go to the cinema.",
+        "ru": "Мы идём в кино."
+      },
+      {
+        "en": "Let's go to the cinema tonight.",
+        "ru": "Давай сходим в кино сегодня вечером."
+      },
+      {
+        "en": "The cinema was almost empty.",
+        "ru": "Кинотеатр был почти пустым."
+      }
+    ],
+    "colloc": "cinema ticket",
+    "note": "BrE: cinema; AmE: movie theater"
+  },
+  "a1-0532": {
+    "examples": [
+      {
+        "en": "The theater is full.",
+        "ru": "Театр полон."
+      },
+      {
+        "en": "We got tickets to the theater.",
+        "ru": "Мы достали билеты в театр."
+      },
+      {
+        "en": "The theater doors open at seven.",
+        "ru": "Двери театра открываются в семь."
+      }
+    ],
+    "colloc": "movie theater · theater seat",
+    "note": "AmE: theater"
+  },
+  "a1-0533": {
+    "examples": [
+      {
+        "en": "I train at the gym.",
+        "ru": "Я тренируюсь в зале."
+      },
+      {
+        "en": "I go to the gym after work.",
+        "ru": "После работы я хожу в зал."
+      },
+      {
+        "en": "The gym is closed on holidays.",
+        "ru": "Зал закрыт в праздники."
+      }
+    ],
+    "colloc": "gym membership · at the gym"
+  },
+  "a1-0534": {
+    "examples": [
+      {
+        "en": "The stadium is huge.",
+        "ru": "Стадион огромный."
+      },
+      {
+        "en": "Fans filled the stadium.",
+        "ru": "Болельщики заполнили стадион."
+      },
+      {
+        "en": "The stadium is near the subway.",
+        "ru": "Стадион рядом с метро."
+      }
+    ],
+    "colloc": "football stadium"
+  },
+  "a1-0535": {
+    "examples": [
+      {
+        "en": "I go to the bank today.",
+        "ru": "Я иду в банк сегодня."
+      },
+      {
+        "en": "I need to go to the bank.",
+        "ru": "Мне нужно в банк."
+      },
+      {
+        "en": "The bank opens at nine.",
+        "ru": "Банк открывается в девять."
+      }
+    ],
+    "colloc": "bank account · river bank"
+  },
+  "a1-0536": {
+    "examples": [
+      {
+        "en": "Send a letter at the post office.",
+        "ru": "Отправь письмо на почте."
+      },
+      {
+        "en": "Mail the package at the post office.",
+        "ru": "Отправь посылку на почте."
+      },
+      {
+        "en": "The post office closes early on Saturdays.",
+        "ru": "По субботам почта закрывается рано."
+      }
+    ],
+    "colloc": "post office box"
+  },
+  "a1-0537": {
+    "examples": [
+      {
+        "en": "Wait at the station.",
+        "ru": "Жди на станции."
+      },
+      {
+        "en": "Meet me at the train station.",
+        "ru": "Встреть меня на вокзале."
+      },
+      {
+        "en": "Which station do we get off at?",
+        "ru": "На какой станции выходим?"
+      }
+    ],
+    "colloc": "train station · police station"
+  },
+  "a1-0538": {
+    "examples": [
+      {
+        "en": "Arrive at the airport early.",
+        "ru": "Приезжай в аэропорт рано."
+      },
+      {
+        "en": "We arrived at the airport early.",
+        "ru": "Мы рано приехали в аэропорт."
+      },
+      {
+        "en": "The airport was crowded.",
+        "ru": "В аэропорту было людно."
+      }
+    ],
+    "colloc": "airport security · at the airport"
+  },
+  "a1-0539": {
+    "examples": [
+      {
+        "en": "The bus stop is near.",
+        "ru": "Остановка рядом."
+      },
+      {
+        "en": "Wait at the bus stop.",
+        "ru": "Жди на автобусной остановке."
+      },
+      {
+        "en": "The bus stop is across the street.",
+        "ru": "Остановка через дорогу."
+      }
+    ],
+    "colloc": "next bus stop"
+  },
+  "a1-0540": {
+    "examples": [
+      {
+        "en": "Parking is free here.",
+        "ru": "Парковка здесь бесплатная."
+      },
+      {
+        "en": "Parking is free after six.",
+        "ru": "После шести парковка бесплатная."
+      },
+      {
+        "en": "We couldn't find parking.",
+        "ru": "Мы не нашли парковку."
+      }
+    ],
+    "colloc": "parking lot · parking space"
+  },
+  "a1-0541": {
+    "examples": [
+      {
+        "en": "What is your address?",
+        "ru": "Какой у тебя адрес?"
+      },
+      {
+        "en": "What's your address?",
+        "ru": "Какой у тебя адрес?"
+      },
+      {
+        "en": "Write the address on the package.",
+        "ru": "Напиши адрес на посылке."
+      }
+    ],
+    "colloc": "email address · home address"
+  },
+  "a1-0542": {
+    "examples": [
+      {
+        "en": "Check the map please.",
+        "ru": "Проверь карту."
+      },
+      {
+        "en": "Check the map before we leave.",
+        "ru": "Проверь карту, прежде чем выйдем."
+      },
+      {
+        "en": "I need a map of the city.",
+        "ru": "Мне нужна карта города."
+      }
+    ],
+    "colloc": "city map · on the map"
+  },
+  "a1-0543": {
+    "examples": [
+      {
+        "en": "Buy a train ticket.",
+        "ru": "Купи билет на поезд."
+      },
+      {
+        "en": "I bought tickets online.",
+        "ru": "Я купил билеты онлайн."
+      },
+      {
+        "en": "Show your ticket at the door.",
+        "ru": "Покажи билет у входа."
+      }
+    ],
+    "colloc": "train ticket · ticket office"
+  },
+  "a1-0544": {
+    "examples": [
+      {
+        "en": "Show your passport.",
+        "ru": "Покажи паспорт."
+      },
+      {
+        "en": "Don't forget your passport.",
+        "ru": "Не забудь паспорт."
+      },
+      {
+        "en": "My passport expires next year.",
+        "ru": "Мой паспорт истекает в следующем году."
+      }
+    ],
+    "colloc": "passport control · passport photo"
+  },
+  "a1-0545": {
+    "examples": [
+      {
+        "en": "My luggage is heavy.",
+        "ru": "Багаж тяжёлый."
+      },
+      {
+        "en": "We packed light luggage.",
+        "ru": "Мы взяли лёгкий багаж."
+      },
+      {
+        "en": "Where is the luggage claim?",
+        "ru": "Где выдача багажа?"
+      }
+    ],
+    "colloc": "hand luggage · luggage rack",
+    "note": "luggage неисчисляемое"
+  },
+  "a1-0546": {
+    "examples": [
+      {
+        "en": "Pack the suitcase.",
+        "ru": "Собери чемодан."
+      },
+      {
+        "en": "My suitcase is too heavy.",
+        "ru": "Чемодан слишком тяжёлый."
+      },
+      {
+        "en": "Pack the suitcase tonight.",
+        "ru": "Собери чемодан сегодня вечером."
+      }
+    ],
+    "colloc": "suitcase handle · pack a suitcase"
+  }
+}

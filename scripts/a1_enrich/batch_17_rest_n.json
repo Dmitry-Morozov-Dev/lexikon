@@ -1,0 +1,476 @@
+{
+  "a1-0642": {
+    "examples": [
+      {
+        "en": "Monday starts the week.",
+        "ru": "Неделя начинается с понедельника."
+      },
+      {
+        "en": "I hate Mondays.",
+        "ru": "Я ненавижу понедельники."
+      },
+      {
+        "en": "See you on Monday.",
+        "ru": "Увидимся в понедельник."
+      }
+    ],
+    "colloc": "Monday morning"
+  },
+  "a1-0643": {
+    "examples": [
+      {
+        "en": "We meet on Tuesday.",
+        "ru": "Мы встречаемся во вторник."
+      },
+      {
+        "en": "Our class meets on Tuesdays.",
+        "ru": "Занятия по вторникам."
+      },
+      {
+        "en": "Tuesday works better for me.",
+        "ru": "Вторник мне удобнее."
+      }
+    ]
+  },
+  "a1-0644": {
+    "examples": [
+      {
+        "en": "Wednesday is midweek.",
+        "ru": "Среда — середина недели."
+      },
+      {
+        "en": "Wednesday is midweek.",
+        "ru": "Среда — середина недели."
+      },
+      {
+        "en": "Can we move it to Wednesday?",
+        "ru": "Перенесём на среду?"
+      }
+    ]
+  },
+  "a1-0645": {
+    "examples": [
+      {
+        "en": "Thursday is almost Friday.",
+        "ru": "Четверг — почти пятница."
+      },
+      {
+        "en": "I work late on Thursdays.",
+        "ru": "По четвергам заканчиваю поздно."
+      },
+      {
+        "en": "Thursday night is pizza night.",
+        "ru": "В четверг вечером — пицца."
+      }
+    ]
+  },
+  "a1-0646": {
+    "examples": [
+      {
+        "en": "Friday feels great.",
+        "ru": "Пятница замечательная."
+      },
+      {
+        "en": "Thank God it's Friday.",
+        "ru": "Слава богу, пятница."
+      },
+      {
+        "en": "We leave Friday afternoon.",
+        "ru": "Уезжаем в пятницу днём."
+      }
+    ],
+    "colloc": "Friday night"
+  },
+  "a1-0647": {
+    "examples": [
+      {
+        "en": "Saturday is free.",
+        "ru": "Суббота свободная."
+      },
+      {
+        "en": "Saturday mornings are slow.",
+        "ru": "Субботние утра спокойные."
+      },
+      {
+        "en": "Are you free on Saturday?",
+        "ru": "Ты свободен в субботу?"
+      }
+    ]
+  },
+  "a1-0648": {
+    "examples": [
+      {
+        "en": "Sunday is quiet.",
+        "ru": "Воскресенье тихое."
+      },
+      {
+        "en": "Sunday is for rest.",
+        "ru": "Воскресенье — для отдыха."
+      },
+      {
+        "en": "See you Sunday!",
+        "ru": "Увидимся в воскресенье!"
+      }
+    ],
+    "colloc": "Sunday brunch"
+  },
+  "a1-0683": {
+    "examples": [
+      {
+        "en": "Pack your things.",
+        "ru": "Собери вещи."
+      },
+      {
+        "en": "I forgot one thing.",
+        "ru": "Я забыл одну вещь."
+      },
+      {
+        "en": "The best thing about summer is swimming.",
+        "ru": "Лучшее в лете — купание."
+      }
+    ],
+    "colloc": "one thing · among other things"
+  },
+  "a1-0684": {
+    "examples": [
+      {
+        "en": "This place is nice.",
+        "ru": "Это место приятное."
+      },
+      {
+        "en": "This place feels cozy.",
+        "ru": "Это место кажется уютным."
+      },
+      {
+        "en": "Save me a place in line.",
+        "ru": "Займи мне место в очереди."
+      }
+    ],
+    "colloc": "in place · place to stay"
+  },
+  "a1-0685": {
+    "examples": [
+      {
+        "en": "This is the best way.",
+        "ru": "Это лучший способ."
+      },
+      {
+        "en": "Is this the way to the station?",
+        "ru": "Это путь к станции?"
+      },
+      {
+        "en": "I like the way you smile.",
+        "ru": "Мне нравится, как ты улыбаешься."
+      }
+    ],
+    "colloc": "on the way · by the way · way home"
+  },
+  "a1-0686": {
+    "examples": [
+      {
+        "en": "Life is short.",
+        "ru": "Жизнь коротка."
+      },
+      {
+        "en": "Life in a big city is busy.",
+        "ru": "Жизнь в большом городе бурная."
+      },
+      {
+        "en": "She has a good life.",
+        "ru": "У неё хорошая жизнь."
+      }
+    ],
+    "colloc": "real life · everyday life · life jacket"
+  },
+  "a1-0687": {
+    "examples": [
+      {
+        "en": "The world is big.",
+        "ru": "Мир большой."
+      },
+      {
+        "en": "News travels around the world.",
+        "ru": "Новости облетают весь мир."
+      },
+      {
+        "en": "Welcome to my world.",
+        "ru": "Добро пожаловать в мой мир."
+      }
+    ],
+    "colloc": "around the world · world map"
+  },
+  "a1-0688": {
+    "examples": [
+      {
+        "en": "This is part of the plan.",
+        "ru": "Это часть плана."
+      },
+      {
+        "en": "I played a small part.",
+        "ru": "Я сыграл небольшую роль."
+      },
+      {
+        "en": "This is part of the plan.",
+        "ru": "Это часть плана."
+      }
+    ],
+    "colloc": "part of · take part · spare parts"
+  },
+  "a1-0689": {
+    "examples": [
+      {
+        "en": "Stand on this side.",
+        "ru": "Встань с этой стороны."
+      },
+      {
+        "en": "Stand on this side of the line.",
+        "ru": "Встань по эту сторону линии."
+      },
+      {
+        "en": "I want the other side of the story.",
+        "ru": "Хочу услышать другую сторону истории."
+      }
+    ],
+    "colloc": "side by side · on the side"
+  },
+  "a1-0690": {
+    "examples": [
+      {
+        "en": "Start at the beginning.",
+        "ru": "Начни с начала."
+      },
+      {
+        "en": "Start at the beginning.",
+        "ru": "Начни с начала."
+      },
+      {
+        "en": "This is only the beginning.",
+        "ru": "Это только начало."
+      }
+    ],
+    "colloc": "from the beginning · beginning of"
+  },
+  "a1-0691": {
+    "examples": [
+      {
+        "en": "Give me an example.",
+        "ru": "Приведи пример."
+      },
+      {
+        "en": "Give me an example.",
+        "ru": "Приведи пример."
+      },
+      {
+        "en": "For example, take the bus.",
+        "ru": "Например, поезжай на автобусе."
+      }
+    ],
+    "colloc": "for example · set an example"
+  },
+  "a1-0692": {
+    "examples": [
+      {
+        "en": "That is a fact.",
+        "ru": "Это факт."
+      },
+      {
+        "en": "Is that a fact?",
+        "ru": "Это факт?"
+      },
+      {
+        "en": "In fact, I already knew.",
+        "ru": "На самом деле я уже знал."
+      }
+    ],
+    "colloc": "in fact · fun fact · matter of fact"
+  },
+  "a1-0693": {
+    "examples": [
+      {
+        "en": "What is the reason?",
+        "ru": "Какая причина?"
+      },
+      {
+        "en": "What's the reason for the delay?",
+        "ru": "Какова причина задержки?"
+      },
+      {
+        "en": "For some reason, the app crashed.",
+        "ru": "По какой-то причине приложение вылетело."
+      }
+    ],
+    "colloc": "reason for · for some reason"
+  },
+  "a1-0694": {
+    "examples": [
+      {
+        "en": "Check the result.",
+        "ru": "Проверь результат."
+      },
+      {
+        "en": "The result surprised everyone.",
+        "ru": "Результат всех удивил."
+      },
+      {
+        "en": "As a result, we left early.",
+        "ru": "В результате мы ушли рано."
+      }
+    ],
+    "colloc": "as a result · end result"
+  },
+  "a1-0695": {
+    "examples": [
+      {
+        "en": "Health is important.",
+        "ru": "Здоровье важно."
+      },
+      {
+        "en": "Health comes first.",
+        "ru": "Здоровье — прежде всего."
+      },
+      {
+        "en": "She is in good health.",
+        "ru": "У неё хорошее здоровье."
+      }
+    ],
+    "colloc": "health care · public health"
+  },
+  "a1-0696": {
+    "examples": [
+      {
+        "en": "Take your medicine.",
+        "ru": "Прими лекарство."
+      },
+      {
+        "en": "Take this medicine twice a day.",
+        "ru": "Принимай это лекарство дважды в день."
+      },
+      {
+        "en": "Modern medicine saves lives.",
+        "ru": "Современная медицина спасает жизни."
+      }
+    ],
+    "colloc": "medicine cabinet · cough medicine"
+  },
+  "a1-0697": {
+    "examples": [
+      {
+        "en": "I feel pain here.",
+        "ru": "Здесь больно."
+      },
+      {
+        "en": "I feel pain in my shoulder.",
+        "ru": "Чувствую боль в плече."
+      },
+      {
+        "en": "No pain, no gain.",
+        "ru": "Без труда не выловишь и рыбку."
+      }
+    ],
+    "colloc": "pain relief · in pain"
+  },
+  "a1-0698": {
+    "examples": [
+      {
+        "en": "I have a cold.",
+        "ru": "У меня простуда."
+      },
+      {
+        "en": "I caught a cold last week.",
+        "ru": "На прошлой неделе я простудился."
+      },
+      {
+        "en": "It's too cold to swim.",
+        "ru": "Слишком холодно, чтобы плавать."
+      }
+    ],
+    "colloc": "catch a cold · cold weather",
+    "note": "cold = простуда / холодный"
+  },
+  "a1-0699": {
+    "examples": [
+      {
+        "en": "She has a fever.",
+        "ru": "У неё жар."
+      },
+      {
+        "en": "She has a high fever.",
+        "ru": "У неё высокая температура."
+      },
+      {
+        "en": "Stay home if you have a fever.",
+        "ru": "Оставайся дома при температуре."
+      }
+    ],
+    "colloc": "fever dream · high fever"
+  },
+  "a1-0806": {
+    "examples": [
+      {
+        "en": "What is your favorite color?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      {
+        "en": "What's your favorite color?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      {
+        "en": "The leaves change color in autumn.",
+        "ru": "Осенью листья меняют цвет."
+      }
+    ],
+    "colloc": "color of · full color",
+    "note": "AmE: color; BrE: colour"
+  },
+  "a1-0849": {
+    "examples": [
+      {
+        "en": "Take half of the cake.",
+        "ru": "Возьми половину торта."
+      },
+      {
+        "en": "Cut the sandwich in half.",
+        "ru": "Разрежь сэндвич пополам."
+      },
+      {
+        "en": "I waited half an hour.",
+        "ru": "Я ждал полчаса."
+      }
+    ],
+    "colloc": "half past · half hour · better half"
+  },
+  "a1-0850": {
+    "examples": [
+      {
+        "en": "A pair of shoes.",
+        "ru": "Пара туфель."
+      },
+      {
+        "en": "I need a new pair of shoes.",
+        "ru": "Мне нужна новая пара обуви."
+      },
+      {
+        "en": "A pair of birds nested nearby.",
+        "ru": "Пара птиц свила гнездо рядом."
+      }
+    ],
+    "colloc": "pair of · in pairs"
+  },
+  "a1-0851": {
+    "examples": [
+      {
+        "en": "A dozen eggs, please.",
+        "ru": "Дюжину яиц, пожалуйста."
+      },
+      {
+        "en": "Buy a dozen eggs.",
+        "ru": "Купи дюжину яиц."
+      },
+      {
+        "en": "A dozen people came.",
+        "ru": "Пришло около дюжины человек."
+      }
+    ],
+    "colloc": "half a dozen · dozens of"
+  }
+}

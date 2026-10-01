@@ -1,0 +1,395 @@
+{
+  "a1-0483": {
+    "examples": [
+      {
+        "en": "Boil the potato.",
+        "ru": "Свари картофель."
+      },
+      {
+        "en": "Mash the potatoes with butter.",
+        "ru": "Разомни картошку с маслом."
+      },
+      {
+        "en": "Baked potatoes are simple and good.",
+        "ru": "Печёный картофель — просто и вкусно."
+      }
+    ],
+    "colloc": "potato chips · sweet potato"
+  },
+  "a1-0484": {
+    "examples": [
+      {
+        "en": "Rabbits like carrot.",
+        "ru": "Кролики любят морковь."
+      },
+      {
+        "en": "Rabbits love carrots.",
+        "ru": "Кролики любят морковь."
+      },
+      {
+        "en": "Grate a carrot into the salad.",
+        "ru": "Натри морковь в салат."
+      }
+    ],
+    "colloc": "carrot cake · baby carrot"
+  },
+  "a1-0485": {
+    "examples": [
+      {
+        "en": "Chop the onion finely.",
+        "ru": "Мелко нарежь лук."
+      },
+      {
+        "en": "Chop an onion for the sauce.",
+        "ru": "Нарежь лук для соуса."
+      },
+      {
+        "en": "Onions make me cry.",
+        "ru": "От лука я плачу."
+      }
+    ],
+    "colloc": "red onion · onion rings"
+  },
+  "a1-0486": {
+    "examples": [
+      {
+        "en": "Add garlic for taste.",
+        "ru": "Добавь чеснок."
+      },
+      {
+        "en": "Add garlic to the pan.",
+        "ru": "Добавь чеснок на сковороду."
+      },
+      {
+        "en": "Garlic bread smells amazing.",
+        "ru": "Чесночный хлеб пахнет потрясающе."
+      }
+    ],
+    "colloc": "garlic clove · garlic bread"
+  },
+  "a1-0487": {
+    "examples": [
+      {
+        "en": "Black pepper is spicy.",
+        "ru": "Чёрный перец острый."
+      },
+      {
+        "en": "Pass the pepper, please.",
+        "ru": "Передай перец, пожалуйста."
+      },
+      {
+        "en": "Black pepper or red pepper?",
+        "ru": "Чёрный перец или красный?"
+      }
+    ],
+    "colloc": "black pepper · bell pepper"
+  },
+  "a1-0488": {
+    "examples": [
+      {
+        "en": "Do not add much salt.",
+        "ru": "Не добавляй много соли."
+      },
+      {
+        "en": "Don't add too much salt.",
+        "ru": "Не сыпь слишком много соли."
+      },
+      {
+        "en": "Salt the pasta water.",
+        "ru": "Посоли воду для пасты."
+      }
+    ],
+    "colloc": "salt and pepper · pinch of salt"
+  },
+  "a1-0489": {
+    "examples": [
+      {
+        "en": "I take little sugar.",
+        "ru": "Я беру мало сахара."
+      },
+      {
+        "en": "How much sugar in your tea?",
+        "ru": "Сколько сахара в чай?"
+      },
+      {
+        "en": "We're out of sugar.",
+        "ru": "Сахар закончился."
+      }
+    ],
+    "colloc": "brown sugar · sugar-free"
+  },
+  "a1-0490": {
+    "examples": [
+      {
+        "en": "Cook with olive oil.",
+        "ru": "Готовь на оливковом масле."
+      },
+      {
+        "en": "Heat the oil in a pan.",
+        "ru": "Разогрей масло на сковороде."
+      },
+      {
+        "en": "Olive oil is healthier.",
+        "ru": "Оливковое масло полезнее."
+      }
+    ],
+    "colloc": "cooking oil · olive oil"
+  },
+  "a1-0491": {
+    "examples": [
+      {
+        "en": "Mix flour and water.",
+        "ru": "Смешай муку и воду."
+      },
+      {
+        "en": "Mix flour and eggs.",
+        "ru": "Смешай муку и яйца."
+      },
+      {
+        "en": "We need more flour for bread.",
+        "ru": "Нужно больше муки на хлеб."
+      }
+    ],
+    "colloc": "all-purpose flour · flour sack"
+  },
+  "a1-0492": {
+    "examples": [
+      {
+        "en": "Birthday cake is ready.",
+        "ru": "Торт готов."
+      },
+      {
+        "en": "She baked a chocolate cake.",
+        "ru": "Она испекла шоколадный торт."
+      },
+      {
+        "en": "Would you like a piece of cake?",
+        "ru": "Хочешь кусок торта?"
+      }
+    ],
+    "colloc": "birthday cake · piece of cake"
+  },
+  "a1-0493": {
+    "examples": [
+      {
+        "en": "I ate one cookie.",
+        "ru": "Я съел печенье."
+      },
+      {
+        "en": "I packed cookies for the kids.",
+        "ru": "Я собрал печенье детям."
+      },
+      {
+        "en": "These cookies are homemade.",
+        "ru": "Это печенье домашнее."
+      }
+    ],
+    "colloc": "chocolate cookie",
+    "note": "AmE: cookie; BrE: biscuit"
+  },
+  "a1-0494": {
+    "examples": [
+      {
+        "en": "Dark chocolate is bitter.",
+        "ru": "Тёмный шоколад горький."
+      },
+      {
+        "en": "Dark chocolate is less sweet.",
+        "ru": "Тёмный шоколад менее сладкий."
+      },
+      {
+        "en": "She gave me a box of chocolates.",
+        "ru": "Она дала мне коробку конфет."
+      }
+    ],
+    "colloc": "chocolate bar · hot chocolate"
+  },
+  "a1-0495": {
+    "examples": [
+      {
+        "en": "Ice cream melts fast.",
+        "ru": "Мороженое быстро тает."
+      },
+      {
+        "en": "Let's get ice cream after dinner.",
+        "ru": "Давай возьмём мороженое после ужина."
+      },
+      {
+        "en": "Vanilla ice cream is my favorite.",
+        "ru": "Ванильное мороженое — моё любимое."
+      }
+    ],
+    "colloc": "ice cream cone · ice cream shop"
+  },
+  "a1-0496": {
+    "examples": [
+      {
+        "en": "Honey is natural sweet.",
+        "ru": "Мёд — натуральная сладость."
+      },
+      {
+        "en": "Stir honey into the tea.",
+        "ru": "Размешай мёд в чае."
+      },
+      {
+        "en": "Local honey tastes best.",
+        "ru": "Местный мёд вкуснее всего."
+      }
+    ],
+    "colloc": "honey bee · jar of honey"
+  },
+  "a1-0497": {
+    "examples": [
+      {
+        "en": "Toast with strawberry jam.",
+        "ru": "Тост с клубничным джемом."
+      },
+      {
+        "en": "Spread jam on the toast.",
+        "ru": "Намажь джем на тост."
+      },
+      {
+        "en": "Strawberry jam is almost gone.",
+        "ru": "Клубничный джем почти закончился."
+      }
+    ],
+    "colloc": "jam jar · traffic jam"
+  },
+  "a1-0498": {
+    "examples": [
+      {
+        "en": "Drink clean water.",
+        "ru": "Пей чистую воду."
+      },
+      {
+        "en": "Drink a glass of water.",
+        "ru": "Выпей стакан воды."
+      },
+      {
+        "en": "The water here is safe.",
+        "ru": "Здесь вода безопасная."
+      }
+    ],
+    "colloc": "bottled water · cold water"
+  },
+  "a1-0499": {
+    "examples": [
+      {
+        "en": "Cold milk tastes good.",
+        "ru": "Холодное молоко вкусное."
+      },
+      {
+        "en": "Pour milk on the cereal.",
+        "ru": "Налей молоко на хлопья."
+      },
+      {
+        "en": "We're low on milk.",
+        "ru": "Молока почти не осталось."
+      }
+    ],
+    "colloc": "skim milk · milk carton"
+  },
+  "a1-0500": {
+    "examples": [
+      {
+        "en": "Orange juice is fresh.",
+        "ru": "Апельсиновый сок свежий."
+      },
+      {
+        "en": "Fresh orange juice, please.",
+        "ru": "Свежий апельсиновый сок, пожалуйста."
+      },
+      {
+        "en": "Kids love apple juice.",
+        "ru": "Дети любят яблочный сок."
+      }
+    ],
+    "colloc": "fruit juice · juice box"
+  },
+  "a1-0501": {
+    "examples": [
+      {
+        "en": "I drink tea every morning.",
+        "ru": "Я пью чай каждое утро."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Не хотите чаю?"
+      },
+      {
+        "en": "I drink green tea at night.",
+        "ru": "Вечером я пью зелёный чай."
+      }
+    ],
+    "colloc": "cup of tea · tea bag"
+  },
+  "a1-0502": {
+    "examples": [
+      {
+        "en": "Black coffee wakes me up.",
+        "ru": "Чёрный кофе меня будит."
+      },
+      {
+        "en": "I need coffee this morning.",
+        "ru": "Мне нужно кофе сегодня утром."
+      },
+      {
+        "en": "Black coffee, no sugar.",
+        "ru": "Чёрный кофе без сахара."
+      }
+    ],
+    "colloc": "cup of coffee · coffee shop"
+  },
+  "a1-0503": {
+    "examples": [
+      {
+        "en": "Soda is very sweet.",
+        "ru": "Газировка очень сладкая."
+      },
+      {
+        "en": "I'd rather have water than soda.",
+        "ru": "Я лучше выпью воду, чем газировку."
+      },
+      {
+        "en": "This soda is too sweet.",
+        "ru": "Эта газировка слишком сладкая."
+      }
+    ],
+    "colloc": "soda can · soda fountain",
+    "note": "AmE: soda"
+  },
+  "a1-0504": {
+    "examples": [
+      {
+        "en": "He orders a beer.",
+        "ru": "Он заказывает пиво."
+      },
+      {
+        "en": "He ordered a cold beer.",
+        "ru": "Он заказал холодное пиво."
+      },
+      {
+        "en": "This beer tastes bitter.",
+        "ru": "Это пиво горьковатое."
+      }
+    ],
+    "colloc": "beer glass · draft beer"
+  },
+  "a1-0505": {
+    "examples": [
+      {
+        "en": "Red wine with dinner.",
+        "ru": "Красное вино к ужину."
+      },
+      {
+        "en": "Red wine with dinner?",
+        "ru": "Красное вино к ужину?"
+      },
+      {
+        "en": "She poured two glasses of wine.",
+        "ru": "Она налила два бокала вина."
+      }
+    ],
+    "colloc": "glass of wine · wine bottle"
+  }
+}

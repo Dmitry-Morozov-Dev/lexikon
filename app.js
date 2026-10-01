@@ -169,6 +169,131 @@
     if (!opts.keepOpacity) node.style.opacity = '';
   }
 
+  function collectExamples(card) {
+    var list = [];
+    if (Array.isArray(card.examples) && card.examples.length) {
+      card.examples.forEach(function (ex) {
+        if (!ex) return;
+        var en = (ex.en || '').trim();
+        var ru = (ex.ru || '').trim();
+        if (en) list.push({ en: en, ru: ru });
+      });
+    }
+    if (!list.length && (card.ex || card.exRu)) {
+      list.push({ en: (card.ex || '').trim(), ru: (card.exRu || '').trim() });
+    }
+    return list;
+  }
+
+  function collectCollocs(card) {
+    if (Array.isArray(card.collocs) && card.collocs.length) {
+      return card.collocs.map(function (c) { return String(c || '').trim(); }).filter(Boolean);
+    }
+    var raw = (card.colloc || '').trim();
+    if (!raw) return [];
+    return raw.split(/\s*[·•|,;/]\s*|\s+\/\s+/).map(function (s) { return s.trim(); }).filter(Boolean);
+  }
+
+  function renderExamples(card) {
+    var host = els.cardExamples;
+    host.innerHTML = '';
+    var list = collectExamples(card);
+    if (!list.length) {
+      host.classList.add('hidden');
+      return;
+    }
+    host.classList.remove('hidden');
+    var ul = document.createElement('ul');
+    ul.className = 'ex-list';
+    list.forEach(function (item) {
+      var li = document.createElement('li');
+      li.className = 'ex-item';
+      var en = document.createElement('div');
+      en.className = 'ex-en';
+      en.textContent = '“' + item.en + '”';
+      li.appendChild(en);
+      if (item.ru) {
+        var ru = document.createElement('div');
+        ru.className = 'ex-ru';
+        ru.textContent = item.ru;
+        li.appendChild(ru);
+      }
+      ul.appendChild(li);
+    });
+    host.appendChild(ul);
+  }
+
+  function renderCollocs(card) {
+    var host = els.cardColloc;
+    host.innerHTML = '';
+    var items = collectCollocs(card);
+    if (!items.length) {
+      host.classList.add('hidden');
+      return;
+    }
+    host.classList.remove('hidden');
+    var label = document.createElement('span');
+    label.className = 'colloc-label';
+    label.textContent = '⇄';
+    host.appendChild(label);
+    items.forEach(function (c) {
+      var chip = document.createElement('span');
+      chip.className = 'colloc-chip';
+      chip.textContent = c;
+      host.appendChild(chip);
+    });
+  }
+
+  function renderMeta(card) {
+    var host = els.cardMeta;
+    host.innerHTML = '';
+    var bits = [];
+    if (card.pattern) bits.push({ k: 'frame', v: card.pattern });
+    if (card.syn) bits.push({ k: 'syn', v: card.syn });
+    if (card.ant) bits.push({ k: 'ant', v: card.ant });
+    if (!bits.length) {
+      host.classList.add('hidden');
+      return;
+    }
+    host.classList.remove('hidden');
+    bits.forEach(function (b) {
+      var span = document.createElement('span');
+      span.className = 'meta-bit meta-' + b.k;
+      var lab = document.createElement('em');
+      lab.textContent = b.k === 'frame' ? 'pattern' : b.k;
+      span.appendChild(lab);
+      span.appendChild(document.createTextNode(' ' + b.v));
+      host.appendChild(span);
+    });
+  }
+
+  function renderLinks(card) {
+    var host = els.cardLinks;
+    host.innerHTML = '';
+    var word = (card.word || card.lemma || '').trim();
+    if (!word) {
+      host.classList.add('hidden');
+      return;
+    }
+    host.classList.remove('hidden');
+    var lemma = (card.lemma || word).trim();
+    var links = [
+      { label: 'Google', href: 'https://www.google.com/search?q=' + encodeURIComponent('define ' + word) },
+      { label: 'Reverso', href: 'https://context.reverso.net/translation/english-russian/' + encodeURIComponent(word) },
+      { label: 'YouGlish', href: 'https://youglish.com/pronounce/' + encodeURIComponent(word) + '/english/us' },
+      { label: 'Cambridge', href: 'https://dictionary.cambridge.org/dictionary/english/' + encodeURIComponent(lemma || word) }
+    ];
+    links.forEach(function (L) {
+      var a = document.createElement('a');
+      a.className = 'ext-pill';
+      a.href = L.href;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = L.label;
+      host.appendChild(a);
+    });
+  }
+
   function showCard(card) {
     state.current = card;
     state.revealed = false;
@@ -188,20 +313,17 @@
     els.gradeRow.classList.add('hidden');
     els.btnReveal.classList.remove('hidden');
     els.cardTr.textContent = card.tr || '';
-    els.cardEx.textContent = card.ex ? '“' + card.ex + '”' : '';
-    els.cardExRu.textContent = card.exRu || '';
-    if (card.colloc) {
-      els.cardColloc.textContent = '⇄ ' + card.colloc;
-      els.cardColloc.classList.remove('hidden');
-    } else {
-      els.cardColloc.classList.add('hidden');
-    }
+    renderExamples(card);
+    renderCollocs(card);
+    renderMeta(card);
     if (card.note) {
       els.cardNote.textContent = card.note;
       els.cardNote.classList.remove('hidden');
     } else {
+      els.cardNote.textContent = '';
       els.cardNote.classList.add('hidden');
     }
+    renderLinks(card);
     renderCardImage(els.cardImgWrap, card);
     els.todayEmpty.classList.add('hidden');
     els.studyArea.classList.remove('hidden');
@@ -884,6 +1006,13 @@
   }
 
   async function saveOwnCard(data, existingId) {
+    var examples = Array.isArray(data.examples) ? data.examples.slice() : [];
+    if (!examples.length) {
+      if (data.ex || data.exRu) examples.push({ en: data.ex || '', ru: data.exRu || '' });
+      if (data.ex2 || data.ex2Ru) examples.push({ en: data.ex2 || '', ru: data.ex2Ru || '' });
+    }
+    examples = examples.filter(function (e) { return e && ((e.en || '').trim() || (e.ru || '').trim()); });
+    var primary = examples[0] || { en: data.ex || '', ru: data.exRu || '' };
     var card = {
       id: existingId || uid('own'),
       word: data.word,
@@ -893,9 +1022,13 @@
       level: data.level || 'custom',
       tr: data.tr || '',
       note: data.note || '',
-      ex: data.ex || '',
-      exRu: data.exRu || '',
+      ex: primary.en || data.ex || '',
+      exRu: primary.ru || data.exRu || '',
+      examples: examples,
       colloc: data.colloc || '',
+      pattern: data.pattern || '',
+      syn: data.syn || '',
+      ant: data.ant || '',
       img: data.img || '',
       imgSrc: data.img ? (data.img.indexOf('/icons/') === 0 ? 'svg' : 'url') : 'letter',
       imgAlt: data.word,
@@ -920,8 +1053,11 @@
       '<div class="field"><label>Слово</label><input id="e-word" value="' + escapeHtml(card.word) + '"/></div>' +
       '<div class="field"><label>IPA</label><input id="e-ipa" value="' + escapeHtml(card.ipa) + '"/></div>' +
       '<div class="field"><label>Перевод</label><input id="e-tr" value="' + escapeHtml(card.tr) + '"/></div>' +
-      '<div class="field"><label>Пример EN</label><textarea id="e-ex">' + escapeHtml(card.ex) + '</textarea></div>' +
-      '<div class="field"><label>Пример RU</label><textarea id="e-exRu">' + escapeHtml(card.exRu) + '</textarea></div>' +
+      '<div class="field"><label>Пример 1 EN</label><textarea id="e-ex">' + escapeHtml(card.ex || (card.examples && card.examples[0] && card.examples[0].en) || '') + '</textarea></div>' +
+      '<div class="field"><label>Пример 1 RU</label><textarea id="e-exRu">' + escapeHtml(card.exRu || (card.examples && card.examples[0] && card.examples[0].ru) || '') + '</textarea></div>' +
+      '<div class="field"><label>Пример 2 EN</label><textarea id="e-ex2">' + escapeHtml((card.examples && card.examples[1] && card.examples[1].en) || '') + '</textarea></div>' +
+      '<div class="field"><label>Пример 2 RU</label><textarea id="e-ex2Ru">' + escapeHtml((card.examples && card.examples[1] && card.examples[1].ru) || '') + '</textarea></div>' +
+      '<div class="field"><label>Коллокации</label><input id="e-colloc" value="' + escapeHtml(card.colloc || '') + '"/></div>' +
       '<div class="field"><label>Заметка</label><input id="e-note" value="' + escapeHtml(card.note || '') + '"/></div>' +
       '<div class="field"><label>Картинка</label><input id="e-img" value="' + escapeHtml(card.img || '') + '"/></div>' +
       '<button type="button" class="btn btn-accent btn-block" id="e-save">Сохранить</button>' +
@@ -941,10 +1077,16 @@
         tr: $('e-tr').value.trim(),
         ex: $('e-ex').value.trim(),
         exRu: $('e-exRu').value.trim(),
+        ex2: ($('e-ex2') && $('e-ex2').value.trim()) || '',
+        ex2Ru: ($('e-ex2Ru') && $('e-ex2Ru').value.trim()) || '',
+        colloc: ($('e-colloc') && $('e-colloc').value.trim()) || '',
         note: $('e-note').value.trim(),
         img: $('e-img').value.trim(),
         pos: card.pos,
-        level: card.level
+        level: card.level,
+        pattern: card.pattern || '',
+        syn: card.syn || '',
+        ant: card.ant || ''
       };
       if (!data.word || !data.tr) {
         toast('Нужны слово и перевод', 'error');
@@ -1283,10 +1425,11 @@
       cardIpa: $('card-ipa'),
       cardPos: $('card-pos'),
       cardTr: $('card-tr'),
-      cardEx: $('card-ex'),
-      cardExRu: $('card-ex-ru'),
+      cardExamples: $('card-examples'),
       cardColloc: $('card-colloc'),
+      cardMeta: $('card-meta'),
       cardNote: $('card-note'),
+      cardLinks: $('card-links'),
       reveal: $('card-reveal'),
       btnReveal: $('btn-reveal'),
       btnSpeak: $('btn-speak'),
@@ -1371,6 +1514,9 @@
         tr: $('f-tr').value.trim(),
         ex: $('f-ex').value.trim(),
         exRu: $('f-exRu').value.trim(),
+        ex2: ($('f-ex2') && $('f-ex2').value.trim()) || '',
+        ex2Ru: ($('f-ex2Ru') && $('f-ex2Ru').value.trim()) || '',
+        colloc: ($('f-colloc') && $('f-colloc').value.trim()) || '',
         level: $('f-level').value,
         img: $('f-img').value.trim(),
         note: $('f-note').value.trim()

@@ -1,0 +1,518 @@
+{
+  "a1-0818": {
+    "examples": [
+      {
+        "en": "Start from zero.",
+        "ru": "Начни с нуля."
+      },
+      {
+        "en": "The temperature is near zero.",
+        "ru": "Температура около нуля."
+      },
+      {
+        "en": "Start from zero if you must.",
+        "ru": "Начни с нуля, если нужно."
+      }
+    ],
+    "colloc": "zero chance · absolute zero"
+  },
+  "a1-0819": {
+    "examples": [
+      {
+        "en": "I have one brother.",
+        "ru": "У меня один брат."
+      },
+      {
+        "en": "I need one more minute.",
+        "ru": "Мне нужна ещё одна минута."
+      },
+      {
+        "en": "One of my friends lives nearby.",
+        "ru": "Один из друзей живёт рядом."
+      }
+    ],
+    "colloc": "one of · one by one · at once"
+  },
+  "a1-0820": {
+    "examples": [
+      {
+        "en": "I need two tickets.",
+        "ru": "Мне нужны два билета."
+      },
+      {
+        "en": "Two tickets, please.",
+        "ru": "Два билета, пожалуйста."
+      },
+      {
+        "en": "It takes two to dance.",
+        "ru": "Для танца нужны двое."
+      }
+    ],
+    "colloc": "two of us · in two"
+  },
+  "a1-0821": {
+    "examples": [
+      {
+        "en": "Count to three.",
+        "ru": "Сосчитай до трёх."
+      },
+      {
+        "en": "I'll be there in three minutes.",
+        "ru": "Буду через три минуты."
+      },
+      {
+        "en": "Cut the cake into three.",
+        "ru": "Разрежь торт на три части."
+      }
+    ],
+    "colloc": "three times · rule of three"
+  },
+  "a1-0822": {
+    "examples": [
+      {
+        "en": "There are four chairs.",
+        "ru": "Есть четыре стула."
+      },
+      {
+        "en": "We need four chairs.",
+        "ru": "Нам нужны четыре стула."
+      },
+      {
+        "en": "The meeting starts at four.",
+        "ru": "Встреча в четыре."
+      }
+    ],
+    "colloc": "four of a kind"
+  },
+  "a1-0823": {
+    "examples": [
+      {
+        "en": "Give me five minutes.",
+        "ru": "Дай мне пять минут."
+      },
+      {
+        "en": "Give me five minutes.",
+        "ru": "Дай мне пять минут."
+      },
+      {
+        "en": "High five!",
+        "ru": "Дай пять!"
+      }
+    ],
+    "colloc": "five o'clock · top five"
+  },
+  "a1-0824": {
+    "examples": [
+      {
+        "en": "We meet at six.",
+        "ru": "Встречаемся в шесть."
+      },
+      {
+        "en": "Wake me at six.",
+        "ru": "Разбуди меня в шесть."
+      },
+      {
+        "en": "Six people can fit in the car.",
+        "ru": "В машину влезут шестеро."
+      }
+    ],
+    "colloc": "half past six"
+  },
+  "a1-0825": {
+    "examples": [
+      {
+        "en": "Seven days in a week.",
+        "ru": "В неделе семь дней."
+      },
+      {
+        "en": "School starts at seven thirty.",
+        "ru": "Школа в семь тридцать."
+      },
+      {
+        "en": "Lucky number seven.",
+        "ru": "Счастливое число семь."
+      }
+    ],
+    "colloc": "seven days a week"
+  },
+  "a1-0826": {
+    "examples": [
+      {
+        "en": "I sleep eight hours.",
+        "ru": "Я сплю восемь часов."
+      },
+      {
+        "en": "I sleep eight hours.",
+        "ru": "Я сплю восемь часов."
+      },
+      {
+        "en": "Meet me at eight.",
+        "ru": "Встретимся в восемь."
+      }
+    ],
+    "colloc": "eight o'clock"
+  },
+  "a1-0827": {
+    "examples": [
+      {
+        "en": "Work starts at nine.",
+        "ru": "Работа с девяти."
+      },
+      {
+        "en": "The shop opens at nine.",
+        "ru": "Магазин открывается в девять."
+      },
+      {
+        "en": "Cloud nine.",
+        "ru": "На седьмом небе."
+      }
+    ],
+    "colloc": "nine to five"
+  },
+  "a1-0828": {
+    "examples": [
+      {
+        "en": "Count to ten.",
+        "ru": "Сосчитай до десяти."
+      },
+      {
+        "en": "Count to ten slowly.",
+        "ru": "Медленно посчитай до десяти."
+      },
+      {
+        "en": "A ten-minute walk.",
+        "ru": "Десятиминутная прогулка."
+      }
+    ],
+    "colloc": "ten times · perfect ten"
+  },
+  "a1-0829": {
+    "examples": [
+      {
+        "en": "Eleven players on a team.",
+        "ru": "В команде одиннадцать."
+      },
+      {
+        "en": "The flight is at eleven.",
+        "ru": "Рейс в одиннадцать."
+      },
+      {
+        "en": "Eleven players on a soccer team.",
+        "ru": "В футбольной команде одиннадцать игроков."
+      }
+    ]
+  },
+  "a1-0830": {
+    "examples": [
+      {
+        "en": "Twelve months in a year.",
+        "ru": "В году двенадцать месяцев."
+      },
+      {
+        "en": "Noon is twelve o'clock.",
+        "ru": "Полдень — двенадцать часов."
+      },
+      {
+        "en": "A dozen is twelve.",
+        "ru": "Дюжина — это двенадцать."
+      }
+    ],
+    "colloc": "twelve o'clock"
+  },
+  "a1-0831": {
+    "examples": [
+      {
+        "en": "Floor thirteen is quiet.",
+        "ru": "Тринадцатый этаж тихий."
+      },
+      {
+        "en": "Floor thirteen is missing in some hotels.",
+        "ru": "В некоторых отелях нет 13-го этажа."
+      },
+      {
+        "en": "She turned thirteen last month.",
+        "ru": "В прошлом месяце ей исполнилось тринадцать."
+      }
+    ]
+  },
+  "a1-0832": {
+    "examples": [
+      {
+        "en": "She is fourteen years old.",
+        "ru": "Ей четырнадцать."
+      },
+      {
+        "en": "I was fourteen when we moved.",
+        "ru": "Мне было четырнадцать, когда мы переехали."
+      },
+      {
+        "en": "Seat fourteen B, please.",
+        "ru": "Место 14B, пожалуйста."
+      }
+    ]
+  },
+  "a1-0833": {
+    "examples": [
+      {
+        "en": "Wait fifteen minutes.",
+        "ru": "Подожди пятнадцать минут."
+      },
+      {
+        "en": "Take a fifteen-minute break.",
+        "ru": "Сделай пятнадцатиминутный перерыв."
+      },
+      {
+        "en": "Fifteen dollars for the ticket.",
+        "ru": "Пятнадцать долларов за билет."
+      }
+    ]
+  },
+  "a1-0834": {
+    "examples": [
+      {
+        "en": "Sixteen candles on a cake.",
+        "ru": "На торте шестнадцать свечей."
+      },
+      {
+        "en": "She got her license at sixteen.",
+        "ru": "Она получила права в шестнадцать."
+      },
+      {
+        "en": "A sixteen-year-old student.",
+        "ru": "Шестнадцатилетний студент."
+      }
+    ]
+  },
+  "a1-0835": {
+    "examples": [
+      {
+        "en": "He is seventeen.",
+        "ru": "Ему семнадцать."
+      },
+      {
+        "en": "He left home at seventeen.",
+        "ru": "Он уехал из дома в семнадцать."
+      },
+      {
+        "en": "Page seventeen has the answer.",
+        "ru": "Ответ на странице семнадцать."
+      }
+    ]
+  },
+  "a1-0836": {
+    "examples": [
+      {
+        "en": "Eighteen is adult age.",
+        "ru": "Восемнадцать — взрослый возраст."
+      },
+      {
+        "en": "You can vote at eighteen.",
+        "ru": "С восемнадцати можно голосовать."
+      },
+      {
+        "en": "Eighteen people signed up.",
+        "ru": "Записались восемнадцать человек."
+      }
+    ]
+  },
+  "a1-0837": {
+    "examples": [
+      {
+        "en": "Nineteen students arrive.",
+        "ru": "Приходят девятнадцать студентов."
+      },
+      {
+        "en": "It's nineteen degrees outside.",
+        "ru": "На улице девятнадцать градусов."
+      },
+      {
+        "en": "Room nineteen is free.",
+        "ru": "Комната девятнадцать свободна."
+      }
+    ]
+  },
+  "a1-0838": {
+    "examples": [
+      {
+        "en": "I have twenty dollars.",
+        "ru": "У меня двадцать долларов."
+      },
+      {
+        "en": "I need twenty minutes.",
+        "ru": "Мне нужно двадцать минут."
+      },
+      {
+        "en": "Twenty dollars should be enough.",
+        "ru": "Двадцати долларов должно хватить."
+      }
+    ],
+    "colloc": "twenty-one · twenties"
+  },
+  "a1-0839": {
+    "examples": [
+      {
+        "en": "Thirty days in some months.",
+        "ru": "В некоторых месяцах тридцать дней."
+      },
+      {
+        "en": "The meeting lasts thirty minutes.",
+        "ru": "Встреча длится тридцать минут."
+      },
+      {
+        "en": "She is about thirty.",
+        "ru": "Ей около тридцати."
+      }
+    ],
+    "colloc": "thirty minutes · thirties"
+  },
+  "a1-0840": {
+    "examples": [
+      {
+        "en": "Forty minutes left.",
+        "ru": "Осталось сорок минут."
+      },
+      {
+        "en": "Forty people came to the show.",
+        "ru": "На шоу пришло сорок человек."
+      },
+      {
+        "en": "I'll be there in forty minutes.",
+        "ru": "Буду через сорок минут."
+      }
+    ],
+    "colloc": "forty winks"
+  },
+  "a1-0841": {
+    "examples": [
+      {
+        "en": "Fifty people wait.",
+        "ru": "Ждут пятьдесят человек."
+      },
+      {
+        "en": "This costs fifty dollars.",
+        "ru": "Это стоит пятьдесят долларов."
+      },
+      {
+        "en": "Fifty percent off.",
+        "ru": "Скидка пятьдесят процентов."
+      }
+    ],
+    "colloc": "fifty-fifty"
+  },
+  "a1-0842": {
+    "examples": [
+      {
+        "en": "Sixty seconds in a minute.",
+        "ru": "В минуте шестьдесят секунд."
+      },
+      {
+        "en": "Sixty seconds make a minute.",
+        "ru": "В минуте шестьдесят секунд."
+      },
+      {
+        "en": "He's over sixty.",
+        "ru": "Ему за шестьдесят."
+      }
+    ],
+    "colloc": "sixties"
+  },
+  "a1-0843": {
+    "examples": [
+      {
+        "en": "Seventy years is a long life.",
+        "ru": "Семьдесят лет — долгая жизнь."
+      },
+      {
+        "en": "Seventy years of marriage.",
+        "ru": "Семьдесят лет брака."
+      },
+      {
+        "en": "The speed limit is seventy.",
+        "ru": "Ограничение скорости — семьдесят."
+      }
+    ]
+  },
+  "a1-0844": {
+    "examples": [
+      {
+        "en": "Eighty percent is high.",
+        "ru": "Восемьдесят процентов — много."
+      },
+      {
+        "en": "Grandma is eighty years young.",
+        "ru": "Бабушке восемьдесят лет."
+      },
+      {
+        "en": "Eighty percent of the class passed.",
+        "ru": "Восемьдесят процентов класса сдали."
+      }
+    ]
+  },
+  "a1-0845": {
+    "examples": [
+      {
+        "en": "Ninety minutes of football.",
+        "ru": "Девяносто минут футбола."
+      },
+      {
+        "en": "It's ninety degrees in here.",
+        "ru": "Здесь девяносто градусов."
+      },
+      {
+        "en": "Ninety days to go.",
+        "ru": "Осталось девяносто дней."
+      }
+    ]
+  },
+  "a1-0846": {
+    "examples": [
+      {
+        "en": "One hundred percent.",
+        "ru": "Сто процентов."
+      },
+      {
+        "en": "A hundred people waited outside.",
+        "ru": "Сотня людей ждала снаружи."
+      },
+      {
+        "en": "One hundred percent sure.",
+        "ru": "На сто процентов уверен."
+      }
+    ],
+    "colloc": "a hundred · hundred percent"
+  },
+  "a1-0847": {
+    "examples": [
+      {
+        "en": "A thousand stars shine.",
+        "ru": "Светят тысяча звёзд."
+      },
+      {
+        "en": "Thousands of stars filled the sky.",
+        "ru": "Тысячи звёзд заполнили небо."
+      },
+      {
+        "en": "It costs a thousand dollars.",
+        "ru": "Это стоит тысячу долларов."
+      }
+    ],
+    "colloc": "a thousand · thousands of"
+  },
+  "a1-0848": {
+    "examples": [
+      {
+        "en": "A million people live here.",
+        "ru": "Здесь живёт миллион людей."
+      },
+      {
+        "en": "Millions of people watched.",
+        "ru": "Миллионы людей смотрели."
+      },
+      {
+        "en": "A million thanks!",
+        "ru": "Миллион благодарностей!"
+      }
+    ],
+    "colloc": "a million · millions of"
+  }
+}

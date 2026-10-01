@@ -1,0 +1,396 @@
+{
+  "a1-0336": {
+    "examples": [
+      {
+        "en": "My head hurts.",
+        "ru": "У меня болит голова."
+      },
+      {
+        "en": "She shook her head.",
+        "ru": "Она покачала головой."
+      },
+      {
+        "en": "Keep a cool head.",
+        "ru": "Сохраняй спокойную голову."
+      }
+    ],
+    "colloc": "headache · shake one's head"
+  },
+  "a1-0337": {
+    "examples": [
+      {
+        "en": "Wash your face.",
+        "ru": "Умойся."
+      },
+      {
+        "en": "I couldn't see her face in the dark.",
+        "ru": "В темноте я не видел её лица."
+      },
+      {
+        "en": "He made a funny face.",
+        "ru": "Он скорчил смешную рожицу."
+      }
+    ],
+    "colloc": "face to face · poker face"
+  },
+  "a1-0338": {
+    "examples": [
+      {
+        "en": "Close your eyes and sleep.",
+        "ru": "Закрой глаза и спи."
+      },
+      {
+        "en": "Her eyes are green.",
+        "ru": "У неё зелёные глаза."
+      },
+      {
+        "en": "Keep an eye on the bag.",
+        "ru": "Присмотри за сумкой."
+      }
+    ],
+    "colloc": "eye contact · keep an eye on"
+  },
+  "a1-0339": {
+    "examples": [
+      {
+        "en": "My left ear feels warm.",
+        "ru": "Левое ухо горячее."
+      },
+      {
+        "en": "She whispered in my ear.",
+        "ru": "Она прошептала мне на ухо."
+      },
+      {
+        "en": "I have an ear for music.",
+        "ru": "У меня хороший слух."
+      }
+    ],
+    "colloc": "ear infection · all ears"
+  },
+  "a1-0340": {
+    "examples": [
+      {
+        "en": "Blow your nose gently.",
+        "ru": "Аккуратно высморкайся."
+      },
+      {
+        "en": "His nose is red from the cold.",
+        "ru": "Нос красный от холода."
+      },
+      {
+        "en": "The dog pushed its nose into my hand.",
+        "ru": "Собака ткнулась носом мне в руку."
+      }
+    ],
+    "colloc": "runny nose · nosebleed"
+  },
+  "a1-0341": {
+    "examples": [
+      {
+        "en": "Open your mouth, please.",
+        "ru": "Открой рот, пожалуйста."
+      },
+      {
+        "en": "Don't talk with your mouth full.",
+        "ru": "Не говори с полным ртом."
+      },
+      {
+        "en": "The mouth of the river is wide.",
+        "ru": "Устье реки широкое."
+      }
+    ],
+    "colloc": "mouth full · word of mouth"
+  },
+  "a1-0342": {
+    "examples": [
+      {
+        "en": "I have a loose tooth.",
+        "ru": "У меня шатается зуб."
+      },
+      {
+        "en": "She broke a tooth on hard candy.",
+        "ru": "Она сломала зуб об твёрдую конфету."
+      },
+      {
+        "en": "Brush every tooth carefully.",
+        "ru": "Чисти каждый зуб тщательно."
+      }
+    ],
+    "colloc": "tooth decay · sweet tooth",
+    "note": "tooth → teeth"
+  },
+  "a1-0343": {
+    "examples": [
+      {
+        "en": "Brush your teeth twice a day.",
+        "ru": "Чисти зубы дважды в день."
+      },
+      {
+        "en": "The baby has two new teeth.",
+        "ru": "У малыша два новых зуба."
+      },
+      {
+        "en": "He gritted his teeth and lifted.",
+        "ru": "Он стиснул зубы и поднял."
+      }
+    ],
+    "colloc": "brush your teeth · teeth whitening"
+  },
+  "a1-0344": {
+    "examples": [
+      {
+        "en": "She has long brown hair.",
+        "ru": "У неё длинные каштановые волосы."
+      },
+      {
+        "en": "I need a haircut.",
+        "ru": "Мне нужна стрижка."
+      },
+      {
+        "en": "There's a hair in my soup.",
+        "ru": "В супе волос."
+      }
+    ],
+    "colloc": "hair cut · dry hair",
+    "note": "hair часто неисчисляемое"
+  },
+  "a1-0345": {
+    "examples": [
+      {
+        "en": "My neck is stiff today.",
+        "ru": "Сегодня шея затекла."
+      },
+      {
+        "en": "She wore a scarf around her neck.",
+        "ru": "Она повязала шарф на шею."
+      },
+      {
+        "en": "A giraffe has a long neck.",
+        "ru": "У жирафа длинная шея."
+      }
+    ],
+    "colloc": "neck pillow · pain in the neck"
+  },
+  "a1-0346": {
+    "examples": [
+      {
+        "en": "He tapped me on the shoulder.",
+        "ru": "Он похлопал меня по плечу."
+      },
+      {
+        "en": "Carry the bag on your shoulder.",
+        "ru": "Неси сумку на плече."
+      },
+      {
+        "en": "I shrugged my shoulders.",
+        "ru": "Я пожал плечами."
+      }
+    ],
+    "colloc": "shoulder bag · cold shoulder"
+  },
+  "a1-0347": {
+    "examples": [
+      {
+        "en": "She broke her arm skiing.",
+        "ru": "Она сломала руку на лыжах."
+      },
+      {
+        "en": "Hold the baby in your arms.",
+        "ru": "Держи малыша на руках."
+      },
+      {
+        "en": "Raise your arm if you know.",
+        "ru": "Подними руку, если знаешь."
+      }
+    ],
+    "colloc": "arm in arm · arm's length"
+  },
+  "a1-0348": {
+    "examples": [
+      {
+        "en": "Raise your hand to ask.",
+        "ru": "Подними руку, чтобы спросить."
+      },
+      {
+        "en": "Wash your hands before eating.",
+        "ru": "Мой руки перед едой."
+      },
+      {
+        "en": "Give me a hand with this box.",
+        "ru": "Помоги с этой коробкой."
+      }
+    ],
+    "colloc": "hand in · on the other hand · shake hands"
+  },
+  "a1-0349": {
+    "examples": [
+      {
+        "en": "Don't put your finger in the socket.",
+        "ru": "Не суй палец в розетку."
+      },
+      {
+        "en": "She wears a ring on her finger.",
+        "ru": "На пальце у неё кольцо."
+      },
+      {
+        "en": "Count on your fingers.",
+        "ru": "Посчитай на пальцах."
+      }
+    ],
+    "colloc": "finger food · keep your fingers crossed"
+  },
+  "a1-0350": {
+    "examples": [
+      {
+        "en": "My leg hurts after the run.",
+        "ru": "После пробежки болит нога."
+      },
+      {
+        "en": "He sat with his legs crossed.",
+        "ru": "Он сидел нога на ногу."
+      },
+      {
+        "en": "The table has four legs.",
+        "ru": "У стола четыре ножки."
+      }
+    ],
+    "colloc": "leg room · pull someone's leg"
+  },
+  "a1-0351": {
+    "examples": [
+      {
+        "en": "My left foot is sore.",
+        "ru": "Левая ступня болит."
+      },
+      {
+        "en": "She stood on one foot.",
+        "ru": "Она стояла на одной ноге."
+      },
+      {
+        "en": "The bed is at the foot of the stairs.",
+        "ru": "Кровать у нижней части лестницы."
+      }
+    ],
+    "colloc": "on foot · foot the bill",
+    "note": "foot → feet"
+  },
+  "a1-0352": {
+    "examples": [
+      {
+        "en": "My feet are cold.",
+        "ru": "У меня мёрзнут ноги."
+      },
+      {
+        "en": "Wipe your feet at the door.",
+        "ru": "Вытри ноги у двери."
+      },
+      {
+        "en": "The cat rubbed against my feet.",
+        "ru": "Кошка тёрлась о мои ноги."
+      }
+    ],
+    "colloc": "on your feet · cold feet"
+  },
+  "a1-0353": {
+    "examples": [
+      {
+        "en": "He fell and hurt his knee.",
+        "ru": "Он упал и ушиб колено."
+      },
+      {
+        "en": "She sat on her knees to garden.",
+        "ru": "Она села на колени, чтобы работать в саду."
+      },
+      {
+        "en": "Bend your knees when you lift.",
+        "ru": "Сгибай колени, когда поднимаешь."
+      }
+    ],
+    "colloc": "knee injury · on your knees"
+  },
+  "a1-0354": {
+    "examples": [
+      {
+        "en": "My back hurts from lifting.",
+        "ru": "Спина болит после подъёма."
+      },
+      {
+        "en": "Sit at the back of the bus.",
+        "ru": "Сядь в задней части автобуса."
+      },
+      {
+        "en": "I'll be back in five minutes.",
+        "ru": "Вернусь через пять минут."
+      }
+    ],
+    "colloc": "back pain · come back · at the back"
+  },
+  "a1-0355": {
+    "examples": [
+      {
+        "en": "My stomach feels full.",
+        "ru": "Желудок полный."
+      },
+      {
+        "en": "She has a stomach ache.",
+        "ru": "У неё болит живот."
+      },
+      {
+        "en": "Lie on your stomach.",
+        "ru": "Ляг на живот."
+      }
+    ],
+    "colloc": "stomach ache · empty stomach"
+  },
+  "a1-0356": {
+    "examples": [
+      {
+        "en": "My heart was beating fast.",
+        "ru": "Сердце сильно билось."
+      },
+      {
+        "en": "He has a kind heart.",
+        "ru": "У него доброе сердце."
+      },
+      {
+        "en": "Learn it by heart.",
+        "ru": "Выучи наизусть."
+      }
+    ],
+    "colloc": "heart attack · break someone's heart · by heart"
+  },
+  "a1-0357": {
+    "examples": [
+      {
+        "en": "The nurse took a blood sample.",
+        "ru": "Медсестра взяла анализ крови."
+      },
+      {
+        "en": "Blood pressure can rise with stress.",
+        "ru": "Давление может вырасти от стресса."
+      },
+      {
+        "en": "There was blood on the bandage.",
+        "ru": "На бинте была кровь."
+      }
+    ],
+    "colloc": "blood test · blood pressure"
+  },
+  "a1-0358": {
+    "examples": [
+      {
+        "en": "Listen to your body and rest.",
+        "ru": "Слушай своё тело и отдыхай."
+      },
+      {
+        "en": "The human body needs water.",
+        "ru": "Человеческому телу нужна вода."
+      },
+      {
+        "en": "She has a strong body.",
+        "ru": "У неё крепкое тело."
+      }
+    ],
+    "colloc": "body language · body temperature"
+  }
+}

@@ -1,0 +1,880 @@
+{"i": 0, "id": "a1-0001", "w": "I", "pos": "other", "tr": "я", "ex": "I am a student.", "exRu": "Я студент."}
+{"i": 1, "id": "a1-0002", "w": "you", "pos": "other", "tr": "ты, вы", "ex": "You are my friend.", "exRu": "Ты мой друг."}
+{"i": 2, "id": "a1-0003", "w": "he", "pos": "other", "tr": "он", "ex": "He is at home.", "exRu": "Он дома."}
+{"i": 3, "id": "a1-0004", "w": "she", "pos": "other", "tr": "она", "ex": "She likes music.", "exRu": "Ей нравится музыка."}
+{"i": 4, "id": "a1-0005", "w": "it", "pos": "other", "tr": "оно, это", "ex": "It is cold today.", "exRu": "Сегодня холодно."}
+{"i": 5, "id": "a1-0006", "w": "we", "pos": "other", "tr": "мы", "ex": "We live in a city.", "exRu": "Мы живём в городе."}
+{"i": 6, "id": "a1-0007", "w": "they", "pos": "other", "tr": "они", "ex": "They work together.", "exRu": "Они работают вместе."}
+{"i": 7, "id": "a1-0008", "w": "me", "pos": "other", "tr": "мне, меня", "ex": "Call me later.", "exRu": "Позвони мне позже."}
+{"i": 8, "id": "a1-0009", "w": "him", "pos": "other", "tr": "ему, его", "ex": "I know him well.", "exRu": "Я хорошо его знаю."}
+{"i": 9, "id": "a1-0010", "w": "her", "pos": "other", "tr": "ей, её", "ex": "This is her bag.", "exRu": "Это её сумка."}
+{"i": 10, "id": "a1-0011", "w": "us", "pos": "other", "tr": "нам, нас", "ex": "Come with us.", "exRu": "Пойди с нами."}
+{"i": 11, "id": "a1-0012", "w": "them", "pos": "other", "tr": "им, их", "ex": "I see them now.", "exRu": "Я вижу их сейчас."}
+{"i": 12, "id": "a1-0013", "w": "my", "pos": "other", "tr": "мой", "ex": "This is my phone.", "exRu": "Это мой телефон."}
+{"i": 13, "id": "a1-0014", "w": "your", "pos": "other", "tr": "твой, ваш", "ex": "Is this your book?", "exRu": "Это твоя книга?"}
+{"i": 14, "id": "a1-0015", "w": "his", "pos": "other", "tr": "его", "ex": "His name is Tom.", "exRu": "Его зовут Том."}
+{"i": 15, "id": "a1-0016", "w": "its", "pos": "other", "tr": "его (неодуш.)", "ex": "The dog wagged its tail.", "exRu": "Собака вильнула хвостом."}
+{"i": 16, "id": "a1-0017", "w": "our", "pos": "other", "tr": "наш", "ex": "Our house is small.", "exRu": "Наш дом маленький."}
+{"i": 17, "id": "a1-0018", "w": "their", "pos": "other", "tr": "их", "ex": "Their car is red.", "exRu": "Их машина красная."}
+{"i": 18, "id": "a1-0019", "w": "this", "pos": "other", "tr": "этот, это", "ex": "This is my desk.", "exRu": "Это мой стол."}
+{"i": 19, "id": "a1-0020", "w": "that", "pos": "other", "tr": "тот, то", "ex": "That is a nice idea.", "exRu": "Это хорошая идея."}
+{"i": 20, "id": "a1-0021", "w": "these", "pos": "other", "tr": "эти", "ex": "These shoes are new.", "exRu": "Эти туфли новые."}
+{"i": 21, "id": "a1-0022", "w": "those", "pos": "other", "tr": "те", "ex": "Those birds are loud.", "exRu": "Те птицы громкие."}
+{"i": 22, "id": "a1-0023", "w": "who", "pos": "other", "tr": "кто", "ex": "Who is at the door?", "exRu": "Кто у двери?"}
+{"i": 23, "id": "a1-0024", "w": "what", "pos": "other", "tr": "что", "ex": "What is your name?", "exRu": "Как тебя зовут?"}
+{"i": 24, "id": "a1-0025", "w": "where", "pos": "other", "tr": "где", "ex": "Where do you live?", "exRu": "Где ты живёшь?"}
+{"i": 25, "id": "a1-0026", "w": "when", "pos": "other", "tr": "когда", "ex": "When is the meeting?", "exRu": "Когда встреча?"}
+{"i": 26, "id": "a1-0027", "w": "why", "pos": "other", "tr": "почему", "ex": "Why are you late?", "exRu": "Почему ты опоздал?"}
+{"i": 27, "id": "a1-0028", "w": "how", "pos": "other", "tr": "как", "ex": "How are you today?", "exRu": "Как ты сегодня?"}
+{"i": 28, "id": "a1-0029", "w": "which", "pos": "other", "tr": "который", "ex": "Which color do you like?", "exRu": "Какой цвет тебе нравится?"}
+{"i": 29, "id": "a1-0030", "w": "yes", "pos": "other", "tr": "да", "ex": "Yes, I agree.", "exRu": "Да, я согласен."}
+{"i": 30, "id": "a1-0031", "w": "no", "pos": "other", "tr": "нет", "ex": "No, thank you.", "exRu": "Нет, спасибо."}
+{"i": 31, "id": "a1-0032", "w": "not", "pos": "other", "tr": "не", "ex": "I am not tired.", "exRu": "Я не устал."}
+{"i": 32, "id": "a1-0033", "w": "please", "pos": "other", "tr": "пожалуйста", "ex": "Please sit down.", "exRu": "Пожалуйста, садитесь."}
+{"i": 33, "id": "a1-0034", "w": "thanks", "pos": "other", "tr": "спасибо", "ex": "Thanks for your help.", "exRu": "Спасибо за помощь."}
+{"i": 34, "id": "a1-0035", "w": "sorry", "pos": "adj", "tr": "извини, жаль", "ex": "I am sorry.", "exRu": "Мне жаль."}
+{"i": 35, "id": "a1-0036", "w": "hello", "pos": "other", "tr": "привет", "ex": "Hello, everyone!", "exRu": "Всем привет!"}
+{"i": 36, "id": "a1-0037", "w": "goodbye", "pos": "other", "tr": "до свидания", "ex": "Goodbye and take care.", "exRu": "До свидания."}
+{"i": 37, "id": "a1-0038", "w": "hi", "pos": "other", "tr": "привет", "ex": "Hi, how are you?", "exRu": "Привет, как дела?"}
+{"i": 38, "id": "a1-0039", "w": "ok", "pos": "other", "tr": "хорошо, ладно", "ex": "Ok, let's go.", "exRu": "Ладно, пойдём."}
+{"i": 39, "id": "a1-0040", "w": "and", "pos": "conj", "tr": "и", "ex": "Tea and coffee, please.", "exRu": "Чай и кофе, пожалуйста."}
+{"i": 40, "id": "a1-0041", "w": "or", "pos": "conj", "tr": "или", "ex": "Tea or coffee?", "exRu": "Чай или кофе?"}
+{"i": 41, "id": "a1-0042", "w": "but", "pos": "conj", "tr": "но", "ex": "I am tired but happy.", "exRu": "Я устал, но счастлив."}
+{"i": 42, "id": "a1-0043", "w": "because", "pos": "conj", "tr": "потому что", "ex": "I stay because it rains.", "exRu": "Я остаюсь, потому что дождь."}
+{"i": 43, "id": "a1-0044", "w": "if", "pos": "conj", "tr": "если", "ex": "Call me if you need help.", "exRu": "Позвони, если нужна помощь."}
+{"i": 44, "id": "a1-0045", "w": "so", "pos": "conj", "tr": "поэтому, так", "ex": "I am busy, so I cannot go.", "exRu": "Я занят, поэтому не могу."}
+{"i": 45, "id": "a1-0046", "w": "with", "pos": "prep", "tr": "с", "ex": "Come with me.", "exRu": "Пойди со мной."}
+{"i": 46, "id": "a1-0047", "w": "without", "pos": "prep", "tr": "без", "ex": "Coffee without sugar.", "exRu": "Кофе без сахара."}
+{"i": 47, "id": "a1-0048", "w": "from", "pos": "prep", "tr": "из, от", "ex": "I am from Canada.", "exRu": "Я из Канады."}
+{"i": 48, "id": "a1-0049", "w": "to", "pos": "prep", "tr": "к, в", "ex": "Go to school.", "exRu": "Иди в школу."}
+{"i": 49, "id": "a1-0050", "w": "in", "pos": "prep", "tr": "в", "ex": "The keys are in the bag.", "exRu": "Ключи в сумке."}
+{"i": 50, "id": "a1-0051", "w": "on", "pos": "prep", "tr": "на", "ex": "The book is on the table.", "exRu": "Книга на столе."}
+{"i": 51, "id": "a1-0052", "w": "at", "pos": "prep", "tr": "у, в", "ex": "Meet me at the station.", "exRu": "Встреть меня на станции."}
+{"i": 52, "id": "a1-0053", "w": "for", "pos": "prep", "tr": "для", "ex": "This gift is for you.", "exRu": "Этот подарок для тебя."}
+{"i": 53, "id": "a1-0054", "w": "of", "pos": "prep", "tr": "из, о", "ex": "A cup of tea.", "exRu": "Чашка чая."}
+{"i": 54, "id": "a1-0055", "w": "about", "pos": "prep", "tr": "о", "ex": "A book about animals.", "exRu": "Книга о животных."}
+{"i": 55, "id": "a1-0056", "w": "into", "pos": "prep", "tr": "в (внутрь)", "ex": "Go into the room.", "exRu": "Войди в комнату."}
+{"i": 56, "id": "a1-0057", "w": "out", "pos": "prep", "tr": "из, наружу", "ex": "Get out of the car.", "exRu": "Выйди из машины."}
+{"i": 57, "id": "a1-0058", "w": "up", "pos": "prep", "tr": "вверх", "ex": "Look up at the sky.", "exRu": "Посмотри вверх на небо."}
+{"i": 58, "id": "a1-0059", "w": "down", "pos": "prep", "tr": "вниз", "ex": "Sit down, please.", "exRu": "Садитесь, пожалуйста."}
+{"i": 59, "id": "a1-0060", "w": "over", "pos": "prep", "tr": "над, через", "ex": "The plane flies over us.", "exRu": "Самолёт летит над нами."}
+{"i": 60, "id": "a1-0061", "w": "under", "pos": "prep", "tr": "под", "ex": "The cat is under the table.", "exRu": "Кот под столом."}
+{"i": 61, "id": "a1-0062", "w": "between", "pos": "prep", "tr": "между", "ex": "Sit between us.", "exRu": "Сядь между нами."}
+{"i": 62, "id": "a1-0063", "w": "near", "pos": "prep", "tr": "рядом", "ex": "The shop is near here.", "exRu": "Магазин рядом."}
+{"i": 63, "id": "a1-0064", "w": "by", "pos": "prep", "tr": "у, посредством", "ex": "I go by bus.", "exRu": "Я езжу на автобусе."}
+{"i": 64, "id": "a1-0065", "w": "after", "pos": "prep", "tr": "после", "ex": "Call me after lunch.", "exRu": "Позвони после обеда."}
+{"i": 65, "id": "a1-0066", "w": "before", "pos": "prep", "tr": "до", "ex": "Wash hands before eating.", "exRu": "Мой руки перед едой."}
+{"i": 66, "id": "a1-0067", "w": "during", "pos": "prep", "tr": "во время", "ex": "Silence during the film.", "exRu": "Тишина во время фильма."}
+{"i": 67, "id": "a1-0068", "w": "until", "pos": "prep", "tr": "до (момента)", "ex": "Wait until Friday.", "exRu": "Жди до пятницы."}
+{"i": 68, "id": "a1-0069", "w": "since", "pos": "prep", "tr": "с (времени)", "ex": "I live here since 2020.", "exRu": "Я живу здесь с 2020."}
+{"i": 69, "id": "a1-0070", "w": "as", "pos": "prep", "tr": "как", "ex": "As a student, I study hard.", "exRu": "Как студент, я учусь усердно."}
+{"i": 70, "id": "a1-0071", "w": "than", "pos": "conj", "tr": "чем", "ex": "She is taller than me.", "exRu": "Она выше меня."}
+{"i": 71, "id": "a1-0072", "w": "also", "pos": "adv", "tr": "также", "ex": "I also speak French.", "exRu": "Я также говорю по-французски."}
+{"i": 72, "id": "a1-0073", "w": "too", "pos": "adv", "tr": "тоже, слишком", "ex": "I like it too.", "exRu": "Мне тоже нравится."}
+{"i": 73, "id": "a1-0074", "w": "very", "pos": "adv", "tr": "очень", "ex": "It is very cold.", "exRu": "Очень холодно."}
+{"i": 74, "id": "a1-0075", "w": "really", "pos": "adv", "tr": "действительно", "ex": "I really need help.", "exRu": "Мне правда нужна помощь."}
+{"i": 75, "id": "a1-0076", "w": "just", "pos": "adv", "tr": "только что, просто", "ex": "I just arrived.", "exRu": "Я только что приехал."}
+{"i": 76, "id": "a1-0077", "w": "only", "pos": "adv", "tr": "только", "ex": "Only one ticket left.", "exRu": "Остался только один билет."}
+{"i": 77, "id": "a1-0078", "w": "even", "pos": "adv", "tr": "даже", "ex": "Even kids know this.", "exRu": "Даже дети это знают."}
+{"i": 78, "id": "a1-0079", "w": "still", "pos": "adv", "tr": "всё ещё", "ex": "Are you still here?", "exRu": "Ты всё ещё здесь?"}
+{"i": 79, "id": "a1-0080", "w": "already", "pos": "adv", "tr": "уже", "ex": "I already ate.", "exRu": "Я уже поел."}
+{"i": 80, "id": "a1-0081", "w": "yet", "pos": "adv", "tr": "ещё (не)", "ex": "Are you ready yet?", "exRu": "Ты уже готов?"}
+{"i": 81, "id": "a1-0082", "w": "again", "pos": "adv", "tr": "снова", "ex": "Try again, please.", "exRu": "Попробуй снова."}
+{"i": 82, "id": "a1-0083", "w": "always", "pos": "adv", "tr": "всегда", "ex": "I always wake early.", "exRu": "Я всегда встаю рано."}
+{"i": 83, "id": "a1-0084", "w": "usually", "pos": "adv", "tr": "обычно", "ex": "I usually walk.", "exRu": "Обычно я хожу пешком."}
+{"i": 84, "id": "a1-0085", "w": "often", "pos": "adv", "tr": "часто", "ex": "We often meet.", "exRu": "Мы часто встречаемся."}
+{"i": 85, "id": "a1-0086", "w": "sometimes", "pos": "adv", "tr": "иногда", "ex": "I sometimes cook.", "exRu": "Иногда я готовлю."}
+{"i": 86, "id": "a1-0087", "w": "never", "pos": "adv", "tr": "никогда", "ex": "I never smoke.", "exRu": "Я никогда не курю."}
+{"i": 87, "id": "a1-0088", "w": "here", "pos": "adv", "tr": "здесь", "ex": "Come here now.", "exRu": "Иди сюда сейчас."}
+{"i": 88, "id": "a1-0089", "w": "there", "pos": "adv", "tr": "там", "ex": "Put it there.", "exRu": "Положи это туда."}
+{"i": 89, "id": "a1-0090", "w": "everywhere", "pos": "adv", "tr": "везде", "ex": "Music is everywhere.", "exRu": "Музыка везде."}
+{"i": 90, "id": "a1-0091", "w": "somewhere", "pos": "adv", "tr": "где-то", "ex": "I left it somewhere.", "exRu": "Я где-то это оставил."}
+{"i": 91, "id": "a1-0092", "w": "now", "pos": "adv", "tr": "сейчас", "ex": "Do it now.", "exRu": "Сделай это сейчас."}
+{"i": 92, "id": "a1-0093", "w": "then", "pos": "adv", "tr": "тогда", "ex": "We ate, then left.", "exRu": "Мы поели, потом ушли."}
+{"i": 93, "id": "a1-0094", "w": "today", "pos": "adv", "tr": "сегодня", "ex": "Today is Monday.", "exRu": "Сегодня понедельник."}
+{"i": 94, "id": "a1-0095", "w": "tomorrow", "pos": "adv", "tr": "завтра", "ex": "See you tomorrow.", "exRu": "Увидимся завтра."}
+{"i": 95, "id": "a1-0096", "w": "yesterday", "pos": "adv", "tr": "вчера", "ex": "I worked yesterday.", "exRu": "Вчера я работал."}
+{"i": 96, "id": "a1-0097", "w": "soon", "pos": "adv", "tr": "скоро", "ex": "Dinner will be soon.", "exRu": "Ужин скоро будет."}
+{"i": 97, "id": "a1-0098", "w": "late", "pos": "adv", "tr": "поздно", "ex": "Do not come late.", "exRu": "Не приходи поздно."}
+{"i": 98, "id": "a1-0099", "w": "early", "pos": "adv", "tr": "рано", "ex": "I wake up early.", "exRu": "Я встаю рано."}
+{"i": 99, "id": "a1-0100", "w": "fast", "pos": "adv", "tr": "быстро", "ex": "Run fast!", "exRu": "Беги быстро!"}
+{"i": 100, "id": "a1-0101", "w": "slowly", "pos": "adv", "tr": "медленно", "ex": "Speak slowly, please.", "exRu": "Говори медленно."}
+{"i": 101, "id": "a1-0102", "w": "well", "pos": "adv", "tr": "хорошо", "ex": "She sings well.", "exRu": "Она хорошо поёт."}
+{"i": 102, "id": "a1-0103", "w": "badly", "pos": "adv", "tr": "плохо", "ex": "He plays badly.", "exRu": "Он плохо играет."}
+{"i": 103, "id": "a1-0104", "w": "together", "pos": "adv", "tr": "вместе", "ex": "We work together.", "exRu": "Мы работаем вместе."}
+{"i": 104, "id": "a1-0105", "w": "alone", "pos": "adv", "tr": "один", "ex": "I live alone.", "exRu": "Я живу один."}
+{"i": 105, "id": "a1-0106", "w": "maybe", "pos": "adv", "tr": "может быть", "ex": "Maybe it will rain.", "exRu": "Может, будет дождь."}
+{"i": 106, "id": "a1-0107", "w": "perhaps", "pos": "adv", "tr": "возможно", "ex": "Perhaps she is busy.", "exRu": "Возможно, она занята."}
+{"i": 107, "id": "a1-0108", "w": "be", "pos": "verb", "tr": "быть", "ex": "I want to be happy.", "exRu": "Я хочу быть счастливым."}
+{"i": 108, "id": "a1-0109", "w": "have", "pos": "verb", "tr": "иметь", "ex": "I have two brothers.", "exRu": "У меня два брата."}
+{"i": 109, "id": "a1-0110", "w": "do", "pos": "verb", "tr": "делать", "ex": "What do you do?", "exRu": "Чем ты занимаешься?"}
+{"i": 110, "id": "a1-0111", "w": "can", "pos": "verb", "tr": "мочь, уметь", "ex": "I can swim well.", "exRu": "Я умею хорошо плавать."}
+{"i": 111, "id": "a1-0112", "w": "will", "pos": "verb", "tr": "буду", "ex": "I will call you.", "exRu": "Я тебе позвоню."}
+{"i": 112, "id": "a1-0113", "w": "would", "pos": "verb", "tr": "бы", "ex": "I would like coffee.", "exRu": "Я бы хотел кофе."}
+{"i": 113, "id": "a1-0114", "w": "should", "pos": "verb", "tr": "следует", "ex": "You should rest.", "exRu": "Тебе следует отдохнуть."}
+{"i": 114, "id": "a1-0115", "w": "must", "pos": "verb", "tr": "должен", "ex": "You must wear a seatbelt.", "exRu": "Ты должен пристегнуться."}
+{"i": 115, "id": "a1-0116", "w": "may", "pos": "verb", "tr": "можно", "ex": "May I come in?", "exRu": "Можно войти?"}
+{"i": 116, "id": "a1-0117", "w": "might", "pos": "verb", "tr": "возможно", "ex": "It might rain.", "exRu": "Может пойти дождь."}
+{"i": 117, "id": "a1-0118", "w": "could", "pos": "verb", "tr": "мог бы", "ex": "Could you help me?", "exRu": "Не мог бы ты помочь?"}
+{"i": 118, "id": "a1-0119", "w": "go", "pos": "verb", "tr": "идти, ехать", "ex": "I go to work by bus.", "exRu": "Я езжу на работу на автобусе."}
+{"i": 119, "id": "a1-0120", "w": "come", "pos": "verb", "tr": "приходить", "ex": "Please come here.", "exRu": "Пожалуйста, подойди сюда."}
+{"i": 120, "id": "a1-0121", "w": "get", "pos": "verb", "tr": "получать", "ex": "I get up early.", "exRu": "Я встаю рано."}
+{"i": 121, "id": "a1-0122", "w": "make", "pos": "verb", "tr": "делать", "ex": "I make breakfast.", "exRu": "Я готовлю завтрак."}
+{"i": 122, "id": "a1-0123", "w": "take", "pos": "verb", "tr": "брать", "ex": "Take an umbrella.", "exRu": "Возьми зонт."}
+{"i": 123, "id": "a1-0124", "w": "give", "pos": "verb", "tr": "давать", "ex": "Give me the key.", "exRu": "Дай мне ключ."}
+{"i": 124, "id": "a1-0125", "w": "see", "pos": "verb", "tr": "видеть", "ex": "I see a bird.", "exRu": "Я вижу птицу."}
+{"i": 125, "id": "a1-0126", "w": "look", "pos": "verb", "tr": "смотреть", "ex": "Look at the sky.", "exRu": "Посмотри на небо."}
+{"i": 126, "id": "a1-0127", "w": "watch", "pos": "verb", "tr": "смотреть", "ex": "We watch a film.", "exRu": "Мы смотрим фильм."}
+{"i": 127, "id": "a1-0128", "w": "hear", "pos": "verb", "tr": "слышать", "ex": "I hear music.", "exRu": "Я слышу музыку."}
+{"i": 128, "id": "a1-0129", "w": "listen", "pos": "verb", "tr": "слушать", "ex": "Listen to me, please.", "exRu": "Послушай меня."}
+{"i": 129, "id": "a1-0130", "w": "speak", "pos": "verb", "tr": "говорить", "ex": "I speak English.", "exRu": "Я говорю по-английски."}
+{"i": 130, "id": "a1-0131", "w": "talk", "pos": "verb", "tr": "разговаривать", "ex": "We talk every day.", "exRu": "Мы разговариваем каждый день."}
+{"i": 131, "id": "a1-0132", "w": "say", "pos": "verb", "tr": "сказать", "ex": "Say that again.", "exRu": "Скажи это ещё раз."}
+{"i": 132, "id": "a1-0133", "w": "tell", "pos": "verb", "tr": "рассказывать", "ex": "Tell me a story.", "exRu": "Расскажи историю."}
+{"i": 133, "id": "a1-0134", "w": "ask", "pos": "verb", "tr": "спрашивать", "ex": "Ask a question.", "exRu": "Задай вопрос."}
+{"i": 134, "id": "a1-0135", "w": "answer", "pos": "verb", "tr": "отвечать", "ex": "Please answer me.", "exRu": "Пожалуйста, ответь."}
+{"i": 135, "id": "a1-0136", "w": "know", "pos": "verb", "tr": "знать", "ex": "I know the answer.", "exRu": "Я знаю ответ."}
+{"i": 136, "id": "a1-0137", "w": "think", "pos": "verb", "tr": "думать", "ex": "I think it is good.", "exRu": "Думаю, это хорошо."}
+{"i": 137, "id": "a1-0138", "w": "want", "pos": "verb", "tr": "хотеть", "ex": "I want some water.", "exRu": "Я хочу воды."}
+{"i": 138, "id": "a1-0139", "w": "need", "pos": "verb", "tr": "нуждаться", "ex": "I need help.", "exRu": "Мне нужна помощь."}
+{"i": 139, "id": "a1-0140", "w": "like", "pos": "verb", "tr": "нравиться", "ex": "I like this song.", "exRu": "Мне нравится эта песня."}
+{"i": 140, "id": "a1-0141", "w": "love", "pos": "verb", "tr": "любить", "ex": "I love my family.", "exRu": "Я люблю свою семью."}
+{"i": 141, "id": "a1-0142", "w": "hate", "pos": "verb", "tr": "ненавидеть", "ex": "I hate waiting.", "exRu": "Ненавижу ждать."}
+{"i": 142, "id": "a1-0143", "w": "feel", "pos": "verb", "tr": "чувствовать", "ex": "I feel happy today.", "exRu": "Сегодня я счастлив."}
+{"i": 143, "id": "a1-0144", "w": "find", "pos": "verb", "tr": "находить", "ex": "I cannot find my keys.", "exRu": "Не могу найти ключи."}
+{"i": 144, "id": "a1-0145", "w": "lose", "pos": "verb", "tr": "терять", "ex": "Do not lose this paper.", "exRu": "Не потеряй эту бумагу."}
+{"i": 145, "id": "a1-0146", "w": "use", "pos": "verb", "tr": "использовать", "ex": "Use a pen, please.", "exRu": "Используй ручку."}
+{"i": 146, "id": "a1-0147", "w": "try", "pos": "verb", "tr": "пробовать", "ex": "Try again later.", "exRu": "Попробуй снова позже."}
+{"i": 147, "id": "a1-0148", "w": "start", "pos": "verb", "tr": "начинать", "ex": "We start at nine.", "exRu": "Мы начинаем в девять."}
+{"i": 148, "id": "a1-0149", "w": "begin", "pos": "verb", "tr": "начинать", "ex": "Begin with this page.", "exRu": "Начни с этой страницы."}
+{"i": 149, "id": "a1-0150", "w": "stop", "pos": "verb", "tr": "останавливать", "ex": "Stop the car here.", "exRu": "Останови машину здесь."}
+{"i": 150, "id": "a1-0151", "w": "finish", "pos": "verb", "tr": "заканчивать", "ex": "Finish your work.", "exRu": "Закончи работу."}
+{"i": 151, "id": "a1-0152", "w": "end", "pos": "verb", "tr": "заканчивать", "ex": "The film ends soon.", "exRu": "Фильм скоро кончится."}
+{"i": 152, "id": "a1-0153", "w": "open", "pos": "verb", "tr": "открывать", "ex": "Open the window.", "exRu": "Открой окно."}
+{"i": 153, "id": "a1-0154", "w": "close", "pos": "verb", "tr": "закрывать", "ex": "Close the door.", "exRu": "Закрой дверь."}
+{"i": 154, "id": "a1-0155", "w": "put", "pos": "verb", "tr": "класть", "ex": "Put it on the table.", "exRu": "Положи это на стол."}
+{"i": 155, "id": "a1-0156", "w": "bring", "pos": "verb", "tr": "приносить", "ex": "Bring your book tomorrow.", "exRu": "Принеси книгу завтра."}
+{"i": 156, "id": "a1-0157", "w": "buy", "pos": "verb", "tr": "покупать", "ex": "I buy milk every week.", "exRu": "Я покупаю молоко каждую неделю."}
+{"i": 157, "id": "a1-0158", "w": "sell", "pos": "verb", "tr": "продавать", "ex": "They sell fresh bread.", "exRu": "Они продают свежий хлеб."}
+{"i": 158, "id": "a1-0159", "w": "pay", "pos": "verb", "tr": "платить", "ex": "I pay by card.", "exRu": "Я плачу картой."}
+{"i": 159, "id": "a1-0160", "w": "cost", "pos": "verb", "tr": "стоить", "ex": "How much does it cost?", "exRu": "Сколько это стоит?"}
+{"i": 160, "id": "a1-0161", "w": "work", "pos": "verb", "tr": "работать", "ex": "I work in an office.", "exRu": "Я работаю в офисе."}
+{"i": 161, "id": "a1-0162", "w": "study", "pos": "verb", "tr": "учиться", "ex": "She studies at night.", "exRu": "Она учится ночью."}
+{"i": 162, "id": "a1-0163", "w": "learn", "pos": "verb", "tr": "учить", "ex": "I learn new words.", "exRu": "Я учу новые слова."}
+{"i": 163, "id": "a1-0164", "w": "teach", "pos": "verb", "tr": "преподавать", "ex": "He teaches math.", "exRu": "Он преподаёт математику."}
+{"i": 164, "id": "a1-0165", "w": "read", "pos": "verb", "tr": "читать", "ex": "I read every evening.", "exRu": "Я читаю каждый вечер."}
+{"i": 165, "id": "a1-0166", "w": "write", "pos": "verb", "tr": "писать", "ex": "Write your name here.", "exRu": "Напиши здесь имя."}
+{"i": 166, "id": "a1-0167", "w": "draw", "pos": "verb", "tr": "рисовать", "ex": "Kids draw with crayons.", "exRu": "Дети рисуют мелками."}
+{"i": 167, "id": "a1-0168", "w": "play", "pos": "verb", "tr": "играть", "ex": "Children play outside.", "exRu": "Дети играют на улице."}
+{"i": 168, "id": "a1-0169", "w": "run", "pos": "verb", "tr": "бежать", "ex": "I run in the park.", "exRu": "Я бегаю в парке."}
+{"i": 169, "id": "a1-0170", "w": "walk", "pos": "verb", "tr": "ходить пешком", "ex": "We walk to school.", "exRu": "Мы идём в школу пешком."}
+{"i": 170, "id": "a1-0171", "w": "sit", "pos": "verb", "tr": "сидеть", "ex": "Please sit down.", "exRu": "Пожалуйста, садитесь."}
+{"i": 171, "id": "a1-0172", "w": "stand", "pos": "verb", "tr": "стоять", "ex": "Stand near the door.", "exRu": "Встань у двери."}
+{"i": 172, "id": "a1-0173", "w": "lie", "pos": "verb", "tr": "лежать", "ex": "Do not lie on the floor.", "exRu": "Не лежи на полу."}
+{"i": 173, "id": "a1-0174", "w": "sleep", "pos": "verb", "tr": "спать", "ex": "I sleep eight hours.", "exRu": "Я сплю восемь часов."}
+{"i": 174, "id": "a1-0175", "w": "wake", "pos": "verb", "tr": "просыпаться", "ex": "I wake up at seven.", "exRu": "Я просыпаюсь в семь."}
+{"i": 175, "id": "a1-0176", "w": "eat", "pos": "verb", "tr": "есть", "ex": "We eat dinner together.", "exRu": "Мы ужинаем вместе."}
+{"i": 176, "id": "a1-0177", "w": "drink", "pos": "verb", "tr": "пить", "ex": "Drink more water.", "exRu": "Пей больше воды."}
+{"i": 177, "id": "a1-0178", "w": "cook", "pos": "verb", "tr": "готовить", "ex": "I cook pasta often.", "exRu": "Я часто готовлю пасту."}
+{"i": 178, "id": "a1-0179", "w": "wash", "pos": "verb", "tr": "мыть", "ex": "Wash your hands.", "exRu": "Вымой руки."}
+{"i": 179, "id": "a1-0180", "w": "clean", "pos": "verb", "tr": "убирать", "ex": "Clean your room.", "exRu": "Убери комнату."}
+{"i": 180, "id": "a1-0181", "w": "cut", "pos": "verb", "tr": "резать", "ex": "Cut the bread, please.", "exRu": "Нарежь хлеб."}
+{"i": 181, "id": "a1-0182", "w": "break", "pos": "verb", "tr": "ломать", "ex": "Do not break the glass.", "exRu": "Не разбей стекло."}
+{"i": 182, "id": "a1-0183", "w": "fix", "pos": "verb", "tr": "чинить", "ex": "Can you fix this?", "exRu": "Можешь это починить?"}
+{"i": 183, "id": "a1-0184", "w": "build", "pos": "verb", "tr": "строить", "ex": "They build a house.", "exRu": "Они строят дом."}
+{"i": 184, "id": "a1-0185", "w": "carry", "pos": "verb", "tr": "носить", "ex": "Carry this bag for me.", "exRu": "Понеси эту сумку."}
+{"i": 185, "id": "a1-0186", "w": "hold", "pos": "verb", "tr": "держать", "ex": "Hold my hand.", "exRu": "Держи меня за руку."}
+{"i": 186, "id": "a1-0187", "w": "push", "pos": "verb", "tr": "толкать", "ex": "Push the door gently.", "exRu": "Осторожно толкни дверь."}
+{"i": 187, "id": "a1-0188", "w": "pull", "pos": "verb", "tr": "тянуть", "ex": "Pull the rope hard.", "exRu": "Сильно потяни верёвку."}
+{"i": 188, "id": "a1-0189", "w": "turn", "pos": "verb", "tr": "поворачивать", "ex": "Turn left here.", "exRu": "Поверни здесь налево."}
+{"i": 189, "id": "a1-0190", "w": "move", "pos": "verb", "tr": "двигать", "ex": "Please move your chair.", "exRu": "Подвинь стул."}
+{"i": 190, "id": "a1-0191", "w": "stay", "pos": "verb", "tr": "оставаться", "ex": "Stay with us tonight.", "exRu": "Останься с нами сегодня."}
+{"i": 191, "id": "a1-0192", "w": "leave", "pos": "verb", "tr": "уходить", "ex": "I leave at six.", "exRu": "Я ухожу в шесть."}
+{"i": 192, "id": "a1-0193", "w": "arrive", "pos": "verb", "tr": "прибывать", "ex": "The train arrives soon.", "exRu": "Поезд скоро прибывает."}
+{"i": 193, "id": "a1-0194", "w": "return", "pos": "verb", "tr": "возвращаться", "ex": "Return the book tomorrow.", "exRu": "Верни книгу завтра."}
+{"i": 194, "id": "a1-0195", "w": "meet", "pos": "verb", "tr": "встречать", "ex": "Nice to meet you.", "exRu": "Приятно познакомиться."}
+{"i": 195, "id": "a1-0196", "w": "visit", "pos": "verb", "tr": "навещать", "ex": "We visit grandma often.", "exRu": "Мы часто навещаем бабушку."}
+{"i": 196, "id": "a1-0197", "w": "travel", "pos": "verb", "tr": "путешествовать", "ex": "I travel by train.", "exRu": "Я путешествую на поезде."}
+{"i": 197, "id": "a1-0198", "w": "drive", "pos": "verb", "tr": "водить", "ex": "She drives carefully.", "exRu": "Она водит осторожно."}
+{"i": 198, "id": "a1-0199", "w": "ride", "pos": "verb", "tr": "ехать на", "ex": "I ride a bike.", "exRu": "Я езжу на велосипеде."}
+{"i": 199, "id": "a1-0200", "w": "fly", "pos": "verb", "tr": "летать", "ex": "Birds fly high.", "exRu": "Птицы летают высоко."}
+{"i": 200, "id": "a1-0201", "w": "swim", "pos": "verb", "tr": "плавать", "ex": "We swim in summer.", "exRu": "Летом мы плаваем."}
+{"i": 201, "id": "a1-0202", "w": "jump", "pos": "verb", "tr": "прыгать", "ex": "Kids jump on the bed.", "exRu": "Дети прыгают на кровати."}
+{"i": 202, "id": "a1-0203", "w": "dance", "pos": "verb", "tr": "танцевать", "ex": "They dance at parties.", "exRu": "Они танцуют на вечеринках."}
+{"i": 203, "id": "a1-0204", "w": "sing", "pos": "verb", "tr": "петь", "ex": "She sings beautifully.", "exRu": "Она красиво поёт."}
+{"i": 204, "id": "a1-0205", "w": "smile", "pos": "verb", "tr": "улыбаться", "ex": "Smile for the photo.", "exRu": "Улыбнись для фото."}
+{"i": 205, "id": "a1-0206", "w": "laugh", "pos": "verb", "tr": "смеяться", "ex": "We laugh a lot.", "exRu": "Мы много смеёмся."}
+{"i": 206, "id": "a1-0207", "w": "cry", "pos": "verb", "tr": "плакать", "ex": "The baby cries at night.", "exRu": "Малыш плачет ночью."}
+{"i": 207, "id": "a1-0208", "w": "shout", "pos": "verb", "tr": "кричать", "ex": "Do not shout indoors.", "exRu": "Не кричи в помещении."}
+{"i": 208, "id": "a1-0209", "w": "call", "pos": "verb", "tr": "звонить", "ex": "Call me this evening.", "exRu": "Позвони мне вечером."}
+{"i": 209, "id": "a1-0210", "w": "send", "pos": "verb", "tr": "отправлять", "ex": "Send me a message.", "exRu": "Отправь мне сообщение."}
+{"i": 210, "id": "a1-0211", "w": "receive", "pos": "verb", "tr": "получать", "ex": "I receive many emails.", "exRu": "Я получаю много писем."}
+{"i": 211, "id": "a1-0212", "w": "wait", "pos": "verb", "tr": "ждать", "ex": "Wait for me here.", "exRu": "Подожди меня здесь."}
+{"i": 212, "id": "a1-0213", "w": "hope", "pos": "verb", "tr": "надеяться", "ex": "I hope you are well.", "exRu": "Надеюсь, у тебя всё хорошо."}
+{"i": 213, "id": "a1-0214", "w": "wish", "pos": "verb", "tr": "желать", "ex": "I wish you luck.", "exRu": "Желаю тебе удачи."}
+{"i": 214, "id": "a1-0215", "w": "choose", "pos": "verb", "tr": "выбирать", "ex": "Choose a color.", "exRu": "Выбери цвет."}
+{"i": 215, "id": "a1-0216", "w": "decide", "pos": "verb", "tr": "решать", "ex": "Decide quickly, please.", "exRu": "Реши быстро."}
+{"i": 216, "id": "a1-0217", "w": "remember", "pos": "verb", "tr": "помнить", "ex": "Remember my address.", "exRu": "Запомни мой адрес."}
+{"i": 217, "id": "a1-0218", "w": "forget", "pos": "verb", "tr": "забывать", "ex": "Do not forget your keys.", "exRu": "Не забудь ключи."}
+{"i": 218, "id": "a1-0219", "w": "understand", "pos": "verb", "tr": "понимать", "ex": "I understand the rule.", "exRu": "Я понимаю правило."}
+{"i": 219, "id": "a1-0220", "w": "explain", "pos": "verb", "tr": "объяснять", "ex": "Explain it slowly.", "exRu": "Объясни это медленно."}
+{"i": 220, "id": "a1-0221", "w": "help", "pos": "verb", "tr": "помогать", "ex": "Can you help me?", "exRu": "Можешь мне помочь?"}
+{"i": 221, "id": "a1-0222", "w": "change", "pos": "verb", "tr": "менять", "ex": "Change your shoes.", "exRu": "Переобуйся."}
+{"i": 222, "id": "a1-0223", "w": "check", "pos": "verb", "tr": "проверять", "ex": "Check your answers.", "exRu": "Проверь ответы."}
+{"i": 223, "id": "a1-0224", "w": "show", "pos": "verb", "tr": "показывать", "ex": "Show me the photo.", "exRu": "Покажи мне фото."}
+{"i": 224, "id": "a1-0225", "w": "hide", "pos": "verb", "tr": "прятать", "ex": "Hide the gift now.", "exRu": "Спрячь подарок."}
+{"i": 225, "id": "a1-0226", "w": "count", "pos": "verb", "tr": "считать", "ex": "Count to ten.", "exRu": "Сосчитай до десяти."}
+{"i": 226, "id": "a1-0227", "w": "add", "pos": "verb", "tr": "добавлять", "ex": "Add some sugar.", "exRu": "Добавь сахара."}
+{"i": 227, "id": "a1-0228", "w": "follow", "pos": "verb", "tr": "следовать", "ex": "Follow this road.", "exRu": "Следуй по этой дороге."}
+{"i": 228, "id": "a1-0229", "w": "lead", "pos": "verb", "tr": "вести", "ex": "She leads the team.", "exRu": "Она ведёт команду."}
+{"i": 229, "id": "a1-0230", "w": "win", "pos": "verb", "tr": "выигрывать", "ex": "Our team can win.", "exRu": "Наша команда может выиграть."}
+{"i": 230, "id": "a1-0231", "w": "fail", "pos": "verb", "tr": "проваливать", "ex": "Do not fail the test.", "exRu": "Не провали экзамен."}
+{"i": 231, "id": "a1-0232", "w": "pass", "pos": "verb", "tr": "сдавать", "ex": "I pass the exam.", "exRu": "Я сдаю экзамен."}
+{"i": 232, "id": "a1-0233", "w": "miss", "pos": "verb", "tr": "скучать, пропускать", "ex": "I miss my friends.", "exRu": "Я скучаю по друзьям."}
+{"i": 233, "id": "a1-0234", "w": "hurt", "pos": "verb", "tr": "болеть", "ex": "My leg hurts.", "exRu": "У меня болит нога."}
+{"i": 234, "id": "a1-0235", "w": "rest", "pos": "verb", "tr": "отдыхать", "ex": "Rest after lunch.", "exRu": "Отдохни после обеда."}
+{"i": 235, "id": "a1-0236", "w": "relax", "pos": "verb", "tr": "расслабляться", "ex": "Relax and breathe.", "exRu": "Расслабься и дыши."}
+{"i": 236, "id": "a1-0237", "w": "enjoy", "pos": "verb", "tr": "наслаждаться", "ex": "Enjoy your meal.", "exRu": "Приятного аппетита."}
+{"i": 237, "id": "a1-0238", "w": "prefer", "pos": "verb", "tr": "предпочитать", "ex": "I prefer tea.", "exRu": "Я предпочитаю чай."}
+{"i": 238, "id": "a1-0239", "w": "agree", "pos": "verb", "tr": "соглашаться", "ex": "I agree with you.", "exRu": "Я с тобой согласен."}
+{"i": 239, "id": "a1-0240", "w": "belong", "pos": "verb", "tr": "принадлежать", "ex": "This bag belongs to me.", "exRu": "Эта сумка моя."}
+{"i": 240, "id": "a1-0241", "w": "happen", "pos": "verb", "tr": "случаться", "ex": "What happened here?", "exRu": "Что здесь случилось?"}
+{"i": 241, "id": "a1-0242", "w": "seem", "pos": "verb", "tr": "казаться", "ex": "You seem tired.", "exRu": "Ты выглядишь усталым."}
+{"i": 242, "id": "a1-0243", "w": "let", "pos": "verb", "tr": "позволять", "ex": "Let me help you.", "exRu": "Позволь мне помочь."}
+{"i": 243, "id": "a1-0244", "w": "keep", "pos": "verb", "tr": "хранить", "ex": "Keep the receipt.", "exRu": "Сохрани чек."}
+{"i": 244, "id": "a1-0245", "w": "share", "pos": "verb", "tr": "делиться", "ex": "Share the cake.", "exRu": "Поделись тортом."}
+{"i": 245, "id": "a1-0246", "w": "join", "pos": "verb", "tr": "присоединяться", "ex": "Join our club.", "exRu": "Присоединяйся к клубу."}
+{"i": 246, "id": "a1-0247", "w": "invite", "pos": "verb", "tr": "приглашать", "ex": "Invite your friends.", "exRu": "Пригласи друзей."}
+{"i": 247, "id": "a1-0248", "w": "order", "pos": "verb", "tr": "заказывать", "ex": "I order pizza.", "exRu": "Я заказываю пиццу."}
+{"i": 248, "id": "a1-0249", "w": "plan", "pos": "verb", "tr": "планировать", "ex": "We plan a trip.", "exRu": "Мы планируем поездку."}
+{"i": 249, "id": "a1-0250", "w": "prepare", "pos": "verb", "tr": "готовить", "ex": "Prepare for the test.", "exRu": "Подготовься к тесту."}
+{"i": 250, "id": "a1-0251", "w": "practice", "pos": "verb", "tr": "практиковать", "ex": "Practice every day.", "exRu": "Практикуйся каждый день."}
+{"i": 251, "id": "a1-0252", "w": "repeat", "pos": "verb", "tr": "повторять", "ex": "Repeat after me.", "exRu": "Повторяй за мной."}
+{"i": 252, "id": "a1-0253", "w": "spell", "pos": "verb", "tr": "произносить по буквам", "ex": "Spell your name.", "exRu": "Назови имя по буквам."}
+{"i": 253, "id": "a1-0254", "w": "type", "pos": "verb", "tr": "печатать", "ex": "Type your password.", "exRu": "Введи пароль."}
+{"i": 254, "id": "a1-0255", "w": "click", "pos": "verb", "tr": "кликать", "ex": "Click the blue button.", "exRu": "Нажми синюю кнопку."}
+{"i": 255, "id": "a1-0256", "w": "download", "pos": "verb", "tr": "скачивать", "ex": "Download the file.", "exRu": "Скачай файл."}
+{"i": 256, "id": "a1-0257", "w": "upload", "pos": "verb", "tr": "загружать", "ex": "Upload your photo.", "exRu": "Загрузи фото."}
+{"i": 257, "id": "a1-0258", "w": "search", "pos": "verb", "tr": "искать", "ex": "Search for the word.", "exRu": "Найди это слово."}
+{"i": 258, "id": "a1-0259", "w": "save", "pos": "verb", "tr": "сохранять", "ex": "Save your work.", "exRu": "Сохрани работу."}
+{"i": 259, "id": "a1-0260", "w": "print", "pos": "verb", "tr": "печатать", "ex": "Print this page.", "exRu": "Распечатай страницу."}
+{"i": 260, "id": "a1-0261", "w": "copy", "pos": "verb", "tr": "копировать", "ex": "Copy the text.", "exRu": "Скопируй текст."}
+{"i": 261, "id": "a1-0262", "w": "delete", "pos": "verb", "tr": "удалять", "ex": "Delete old files.", "exRu": "Удали старые файлы."}
+{"i": 262, "id": "a1-0263", "w": "borrow", "pos": "verb", "tr": "брать взаймы", "ex": "May I borrow a pen?", "exRu": "Можно взять ручку?"}
+{"i": 263, "id": "a1-0264", "w": "lend", "pos": "verb", "tr": "давать взаймы", "ex": "Can you lend me money?", "exRu": "Можешь одолжить денег?"}
+{"i": 264, "id": "a1-0265", "w": "smell", "pos": "verb", "tr": "нюхать, пахнуть", "ex": "Smell these flowers.", "exRu": "Понюхай эти цветы."}
+{"i": 265, "id": "a1-0266", "w": "taste", "pos": "verb", "tr": "пробовать на вкус", "ex": "Taste the soup.", "exRu": "Попробуй суп."}
+{"i": 266, "id": "a1-0267", "w": "touch", "pos": "verb", "tr": "трогать", "ex": "Do not touch the paint.", "exRu": "Не трогай краску."}
+{"i": 267, "id": "a1-0268", "w": "throw", "pos": "verb", "tr": "бросать", "ex": "Throw the ball to me.", "exRu": "Брось мне мяч."}
+{"i": 268, "id": "a1-0269", "w": "catch", "pos": "verb", "tr": "ловить", "ex": "Catch the ball!", "exRu": "Лови мяч!"}
+{"i": 269, "id": "a1-0270", "w": "kick", "pos": "verb", "tr": "пинать", "ex": "Kick the ball hard.", "exRu": "Сильно пни мяч."}
+{"i": 270, "id": "a1-0271", "w": "hit", "pos": "verb", "tr": "ударять", "ex": "Do not hit the desk.", "exRu": "Не бей по столу."}
+{"i": 271, "id": "a1-0272", "w": "climb", "pos": "verb", "tr": "лезть", "ex": "Climb the stairs slowly.", "exRu": "Медленно поднимайся по лестнице."}
+{"i": 272, "id": "a1-0273", "w": "fall", "pos": "verb", "tr": "падать", "ex": "Be careful not to fall.", "exRu": "Осторожно, не упади."}
+{"i": 273, "id": "a1-0274", "w": "fill", "pos": "verb", "tr": "наполнять", "ex": "Fill the glass.", "exRu": "Наполни стакан."}
+{"i": 274, "id": "a1-0275", "w": "pour", "pos": "verb", "tr": "наливать", "ex": "Pour some water.", "exRu": "Налей воды."}
+{"i": 275, "id": "a1-0276", "w": "mix", "pos": "verb", "tr": "смешивать", "ex": "Mix flour and eggs.", "exRu": "Смешай муку и яйца."}
+{"i": 276, "id": "a1-0277", "w": "grow", "pos": "verb", "tr": "расти", "ex": "Plants grow in spring.", "exRu": "Растения растут весной."}
+{"i": 277, "id": "a1-0278", "w": "plant", "pos": "verb", "tr": "сажать", "ex": "We plant flowers.", "exRu": "Мы сажаем цветы."}
+{"i": 278, "id": "a1-0279", "w": "rain", "pos": "verb", "tr": "идти (о дожде)", "ex": "It rains a lot here.", "exRu": "Здесь часто идёт дождь."}
+{"i": 279, "id": "a1-0280", "w": "snow", "pos": "verb", "tr": "идти (о снеге)", "ex": "It may snow tonight.", "exRu": "Сегодня ночью может пойти снег."}
+{"i": 280, "id": "a1-0281", "w": "shine", "pos": "verb", "tr": "светить", "ex": "The sun shines brightly.", "exRu": "Солнце ярко светит."}
+{"i": 281, "id": "a1-0282", "w": "blow", "pos": "verb", "tr": "дуть", "ex": "The wind blows hard.", "exRu": "Ветер сильно дует."}
+{"i": 282, "id": "a1-0283", "w": "man", "pos": "noun", "tr": "мужчина", "ex": "That man is tall.", "exRu": "Тот мужчина высокий."}
+{"i": 283, "id": "a1-0284", "w": "woman", "pos": "noun", "tr": "женщина", "ex": "The woman smiles.", "exRu": "Женщина улыбается."}
+{"i": 284, "id": "a1-0285", "w": "boy", "pos": "noun", "tr": "мальчик", "ex": "The boy runs fast.", "exRu": "Мальчик быстро бежит."}
+{"i": 285, "id": "a1-0286", "w": "girl", "pos": "noun", "tr": "девочка", "ex": "The girl reads a book.", "exRu": "Девочка читает книгу."}
+{"i": 286, "id": "a1-0287", "w": "child", "pos": "noun", "tr": "ребёнок", "ex": "Every child needs love.", "exRu": "Каждому ребёнку нужна любовь."}
+{"i": 287, "id": "a1-0288", "w": "children", "pos": "noun", "tr": "дети", "ex": "The children play outside.", "exRu": "Дети играют на улице."}
+{"i": 288, "id": "a1-0289", "w": "baby", "pos": "noun", "tr": "малыш", "ex": "The baby is sleeping.", "exRu": "Малыш спит."}
+{"i": 289, "id": "a1-0290", "w": "friend", "pos": "noun", "tr": "друг", "ex": "He is my best friend.", "exRu": "Он мой лучший друг."}
+{"i": 290, "id": "a1-0291", "w": "family", "pos": "noun", "tr": "семья", "ex": "My family is big.", "exRu": "У меня большая семья."}
+{"i": 291, "id": "a1-0292", "w": "mother", "pos": "noun", "tr": "мать", "ex": "My mother cooks well.", "exRu": "Моя мама хорошо готовит."}
+{"i": 292, "id": "a1-0293", "w": "father", "pos": "noun", "tr": "отец", "ex": "My father works hard.", "exRu": "Мой отец много работает."}
+{"i": 293, "id": "a1-0294", "w": "parent", "pos": "noun", "tr": "родитель", "ex": "Ask your parent first.", "exRu": "Сначала спроси родителя."}
+{"i": 294, "id": "a1-0295", "w": "mom", "pos": "noun", "tr": "мама", "ex": "Mom is at home.", "exRu": "Мама дома."}
+{"i": 295, "id": "a1-0296", "w": "dad", "pos": "noun", "tr": "папа", "ex": "Dad drives a car.", "exRu": "Папа водит машину."}
+{"i": 296, "id": "a1-0297", "w": "sister", "pos": "noun", "tr": "сестра", "ex": "My sister is younger.", "exRu": "Моя сестра младше."}
+{"i": 297, "id": "a1-0298", "w": "brother", "pos": "noun", "tr": "брат", "ex": "My brother plays soccer.", "exRu": "Мой брат играет в футбол."}
+{"i": 298, "id": "a1-0299", "w": "son", "pos": "noun", "tr": "сын", "ex": "Their son is five.", "exRu": "Их сыну пять."}
+{"i": 299, "id": "a1-0300", "w": "daughter", "pos": "noun", "tr": "дочь", "ex": "Their daughter sings.", "exRu": "Их дочь поёт."}
+{"i": 300, "id": "a1-0301", "w": "husband", "pos": "noun", "tr": "муж", "ex": "Her husband is kind.", "exRu": "Её муж добрый."}
+{"i": 301, "id": "a1-0302", "w": "wife", "pos": "noun", "tr": "жена", "ex": "His wife teaches art.", "exRu": "Его жена преподаёт искусство."}
+{"i": 302, "id": "a1-0303", "w": "uncle", "pos": "noun", "tr": "дядя", "ex": "My uncle lives nearby.", "exRu": "Мой дядя живёт рядом."}
+{"i": 303, "id": "a1-0304", "w": "aunt", "pos": "noun", "tr": "тётя", "ex": "My aunt visits us.", "exRu": "Моя тётя нас навещает."}
+{"i": 304, "id": "a1-0305", "w": "cousin", "pos": "noun", "tr": "двоюродный брат/сестра", "ex": "My cousin is funny.", "exRu": "Мой кузен весёлый."}
+{"i": 305, "id": "a1-0306", "w": "grandma", "pos": "noun", "tr": "бабушка", "ex": "Grandma tells stories.", "exRu": "Бабушка рассказывает истории."}
+{"i": 306, "id": "a1-0307", "w": "grandpa", "pos": "noun", "tr": "дедушка", "ex": "Grandpa walks slowly.", "exRu": "Дедушка ходит медленно."}
+{"i": 307, "id": "a1-0308", "w": "neighbor", "pos": "noun", "tr": "сосед", "ex": "Our neighbor is quiet.", "exRu": "Наш сосед тихий."}
+{"i": 308, "id": "a1-0309", "w": "guest", "pos": "noun", "tr": "гость", "ex": "We have a guest tonight.", "exRu": "У нас сегодня гость."}
+{"i": 309, "id": "a1-0310", "w": "people", "pos": "noun", "tr": "люди", "ex": "Many people like tea.", "exRu": "Многие любят чай."}
+{"i": 310, "id": "a1-0311", "w": "person", "pos": "noun", "tr": "человек", "ex": "She is a kind person.", "exRu": "Она добрый человек."}
+{"i": 311, "id": "a1-0312", "w": "name", "pos": "noun", "tr": "имя", "ex": "What is your name?", "exRu": "Как тебя зовут?"}
+{"i": 312, "id": "a1-0313", "w": "age", "pos": "noun", "tr": "возраст", "ex": "What is your age?", "exRu": "Сколько тебе лет?"}
+{"i": 313, "id": "a1-0314", "w": "teacher", "pos": "noun", "tr": "учитель", "ex": "Our teacher is patient.", "exRu": "Наш учитель терпеливый."}
+{"i": 314, "id": "a1-0315", "w": "student", "pos": "noun", "tr": "ученик", "ex": "I am a student.", "exRu": "Я студент."}
+{"i": 315, "id": "a1-0316", "w": "doctor", "pos": "noun", "tr": "врач", "ex": "The doctor helps people.", "exRu": "Врач помогает людям."}
+{"i": 316, "id": "a1-0317", "w": "nurse", "pos": "noun", "tr": "медсестра", "ex": "The nurse is kind.", "exRu": "Медсестра добрая."}
+{"i": 317, "id": "a1-0318", "w": "driver", "pos": "noun", "tr": "водитель", "ex": "The driver waits outside.", "exRu": "Водитель ждёт снаружи."}
+{"i": 318, "id": "a1-0319", "w": "waiter", "pos": "noun", "tr": "официант", "ex": "The waiter brings water.", "exRu": "Официант приносит воду."}
+{"i": 319, "id": "a1-0320", "w": "worker", "pos": "noun", "tr": "рабочий", "ex": "The worker wears a helmet.", "exRu": "Рабочий носит каску."}
+{"i": 320, "id": "a1-0321", "w": "engineer", "pos": "noun", "tr": "инженер", "ex": "She is an engineer.", "exRu": "Она инженер."}
+{"i": 321, "id": "a1-0322", "w": "manager", "pos": "noun", "tr": "менеджер", "ex": "The manager starts early.", "exRu": "Менеджер начинает рано."}
+{"i": 322, "id": "a1-0323", "w": "boss", "pos": "noun", "tr": "начальник", "ex": "My boss is fair.", "exRu": "Мой начальник справедливый."}
+{"i": 323, "id": "a1-0324", "w": "police", "pos": "noun", "tr": "полиция", "ex": "Call the police now.", "exRu": "Вызови полицию."}
+{"i": 324, "id": "a1-0325", "w": "officer", "pos": "noun", "tr": "офицер", "ex": "The officer asks questions.", "exRu": "Офицер задаёт вопросы."}
+{"i": 325, "id": "a1-0326", "w": "firefighter", "pos": "noun", "tr": "пожарный", "ex": "A firefighter is brave.", "exRu": "Пожарный смелый."}
+{"i": 326, "id": "a1-0327", "w": "farmer", "pos": "noun", "tr": "фермер", "ex": "The farmer grows wheat.", "exRu": "Фермер выращивает пшеницу."}
+{"i": 327, "id": "a1-0328", "w": "artist", "pos": "noun", "tr": "художник", "ex": "The artist paints well.", "exRu": "Художник хорошо рисует."}
+{"i": 328, "id": "a1-0329", "w": "singer", "pos": "noun", "tr": "певец", "ex": "The singer is famous.", "exRu": "Певец знаменит."}
+{"i": 329, "id": "a1-0330", "w": "actor", "pos": "noun", "tr": "актёр", "ex": "The actor smiles on stage.", "exRu": "Актёр улыбается на сцене."}
+{"i": 330, "id": "a1-0331", "w": "writer", "pos": "noun", "tr": "писатель", "ex": "The writer works at night.", "exRu": "Писатель работает ночью."}
+{"i": 331, "id": "a1-0332", "w": "pilot", "pos": "noun", "tr": "пилот", "ex": "The pilot flies planes.", "exRu": "Пилот летает на самолётах."}
+{"i": 332, "id": "a1-0333", "w": "lawyer", "pos": "noun", "tr": "юрист", "ex": "The lawyer reads papers.", "exRu": "Юрист читает бумаги."}
+{"i": 333, "id": "a1-0334", "w": "scientist", "pos": "noun", "tr": "учёный", "ex": "A scientist asks why.", "exRu": "Учёный спрашивает почему."}
+{"i": 334, "id": "a1-0335", "w": "programmer", "pos": "noun", "tr": "программист", "ex": "The programmer writes code.", "exRu": "Программист пишет код."}
+{"i": 335, "id": "a1-0336", "w": "head", "pos": "noun", "tr": "голова", "ex": "My head hurts today.", "exRu": "У меня болит голова."}
+{"i": 336, "id": "a1-0337", "w": "face", "pos": "noun", "tr": "лицо", "ex": "Wash your face.", "exRu": "Умой лицо."}
+{"i": 337, "id": "a1-0338", "w": "eye", "pos": "noun", "tr": "глаз", "ex": "Her eye is blue.", "exRu": "Её глаз голубой."}
+{"i": 338, "id": "a1-0339", "w": "ear", "pos": "noun", "tr": "ухо", "ex": "My left ear itches.", "exRu": "Чешется левое ухо."}
+{"i": 339, "id": "a1-0340", "w": "nose", "pos": "noun", "tr": "нос", "ex": "His nose is cold.", "exRu": "У него холодный нос."}
+{"i": 340, "id": "a1-0341", "w": "mouth", "pos": "noun", "tr": "рот", "ex": "Open your mouth.", "exRu": "Открой рот."}
+{"i": 341, "id": "a1-0342", "w": "tooth", "pos": "noun", "tr": "зуб", "ex": "This tooth is broken.", "exRu": "Этот зуб сломан."}
+{"i": 342, "id": "a1-0343", "w": "teeth", "pos": "noun", "tr": "зубы", "ex": "Brush your teeth.", "exRu": "Почисти зубы."}
+{"i": 343, "id": "a1-0344", "w": "hair", "pos": "noun", "tr": "волосы", "ex": "Her hair is long.", "exRu": "У неё длинные волосы."}
+{"i": 344, "id": "a1-0345", "w": "neck", "pos": "noun", "tr": "шея", "ex": "My neck is stiff.", "exRu": "У меня затекла шея."}
+{"i": 345, "id": "a1-0346", "w": "shoulder", "pos": "noun", "tr": "плечо", "ex": "I hurt my shoulder.", "exRu": "Я ушиб плечо."}
+{"i": 346, "id": "a1-0347", "w": "arm", "pos": "noun", "tr": "рука", "ex": "Raise your arm.", "exRu": "Подними руку."}
+{"i": 347, "id": "a1-0348", "w": "hand", "pos": "noun", "tr": "кисть", "ex": "Wash your hands.", "exRu": "Вымой руки."}
+{"i": 348, "id": "a1-0349", "w": "finger", "pos": "noun", "tr": "палец", "ex": "My finger is red.", "exRu": "Мой палец красный."}
+{"i": 349, "id": "a1-0350", "w": "leg", "pos": "noun", "tr": "нога", "ex": "My leg feels better.", "exRu": "Ноге лучше."}
+{"i": 350, "id": "a1-0351", "w": "foot", "pos": "noun", "tr": "ступня", "ex": "My foot is wet.", "exRu": "Ступня мокрая."}
+{"i": 351, "id": "a1-0352", "w": "feet", "pos": "noun", "tr": "ступни", "ex": "My feet are tired.", "exRu": "Ноги устали."}
+{"i": 352, "id": "a1-0353", "w": "knee", "pos": "noun", "tr": "колено", "ex": "He bends his knee.", "exRu": "Он сгибает колено."}
+{"i": 353, "id": "a1-0354", "w": "back", "pos": "noun", "tr": "спина", "ex": "My back is sore.", "exRu": "У меня болит спина."}
+{"i": 354, "id": "a1-0355", "w": "stomach", "pos": "noun", "tr": "живот", "ex": "My stomach is full.", "exRu": "Живот полный."}
+{"i": 355, "id": "a1-0356", "w": "heart", "pos": "noun", "tr": "сердце", "ex": "My heart beats fast.", "exRu": "Сердце бьётся быстро."}
+{"i": 356, "id": "a1-0357", "w": "blood", "pos": "noun", "tr": "кровь", "ex": "Blood is red.", "exRu": "Кровь красная."}
+{"i": 357, "id": "a1-0358", "w": "body", "pos": "noun", "tr": "тело", "ex": "Take care of your body.", "exRu": "Береги тело."}
+{"i": 358, "id": "a1-0359", "w": "house", "pos": "noun", "tr": "дом", "ex": "Our house is old.", "exRu": "Наш дом старый."}
+{"i": 359, "id": "a1-0360", "w": "home", "pos": "noun", "tr": "дом", "ex": "I go home now.", "exRu": "Я иду домой."}
+{"i": 360, "id": "a1-0361", "w": "apartment", "pos": "noun", "tr": "квартира", "ex": "I live in an apartment.", "exRu": "Я живу в квартире."}
+{"i": 361, "id": "a1-0362", "w": "room", "pos": "noun", "tr": "комната", "ex": "This room is bright.", "exRu": "Комната светлая."}
+{"i": 362, "id": "a1-0363", "w": "kitchen", "pos": "noun", "tr": "кухня", "ex": "The kitchen is clean.", "exRu": "Кухня чистая."}
+{"i": 363, "id": "a1-0364", "w": "bathroom", "pos": "noun", "tr": "ванная", "ex": "The bathroom is small.", "exRu": "Ванная маленькая."}
+{"i": 364, "id": "a1-0365", "w": "bedroom", "pos": "noun", "tr": "спальня", "ex": "My bedroom is quiet.", "exRu": "Спальня тихая."}
+{"i": 365, "id": "a1-0366", "w": "garden", "pos": "noun", "tr": "сад", "ex": "Flowers grow in the garden.", "exRu": "В саду растут цветы."}
+{"i": 366, "id": "a1-0367", "w": "yard", "pos": "noun", "tr": "двор", "ex": "Kids play in the yard.", "exRu": "Дети играют во дворе."}
+{"i": 367, "id": "a1-0368", "w": "door", "pos": "noun", "tr": "дверь", "ex": "Close the door, please.", "exRu": "Закрой дверь."}
+{"i": 368, "id": "a1-0369", "w": "window", "pos": "noun", "tr": "окно", "ex": "Open the window.", "exRu": "Открой окно."}
+{"i": 369, "id": "a1-0370", "w": "wall", "pos": "noun", "tr": "стена", "ex": "Hang it on the wall.", "exRu": "Повесь на стену."}
+{"i": 370, "id": "a1-0371", "w": "floor", "pos": "noun", "tr": "пол", "ex": "The floor is wet.", "exRu": "Пол мокрый."}
+{"i": 371, "id": "a1-0372", "w": "ceiling", "pos": "noun", "tr": "потолок", "ex": "The ceiling is white.", "exRu": "Потолок белый."}
+{"i": 372, "id": "a1-0373", "w": "roof", "pos": "noun", "tr": "крыша", "ex": "The roof needs repair.", "exRu": "Крыше нужен ремонт."}
+{"i": 373, "id": "a1-0374", "w": "stairs", "pos": "noun", "tr": "лестница", "ex": "Be careful on the stairs.", "exRu": "Осторожнее на лестнице."}
+{"i": 374, "id": "a1-0375", "w": "elevator", "pos": "noun", "tr": "лифт", "ex": "Take the elevator up.", "exRu": "Поднимись на лифте."}
+{"i": 375, "id": "a1-0376", "w": "key", "pos": "noun", "tr": "ключ", "ex": "I lost my key.", "exRu": "Я потерял ключ."}
+{"i": 376, "id": "a1-0377", "w": "lock", "pos": "noun", "tr": "замок", "ex": "The lock is broken.", "exRu": "Замок сломан."}
+{"i": 377, "id": "a1-0378", "w": "table", "pos": "noun", "tr": "стол", "ex": "Put it on the table.", "exRu": "Положи на стол."}
+{"i": 378, "id": "a1-0379", "w": "desk", "pos": "noun", "tr": "письменный стол", "ex": "My desk is tidy.", "exRu": "Стол аккуратный."}
+{"i": 379, "id": "a1-0380", "w": "chair", "pos": "noun", "tr": "стул", "ex": "Sit on this chair.", "exRu": "Сядь на стул."}
+{"i": 380, "id": "a1-0381", "w": "sofa", "pos": "noun", "tr": "диван", "ex": "The sofa is soft.", "exRu": "Диван мягкий."}
+{"i": 381, "id": "a1-0382", "w": "bed", "pos": "noun", "tr": "кровать", "ex": "I make the bed.", "exRu": "Я заправляю кровать."}
+{"i": 382, "id": "a1-0383", "w": "lamp", "pos": "noun", "tr": "лампа", "ex": "Turn on the lamp.", "exRu": "Включи лампу."}
+{"i": 383, "id": "a1-0384", "w": "light", "pos": "noun", "tr": "свет", "ex": "The light is bright.", "exRu": "Свет яркий."}
+{"i": 384, "id": "a1-0385", "w": "mirror", "pos": "noun", "tr": "зеркало", "ex": "Look in the mirror.", "exRu": "Посмотри в зеркало."}
+{"i": 385, "id": "a1-0386", "w": "shelf", "pos": "noun", "tr": "полка", "ex": "Books are on the shelf.", "exRu": "Книги на полке."}
+{"i": 386, "id": "a1-0387", "w": "closet", "pos": "noun", "tr": "шкаф", "ex": "Coats hang in the closet.", "exRu": "Пальто в шкафу."}
+{"i": 387, "id": "a1-0388", "w": "curtain", "pos": "noun", "tr": "штора", "ex": "Close the curtain.", "exRu": "Закрой штору."}
+{"i": 388, "id": "a1-0389", "w": "carpet", "pos": "noun", "tr": "ковёр", "ex": "The carpet is blue.", "exRu": "Ковёр синий."}
+{"i": 389, "id": "a1-0390", "w": "clock", "pos": "noun", "tr": "часы", "ex": "The clock shows noon.", "exRu": "Часы показывают полдень."}
+{"i": 390, "id": "a1-0391", "w": "picture", "pos": "noun", "tr": "картина", "ex": "A picture hangs here.", "exRu": "Здесь висит картина."}
+{"i": 391, "id": "a1-0392", "w": "photo", "pos": "noun", "tr": "фото", "ex": "This photo is old.", "exRu": "Это фото старое."}
+{"i": 392, "id": "a1-0393", "w": "phone", "pos": "noun", "tr": "телефон", "ex": "My phone is charging.", "exRu": "Телефон заряжается."}
+{"i": 393, "id": "a1-0394", "w": "computer", "pos": "noun", "tr": "компьютер", "ex": "I use a computer daily.", "exRu": "Я пользуюсь компьютером."}
+{"i": 394, "id": "a1-0395", "w": "laptop", "pos": "noun", "tr": "ноутбук", "ex": "My laptop is new.", "exRu": "Ноутбук новый."}
+{"i": 395, "id": "a1-0396", "w": "screen", "pos": "noun", "tr": "экран", "ex": "The screen is dark.", "exRu": "Экран тёмный."}
+{"i": 396, "id": "a1-0397", "w": "keyboard", "pos": "noun", "tr": "клавиатура", "ex": "Clean the keyboard.", "exRu": "Почисти клавиатуру."}
+{"i": 397, "id": "a1-0398", "w": "mouse", "pos": "noun", "tr": "мышь", "ex": "Click with the mouse.", "exRu": "Кликни мышью."}
+{"i": 398, "id": "a1-0399", "w": "tv", "pos": "noun", "tr": "телевизор", "ex": "We watch TV at night.", "exRu": "Мы смотрим ТВ вечером."}
+{"i": 399, "id": "a1-0400", "w": "radio", "pos": "noun", "tr": "радио", "ex": "Turn on the radio.", "exRu": "Включи радио."}
+{"i": 400, "id": "a1-0401", "w": "camera", "pos": "noun", "tr": "камера", "ex": "The camera takes photos.", "exRu": "Камера делает фото."}
+{"i": 401, "id": "a1-0402", "w": "battery", "pos": "noun", "tr": "батарейка", "ex": "The battery is low.", "exRu": "Батарея садится."}
+{"i": 402, "id": "a1-0403", "w": "charger", "pos": "noun", "tr": "зарядка", "ex": "Where is the charger?", "exRu": "Где зарядка?"}
+{"i": 403, "id": "a1-0404", "w": "bag", "pos": "noun", "tr": "сумка", "ex": "Pack your bag.", "exRu": "Собери сумку."}
+{"i": 404, "id": "a1-0405", "w": "box", "pos": "noun", "tr": "коробка", "ex": "Open the box carefully.", "exRu": "Осторожно открой коробку."}
+{"i": 405, "id": "a1-0406", "w": "bottle", "pos": "noun", "tr": "бутылка", "ex": "This bottle is empty.", "exRu": "Бутылка пустая."}
+{"i": 406, "id": "a1-0407", "w": "cup", "pos": "noun", "tr": "чашка", "ex": "I need a clean cup.", "exRu": "Мне нужна чистая чашка."}
+{"i": 407, "id": "a1-0408", "w": "glass", "pos": "noun", "tr": "стакан", "ex": "Fill the glass with water.", "exRu": "Наполни стакан водой."}
+{"i": 408, "id": "a1-0409", "w": "plate", "pos": "noun", "tr": "тарелка", "ex": "Wash the plate.", "exRu": "Вымой тарелку."}
+{"i": 409, "id": "a1-0410", "w": "bowl", "pos": "noun", "tr": "миска", "ex": "Soup is in the bowl.", "exRu": "Суп в миске."}
+{"i": 410, "id": "a1-0411", "w": "knife", "pos": "noun", "tr": "нож", "ex": "Be careful with the knife.", "exRu": "Осторожнее с ножом."}
+{"i": 411, "id": "a1-0412", "w": "fork", "pos": "noun", "tr": "вилка", "ex": "Use a fork and knife.", "exRu": "Используй вилку и нож."}
+{"i": 412, "id": "a1-0413", "w": "spoon", "pos": "noun", "tr": "ложка", "ex": "Stir with a spoon.", "exRu": "Размешай ложкой."}
+{"i": 413, "id": "a1-0414", "w": "pan", "pos": "noun", "tr": "сковорода", "ex": "Heat the pan first.", "exRu": "Сначала нагрей сковороду."}
+{"i": 414, "id": "a1-0415", "w": "pot", "pos": "noun", "tr": "кастрюля", "ex": "The pot is hot.", "exRu": "Кастрюля горячая."}
+{"i": 415, "id": "a1-0416", "w": "fridge", "pos": "noun", "tr": "холодильник", "ex": "Milk is in the fridge.", "exRu": "Молоко в холодильнике."}
+{"i": 416, "id": "a1-0417", "w": "oven", "pos": "noun", "tr": "духовка", "ex": "Bake it in the oven.", "exRu": "Испеки в духовке."}
+{"i": 417, "id": "a1-0418", "w": "sink", "pos": "noun", "tr": "раковина", "ex": "Wash dishes in the sink.", "exRu": "Мой посуду в раковине."}
+{"i": 418, "id": "a1-0419", "w": "soap", "pos": "noun", "tr": "мыло", "ex": "Use soap and water.", "exRu": "Используй мыло и воду."}
+{"i": 419, "id": "a1-0420", "w": "towel", "pos": "noun", "tr": "полотенце", "ex": "Dry your hands with a towel.", "exRu": "Вытри руки полотенцем."}
+{"i": 420, "id": "a1-0421", "w": "toothbrush", "pos": "noun", "tr": "зубная щётка", "ex": "I need a new toothbrush.", "exRu": "Мне нужна новая щётка."}
+{"i": 421, "id": "a1-0422", "w": "shampoo", "pos": "noun", "tr": "шампунь", "ex": "Buy more shampoo.", "exRu": "Купи ещё шампунь."}
+{"i": 422, "id": "a1-0423", "w": "trash", "pos": "noun", "tr": "мусор", "ex": "Take out the trash.", "exRu": "Вынеси мусор."}
+{"i": 423, "id": "a1-0424", "w": "bin", "pos": "noun", "tr": "урна", "ex": "Put it in the bin.", "exRu": "Положи в урну."}
+{"i": 424, "id": "a1-0425", "w": "clothes", "pos": "noun", "tr": "одежда", "ex": "Wash your clothes today.", "exRu": "Постирай одежду."}
+{"i": 425, "id": "a1-0426", "w": "shirt", "pos": "noun", "tr": "рубашка", "ex": "This shirt is blue.", "exRu": "Рубашка синяя."}
+{"i": 426, "id": "a1-0427", "w": "t-shirt", "pos": "noun", "tr": "футболка", "ex": "I wear a t-shirt.", "exRu": "Я ношу футболку."}
+{"i": 427, "id": "a1-0428", "w": "pants", "pos": "noun", "tr": "брюки", "ex": "These pants are long.", "exRu": "Брюки длинные."}
+{"i": 428, "id": "a1-0429", "w": "jeans", "pos": "noun", "tr": "джинсы", "ex": "My jeans are old.", "exRu": "Джинсы старые."}
+{"i": 429, "id": "a1-0430", "w": "dress", "pos": "noun", "tr": "платье", "ex": "She wears a red dress.", "exRu": "Она в красном платье."}
+{"i": 430, "id": "a1-0431", "w": "skirt", "pos": "noun", "tr": "юбка", "ex": "The skirt is short.", "exRu": "Юбка короткая."}
+{"i": 431, "id": "a1-0432", "w": "jacket", "pos": "noun", "tr": "куртка", "ex": "Wear a warm jacket.", "exRu": "Надень тёплую куртку."}
+{"i": 432, "id": "a1-0433", "w": "coat", "pos": "noun", "tr": "пальто", "ex": "Hang up your coat.", "exRu": "Повесь пальто."}
+{"i": 433, "id": "a1-0434", "w": "sweater", "pos": "noun", "tr": "свитер", "ex": "This sweater is soft.", "exRu": "Свитер мягкий."}
+{"i": 434, "id": "a1-0435", "w": "hat", "pos": "noun", "tr": "шапка", "ex": "Put on your hat.", "exRu": "Надень шапку."}
+{"i": 435, "id": "a1-0436", "w": "cap", "pos": "noun", "tr": "кепка", "ex": "His cap is black.", "exRu": "Кепка чёрная."}
+{"i": 436, "id": "a1-0437", "w": "scarf", "pos": "noun", "tr": "шарф", "ex": "A scarf keeps you warm.", "exRu": "Шарф согревает."}
+{"i": 437, "id": "a1-0438", "w": "gloves", "pos": "noun", "tr": "перчатки", "ex": "Wear gloves in winter.", "exRu": "Носи перчатки зимой."}
+{"i": 438, "id": "a1-0439", "w": "socks", "pos": "noun", "tr": "носки", "ex": "I need clean socks.", "exRu": "Нужны чистые носки."}
+{"i": 439, "id": "a1-0440", "w": "shoes", "pos": "noun", "tr": "обувь", "ex": "These shoes are tight.", "exRu": "Туфли тесные."}
+{"i": 440, "id": "a1-0441", "w": "boots", "pos": "noun", "tr": "ботинки", "ex": "Wear boots in the snow.", "exRu": "Носи ботинки в снегу."}
+{"i": 441, "id": "a1-0442", "w": "sneakers", "pos": "noun", "tr": "кроссовки", "ex": "I run in sneakers.", "exRu": "Я бегаю в кроссовках."}
+{"i": 442, "id": "a1-0443", "w": "belt", "pos": "noun", "tr": "ремень", "ex": "Tighten your belt.", "exRu": "Затяни ремень."}
+{"i": 443, "id": "a1-0444", "w": "button", "pos": "noun", "tr": "пуговица", "ex": "This button is loose.", "exRu": "Пуговица болтается."}
+{"i": 444, "id": "a1-0445", "w": "pocket", "pos": "noun", "tr": "карман", "ex": "Keys are in my pocket.", "exRu": "Ключи в кармане."}
+{"i": 445, "id": "a1-0446", "w": "umbrella", "pos": "noun", "tr": "зонт", "ex": "Take an umbrella today.", "exRu": "Возьми зонт."}
+{"i": 446, "id": "a1-0447", "w": "glasses", "pos": "noun", "tr": "очки", "ex": "I wear glasses.", "exRu": "Я ношу очки."}
+{"i": 447, "id": "a1-0448", "w": "ring", "pos": "noun", "tr": "кольцо", "ex": "The ring is gold.", "exRu": "Кольцо золотое."}
+{"i": 448, "id": "a1-0449", "w": "necklace", "pos": "noun", "tr": "ожерелье", "ex": "She wears a necklace.", "exRu": "Она носит ожерелье."}
+{"i": 449, "id": "a1-0450", "w": "food", "pos": "noun", "tr": "еда", "ex": "The food is delicious.", "exRu": "Еда вкусная."}
+{"i": 450, "id": "a1-0451", "w": "meal", "pos": "noun", "tr": "приём пищи", "ex": "Lunch is my main meal.", "exRu": "Обед — основной приём пищи."}
+{"i": 451, "id": "a1-0452", "w": "breakfast", "pos": "noun", "tr": "завтрак", "ex": "Breakfast is ready.", "exRu": "Завтрак готов."}
+{"i": 452, "id": "a1-0453", "w": "lunch", "pos": "noun", "tr": "обед", "ex": "I eat lunch at noon.", "exRu": "Я обедаю в полдень."}
+{"i": 453, "id": "a1-0454", "w": "dinner", "pos": "noun", "tr": "ужин", "ex": "Dinner is at seven.", "exRu": "Ужин в семь."}
+{"i": 454, "id": "a1-0455", "w": "snack", "pos": "noun", "tr": "перекус", "ex": "I need a small snack.", "exRu": "Нужен лёгкий перекус."}
+{"i": 455, "id": "a1-0456", "w": "bread", "pos": "noun", "tr": "хлеб", "ex": "Fresh bread smells good.", "exRu": "Свежий хлеб вкусно пахнет."}
+{"i": 456, "id": "a1-0457", "w": "butter", "pos": "noun", "tr": "масло", "ex": "Spread butter on toast.", "exRu": "Намажь масло на тост."}
+{"i": 457, "id": "a1-0458", "w": "cheese", "pos": "noun", "tr": "сыр", "ex": "I like soft cheese.", "exRu": "Мне нравится мягкий сыр."}
+{"i": 458, "id": "a1-0459", "w": "egg", "pos": "noun", "tr": "яйцо", "ex": "Boil an egg.", "exRu": "Свари яйцо."}
+{"i": 459, "id": "a1-0460", "w": "meat", "pos": "noun", "tr": "мясо", "ex": "Do you eat meat?", "exRu": "Ты ешь мясо?"}
+{"i": 460, "id": "a1-0461", "w": "chicken", "pos": "noun", "tr": "курица", "ex": "We cook chicken tonight.", "exRu": "Готовим курицу."}
+{"i": 461, "id": "a1-0462", "w": "fish", "pos": "noun", "tr": "рыба", "ex": "Fish is healthy food.", "exRu": "Рыба — здоровая еда."}
+{"i": 462, "id": "a1-0463", "w": "beef", "pos": "noun", "tr": "говядина", "ex": "This beef is tender.", "exRu": "Говядина нежная."}
+{"i": 463, "id": "a1-0464", "w": "pork", "pos": "noun", "tr": "свинина", "ex": "Pork needs good cooking.", "exRu": "Свинину нужно хорошо готовить."}
+{"i": 464, "id": "a1-0465", "w": "rice", "pos": "noun", "tr": "рис", "ex": "Rice with vegetables.", "exRu": "Рис с овощами."}
+{"i": 465, "id": "a1-0466", "w": "pasta", "pos": "noun", "tr": "паста", "ex": "Pasta is easy to cook.", "exRu": "Пасту легко готовить."}
+{"i": 466, "id": "a1-0467", "w": "soup", "pos": "noun", "tr": "суп", "ex": "Hot soup warms you.", "exRu": "Горячий суп согревает."}
+{"i": 467, "id": "a1-0468", "w": "salad", "pos": "noun", "tr": "салат", "ex": "I order a salad.", "exRu": "Я заказываю салат."}
+{"i": 468, "id": "a1-0469", "w": "sandwich", "pos": "noun", "tr": "бутерброд", "ex": "Make a cheese sandwich.", "exRu": "Сделай бутерброд с сыром."}
+{"i": 469, "id": "a1-0470", "w": "pizza", "pos": "noun", "tr": "пицца", "ex": "We share a pizza.", "exRu": "Мы делим пиццу."}
+{"i": 470, "id": "a1-0471", "w": "burger", "pos": "noun", "tr": "бургер", "ex": "This burger is huge.", "exRu": "Бургер огромный."}
+{"i": 471, "id": "a1-0472", "w": "fries", "pos": "noun", "tr": "картофель фри", "ex": "Fries are salty.", "exRu": "Фри солёные."}
+{"i": 472, "id": "a1-0473", "w": "fruit", "pos": "noun", "tr": "фрукт", "ex": "Eat more fruit.", "exRu": "Ешь больше фруктов."}
+{"i": 473, "id": "a1-0474", "w": "apple", "pos": "noun", "tr": "яблоко", "ex": "I eat an apple.", "exRu": "Я ем яблоко."}
+{"i": 474, "id": "a1-0475", "w": "banana", "pos": "noun", "tr": "банан", "ex": "The banana is ripe.", "exRu": "Банан спелый."}
+{"i": 475, "id": "a1-0476", "w": "orange", "pos": "noun", "tr": "апельсин", "ex": "Peel the orange.", "exRu": "Очисти апельсин."}
+{"i": 476, "id": "a1-0477", "w": "lemon", "pos": "noun", "tr": "лимон", "ex": "Add lemon to tea.", "exRu": "Добавь лимон в чай."}
+{"i": 477, "id": "a1-0478", "w": "grape", "pos": "noun", "tr": "виноград", "ex": "This grape is sweet.", "exRu": "Виноградина сладкая."}
+{"i": 478, "id": "a1-0479", "w": "strawberry", "pos": "noun", "tr": "клубника", "ex": "Strawberry jam is sweet.", "exRu": "Клубничное варенье сладкое."}
+{"i": 479, "id": "a1-0480", "w": "watermelon", "pos": "noun", "tr": "арбуз", "ex": "Watermelon is juicy.", "exRu": "Арбуз сочный."}
+{"i": 480, "id": "a1-0481", "w": "vegetable", "pos": "noun", "tr": "овощ", "ex": "Eat a green vegetable.", "exRu": "Съешь зелёный овощ."}
+{"i": 481, "id": "a1-0482", "w": "tomato", "pos": "noun", "tr": "помидор", "ex": "Slice the tomato.", "exRu": "Нарежь помидор."}
+{"i": 482, "id": "a1-0483", "w": "potato", "pos": "noun", "tr": "картофель", "ex": "Boil the potato.", "exRu": "Свари картофель."}
+{"i": 483, "id": "a1-0484", "w": "carrot", "pos": "noun", "tr": "морковь", "ex": "Rabbits like carrot.", "exRu": "Кролики любят морковь."}
+{"i": 484, "id": "a1-0485", "w": "onion", "pos": "noun", "tr": "лук", "ex": "Chop the onion finely.", "exRu": "Мелко нарежь лук."}
+{"i": 485, "id": "a1-0486", "w": "garlic", "pos": "noun", "tr": "чеснок", "ex": "Add garlic for taste.", "exRu": "Добавь чеснок."}
+{"i": 486, "id": "a1-0487", "w": "pepper", "pos": "noun", "tr": "перец", "ex": "Black pepper is spicy.", "exRu": "Чёрный перец острый."}
+{"i": 487, "id": "a1-0488", "w": "salt", "pos": "noun", "tr": "соль", "ex": "Do not add much salt.", "exRu": "Не добавляй много соли."}
+{"i": 488, "id": "a1-0489", "w": "sugar", "pos": "noun", "tr": "сахар", "ex": "I take little sugar.", "exRu": "Я беру мало сахара."}
+{"i": 489, "id": "a1-0490", "w": "oil", "pos": "noun", "tr": "масло растительное", "ex": "Cook with olive oil.", "exRu": "Готовь на оливковом масле."}
+{"i": 490, "id": "a1-0491", "w": "flour", "pos": "noun", "tr": "мука", "ex": "Mix flour and water.", "exRu": "Смешай муку и воду."}
+{"i": 491, "id": "a1-0492", "w": "cake", "pos": "noun", "tr": "торт", "ex": "Birthday cake is ready.", "exRu": "Торт готов."}
+{"i": 492, "id": "a1-0493", "w": "cookie", "pos": "noun", "tr": "печенье", "ex": "I ate one cookie.", "exRu": "Я съел печенье."}
+{"i": 493, "id": "a1-0494", "w": "chocolate", "pos": "noun", "tr": "шоколад", "ex": "Dark chocolate is bitter.", "exRu": "Тёмный шоколад горький."}
+{"i": 494, "id": "a1-0495", "w": "ice cream", "pos": "noun", "tr": "мороженое", "ex": "Ice cream melts fast.", "exRu": "Мороженое быстро тает."}
+{"i": 495, "id": "a1-0496", "w": "honey", "pos": "noun", "tr": "мёд", "ex": "Honey is natural sweet.", "exRu": "Мёд — натуральная сладость."}
+{"i": 496, "id": "a1-0497", "w": "jam", "pos": "noun", "tr": "джем", "ex": "Toast with strawberry jam.", "exRu": "Тост с клубничным джемом."}
+{"i": 497, "id": "a1-0498", "w": "water", "pos": "noun", "tr": "вода", "ex": "Drink clean water.", "exRu": "Пей чистую воду."}
+{"i": 498, "id": "a1-0499", "w": "milk", "pos": "noun", "tr": "молоко", "ex": "Cold milk tastes good.", "exRu": "Холодное молоко вкусное."}
+{"i": 499, "id": "a1-0500", "w": "juice", "pos": "noun", "tr": "сок", "ex": "Orange juice is fresh.", "exRu": "Апельсиновый сок свежий."}
+{"i": 500, "id": "a1-0501", "w": "tea", "pos": "noun", "tr": "чай", "ex": "I drink tea every morning.", "exRu": "Я пью чай каждое утро."}
+{"i": 501, "id": "a1-0502", "w": "coffee", "pos": "noun", "tr": "кофе", "ex": "Black coffee wakes me up.", "exRu": "Чёрный кофе меня будит."}
+{"i": 502, "id": "a1-0503", "w": "soda", "pos": "noun", "tr": "газировка", "ex": "Soda is very sweet.", "exRu": "Газировка очень сладкая."}
+{"i": 503, "id": "a1-0504", "w": "beer", "pos": "noun", "tr": "пиво", "ex": "He orders a beer.", "exRu": "Он заказывает пиво."}
+{"i": 504, "id": "a1-0505", "w": "wine", "pos": "noun", "tr": "вино", "ex": "Red wine with dinner.", "exRu": "Красное вино к ужину."}
+{"i": 505, "id": "a1-0506", "w": "city", "pos": "noun", "tr": "город", "ex": "I live in a big city.", "exRu": "Я живу в большом городе."}
+{"i": 506, "id": "a1-0507", "w": "town", "pos": "noun", "tr": "городок", "ex": "Our town is quiet.", "exRu": "Наш городок тихий."}
+{"i": 507, "id": "a1-0508", "w": "village", "pos": "noun", "tr": "деревня", "ex": "The village is small.", "exRu": "Деревня маленькая."}
+{"i": 508, "id": "a1-0509", "w": "country", "pos": "noun", "tr": "страна", "ex": "This country is large.", "exRu": "Эта страна большая."}
+{"i": 509, "id": "a1-0510", "w": "street", "pos": "noun", "tr": "улица", "ex": "Cross the street carefully.", "exRu": "Осторожно переходи улицу."}
+{"i": 510, "id": "a1-0511", "w": "road", "pos": "noun", "tr": "дорога", "ex": "This road is long.", "exRu": "Дорога длинная."}
+{"i": 511, "id": "a1-0512", "w": "avenue", "pos": "noun", "tr": "проспект", "ex": "Walk down the avenue.", "exRu": "Иди по проспекту."}
+{"i": 512, "id": "a1-0513", "w": "bridge", "pos": "noun", "tr": "мост", "ex": "The bridge is old.", "exRu": "Мост старый."}
+{"i": 513, "id": "a1-0514", "w": "park", "pos": "noun", "tr": "парк", "ex": "We walk in the park.", "exRu": "Мы гуляем в парке."}
+{"i": 514, "id": "a1-0515", "w": "square", "pos": "noun", "tr": "площадь", "ex": "Meet at the square.", "exRu": "Встретимся на площади."}
+{"i": 515, "id": "a1-0516", "w": "building", "pos": "noun", "tr": "здание", "ex": "That building is tall.", "exRu": "То здание высокое."}
+{"i": 516, "id": "a1-0517", "w": "office", "pos": "noun", "tr": "офис", "ex": "I work in an office.", "exRu": "Я работаю в офисе."}
+{"i": 517, "id": "a1-0518", "w": "shop", "pos": "noun", "tr": "магазин", "ex": "The shop closes at eight.", "exRu": "Магазин закрывается в восемь."}
+{"i": 518, "id": "a1-0519", "w": "store", "pos": "noun", "tr": "магазин", "ex": "Buy milk at the store.", "exRu": "Купи молоко в магазине."}
+{"i": 519, "id": "a1-0520", "w": "market", "pos": "noun", "tr": "рынок", "ex": "Fresh fruit at the market.", "exRu": "Свежие фрукты на рынке."}
+{"i": 520, "id": "a1-0521", "w": "supermarket", "pos": "noun", "tr": "супермаркет", "ex": "I shop at the supermarket.", "exRu": "Я хожу в супермаркет."}
+{"i": 521, "id": "a1-0522", "w": "mall", "pos": "noun", "tr": "торговый центр", "ex": "The mall is crowded.", "exRu": "В торговом центре людно."}
+{"i": 522, "id": "a1-0523", "w": "restaurant", "pos": "noun", "tr": "ресторан", "ex": "We eat at a restaurant.", "exRu": "Мы едим в ресторане."}
+{"i": 523, "id": "a1-0524", "w": "cafe", "pos": "noun", "tr": "кафе", "ex": "Meet me at the cafe.", "exRu": "Встреть меня в кафе."}
+{"i": 524, "id": "a1-0525", "w": "hotel", "pos": "noun", "tr": "отель", "ex": "We stay at a hotel.", "exRu": "Мы останавливаемся в отеле."}
+{"i": 525, "id": "a1-0526", "w": "hospital", "pos": "noun", "tr": "больница", "ex": "She works at a hospital.", "exRu": "Она работает в больнице."}
+{"i": 526, "id": "a1-0527", "w": "school", "pos": "noun", "tr": "школа", "ex": "Kids go to school.", "exRu": "Дети ходят в школу."}
+{"i": 527, "id": "a1-0528", "w": "university", "pos": "noun", "tr": "университет", "ex": "He studies at a university.", "exRu": "Он учится в университете."}
+{"i": 528, "id": "a1-0529", "w": "library", "pos": "noun", "tr": "библиотека", "ex": "Borrow books from the library.", "exRu": "Бери книги в библиотеке."}
+{"i": 529, "id": "a1-0530", "w": "museum", "pos": "noun", "tr": "музей", "ex": "The museum opens at ten.", "exRu": "Музей открывается в десять."}
+{"i": 530, "id": "a1-0531", "w": "cinema", "pos": "noun", "tr": "кинотеатр", "ex": "We go to the cinema.", "exRu": "Мы идём в кино."}
+{"i": 531, "id": "a1-0532", "w": "theater", "pos": "noun", "tr": "театр", "ex": "The theater is full.", "exRu": "Театр полон."}
+{"i": 532, "id": "a1-0533", "w": "gym", "pos": "noun", "tr": "спортзал", "ex": "I train at the gym.", "exRu": "Я тренируюсь в зале."}
+{"i": 533, "id": "a1-0534", "w": "stadium", "pos": "noun", "tr": "стадион", "ex": "The stadium is huge.", "exRu": "Стадион огромный."}
+{"i": 534, "id": "a1-0535", "w": "bank", "pos": "noun", "tr": "банк", "ex": "I go to the bank today.", "exRu": "Я иду в банк сегодня."}
+{"i": 535, "id": "a1-0536", "w": "post office", "pos": "noun", "tr": "почта", "ex": "Send a letter at the post office.", "exRu": "Отправь письмо на почте."}
+{"i": 536, "id": "a1-0537", "w": "station", "pos": "noun", "tr": "станция", "ex": "Wait at the station.", "exRu": "Жди на станции."}
+{"i": 537, "id": "a1-0538", "w": "airport", "pos": "noun", "tr": "аэропорт", "ex": "Arrive at the airport early.", "exRu": "Приезжай в аэропорт рано."}
+{"i": 538, "id": "a1-0539", "w": "bus stop", "pos": "noun", "tr": "автобусная остановка", "ex": "The bus stop is near.", "exRu": "Остановка рядом."}
+{"i": 539, "id": "a1-0540", "w": "parking", "pos": "noun", "tr": "парковка", "ex": "Parking is free here.", "exRu": "Парковка здесь бесплатная."}
+{"i": 540, "id": "a1-0541", "w": "address", "pos": "noun", "tr": "адрес", "ex": "What is your address?", "exRu": "Какой у тебя адрес?"}
+{"i": 541, "id": "a1-0542", "w": "map", "pos": "noun", "tr": "карта", "ex": "Check the map please.", "exRu": "Проверь карту."}
+{"i": 542, "id": "a1-0543", "w": "ticket", "pos": "noun", "tr": "билет", "ex": "Buy a train ticket.", "exRu": "Купи билет на поезд."}
+{"i": 543, "id": "a1-0544", "w": "passport", "pos": "noun", "tr": "паспорт", "ex": "Show your passport.", "exRu": "Покажи паспорт."}
+{"i": 544, "id": "a1-0545", "w": "luggage", "pos": "noun", "tr": "багаж", "ex": "My luggage is heavy.", "exRu": "Багаж тяжёлый."}
+{"i": 545, "id": "a1-0546", "w": "suitcase", "pos": "noun", "tr": "чемодан", "ex": "Pack the suitcase.", "exRu": "Собери чемодан."}
+{"i": 546, "id": "a1-0547", "w": "car", "pos": "noun", "tr": "машина", "ex": "Our car is red.", "exRu": "Наша машина красная."}
+{"i": 547, "id": "a1-0548", "w": "bus", "pos": "noun", "tr": "автобус", "ex": "I take the bus.", "exRu": "Я езжу на автобусе."}
+{"i": 548, "id": "a1-0549", "w": "train", "pos": "noun", "tr": "поезд", "ex": "The train is late.", "exRu": "Поезд опаздывает."}
+{"i": 549, "id": "a1-0550", "w": "plane", "pos": "noun", "tr": "самолёт", "ex": "The plane takes off.", "exRu": "Самолёт взлетает."}
+{"i": 550, "id": "a1-0551", "w": "bike", "pos": "noun", "tr": "велосипед", "ex": "I ride a bike.", "exRu": "Я езжу на велосипеде."}
+{"i": 551, "id": "a1-0552", "w": "taxi", "pos": "noun", "tr": "такси", "ex": "Call a taxi now.", "exRu": "Вызови такси."}
+{"i": 552, "id": "a1-0553", "w": "subway", "pos": "noun", "tr": "метро", "ex": "Take the subway downtown.", "exRu": "Поезжай в центр на метро."}
+{"i": 553, "id": "a1-0554", "w": "boat", "pos": "noun", "tr": "лодка", "ex": "We rent a boat.", "exRu": "Мы арендуем лодку."}
+{"i": 554, "id": "a1-0555", "w": "ship", "pos": "noun", "tr": "корабль", "ex": "The ship is large.", "exRu": "Корабль большой."}
+{"i": 555, "id": "a1-0556", "w": "truck", "pos": "noun", "tr": "грузовик", "ex": "The truck carries boxes.", "exRu": "Грузовик везёт коробки."}
+{"i": 556, "id": "a1-0557", "w": "traffic", "pos": "noun", "tr": "движение", "ex": "Traffic is heavy today.", "exRu": "Сегодня сильные пробки."}
+{"i": 557, "id": "a1-0558", "w": "trip", "pos": "noun", "tr": "поездка", "ex": "We plan a short trip.", "exRu": "Мы планируем короткую поездку."}
+{"i": 558, "id": "a1-0559", "w": "vacation", "pos": "noun", "tr": "отпуск", "ex": "Summer vacation is fun.", "exRu": "Летний отпуск весёлый."}
+{"i": 559, "id": "a1-0560", "w": "animal", "pos": "noun", "tr": "животное", "ex": "This animal is wild.", "exRu": "Это животное дикое."}
+{"i": 560, "id": "a1-0561", "w": "dog", "pos": "noun", "tr": "собака", "ex": "The dog barks loudly.", "exRu": "Собака громко лает."}
+{"i": 561, "id": "a1-0562", "w": "cat", "pos": "noun", "tr": "кошка", "ex": "The cat sleeps here.", "exRu": "Кошка спит здесь."}
+{"i": 562, "id": "a1-0563", "w": "bird", "pos": "noun", "tr": "птица", "ex": "A bird sings outside.", "exRu": "Снаружи поёт птица."}
+{"i": 563, "id": "a1-0564", "w": "horse", "pos": "noun", "tr": "лошадь", "ex": "The horse runs fast.", "exRu": "Лошадь быстро бежит."}
+{"i": 564, "id": "a1-0565", "w": "cow", "pos": "noun", "tr": "корова", "ex": "The cow gives milk.", "exRu": "Корова даёт молоко."}
+{"i": 565, "id": "a1-0566", "w": "pig", "pos": "noun", "tr": "свинья", "ex": "The pig is pink.", "exRu": "Свинья розовая."}
+{"i": 566, "id": "a1-0567", "w": "sheep", "pos": "noun", "tr": "овца", "ex": "The sheep is white.", "exRu": "Овца белая."}
+{"i": 567, "id": "a1-0568", "w": "duck", "pos": "noun", "tr": "утка", "ex": "Ducks swim in the lake.", "exRu": "Утки плавают в озере."}
+{"i": 568, "id": "a1-0569", "w": "rabbit", "pos": "noun", "tr": "кролик", "ex": "The rabbit eats carrot.", "exRu": "Кролик ест морковь."}
+{"i": 569, "id": "a1-0570", "w": "bear", "pos": "noun", "tr": "медведь", "ex": "The bear is strong.", "exRu": "Медведь сильный."}
+{"i": 570, "id": "a1-0571", "w": "lion", "pos": "noun", "tr": "лев", "ex": "The lion is king.", "exRu": "Лев — царь."}
+{"i": 571, "id": "a1-0572", "w": "tiger", "pos": "noun", "tr": "тигр", "ex": "The tiger has stripes.", "exRu": "У тигра полосы."}
+{"i": 572, "id": "a1-0573", "w": "elephant", "pos": "noun", "tr": "слон", "ex": "An elephant is huge.", "exRu": "Слон огромный."}
+{"i": 573, "id": "a1-0574", "w": "monkey", "pos": "noun", "tr": "обезьяна", "ex": "The monkey climbs trees.", "exRu": "Обезьяна лазает по деревьям."}
+{"i": 574, "id": "a1-0575", "w": "snake", "pos": "noun", "tr": "змея", "ex": "The snake is long.", "exRu": "Змея длинная."}
+{"i": 575, "id": "a1-0576", "w": "frog", "pos": "noun", "tr": "лягушка", "ex": "The frog jumps high.", "exRu": "Лягушка высоко прыгает."}
+{"i": 576, "id": "a1-0577", "w": "insect", "pos": "noun", "tr": "насекомое", "ex": "An insect sits on a leaf.", "exRu": "Насекомое сидит на листе."}
+{"i": 577, "id": "a1-0578", "w": "butterfly", "pos": "noun", "tr": "бабочка", "ex": "A butterfly is colorful.", "exRu": "Бабочка разноцветная."}
+{"i": 578, "id": "a1-0579", "w": "bee", "pos": "noun", "tr": "пчела", "ex": "A bee makes honey.", "exRu": "Пчела делает мёд."}
+{"i": 579, "id": "a1-0580", "w": "tree", "pos": "noun", "tr": "дерево", "ex": "The tree is tall.", "exRu": "Дерево высокое."}
+{"i": 580, "id": "a1-0581", "w": "flower", "pos": "noun", "tr": "цветок", "ex": "This flower smells nice.", "exRu": "Цветок приятно пахнет."}
+{"i": 581, "id": "a1-0582", "w": "grass", "pos": "noun", "tr": "трава", "ex": "The grass is green.", "exRu": "Трава зелёная."}
+{"i": 582, "id": "a1-0583", "w": "leaf", "pos": "noun", "tr": "лист", "ex": "A yellow leaf falls.", "exRu": "Жёлтый лист падает."}
+{"i": 583, "id": "a1-0584", "w": "forest", "pos": "noun", "tr": "лес", "ex": "We walk in the forest.", "exRu": "Мы гуляем в лесу."}
+{"i": 584, "id": "a1-0585", "w": "mountain", "pos": "noun", "tr": "гора", "ex": "The mountain is high.", "exRu": "Гора высокая."}
+{"i": 585, "id": "a1-0586", "w": "hill", "pos": "noun", "tr": "холм", "ex": "Climb the small hill.", "exRu": "Поднимись на холм."}
+{"i": 586, "id": "a1-0587", "w": "river", "pos": "noun", "tr": "река", "ex": "The river is wide.", "exRu": "Река широкая."}
+{"i": 587, "id": "a1-0588", "w": "lake", "pos": "noun", "tr": "озеро", "ex": "We swim in the lake.", "exRu": "Мы плаваем в озере."}
+{"i": 588, "id": "a1-0589", "w": "sea", "pos": "noun", "tr": "море", "ex": "The sea is blue.", "exRu": "Море синее."}
+{"i": 589, "id": "a1-0590", "w": "ocean", "pos": "noun", "tr": "океан", "ex": "The ocean is deep.", "exRu": "Океан глубокий."}
+{"i": 590, "id": "a1-0591", "w": "beach", "pos": "noun", "tr": "пляж", "ex": "Kids play on the beach.", "exRu": "Дети играют на пляже."}
+{"i": 591, "id": "a1-0592", "w": "island", "pos": "noun", "tr": "остров", "ex": "The island is small.", "exRu": "Остров маленький."}
+{"i": 592, "id": "a1-0593", "w": "sun", "pos": "noun", "tr": "солнце", "ex": "The sun is bright.", "exRu": "Солнце яркое."}
+{"i": 593, "id": "a1-0594", "w": "moon", "pos": "noun", "tr": "луна", "ex": "The moon is full.", "exRu": "Луна полная."}
+{"i": 594, "id": "a1-0595", "w": "star", "pos": "noun", "tr": "звезда", "ex": "A star shines at night.", "exRu": "Звезда светит ночью."}
+{"i": 595, "id": "a1-0596", "w": "sky", "pos": "noun", "tr": "небо", "ex": "The sky is clear.", "exRu": "Небо ясное."}
+{"i": 596, "id": "a1-0597", "w": "cloud", "pos": "noun", "tr": "облако", "ex": "A dark cloud comes.", "exRu": "Надвигается тёмное облако."}
+{"i": 597, "id": "a1-0598", "w": "wind", "pos": "noun", "tr": "ветер", "ex": "The wind is cold.", "exRu": "Ветер холодный."}
+{"i": 598, "id": "a1-0599", "w": "storm", "pos": "noun", "tr": "шторм", "ex": "A storm is coming.", "exRu": "Приближается шторм."}
+{"i": 599, "id": "a1-0600", "w": "weather", "pos": "noun", "tr": "погода", "ex": "The weather is nice.", "exRu": "Погода хорошая."}
+{"i": 600, "id": "a1-0601", "w": "temperature", "pos": "noun", "tr": "температура", "ex": "Check the temperature.", "exRu": "Проверь температуру."}
+{"i": 601, "id": "a1-0602", "w": "fire", "pos": "noun", "tr": "огонь", "ex": "Keep away from fire.", "exRu": "Держись подальше от огня."}
+{"i": 602, "id": "a1-0603", "w": "earth", "pos": "noun", "tr": "земля", "ex": "We live on Earth.", "exRu": "Мы живём на Земле."}
+{"i": 603, "id": "a1-0604", "w": "ground", "pos": "noun", "tr": "земля, почва", "ex": "Sit on the ground.", "exRu": "Сядь на землю."}
+{"i": 604, "id": "a1-0605", "w": "stone", "pos": "noun", "tr": "камень", "ex": "Throw a small stone.", "exRu": "Брось маленький камень."}
+{"i": 605, "id": "a1-0606", "w": "sand", "pos": "noun", "tr": "песок", "ex": "Sand is soft and warm.", "exRu": "Песок мягкий и тёплый."}
+{"i": 606, "id": "a1-0607", "w": "air", "pos": "noun", "tr": "воздух", "ex": "Fresh air feels good.", "exRu": "Свежий воздух приятен."}
+{"i": 607, "id": "a1-0608", "w": "book", "pos": "noun", "tr": "книга", "ex": "This book is interesting.", "exRu": "Книга интересная."}
+{"i": 608, "id": "a1-0609", "w": "page", "pos": "noun", "tr": "страница", "ex": "Turn the page.", "exRu": "Переверни страницу."}
+{"i": 609, "id": "a1-0610", "w": "pen", "pos": "noun", "tr": "ручка", "ex": "I need a blue pen.", "exRu": "Мне нужна синяя ручка."}
+{"i": 610, "id": "a1-0611", "w": "pencil", "pos": "noun", "tr": "карандаш", "ex": "Sharpen your pencil.", "exRu": "Заточи карандаш."}
+{"i": 611, "id": "a1-0612", "w": "paper", "pos": "noun", "tr": "бумага", "ex": "Write on this paper.", "exRu": "Пиши на этой бумаге."}
+{"i": 612, "id": "a1-0613", "w": "notebook", "pos": "noun", "tr": "тетрадь", "ex": "Open your notebook.", "exRu": "Открой тетрадь."}
+{"i": 613, "id": "a1-0614", "w": "eraser", "pos": "noun", "tr": "ластик", "ex": "Use an eraser here.", "exRu": "Используй ластик."}
+{"i": 614, "id": "a1-0615", "w": "ruler", "pos": "noun", "tr": "линейка", "ex": "Measure with a ruler.", "exRu": "Измерь линейкой."}
+{"i": 615, "id": "a1-0616", "w": "homework", "pos": "noun", "tr": "домашнее задание", "ex": "Do your homework now.", "exRu": "Сделай домашку."}
+{"i": 616, "id": "a1-0617", "w": "test", "pos": "noun", "tr": "тест", "ex": "We have a test today.", "exRu": "У нас сегодня тест."}
+{"i": 617, "id": "a1-0618", "w": "exam", "pos": "noun", "tr": "экзамен", "ex": "The exam is hard.", "exRu": "Экзамен сложный."}
+{"i": 618, "id": "a1-0619", "w": "lesson", "pos": "noun", "tr": "урок", "ex": "The lesson starts soon.", "exRu": "Урок скоро начнётся."}
+{"i": 619, "id": "a1-0620", "w": "class", "pos": "noun", "tr": "класс", "ex": "Our class is friendly.", "exRu": "Наш класс дружный."}
+{"i": 620, "id": "a1-0621", "w": "question", "pos": "noun", "tr": "вопрос", "ex": "Ask a clear question.", "exRu": "Задай ясный вопрос."}
+{"i": 621, "id": "a1-0622", "w": "word", "pos": "noun", "tr": "слово", "ex": "Learn a new word.", "exRu": "Выучи новое слово."}
+{"i": 622, "id": "a1-0623", "w": "sentence", "pos": "noun", "tr": "предложение", "ex": "Read this sentence aloud.", "exRu": "Прочитай предложение вслух."}
+{"i": 623, "id": "a1-0624", "w": "language", "pos": "noun", "tr": "язык", "ex": "English is a language.", "exRu": "Английский — язык."}
+{"i": 624, "id": "a1-0625", "w": "letter", "pos": "noun", "tr": "буква, письмо", "ex": "Send a letter home.", "exRu": "Отправь письмо домой."}
+{"i": 625, "id": "a1-0626", "w": "number", "pos": "noun", "tr": "число", "ex": "What is this number?", "exRu": "Какое это число?"}
+{"i": 626, "id": "a1-0627", "w": "time", "pos": "noun", "tr": "время", "ex": "What time is it?", "exRu": "Который час?"}
+{"i": 627, "id": "a1-0628", "w": "hour", "pos": "noun", "tr": "час", "ex": "Wait one hour.", "exRu": "Подожди один час."}
+{"i": 628, "id": "a1-0629", "w": "minute", "pos": "noun", "tr": "минута", "ex": "Just a minute, please.", "exRu": "Минутку, пожалуйста."}
+{"i": 629, "id": "a1-0630", "w": "second", "pos": "noun", "tr": "секунда", "ex": "Wait a second.", "exRu": "Подожди секунду."}
+{"i": 630, "id": "a1-0631", "w": "day", "pos": "noun", "tr": "день", "ex": "Have a nice day.", "exRu": "Хорошего дня."}
+{"i": 631, "id": "a1-0632", "w": "week", "pos": "noun", "tr": "неделя", "ex": "See you next week.", "exRu": "Увидимся на следующей неделе."}
+{"i": 632, "id": "a1-0633", "w": "month", "pos": "noun", "tr": "месяц", "ex": "This month is busy.", "exRu": "Этот месяц загружен."}
+{"i": 633, "id": "a1-0634", "w": "year", "pos": "noun", "tr": "год", "ex": "Happy New Year!", "exRu": "С Новым годом!"}
+{"i": 634, "id": "a1-0635", "w": "morning", "pos": "noun", "tr": "утро", "ex": "Good morning, everyone.", "exRu": "Доброе утро всем."}
+{"i": 635, "id": "a1-0636", "w": "afternoon", "pos": "noun", "tr": "день (после полудня)", "ex": "See you this afternoon.", "exRu": "Увидимся днём."}
+{"i": 636, "id": "a1-0637", "w": "evening", "pos": "noun", "tr": "вечер", "ex": "Good evening, friends.", "exRu": "Добрый вечер, друзья."}
+{"i": 637, "id": "a1-0638", "w": "night", "pos": "noun", "tr": "ночь", "ex": "Good night and sleep well.", "exRu": "Спокойной ночи."}
+{"i": 638, "id": "a1-0639", "w": "weekend", "pos": "noun", "tr": "выходные", "ex": "I relax on the weekend.", "exRu": "На выходных я отдыхаю."}
+{"i": 639, "id": "a1-0640", "w": "holiday", "pos": "noun", "tr": "праздник", "ex": "Happy holiday to you.", "exRu": "С праздником."}
+{"i": 640, "id": "a1-0641", "w": "birthday", "pos": "noun", "tr": "день рождения", "ex": "Happy birthday!", "exRu": "С днём рождения!"}
+{"i": 641, "id": "a1-0642", "w": "Monday", "pos": "noun", "tr": "понедельник", "ex": "Monday starts the week.", "exRu": "Неделя начинается с понедельника."}
+{"i": 642, "id": "a1-0643", "w": "Tuesday", "pos": "noun", "tr": "вторник", "ex": "We meet on Tuesday.", "exRu": "Мы встречаемся во вторник."}
+{"i": 643, "id": "a1-0644", "w": "Wednesday", "pos": "noun", "tr": "среда", "ex": "Wednesday is midweek.", "exRu": "Среда — середина недели."}
+{"i": 644, "id": "a1-0645", "w": "Thursday", "pos": "noun", "tr": "четверг", "ex": "Thursday is almost Friday.", "exRu": "Четверг — почти пятница."}
+{"i": 645, "id": "a1-0646", "w": "Friday", "pos": "noun", "tr": "пятница", "ex": "Friday feels great.", "exRu": "Пятница замечательная."}
+{"i": 646, "id": "a1-0647", "w": "Saturday", "pos": "noun", "tr": "суббота", "ex": "Saturday is free.", "exRu": "Суббота свободная."}
+{"i": 647, "id": "a1-0648", "w": "Sunday", "pos": "noun", "tr": "воскресенье", "ex": "Sunday is quiet.", "exRu": "Воскресенье тихое."}
+{"i": 648, "id": "a1-0649", "w": "spring", "pos": "noun", "tr": "весна", "ex": "Flowers bloom in spring.", "exRu": "Весной цветут цветы."}
+{"i": 649, "id": "a1-0650", "w": "summer", "pos": "noun", "tr": "лето", "ex": "Summer is hot here.", "exRu": "Летом здесь жарко."}
+{"i": 650, "id": "a1-0651", "w": "autumn", "pos": "noun", "tr": "осень", "ex": "Autumn colors are nice.", "exRu": "Осенние краски красивы."}
+{"i": 651, "id": "a1-0652", "w": "winter", "pos": "noun", "tr": "зима", "ex": "Winter is cold.", "exRu": "Зима холодная."}
+{"i": 652, "id": "a1-0653", "w": "money", "pos": "noun", "tr": "деньги", "ex": "I need some money.", "exRu": "Мне нужны деньги."}
+{"i": 653, "id": "a1-0654", "w": "cash", "pos": "noun", "tr": "наличные", "ex": "Do you have cash?", "exRu": "У тебя есть наличные?"}
+{"i": 654, "id": "a1-0655", "w": "card", "pos": "noun", "tr": "карта", "ex": "I pay with a card.", "exRu": "Я плачу картой."}
+{"i": 655, "id": "a1-0656", "w": "price", "pos": "noun", "tr": "цена", "ex": "What is the price?", "exRu": "Какая цена?"}
+{"i": 656, "id": "a1-0657", "w": "bill", "pos": "noun", "tr": "счёт", "ex": "Can I have the bill?", "exRu": "Можно счёт?"}
+{"i": 657, "id": "a1-0658", "w": "receipt", "pos": "noun", "tr": "чек", "ex": "Keep the receipt.", "exRu": "Сохрани чек."}
+{"i": 658, "id": "a1-0659", "w": "wallet", "pos": "noun", "tr": "кошелёк", "ex": "My wallet is empty.", "exRu": "Кошелёк пуст."}
+{"i": 659, "id": "a1-0660", "w": "coin", "pos": "noun", "tr": "монета", "ex": "I found a coin.", "exRu": "Я нашёл монету."}
+{"i": 660, "id": "a1-0661", "w": "dollar", "pos": "noun", "tr": "доллар", "ex": "It costs ten dollars.", "exRu": "Это стоит десять долларов."}
+{"i": 661, "id": "a1-0662", "w": "cent", "pos": "noun", "tr": "цент", "ex": "One cent is small.", "exRu": "Один цент — мало."}
+{"i": 662, "id": "a1-0663", "w": "job", "pos": "noun", "tr": "работа", "ex": "I have a new job.", "exRu": "У меня новая работа."}
+{"i": 663, "id": "a1-0664", "w": "meeting", "pos": "noun", "tr": "встреча", "ex": "The meeting is short.", "exRu": "Встреча короткая."}
+{"i": 664, "id": "a1-0665", "w": "email", "pos": "noun", "tr": "электронная почта", "ex": "Send me an email.", "exRu": "Пришли мне email."}
+{"i": 665, "id": "a1-0666", "w": "message", "pos": "noun", "tr": "сообщение", "ex": "I got your message.", "exRu": "Я получил сообщение."}
+{"i": 666, "id": "a1-0667", "w": "internet", "pos": "noun", "tr": "интернет", "ex": "The internet is slow.", "exRu": "Интернет медленный."}
+{"i": 667, "id": "a1-0668", "w": "website", "pos": "noun", "tr": "сайт", "ex": "Visit our website.", "exRu": "Зайди на наш сайт."}
+{"i": 668, "id": "a1-0669", "w": "password", "pos": "noun", "tr": "пароль", "ex": "Do not share your password.", "exRu": "Не делись паролем."}
+{"i": 669, "id": "a1-0670", "w": "app", "pos": "noun", "tr": "приложение", "ex": "Download the app.", "exRu": "Скачай приложение."}
+{"i": 670, "id": "a1-0671", "w": "game", "pos": "noun", "tr": "игра", "ex": "This game is fun.", "exRu": "Игра весёлая."}
+{"i": 671, "id": "a1-0672", "w": "ball", "pos": "noun", "tr": "мяч", "ex": "Throw the ball to me.", "exRu": "Брось мне мяч."}
+{"i": 672, "id": "a1-0673", "w": "sport", "pos": "noun", "tr": "спорт", "ex": "Sport keeps you fit.", "exRu": "Спорт поддерживает форму."}
+{"i": 673, "id": "a1-0674", "w": "team", "pos": "noun", "tr": "команда", "ex": "Our team is strong.", "exRu": "Наша команда сильная."}
+{"i": 674, "id": "a1-0675", "w": "music", "pos": "noun", "tr": "музыка", "ex": "I love this music.", "exRu": "Мне нравится эта музыка."}
+{"i": 675, "id": "a1-0676", "w": "song", "pos": "noun", "tr": "песня", "ex": "This song is popular.", "exRu": "Песня популярная."}
+{"i": 676, "id": "a1-0677", "w": "movie", "pos": "noun", "tr": "фильм", "ex": "We watch a movie.", "exRu": "Мы смотрим фильм."}
+{"i": 677, "id": "a1-0678", "w": "film", "pos": "noun", "tr": "фильм", "ex": "The film is long.", "exRu": "Фильм длинный."}
+{"i": 678, "id": "a1-0679", "w": "news", "pos": "noun", "tr": "новости", "ex": "I watch the news.", "exRu": "Я смотрю новости."}
+{"i": 679, "id": "a1-0680", "w": "story", "pos": "noun", "tr": "история", "ex": "Tell me a story.", "exRu": "Расскажи историю."}
+{"i": 680, "id": "a1-0681", "w": "idea", "pos": "noun", "tr": "идея", "ex": "That is a good idea.", "exRu": "Хорошая идея."}
+{"i": 681, "id": "a1-0682", "w": "problem", "pos": "noun", "tr": "проблема", "ex": "We have a problem.", "exRu": "У нас проблема."}
+{"i": 682, "id": "a1-0683", "w": "thing", "pos": "noun", "tr": "вещь", "ex": "Pack your things.", "exRu": "Собери вещи."}
+{"i": 683, "id": "a1-0684", "w": "place", "pos": "noun", "tr": "место", "ex": "This place is nice.", "exRu": "Это место приятное."}
+{"i": 684, "id": "a1-0685", "w": "way", "pos": "noun", "tr": "путь, способ", "ex": "This is the best way.", "exRu": "Это лучший способ."}
+{"i": 685, "id": "a1-0686", "w": "life", "pos": "noun", "tr": "жизнь", "ex": "Life is short.", "exRu": "Жизнь коротка."}
+{"i": 686, "id": "a1-0687", "w": "world", "pos": "noun", "tr": "мир", "ex": "The world is big.", "exRu": "Мир большой."}
+{"i": 687, "id": "a1-0688", "w": "part", "pos": "noun", "tr": "часть", "ex": "This is part of the plan.", "exRu": "Это часть плана."}
+{"i": 688, "id": "a1-0689", "w": "side", "pos": "noun", "tr": "сторона", "ex": "Stand on this side.", "exRu": "Встань с этой стороны."}
+{"i": 689, "id": "a1-0690", "w": "beginning", "pos": "noun", "tr": "начало", "ex": "Start at the beginning.", "exRu": "Начни с начала."}
+{"i": 690, "id": "a1-0691", "w": "example", "pos": "noun", "tr": "пример", "ex": "Give me an example.", "exRu": "Приведи пример."}
+{"i": 691, "id": "a1-0692", "w": "fact", "pos": "noun", "tr": "факт", "ex": "That is a fact.", "exRu": "Это факт."}
+{"i": 692, "id": "a1-0693", "w": "reason", "pos": "noun", "tr": "причина", "ex": "What is the reason?", "exRu": "Какая причина?"}
+{"i": 693, "id": "a1-0694", "w": "result", "pos": "noun", "tr": "результат", "ex": "Check the result.", "exRu": "Проверь результат."}
+{"i": 694, "id": "a1-0695", "w": "health", "pos": "noun", "tr": "здоровье", "ex": "Health is important.", "exRu": "Здоровье важно."}
+{"i": 695, "id": "a1-0696", "w": "medicine", "pos": "noun", "tr": "лекарство", "ex": "Take your medicine.", "exRu": "Прими лекарство."}
+{"i": 696, "id": "a1-0697", "w": "pain", "pos": "noun", "tr": "боль", "ex": "I feel pain here.", "exRu": "Здесь больно."}
+{"i": 697, "id": "a1-0698", "w": "cold", "pos": "noun", "tr": "простуда", "ex": "I have a cold.", "exRu": "У меня простуда."}
+{"i": 698, "id": "a1-0699", "w": "fever", "pos": "noun", "tr": "жар", "ex": "She has a fever.", "exRu": "У неё жар."}
+{"i": 699, "id": "a1-0700", "w": "good", "pos": "adj", "tr": "хороший", "ex": "This is a good idea.", "exRu": "Хорошая идея."}
+{"i": 700, "id": "a1-0701", "w": "bad", "pos": "adj", "tr": "плохой", "ex": "That is a bad plan.", "exRu": "Плохой план."}
+{"i": 701, "id": "a1-0702", "w": "big", "pos": "adj", "tr": "большой", "ex": "A big house stands here.", "exRu": "Здесь большой дом."}
+{"i": 702, "id": "a1-0703", "w": "small", "pos": "adj", "tr": "маленький", "ex": "A small dog sits there.", "exRu": "Там сидит маленькая собака."}
+{"i": 703, "id": "a1-0704", "w": "large", "pos": "adj", "tr": "крупный", "ex": "A large box is heavy.", "exRu": "Большая коробка тяжёлая."}
+{"i": 704, "id": "a1-0705", "w": "little", "pos": "adj", "tr": "маленький", "ex": "Wait a little bit.", "exRu": "Подожди немного."}
+{"i": 705, "id": "a1-0706", "w": "long", "pos": "adj", "tr": "длинный", "ex": "A long road ahead.", "exRu": "Впереди длинная дорога."}
+{"i": 706, "id": "a1-0707", "w": "short", "pos": "adj", "tr": "короткий", "ex": "A short break helps.", "exRu": "Короткий перерыв помогает."}
+{"i": 707, "id": "a1-0708", "w": "tall", "pos": "adj", "tr": "высокий", "ex": "He is tall and strong.", "exRu": "Он высокий и сильный."}
+{"i": 708, "id": "a1-0709", "w": "high", "pos": "adj", "tr": "высокий", "ex": "A high mountain rises.", "exRu": "Возвышается высокая гора."}
+{"i": 709, "id": "a1-0710", "w": "low", "pos": "adj", "tr": "низкий", "ex": "The price is low.", "exRu": "Цена низкая."}
+{"i": 710, "id": "a1-0711", "w": "wide", "pos": "adj", "tr": "широкий", "ex": "A wide river flows.", "exRu": "Течёт широкая река."}
+{"i": 711, "id": "a1-0712", "w": "narrow", "pos": "adj", "tr": "узкий", "ex": "A narrow path begins.", "exRu": "Начинается узкая тропа."}
+{"i": 712, "id": "a1-0713", "w": "thick", "pos": "adj", "tr": "толстый", "ex": "A thick book is hard.", "exRu": "Толстая книга сложная."}
+{"i": 713, "id": "a1-0714", "w": "thin", "pos": "adj", "tr": "тонкий", "ex": "A thin line of light.", "exRu": "Тонкая полоска света."}
+{"i": 714, "id": "a1-0715", "w": "heavy", "pos": "adj", "tr": "тяжёлый", "ex": "This bag is heavy.", "exRu": "Сумка тяжёлая."}
+{"i": 715, "id": "a1-0716", "w": "hard", "pos": "adj", "tr": "твёрдый, трудный", "ex": "This test is hard.", "exRu": "Тест сложный."}
+{"i": 716, "id": "a1-0717", "w": "soft", "pos": "adj", "tr": "мягкий", "ex": "The pillow is soft.", "exRu": "Подушка мягкая."}
+{"i": 717, "id": "a1-0718", "w": "strong", "pos": "adj", "tr": "сильный", "ex": "She is strong.", "exRu": "Она сильная."}
+{"i": 718, "id": "a1-0719", "w": "weak", "pos": "adj", "tr": "слабый", "ex": "I feel weak today.", "exRu": "Сегодня я слаб."}
+{"i": 719, "id": "a1-0720", "w": "slow", "pos": "adj", "tr": "медленный", "ex": "A slow train arrives.", "exRu": "Приходит медленный поезд."}
+{"i": 720, "id": "a1-0721", "w": "hot", "pos": "adj", "tr": "горячий", "ex": "The coffee is hot.", "exRu": "Кофе горячий."}
+{"i": 721, "id": "a1-0722", "w": "warm", "pos": "adj", "tr": "тёплый", "ex": "A warm jacket helps.", "exRu": "Тёплая куртка помогает."}
+{"i": 722, "id": "a1-0723", "w": "cool", "pos": "adj", "tr": "прохладный", "ex": "A cool wind blows.", "exRu": "Дует прохладный ветер."}
+{"i": 723, "id": "a1-0724", "w": "new", "pos": "adj", "tr": "новый", "ex": "I have a new phone.", "exRu": "У меня новый телефон."}
+{"i": 724, "id": "a1-0725", "w": "old", "pos": "adj", "tr": "старый", "ex": "An old book smells good.", "exRu": "Старая книга приятно пахнет."}
+{"i": 725, "id": "a1-0726", "w": "young", "pos": "adj", "tr": "молодой", "ex": "A young teacher smiles.", "exRu": "Молодой учитель улыбается."}
+{"i": 726, "id": "a1-0727", "w": "beautiful", "pos": "adj", "tr": "красивый", "ex": "A beautiful day begins.", "exRu": "Начинается прекрасный день."}
+{"i": 727, "id": "a1-0728", "w": "pretty", "pos": "adj", "tr": "милый", "ex": "A pretty flower blooms.", "exRu": "Распускается милый цветок."}
+{"i": 728, "id": "a1-0729", "w": "ugly", "pos": "adj", "tr": "уродливый", "ex": "An ugly stain remains.", "exRu": "Остаётся некрасивое пятно."}
+{"i": 729, "id": "a1-0730", "w": "nice", "pos": "adj", "tr": "приятный", "ex": "Have a nice day.", "exRu": "Хорошего дня."}
+{"i": 730, "id": "a1-0731", "w": "kind", "pos": "adj", "tr": "добрый", "ex": "She is kind to all.", "exRu": "Она добра ко всем."}
+{"i": 731, "id": "a1-0732", "w": "friendly", "pos": "adj", "tr": "дружелюбный", "ex": "Our dog is friendly.", "exRu": "Наша собака дружелюбная."}
+{"i": 732, "id": "a1-0733", "w": "happy", "pos": "adj", "tr": "счастливый", "ex": "I feel happy now.", "exRu": "Сейчас я счастлив."}
+{"i": 733, "id": "a1-0734", "w": "sad", "pos": "adj", "tr": "грустный", "ex": "Why are you sad?", "exRu": "Почему ты грустный?"}
+{"i": 734, "id": "a1-0735", "w": "angry", "pos": "adj", "tr": "злой", "ex": "Do not be angry.", "exRu": "Не злись."}
+{"i": 735, "id": "a1-0736", "w": "tired", "pos": "adj", "tr": "усталый", "ex": "I am tired tonight.", "exRu": "Сегодня я устал."}
+{"i": 736, "id": "a1-0737", "w": "hungry", "pos": "adj", "tr": "голодный", "ex": "I am hungry now.", "exRu": "Я голоден."}
+{"i": 737, "id": "a1-0738", "w": "thirsty", "pos": "adj", "tr": "испытывающий жажду", "ex": "I am thirsty.", "exRu": "Я хочу пить."}
+{"i": 738, "id": "a1-0739", "w": "busy", "pos": "adj", "tr": "занятый", "ex": "I am busy today.", "exRu": "Сегодня я занят."}
+{"i": 739, "id": "a1-0740", "w": "free", "pos": "adj", "tr": "свободный", "ex": "Are you free tonight?", "exRu": "Ты свободен сегодня вечером?"}
+{"i": 740, "id": "a1-0741", "w": "ready", "pos": "adj", "tr": "готовый", "ex": "I am ready to go.", "exRu": "Я готов идти."}
+{"i": 741, "id": "a1-0742", "w": "easy", "pos": "adj", "tr": "лёгкий", "ex": "This task is easy.", "exRu": "Задача лёгкая."}
+{"i": 742, "id": "a1-0743", "w": "difficult", "pos": "adj", "tr": "сложный", "ex": "The question is difficult.", "exRu": "Вопрос сложный."}
+{"i": 743, "id": "a1-0744", "w": "important", "pos": "adj", "tr": "важный", "ex": "This is important news.", "exRu": "Важные новости."}
+{"i": 744, "id": "a1-0745", "w": "interesting", "pos": "adj", "tr": "интересный", "ex": "An interesting book waits.", "exRu": "Ждёт интересная книга."}
+{"i": 745, "id": "a1-0746", "w": "boring", "pos": "adj", "tr": "скучный", "ex": "The film is boring.", "exRu": "Фильм скучный."}
+{"i": 746, "id": "a1-0747", "w": "fun", "pos": "adj", "tr": "весёлый", "ex": "The party is fun.", "exRu": "Вечеринка весёлая."}
+{"i": 747, "id": "a1-0748", "w": "funny", "pos": "adj", "tr": "смешной", "ex": "A funny joke helps.", "exRu": "Смешная шутка помогает."}
+{"i": 748, "id": "a1-0749", "w": "quiet", "pos": "adj", "tr": "тихий", "ex": "Please be quiet.", "exRu": "Пожалуйста, тише."}
+{"i": 749, "id": "a1-0750", "w": "loud", "pos": "adj", "tr": "громкий", "ex": "Loud music plays.", "exRu": "Играет громкая музыка."}
+{"i": 750, "id": "a1-0751", "w": "dirty", "pos": "adj", "tr": "грязный", "ex": "Wash dirty hands.", "exRu": "Вымой грязные руки."}
+{"i": 751, "id": "a1-0752", "w": "full", "pos": "adj", "tr": "полный", "ex": "The glass is full.", "exRu": "Стакан полный."}
+{"i": 752, "id": "a1-0753", "w": "empty", "pos": "adj", "tr": "пустой", "ex": "The bottle is empty.", "exRu": "Бутылка пустая."}
+{"i": 753, "id": "a1-0754", "w": "closed", "pos": "adj", "tr": "закрытый", "ex": "The shop is closed.", "exRu": "Магазин закрыт."}
+{"i": 754, "id": "a1-0755", "w": "right", "pos": "adj", "tr": "правильный, правый", "ex": "Turn right here.", "exRu": "Поверни направо."}
+{"i": 755, "id": "a1-0756", "w": "wrong", "pos": "adj", "tr": "неправильный", "ex": "That answer is wrong.", "exRu": "Ответ неверный."}
+{"i": 756, "id": "a1-0757", "w": "true", "pos": "adj", "tr": "верный", "ex": "Is that true?", "exRu": "Это правда?"}
+{"i": 757, "id": "a1-0758", "w": "false", "pos": "adj", "tr": "ложный", "ex": "A false alarm sounds.", "exRu": "Звучит ложная тревога."}
+{"i": 758, "id": "a1-0759", "w": "same", "pos": "adj", "tr": "тот же", "ex": "We wear the same color.", "exRu": "Мы в одном цвете."}
+{"i": 759, "id": "a1-0760", "w": "different", "pos": "adj", "tr": "разный", "ex": "We like different food.", "exRu": "Нам нравится разная еда."}
+{"i": 760, "id": "a1-0761", "w": "next", "pos": "adj", "tr": "следующий", "ex": "See you next week.", "exRu": "Увидимся на следующей неделе."}
+{"i": 761, "id": "a1-0762", "w": "last", "pos": "adj", "tr": "прошлый, последний", "ex": "Last night was quiet.", "exRu": "Прошлой ночью было тихо."}
+{"i": 762, "id": "a1-0763", "w": "first", "pos": "adj", "tr": "первый", "ex": "I am first in line.", "exRu": "Я первый в очереди."}
+{"i": 763, "id": "a1-0764", "w": "third", "pos": "adj", "tr": "третий", "ex": "Take the third exit.", "exRu": "Сверни на третий съезд."}
+{"i": 764, "id": "a1-0765", "w": "best", "pos": "adj", "tr": "лучший", "ex": "This is the best cake.", "exRu": "Это лучший торт."}
+{"i": 765, "id": "a1-0766", "w": "worst", "pos": "adj", "tr": "худший", "ex": "That was the worst day.", "exRu": "Это был худший день."}
+{"i": 766, "id": "a1-0767", "w": "better", "pos": "adj", "tr": "лучше", "ex": "I feel better now.", "exRu": "Сейчас мне лучше."}
+{"i": 767, "id": "a1-0768", "w": "worse", "pos": "adj", "tr": "хуже", "ex": "The weather gets worse.", "exRu": "Погода ухудшается."}
+{"i": 768, "id": "a1-0769", "w": "safe", "pos": "adj", "tr": "безопасный", "ex": "Stay in a safe place.", "exRu": "Оставайся в безопасном месте."}
+{"i": 769, "id": "a1-0770", "w": "dangerous", "pos": "adj", "tr": "опасный", "ex": "This road is dangerous.", "exRu": "Дорога опасная."}
+{"i": 770, "id": "a1-0771", "w": "rich", "pos": "adj", "tr": "богатый", "ex": "A rich man helps others.", "exRu": "Богатый человек помогает."}
+{"i": 771, "id": "a1-0772", "w": "poor", "pos": "adj", "tr": "бедный", "ex": "A poor family needs help.", "exRu": "Бедной семье нужна помощь."}
+{"i": 772, "id": "a1-0773", "w": "cheap", "pos": "adj", "tr": "дешёвый", "ex": "This shirt is cheap.", "exRu": "Рубашка дешёвая."}
+{"i": 773, "id": "a1-0774", "w": "expensive", "pos": "adj", "tr": "дорогой", "ex": "The watch is expensive.", "exRu": "Часы дорогие."}
+{"i": 774, "id": "a1-0775", "w": "famous", "pos": "adj", "tr": "известный", "ex": "A famous singer arrives.", "exRu": "Приезжает известный певец."}
+{"i": 775, "id": "a1-0776", "w": "popular", "pos": "adj", "tr": "популярный", "ex": "This song is popular.", "exRu": "Песня популярная."}
+{"i": 776, "id": "a1-0777", "w": "special", "pos": "adj", "tr": "особый", "ex": "Today is a special day.", "exRu": "Сегодня особый день."}
+{"i": 777, "id": "a1-0778", "w": "normal", "pos": "adj", "tr": "обычный", "ex": "This is a normal day.", "exRu": "Обычный день."}
+{"i": 778, "id": "a1-0779", "w": "possible", "pos": "adj", "tr": "возможный", "ex": "Is it possible?", "exRu": "Это возможно?"}
+{"i": 779, "id": "a1-0780", "w": "impossible", "pos": "adj", "tr": "невозможный", "ex": "That seems impossible.", "exRu": "Кажется невозможным."}
+{"i": 780, "id": "a1-0781", "w": "sure", "pos": "adj", "tr": "уверенный", "ex": "Are you sure?", "exRu": "Ты уверен?"}
+{"i": 781, "id": "a1-0782", "w": "clear", "pos": "adj", "tr": "ясный", "ex": "The sky is clear.", "exRu": "Небо ясное."}
+{"i": 782, "id": "a1-0783", "w": "dark", "pos": "adj", "tr": "тёмный", "ex": "It is dark outside.", "exRu": "На улице темно."}
+{"i": 783, "id": "a1-0784", "w": "bright", "pos": "adj", "tr": "яркий", "ex": "A bright light shines.", "exRu": "Светит яркий свет."}
+{"i": 784, "id": "a1-0785", "w": "dry", "pos": "adj", "tr": "сухой", "ex": "Keep the floor dry.", "exRu": "Держи пол сухим."}
+{"i": 785, "id": "a1-0786", "w": "wet", "pos": "adj", "tr": "мокрый", "ex": "My shoes are wet.", "exRu": "Обувь мокрая."}
+{"i": 786, "id": "a1-0787", "w": "sweet", "pos": "adj", "tr": "сладкий", "ex": "This cake is sweet.", "exRu": "Торт сладкий."}
+{"i": 787, "id": "a1-0788", "w": "sour", "pos": "adj", "tr": "кислый", "ex": "Lemons taste sour.", "exRu": "Лимоны кислые."}
+{"i": 788, "id": "a1-0789", "w": "salty", "pos": "adj", "tr": "солёный", "ex": "The soup is salty.", "exRu": "Суп солёный."}
+{"i": 789, "id": "a1-0790", "w": "spicy", "pos": "adj", "tr": "острый", "ex": "This sauce is spicy.", "exRu": "Соус острый."}
+{"i": 790, "id": "a1-0791", "w": "fresh", "pos": "adj", "tr": "свежий", "ex": "Buy fresh fruit.", "exRu": "Купи свежие фрукты."}
+{"i": 791, "id": "a1-0792", "w": "raw", "pos": "adj", "tr": "сырой", "ex": "Do not eat raw meat.", "exRu": "Не ешь сырое мясо."}
+{"i": 792, "id": "a1-0793", "w": "healthy", "pos": "adj", "tr": "здоровый", "ex": "Eat healthy food.", "exRu": "Ешь здоровую еду."}
+{"i": 793, "id": "a1-0794", "w": "sick", "pos": "adj", "tr": "больной", "ex": "I feel sick today.", "exRu": "Сегодня мне плохо."}
+{"i": 794, "id": "a1-0795", "w": "dead", "pos": "adj", "tr": "мёртвый", "ex": "The battery is dead.", "exRu": "Батарея села."}
+{"i": 795, "id": "a1-0796", "w": "alive", "pos": "adj", "tr": "живой", "ex": "The plant is alive.", "exRu": "Растение живое."}
+{"i": 796, "id": "a1-0797", "w": "afraid", "pos": "adj", "tr": "испуганный", "ex": "Do not be afraid.", "exRu": "Не бойся."}
+{"i": 797, "id": "a1-0798", "w": "surprised", "pos": "adj", "tr": "удивлённый", "ex": "I am surprised.", "exRu": "Я удивлён."}
+{"i": 798, "id": "a1-0799", "w": "excited", "pos": "adj", "tr": "взволнованный", "ex": "Kids are excited.", "exRu": "Дети взволнованы."}
+{"i": 799, "id": "a1-0800", "w": "bored", "pos": "adj", "tr": "скучающий", "ex": "I am bored at home.", "exRu": "Мне дома скучно."}
+{"i": 800, "id": "a1-0801", "w": "worried", "pos": "adj", "tr": "обеспокоенный", "ex": "I am worried about you.", "exRu": "Я о тебе беспокоюсь."}
+{"i": 801, "id": "a1-0802", "w": "lucky", "pos": "adj", "tr": "везучий", "ex": "I feel lucky today.", "exRu": "Сегодня мне везёт."}
+{"i": 802, "id": "a1-0803", "w": "useful", "pos": "adj", "tr": "полезный", "ex": "This tip is useful.", "exRu": "Совет полезный."}
+{"i": 803, "id": "a1-0804", "w": "useless", "pos": "adj", "tr": "бесполезный", "ex": "That advice is useless.", "exRu": "Совет бесполезный."}
+{"i": 804, "id": "a1-0805", "w": "careful", "pos": "adj", "tr": "осторожный", "ex": "Be careful on ice.", "exRu": "Осторожнее на льду."}
+{"i": 805, "id": "a1-0806", "w": "color", "pos": "noun", "tr": "цвет", "ex": "What is your favorite color?", "exRu": "Какой твой любимый цвет?"}
+{"i": 806, "id": "a1-0807", "w": "red", "pos": "adj", "tr": "красный", "ex": "A red apple looks ripe.", "exRu": "Красное яблоко спелое."}
+{"i": 807, "id": "a1-0808", "w": "blue", "pos": "adj", "tr": "синий", "ex": "The blue sky is clear.", "exRu": "Синее небо ясное."}
+{"i": 808, "id": "a1-0809", "w": "green", "pos": "adj", "tr": "зелёный", "ex": "Green grass grows fast.", "exRu": "Зелёная трава быстро растёт."}
+{"i": 809, "id": "a1-0810", "w": "yellow", "pos": "adj", "tr": "жёлтый", "ex": "A yellow sun rises.", "exRu": "Встаёт жёлтое солнце."}
+{"i": 810, "id": "a1-0811", "w": "black", "pos": "adj", "tr": "чёрный", "ex": "A black cat walks by.", "exRu": "Проходит чёрная кошка."}
+{"i": 811, "id": "a1-0812", "w": "white", "pos": "adj", "tr": "белый", "ex": "White snow covers all.", "exRu": "Белый снег всё покрывает."}
+{"i": 812, "id": "a1-0813", "w": "brown", "pos": "adj", "tr": "коричневый", "ex": "Brown shoes look nice.", "exRu": "Коричневые туфли красивые."}
+{"i": 813, "id": "a1-0814", "w": "gray", "pos": "adj", "tr": "серый", "ex": "A gray cloud hangs.", "exRu": "Висит серое облако."}
+{"i": 814, "id": "a1-0815", "w": "grey", "pos": "adj", "tr": "серый", "ex": "Grey walls look calm.", "exRu": "Серые стены спокойны."}
+{"i": 815, "id": "a1-0816", "w": "pink", "pos": "adj", "tr": "розовый", "ex": "A pink flower blooms.", "exRu": "Цветёт розовый цветок."}
+{"i": 816, "id": "a1-0817", "w": "purple", "pos": "adj", "tr": "фиолетовый", "ex": "A purple bag is rare.", "exRu": "Фиолетовая сумка редка."}
+{"i": 817, "id": "a1-0818", "w": "zero", "pos": "other", "tr": "ноль", "ex": "Start from zero.", "exRu": "Начни с нуля."}
+{"i": 818, "id": "a1-0819", "w": "one", "pos": "other", "tr": "один", "ex": "I have one brother.", "exRu": "У меня один брат."}
+{"i": 819, "id": "a1-0820", "w": "two", "pos": "other", "tr": "два", "ex": "I need two tickets.", "exRu": "Мне нужны два билета."}
+{"i": 820, "id": "a1-0821", "w": "three", "pos": "other", "tr": "три", "ex": "Count to three.", "exRu": "Сосчитай до трёх."}
+{"i": 821, "id": "a1-0822", "w": "four", "pos": "other", "tr": "четыре", "ex": "There are four chairs.", "exRu": "Есть четыре стула."}
+{"i": 822, "id": "a1-0823", "w": "five", "pos": "other", "tr": "пять", "ex": "Give me five minutes.", "exRu": "Дай мне пять минут."}
+{"i": 823, "id": "a1-0824", "w": "six", "pos": "other", "tr": "шесть", "ex": "We meet at six.", "exRu": "Встречаемся в шесть."}
+{"i": 824, "id": "a1-0825", "w": "seven", "pos": "other", "tr": "семь", "ex": "Seven days in a week.", "exRu": "В неделе семь дней."}
+{"i": 825, "id": "a1-0826", "w": "eight", "pos": "other", "tr": "восемь", "ex": "I sleep eight hours.", "exRu": "Я сплю восемь часов."}
+{"i": 826, "id": "a1-0827", "w": "nine", "pos": "other", "tr": "девять", "ex": "Work starts at nine.", "exRu": "Работа с девяти."}
+{"i": 827, "id": "a1-0828", "w": "ten", "pos": "other", "tr": "десять", "ex": "Count to ten.", "exRu": "Сосчитай до десяти."}
+{"i": 828, "id": "a1-0829", "w": "eleven", "pos": "other", "tr": "одиннадцать", "ex": "Eleven players on a team.", "exRu": "В команде одиннадцать."}
+{"i": 829, "id": "a1-0830", "w": "twelve", "pos": "other", "tr": "двенадцать", "ex": "Twelve months in a year.", "exRu": "В году двенадцать месяцев."}
+{"i": 830, "id": "a1-0831", "w": "thirteen", "pos": "other", "tr": "тринадцать", "ex": "Floor thirteen is quiet.", "exRu": "Тринадцатый этаж тихий."}
+{"i": 831, "id": "a1-0832", "w": "fourteen", "pos": "other", "tr": "четырнадцать", "ex": "She is fourteen years old.", "exRu": "Ей четырнадцать."}
+{"i": 832, "id": "a1-0833", "w": "fifteen", "pos": "other", "tr": "пятнадцать", "ex": "Wait fifteen minutes.", "exRu": "Подожди пятнадцать минут."}
+{"i": 833, "id": "a1-0834", "w": "sixteen", "pos": "other", "tr": "шестнадцать", "ex": "Sixteen candles on a cake.", "exRu": "На торте шестнадцать свечей."}
+{"i": 834, "id": "a1-0835", "w": "seventeen", "pos": "other", "tr": "семнадцать", "ex": "He is seventeen.", "exRu": "Ему семнадцать."}
+{"i": 835, "id": "a1-0836", "w": "eighteen", "pos": "other", "tr": "восемнадцать", "ex": "Eighteen is adult age.", "exRu": "Восемнадцать — взрослый возраст."}
+{"i": 836, "id": "a1-0837", "w": "nineteen", "pos": "other", "tr": "девятнадцать", "ex": "Nineteen students arrive.", "exRu": "Приходят девятнадцать студентов."}
+{"i": 837, "id": "a1-0838", "w": "twenty", "pos": "other", "tr": "двадцать", "ex": "I have twenty dollars.", "exRu": "У меня двадцать долларов."}
+{"i": 838, "id": "a1-0839", "w": "thirty", "pos": "other", "tr": "тридцать", "ex": "Thirty days in some months.", "exRu": "В некоторых месяцах тридцать дней."}
+{"i": 839, "id": "a1-0840", "w": "forty", "pos": "other", "tr": "сорок", "ex": "Forty minutes left.", "exRu": "Осталось сорок минут."}
+{"i": 840, "id": "a1-0841", "w": "fifty", "pos": "other", "tr": "пятьдесят", "ex": "Fifty people wait.", "exRu": "Ждут пятьдесят человек."}
+{"i": 841, "id": "a1-0842", "w": "sixty", "pos": "other", "tr": "шестьдесят", "ex": "Sixty seconds in a minute.", "exRu": "В минуте шестьдесят секунд."}
+{"i": 842, "id": "a1-0843", "w": "seventy", "pos": "other", "tr": "семьдесят", "ex": "Seventy years is a long life.", "exRu": "Семьдесят лет — долгая жизнь."}
+{"i": 843, "id": "a1-0844", "w": "eighty", "pos": "other", "tr": "восемьдесят", "ex": "Eighty percent is high.", "exRu": "Восемьдесят процентов — много."}
+{"i": 844, "id": "a1-0845", "w": "ninety", "pos": "other", "tr": "девяносто", "ex": "Ninety minutes of football.", "exRu": "Девяносто минут футбола."}
+{"i": 845, "id": "a1-0846", "w": "hundred", "pos": "other", "tr": "сто", "ex": "One hundred percent.", "exRu": "Сто процентов."}
+{"i": 846, "id": "a1-0847", "w": "thousand", "pos": "other", "tr": "тысяча", "ex": "A thousand stars shine.", "exRu": "Светят тысяча звёзд."}
+{"i": 847, "id": "a1-0848", "w": "million", "pos": "other", "tr": "миллион", "ex": "A million people live here.", "exRu": "Здесь живёт миллион людей."}
+{"i": 848, "id": "a1-0849", "w": "half", "pos": "noun", "tr": "половина", "ex": "Take half of the cake.", "exRu": "Возьми половину торта."}
+{"i": 849, "id": "a1-0850", "w": "pair", "pos": "noun", "tr": "пара", "ex": "A pair of shoes.", "exRu": "Пара туфель."}
+{"i": 850, "id": "a1-0851", "w": "dozen", "pos": "noun", "tr": "дюжина", "ex": "A dozen eggs, please.", "exRu": "Дюжину яиц, пожалуйста."}
+{"i": 851, "id": "a1-0852", "w": "thank you", "pos": "phrase", "tr": "спасибо", "ex": "Thank you very much.", "exRu": "Большое спасибо."}
+{"i": 852, "id": "a1-0853", "w": "excuse me", "pos": "phrase", "tr": "извините", "ex": "Excuse me, where is the exit?", "exRu": "Извините, где выход?"}
+{"i": 853, "id": "a1-0854", "w": "of course", "pos": "phrase", "tr": "конечно", "ex": "Of course I can help.", "exRu": "Конечно, я могу помочь."}
+{"i": 854, "id": "a1-0855", "w": "all right", "pos": "phrase", "tr": "хорошо", "ex": "All right, let's start.", "exRu": "Хорошо, начнём."}
+{"i": 855, "id": "a1-0856", "w": "see you", "pos": "phrase", "tr": "увидимся", "ex": "See you later!", "exRu": "Увидимся позже!"}
+{"i": 856, "id": "a1-0857", "w": "good morning", "pos": "phrase", "tr": "доброе утро", "ex": "Good morning, class.", "exRu": "Доброе утро, класс."}
+{"i": 857, "id": "a1-0858", "w": "good night", "pos": "phrase", "tr": "спокойной ночи", "ex": "Good night, sleep well.", "exRu": "Спокойной ночи."}
+{"i": 858, "id": "a1-0859", "w": "how much", "pos": "phrase", "tr": "сколько (цена)", "ex": "How much is this?", "exRu": "Сколько это стоит?"}
+{"i": 859, "id": "a1-0860", "w": "how many", "pos": "phrase", "tr": "сколько (число)", "ex": "How many books do you have?", "exRu": "Сколько у тебя книг?"}
+{"i": 860, "id": "a1-0861", "w": "a lot", "pos": "phrase", "tr": "много", "ex": "I have a lot of work.", "exRu": "У меня много работы."}
+{"i": 861, "id": "a1-0862", "w": "a little", "pos": "phrase", "tr": "немного", "ex": "I speak a little French.", "exRu": "Я немного говорю по-французски."}
+{"i": 862, "id": "a1-0863", "w": "each other", "pos": "phrase", "tr": "друг друга", "ex": "They help each other.", "exRu": "Они помогают друг другу."}
+{"i": 863, "id": "a1-0864", "w": "something", "pos": "other", "tr": "что-то", "ex": "I need something cold.", "exRu": "Мне нужно что-то холодное."}
+{"i": 864, "id": "a1-0865", "w": "anything", "pos": "other", "tr": "что угодно", "ex": "Do you need anything?", "exRu": "Тебе что-нибудь нужно?"}
+{"i": 865, "id": "a1-0866", "w": "nothing", "pos": "other", "tr": "ничего", "ex": "Nothing is wrong.", "exRu": "Ничего не случилось."}
+{"i": 866, "id": "a1-0867", "w": "someone", "pos": "other", "tr": "кто-то", "ex": "Someone is at the door.", "exRu": "Кто-то у двери."}
+{"i": 867, "id": "a1-0868", "w": "anyone", "pos": "other", "tr": "кто угодно", "ex": "Can anyone help?", "exRu": "Кто-нибудь может помочь?"}
+{"i": 868, "id": "a1-0869", "w": "everyone", "pos": "other", "tr": "все", "ex": "Everyone is welcome.", "exRu": "Все желанны."}
+{"i": 869, "id": "a1-0870", "w": "nobody", "pos": "other", "tr": "никто", "ex": "Nobody knows the answer.", "exRu": "Никто не знает ответа."}
+{"i": 870, "id": "a1-0871", "w": "everything", "pos": "other", "tr": "всё", "ex": "Everything is ready.", "exRu": "Всё готово."}
+{"i": 871, "id": "a1-0872", "w": "anywhere", "pos": "adv", "tr": "куда угодно", "ex": "We can go anywhere.", "exRu": "Мы можем пойти куда угодно."}
+{"i": 872, "id": "a1-0873", "w": "nowhere", "pos": "adv", "tr": "нигде", "ex": "I have nowhere to go.", "exRu": "Мне некуда идти."}
+{"i": 873, "id": "a1-0874", "w": "own", "pos": "adj", "tr": "свой", "ex": "This is my own room.", "exRu": "Это моя собственная комната."}
+{"i": 874, "id": "a1-0875", "w": "other", "pos": "adj", "tr": "другой", "ex": "Try the other door.", "exRu": "Попробуй другую дверь."}
+{"i": 875, "id": "a1-0876", "w": "another", "pos": "adj", "tr": "ещё один", "ex": "I need another pen.", "exRu": "Мне нужна ещё одна ручка."}
+{"i": 876, "id": "a1-0877", "w": "both", "pos": "other", "tr": "оба", "ex": "Both answers are right.", "exRu": "Оба ответа верны."}
+{"i": 877, "id": "a1-0878", "w": "all", "pos": "other", "tr": "все", "ex": "All students are here.", "exRu": "Все студенты здесь."}
+{"i": 878, "id": "a1-0879", "w": "some", "pos": "other", "tr": "несколько", "ex": "I need some help.", "exRu": "Мне нужна помощь."}
+{"i": 879, "id": "a1-0880", "w": "any", "pos": "other", "tr": "любой", "ex": "Take any seat.", "exRu": "Садись на любое место."}

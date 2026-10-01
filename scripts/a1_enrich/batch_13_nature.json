@@ -1,0 +1,479 @@
+{
+  "a1-0580": {
+    "examples": [
+      {
+        "en": "The tree is tall.",
+        "ru": "Дерево высокое."
+      },
+      {
+        "en": "Sit under that tree for shade.",
+        "ru": "Сядь под то дерево в тень."
+      },
+      {
+        "en": "They planted a young tree.",
+        "ru": "Они посадили молодое дерево."
+      }
+    ],
+    "colloc": "family tree · climb a tree"
+  },
+  "a1-0581": {
+    "examples": [
+      {
+        "en": "This flower smells nice.",
+        "ru": "Цветок приятно пахнет."
+      },
+      {
+        "en": "She picked wild flowers.",
+        "ru": "Она нарвала полевых цветов."
+      },
+      {
+        "en": "Water the flowers every morning.",
+        "ru": "Поливай цветы каждое утро."
+      }
+    ],
+    "colloc": "flower shop · flower pot"
+  },
+  "a1-0582": {
+    "examples": [
+      {
+        "en": "The grass is green.",
+        "ru": "Трава зелёная."
+      },
+      {
+        "en": "Don't walk on the wet grass.",
+        "ru": "Не ходи по мокрой траве."
+      },
+      {
+        "en": "The grass needs cutting.",
+        "ru": "Траву нужно косить."
+      }
+    ],
+    "colloc": "grass stain · green grass"
+  },
+  "a1-0583": {
+    "examples": [
+      {
+        "en": "A yellow leaf falls.",
+        "ru": "Жёлтый лист падает."
+      },
+      {
+        "en": "A yellow leaf fell on my book.",
+        "ru": "Жёлтый лист упал на книгу."
+      },
+      {
+        "en": "Rake the leaves this weekend.",
+        "ru": "Сгреби листья в эти выходные."
+      }
+    ],
+    "colloc": "leaf through · autumn leaves",
+    "note": "leaf → leaves"
+  },
+  "a1-0584": {
+    "examples": [
+      {
+        "en": "We walk in the forest.",
+        "ru": "Мы гуляем в лесу."
+      },
+      {
+        "en": "We hiked through the forest.",
+        "ru": "Мы шли пешком через лес."
+      },
+      {
+        "en": "The forest is quiet at dawn.",
+        "ru": "На рассвете в лесу тихо."
+      }
+    ],
+    "colloc": "forest fire · dense forest"
+  },
+  "a1-0585": {
+    "examples": [
+      {
+        "en": "The mountain is high.",
+        "ru": "Гора высокая."
+      },
+      {
+        "en": "Snow covers the mountain tops.",
+        "ru": "Снег покрывает вершины гор."
+      },
+      {
+        "en": "We climbed a small mountain.",
+        "ru": "Мы взошли на небольшую гору."
+      }
+    ],
+    "colloc": "mountain view · mountain bike"
+  },
+  "a1-0586": {
+    "examples": [
+      {
+        "en": "Climb the small hill.",
+        "ru": "Поднимись на холм."
+      },
+      {
+        "en": "Their house sits on a hill.",
+        "ru": "Их дом стоит на холме."
+      },
+      {
+        "en": "Kids rolled down the hill.",
+        "ru": "Дети катались с холма."
+      }
+    ],
+    "colloc": "uphill · downhill"
+  },
+  "a1-0587": {
+    "examples": [
+      {
+        "en": "The river is wide.",
+        "ru": "Река широкая."
+      },
+      {
+        "en": "The river runs through the city.",
+        "ru": "Река течёт через город."
+      },
+      {
+        "en": "We swam in the river.",
+        "ru": "Мы купались в реке."
+      }
+    ],
+    "colloc": "river bank · across the river"
+  },
+  "a1-0588": {
+    "examples": [
+      {
+        "en": "We swim in the lake.",
+        "ru": "Мы плаваем в озере."
+      },
+      {
+        "en": "The lake freezes in winter.",
+        "ru": "Зимой озеро замерзает."
+      },
+      {
+        "en": "Rent a boat on the lake.",
+        "ru": "Арендуй лодку на озере."
+      }
+    ],
+    "colloc": "lake shore · lake house"
+  },
+  "a1-0589": {
+    "examples": [
+      {
+        "en": "The sea is blue.",
+        "ru": "Море синее."
+      },
+      {
+        "en": "Waves crashed into the sea wall.",
+        "ru": "Волны били о морскую стену."
+      },
+      {
+        "en": "We spent a week by the sea.",
+        "ru": "Мы провели неделю у моря."
+      }
+    ],
+    "colloc": "sea salt · at sea"
+  },
+  "a1-0590": {
+    "examples": [
+      {
+        "en": "The ocean is deep.",
+        "ru": "Океан глубокий."
+      },
+      {
+        "en": "The ocean looks endless.",
+        "ru": "Океан кажется бесконечным."
+      },
+      {
+        "en": "Ships cross the ocean.",
+        "ru": "Корабли пересекают океан."
+      }
+    ],
+    "colloc": "ocean view · Pacific Ocean"
+  },
+  "a1-0591": {
+    "examples": [
+      {
+        "en": "Kids play on the beach.",
+        "ru": "Дети играют на пляже."
+      },
+      {
+        "en": "Kids built castles on the beach.",
+        "ru": "Дети строили замки на пляже."
+      },
+      {
+        "en": "Let's go to the beach tomorrow.",
+        "ru": "Давай завтра на пляж."
+      }
+    ],
+    "colloc": "beach towel · sandy beach"
+  },
+  "a1-0592": {
+    "examples": [
+      {
+        "en": "The island is small.",
+        "ru": "Остров маленький."
+      },
+      {
+        "en": "We ferried to a small island.",
+        "ru": "Мы переправились на маленький остров."
+      },
+      {
+        "en": "The island has one hotel.",
+        "ru": "На острове один отель."
+      }
+    ],
+    "colloc": "desert island · island hop"
+  },
+  "a1-0593": {
+    "examples": [
+      {
+        "en": "The sun is bright.",
+        "ru": "Солнце яркое."
+      },
+      {
+        "en": "The sun rises early in summer.",
+        "ru": "Летом солнце встаёт рано."
+      },
+      {
+        "en": "Don't look directly at the sun.",
+        "ru": "Не смотри прямо на солнце."
+      }
+    ],
+    "colloc": "sunrise · sunshine · sunny day"
+  },
+  "a1-0594": {
+    "examples": [
+      {
+        "en": "The moon is full.",
+        "ru": "Луна полная."
+      },
+      {
+        "en": "The moon is full tonight.",
+        "ru": "Сегодня полнолуние."
+      },
+      {
+        "en": "A bright moon lit the path.",
+        "ru": "Яркая луна осветила тропу."
+      }
+    ],
+    "colloc": "full moon · moonlight"
+  },
+  "a1-0595": {
+    "examples": [
+      {
+        "en": "A star shines at night.",
+        "ru": "Звезда светит ночью."
+      },
+      {
+        "en": "Stars filled the clear sky.",
+        "ru": "Звёзды заполнили ясное небо."
+      },
+      {
+        "en": "Wish upon a star.",
+        "ru": "Загадай желание на звезду."
+      }
+    ],
+    "colloc": "movie star · star light"
+  },
+  "a1-0596": {
+    "examples": [
+      {
+        "en": "The sky is clear.",
+        "ru": "Небо ясное."
+      },
+      {
+        "en": "The sky turned pink at sunset.",
+        "ru": "На закате небо стало розовым."
+      },
+      {
+        "en": "Planes crossed the sky.",
+        "ru": "Самолёты пересекали небо."
+      }
+    ],
+    "colloc": "blue sky · sky blue"
+  },
+  "a1-0597": {
+    "examples": [
+      {
+        "en": "A dark cloud comes.",
+        "ru": "Надвигается тёмное облако."
+      },
+      {
+        "en": "Dark clouds mean rain.",
+        "ru": "Тёмные облака — к дождю."
+      },
+      {
+        "en": "A single cloud drifted by.",
+        "ru": "Одно облако проплыло мимо."
+      }
+    ],
+    "colloc": "cloud storage · storm cloud"
+  },
+  "a1-0598": {
+    "examples": [
+      {
+        "en": "The wind is cold.",
+        "ru": "Ветер холодный."
+      },
+      {
+        "en": "The wind blew my hat off.",
+        "ru": "Ветер снёс шляпу."
+      },
+      {
+        "en": "A cold wind came from the north.",
+        "ru": "С севера пришёл холодный ветер."
+      }
+    ],
+    "colloc": "strong wind · wind power"
+  },
+  "a1-0599": {
+    "examples": [
+      {
+        "en": "A storm is coming.",
+        "ru": "Приближается шторм."
+      },
+      {
+        "en": "A storm is coming tonight.",
+        "ru": "Сегодня ночью будет буря."
+      },
+      {
+        "en": "We waited out the storm indoors.",
+        "ru": "Мы переждали бурю в помещении."
+      }
+    ],
+    "colloc": "storm warning · thunderstorm"
+  },
+  "a1-0600": {
+    "examples": [
+      {
+        "en": "The weather is nice.",
+        "ru": "Погода хорошая."
+      },
+      {
+        "en": "The weather changed quickly.",
+        "ru": "Погода быстро изменилась."
+      },
+      {
+        "en": "Nice weather for a walk.",
+        "ru": "Хорошая погода для прогулки."
+      }
+    ],
+    "colloc": "weather forecast · bad weather"
+  },
+  "a1-0601": {
+    "examples": [
+      {
+        "en": "Check the temperature.",
+        "ru": "Проверь температуру."
+      },
+      {
+        "en": "The temperature dropped overnight.",
+        "ru": "За ночь температура упала."
+      },
+      {
+        "en": "Check the oven temperature.",
+        "ru": "Проверь температуру духовки."
+      }
+    ],
+    "colloc": "body temperature · room temperature"
+  },
+  "a1-0602": {
+    "examples": [
+      {
+        "en": "Keep away from fire.",
+        "ru": "Держись подальше от огня."
+      },
+      {
+        "en": "Keep kids away from the fire.",
+        "ru": "Держи детей подальше от огня."
+      },
+      {
+        "en": "Fire destroyed the old barn.",
+        "ru": "Огонь уничтожил старый сарай."
+      }
+    ],
+    "colloc": "camp fire · fire alarm · catch fire"
+  },
+  "a1-0603": {
+    "examples": [
+      {
+        "en": "We live on Earth.",
+        "ru": "Мы живём на Земле."
+      },
+      {
+        "en": "The earth turns around the sun.",
+        "ru": "Земля вращается вокруг солнца."
+      },
+      {
+        "en": "Dig into the soft earth.",
+        "ru": "Копай мягкую землю."
+      }
+    ],
+    "colloc": "planet Earth · earth science"
+  },
+  "a1-0604": {
+    "examples": [
+      {
+        "en": "Sit on the ground.",
+        "ru": "Сядь на землю."
+      },
+      {
+        "en": "Sit on the ground and rest.",
+        "ru": "Сядь на землю и отдохни."
+      },
+      {
+        "en": "The ground was wet after rain.",
+        "ru": "После дождя земля была мокрой."
+      }
+    ],
+    "colloc": "on the ground · ground floor"
+  },
+  "a1-0605": {
+    "examples": [
+      {
+        "en": "Throw a small stone.",
+        "ru": "Брось маленький камень."
+      },
+      {
+        "en": "He skipped a stone on the water.",
+        "ru": "Он пустил камень по воде."
+      },
+      {
+        "en": "The path is made of stone.",
+        "ru": "Тропа выложена камнем."
+      }
+    ],
+    "colloc": "stone wall · leave no stone unturned"
+  },
+  "a1-0606": {
+    "examples": [
+      {
+        "en": "Sand is soft and warm.",
+        "ru": "Песок мягкий и тёплый."
+      },
+      {
+        "en": "Sand got into my shoes.",
+        "ru": "Песок попал в туфли."
+      },
+      {
+        "en": "Kids dug in the sand.",
+        "ru": "Дети копали в песке."
+      }
+    ],
+    "colloc": "sand castle · beach sand"
+  },
+  "a1-0607": {
+    "examples": [
+      {
+        "en": "Fresh air feels good.",
+        "ru": "Свежий воздух приятен."
+      },
+      {
+        "en": "Open a window for fresh air.",
+        "ru": "Открой окно для свежего воздуха."
+      },
+      {
+        "en": "The air feels cold tonight.",
+        "ru": "Воздух сегодня холодный."
+      }
+    ],
+    "colloc": "fresh air · air conditioning"
+  }
+}

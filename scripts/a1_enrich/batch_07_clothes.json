@@ -1,0 +1,430 @@
+{
+  "a1-0425": {
+    "examples": [
+      {
+        "en": "Wash your clothes today.",
+        "ru": "Постирай одежду."
+      },
+      {
+        "en": "Pack warm clothes for the trip.",
+        "ru": "Возьми тёплую одежду в поездку."
+      },
+      {
+        "en": "Wash your dirty clothes today.",
+        "ru": "Постирай сегодня грязную одежду."
+      }
+    ],
+    "colloc": "change clothes · clothes shop"
+  },
+  "a1-0426": {
+    "examples": [
+      {
+        "en": "This shirt is blue.",
+        "ru": "Рубашка синяя."
+      },
+      {
+        "en": "I ironed my white shirt.",
+        "ru": "Я погладил белую рубашку."
+      },
+      {
+        "en": "This shirt is too small.",
+        "ru": "Эта рубашка слишком маленькая."
+      }
+    ],
+    "colloc": "t-shirt · dress shirt"
+  },
+  "a1-0427": {
+    "examples": [
+      {
+        "en": "I wear a t-shirt.",
+        "ru": "Я ношу футболку."
+      },
+      {
+        "en": "She wore a blue t-shirt.",
+        "ru": "Она надела синюю футболку."
+      },
+      {
+        "en": "I sleep in an old t-shirt.",
+        "ru": "Я сплю в старой футболке."
+      }
+    ],
+    "colloc": "cotton t-shirt"
+  },
+  "a1-0428": {
+    "examples": [
+      {
+        "en": "These pants are long.",
+        "ru": "Брюки длинные."
+      },
+      {
+        "en": "These pants need a belt.",
+        "ru": "Этим брюкам нужен ремень."
+      },
+      {
+        "en": "He bought new pants downtown.",
+        "ru": "Он купил новые брюки в центре."
+      }
+    ],
+    "colloc": "pair of pants",
+    "note": "AmE: pants; BrE: trousers"
+  },
+  "a1-0429": {
+    "examples": [
+      {
+        "en": "My jeans are old.",
+        "ru": "Джинсы старые."
+      },
+      {
+        "en": "My favorite jeans are faded.",
+        "ru": "Мои любимые джинсы выцвели."
+      },
+      {
+        "en": "Do these jeans fit?",
+        "ru": "Эти джинсы подходят?"
+      }
+    ],
+    "colloc": "blue jeans · pair of jeans"
+  },
+  "a1-0430": {
+    "examples": [
+      {
+        "en": "She wears a red dress.",
+        "ru": "Она в красном платье."
+      },
+      {
+        "en": "She wore a red dress to the party.",
+        "ru": "Она надела красное платье на вечеринку."
+      },
+      {
+        "en": "This dress is on sale.",
+        "ru": "Это платье со скидкой."
+      }
+    ],
+    "colloc": "summer dress · wedding dress"
+  },
+  "a1-0431": {
+    "examples": [
+      {
+        "en": "The skirt is short.",
+        "ru": "Юбка короткая."
+      },
+      {
+        "en": "Her skirt matches the blouse.",
+        "ru": "Юбка сочетается с блузкой."
+      },
+      {
+        "en": "I need a longer skirt.",
+        "ru": "Мне нужна более длинная юбка."
+      }
+    ],
+    "colloc": "long skirt · skirt length"
+  },
+  "a1-0432": {
+    "examples": [
+      {
+        "en": "Wear a warm jacket.",
+        "ru": "Надень тёплую куртку."
+      },
+      {
+        "en": "Take a jacket — it's windy.",
+        "ru": "Возьми куртку — ветрено."
+      },
+      {
+        "en": "He hung his jacket by the door.",
+        "ru": "Он повесил куртку у двери."
+      }
+    ],
+    "colloc": "leather jacket · jacket pocket"
+  },
+  "a1-0433": {
+    "examples": [
+      {
+        "en": "Hang up your coat.",
+        "ru": "Повесь пальто."
+      },
+      {
+        "en": "Hang your coat on the hook.",
+        "ru": "Повесь пальто на крючок."
+      },
+      {
+        "en": "I need a warmer coat.",
+        "ru": "Мне нужно более тёплое пальто."
+      }
+    ],
+    "colloc": "winter coat · coat rack"
+  },
+  "a1-0434": {
+    "examples": [
+      {
+        "en": "This sweater is soft.",
+        "ru": "Свитер мягкий."
+      },
+      {
+        "en": "Pull on a sweater if you're cold.",
+        "ru": "Надень свитер, если холодно."
+      },
+      {
+        "en": "This sweater itches.",
+        "ru": "Этот свитер колется."
+      }
+    ],
+    "colloc": "wool sweater",
+    "note": "AmE: sweater; BrE: jumper"
+  },
+  "a1-0435": {
+    "examples": [
+      {
+        "en": "Put on your hat.",
+        "ru": "Надень шапку."
+      },
+      {
+        "en": "Wear a hat in the sun.",
+        "ru": "Носи шляпу на солнце."
+      },
+      {
+        "en": "He tipped his hat and smiled.",
+        "ru": "Он приподнял шляпу и улыбнулся."
+      }
+    ],
+    "colloc": "sun hat · hat rack"
+  },
+  "a1-0436": {
+    "examples": [
+      {
+        "en": "His cap is black.",
+        "ru": "Кепка чёрная."
+      },
+      {
+        "en": "He put on a baseball cap.",
+        "ru": "Он надел бейсболку."
+      },
+      {
+        "en": "My cap flew off in the wind.",
+        "ru": "Кепку сдуло ветром."
+      }
+    ],
+    "colloc": "baseball cap · bottle cap"
+  },
+  "a1-0437": {
+    "examples": [
+      {
+        "en": "A scarf keeps you warm.",
+        "ru": "Шарф согревает."
+      },
+      {
+        "en": "Wrap a scarf around your neck.",
+        "ru": "Обмотай шею шарфом."
+      },
+      {
+        "en": "She knitted me a scarf.",
+        "ru": "Она связала мне шарф."
+      }
+    ],
+    "colloc": "wool scarf · scarf and gloves"
+  },
+  "a1-0438": {
+    "examples": [
+      {
+        "en": "Wear gloves in winter.",
+        "ru": "Носи перчатки зимой."
+      },
+      {
+        "en": "Wear gloves in the snow.",
+        "ru": "Носи перчатки в снег."
+      },
+      {
+        "en": "I lost one glove on the bus.",
+        "ru": "Я потерял одну перчатку в автобусе."
+      }
+    ],
+    "colloc": "pair of gloves · winter gloves"
+  },
+  "a1-0439": {
+    "examples": [
+      {
+        "en": "I need clean socks.",
+        "ru": "Нужны чистые носки."
+      },
+      {
+        "en": "Put on clean socks.",
+        "ru": "Надень чистые носки."
+      },
+      {
+        "en": "These socks don't match.",
+        "ru": "Эти носки не пара."
+      }
+    ],
+    "colloc": "pair of socks · ankle socks"
+  },
+  "a1-0440": {
+    "examples": [
+      {
+        "en": "These shoes are tight.",
+        "ru": "Туфли тесные."
+      },
+      {
+        "en": "Take off your shoes at the door.",
+        "ru": "Сними обувь у двери."
+      },
+      {
+        "en": "These shoes hurt my feet.",
+        "ru": "Эти туфли жмут."
+      }
+    ],
+    "colloc": "pair of shoes · shoe store"
+  },
+  "a1-0441": {
+    "examples": [
+      {
+        "en": "Wear boots in the snow.",
+        "ru": "Носи ботинки в снегу."
+      },
+      {
+        "en": "She wore boots in the rain.",
+        "ru": "Она надела сапоги под дождь."
+      },
+      {
+        "en": "My boots are muddy.",
+        "ru": "Сапоги в грязи."
+      }
+    ],
+    "colloc": "winter boots · boot camp"
+  },
+  "a1-0442": {
+    "examples": [
+      {
+        "en": "I run in sneakers.",
+        "ru": "Я бегаю в кроссовках."
+      },
+      {
+        "en": "I run in these sneakers.",
+        "ru": "Я бегаю в этих кроссовках."
+      },
+      {
+        "en": "New sneakers feel stiff.",
+        "ru": "Новые кроссовки жёсткие."
+      }
+    ],
+    "colloc": "pair of sneakers",
+    "note": "AmE: sneakers"
+  },
+  "a1-0443": {
+    "examples": [
+      {
+        "en": "Tighten your belt.",
+        "ru": "Затяни ремень."
+      },
+      {
+        "en": "This belt is too tight.",
+        "ru": "Этот ремень слишком тугой."
+      },
+      {
+        "en": "He unbuckled his belt after dinner.",
+        "ru": "Он расстегнул ремень после ужина."
+      }
+    ],
+    "colloc": "leather belt · seat belt"
+  },
+  "a1-0444": {
+    "examples": [
+      {
+        "en": "This button is loose.",
+        "ru": "Пуговица болтается."
+      },
+      {
+        "en": "A button fell off my shirt.",
+        "ru": "С рубашки отлетела пуговица."
+      },
+      {
+        "en": "Button your coat — it's cold.",
+        "ru": "Застегни пальто — холодно."
+      }
+    ],
+    "colloc": "button up · push the button"
+  },
+  "a1-0445": {
+    "examples": [
+      {
+        "en": "Keys are in my pocket.",
+        "ru": "Ключи в кармане."
+      },
+      {
+        "en": "My keys are in my pocket.",
+        "ru": "Ключи у меня в кармане."
+      },
+      {
+        "en": "This jacket has deep pockets.",
+        "ru": "У этой куртки глубокие карманы."
+      }
+    ],
+    "colloc": "pocket money · out of pocket"
+  },
+  "a1-0446": {
+    "examples": [
+      {
+        "en": "Take an umbrella today.",
+        "ru": "Возьми зонт."
+      },
+      {
+        "en": "Take an umbrella — it might rain.",
+        "ru": "Возьми зонт — может пойти дождь."
+      },
+      {
+        "en": "I left my umbrella on the train.",
+        "ru": "Я оставил зонт в поезде."
+      }
+    ],
+    "colloc": "open an umbrella"
+  },
+  "a1-0447": {
+    "examples": [
+      {
+        "en": "I wear glasses.",
+        "ru": "Я ношу очки."
+      },
+      {
+        "en": "I can't read without my glasses.",
+        "ru": "Без очков не могу читать."
+      },
+      {
+        "en": "She cleaned her glasses.",
+        "ru": "Она протёрла очки."
+      }
+    ],
+    "colloc": "pair of glasses · reading glasses"
+  },
+  "a1-0448": {
+    "examples": [
+      {
+        "en": "The ring is gold.",
+        "ru": "Кольцо золотое."
+      },
+      {
+        "en": "He wore a silver ring.",
+        "ru": "Он носил серебряное кольцо."
+      },
+      {
+        "en": "The phone wouldn't stop ringing.",
+        "ru": "Телефон не переставал звонить."
+      }
+    ],
+    "colloc": "wedding ring · ring the bell"
+  },
+  "a1-0449": {
+    "examples": [
+      {
+        "en": "She wears a necklace.",
+        "ru": "Она носит ожерелье."
+      },
+      {
+        "en": "She wore a gold necklace.",
+        "ru": "Она надела золотое ожерелье."
+      },
+      {
+        "en": "This necklace was a gift.",
+        "ru": "Это ожерелье — подарок."
+      }
+    ],
+    "colloc": "pearl necklace"
+  }
+}

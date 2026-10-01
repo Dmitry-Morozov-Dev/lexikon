@@ -1,0 +1,912 @@
+{
+  "a1-0283": {
+    "examples": [
+      {
+        "en": "That man is my uncle.",
+        "ru": "Тот мужчина — мой дядя."
+      },
+      {
+        "en": "A young man held the door.",
+        "ru": "Молодой мужчина придержал дверь."
+      },
+      {
+        "en": "Men and women waited in line.",
+        "ru": "Мужчины и женщины стояли в очереди."
+      }
+    ],
+    "colloc": "young man · old man",
+    "note": "man → men"
+  },
+  "a1-0284": {
+    "examples": [
+      {
+        "en": "The woman at the desk smiled.",
+        "ru": "Женщина за стойкой улыбнулась."
+      },
+      {
+        "en": "She is a strong woman.",
+        "ru": "Она сильная женщина."
+      },
+      {
+        "en": "Two women shared a taxi.",
+        "ru": "Две женщины разделили такси."
+      }
+    ],
+    "colloc": "young woman",
+    "note": "woman → women"
+  },
+  "a1-0285": {
+    "examples": [
+      {
+        "en": "The boy kicked the ball.",
+        "ru": "Мальчик пнул мяч."
+      },
+      {
+        "en": "My little boy is five.",
+        "ru": "Моему младшему сыну пять лет."
+      },
+      {
+        "en": "Boys played in the yard.",
+        "ru": "Мальчики играли во дворе."
+      }
+    ],
+    "colloc": "little boy · boys and girls"
+  },
+  "a1-0286": {
+    "examples": [
+      {
+        "en": "The girl read a book on the bus.",
+        "ru": "Девочка читала книгу в автобусе."
+      },
+      {
+        "en": "She was a shy girl at school.",
+        "ru": "В школе она была застенчивой девочкой."
+      },
+      {
+        "en": "Three girls sang together.",
+        "ru": "Три девочки пели вместе."
+      }
+    ],
+    "colloc": "little girl · teenage girl"
+  },
+  "a1-0287": {
+    "examples": [
+      {
+        "en": "Every child needs love.",
+        "ru": "Каждому ребёнку нужна любовь."
+      },
+      {
+        "en": "The child fell asleep in the car.",
+        "ru": "Ребёнок заснул в машине."
+      },
+      {
+        "en": "She works with children.",
+        "ru": "Она работает с детьми."
+      }
+    ],
+    "colloc": "child care · only child",
+    "note": "child → children"
+  },
+  "a1-0288": {
+    "examples": [
+      {
+        "en": "The children are in the garden.",
+        "ru": "Дети в саду."
+      },
+      {
+        "en": "We have two children.",
+        "ru": "У нас двое детей."
+      },
+      {
+        "en": "Children learn by playing.",
+        "ru": "Дети учатся через игру."
+      }
+    ],
+    "colloc": "children's books · raise children"
+  },
+  "a1-0289": {
+    "examples": [
+      {
+        "en": "The baby is sleeping.",
+        "ru": "Малыш спит."
+      },
+      {
+        "en": "She carried the baby upstairs.",
+        "ru": "Она отнесла малыша наверх."
+      },
+      {
+        "en": "We need baby food.",
+        "ru": "Нам нужно детское питание."
+      }
+    ],
+    "colloc": "baby food · baby brother"
+  },
+  "a1-0290": {
+    "examples": [
+      {
+        "en": "She is my best friend.",
+        "ru": "Она моя лучшая подруга."
+      },
+      {
+        "en": "I met a friend for coffee.",
+        "ru": "Я встретился с другом за кофе."
+      },
+      {
+        "en": "Make new friends at school.",
+        "ru": "Заводи новых друзей в школе."
+      }
+    ],
+    "colloc": "best friend · make friends · close friend"
+  },
+  "a1-0291": {
+    "examples": [
+      {
+        "en": "My family lives in Chicago.",
+        "ru": "Моя семья живёт в Чикаго."
+      },
+      {
+        "en": "We eat dinner as a family.",
+        "ru": "Мы ужинаем всей семьёй."
+      },
+      {
+        "en": "Family comes first.",
+        "ru": "Семья — прежде всего."
+      }
+    ],
+    "colloc": "family member · family dinner · family photo"
+  },
+  "a1-0292": {
+    "examples": [
+      {
+        "en": "My mother makes great soup.",
+        "ru": "Моя мама готовит отличный суп."
+      },
+      {
+        "en": "Call your mother tonight.",
+        "ru": "Позвони маме сегодня вечером."
+      },
+      {
+        "en": "She became a mother last year.",
+        "ru": "Она стала матерью в прошлом году."
+      }
+    ],
+    "colloc": "mother tongue · mother-in-law",
+    "syn": "mom"
+  },
+  "a1-0293": {
+    "examples": [
+      {
+        "en": "My father works at a bank.",
+        "ru": "Мой отец работает в банке."
+      },
+      {
+        "en": "He is a great father.",
+        "ru": "Он отличный отец."
+      },
+      {
+        "en": "Father and son went fishing.",
+        "ru": "Отец и сын пошли на рыбалку."
+      }
+    ],
+    "colloc": "father figure · father-in-law",
+    "syn": "dad"
+  },
+  "a1-0294": {
+    "examples": [
+      {
+        "en": "Talk to your parents about it.",
+        "ru": "Поговори об этом с родителями."
+      },
+      {
+        "en": "Both parents came to the show.",
+        "ru": "Оба родителя пришли на выступление."
+      },
+      {
+        "en": "Parent meetings are on Thursday.",
+        "ru": "Родительские собрания — по четвергам."
+      }
+    ],
+    "colloc": "parent meeting · single parent"
+  },
+  "a1-0295": {
+    "examples": [
+      {
+        "en": "Mom, I'm home!",
+        "ru": "Мам, я дома!"
+      },
+      {
+        "en": "My mom packs my lunch.",
+        "ru": "Мама собирает мне обед."
+      },
+      {
+        "en": "Call Mom when you land.",
+        "ru": "Позвони маме, когда приземлишься."
+      }
+    ],
+    "colloc": "stay-at-home mom",
+    "syn": "mother",
+    "note": "AmE: mom; BrE: mum"
+  },
+  "a1-0296": {
+    "examples": [
+      {
+        "en": "Dad fixed my bike.",
+        "ru": "Папа починил мой велосипед."
+      },
+      {
+        "en": "Ask Dad for a ride.",
+        "ru": "Попроси папу подвезти."
+      },
+      {
+        "en": "My dad loves old movies.",
+        "ru": "Мой папа любит старые фильмы."
+      }
+    ],
+    "colloc": "stay-at-home dad",
+    "syn": "father"
+  },
+  "a1-0297": {
+    "examples": [
+      {
+        "en": "My sister lives in Seattle.",
+        "ru": "Моя сестра живёт в Сиэтле."
+      },
+      {
+        "en": "She has an older sister.",
+        "ru": "У неё есть старшая сестра."
+      },
+      {
+        "en": "Sisters share a bedroom.",
+        "ru": "Сёстры делят спальню."
+      }
+    ],
+    "colloc": "older sister · little sister"
+  },
+  "a1-0298": {
+    "examples": [
+      {
+        "en": "My brother plays soccer.",
+        "ru": "Мой брат играет в футбол."
+      },
+      {
+        "en": "He is like a brother to me.",
+        "ru": "Он мне как брат."
+      },
+      {
+        "en": "Brothers often argue and make up.",
+        "ru": "Братья часто ссорятся и мирятся."
+      }
+    ],
+    "colloc": "older brother · little brother"
+  },
+  "a1-0299": {
+    "examples": [
+      {
+        "en": "Their son is in high school.",
+        "ru": "Их сын учится в старшей школе."
+      },
+      {
+        "en": "She hugged her son goodbye.",
+        "ru": "Она обняла сына на прощание."
+      },
+      {
+        "en": "We named our son after my grandpa.",
+        "ru": "Мы назвали сына в честь деда."
+      }
+    ],
+    "colloc": "son and daughter · only son"
+  },
+  "a1-0300": {
+    "examples": [
+      {
+        "en": "Their daughter starts school soon.",
+        "ru": "Их дочь скоро идёт в школу."
+      },
+      {
+        "en": "I have one daughter.",
+        "ru": "У меня одна дочь."
+      },
+      {
+        "en": "Mother and daughter laughed together.",
+        "ru": "Мать и дочь вместе смеялись."
+      }
+    ],
+    "colloc": "daughter-in-law"
+  },
+  "a1-0301": {
+    "examples": [
+      {
+        "en": "Her husband cooks on Sundays.",
+        "ru": "Её муж готовит по воскресеньям."
+      },
+      {
+        "en": "She met her husband at work.",
+        "ru": "Она познакомилась с мужем на работе."
+      },
+      {
+        "en": "Husband and wife shared the bill.",
+        "ru": "Муж и жена разделили счёт."
+      }
+    ],
+    "colloc": "husband and wife"
+  },
+  "a1-0302": {
+    "examples": [
+      {
+        "en": "His wife is a nurse.",
+        "ru": "Его жена — медсестра."
+      },
+      {
+        "en": "He bought flowers for his wife.",
+        "ru": "Он купил цветы жене."
+      },
+      {
+        "en": "Meet my wife, Laura.",
+        "ru": "Познакомься с моей женой Лорой."
+      }
+    ],
+    "colloc": "husband and wife"
+  },
+  "a1-0303": {
+    "examples": [
+      {
+        "en": "My uncle lives on a farm.",
+        "ru": "Мой дядя живёт на ферме."
+      },
+      {
+        "en": "Uncle Joe is visiting this weekend.",
+        "ru": "Дядя Джо приезжает в эти выходные."
+      },
+      {
+        "en": "I called my uncle for advice.",
+        "ru": "Я позвонил дяде за советом."
+      }
+    ]
+  },
+  "a1-0304": {
+    "examples": [
+      {
+        "en": "My aunt sends birthday cards.",
+        "ru": "Моя тётя присылает открытки на день рождения."
+      },
+      {
+        "en": "Aunt Maria makes the best pie.",
+        "ru": "Тётя Мария печёт лучший пирог."
+      },
+      {
+        "en": "We stayed at our aunt's house.",
+        "ru": "Мы остановились у тёти."
+      }
+    ]
+  },
+  "a1-0305": {
+    "examples": [
+      {
+        "en": "My cousin is the same age as me.",
+        "ru": "Мой двоюродный брат моего возраста."
+      },
+      {
+        "en": "We played with our cousins all day.",
+        "ru": "Мы весь день играли с двоюродными братьями и сёстрами."
+      },
+      {
+        "en": "She invited her cousins to the party.",
+        "ru": "Она пригласила двоюродных на вечеринку."
+      }
+    ]
+  },
+  "a1-0306": {
+    "examples": [
+      {
+        "en": "Grandma tells wonderful stories.",
+        "ru": "Бабушка рассказывает чудесные истории."
+      },
+      {
+        "en": "We visit grandma every Sunday.",
+        "ru": "Каждое воскресенье мы навещаем бабушку."
+      },
+      {
+        "en": "Grandma baked cookies for us.",
+        "ru": "Бабушка испекла нам печенье."
+      }
+    ],
+    "syn": "grandmother"
+  },
+  "a1-0307": {
+    "examples": [
+      {
+        "en": "Grandpa fixed the old radio.",
+        "ru": "Дедушка починил старое радио."
+      },
+      {
+        "en": "I went fishing with grandpa.",
+        "ru": "Я ходил на рыбалку с дедушкой."
+      },
+      {
+        "en": "Grandpa's garden is full of tomatoes.",
+        "ru": "В саду дедушки полно помидоров."
+      }
+    ],
+    "syn": "grandfather"
+  },
+  "a1-0308": {
+    "examples": [
+      {
+        "en": "Our neighbor waters our plants.",
+        "ru": "Сосед поливает наши растения."
+      },
+      {
+        "en": "Be quiet — the neighbors are asleep.",
+        "ru": "Тише — соседи спят."
+      },
+      {
+        "en": "I borrowed sugar from a neighbor.",
+        "ru": "Я одолжил сахар у соседа."
+      }
+    ],
+    "colloc": "next-door neighbor · good neighbor",
+    "note": "AmE: neighbor; BrE: neighbour"
+  },
+  "a1-0309": {
+    "examples": [
+      {
+        "en": "We have guests for dinner.",
+        "ru": "У нас гости на ужин."
+      },
+      {
+        "en": "Please make our guest comfortable.",
+        "ru": "Пожалуйста, устройте гостя поудобнее."
+      },
+      {
+        "en": "Hotel guests get free breakfast.",
+        "ru": "Гостям отеля — бесплатный завтрак."
+      }
+    ],
+    "colloc": "guest room · be my guest"
+  },
+  "a1-0310": {
+    "examples": [
+      {
+        "en": "People waited in the rain.",
+        "ru": "Люди ждали под дождём."
+      },
+      {
+        "en": "Young people use this app.",
+        "ru": "Молодые люди пользуются этим приложением."
+      },
+      {
+        "en": "How many people are coming?",
+        "ru": "Сколько человек придёт?"
+      }
+    ],
+    "colloc": "young people · people say",
+    "note": "people — мн.ч.; one person."
+  },
+  "a1-0311": {
+    "examples": [
+      {
+        "en": "She is a kind person.",
+        "ru": "Она добрый человек."
+      },
+      {
+        "en": "One person per ticket.",
+        "ru": "Один человек — один билет."
+      },
+      {
+        "en": "I'd like to meet her in person.",
+        "ru": "Я хотел бы встретиться с ней лично."
+      }
+    ],
+    "colloc": "in person · per person"
+  },
+  "a1-0312": {
+    "examples": [
+      {
+        "en": "What's your name?",
+        "ru": "Как тебя зовут?"
+      },
+      {
+        "en": "Write your name on the form.",
+        "ru": "Напиши имя в форме."
+      },
+      {
+        "en": "I forgot her last name.",
+        "ru": "Я забыл её фамилию."
+      }
+    ],
+    "colloc": "first name · last name · full name"
+  },
+  "a1-0313": {
+    "examples": [
+      {
+        "en": "What is your age?",
+        "ru": "Сколько тебе лет?"
+      },
+      {
+        "en": "Kids under age 12 go free.",
+        "ru": "Дети младше 12 лет — бесплатно."
+      },
+      {
+        "en": "At my age, I need more sleep.",
+        "ru": "В моём возрасте нужно больше спать."
+      }
+    ],
+    "colloc": "at the age of · age group"
+  },
+  "a1-0314": {
+    "examples": [
+      {
+        "en": "Our teacher explains things clearly.",
+        "ru": "Наш учитель всё ясно объясняет."
+      },
+      {
+        "en": "She wants to be a teacher.",
+        "ru": "Она хочет стать учителем."
+      },
+      {
+        "en": "Ask the teacher for help.",
+        "ru": "Попроси учителя о помощи."
+      }
+    ],
+    "colloc": "math teacher · teacher’s desk"
+  },
+  "a1-0315": {
+    "examples": [
+      {
+        "en": "The student asked a good question.",
+        "ru": "Студент задал хороший вопрос."
+      },
+      {
+        "en": "I am a student at the local college.",
+        "ru": "Я студент местного колледжа."
+      },
+      {
+        "en": "Students need quiet to study.",
+        "ru": "Студентам нужна тишина для учёбы."
+      }
+    ],
+    "colloc": "exchange student · student ID"
+  },
+  "a1-0316": {
+    "examples": [
+      {
+        "en": "You should see a doctor.",
+        "ru": "Тебе стоит обратиться к врачу."
+      },
+      {
+        "en": "The doctor checked my throat.",
+        "ru": "Врач осмотрел горло."
+      },
+      {
+        "en": "My sister is a doctor.",
+        "ru": "Моя сестра — врач."
+      }
+    ],
+    "colloc": "see a doctor · family doctor"
+  },
+  "a1-0317": {
+    "examples": [
+      {
+        "en": "The nurse took my temperature.",
+        "ru": "Медсестра измерила температуру."
+      },
+      {
+        "en": "Nurses work long shifts.",
+        "ru": "Медсёстры работают длинными сменами."
+      },
+      {
+        "en": "Ask the nurse for a blanket.",
+        "ru": "Попроси у медсестры одеяло."
+      }
+    ],
+    "colloc": "head nurse"
+  },
+  "a1-0318": {
+    "examples": [
+      {
+        "en": "The bus driver was friendly.",
+        "ru": "Водитель автобуса был дружелюбным."
+      },
+      {
+        "en": "I need a driver for the airport.",
+        "ru": "Мне нужен водитель до аэропорта."
+      },
+      {
+        "en": "She works as a delivery driver.",
+        "ru": "Она работает водителем доставки."
+      }
+    ],
+    "colloc": "bus driver · taxi driver"
+  },
+  "a1-0319": {
+    "examples": [
+      {
+        "en": "The waiter brought the menu.",
+        "ru": "Официант принёс меню."
+      },
+      {
+        "en": "Call the waiter, please.",
+        "ru": "Позови официанта, пожалуйста."
+      },
+      {
+        "en": "He works as a waiter on weekends.",
+        "ru": "По выходным он работает официантом."
+      }
+    ],
+    "colloc": "ask the waiter"
+  },
+  "a1-0320": {
+    "examples": [
+      {
+        "en": "Factory workers start early.",
+        "ru": "Рабочие на заводе начинают рано."
+      },
+      {
+        "en": "She is a hard worker.",
+        "ru": "Она трудолюбивый работник."
+      },
+      {
+        "en": "Office workers had a day off.",
+        "ru": "Офисные работники получили выходной."
+      }
+    ],
+    "colloc": "social worker · co-worker"
+  },
+  "a1-0321": {
+    "examples": [
+      {
+        "en": "My brother is a software engineer.",
+        "ru": "Мой брат — инженер-программист."
+      },
+      {
+        "en": "Engineers designed the bridge.",
+        "ru": "Инженеры спроектировали мост."
+      },
+      {
+        "en": "She studied to become an engineer.",
+        "ru": "Она училась, чтобы стать инженером."
+      }
+    ],
+    "colloc": "software engineer · civil engineer"
+  },
+  "a1-0322": {
+    "examples": [
+      {
+        "en": "Ask the manager for a refund.",
+        "ru": "Попроси менеджера о возврате."
+      },
+      {
+        "en": "Our manager starts meetings on time.",
+        "ru": "Наш менеджер начинает встречи вовремя."
+      },
+      {
+        "en": "She got promoted to manager.",
+        "ru": "Её повысили до менеджера."
+      }
+    ],
+    "colloc": "project manager · store manager"
+  },
+  "a1-0323": {
+    "examples": [
+      {
+        "en": "My boss approved the plan.",
+        "ru": "Босс одобрил план."
+      },
+      {
+        "en": "Don't be late — the boss is watching.",
+        "ru": "Не опаздывай — босс смотрит."
+      },
+      {
+        "en": "She is a fair boss.",
+        "ru": "Она справедливый начальник."
+      }
+    ],
+    "colloc": "ask the boss · boss around"
+  },
+  "a1-0324": {
+    "examples": [
+      {
+        "en": "Call the police if you need help.",
+        "ru": "Вызови полицию, если нужна помощь."
+      },
+      {
+        "en": "Police closed the street.",
+        "ru": "Полиция перекрыла улицу."
+      },
+      {
+        "en": "There were two police officers nearby.",
+        "ru": "Рядом было двое полицейских."
+      }
+    ],
+    "colloc": "police officer · call the police",
+    "note": "police — обычно как мн./собирательное"
+  },
+  "a1-0325": {
+    "examples": [
+      {
+        "en": "The officer checked our IDs.",
+        "ru": "Офицер проверил наши документы."
+      },
+      {
+        "en": "She is a police officer.",
+        "ru": "Она полицейский."
+      },
+      {
+        "en": "An officer directed traffic.",
+        "ru": "Офицер регулировал движение."
+      }
+    ],
+    "colloc": "police officer · security officer"
+  },
+  "a1-0326": {
+    "examples": [
+      {
+        "en": "Firefighters saved the cat.",
+        "ru": "Пожарные спасли кошку."
+      },
+      {
+        "en": "A firefighter knocked on our door.",
+        "ru": "Пожарный постучал в нашу дверь."
+      },
+      {
+        "en": "Kids waved at the firefighters.",
+        "ru": "Дети помахали пожарным."
+      }
+    ],
+    "colloc": "firefighter gear"
+  },
+  "a1-0327": {
+    "examples": [
+      {
+        "en": "The farmer grows corn and wheat.",
+        "ru": "Фермер выращивает кукурузу и пшеницу."
+      },
+      {
+        "en": "Farmers wake up before sunrise.",
+        "ru": "Фермеры встают до рассвета."
+      },
+      {
+        "en": "We bought eggs from a local farmer.",
+        "ru": "Мы купили яйца у местного фермера."
+      }
+    ],
+    "colloc": "dairy farmer"
+  },
+  "a1-0328": {
+    "examples": [
+      {
+        "en": "The artist painted the wall.",
+        "ru": "Художник расписал стену."
+      },
+      {
+        "en": "She is a talented artist.",
+        "ru": "Она талантливая художница."
+      },
+      {
+        "en": "Artists showed their work downtown.",
+        "ru": "Художники показали работы в центре."
+      }
+    ],
+    "colloc": "street artist"
+  },
+  "a1-0329": {
+    "examples": [
+      {
+        "en": "The singer forgot the lyrics.",
+        "ru": "Певец забыл слова."
+      },
+      {
+        "en": "She is a famous singer.",
+        "ru": "Она знаменитая певица."
+      },
+      {
+        "en": "Singers practiced before the show.",
+        "ru": "Певцы репетировали перед шоу."
+      }
+    ],
+    "colloc": "lead singer · pop singer"
+  },
+  "a1-0330": {
+    "examples": [
+      {
+        "en": "The actor signed autographs.",
+        "ru": "Актёр раздавал автографы."
+      },
+      {
+        "en": "He wants to be an actor.",
+        "ru": "Он хочет стать актёром."
+      },
+      {
+        "en": "Actors waited backstage.",
+        "ru": "Актёры ждали за кулисами."
+      }
+    ],
+    "colloc": "movie actor · lead actor",
+    "note": "AmE: actor для любого пола; actress тоже встречается"
+  },
+  "a1-0331": {
+    "examples": [
+      {
+        "en": "The writer finished a new book.",
+        "ru": "Писатель закончил новую книгу."
+      },
+      {
+        "en": "She works as a freelance writer.",
+        "ru": "Она работает фриланс-писательницей."
+      },
+      {
+        "en": "Writers need quiet places.",
+        "ru": "Писателям нужны тихие места."
+      }
+    ],
+    "colloc": "fiction writer · staff writer"
+  },
+  "a1-0332": {
+    "examples": [
+      {
+        "en": "The pilot welcomed us on board.",
+        "ru": "Пилот поприветствовал нас на борту."
+      },
+      {
+        "en": "She trained to be a pilot.",
+        "ru": "Она училась на пилота."
+      },
+      {
+        "en": "Pilots checked the weather.",
+        "ru": "Пилоты проверили погоду."
+      }
+    ],
+    "colloc": "airline pilot · pilot light"
+  },
+  "a1-0333": {
+    "examples": [
+      {
+        "en": "Talk to a lawyer before you sign.",
+        "ru": "Поговори с юристом, прежде чем подписывать."
+      },
+      {
+        "en": "Her lawyer called this morning.",
+        "ru": "Её адвокат звонил сегодня утром."
+      },
+      {
+        "en": "Lawyers prepared the contract.",
+        "ru": "Юристы подготовили договор."
+      }
+    ],
+    "colloc": "family lawyer · defense lawyer"
+  },
+  "a1-0334": {
+    "examples": [
+      {
+        "en": "Scientists study the climate.",
+        "ru": "Учёные изучают климат."
+      },
+      {
+        "en": "She is a research scientist.",
+        "ru": "Она учёный-исследователь."
+      },
+      {
+        "en": "A scientist explained the results.",
+        "ru": "Учёный объяснил результаты."
+      }
+    ],
+    "colloc": "data scientist · research scientist"
+  },
+  "a1-0335": {
+    "examples": [
+      {
+        "en": "The programmer fixed the bug.",
+        "ru": "Программист исправил ошибку."
+      },
+      {
+        "en": "He works as a programmer.",
+        "ru": "Он работает программистом."
+      },
+      {
+        "en": "Programmers reviewed the code.",
+        "ru": "Программисты проверили код."
+      }
+    ],
+    "colloc": "computer programmer"
+  }
+}

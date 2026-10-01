@@ -1,0 +1,920 @@
+{
+  "a1-0151": {
+    "examples": [
+      {
+        "en": "Finish your homework before bed.",
+        "ru": "Закончи домашку перед сном."
+      },
+      {
+        "en": "We finished dinner at eight.",
+        "ru": "Мы закончили ужин в восемь."
+      },
+      {
+        "en": "When do you finish work?",
+        "ru": "Когда ты заканчиваешь работу?"
+      }
+    ],
+    "colloc": "finish work · finish school",
+    "pattern": "finish + N / finish + Ving",
+    "syn": "end"
+  },
+  "a1-0152": {
+    "examples": [
+      {
+        "en": "The movie ends at ten.",
+        "ru": "Фильм заканчивается в десять."
+      },
+      {
+        "en": "How does the story end?",
+        "ru": "Как заканчивается история?"
+      },
+      {
+        "en": "Summer ends in September.",
+        "ru": "Лето заканчивается в сентябре."
+      }
+    ],
+    "colloc": "in the end · at the end",
+    "pattern": "end + adv",
+    "syn": "finish"
+  },
+  "a1-0153": {
+    "examples": [
+      {
+        "en": "Open the window, please.",
+        "ru": "Открой окно, пожалуйста."
+      },
+      {
+        "en": "The store opens at nine.",
+        "ru": "Магазин открывается в девять."
+      },
+      {
+        "en": "She opened a gift from her aunt.",
+        "ru": "Она открыла подарок от тёти."
+      }
+    ],
+    "colloc": "open a door · open for business",
+    "pattern": "open + N",
+    "ant": "close"
+  },
+  "a1-0154": {
+    "examples": [
+      {
+        "en": "Close the door behind you.",
+        "ru": "Закрой дверь за собой."
+      },
+      {
+        "en": "The café closes at midnight.",
+        "ru": "Кафе закрывается в полночь."
+      },
+      {
+        "en": "Close your eyes and relax.",
+        "ru": "Закрой глаза и расслабься."
+      }
+    ],
+    "colloc": "close the door · close to",
+    "pattern": "close + N",
+    "ant": "open"
+  },
+  "a1-0155": {
+    "examples": [
+      {
+        "en": "Put the milk in the fridge.",
+        "ru": "Поставь молоко в холодильник."
+      },
+      {
+        "en": "Put on a warm coat.",
+        "ru": "Надень тёплое пальто."
+      },
+      {
+        "en": "Where did you put my keys?",
+        "ru": "Куда ты положил мои ключи?"
+      }
+    ],
+    "colloc": "put on · put away · put down",
+    "note": "put on = надеть",
+    "pattern": "put + N + prep"
+  },
+  "a1-0156": {
+    "examples": [
+      {
+        "en": "Bring your laptop tomorrow.",
+        "ru": "Принеси ноутбук завтра."
+      },
+      {
+        "en": "Can you bring me some water?",
+        "ru": "Можешь принести мне воды?"
+      },
+      {
+        "en": "She brought cake to the party.",
+        "ru": "Она принесла торт на вечеринку."
+      }
+    ],
+    "colloc": "bring back · bring to",
+    "pattern": "bring + N / bring sb sth"
+  },
+  "a1-0157": {
+    "examples": [
+      {
+        "en": "I buy fresh bread on Sundays.",
+        "ru": "По воскресеньям я покупаю свежий хлеб."
+      },
+      {
+        "en": "Where did you buy that jacket?",
+        "ru": "Где ты купил эту куртку?"
+      },
+      {
+        "en": "We bought tickets online.",
+        "ru": "Мы купили билеты онлайн."
+      }
+    ],
+    "colloc": "buy tickets · buy groceries",
+    "pattern": "buy + N",
+    "ant": "sell"
+  },
+  "a1-0158": {
+    "examples": [
+      {
+        "en": "They sell fresh fruit here.",
+        "ru": "Здесь продают свежие фрукты."
+      },
+      {
+        "en": "She sold her old bike.",
+        "ru": "Она продала старый велосипед."
+      },
+      {
+        "en": "Do you sell stamps?",
+        "ru": "У вас продаются марки?"
+      }
+    ],
+    "colloc": "for sale · sell out",
+    "pattern": "sell + N",
+    "ant": "buy"
+  },
+  "a1-0159": {
+    "examples": [
+      {
+        "en": "I pay by card.",
+        "ru": "Я плачу картой."
+      },
+      {
+        "en": "Who pays the bill?",
+        "ru": "Кто платит по счёту?"
+      },
+      {
+        "en": "We paid for parking.",
+        "ru": "Мы заплатили за парковку."
+      }
+    ],
+    "colloc": "pay for · pay attention · pay the bill",
+    "note": "pay for + N",
+    "pattern": "pay for + N"
+  },
+  "a1-0160": {
+    "examples": [
+      {
+        "en": "How much does this cost?",
+        "ru": "Сколько это стоит?"
+      },
+      {
+        "en": "The ticket costs twenty dollars.",
+        "ru": "Билет стоит двадцать долларов."
+      },
+      {
+        "en": "It cost me a lot of time.",
+        "ru": "Это отняло у меня много времени."
+      }
+    ],
+    "colloc": "cost a lot · at no cost",
+    "pattern": "cost + amount"
+  },
+  "a1-0161": {
+    "examples": [
+      {
+        "en": "I work in an office downtown.",
+        "ru": "Я работаю в офисе в центре."
+      },
+      {
+        "en": "Does this printer work?",
+        "ru": "Этот принтер работает?"
+      },
+      {
+        "en": "She works hard every day.",
+        "ru": "Она каждый день усердно работает."
+      }
+    ],
+    "colloc": "work hard · work from home · at work",
+    "pattern": "work + adv / work as"
+  },
+  "a1-0162": {
+    "examples": [
+      {
+        "en": "She studies medicine at college.",
+        "ru": "Она изучает медицину в колледже."
+      },
+      {
+        "en": "I need to study for the test.",
+        "ru": "Мне нужно готовиться к тесту."
+      },
+      {
+        "en": "We studied together last night.",
+        "ru": "Вчера вечером мы занимались вместе."
+      }
+    ],
+    "colloc": "study for · study hard",
+    "pattern": "study + N / study for"
+  },
+  "a1-0163": {
+    "examples": [
+      {
+        "en": "Kids learn fast.",
+        "ru": "Дети учатся быстро."
+      },
+      {
+        "en": "I learned a new word today.",
+        "ru": "Сегодня я выучил новое слово."
+      },
+      {
+        "en": "She is learning to drive.",
+        "ru": "Она учится водить."
+      }
+    ],
+    "colloc": "learn to · learn about · learn by heart",
+    "note": "learn to + V",
+    "pattern": "learn + N / learn to + V"
+  },
+  "a1-0164": {
+    "examples": [
+      {
+        "en": "He teaches math at a high school.",
+        "ru": "Он преподаёт математику в школе."
+      },
+      {
+        "en": "Can you teach me this song?",
+        "ru": "Можешь научить меня этой песне?"
+      },
+      {
+        "en": "She taught me how to cook.",
+        "ru": "Она научила меня готовить."
+      }
+    ],
+    "colloc": "teach sb sth · teach a class",
+    "pattern": "teach + subject / teach sb"
+  },
+  "a1-0165": {
+    "examples": [
+      {
+        "en": "I read the news every morning.",
+        "ru": "Каждое утро я читаю новости."
+      },
+      {
+        "en": "Have you read this book?",
+        "ru": "Ты читал эту книгу?"
+      },
+      {
+        "en": "She reads to her kids at night.",
+        "ru": "Вечером она читает детям."
+      }
+    ],
+    "colloc": "read a book · read aloud",
+    "pattern": "read + N"
+  },
+  "a1-0166": {
+    "examples": [
+      {
+        "en": "Write your name at the top.",
+        "ru": "Напиши имя сверху."
+      },
+      {
+        "en": "I write emails at work.",
+        "ru": "На работе я пишу письма."
+      },
+      {
+        "en": "She wrote a note for him.",
+        "ru": "Она написала ему записку."
+      }
+    ],
+    "colloc": "write down · write to · write an email",
+    "pattern": "write + N"
+  },
+  "a1-0167": {
+    "examples": [
+      {
+        "en": "The kids draw with crayons.",
+        "ru": "Дети рисуют мелками."
+      },
+      {
+        "en": "Can you draw a map?",
+        "ru": "Можешь нарисовать карту?"
+      },
+      {
+        "en": "She drew a cat on the napkin.",
+        "ru": "Она нарисовала кота на салфетке."
+      }
+    ],
+    "colloc": "draw a picture · draw near",
+    "pattern": "draw + N"
+  },
+  "a1-0168": {
+    "examples": [
+      {
+        "en": "Children play outside after school.",
+        "ru": "После школы дети играют на улице."
+      },
+      {
+        "en": "Do you play the guitar?",
+        "ru": "Ты играешь на гитаре?"
+      },
+      {
+        "en": "We played soccer on Saturday.",
+        "ru": "В субботу мы играли в футбол."
+      }
+    ],
+    "colloc": "play soccer · play a game · play music",
+    "note": "play + sport (без the); play the + instrument",
+    "pattern": "play + N"
+  },
+  "a1-0169": {
+    "examples": [
+      {
+        "en": "I run in the park before work.",
+        "ru": "Перед работой я бегаю в парке."
+      },
+      {
+        "en": "Hurry, the bus is leaving — run!",
+        "ru": "Быстрее, автобус уходит — беги!"
+      },
+      {
+        "en": "She runs a small café.",
+        "ru": "Она управляет небольшим кафе."
+      }
+    ],
+    "colloc": "run out of · run late · go for a run",
+    "pattern": "run + adv"
+  },
+  "a1-0170": {
+    "examples": [
+      {
+        "en": "We walk to school every day.",
+        "ru": "Мы каждый день ходим в школу пешком."
+      },
+      {
+        "en": "Let's walk around the lake.",
+        "ru": "Давай пройдёмся вокруг озера."
+      },
+      {
+        "en": "My dog needs a long walk.",
+        "ru": "Моей собаке нужна долгая прогулка."
+      }
+    ],
+    "colloc": "walk home · go for a walk · walk to",
+    "pattern": "walk to + place"
+  },
+  "a1-0171": {
+    "examples": [
+      {
+        "en": "Please sit down.",
+        "ru": "Пожалуйста, садитесь."
+      },
+      {
+        "en": "We sat by the window.",
+        "ru": "Мы сидели у окна."
+      },
+      {
+        "en": "Is anyone sitting here?",
+        "ru": "Здесь кто-нибудь сидит?"
+      }
+    ],
+    "colloc": "sit down · sit up · sit still",
+    "pattern": "sit + adv"
+  },
+  "a1-0172": {
+    "examples": [
+      {
+        "en": "Stand near the door.",
+        "ru": "Встань рядом с дверью."
+      },
+      {
+        "en": "Everyone stood up and clapped.",
+        "ru": "Все встали и зааплодировали."
+      },
+      {
+        "en": "I can't stand this noise.",
+        "ru": "Не могу выносить этот шум."
+      }
+    ],
+    "colloc": "stand up · stand in line · can't stand",
+    "pattern": "stand + adv"
+  },
+  "a1-0173": {
+    "examples": [
+      {
+        "en": "Don't lie on the wet grass.",
+        "ru": "Не ложись на мокрую траву."
+      },
+      {
+        "en": "The book lay open on the desk.",
+        "ru": "Книга лежала открытой на столе."
+      },
+      {
+        "en": "She lay down for a nap.",
+        "ru": "Она легла вздремнуть."
+      }
+    ],
+    "colloc": "lie down · lie on",
+    "pattern": "lie + adv",
+    "syn": "lie/lay/lain (лежать) ≠ lie (лгать)"
+  },
+  "a1-0174": {
+    "examples": [
+      {
+        "en": "I sleep eight hours a night.",
+        "ru": "Я сплю восемь часов за ночь."
+      },
+      {
+        "en": "The baby finally fell asleep.",
+        "ru": "Малыш наконец заснул."
+      },
+      {
+        "en": "I slept poorly on the plane.",
+        "ru": "В самолёте я плохо спал."
+      }
+    ],
+    "colloc": "go to sleep · sleep well · fall asleep",
+    "pattern": "sleep + adv"
+  },
+  "a1-0175": {
+    "examples": [
+      {
+        "en": "I wake up at seven.",
+        "ru": "Я просыпаюсь в семь."
+      },
+      {
+        "en": "Wake me up early, please.",
+        "ru": "Разбуди меня рано, пожалуйста."
+      },
+      {
+        "en": "A noise woke the dog.",
+        "ru": "Шум разбудил собаку."
+      }
+    ],
+    "colloc": "wake up · wide awake",
+    "pattern": "wake (up)"
+  },
+  "a1-0176": {
+    "examples": [
+      {
+        "en": "We eat dinner together.",
+        "ru": "Мы ужинаем вместе."
+      },
+      {
+        "en": "What do you usually eat for breakfast?",
+        "ru": "Что ты обычно ешь на завтрак?"
+      },
+      {
+        "en": "I already ate, thanks.",
+        "ru": "Я уже поел, спасибо."
+      }
+    ],
+    "colloc": "eat breakfast · eat out · eat healthy",
+    "pattern": "eat + N"
+  },
+  "a1-0177": {
+    "examples": [
+      {
+        "en": "Drink more water in summer.",
+        "ru": "Летом пей больше воды."
+      },
+      {
+        "en": "Would you like something to drink?",
+        "ru": "Хотите что-нибудь выпить?"
+      },
+      {
+        "en": "She drank a cup of tea.",
+        "ru": "Она выпила чашку чая."
+      }
+    ],
+    "colloc": "drink water · soft drink",
+    "pattern": "drink + N"
+  },
+  "a1-0178": {
+    "examples": [
+      {
+        "en": "I cook pasta on weeknights.",
+        "ru": "По будням я готовлю пасту."
+      },
+      {
+        "en": "Who cooked this soup?",
+        "ru": "Кто сварил этот суп?"
+      },
+      {
+        "en": "He loves to cook for friends.",
+        "ru": "Он любит готовить для друзей."
+      }
+    ],
+    "colloc": "cook dinner · home-cooked",
+    "pattern": "cook + N"
+  },
+  "a1-0179": {
+    "examples": [
+      {
+        "en": "Wash your hands before eating.",
+        "ru": "Мой руки перед едой."
+      },
+      {
+        "en": "I washed the dishes after dinner.",
+        "ru": "После ужина я вымыл посуду."
+      },
+      {
+        "en": "This shirt needs a wash.",
+        "ru": "Эту рубашку нужно постирать."
+      }
+    ],
+    "colloc": "wash hands · wash the dishes · car wash",
+    "pattern": "wash + N"
+  },
+  "a1-0180": {
+    "examples": [
+      {
+        "en": "Clean your room, please.",
+        "ru": "Убери комнату, пожалуйста."
+      },
+      {
+        "en": "We cleaned the kitchen together.",
+        "ru": "Мы вместе убрали кухню."
+      },
+      {
+        "en": "Keep the desk clean.",
+        "ru": "Держи стол в чистоте."
+      }
+    ],
+    "colloc": "clean up · clean the house",
+    "pattern": "clean + N"
+  },
+  "a1-0181": {
+    "examples": [
+      {
+        "en": "Cut the bread into slices.",
+        "ru": "Нарежь хлеб ломтиками."
+      },
+      {
+        "en": "Be careful with that knife — don't cut yourself.",
+        "ru": "Осторожнее с ножом — не порежься."
+      },
+      {
+        "en": "They cut the cake at the party.",
+        "ru": "На вечеринке они разрезали торт."
+      }
+    ],
+    "colloc": "cut off · cut out · cut short",
+    "pattern": "cut + N"
+  },
+  "a1-0182": {
+    "examples": [
+      {
+        "en": "Don't break the glass.",
+        "ru": "Не разбей стекло."
+      },
+      {
+        "en": "My phone screen broke.",
+        "ru": "Экран телефона разбился."
+      },
+      {
+        "en": "Let's take a short break.",
+        "ru": "Давай сделаем короткий перерыв."
+      }
+    ],
+    "colloc": "break down · take a break · break a rule",
+    "note": "break (сломать) / a break (перерыв)",
+    "pattern": "break + N"
+  },
+  "a1-0183": {
+    "examples": [
+      {
+        "en": "Can you fix this chair?",
+        "ru": "Можешь починить этот стул?"
+      },
+      {
+        "en": "The plumber fixed the sink.",
+        "ru": "Сантехник починил раковину."
+      },
+      {
+        "en": "I'll fix dinner tonight.",
+        "ru": "Сегодня вечером я приготовлю ужин."
+      }
+    ],
+    "colloc": "fix a problem · quick fix",
+    "pattern": "fix + N",
+    "syn": "repair"
+  },
+  "a1-0184": {
+    "examples": [
+      {
+        "en": "They are building a new school.",
+        "ru": "Они строят новую школу."
+      },
+      {
+        "en": "Birds build nests in spring.",
+        "ru": "Весной птицы вьют гнёзда."
+      },
+      {
+        "en": "We built a sandcastle at the beach.",
+        "ru": "На пляже мы построили замок из песка."
+      }
+    ],
+    "colloc": "build a house · build confidence",
+    "pattern": "build + N"
+  },
+  "a1-0185": {
+    "examples": [
+      {
+        "en": "Can you carry this bag for me?",
+        "ru": "Можешь понести эту сумку за меня?"
+      },
+      {
+        "en": "She carried the baby upstairs.",
+        "ru": "Она отнесла малыша наверх."
+      },
+      {
+        "en": "This box is too heavy to carry.",
+        "ru": "Эта коробка слишком тяжёлая, чтобы нести."
+      }
+    ],
+    "colloc": "carry on · carry out",
+    "pattern": "carry + N"
+  },
+  "a1-0186": {
+    "examples": [
+      {
+        "en": "Hold my hand while we cross.",
+        "ru": "Держи меня за руку, пока переходим."
+      },
+      {
+        "en": "Hold on a second.",
+        "ru": "Подожди секунду."
+      },
+      {
+        "en": "She held the door open.",
+        "ru": "Она держала дверь открытой."
+      }
+    ],
+    "colloc": "hold on · hold a meeting · get hold of",
+    "pattern": "hold + N"
+  },
+  "a1-0187": {
+    "examples": [
+      {
+        "en": "Push the door gently.",
+        "ru": "Толкни дверь осторожно."
+      },
+      {
+        "en": "Don't push me!",
+        "ru": "Не толкай меня!"
+      },
+      {
+        "en": "We pushed the car to the side.",
+        "ru": "Мы затолкали машину на обочину."
+      }
+    ],
+    "colloc": "push button · push open",
+    "pattern": "push + N",
+    "ant": "pull"
+  },
+  "a1-0188": {
+    "examples": [
+      {
+        "en": "Pull the rope hard.",
+        "ru": "Тяни верёвку сильнее."
+      },
+      {
+        "en": "Pull up a chair.",
+        "ru": "Придвинь стул."
+      },
+      {
+        "en": "She pulled her suitcase behind her.",
+        "ru": "Она тянула чемодан за собой."
+      }
+    ],
+    "colloc": "pull up · pull out · pull over",
+    "pattern": "pull + N",
+    "ant": "push"
+  },
+  "a1-0189": {
+    "examples": [
+      {
+        "en": "Turn left at the lights.",
+        "ru": "На светофоре поверни налево."
+      },
+      {
+        "en": "Turn off the lights, please.",
+        "ru": "Выключи свет, пожалуйста."
+      },
+      {
+        "en": "My turn to wash the dishes.",
+        "ru": "Моя очередь мыть посуду."
+      }
+    ],
+    "colloc": "turn on/off · turn left · take turns",
+    "pattern": "turn + adv / turn + N"
+  },
+  "a1-0190": {
+    "examples": [
+      {
+        "en": "Please move your chair.",
+        "ru": "Пожалуйста, подвинь стул."
+      },
+      {
+        "en": "We're moving to a new apartment.",
+        "ru": "Мы переезжаем в новую квартиру."
+      },
+      {
+        "en": "Nothing moved for a minute.",
+        "ru": "Минуту ничего не двигалось."
+      }
+    ],
+    "colloc": "move in · move out · move on",
+    "pattern": "move + N / move to"
+  },
+  "a1-0191": {
+    "examples": [
+      {
+        "en": "Stay with us tonight.",
+        "ru": "Останься у нас на ночь."
+      },
+      {
+        "en": "Stay calm and call for help.",
+        "ru": "Сохраняй спокойствие и позови на помощь."
+      },
+      {
+        "en": "I stayed home because I was sick.",
+        "ru": "Я остался дома, потому что болел."
+      }
+    ],
+    "colloc": "stay home · stay calm · stay in touch",
+    "pattern": "stay + adj / stay + place"
+  },
+  "a1-0192": {
+    "examples": [
+      {
+        "en": "I leave for work at six.",
+        "ru": "Я ухожу на работу в шесть."
+      },
+      {
+        "en": "Don't leave your bag here.",
+        "ru": "Не оставляй сумку здесь."
+      },
+      {
+        "en": "She left a note on the fridge.",
+        "ru": "Она оставила записку на холодильнике."
+      }
+    ],
+    "colloc": "leave home · leave for · leave behind",
+    "note": "leave = уходить / оставлять",
+    "pattern": "leave + place / leave + N"
+  },
+  "a1-0193": {
+    "examples": [
+      {
+        "en": "The train arrives at noon.",
+        "ru": "Поезд прибывает в полдень."
+      },
+      {
+        "en": "We arrived late to the party.",
+        "ru": "Мы опоздали на вечеринку."
+      },
+      {
+        "en": "When did you arrive in Boston?",
+        "ru": "Когда ты приехал в Бостон?"
+      }
+    ],
+    "colloc": "arrive at · arrive in · safe arrival",
+    "note": "arrive in + city; arrive at + place",
+    "pattern": "arrive in/at + place",
+    "ant": "leave"
+  },
+  "a1-0194": {
+    "examples": [
+      {
+        "en": "Please return the book tomorrow.",
+        "ru": "Пожалуйста, верни книгу завтра."
+      },
+      {
+        "en": "We returned home after midnight.",
+        "ru": "Мы вернулись домой после полуночи."
+      },
+      {
+        "en": "I'll return your call later.",
+        "ru": "Я перезвоню тебе позже."
+      }
+    ],
+    "colloc": "return home · return to · in return",
+    "pattern": "return + N / return to"
+  },
+  "a1-0195": {
+    "examples": [
+      {
+        "en": "Nice to meet you.",
+        "ru": "Приятно познакомиться."
+      },
+      {
+        "en": "Let's meet at the café at five.",
+        "ru": "Давай встретимся в кафе в пять."
+      },
+      {
+        "en": "I met her at a conference.",
+        "ru": "Я познакомился с ней на конференции."
+      }
+    ],
+    "colloc": "meet up · nice to meet you · meet a deadline",
+    "pattern": "meet + person / meet at"
+  },
+  "a1-0196": {
+    "examples": [
+      {
+        "en": "We visit grandma every Sunday.",
+        "ru": "Каждое воскресенье мы навещаем бабушку."
+      },
+      {
+        "en": "I'd like to visit Japan someday.",
+        "ru": "Когда-нибудь хочу посетить Японию."
+      },
+      {
+        "en": "A friend visited us last week.",
+        "ru": "На прошлой неделе к нам заходил друг."
+      }
+    ],
+    "colloc": "visit friends · pay a visit",
+    "pattern": "visit + person/place"
+  },
+  "a1-0197": {
+    "examples": [
+      {
+        "en": "I travel by train when I can.",
+        "ru": "Когда могу, путешествую на поезде."
+      },
+      {
+        "en": "They traveled across Europe.",
+        "ru": "Они путешествовали по Европе."
+      },
+      {
+        "en": "Travel light for short trips.",
+        "ru": "Для коротких поездок бери мало вещей."
+      }
+    ],
+    "colloc": "travel by · travel light · business travel",
+    "pattern": "travel + adv"
+  },
+  "a1-0198": {
+    "examples": [
+      {
+        "en": "She drives carefully in snow.",
+        "ru": "Она осторожно водит по снегу."
+      },
+      {
+        "en": "Can you drive me to the station?",
+        "ru": "Можешь подвезти меня до станции?"
+      },
+      {
+        "en": "He drove all night.",
+        "ru": "Он ехал всю ночь."
+      }
+    ],
+    "colloc": "drive to · drive carefully · go for a drive",
+    "pattern": "drive + N / drive to"
+  },
+  "a1-0199": {
+    "examples": [
+      {
+        "en": "I ride a bike to work.",
+        "ru": "Я езжу на работу на велосипеде."
+      },
+      {
+        "en": "Kids love to ride the carousel.",
+        "ru": "Дети любят кататься на карусели."
+      },
+      {
+        "en": "We rode horses on vacation.",
+        "ru": "В отпуске мы катались на лошадях."
+      }
+    ],
+    "colloc": "ride a bike · ride a horse · give a ride",
+    "pattern": "ride + N"
+  },
+  "a1-0200": {
+    "examples": [
+      {
+        "en": "Birds fly south in winter.",
+        "ru": "Зимой птицы улетают на юг."
+      },
+      {
+        "en": "We fly to Miami next week.",
+        "ru": "На следующей неделе летим в Майами."
+      },
+      {
+        "en": "Time flies when you're having fun.",
+        "ru": "Время летит, когда весело."
+      }
+    ],
+    "colloc": "fly to · fly home · time flies",
+    "pattern": "fly to + place"
+  }
+}

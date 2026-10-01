@@ -1,0 +1,794 @@
+{
+  "a1-0108": {
+    "examples": [
+      {
+        "en": "I am happy today.",
+        "ru": "Сегодня я счастлив."
+      },
+      {
+        "en": "She is a doctor.",
+        "ru": "Она врач."
+      },
+      {
+        "en": "They are at the park.",
+        "ru": "Они в парке."
+      }
+    ],
+    "note": "am/is/are; was/were. Не путать с have.",
+    "pattern": "be + adj / N"
+  },
+  "a1-0109": {
+    "examples": [
+      {
+        "en": "I have two brothers.",
+        "ru": "У меня два брата."
+      },
+      {
+        "en": "Do you have a minute?",
+        "ru": "Есть минутка?"
+      },
+      {
+        "en": "She has long hair.",
+        "ru": "У неё длинные волосы."
+      }
+    ],
+    "colloc": "have breakfast · have a look · have fun",
+    "note": "have = иметь; также have breakfast (не «есть завтрак» как eat).",
+    "pattern": "have + N"
+  },
+  "a1-0110": {
+    "examples": [
+      {
+        "en": "What do you do?",
+        "ru": "Чем ты занимаешься?"
+      },
+      {
+        "en": "I do my homework after dinner.",
+        "ru": "Я делаю домашку после ужина."
+      },
+      {
+        "en": "Can you do me a favor?",
+        "ru": "Можешь сделать мне одолжение?"
+      }
+    ],
+    "colloc": "do homework · do the dishes · do well",
+    "note": "do = выполнять/делать; make = создавать/готовить.",
+    "pattern": "do + N"
+  },
+  "a1-0111": {
+    "examples": [
+      {
+        "en": "I can swim.",
+        "ru": "Я умею плавать."
+      },
+      {
+        "en": "Can you open the window?",
+        "ru": "Можешь открыть окно?"
+      },
+      {
+        "en": "She can't come today.",
+        "ru": "Она не может прийти сегодня."
+      }
+    ],
+    "colloc": "can speak · can help",
+    "note": "can + V (без to). can't = cannot.",
+    "pattern": "can + V"
+  },
+  "a1-0112": {
+    "examples": [
+      {
+        "en": "I will call you tonight.",
+        "ru": "Я позвоню тебе сегодня вечером."
+      },
+      {
+        "en": "It will rain tomorrow.",
+        "ru": "Завтра будет дождь."
+      },
+      {
+        "en": "Will you help me?",
+        "ru": "Ты поможешь мне?"
+      }
+    ],
+    "colloc": "will be · will do",
+    "pattern": "will + V"
+  },
+  "a1-0113": {
+    "examples": [
+      {
+        "en": "I would like some tea.",
+        "ru": "Я бы хотел чаю."
+      },
+      {
+        "en": "Would you open the door?",
+        "ru": "Не откроешь ли дверь?"
+      },
+      {
+        "en": "It would be nice to meet.",
+        "ru": "Было бы приятно встретиться."
+      }
+    ],
+    "colloc": "would like · would rather",
+    "note": "would like = вежливое want.",
+    "pattern": "would like + N / to V"
+  },
+  "a1-0114": {
+    "examples": [
+      {
+        "en": "You should see a doctor.",
+        "ru": "Тебе следует обратиться к врачу."
+      },
+      {
+        "en": "We should leave now.",
+        "ru": "Нам следует уйти сейчас."
+      },
+      {
+        "en": "Should I bring anything?",
+        "ru": "Мне что-нибудь принести?"
+      }
+    ],
+    "colloc": "should know · should try",
+    "pattern": "should + V"
+  },
+  "a1-0115": {
+    "examples": [
+      {
+        "en": "You must wear a seatbelt.",
+        "ru": "Ты должен пристегнуть ремень."
+      },
+      {
+        "en": "I must finish this today.",
+        "ru": "Я должен закончить это сегодня."
+      },
+      {
+        "en": "Visitors must sign in.",
+        "ru": "Посетители должны зарегистрироваться."
+      }
+    ],
+    "colloc": "must see · must go",
+    "note": "must = обязанность/необходимость; have to похоже.",
+    "pattern": "must + V"
+  },
+  "a1-0116": {
+    "examples": [
+      {
+        "en": "You may sit here.",
+        "ru": "Можете сесть здесь."
+      },
+      {
+        "en": "May I ask a question?",
+        "ru": "Можно задать вопрос?"
+      },
+      {
+        "en": "It may rain later.",
+        "ru": "Позже может пойти дождь."
+      }
+    ],
+    "colloc": "may I · may be",
+    "note": "may = разрешение или возможность.",
+    "pattern": "may + V"
+  },
+  "a1-0117": {
+    "examples": [
+      {
+        "en": "It might snow tonight.",
+        "ru": "Сегодня ночью может пойти снег."
+      },
+      {
+        "en": "She might be at home.",
+        "ru": "Она, возможно, дома."
+      },
+      {
+        "en": "We might leave early.",
+        "ru": "Мы, возможно, уйдём рано."
+      }
+    ],
+    "colloc": "might be · might rain",
+    "pattern": "might + V",
+    "syn": "may (possibility)"
+  },
+  "a1-0118": {
+    "examples": [
+      {
+        "en": "I could help you tomorrow.",
+        "ru": "Я мог бы помочь тебе завтра."
+      },
+      {
+        "en": "Could you pass the salt?",
+        "ru": "Не передашь соль?"
+      },
+      {
+        "en": "When I was young, I could run fast.",
+        "ru": "В молодости я мог быстро бегать."
+      }
+    ],
+    "colloc": "could you · could be",
+    "pattern": "could + V"
+  },
+  "a1-0119": {
+    "examples": [
+      {
+        "en": "I go to work by bus.",
+        "ru": "Я езжу на работу на автобусе."
+      },
+      {
+        "en": "Let's go home.",
+        "ru": "Давай пойдём домой."
+      },
+      {
+        "en": "Where did you go last night?",
+        "ru": "Куда ты ходил прошлой ночью?"
+      }
+    ],
+    "colloc": "go home · go to school · go shopping",
+    "note": "go home — без to. go to school/work — с to.",
+    "pattern": "go to + place / go + Ving"
+  },
+  "a1-0120": {
+    "examples": [
+      {
+        "en": "Come in, please.",
+        "ru": "Входите, пожалуйста."
+      },
+      {
+        "en": "She comes from Texas.",
+        "ru": "Она из Техаса."
+      },
+      {
+        "en": "Can you come over later?",
+        "ru": "Можешь зайти позже?"
+      }
+    ],
+    "colloc": "come in · come from · come back",
+    "pattern": "come to + place / come + adv"
+  },
+  "a1-0121": {
+    "examples": [
+      {
+        "en": "I got a new job.",
+        "ru": "Я получил новую работу."
+      },
+      {
+        "en": "How do I get to the airport?",
+        "ru": "Как добраться до аэропорта?"
+      },
+      {
+        "en": "Get some rest.",
+        "ru": "Отдохни."
+      }
+    ],
+    "colloc": "get to · get up · get home · get ready",
+    "note": "get очень многозначен: получать, становиться, добираться.",
+    "pattern": "get + N / get to + place / get + adj"
+  },
+  "a1-0122": {
+    "examples": [
+      {
+        "en": "I make coffee every morning.",
+        "ru": "Я готовлю кофе каждое утро."
+      },
+      {
+        "en": "Don't make noise.",
+        "ru": "Не шуми."
+      },
+      {
+        "en": "She made a cake for us.",
+        "ru": "Она испекла нам торт."
+      }
+    ],
+    "colloc": "make a decision · make dinner · make a mistake",
+    "note": "make = создавать; do = выполнять задачу.",
+    "pattern": "make + N"
+  },
+  "a1-0123": {
+    "examples": [
+      {
+        "en": "Take an umbrella.",
+        "ru": "Возьми зонт."
+      },
+      {
+        "en": "It takes 20 minutes by subway.",
+        "ru": "На метро уходит 20 минут."
+      },
+      {
+        "en": "Take a seat, please.",
+        "ru": "Присаживайтесь, пожалуйста."
+      }
+    ],
+    "colloc": "take a break · take a photo · take time",
+    "pattern": "take + N"
+  },
+  "a1-0124": {
+    "examples": [
+      {
+        "en": "Give me your hand.",
+        "ru": "Дай мне руку."
+      },
+      {
+        "en": "She gave him a gift.",
+        "ru": "Она подарила ему подарок."
+      },
+      {
+        "en": "Give me a call tonight.",
+        "ru": "Позвони мне вечером."
+      }
+    ],
+    "colloc": "give a call · give advice · give up",
+    "pattern": "give sb sth / give sth to sb"
+  },
+  "a1-0125": {
+    "examples": [
+      {
+        "en": "I see my friends on weekends.",
+        "ru": "Я вижусь с друзьями по выходным."
+      },
+      {
+        "en": "Do you see that sign?",
+        "ru": "Видишь тот знак?"
+      },
+      {
+        "en": "I see what you mean.",
+        "ru": "Я понимаю, что ты имеешь в виду."
+      }
+    ],
+    "colloc": "see a movie · see you · see what",
+    "note": "see = видеть (результат); look = направлять взгляд; watch = смотреть целенаправленно."
+  },
+  "a1-0126": {
+    "examples": [
+      {
+        "en": "Look at this photo.",
+        "ru": "Посмотри на это фото."
+      },
+      {
+        "en": "You look tired.",
+        "ru": "Ты выглядишь уставшим."
+      },
+      {
+        "en": "Look! A rainbow!",
+        "ru": "Смотри! Радуга!"
+      }
+    ],
+    "colloc": "look at · look for · look like",
+    "note": "look at = смотреть на; look for = искать.",
+    "pattern": "look at + N"
+  },
+  "a1-0127": {
+    "examples": [
+      {
+        "en": "We watch TV after dinner.",
+        "ru": "Мы смотрим телевизор после ужина."
+      },
+      {
+        "en": "I watched a great game last night.",
+        "ru": "Вчера вечером я смотрел отличный матч."
+      },
+      {
+        "en": "Watch your step.",
+        "ru": "Смотри под ноги."
+      }
+    ],
+    "colloc": "watch TV · watch a movie · watch out",
+    "pattern": "watch + N"
+  },
+  "a1-0128": {
+    "examples": [
+      {
+        "en": "I hear music next door.",
+        "ru": "Я слышу музыку за стеной."
+      },
+      {
+        "en": "Did you hear the news?",
+        "ru": "Ты слышал новости?"
+      },
+      {
+        "en": "I can't hear you.",
+        "ru": "Я тебя не слышу."
+      }
+    ],
+    "colloc": "hear about · hear from",
+    "note": "hear = слышать; listen = слушать специально.",
+    "pattern": "hear + N"
+  },
+  "a1-0129": {
+    "examples": [
+      {
+        "en": "Listen to this song.",
+        "ru": "Послушай эту песню."
+      },
+      {
+        "en": "She listens carefully in class.",
+        "ru": "Она внимательно слушает на уроке."
+      },
+      {
+        "en": "Listen! Someone is knocking.",
+        "ru": "Слушай! Кто-то стучит."
+      }
+    ],
+    "colloc": "listen to · listen carefully",
+    "pattern": "listen to + N"
+  },
+  "a1-0130": {
+    "examples": [
+      {
+        "en": "Do you speak English?",
+        "ru": "Вы говорите по-английски?"
+      },
+      {
+        "en": "She speaks softly.",
+        "ru": "Она говорит тихо."
+      },
+      {
+        "en": "I'd like to speak to the manager.",
+        "ru": "Я хотел бы поговорить с менеджером."
+      }
+    ],
+    "colloc": "speak English · speak to · speak up",
+    "pattern": "speak + language / speak to + person"
+  },
+  "a1-0131": {
+    "examples": [
+      {
+        "en": "We talk every evening.",
+        "ru": "Мы разговариваем каждый вечер."
+      },
+      {
+        "en": "Don't talk during the movie.",
+        "ru": "Не разговаривай во время фильма."
+      },
+      {
+        "en": "Let's talk about your plans.",
+        "ru": "Давай поговорим о твоих планах."
+      }
+    ],
+    "colloc": "talk about · talk to · talk on the phone",
+    "pattern": "talk to / about + N"
+  },
+  "a1-0132": {
+    "examples": [
+      {
+        "en": "What did she say?",
+        "ru": "Что она сказала?"
+      },
+      {
+        "en": "Say hello to your mom.",
+        "ru": "Передай привет маме."
+      },
+      {
+        "en": "He said he was busy.",
+        "ru": "Он сказал, что занят."
+      }
+    ],
+    "colloc": "say hello · say goodbye · say sorry",
+    "note": "say + слова; tell + человек (+ информация).",
+    "pattern": "say + clause / say sth"
+  },
+  "a1-0133": {
+    "examples": [
+      {
+        "en": "Tell me a story.",
+        "ru": "Расскажи мне историю."
+      },
+      {
+        "en": "She told us the truth.",
+        "ru": "Она сказала нам правду."
+      },
+      {
+        "en": "Can you tell him I'm here?",
+        "ru": "Скажи ему, что я здесь."
+      }
+    ],
+    "colloc": "tell a story · tell the truth · tell time",
+    "pattern": "tell sb sth / tell sb + clause"
+  },
+  "a1-0134": {
+    "examples": [
+      {
+        "en": "Ask the teacher for help.",
+        "ru": "Попроси учителя о помощи."
+      },
+      {
+        "en": "May I ask a question?",
+        "ru": "Можно задать вопрос?"
+      },
+      {
+        "en": "He asked me my name.",
+        "ru": "Он спросил моё имя."
+      }
+    ],
+    "colloc": "ask a question · ask for · ask about",
+    "pattern": "ask sb for sth / ask + question"
+  },
+  "a1-0135": {
+    "examples": [
+      {
+        "en": "Please answer the phone.",
+        "ru": "Пожалуйста, возьми трубку."
+      },
+      {
+        "en": "She answered every question.",
+        "ru": "Она ответила на каждый вопрос."
+      },
+      {
+        "en": "I don't know how to answer.",
+        "ru": "Не знаю, как ответить."
+      }
+    ],
+    "colloc": "answer the phone · answer a question",
+    "pattern": "answer + N"
+  },
+  "a1-0136": {
+    "examples": [
+      {
+        "en": "I know her from school.",
+        "ru": "Я знаю её со школы."
+      },
+      {
+        "en": "Do you know the way?",
+        "ru": "Ты знаешь дорогу?"
+      },
+      {
+        "en": "I don't know what to do.",
+        "ru": "Не знаю, что делать."
+      }
+    ],
+    "colloc": "know about · know how · you know",
+    "pattern": "know + N / know how to V"
+  },
+  "a1-0137": {
+    "examples": [
+      {
+        "en": "I think it's a good idea.",
+        "ru": "Думаю, это хорошая идея."
+      },
+      {
+        "en": "What do you think?",
+        "ru": "Что ты думаешь?"
+      },
+      {
+        "en": "Think about your future.",
+        "ru": "Подумай о своём будущем."
+      }
+    ],
+    "colloc": "think about · think of · I think",
+    "pattern": "think about / of + N"
+  },
+  "a1-0138": {
+    "examples": [
+      {
+        "en": "I want a glass of water.",
+        "ru": "Я хочу стакан воды."
+      },
+      {
+        "en": "She wants to leave early.",
+        "ru": "Она хочет уйти рано."
+      },
+      {
+        "en": "What do you want for lunch?",
+        "ru": "Что ты хочешь на обед?"
+      }
+    ],
+    "colloc": "want to · want for",
+    "pattern": "want + N / want to + V"
+  },
+  "a1-0139": {
+    "examples": [
+      {
+        "en": "I need more time.",
+        "ru": "Мне нужно больше времени."
+      },
+      {
+        "en": "You need to rest.",
+        "ru": "Тебе нужно отдохнуть."
+      },
+      {
+        "en": "Do we need milk?",
+        "ru": "Нам нужно молоко?"
+      }
+    ],
+    "colloc": "need to · need help",
+    "pattern": "need + N / need to + V"
+  },
+  "a1-0140": {
+    "examples": [
+      {
+        "en": "I like this café.",
+        "ru": "Мне нравится это кафе."
+      },
+      {
+        "en": "She likes to read in bed.",
+        "ru": "Ей нравится читать в постели."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Не хотите чаю?"
+      }
+    ],
+    "colloc": "like to · would like",
+    "pattern": "like + N / like to + V / like + Ving"
+  },
+  "a1-0141": {
+    "examples": [
+      {
+        "en": "I love rainy mornings.",
+        "ru": "Я люблю дождливые утра."
+      },
+      {
+        "en": "They love each other.",
+        "ru": "Они любят друг друга."
+      },
+      {
+        "en": "I'd love to join you.",
+        "ru": "Я бы с радостью присоединился."
+      }
+    ],
+    "colloc": "love to · fall in love",
+    "pattern": "love + N / love to + V"
+  },
+  "a1-0142": {
+    "examples": [
+      {
+        "en": "I hate waiting in line.",
+        "ru": "Ненавижу стоять в очереди."
+      },
+      {
+        "en": "She hates cold weather.",
+        "ru": "Она ненавидит холодную погоду."
+      },
+      {
+        "en": "I hate to interrupt, but…",
+        "ru": "Ненавижу прерывать, но…"
+      }
+    ],
+    "colloc": "hate to · hate waiting",
+    "pattern": "hate + N / hate + Ving",
+    "ant": "love"
+  },
+  "a1-0143": {
+    "examples": [
+      {
+        "en": "I feel tired after work.",
+        "ru": "После работы я чувствую усталость."
+      },
+      {
+        "en": "How do you feel?",
+        "ru": "Как ты себя чувствуешь?"
+      },
+      {
+        "en": "She felt cold in the room.",
+        "ru": "Ей было холодно в комнате."
+      }
+    ],
+    "colloc": "feel good · feel like · feel free",
+    "pattern": "feel + adj"
+  },
+  "a1-0144": {
+    "examples": [
+      {
+        "en": "I can't find my keys.",
+        "ru": "Не могу найти ключи."
+      },
+      {
+        "en": "We found a nice hotel.",
+        "ru": "Мы нашли хороший отель."
+      },
+      {
+        "en": "Did you find the answer?",
+        "ru": "Ты нашёл ответ?"
+      }
+    ],
+    "colloc": "find out · find a way · hard to find",
+    "pattern": "find + N",
+    "ant": "lose"
+  },
+  "a1-0145": {
+    "examples": [
+      {
+        "en": "Don't lose your ticket.",
+        "ru": "Не потеряй билет."
+      },
+      {
+        "en": "Our team lost the game.",
+        "ru": "Наша команда проиграла матч."
+      },
+      {
+        "en": "I lost my phone on the bus.",
+        "ru": "Я потерял телефон в автобусе."
+      }
+    ],
+    "colloc": "lose weight · lose a game · get lost",
+    "pattern": "lose + N",
+    "ant": "find / win"
+  },
+  "a1-0146": {
+    "examples": [
+      {
+        "en": "May I use your phone?",
+        "ru": "Можно воспользоваться твоим телефоном?"
+      },
+      {
+        "en": "She uses this app every day.",
+        "ru": "Она пользуется этим приложением каждый день."
+      },
+      {
+        "en": "Use the back door, please.",
+        "ru": "Пользуйтесь задней дверью, пожалуйста."
+      }
+    ],
+    "colloc": "use a computer · out of use",
+    "pattern": "use + N"
+  },
+  "a1-0147": {
+    "examples": [
+      {
+        "en": "Try this soup — it's great.",
+        "ru": "Попробуй этот суп — он отличный."
+      },
+      {
+        "en": "I'll try to finish today.",
+        "ru": "Попробую закончить сегодня."
+      },
+      {
+        "en": "Try again in a minute.",
+        "ru": "Попробуй ещё раз через минуту."
+      }
+    ],
+    "colloc": "try to · try on · try again",
+    "pattern": "try + N / try to + V"
+  },
+  "a1-0148": {
+    "examples": [
+      {
+        "en": "Let's start the meeting.",
+        "ru": "Давайте начнём встречу."
+      },
+      {
+        "en": "School starts in September.",
+        "ru": "Школа начинается в сентябре."
+      },
+      {
+        "en": "She started a new job.",
+        "ru": "Она начала новую работу."
+      }
+    ],
+    "colloc": "start work · start over · get started",
+    "pattern": "start + N / start + Ving",
+    "syn": "begin"
+  },
+  "a1-0149": {
+    "examples": [
+      {
+        "en": "The movie begins at eight.",
+        "ru": "Фильм начинается в восемь."
+      },
+      {
+        "en": "Let's begin with page one.",
+        "ru": "Начнём со страницы один."
+      },
+      {
+        "en": "It began to rain.",
+        "ru": "Начал идти дождь."
+      }
+    ],
+    "colloc": "begin with · begin to",
+    "pattern": "begin + N / begin to + V",
+    "syn": "start"
+  },
+  "a1-0150": {
+    "examples": [
+      {
+        "en": "Please stop talking.",
+        "ru": "Пожалуйста, перестань говорить."
+      },
+      {
+        "en": "The bus stops here.",
+        "ru": "Автобус останавливается здесь."
+      },
+      {
+        "en": "Stop! There's a dog.",
+        "ru": "Стой! Там собака."
+      }
+    ],
+    "colloc": "stop by · stop working · bus stop",
+    "pattern": "stop + Ving / stop + N"
+  }
+}

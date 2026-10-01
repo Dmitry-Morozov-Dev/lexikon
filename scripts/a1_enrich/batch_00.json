@@ -1,0 +1,1813 @@
+{
+  "a1-0001": {
+    "examples": [
+      {
+        "en": "I am a student.",
+        "ru": "Я студент."
+      },
+      {
+        "en": "I live near the park.",
+        "ru": "Я живу рядом с парком."
+      },
+      {
+        "en": "Can I help you?",
+        "ru": "Могу я вам помочь?"
+      }
+    ],
+    "note": "Всегда с заглавной: I."
+  },
+  "a1-0002": {
+    "examples": [
+      {
+        "en": "You are my friend.",
+        "ru": "Ты мой друг."
+      },
+      {
+        "en": "Are you ready for lunch?",
+        "ru": "Ты готов к обеду?"
+      },
+      {
+        "en": "I will call you tomorrow.",
+        "ru": "Я позвоню тебе завтра."
+      }
+    ]
+  },
+  "a1-0003": {
+    "examples": [
+      {
+        "en": "He is at home.",
+        "ru": "Он дома."
+      },
+      {
+        "en": "He works in a bank.",
+        "ru": "Он работает в банке."
+      },
+      {
+        "en": "Does he speak English?",
+        "ru": "Он говорит по-английски?"
+      }
+    ]
+  },
+  "a1-0004": {
+    "examples": [
+      {
+        "en": "She likes music.",
+        "ru": "Ей нравится музыка."
+      },
+      {
+        "en": "She is my sister.",
+        "ru": "Она моя сестра."
+      },
+      {
+        "en": "I saw her at the store.",
+        "ru": "Я видел её в магазине."
+      }
+    ],
+    "note": "she = она; her = её/ей (объект/притяжательное)."
+  },
+  "a1-0005": {
+    "examples": [
+      {
+        "en": "It is cold today.",
+        "ru": "Сегодня холодно."
+      },
+      {
+        "en": "Where is my phone? It is on the table.",
+        "ru": "Где мой телефон? Он на столе."
+      },
+      {
+        "en": "It rains a lot in April.",
+        "ru": "В апреле часто идёт дождь."
+      }
+    ],
+    "note": "it — для вещей, погоды, времени."
+  },
+  "a1-0006": {
+    "examples": [
+      {
+        "en": "We live in a city.",
+        "ru": "Мы живём в городе."
+      },
+      {
+        "en": "We are hungry.",
+        "ru": "Мы голодны."
+      },
+      {
+        "en": "Can we sit here?",
+        "ru": "Можем мы здесь сесть?"
+      }
+    ]
+  },
+  "a1-0007": {
+    "examples": [
+      {
+        "en": "They work together.",
+        "ru": "Они работают вместе."
+      },
+      {
+        "en": "They have two cats.",
+        "ru": "У них две кошки."
+      },
+      {
+        "en": "Are they from Spain?",
+        "ru": "Они из Испании?"
+      }
+    ]
+  },
+  "a1-0008": {
+    "examples": [
+      {
+        "en": "Call me later.",
+        "ru": "Позвони мне позже."
+      },
+      {
+        "en": "She gave me a gift.",
+        "ru": "Она дала мне подарок."
+      },
+      {
+        "en": "Wait for me at the door.",
+        "ru": "Подожди меня у двери."
+      }
+    ]
+  },
+  "a1-0009": {
+    "examples": [
+      {
+        "en": "I know him well.",
+        "ru": "Я хорошо его знаю."
+      },
+      {
+        "en": "Give him this letter.",
+        "ru": "Передай ему это письмо."
+      },
+      {
+        "en": "I saw him yesterday.",
+        "ru": "Я видел его вчера."
+      }
+    ]
+  },
+  "a1-0010": {
+    "examples": [
+      {
+        "en": "This is her bag.",
+        "ru": "Это её сумка."
+      },
+      {
+        "en": "I called her last night.",
+        "ru": "Я звонил ей прошлой ночью."
+      },
+      {
+        "en": "Her coffee is ready.",
+        "ru": "Её кофе готов."
+      }
+    ],
+    "note": "her = её (притяж.) или ей/её (объект)."
+  },
+  "a1-0011": {
+    "examples": [
+      {
+        "en": "Come with us.",
+        "ru": "Пойди с нами."
+      },
+      {
+        "en": "They invited us to dinner.",
+        "ru": "Они пригласили нас на ужин."
+      },
+      {
+        "en": "Tell us your name.",
+        "ru": "Скажи нам своё имя."
+      }
+    ]
+  },
+  "a1-0012": {
+    "examples": [
+      {
+        "en": "I see them now.",
+        "ru": "Я вижу их сейчас."
+      },
+      {
+        "en": "Please help them.",
+        "ru": "Пожалуйста, помоги им."
+      },
+      {
+        "en": "I know them from school.",
+        "ru": "Я знаю их со школы."
+      }
+    ]
+  },
+  "a1-0013": {
+    "examples": [
+      {
+        "en": "This is my phone.",
+        "ru": "Это мой телефон."
+      },
+      {
+        "en": "My brother lives abroad.",
+        "ru": "Мой брат живёт за границей."
+      },
+      {
+        "en": "Is this my seat?",
+        "ru": "Это моё место?"
+      }
+    ]
+  },
+  "a1-0014": {
+    "examples": [
+      {
+        "en": "Is this your book?",
+        "ru": "Это твоя книга?"
+      },
+      {
+        "en": "What is your job?",
+        "ru": "Кем ты работаешь?"
+      },
+      {
+        "en": "Your room looks nice.",
+        "ru": "Твоя комната выглядит мило."
+      }
+    ]
+  },
+  "a1-0015": {
+    "examples": [
+      {
+        "en": "His name is Tom.",
+        "ru": "Его зовут Том."
+      },
+      {
+        "en": "His car is blue.",
+        "ru": "Его машина синяя."
+      },
+      {
+        "en": "I like his idea.",
+        "ru": "Мне нравится его идея."
+      }
+    ]
+  },
+  "a1-0016": {
+    "examples": [
+      {
+        "en": "The dog wagged its tail.",
+        "ru": "Собака вильнула хвостом."
+      },
+      {
+        "en": "The company changed its name.",
+        "ru": "Компания сменила название."
+      },
+      {
+        "en": "The cat cleaned its paws.",
+        "ru": "Кошка вылизала лапы."
+      }
+    ],
+    "note": "its без апострофа = притяжательное; it's = it is."
+  },
+  "a1-0017": {
+    "examples": [
+      {
+        "en": "Our house is small.",
+        "ru": "Наш дом маленький."
+      },
+      {
+        "en": "Our train leaves at six.",
+        "ru": "Наш поезд уходит в шесть."
+      },
+      {
+        "en": "Welcome to our home.",
+        "ru": "Добро пожаловать к нам домой."
+      }
+    ]
+  },
+  "a1-0018": {
+    "examples": [
+      {
+        "en": "Their car is red.",
+        "ru": "Их машина красная."
+      },
+      {
+        "en": "Their kids play outside.",
+        "ru": "Их дети играют на улице."
+      },
+      {
+        "en": "I like their music.",
+        "ru": "Мне нравится их музыка."
+      }
+    ],
+    "note": "their = их; there = там; they're = they are."
+  },
+  "a1-0019": {
+    "examples": [
+      {
+        "en": "This is my desk.",
+        "ru": "Это мой стол."
+      },
+      {
+        "en": "I need this bag.",
+        "ru": "Мне нужна эта сумка."
+      },
+      {
+        "en": "This soup tastes great.",
+        "ru": "Этот суп очень вкусный."
+      }
+    ]
+  },
+  "a1-0020": {
+    "examples": [
+      {
+        "en": "That is a nice idea.",
+        "ru": "Это хорошая идея."
+      },
+      {
+        "en": "Look at that bird!",
+        "ru": "Смотри на ту птицу!"
+      },
+      {
+        "en": "I don't like that movie.",
+        "ru": "Мне не нравится тот фильм."
+      }
+    ]
+  },
+  "a1-0021": {
+    "examples": [
+      {
+        "en": "These shoes are new.",
+        "ru": "Эти туфли новые."
+      },
+      {
+        "en": "Are these your keys?",
+        "ru": "Это твои ключи?"
+      },
+      {
+        "en": "I bought these apples today.",
+        "ru": "Я купил эти яблоки сегодня."
+      }
+    ]
+  },
+  "a1-0022": {
+    "examples": [
+      {
+        "en": "Those birds are loud.",
+        "ru": "Те птицы громкие."
+      },
+      {
+        "en": "Those days were happy.",
+        "ru": "Те дни были счастливыми."
+      },
+      {
+        "en": "Can you pass those plates?",
+        "ru": "Можешь передать те тарелки?"
+      }
+    ]
+  },
+  "a1-0023": {
+    "examples": [
+      {
+        "en": "Who is at the door?",
+        "ru": "Кто у двери?"
+      },
+      {
+        "en": "Who made this cake?",
+        "ru": "Кто испек этот торт?"
+      },
+      {
+        "en": "I know who she is.",
+        "ru": "Я знаю, кто она."
+      }
+    ]
+  },
+  "a1-0024": {
+    "examples": [
+      {
+        "en": "What is your name?",
+        "ru": "Как тебя зовут?"
+      },
+      {
+        "en": "What do you want for dinner?",
+        "ru": "Что ты хочешь на ужин?"
+      },
+      {
+        "en": "I don't know what to say.",
+        "ru": "Не знаю, что сказать."
+      }
+    ]
+  },
+  "a1-0025": {
+    "examples": [
+      {
+        "en": "Where do you live?",
+        "ru": "Где ты живёшь?"
+      },
+      {
+        "en": "Where is the bathroom?",
+        "ru": "Где ванная?"
+      },
+      {
+        "en": "I forgot where I put my keys.",
+        "ru": "Я забыл, куда положил ключи."
+      }
+    ]
+  },
+  "a1-0026": {
+    "examples": [
+      {
+        "en": "When is the meeting?",
+        "ru": "Когда встреча?"
+      },
+      {
+        "en": "When does the store open?",
+        "ru": "Когда открывается магазин?"
+      },
+      {
+        "en": "Call me when you arrive.",
+        "ru": "Позвони, когда приедешь."
+      }
+    ]
+  },
+  "a1-0027": {
+    "examples": [
+      {
+        "en": "Why are you late?",
+        "ru": "Почему ты опоздал?"
+      },
+      {
+        "en": "Why is the window open?",
+        "ru": "Почему окно открыто?"
+      },
+      {
+        "en": "Tell me why you left.",
+        "ru": "Скажи, почему ты ушёл."
+      }
+    ]
+  },
+  "a1-0028": {
+    "examples": [
+      {
+        "en": "How are you today?",
+        "ru": "Как ты сегодня?"
+      },
+      {
+        "en": "How do I get to the station?",
+        "ru": "Как пройти к станции?"
+      },
+      {
+        "en": "How old is your son?",
+        "ru": "Сколько лет твоему сыну?"
+      }
+    ]
+  },
+  "a1-0029": {
+    "examples": [
+      {
+        "en": "Which color do you like?",
+        "ru": "Какой цвет тебе нравится?"
+      },
+      {
+        "en": "Which bus goes downtown?",
+        "ru": "Какой автобус идёт в центр?"
+      },
+      {
+        "en": "Choose which seat you want.",
+        "ru": "Выбери, какое место хочешь."
+      }
+    ]
+  },
+  "a1-0030": {
+    "examples": [
+      {
+        "en": "Yes, I agree.",
+        "ru": "Да, я согласен."
+      },
+      {
+        "en": "Yes, please.",
+        "ru": "Да, пожалуйста."
+      },
+      {
+        "en": "Is it ready? — Yes.",
+        "ru": "Готово? — Да."
+      }
+    ]
+  },
+  "a1-0031": {
+    "examples": [
+      {
+        "en": "No, thank you.",
+        "ru": "Нет, спасибо."
+      },
+      {
+        "en": "No, I don't live here.",
+        "ru": "Нет, я здесь не живу."
+      },
+      {
+        "en": "There is no milk left.",
+        "ru": "Молока не осталось."
+      }
+    ]
+  },
+  "a1-0032": {
+    "examples": [
+      {
+        "en": "I am not tired.",
+        "ru": "Я не устал."
+      },
+      {
+        "en": "Do not open that door.",
+        "ru": "Не открывай ту дверь."
+      },
+      {
+        "en": "She does not like coffee.",
+        "ru": "Она не любит кофе."
+      }
+    ],
+    "note": "do/does/did + not для отрицания глаголов."
+  },
+  "a1-0033": {
+    "examples": [
+      {
+        "en": "Please sit down.",
+        "ru": "Пожалуйста, садитесь."
+      },
+      {
+        "en": "Can you help me, please?",
+        "ru": "Можешь помочь мне, пожалуйста?"
+      },
+      {
+        "en": "Two tickets, please.",
+        "ru": "Два билета, пожалуйста."
+      }
+    ]
+  },
+  "a1-0034": {
+    "examples": [
+      {
+        "en": "Thanks for your help.",
+        "ru": "Спасибо за помощь."
+      },
+      {
+        "en": "Thanks, that was great.",
+        "ru": "Спасибо, это было здорово."
+      },
+      {
+        "en": "Many thanks for the gift.",
+        "ru": "Большое спасибо за подарок."
+      }
+    ],
+    "colloc": "thanks for"
+  },
+  "a1-0035": {
+    "examples": [
+      {
+        "en": "I am sorry.",
+        "ru": "Мне жаль."
+      },
+      {
+        "en": "Sorry I'm late.",
+        "ru": "Извини, что опоздал."
+      },
+      {
+        "en": "I'm sorry about the mess.",
+        "ru": "Извини за беспорядок."
+      }
+    ],
+    "colloc": "I'm sorry · sorry about"
+  },
+  "a1-0036": {
+    "examples": [
+      {
+        "en": "Hello, everyone!",
+        "ru": "Всем привет!"
+      },
+      {
+        "en": "Hello, is Anna there?",
+        "ru": "Алло, Анна дома?"
+      },
+      {
+        "en": "Say hello to your parents.",
+        "ru": "Передай привет родителям."
+      }
+    ],
+    "colloc": "say hello"
+  },
+  "a1-0037": {
+    "examples": [
+      {
+        "en": "Goodbye and take care.",
+        "ru": "До свидания, береги себя."
+      },
+      {
+        "en": "Goodbye! See you tomorrow.",
+        "ru": "До свидания! Увидимся завтра."
+      },
+      {
+        "en": "She said goodbye and left.",
+        "ru": "Она попрощалась и ушла."
+      }
+    ],
+    "colloc": "say goodbye"
+  },
+  "a1-0038": {
+    "examples": [
+      {
+        "en": "Hi, how are you?",
+        "ru": "Привет, как дела?"
+      },
+      {
+        "en": "Hi, I'm Mark.",
+        "ru": "Привет, я Марк."
+      },
+      {
+        "en": "Say hi to your sister for me.",
+        "ru": "Передай привет сестре от меня."
+      }
+    ]
+  },
+  "a1-0039": {
+    "examples": [
+      {
+        "en": "Ok, let's go.",
+        "ru": "Ладно, пойдём."
+      },
+      {
+        "en": "Is everything ok?",
+        "ru": "Всё в порядке?"
+      },
+      {
+        "en": "Ok, I understand.",
+        "ru": "Ок, я понял."
+      }
+    ]
+  },
+  "a1-0040": {
+    "examples": [
+      {
+        "en": "Tea and coffee, please.",
+        "ru": "Чай и кофе, пожалуйста."
+      },
+      {
+        "en": "She opened the door and smiled.",
+        "ru": "Она открыла дверь и улыбнулась."
+      },
+      {
+        "en": "You and I can share a taxi.",
+        "ru": "Мы с тобой можем разделить такси."
+      }
+    ]
+  },
+  "a1-0041": {
+    "examples": [
+      {
+        "en": "Tea or coffee?",
+        "ru": "Чай или кофе?"
+      },
+      {
+        "en": "Call me or send a text.",
+        "ru": "Позвони или напиши."
+      },
+      {
+        "en": "Hurry, or we'll be late.",
+        "ru": "Поторопись, или мы опоздаем."
+      }
+    ]
+  },
+  "a1-0042": {
+    "examples": [
+      {
+        "en": "I am tired but happy.",
+        "ru": "Я устал, но счастлив."
+      },
+      {
+        "en": "It's small but cozy.",
+        "ru": "Он маленький, но уютный."
+      },
+      {
+        "en": "I tried, but it didn't work.",
+        "ru": "Я пытался, но не получилось."
+      }
+    ]
+  },
+  "a1-0043": {
+    "examples": [
+      {
+        "en": "I stay because it rains.",
+        "ru": "Я остаюсь, потому что дождь."
+      },
+      {
+        "en": "She left because she was tired.",
+        "ru": "Она ушла, потому что устала."
+      },
+      {
+        "en": "Why? Because I said so.",
+        "ru": "Почему? Потому что я так сказал."
+      }
+    ],
+    "colloc": "because of"
+  },
+  "a1-0044": {
+    "examples": [
+      {
+        "en": "Call me if you need help.",
+        "ru": "Позвони, если нужна помощь."
+      },
+      {
+        "en": "If it rains, we stay home.",
+        "ru": "Если будет дождь, останемся дома."
+      },
+      {
+        "en": "Ask if she is free.",
+        "ru": "Спроси, свободна ли она."
+      }
+    ],
+    "pattern": "if + clause"
+  },
+  "a1-0045": {
+    "examples": [
+      {
+        "en": "I am busy, so I cannot go.",
+        "ru": "Я занят, поэтому не могу."
+      },
+      {
+        "en": "It was late, so we took a taxi.",
+        "ru": "Было поздно, поэтому мы взяли такси."
+      },
+      {
+        "en": "I'm so glad you came.",
+        "ru": "Я так рад, что ты пришёл."
+      }
+    ],
+    "note": "so = поэтому / так (очень)."
+  },
+  "a1-0046": {
+    "examples": [
+      {
+        "en": "Come with me.",
+        "ru": "Пойди со мной."
+      },
+      {
+        "en": "I work with my brother.",
+        "ru": "Я работаю с братом."
+      },
+      {
+        "en": "Coffee with milk, please.",
+        "ru": "Кофе с молоком, пожалуйста."
+      }
+    ],
+    "colloc": "with milk · with friends"
+  },
+  "a1-0047": {
+    "examples": [
+      {
+        "en": "Coffee without sugar.",
+        "ru": "Кофе без сахара."
+      },
+      {
+        "en": "Don't leave without saying goodbye.",
+        "ru": "Не уходи, не попрощавшись."
+      },
+      {
+        "en": "I can't live without music.",
+        "ru": "Не могу жить без музыки."
+      }
+    ],
+    "colloc": "without sugar · without help"
+  },
+  "a1-0048": {
+    "examples": [
+      {
+        "en": "I am from Canada.",
+        "ru": "Я из Канады."
+      },
+      {
+        "en": "A letter from my mom.",
+        "ru": "Письмо от мамы."
+      },
+      {
+        "en": "The train from Boston is late.",
+        "ru": "Поезд из Бостона опаздывает."
+      }
+    ],
+    "colloc": "from home · from work",
+    "pattern": "from + place"
+  },
+  "a1-0049": {
+    "examples": [
+      {
+        "en": "Go to school.",
+        "ru": "Иди в школу."
+      },
+      {
+        "en": "Give this to Anna.",
+        "ru": "Передай это Анне."
+      },
+      {
+        "en": "I walk to work every day.",
+        "ru": "Я хожу на работу пешком каждый день."
+      }
+    ],
+    "colloc": "go to · talk to",
+    "pattern": "to + N / to + person"
+  },
+  "a1-0050": {
+    "examples": [
+      {
+        "en": "The keys are in the bag.",
+        "ru": "Ключи в сумке."
+      },
+      {
+        "en": "She works in an office.",
+        "ru": "Она работает в офисе."
+      },
+      {
+        "en": "We met in July.",
+        "ru": "Мы познакомились в июле."
+      }
+    ],
+    "colloc": "in the morning · in a city",
+    "note": "in — месяцы, города, комнаты; on — дни; at — часы."
+  },
+  "a1-0051": {
+    "examples": [
+      {
+        "en": "The book is on the table.",
+        "ru": "Книга на столе."
+      },
+      {
+        "en": "I saw her on Monday.",
+        "ru": "Я видел её в понедельник."
+      },
+      {
+        "en": "What's on TV tonight?",
+        "ru": "Что сегодня по телевизору?"
+      }
+    ],
+    "colloc": "on the table · on Monday · on the phone"
+  },
+  "a1-0052": {
+    "examples": [
+      {
+        "en": "Meet me at the station.",
+        "ru": "Встреть меня на станции."
+      },
+      {
+        "en": "The meeting starts at 9.",
+        "ru": "Встреча начинается в 9."
+      },
+      {
+        "en": "She is at home now.",
+        "ru": "Она сейчас дома."
+      }
+    ],
+    "colloc": "at home · at work · at 5 o'clock",
+    "note": "at home/work — без the."
+  },
+  "a1-0053": {
+    "examples": [
+      {
+        "en": "This gift is for you.",
+        "ru": "Этот подарок для тебя."
+      },
+      {
+        "en": "I waited for an hour.",
+        "ru": "Я ждал час."
+      },
+      {
+        "en": "Thanks for dinner.",
+        "ru": "Спасибо за ужин."
+      }
+    ],
+    "colloc": "for you · wait for · thanks for",
+    "pattern": "for + N"
+  },
+  "a1-0054": {
+    "examples": [
+      {
+        "en": "A cup of tea.",
+        "ru": "Чашка чая."
+      },
+      {
+        "en": "The end of the story.",
+        "ru": "Конец истории."
+      },
+      {
+        "en": "One of my friends lives nearby.",
+        "ru": "Один из моих друзей живёт рядом."
+      }
+    ],
+    "colloc": "a cup of · a lot of · kind of"
+  },
+  "a1-0055": {
+    "examples": [
+      {
+        "en": "A book about animals.",
+        "ru": "Книга о животных."
+      },
+      {
+        "en": "We talked about the trip.",
+        "ru": "Мы говорили о поездке."
+      },
+      {
+        "en": "What is this movie about?",
+        "ru": "О чём этот фильм?"
+      }
+    ],
+    "colloc": "talk about · think about",
+    "pattern": "about + N"
+  },
+  "a1-0056": {
+    "examples": [
+      {
+        "en": "Go into the room.",
+        "ru": "Войди в комнату."
+      },
+      {
+        "en": "She walked into the café.",
+        "ru": "Она вошла в кафе."
+      },
+      {
+        "en": "Put the milk into the fridge.",
+        "ru": "Поставь молоко в холодильник."
+      }
+    ],
+    "colloc": "go into · walk into",
+    "pattern": "into + place"
+  },
+  "a1-0057": {
+    "examples": [
+      {
+        "en": "Get out of the car.",
+        "ru": "Выйди из машины."
+      },
+      {
+        "en": "The kids are playing out back.",
+        "ru": "Дети играют во дворе."
+      },
+      {
+        "en": "Is anyone out there?",
+        "ru": "Есть ли кто-нибудь там снаружи?"
+      }
+    ],
+    "colloc": "go out · out of"
+  },
+  "a1-0058": {
+    "examples": [
+      {
+        "en": "Look up at the sky.",
+        "ru": "Посмотри вверх на небо."
+      },
+      {
+        "en": "Wake up early tomorrow.",
+        "ru": "Завтра встань рано."
+      },
+      {
+        "en": "The prices went up.",
+        "ru": "Цены выросли."
+      }
+    ],
+    "colloc": "wake up · get up · look up"
+  },
+  "a1-0059": {
+    "examples": [
+      {
+        "en": "Sit down, please.",
+        "ru": "Садитесь, пожалуйста."
+      },
+      {
+        "en": "Write it down.",
+        "ru": "Запиши это."
+      },
+      {
+        "en": "The elevator is going down.",
+        "ru": "Лифт едет вниз."
+      }
+    ],
+    "colloc": "sit down · write down · calm down"
+  },
+  "a1-0060": {
+    "examples": [
+      {
+        "en": "The plane flies over us.",
+        "ru": "Самолёт летит над нами."
+      },
+      {
+        "en": "Climb over the fence.",
+        "ru": "Перелезь через забор."
+      },
+      {
+        "en": "The movie is over.",
+        "ru": "Фильм закончился."
+      }
+    ],
+    "colloc": "over there · it's over · think it over"
+  },
+  "a1-0061": {
+    "examples": [
+      {
+        "en": "The cat is under the table.",
+        "ru": "Кот под столом."
+      },
+      {
+        "en": "Kids under 12 go free.",
+        "ru": "Дети до 12 лет бесплатно."
+      },
+      {
+        "en": "Look under the bed.",
+        "ru": "Посмотри под кроватью."
+      }
+    ],
+    "colloc": "under the table · under pressure"
+  },
+  "a1-0062": {
+    "examples": [
+      {
+        "en": "Sit between us.",
+        "ru": "Сядь между нами."
+      },
+      {
+        "en": "The park is between two streets.",
+        "ru": "Парк между двумя улицами."
+      },
+      {
+        "en": "Choose between tea and coffee.",
+        "ru": "Выбери между чаем и кофе."
+      }
+    ],
+    "colloc": "between A and B",
+    "pattern": "between A and B"
+  },
+  "a1-0063": {
+    "examples": [
+      {
+        "en": "The shop is near here.",
+        "ru": "Магазин рядом."
+      },
+      {
+        "en": "We live near the river.",
+        "ru": "Мы живём рядом с рекой."
+      },
+      {
+        "en": "Is there a bank near you?",
+        "ru": "Есть ли банк рядом с тобой?"
+      }
+    ],
+    "colloc": "near here · near the station",
+    "syn": "close to"
+  },
+  "a1-0064": {
+    "examples": [
+      {
+        "en": "I go by bus.",
+        "ru": "Я езжу на автобусе."
+      },
+      {
+        "en": "Sit by the window.",
+        "ru": "Сядь у окна."
+      },
+      {
+        "en": "This book is by a local author.",
+        "ru": "Эту книгу написал местный автор."
+      }
+    ],
+    "colloc": "by bus · by car · by accident",
+    "note": "by bus/train/car — на транспорте."
+  },
+  "a1-0065": {
+    "examples": [
+      {
+        "en": "Call me after lunch.",
+        "ru": "Позвони после обеда."
+      },
+      {
+        "en": "After work I go to the gym.",
+        "ru": "После работы я иду в зал."
+      },
+      {
+        "en": "Clean up after the party.",
+        "ru": "Уберись после вечеринки."
+      }
+    ],
+    "colloc": "after work · after lunch · right after",
+    "ant": "before"
+  },
+  "a1-0066": {
+    "examples": [
+      {
+        "en": "Wash hands before eating.",
+        "ru": "Мой руки перед едой."
+      },
+      {
+        "en": "Arrive before 8 o'clock.",
+        "ru": "Приезжай до 8 часов."
+      },
+      {
+        "en": "Think before you speak.",
+        "ru": "Подумай, прежде чем говорить."
+      }
+    ],
+    "colloc": "before bed · the day before",
+    "ant": "after"
+  },
+  "a1-0067": {
+    "examples": [
+      {
+        "en": "Silence during the film.",
+        "ru": "Тишина во время фильма."
+      },
+      {
+        "en": "I slept during the flight.",
+        "ru": "Я спал во время полёта."
+      },
+      {
+        "en": "No phones during class.",
+        "ru": "Без телефонов во время урока."
+      }
+    ],
+    "colloc": "during the day · during class",
+    "pattern": "during + N"
+  },
+  "a1-0068": {
+    "examples": [
+      {
+        "en": "Wait until Friday.",
+        "ru": "Жди до пятницы."
+      },
+      {
+        "en": "Stay until I come back.",
+        "ru": "Останься, пока я не вернусь."
+      },
+      {
+        "en": "The store is open until 9.",
+        "ru": "Магазин открыт до 9."
+      }
+    ],
+    "colloc": "until tomorrow · until late",
+    "pattern": "until + time"
+  },
+  "a1-0069": {
+    "examples": [
+      {
+        "en": "I live here since 2020.",
+        "ru": "Я живу здесь с 2020."
+      },
+      {
+        "en": "She has been sick since Monday.",
+        "ru": "Она болеет с понедельника."
+      },
+      {
+        "en": "I haven't seen him since May.",
+        "ru": "Я не видел его с мая."
+      }
+    ],
+    "note": "since + точка времени; for + длительность. Часто с Present Perfect.",
+    "pattern": "since + time point"
+  },
+  "a1-0070": {
+    "examples": [
+      {
+        "en": "As a student, I study hard.",
+        "ru": "Как студент, я учусь усердно."
+      },
+      {
+        "en": "Do as I say.",
+        "ru": "Делай, как я говорю."
+      },
+      {
+        "en": "As usual, he was late.",
+        "ru": "Как обычно, он опоздал."
+      }
+    ],
+    "colloc": "as usual · as a child · as well"
+  },
+  "a1-0071": {
+    "examples": [
+      {
+        "en": "She is taller than me.",
+        "ru": "Она выше меня."
+      },
+      {
+        "en": "Better late than never.",
+        "ru": "Лучше поздно, чем никогда."
+      },
+      {
+        "en": "This bag is cheaper than that one.",
+        "ru": "Эта сумка дешевле той."
+      }
+    ],
+    "pattern": "adj-er / more adj + than"
+  },
+  "a1-0072": {
+    "examples": [
+      {
+        "en": "I also speak French.",
+        "ru": "Я тоже говорю по-французски."
+      },
+      {
+        "en": "She also works on weekends.",
+        "ru": "Она также работает по выходным."
+      },
+      {
+        "en": "Can I also come?",
+        "ru": "Могу я тоже прийти?"
+      }
+    ],
+    "note": "also обычно перед смысловым глаголом / после be."
+  },
+  "a1-0073": {
+    "examples": [
+      {
+        "en": "I like pizza too.",
+        "ru": "Мне тоже нравится пицца."
+      },
+      {
+        "en": "It's too late to call.",
+        "ru": "Слишком поздно звонить."
+      },
+      {
+        "en": "This bag is too heavy.",
+        "ru": "Эта сумка слишком тяжёлая."
+      }
+    ],
+    "note": "too = тоже (в конце) ИЛИ слишком (+ adj)."
+  },
+  "a1-0074": {
+    "examples": [
+      {
+        "en": "This cake is very good.",
+        "ru": "Этот торт очень хороший."
+      },
+      {
+        "en": "Thank you very much.",
+        "ru": "Большое спасибо."
+      },
+      {
+        "en": "I'm very tired tonight.",
+        "ru": "Я очень устал сегодня вечером."
+      }
+    ],
+    "colloc": "very much · very good"
+  },
+  "a1-0075": {
+    "examples": [
+      {
+        "en": "I really like this song.",
+        "ru": "Мне правда нравится эта песня."
+      },
+      {
+        "en": "Are you really sure?",
+        "ru": "Ты правда уверен?"
+      },
+      {
+        "en": "She works really hard.",
+        "ru": "Она работает очень усердно."
+      }
+    ],
+    "colloc": "really like · really hard"
+  },
+  "a1-0076": {
+    "examples": [
+      {
+        "en": "I just arrived.",
+        "ru": "Я только что приехал."
+      },
+      {
+        "en": "Just a minute, please.",
+        "ru": "Минутку, пожалуйста."
+      },
+      {
+        "en": "It's just a small problem.",
+        "ru": "Это всего лишь маленькая проблема."
+      }
+    ],
+    "colloc": "just a minute · just now"
+  },
+  "a1-0077": {
+    "examples": [
+      {
+        "en": "I only need five minutes.",
+        "ru": "Мне нужно всего пять минут."
+      },
+      {
+        "en": "Only members can enter.",
+        "ru": "Войти могут только члены клуба."
+      },
+      {
+        "en": "She only drinks tea.",
+        "ru": "Она пьёт только чай."
+      }
+    ]
+  },
+  "a1-0078": {
+    "examples": [
+      {
+        "en": "Even kids can do this.",
+        "ru": "Даже дети могут это сделать."
+      },
+      {
+        "en": "I don't even know his name.",
+        "ru": "Я даже не знаю его имени."
+      },
+      {
+        "en": "Even in winter we walk.",
+        "ru": "Даже зимой мы гуляем."
+      }
+    ],
+    "colloc": "not even · even if"
+  },
+  "a1-0079": {
+    "examples": [
+      {
+        "en": "Are you still hungry?",
+        "ru": "Ты всё ещё голоден?"
+      },
+      {
+        "en": "She still lives with her parents.",
+        "ru": "Она всё ещё живёт с родителями."
+      },
+      {
+        "en": "I'm still waiting for a reply.",
+        "ru": "Я всё ещё жду ответа."
+      }
+    ],
+    "colloc": "still waiting · still here",
+    "ant": "already"
+  },
+  "a1-0080": {
+    "examples": [
+      {
+        "en": "I already ate lunch.",
+        "ru": "Я уже пообедал."
+      },
+      {
+        "en": "The train already left.",
+        "ru": "Поезд уже ушёл."
+      },
+      {
+        "en": "Do you already know the answer?",
+        "ru": "Ты уже знаешь ответ?"
+      }
+    ],
+    "colloc": "already know · already done",
+    "ant": "still / yet"
+  },
+  "a1-0081": {
+    "examples": [
+      {
+        "en": "Have you finished yet?",
+        "ru": "Ты уже закончил?"
+      },
+      {
+        "en": "I'm not ready yet.",
+        "ru": "Я ещё не готов."
+      },
+      {
+        "en": "Yet another problem.",
+        "ru": "Ещё одна проблема."
+      }
+    ],
+    "note": "yet — в вопросах и отрицаниях Present Perfect; already — в утверждениях."
+  },
+  "a1-0082": {
+    "examples": [
+      {
+        "en": "Try again later.",
+        "ru": "Попробуй ещё раз позже."
+      },
+      {
+        "en": "See you again soon.",
+        "ru": "Увидимся снова скоро."
+      },
+      {
+        "en": "She called again this morning.",
+        "ru": "Она снова звонила сегодня утром."
+      }
+    ],
+    "colloc": "try again · once again"
+  },
+  "a1-0083": {
+    "examples": [
+      {
+        "en": "I always drink coffee in the morning.",
+        "ru": "Я всегда пью кофе утром."
+      },
+      {
+        "en": "She is always on time.",
+        "ru": "Она всегда вовремя."
+      },
+      {
+        "en": "We always walk after dinner.",
+        "ru": "Мы всегда гуляем после ужина."
+      }
+    ],
+    "colloc": "always late · always happy",
+    "ant": "never"
+  },
+  "a1-0084": {
+    "examples": [
+      {
+        "en": "I usually wake up at 7.",
+        "ru": "Обычно я встаю в 7."
+      },
+      {
+        "en": "We usually eat at home.",
+        "ru": "Обычно мы едим дома."
+      },
+      {
+        "en": "He is usually quiet.",
+        "ru": "Обычно он тихий."
+      }
+    ],
+    "colloc": "usually do"
+  },
+  "a1-0085": {
+    "examples": [
+      {
+        "en": "I often visit my grandma.",
+        "ru": "Я часто навещаю бабушку."
+      },
+      {
+        "en": "It often rains here.",
+        "ru": "Здесь часто идёт дождь."
+      },
+      {
+        "en": "How often do you exercise?",
+        "ru": "Как часто ты занимаешься спортом?"
+      }
+    ],
+    "colloc": "how often · often late"
+  },
+  "a1-0086": {
+    "examples": [
+      {
+        "en": "I sometimes work from home.",
+        "ru": "Иногда я работаю из дома."
+      },
+      {
+        "en": "Sometimes I forget names.",
+        "ru": "Иногда я забываю имена."
+      },
+      {
+        "en": "We go there sometimes.",
+        "ru": "Мы иногда туда ходим."
+      }
+    ]
+  },
+  "a1-0087": {
+    "examples": [
+      {
+        "en": "I never drink soda.",
+        "ru": "Я никогда не пью газировку."
+      },
+      {
+        "en": "She never arrives late.",
+        "ru": "Она никогда не опаздывает."
+      },
+      {
+        "en": "Never open that box.",
+        "ru": "Никогда не открывай ту коробку."
+      }
+    ],
+    "colloc": "never again · never mind",
+    "ant": "always"
+  },
+  "a1-0088": {
+    "examples": [
+      {
+        "en": "I live here.",
+        "ru": "Я живу здесь."
+      },
+      {
+        "en": "Come here, please.",
+        "ru": "Иди сюда, пожалуйста."
+      },
+      {
+        "en": "Is anyone here?",
+        "ru": "Здесь кто-нибудь есть?"
+      }
+    ],
+    "colloc": "come here · right here",
+    "ant": "there"
+  },
+  "a1-0089": {
+    "examples": [
+      {
+        "en": "Put the bag there.",
+        "ru": "Положи сумку туда."
+      },
+      {
+        "en": "Is anyone there?",
+        "ru": "Есть ли кто-нибудь там?"
+      },
+      {
+        "en": "There is a park nearby.",
+        "ru": "Рядом есть парк."
+      }
+    ],
+    "note": "there is/are = есть; there = там. Не путать с their/they're."
+  },
+  "a1-0090": {
+    "examples": [
+      {
+        "en": "I looked everywhere for my keys.",
+        "ru": "Я искал ключи повсюду."
+      },
+      {
+        "en": "There are cafés everywhere.",
+        "ru": "Кафе есть повсюду."
+      },
+      {
+        "en": "She smiles everywhere she goes.",
+        "ru": "Она улыбается, куда бы ни пошла."
+      }
+    ]
+  },
+  "a1-0091": {
+    "examples": [
+      {
+        "en": "Let's go somewhere quiet.",
+        "ru": "Давай пойдём куда-нибудь в тихое место."
+      },
+      {
+        "en": "I left my bag somewhere.",
+        "ru": "Я где-то оставил сумку."
+      },
+      {
+        "en": "Somewhere in this city lives my cousin.",
+        "ru": "Где-то в этом городе живёт мой двоюродный брат."
+      }
+    ]
+  },
+  "a1-0092": {
+    "examples": [
+      {
+        "en": "I need help now.",
+        "ru": "Мне нужна помощь сейчас."
+      },
+      {
+        "en": "What time is it now?",
+        "ru": "Который сейчас час?"
+      },
+      {
+        "en": "Now wash your hands.",
+        "ru": "А теперь помой руки."
+      }
+    ],
+    "colloc": "right now · from now on"
+  },
+  "a1-0093": {
+    "examples": [
+      {
+        "en": "We ate, then we walked.",
+        "ru": "Мы поели, потом погуляли."
+      },
+      {
+        "en": "See you then!",
+        "ru": "Тогда увидимся!"
+      },
+      {
+        "en": "Back then I lived in Ohio.",
+        "ru": "Тогда я жил в Огайо."
+      }
+    ],
+    "colloc": "back then · and then"
+  },
+  "a1-0094": {
+    "examples": [
+      {
+        "en": "Today is Monday.",
+        "ru": "Сегодня понедельник."
+      },
+      {
+        "en": "I feel better today.",
+        "ru": "Сегодня мне лучше."
+      },
+      {
+        "en": "What's on the menu today?",
+        "ru": "Что сегодня в меню?"
+      }
+    ],
+    "colloc": "today morning → this morning"
+  },
+  "a1-0095": {
+    "examples": [
+      {
+        "en": "See you tomorrow.",
+        "ru": "Увидимся завтра."
+      },
+      {
+        "en": "Tomorrow we fly to Chicago.",
+        "ru": "Завтра мы летим в Чикаго."
+      },
+      {
+        "en": "I'll finish it tomorrow.",
+        "ru": "Я закончу это завтра."
+      }
+    ],
+    "colloc": "tomorrow morning · the day after tomorrow"
+  },
+  "a1-0096": {
+    "examples": [
+      {
+        "en": "I met her yesterday.",
+        "ru": "Я встретил её вчера."
+      },
+      {
+        "en": "Yesterday was cold.",
+        "ru": "Вчера было холодно."
+      },
+      {
+        "en": "Where were you yesterday?",
+        "ru": "Где ты был вчера?"
+      }
+    ],
+    "colloc": "yesterday evening · the day before yesterday"
+  },
+  "a1-0097": {
+    "examples": [
+      {
+        "en": "Dinner will be ready soon.",
+        "ru": "Ужин скоро будет готов."
+      },
+      {
+        "en": "Call me soon.",
+        "ru": "Позвони мне скоро."
+      },
+      {
+        "en": "See you soon!",
+        "ru": "Скоро увидимся!"
+      }
+    ],
+    "colloc": "see you soon · coming soon"
+  },
+  "a1-0098": {
+    "examples": [
+      {
+        "en": "Sorry I'm late.",
+        "ru": "Извини, что опоздал."
+      },
+      {
+        "en": "Don't stay up too late.",
+        "ru": "Не ложись слишком поздно."
+      },
+      {
+        "en": "The train is running late.",
+        "ru": "Поезд опаздывает."
+      }
+    ],
+    "colloc": "too late · running late",
+    "ant": "early"
+  },
+  "a1-0099": {
+    "examples": [
+      {
+        "en": "I wake up early.",
+        "ru": "Я встаю рано."
+      },
+      {
+        "en": "Come early to get a seat.",
+        "ru": "Приходи рано, чтобы занять место."
+      },
+      {
+        "en": "It's too early for lunch.",
+        "ru": "Слишком рано для обеда."
+      }
+    ],
+    "colloc": "early morning · early bird",
+    "ant": "late"
+  },
+  "a1-0100": {
+    "examples": [
+      {
+        "en": "Drive fast, we're late!",
+        "ru": "Езжай быстро, мы опаздываем!"
+      },
+      {
+        "en": "She learns languages fast.",
+        "ru": "Она быстро учит языки."
+      },
+      {
+        "en": "Don't talk so fast.",
+        "ru": "Не говори так быстро."
+      }
+    ],
+    "colloc": "fast food · how fast",
+    "note": "fast = adj и adv; quickly чаще только adv.",
+    "syn": "quickly"
+  },
+  "a1-0101": {
+    "examples": [
+      {
+        "en": "Please speak slowly.",
+        "ru": "Пожалуйста, говори медленно."
+      },
+      {
+        "en": "He walked slowly home.",
+        "ru": "Он медленно шёл домой."
+      },
+      {
+        "en": "Open the door slowly.",
+        "ru": "Открой дверь медленно."
+      }
+    ],
+    "ant": "fast / quickly"
+  },
+  "a1-0102": {
+    "examples": [
+      {
+        "en": "She sings well.",
+        "ru": "Она хорошо поёт."
+      },
+      {
+        "en": "I don't feel well.",
+        "ru": "Я плохо себя чувствую."
+      },
+      {
+        "en": "The plan worked well.",
+        "ru": "План сработал хорошо."
+      }
+    ],
+    "note": "well = adv от good; также «здоровье».",
+    "ant": "badly"
+  },
+  "a1-0103": {
+    "examples": [
+      {
+        "en": "The team played badly.",
+        "ru": "Команда сыграла плохо."
+      },
+      {
+        "en": "I slept badly last night.",
+        "ru": "Я плохо спал прошлой ночью."
+      },
+      {
+        "en": "It ended badly.",
+        "ru": "Всё плохо закончилось."
+      }
+    ],
+    "ant": "well"
+  },
+  "a1-0104": {
+    "examples": [
+      {
+        "en": "We work together.",
+        "ru": "Мы работаем вместе."
+      },
+      {
+        "en": "Let's go together.",
+        "ru": "Давай пойдём вместе."
+      },
+      {
+        "en": "They live together downtown.",
+        "ru": "Они живут вместе в центре."
+      }
+    ],
+    "colloc": "together with · get together",
+    "ant": "alone"
+  },
+  "a1-0105": {
+    "examples": [
+      {
+        "en": "I live alone.",
+        "ru": "Я живу один."
+      },
+      {
+        "en": "Leave me alone.",
+        "ru": "Оставь меня в покое."
+      },
+      {
+        "en": "She traveled alone last summer.",
+        "ru": "Прошлым летом она путешествовала одна."
+      }
+    ],
+    "colloc": "leave alone · live alone",
+    "ant": "together"
+  },
+  "a1-0106": {
+    "examples": [
+      {
+        "en": "Maybe it will rain.",
+        "ru": "Может быть, будет дождь."
+      },
+      {
+        "en": "Maybe later.",
+        "ru": "Может быть, позже."
+      },
+      {
+        "en": "Maybe she's at work.",
+        "ru": "Может быть, она на работе."
+      }
+    ],
+    "syn": "perhaps"
+  },
+  "a1-0107": {
+    "examples": [
+      {
+        "en": "Perhaps we should wait.",
+        "ru": "Возможно, нам стоит подождать."
+      },
+      {
+        "en": "Perhaps he's busy.",
+        "ru": "Возможно, он занят."
+      },
+      {
+        "en": "Perhaps another day.",
+        "ru": "Возможно, в другой день."
+      }
+    ],
+    "syn": "maybe"
+  }
+}

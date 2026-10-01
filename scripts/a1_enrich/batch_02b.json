@@ -1,0 +1,915 @@
+{
+  "a1-0201": {
+    "examples": [
+      {
+        "en": "We swim in the lake in summer.",
+        "ru": "Летом мы плаваем в озере."
+      },
+      {
+        "en": "Can you swim?",
+        "ru": "Ты умеешь плавать?"
+      },
+      {
+        "en": "She swam twenty laps.",
+        "ru": "Она проплыла двадцать дорожек."
+      }
+    ],
+    "colloc": "go swimming · swim laps",
+    "pattern": "swim + adv"
+  },
+  "a1-0202": {
+    "examples": [
+      {
+        "en": "Kids jump on the trampoline.",
+        "ru": "Дети прыгают на батуте."
+      },
+      {
+        "en": "Jump over the puddle.",
+        "ru": "Перепрыгни лужу."
+      },
+      {
+        "en": "My heart jumped when the phone rang.",
+        "ru": "Сердце ёкнуло, когда зазвонил телефон."
+      }
+    ],
+    "colloc": "jump over · jump up",
+    "pattern": "jump + prep"
+  },
+  "a1-0203": {
+    "examples": [
+      {
+        "en": "They dance at every wedding.",
+        "ru": "Они танцуют на каждой свадьбе."
+      },
+      {
+        "en": "Would you like to dance?",
+        "ru": "Не хотите потанцевать?"
+      },
+      {
+        "en": "She danced all night.",
+        "ru": "Она танцевала всю ночь."
+      }
+    ],
+    "colloc": "dance to music · dance floor",
+    "pattern": "dance + adv"
+  },
+  "a1-0204": {
+    "examples": [
+      {
+        "en": "She sings in the shower.",
+        "ru": "Она поёт в душе."
+      },
+      {
+        "en": "We sang happy birthday.",
+        "ru": "Мы спели «с днём рождения»."
+      },
+      {
+        "en": "He sings beautifully.",
+        "ru": "Он красиво поёт."
+      }
+    ],
+    "colloc": "sing a song · sing along",
+    "pattern": "sing + N"
+  },
+  "a1-0205": {
+    "examples": [
+      {
+        "en": "Smile for the photo!",
+        "ru": "Улыбнись для фото!"
+      },
+      {
+        "en": "She smiled and waved.",
+        "ru": "Она улыбнулась и помахала."
+      },
+      {
+        "en": "A smile makes the day better.",
+        "ru": "Улыбка делает день лучше."
+      }
+    ],
+    "colloc": "smile at · big smile",
+    "pattern": "smile at + N"
+  },
+  "a1-0206": {
+    "examples": [
+      {
+        "en": "We laugh a lot at dinner.",
+        "ru": "За ужином мы много смеёмся."
+      },
+      {
+        "en": "Don't laugh at him.",
+        "ru": "Не смейся над ним."
+      },
+      {
+        "en": "The joke made everyone laugh.",
+        "ru": "Шутка всех рассмешила."
+      }
+    ],
+    "colloc": "laugh at · laugh out loud",
+    "pattern": "laugh at + N"
+  },
+  "a1-0207": {
+    "examples": [
+      {
+        "en": "The baby cries at night.",
+        "ru": "Малыш плачет ночью."
+      },
+      {
+        "en": "She cried during the movie.",
+        "ru": "Она плакала во время фильма."
+      },
+      {
+        "en": "Don't cry — we'll fix it.",
+        "ru": "Не плачь — мы всё исправим."
+      }
+    ],
+    "colloc": "cry for help · cry out",
+    "pattern": "cry + adv"
+  },
+  "a1-0208": {
+    "examples": [
+      {
+        "en": "Don't shout indoors.",
+        "ru": "Не кричи в помещении."
+      },
+      {
+        "en": "Someone shouted my name.",
+        "ru": "Кто-то крикнул моё имя."
+      },
+      {
+        "en": "He shouted for help.",
+        "ru": "Он закричал о помощи."
+      }
+    ],
+    "colloc": "shout at · shout for help",
+    "pattern": "shout at / for"
+  },
+  "a1-0209": {
+    "examples": [
+      {
+        "en": "Call me this evening.",
+        "ru": "Позвони мне вечером."
+      },
+      {
+        "en": "I'll call a taxi.",
+        "ru": "Я вызову такси."
+      },
+      {
+        "en": "She called her mom from the airport.",
+        "ru": "Она позвонила маме из аэропорта."
+      }
+    ],
+    "colloc": "call back · give a call · call a taxi",
+    "pattern": "call + person / call + N"
+  },
+  "a1-0210": {
+    "examples": [
+      {
+        "en": "Send me a message when you arrive.",
+        "ru": "Напиши мне, когда приедешь."
+      },
+      {
+        "en": "I sent the package yesterday.",
+        "ru": "Я отправил посылку вчера."
+      },
+      {
+        "en": "Did you send the email?",
+        "ru": "Ты отправил письмо?"
+      }
+    ],
+    "colloc": "send an email · send back",
+    "pattern": "send + N / send sb sth",
+    "ant": "receive"
+  },
+  "a1-0211": {
+    "examples": [
+      {
+        "en": "I receive many emails at work.",
+        "ru": "На работе я получаю много писем."
+      },
+      {
+        "en": "Did you receive my package?",
+        "ru": "Ты получил мою посылку?"
+      },
+      {
+        "en": "Guests receive a welcome gift.",
+        "ru": "Гости получают приветственный подарок."
+      }
+    ],
+    "colloc": "receive a call · receive news",
+    "pattern": "receive + N",
+    "ant": "send"
+  },
+  "a1-0212": {
+    "examples": [
+      {
+        "en": "Wait for me here.",
+        "ru": "Подожди меня здесь."
+      },
+      {
+        "en": "We waited twenty minutes.",
+        "ru": "Мы ждали двадцать минут."
+      },
+      {
+        "en": "Please wait in line.",
+        "ru": "Пожалуйста, встаньте в очередь."
+      }
+    ],
+    "colloc": "wait for · wait a minute · can't wait",
+    "note": "wait for + N",
+    "pattern": "wait for + N"
+  },
+  "a1-0213": {
+    "examples": [
+      {
+        "en": "I hope you feel better soon.",
+        "ru": "Надеюсь, тебе скоро станет лучше."
+      },
+      {
+        "en": "We hope for good weather.",
+        "ru": "Мы надеемся на хорошую погоду."
+      },
+      {
+        "en": "Hope to see you again.",
+        "ru": "Надеюсь снова тебя увидеть."
+      }
+    ],
+    "colloc": "hope for · hope to · I hope so",
+    "pattern": "hope + clause / hope to + V"
+  },
+  "a1-0214": {
+    "examples": [
+      {
+        "en": "I wish you luck on the test.",
+        "ru": "Желаю удачи на тесте."
+      },
+      {
+        "en": "She wished she had more time.",
+        "ru": "Она хотела бы иметь больше времени."
+      },
+      {
+        "en": "Best wishes for your trip.",
+        "ru": "Всего наилучшего в поездке."
+      }
+    ],
+    "colloc": "wish luck · make a wish · best wishes",
+    "note": "wish + N; wish + past (сожаление)",
+    "pattern": "wish + N / wish + clause"
+  },
+  "a1-0215": {
+    "examples": [
+      {
+        "en": "Choose a color you like.",
+        "ru": "Выбери цвет, который тебе нравится."
+      },
+      {
+        "en": "We chose the cheaper hotel.",
+        "ru": "Мы выбрали более дешёвый отель."
+      },
+      {
+        "en": "It's hard to choose.",
+        "ru": "Трудно выбрать."
+      }
+    ],
+    "colloc": "choose between · choice",
+    "pattern": "choose + N",
+    "syn": "pick"
+  },
+  "a1-0216": {
+    "examples": [
+      {
+        "en": "Decide quickly — the sale ends today.",
+        "ru": "Реши быстро — распродажа заканчивается сегодня."
+      },
+      {
+        "en": "We decided to stay home.",
+        "ru": "Мы решили остаться дома."
+      },
+      {
+        "en": "Have you decided yet?",
+        "ru": "Ты уже решил?"
+      }
+    ],
+    "colloc": "decide to · decide on · hard to decide",
+    "pattern": "decide to + V / decide on + N"
+  },
+  "a1-0217": {
+    "examples": [
+      {
+        "en": "Remember to lock the door.",
+        "ru": "Не забудь закрыть дверь на ключ."
+      },
+      {
+        "en": "I remember her face.",
+        "ru": "Я помню её лицо."
+      },
+      {
+        "en": "Do you remember my address?",
+        "ru": "Ты помнишь мой адрес?"
+      }
+    ],
+    "colloc": "remember to · remember that",
+    "pattern": "remember + N / remember to + V",
+    "ant": "forget"
+  },
+  "a1-0218": {
+    "examples": [
+      {
+        "en": "Don't forget your keys.",
+        "ru": "Не забудь ключи."
+      },
+      {
+        "en": "I forgot her birthday.",
+        "ru": "Я забыл её день рождения."
+      },
+      {
+        "en": "Sorry, I forgot to call.",
+        "ru": "Извини, забыл позвонить."
+      }
+    ],
+    "colloc": "forget to · forget about",
+    "pattern": "forget + N / forget to + V",
+    "ant": "remember"
+  },
+  "a1-0219": {
+    "examples": [
+      {
+        "en": "I understand the rule now.",
+        "ru": "Теперь я понимаю правило."
+      },
+      {
+        "en": "Do you understand me?",
+        "ru": "Ты меня понимаешь?"
+      },
+      {
+        "en": "She understood the joke.",
+        "ru": "Она поняла шутку."
+      }
+    ],
+    "colloc": "understand each other · hard to understand",
+    "pattern": "understand + N / clause"
+  },
+  "a1-0220": {
+    "examples": [
+      {
+        "en": "Explain it slowly, please.",
+        "ru": "Объясни это медленно, пожалуйста."
+      },
+      {
+        "en": "Can you explain the problem?",
+        "ru": "Можешь объяснить проблему?"
+      },
+      {
+        "en": "She explained how the app works.",
+        "ru": "Она объяснила, как работает приложение."
+      }
+    ],
+    "colloc": "explain to · explain why",
+    "pattern": "explain + N / explain to sb"
+  },
+  "a1-0221": {
+    "examples": [
+      {
+        "en": "Can you help me with this bag?",
+        "ru": "Можешь помочь мне с этой сумкой?"
+      },
+      {
+        "en": "She helped him find a taxi.",
+        "ru": "Она помогла ему найти такси."
+      },
+      {
+        "en": "Thanks for your help.",
+        "ru": "Спасибо за помощь."
+      }
+    ],
+    "colloc": "help with · help out · need help",
+    "pattern": "help + sb / help with + N"
+  },
+  "a1-0222": {
+    "examples": [
+      {
+        "en": "Change your shoes at the door.",
+        "ru": "Переобуйся у двери."
+      },
+      {
+        "en": "Can you change a twenty?",
+        "ru": "Можешь разменять двадцатку?"
+      },
+      {
+        "en": "Plans changed at the last minute.",
+        "ru": "Планы изменились в последнюю минуту."
+      }
+    ],
+    "colloc": "change clothes · change trains · for a change",
+    "pattern": "change + N"
+  },
+  "a1-0223": {
+    "examples": [
+      {
+        "en": "Check your answers before you submit.",
+        "ru": "Проверь ответы перед отправкой."
+      },
+      {
+        "en": "I'll check the schedule.",
+        "ru": "Я посмотрю расписание."
+      },
+      {
+        "en": "Check in at the front desk.",
+        "ru": "Зарегистрируйтесь на стойке."
+      }
+    ],
+    "colloc": "check in · check out · check email",
+    "pattern": "check + N"
+  },
+  "a1-0224": {
+    "examples": [
+      {
+        "en": "Show me the photo.",
+        "ru": "Покажи мне фото."
+      },
+      {
+        "en": "The map shows the exit.",
+        "ru": "На карте показан выход."
+      },
+      {
+        "en": "She showed us around the office.",
+        "ru": "Она провела нас по офису."
+      }
+    ],
+    "colloc": "show around · on show · show up",
+    "pattern": "show sb sth"
+  },
+  "a1-0225": {
+    "examples": [
+      {
+        "en": "Hide the gift under the bed.",
+        "ru": "Спрячь подарок под кроватью."
+      },
+      {
+        "en": "The cat hid behind the sofa.",
+        "ru": "Кот спрятался за диваном."
+      },
+      {
+        "en": "Don't hide the truth.",
+        "ru": "Не скрывай правду."
+      }
+    ],
+    "colloc": "hide from · hide and seek",
+    "pattern": "hide + N"
+  },
+  "a1-0226": {
+    "examples": [
+      {
+        "en": "Count to ten slowly.",
+        "ru": "Медленно посчитай до десяти."
+      },
+      {
+        "en": "I counted the chairs — there are twelve.",
+        "ru": "Я посчитал стулья — их двенадцать."
+      },
+      {
+        "en": "You can count on me.",
+        "ru": "На меня можно положиться."
+      }
+    ],
+    "colloc": "count on · count to · count the cost",
+    "pattern": "count + N"
+  },
+  "a1-0227": {
+    "examples": [
+      {
+        "en": "Add some sugar to the tea.",
+        "ru": "Добавь немного сахара в чай."
+      },
+      {
+        "en": "Add your name to the list.",
+        "ru": "Добавь своё имя в список."
+      },
+      {
+        "en": "Two plus two adds up to four.",
+        "ru": "Два плюс два равняется четырём."
+      }
+    ],
+    "colloc": "add to · add up",
+    "pattern": "add + N"
+  },
+  "a1-0228": {
+    "examples": [
+      {
+        "en": "Follow this road to the bridge.",
+        "ru": "Следуй по этой дороге до моста."
+      },
+      {
+        "en": "Please follow the instructions.",
+        "ru": "Пожалуйста, следуй инструкциям."
+      },
+      {
+        "en": "Do you follow me on social media?",
+        "ru": "Ты подписан на меня в соцсетях?"
+      }
+    ],
+    "colloc": "follow instructions · follow me",
+    "pattern": "follow + N"
+  },
+  "a1-0229": {
+    "examples": [
+      {
+        "en": "She leads the project team.",
+        "ru": "Она возглавляет команду проекта."
+      },
+      {
+        "en": "This path leads to the lake.",
+        "ru": "Эта тропа ведёт к озеру."
+      },
+      {
+        "en": "Lead the way, please.",
+        "ru": "Веди, пожалуйста."
+      }
+    ],
+    "colloc": "lead to · take the lead",
+    "pattern": "lead + N / lead to"
+  },
+  "a1-0230": {
+    "examples": [
+      {
+        "en": "Our team can win today.",
+        "ru": "Наша команда может выиграть сегодня."
+      },
+      {
+        "en": "Who won the game?",
+        "ru": "Кто выиграл матч?"
+      },
+      {
+        "en": "She won first prize.",
+        "ru": "Она выиграла первый приз."
+      }
+    ],
+    "colloc": "win a game · win a prize · win-win",
+    "pattern": "win + N",
+    "ant": "lose"
+  },
+  "a1-0231": {
+    "examples": [
+      {
+        "en": "Don't fail the test — study!",
+        "ru": "Не провали тест — учись!"
+      },
+      {
+        "en": "The plan failed.",
+        "ru": "План провалился."
+      },
+      {
+        "en": "If we fail, we try again.",
+        "ru": "Если не получится — попробуем снова."
+      }
+    ],
+    "colloc": "fail a test · without fail",
+    "pattern": "fail + N",
+    "ant": "pass / succeed"
+  },
+  "a1-0232": {
+    "examples": [
+      {
+        "en": "I passed the exam!",
+        "ru": "Я сдал экзамен!"
+      },
+      {
+        "en": "Pass me the salt, please.",
+        "ru": "Передай соль, пожалуйста."
+      },
+      {
+        "en": "We passed a small village.",
+        "ru": "Мы проехали мимо маленькой деревни."
+      }
+    ],
+    "colloc": "pass an exam · pass by · pass the time",
+    "note": "pass exam = сдать; pass = передать/пройти",
+    "pattern": "pass + N"
+  },
+  "a1-0233": {
+    "examples": [
+      {
+        "en": "I miss my friends from college.",
+        "ru": "Я скучаю по друзьям из колледжа."
+      },
+      {
+        "en": "Hurry or you'll miss the bus.",
+        "ru": "Поторопись, а то пропустишь автобус."
+      },
+      {
+        "en": "I missed the last episode.",
+        "ru": "Я пропустил последний эпизод."
+      }
+    ],
+    "colloc": "miss a bus · miss you · miss out",
+    "note": "miss = скучать ИЛИ пропускать",
+    "pattern": "miss + N"
+  },
+  "a1-0234": {
+    "examples": [
+      {
+        "en": "My leg hurts after the run.",
+        "ru": "После пробежки болит нога."
+      },
+      {
+        "en": "Be careful — don't hurt yourself.",
+        "ru": "Осторожно — не ударься."
+      },
+      {
+        "en": "His words hurt her feelings.",
+        "ru": "Его слова задели её чувства."
+      }
+    ],
+    "colloc": "hurt yourself · get hurt · it hurts",
+    "pattern": "hurt + N"
+  },
+  "a1-0235": {
+    "examples": [
+      {
+        "en": "Rest after lunch.",
+        "ru": "Отдохни после обеда."
+      },
+      {
+        "en": "I need to rest my eyes.",
+        "ru": "Мне нужно дать глазам отдохнуть."
+      },
+      {
+        "en": "The rest of the cake is yours.",
+        "ru": "Остаток торта — тебе."
+      }
+    ],
+    "colloc": "rest day · the rest of · at rest",
+    "pattern": "rest + adv"
+  },
+  "a1-0236": {
+    "examples": [
+      {
+        "en": "Relax and take a deep breath.",
+        "ru": "Расслабься и глубоко вдохни."
+      },
+      {
+        "en": "I relax with a book in the evening.",
+        "ru": "Вечером я отдыхаю с книгой."
+      },
+      {
+        "en": "This music helps me relax.",
+        "ru": "Эта музыка помогает мне расслабиться."
+      }
+    ],
+    "colloc": "relax and enjoy · feel relaxed",
+    "pattern": "relax + adv"
+  },
+  "a1-0237": {
+    "examples": [
+      {
+        "en": "Enjoy your meal!",
+        "ru": "Приятного аппетита!"
+      },
+      {
+        "en": "Did you enjoy the concert?",
+        "ru": "Тебе понравился концерт?"
+      },
+      {
+        "en": "I enjoy cooking on weekends.",
+        "ru": "По выходным мне нравится готовить."
+      }
+    ],
+    "colloc": "enjoy yourself · enjoy the view",
+    "pattern": "enjoy + N / enjoy + Ving"
+  },
+  "a1-0238": {
+    "examples": [
+      {
+        "en": "I prefer tea to coffee.",
+        "ru": "Я предпочитаю чай кофе."
+      },
+      {
+        "en": "She prefers to walk.",
+        "ru": "Она предпочитает ходить пешком."
+      },
+      {
+        "en": "Which do you prefer?",
+        "ru": "Что ты предпочитаешь?"
+      }
+    ],
+    "colloc": "prefer A to B · prefer to",
+    "pattern": "prefer + N / prefer to + V"
+  },
+  "a1-0239": {
+    "examples": [
+      {
+        "en": "I agree with you.",
+        "ru": "Я с тобой согласен."
+      },
+      {
+        "en": "We agreed on a time.",
+        "ru": "Мы договорились о времени."
+      },
+      {
+        "en": "Do you agree?",
+        "ru": "Ты согласен?"
+      }
+    ],
+    "colloc": "agree with · agree on · I agree",
+    "pattern": "agree with + person / agree on + N",
+    "ant": "disagree"
+  },
+  "a1-0240": {
+    "examples": [
+      {
+        "en": "This bag belongs to me.",
+        "ru": "Эта сумка принадлежит мне."
+      },
+      {
+        "en": "Where do these keys belong?",
+        "ru": "Куда относятся эти ключи?"
+      },
+      {
+        "en": "She belongs on that team.",
+        "ru": "Ей место в той команде."
+      }
+    ],
+    "colloc": "belong to · belong here",
+    "pattern": "belong to + N"
+  },
+  "a1-0241": {
+    "examples": [
+      {
+        "en": "What happened here?",
+        "ru": "Что здесь случилось?"
+      },
+      {
+        "en": "Accidents happen.",
+        "ru": "Случаются аварии."
+      },
+      {
+        "en": "It happened last night.",
+        "ru": "Это случилось прошлой ночью."
+      }
+    ],
+    "colloc": "what happened · happen to",
+    "pattern": "happen + adv / happen to"
+  },
+  "a1-0242": {
+    "examples": [
+      {
+        "en": "You seem tired.",
+        "ru": "Ты кажешься уставшим."
+      },
+      {
+        "en": "It seems like a good plan.",
+        "ru": "Кажется, это хороший план."
+      },
+      {
+        "en": "She seems happy today.",
+        "ru": "Сегодня она кажется счастливой."
+      }
+    ],
+    "colloc": "seem to · it seems · seem like",
+    "pattern": "seem + adj / seem to + V"
+  },
+  "a1-0243": {
+    "examples": [
+      {
+        "en": "Let me help you.",
+        "ru": "Позволь мне помочь тебе."
+      },
+      {
+        "en": "Let's go now.",
+        "ru": "Давай пойдём сейчас."
+      },
+      {
+        "en": "Don't let the dog out.",
+        "ru": "Не выпускай собаку."
+      }
+    ],
+    "colloc": "let me · let's · let go",
+    "note": "let + sb + V (без to)",
+    "pattern": "let + sb + V"
+  },
+  "a1-0244": {
+    "examples": [
+      {
+        "en": "Keep the receipt.",
+        "ru": "Сохрани чек."
+      },
+      {
+        "en": "Keep calm and wait.",
+        "ru": "Сохраняй спокойствие и жди."
+      },
+      {
+        "en": "She kept her old letters.",
+        "ru": "Она хранила старые письма."
+      }
+    ],
+    "colloc": "keep calm · keep in mind · keep going",
+    "pattern": "keep + N / keep + adj"
+  },
+  "a1-0245": {
+    "examples": [
+      {
+        "en": "Share the cake with everyone.",
+        "ru": "Раздели торт со всеми."
+      },
+      {
+        "en": "Can you share your notes?",
+        "ru": "Можешь поделиться конспектом?"
+      },
+      {
+        "en": "We shared a taxi.",
+        "ru": "Мы разделили такси."
+      }
+    ],
+    "colloc": "share with · share a room",
+    "pattern": "share + N / share with"
+  },
+  "a1-0246": {
+    "examples": [
+      {
+        "en": "Join our club this fall.",
+        "ru": "Вступи в наш клуб этой осенью."
+      },
+      {
+        "en": "May I join you?",
+        "ru": "Можно к вам присоединиться?"
+      },
+      {
+        "en": "She joined the meeting late.",
+        "ru": "Она присоединилась к встрече с опозданием."
+      }
+    ],
+    "colloc": "join a club · join in",
+    "pattern": "join + N"
+  },
+  "a1-0247": {
+    "examples": [
+      {
+        "en": "Invite your friends to dinner.",
+        "ru": "Пригласи друзей на ужин."
+      },
+      {
+        "en": "Thanks for inviting me.",
+        "ru": "Спасибо, что пригласил."
+      },
+      {
+        "en": "We invited the neighbors over.",
+        "ru": "Мы пригласили соседей в гости."
+      }
+    ],
+    "colloc": "invite to · invitation",
+    "pattern": "invite + sb + to"
+  },
+  "a1-0248": {
+    "examples": [
+      {
+        "en": "I ordered pizza for dinner.",
+        "ru": "Я заказал пиццу на ужин."
+      },
+      {
+        "en": "May I take your order?",
+        "ru": "Могу принять ваш заказ?"
+      },
+      {
+        "en": "She ordered a coffee to go.",
+        "ru": "Она заказала кофе с собой."
+      }
+    ],
+    "colloc": "order food · place an order · in order",
+    "pattern": "order + N"
+  },
+  "a1-0249": {
+    "examples": [
+      {
+        "en": "We plan a trip every summer.",
+        "ru": "Каждое лето мы планируем поездку."
+      },
+      {
+        "en": "Do you have any plans tonight?",
+        "ru": "Есть планы на вечер?"
+      },
+      {
+        "en": "She planned everything carefully.",
+        "ru": "Она всё тщательно спланировала."
+      }
+    ],
+    "colloc": "make plans · according to plan",
+    "pattern": "plan + N / plan to + V"
+  },
+  "a1-0250": {
+    "examples": [
+      {
+        "en": "Prepare for the test this week.",
+        "ru": "Готовься к тесту на этой неделе."
+      },
+      {
+        "en": "I prepared lunch in advance.",
+        "ru": "Я приготовил обед заранее."
+      },
+      {
+        "en": "Are you prepared?",
+        "ru": "Ты готов?"
+      }
+    ],
+    "colloc": "prepare for · prepare a meal",
+    "pattern": "prepare for + N / prepare + N"
+  }
+}

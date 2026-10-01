@@ -1,0 +1,903 @@
+{
+  "a1-0755": {
+    "examples": [
+      {
+        "en": "Turn right here.",
+        "ru": "Поверни направо."
+      },
+      {
+        "en": "Turn right at the lights.",
+        "ru": "На светофоре поверни направо."
+      },
+      {
+        "en": "You are right about the time.",
+        "ru": "Ты прав насчёт времени."
+      }
+    ],
+    "colloc": "all right · right now · turn right",
+    "note": "right = правый/правильный/право"
+  },
+  "a1-0756": {
+    "examples": [
+      {
+        "en": "That answer is wrong.",
+        "ru": "Ответ неверный."
+      },
+      {
+        "en": "Something feels wrong.",
+        "ru": "Что-то не так."
+      },
+      {
+        "en": "You dialed the wrong number.",
+        "ru": "Ты набрал неверный номер."
+      }
+    ],
+    "colloc": "go wrong · what's wrong",
+    "ant": "right"
+  },
+  "a1-0757": {
+    "examples": [
+      {
+        "en": "Is that true?",
+        "ru": "Это правда?"
+      },
+      {
+        "en": "Is that true?",
+        "ru": "Это правда?"
+      },
+      {
+        "en": "Her dream came true.",
+        "ru": "Её мечта сбылась."
+      }
+    ],
+    "colloc": "come true · true story",
+    "ant": "false"
+  },
+  "a1-0758": {
+    "examples": [
+      {
+        "en": "A false alarm sounds.",
+        "ru": "Звучит ложная тревога."
+      },
+      {
+        "en": "That report was false.",
+        "ru": "Тот отчёт был ложным."
+      },
+      {
+        "en": "False friends confuse learners.",
+        "ru": "«Ложные друзья» путают учеников."
+      }
+    ],
+    "colloc": "false alarm · false friend",
+    "ant": "true"
+  },
+  "a1-0759": {
+    "examples": [
+      {
+        "en": "We wear the same color.",
+        "ru": "Мы в одном цвете."
+      },
+      {
+        "en": "We arrived at the same time.",
+        "ru": "Мы приехали в одно время."
+      },
+      {
+        "en": "It's the same as yesterday.",
+        "ru": "То же, что вчера."
+      }
+    ],
+    "colloc": "the same · same as",
+    "ant": "different"
+  },
+  "a1-0760": {
+    "examples": [
+      {
+        "en": "We like different food.",
+        "ru": "Нам нравится разная еда."
+      },
+      {
+        "en": "Try a different door.",
+        "ru": "Попробуй другую дверь."
+      },
+      {
+        "en": "We have different tastes.",
+        "ru": "У нас разный вкус."
+      }
+    ],
+    "colloc": "different from · make a difference",
+    "ant": "same"
+  },
+  "a1-0761": {
+    "examples": [
+      {
+        "en": "See you next week.",
+        "ru": "Увидимся на следующей неделе."
+      },
+      {
+        "en": "See you next week.",
+        "ru": "Увидимся на следующей неделе."
+      },
+      {
+        "en": "Who's next in line?",
+        "ru": "Кто следующий в очереди?"
+      }
+    ],
+    "colloc": "next to · next time · next week",
+    "ant": "last"
+  },
+  "a1-0762": {
+    "examples": [
+      {
+        "en": "Last night was quiet.",
+        "ru": "Прошлой ночью было тихо."
+      },
+      {
+        "en": "I saw her last night.",
+        "ru": "Я видел её прошлой ночью."
+      },
+      {
+        "en": "This is my last cookie.",
+        "ru": "Это моё последнее печенье."
+      }
+    ],
+    "colloc": "last night · at last · last week",
+    "ant": "next/first"
+  },
+  "a1-0763": {
+    "examples": [
+      {
+        "en": "I am first in line.",
+        "ru": "Я первый в очереди."
+      },
+      {
+        "en": "This is my first time here.",
+        "ru": "Я здесь впервые."
+      },
+      {
+        "en": "Finish first, then rest.",
+        "ru": "Сначала закончи, потом отдыхай."
+      }
+    ],
+    "colloc": "first time · at first · first of all",
+    "ant": "last"
+  },
+  "a1-0764": {
+    "examples": [
+      {
+        "en": "Take the third exit.",
+        "ru": "Сверни на третий съезд."
+      },
+      {
+        "en": "She finished third in the race.",
+        "ru": "Она финишировала третьей."
+      },
+      {
+        "en": "Take the third street on the left.",
+        "ru": "Третья улица налево."
+      }
+    ],
+    "colloc": "third floor · third time"
+  },
+  "a1-0765": {
+    "examples": [
+      {
+        "en": "This is the best cake.",
+        "ru": "Это лучший торт."
+      },
+      {
+        "en": "Do your best.",
+        "ru": "Сделай всё возможное."
+      },
+      {
+        "en": "You're my best friend.",
+        "ru": "Ты мой лучший друг."
+      }
+    ],
+    "colloc": "best friend · do your best · the best",
+    "ant": "worst"
+  },
+  "a1-0766": {
+    "examples": [
+      {
+        "en": "That was the worst day.",
+        "ru": "Это был худший день."
+      },
+      {
+        "en": "That was the worst movie.",
+        "ru": "Это был худший фильм."
+      },
+      {
+        "en": "In the worst case, call me.",
+        "ru": "В худшем случае позвони."
+      }
+    ],
+    "colloc": "worst case · at worst",
+    "ant": "best"
+  },
+  "a1-0767": {
+    "examples": [
+      {
+        "en": "I feel better now.",
+        "ru": "Сейчас мне лучше."
+      },
+      {
+        "en": "I feel better today.",
+        "ru": "Сегодня мне лучше."
+      },
+      {
+        "en": "You'd better leave now.",
+        "ru": "Тебе лучше уйти сейчас."
+      }
+    ],
+    "colloc": "get better · better than",
+    "ant": "worse"
+  },
+  "a1-0768": {
+    "examples": [
+      {
+        "en": "The weather gets worse.",
+        "ru": "Погода ухудшается."
+      },
+      {
+        "en": "The weather got worse.",
+        "ru": "Погода ухудшилась."
+      },
+      {
+        "en": "Don't make it worse.",
+        "ru": "Не ухудшай ситуацию."
+      }
+    ],
+    "colloc": "worse than · get worse",
+    "ant": "better"
+  },
+  "a1-0769": {
+    "examples": [
+      {
+        "en": "Stay in a safe place.",
+        "ru": "Оставайся в безопасном месте."
+      },
+      {
+        "en": "Is this neighborhood safe?",
+        "ru": "Этот район безопасный?"
+      },
+      {
+        "en": "Drive safe.",
+        "ru": "Води аккуратно."
+      }
+    ],
+    "colloc": "safe place · stay safe",
+    "ant": "dangerous"
+  },
+  "a1-0770": {
+    "examples": [
+      {
+        "en": "This road is dangerous.",
+        "ru": "Дорога опасная."
+      },
+      {
+        "en": "That road is dangerous at night.",
+        "ru": "Ночью эта дорога опасна."
+      },
+      {
+        "en": "Don't touch — it's dangerous.",
+        "ru": "Не трогай — опасно."
+      }
+    ],
+    "colloc": "dangerous animal · dangerous road",
+    "ant": "safe"
+  },
+  "a1-0771": {
+    "examples": [
+      {
+        "en": "A rich man helps others.",
+        "ru": "Богатый человек помогает."
+      },
+      {
+        "en": "The soil is rich in minerals.",
+        "ru": "Почва богата минералами."
+      },
+      {
+        "en": "He got rich from software.",
+        "ru": "Он разбогател на софте."
+      }
+    ],
+    "colloc": "rich in · get rich",
+    "ant": "poor"
+  },
+  "a1-0772": {
+    "examples": [
+      {
+        "en": "A poor family needs help.",
+        "ru": "Бедной семье нужна помощь."
+      },
+      {
+        "en": "The phone has poor battery life.",
+        "ru": "У телефона слабая батарея."
+      },
+      {
+        "en": "Poor quality won't last.",
+        "ru": "Плохое качество не прослужит."
+      }
+    ],
+    "colloc": "poor quality · the poor",
+    "ant": "rich"
+  },
+  "a1-0773": {
+    "examples": [
+      {
+        "en": "This shirt is cheap.",
+        "ru": "Рубашка дешёвая."
+      },
+      {
+        "en": "These tickets are cheap.",
+        "ru": "Эти билеты дешёвые."
+      },
+      {
+        "en": "Don't buy cheap tools.",
+        "ru": "Не покупай дешёвые инструменты."
+      }
+    ],
+    "colloc": "cheap flight · on the cheap",
+    "ant": "expensive"
+  },
+  "a1-0774": {
+    "examples": [
+      {
+        "en": "The watch is expensive.",
+        "ru": "Часы дорогие."
+      },
+      {
+        "en": "This watch is too expensive.",
+        "ru": "Эти часы слишком дорогие."
+      },
+      {
+        "en": "Eating out got expensive.",
+        "ru": "Еда вне дома стала дорогой."
+      }
+    ],
+    "colloc": "too expensive · expensive taste",
+    "ant": "cheap"
+  },
+  "a1-0775": {
+    "examples": [
+      {
+        "en": "A famous singer arrives.",
+        "ru": "Приезжает известный певец."
+      },
+      {
+        "en": "The café is famous for pie.",
+        "ru": "Кафе знаменито пирогами."
+      },
+      {
+        "en": "She became famous overnight.",
+        "ru": "Она прославилась за ночь."
+      }
+    ],
+    "colloc": "famous for · world-famous"
+  },
+  "a1-0776": {
+    "examples": [
+      {
+        "en": "This song is popular.",
+        "ru": "Песня популярная."
+      },
+      {
+        "en": "This song is popular now.",
+        "ru": "Эта песня сейчас популярна."
+      },
+      {
+        "en": "The park is popular with families.",
+        "ru": "Парк популярен у семей."
+      }
+    ],
+    "colloc": "popular with · popular song"
+  },
+  "a1-0777": {
+    "examples": [
+      {
+        "en": "Today is a special day.",
+        "ru": "Сегодня особый день."
+      },
+      {
+        "en": "Today is a special day.",
+        "ru": "Сегодня особый день."
+      },
+      {
+        "en": "Is there anything special?",
+        "ru": "Есть что-то особенное?"
+      }
+    ],
+    "colloc": "special offer · nothing special"
+  },
+  "a1-0778": {
+    "examples": [
+      {
+        "en": "This is a normal day.",
+        "ru": "Обычный день."
+      },
+      {
+        "en": "Everything looks normal.",
+        "ru": "Всё выглядит нормально."
+      },
+      {
+        "en": "Back to normal next week.",
+        "ru": "На следующей неделе всё как обычно."
+      }
+    ],
+    "colloc": "back to normal · normal day",
+    "note": "syn: usual"
+  },
+  "a1-0779": {
+    "examples": [
+      {
+        "en": "Is it possible?",
+        "ru": "Это возможно?"
+      },
+      {
+        "en": "Is it possible to reschedule?",
+        "ru": "Можно перенести?"
+      },
+      {
+        "en": "Anything is possible.",
+        "ru": "Всё возможно."
+      }
+    ],
+    "colloc": "if possible · as soon as possible",
+    "ant": "impossible"
+  },
+  "a1-0780": {
+    "examples": [
+      {
+        "en": "That seems impossible.",
+        "ru": "Кажется невозможным."
+      },
+      {
+        "en": "That's impossible without help.",
+        "ru": "Это невозможно без помощи."
+      },
+      {
+        "en": "It seemed impossible at first.",
+        "ru": "Сначала казалось невозможным."
+      }
+    ],
+    "colloc": "almost impossible",
+    "ant": "possible"
+  },
+  "a1-0781": {
+    "examples": [
+      {
+        "en": "Are you sure?",
+        "ru": "Ты уверен?"
+      },
+      {
+        "en": "Are you sure?",
+        "ru": "Ты уверен?"
+      },
+      {
+        "en": "I'm sure you'll do fine.",
+        "ru": "Уверен, у тебя получится."
+      }
+    ],
+    "colloc": "make sure · for sure"
+  },
+  "a1-0782": {
+    "examples": [
+      {
+        "en": "The sky is clear.",
+        "ru": "Небо ясное."
+      },
+      {
+        "en": "Is that clear?",
+        "ru": "Это ясно?"
+      },
+      {
+        "en": "The sky is clear tonight.",
+        "ru": "Сегодня небо ясное."
+      }
+    ],
+    "colloc": "clear sky · make clear · crystal clear"
+  },
+  "a1-0783": {
+    "examples": [
+      {
+        "en": "It is dark outside.",
+        "ru": "На улице темно."
+      },
+      {
+        "en": "It's getting dark outside.",
+        "ru": "На улице темнеет."
+      },
+      {
+        "en": "She wore a dark coat.",
+        "ru": "Она надела тёмное пальто."
+      }
+    ],
+    "colloc": "after dark · dark chocolate",
+    "ant": "bright"
+  },
+  "a1-0784": {
+    "examples": [
+      {
+        "en": "A bright light shines.",
+        "ru": "Светит яркий свет."
+      },
+      {
+        "en": "She has a bright future.",
+        "ru": "У неё светлое будущее."
+      },
+      {
+        "en": "Open the curtains — it's bright.",
+        "ru": "Открой шторы — светло."
+      }
+    ],
+    "colloc": "bright idea · bright light",
+    "ant": "dark"
+  },
+  "a1-0785": {
+    "examples": [
+      {
+        "en": "Keep the floor dry.",
+        "ru": "Держи пол сухим."
+      },
+      {
+        "en": "My hands feel dry.",
+        "ru": "Руки сухие."
+      },
+      {
+        "en": "Hang the clothes until dry.",
+        "ru": "Повесь одежду, пока не высохнет."
+      }
+    ],
+    "colloc": "dry off · dry cleaner",
+    "ant": "wet"
+  },
+  "a1-0786": {
+    "examples": [
+      {
+        "en": "My shoes are wet.",
+        "ru": "Обувь мокрая."
+      },
+      {
+        "en": "My shoes got wet.",
+        "ru": "Обувь промокла."
+      },
+      {
+        "en": "Don't sit on the wet grass.",
+        "ru": "Не сиди на мокрой траве."
+      }
+    ],
+    "colloc": "wet paint · get wet",
+    "ant": "dry"
+  },
+  "a1-0787": {
+    "examples": [
+      {
+        "en": "This cake is sweet.",
+        "ru": "Торт сладкий."
+      },
+      {
+        "en": "These strawberries are sweet.",
+        "ru": "Эта клубника сладкая."
+      },
+      {
+        "en": "That was a sweet gesture.",
+        "ru": "Это был милый жест."
+      }
+    ],
+    "colloc": "sweet tooth · sweet dreams"
+  },
+  "a1-0788": {
+    "examples": [
+      {
+        "en": "Lemons taste sour.",
+        "ru": "Лимоны кислые."
+      },
+      {
+        "en": "The milk smells sour.",
+        "ru": "Молоко кисло пахнет."
+      },
+      {
+        "en": "I like sour candy.",
+        "ru": "Я люблю кислые конфеты."
+      }
+    ],
+    "colloc": "sour cream · go sour",
+    "ant": "sweet"
+  },
+  "a1-0789": {
+    "examples": [
+      {
+        "en": "The soup is salty.",
+        "ru": "Суп солёный."
+      },
+      {
+        "en": "The soup is too salty.",
+        "ru": "Суп слишком солёный."
+      },
+      {
+        "en": "Sea air tastes salty.",
+        "ru": "Морской воздух солоноватый."
+      }
+    ],
+    "colloc": "salty snack"
+  },
+  "a1-0790": {
+    "examples": [
+      {
+        "en": "This sauce is spicy.",
+        "ru": "Соус острый."
+      },
+      {
+        "en": "This curry is spicy.",
+        "ru": "Это карри острое."
+      },
+      {
+        "en": "I can't eat spicy food.",
+        "ru": "Не могу есть острое."
+      }
+    ],
+    "colloc": "spicy food · spicy sauce"
+  },
+  "a1-0791": {
+    "examples": [
+      {
+        "en": "Buy fresh fruit.",
+        "ru": "Купи свежие фрукты."
+      },
+      {
+        "en": "Buy fresh bread in the morning.",
+        "ru": "Купи свежий хлеб утром."
+      },
+      {
+        "en": "Open a window for fresh air.",
+        "ru": "Открой окно для свежего воздуха."
+      }
+    ],
+    "colloc": "fresh air · fresh fruit"
+  },
+  "a1-0792": {
+    "examples": [
+      {
+        "en": "Do not eat raw meat.",
+        "ru": "Не ешь сырое мясо."
+      },
+      {
+        "en": "Don't eat raw chicken.",
+        "ru": "Не ешь сырую курицу."
+      },
+      {
+        "en": "Raw vegetables keep more vitamins.",
+        "ru": "Сырые овощи сохраняют больше витаминов."
+      }
+    ],
+    "colloc": "raw data · raw fish"
+  },
+  "a1-0793": {
+    "examples": [
+      {
+        "en": "Eat healthy food.",
+        "ru": "Ешь здоровую еду."
+      },
+      {
+        "en": "Eat healthy food.",
+        "ru": "Ешь здоровую еду."
+      },
+      {
+        "en": "She looks healthy again.",
+        "ru": "Она снова выглядит здоровой."
+      }
+    ],
+    "colloc": "healthy lifestyle · stay healthy",
+    "ant": "sick"
+  },
+  "a1-0794": {
+    "examples": [
+      {
+        "en": "I feel sick today.",
+        "ru": "Сегодня мне плохо."
+      },
+      {
+        "en": "I feel sick — I'm going home.",
+        "ru": "Мне плохо — иду домой."
+      },
+      {
+        "en": "Call in sick if you need rest.",
+        "ru": "Возьми больничный, если нужен отдых."
+      }
+    ],
+    "colloc": "feel sick · sick leave",
+    "ant": "healthy"
+  },
+  "a1-0795": {
+    "examples": [
+      {
+        "en": "The battery is dead.",
+        "ru": "Батарея села."
+      },
+      {
+        "en": "The battery is dead.",
+        "ru": "Батарея села."
+      },
+      {
+        "en": "The line went dead.",
+        "ru": "Связь оборвалась."
+      }
+    ],
+    "colloc": "dead end · drop dead",
+    "ant": "alive"
+  },
+  "a1-0796": {
+    "examples": [
+      {
+        "en": "The plant is alive.",
+        "ru": "Растение живое."
+      },
+      {
+        "en": "I'm glad you're alive and well.",
+        "ru": "Рад, что ты жив и здоров."
+      },
+      {
+        "en": "Keep the conversation alive.",
+        "ru": "Поддерживай разговор."
+      }
+    ],
+    "colloc": "alive and well · come alive",
+    "ant": "dead"
+  },
+  "a1-0797": {
+    "examples": [
+      {
+        "en": "Do not be afraid.",
+        "ru": "Не бойся."
+      },
+      {
+        "en": "I'm afraid of heights.",
+        "ru": "Я боюсь высоты."
+      },
+      {
+        "en": "Don't be afraid to ask.",
+        "ru": "Не бойся спрашивать."
+      }
+    ],
+    "colloc": "afraid of · I'm afraid"
+  },
+  "a1-0798": {
+    "examples": [
+      {
+        "en": "I am surprised.",
+        "ru": "Я удивлён."
+      },
+      {
+        "en": "I was surprised by the gift.",
+        "ru": "Подарок меня удивил."
+      },
+      {
+        "en": "You look surprised.",
+        "ru": "Ты выглядишь удивлённым."
+      }
+    ],
+    "colloc": "surprised at · pleasantly surprised"
+  },
+  "a1-0799": {
+    "examples": [
+      {
+        "en": "Kids are excited.",
+        "ru": "Дети взволнованы."
+      },
+      {
+        "en": "The kids are excited about the trip.",
+        "ru": "Дети взволнованы поездкой."
+      },
+      {
+        "en": "I'm excited to start.",
+        "ru": "Мне не терпится начать."
+      }
+    ],
+    "colloc": "excited about · get excited"
+  },
+  "a1-0800": {
+    "examples": [
+      {
+        "en": "I am bored at home.",
+        "ru": "Мне дома скучно."
+      },
+      {
+        "en": "I get bored on long flights.",
+        "ru": "В долгих перелётах мне скучно."
+      },
+      {
+        "en": "She looked bored in class.",
+        "ru": "На уроке она выглядела скучающей."
+      }
+    ],
+    "colloc": "bored with · get bored",
+    "note": "≠ boring (скучный о вещи)"
+  },
+  "a1-0801": {
+    "examples": [
+      {
+        "en": "I am worried about you.",
+        "ru": "Я о тебе беспокоюсь."
+      },
+      {
+        "en": "I'm worried about the test.",
+        "ru": "Я беспокоюсь о тесте."
+      },
+      {
+        "en": "Don't look so worried.",
+        "ru": "Не выгляди таким обеспокоенным."
+      }
+    ],
+    "colloc": "worried about · get worried"
+  },
+  "a1-0802": {
+    "examples": [
+      {
+        "en": "I feel lucky today.",
+        "ru": "Сегодня мне везёт."
+      },
+      {
+        "en": "We were lucky with the weather.",
+        "ru": "Нам повезло с погодой."
+      },
+      {
+        "en": "Lucky you — free tickets!",
+        "ru": "Повезло — бесплатные билеты!"
+      }
+    ],
+    "colloc": "lucky break · get lucky"
+  },
+  "a1-0803": {
+    "examples": [
+      {
+        "en": "This tip is useful.",
+        "ru": "Совет полезный."
+      },
+      {
+        "en": "This app is useful for travel.",
+        "ru": "Это приложение полезно в поездках."
+      },
+      {
+        "en": "Keep useful notes.",
+        "ru": "Веди полезные заметки."
+      }
+    ],
+    "colloc": "useful tip · useful for",
+    "ant": "useless"
+  },
+  "a1-0804": {
+    "examples": [
+      {
+        "en": "That advice is useless.",
+        "ru": "Совет бесполезный."
+      },
+      {
+        "en": "Without Wi-Fi the map is useless.",
+        "ru": "Без Wi-Fi карта бесполезна."
+      },
+      {
+        "en": "Don't feel useless — ask for help.",
+        "ru": "Не чувствуй себя бесполезным — попроси помощи."
+      }
+    ],
+    "colloc": "useless to",
+    "ant": "useful"
+  },
+  "a1-0805": {
+    "examples": [
+      {
+        "en": "Be careful on ice.",
+        "ru": "Осторожнее на льду."
+      },
+      {
+        "en": "Be careful on the ice.",
+        "ru": "Осторожно на льду."
+      },
+      {
+        "en": "She is careful with money.",
+        "ru": "Она осторожна с деньгами."
+      }
+    ],
+    "colloc": "be careful · careful with"
+  }
+}
