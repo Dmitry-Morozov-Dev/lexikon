@@ -7,7 +7,14 @@
 
   var SETTINGS_KEY = 'lexikon-settings';
   var ONBOARD_KEY = 'lexikon-onboard-done';
+  var UNDO_KNOWN_KEY = 'lexikon-undo-known';
+  var NEW_TODAY_KEY = 'lexikon-new-today';
   var SWIPE_THRESHOLD = 110;
+  var QUEUE_REFILL_AT = 8;
+  var QUEUE_TARGET = 24;
+  var NEW_PAUSE_HIGH = 40;
+  var NEW_PAUSE_LOW = 25;
+  var LIGHT_REQUEUE_MS = 5 * 60 * 1000;
 
   /** Перемешать массив на месте (Фишер–Йейтс). */
   function shuffleInPlace(arr) {
@@ -34,10 +41,13 @@
     current: null,
     revealed: false,
     newShownToday: 0,
+    newTodayIds: {},
     todayKey: '',
     gradingBusy: false,
     streamUnknown: 0,
-    streamKnown: 0
+    streamKnown: 0,
+    streamDue: 0,
+    pauseNew: false
   };
 
   var els = {};
@@ -258,7 +268,7 @@
     els.todayCounts.textContent =
       'осталось ' + state.streamUnknown +
       ' · выучено ' + state.streamKnown +
-      ' · в очереди ' + state.queue.length;
+      ' · due ' + state.streamDue;
   }
 
   function showEmptyStream() {
@@ -279,35 +289,226 @@
     state.queue.splice(at, 0, card);
   }
 
+  function loadNewToday() {
+    try {
+      var raw = localStorage.getItem(NEW_TODAY_KEY);
+      if (raw) {
+        var o = JSON.parse(raw);
+        if (o && o.day === todayKey()) {
+          state.newShownToday = o.count || 0;
+          state.newTodayIds = o.ids || {};
+          state.todayKey = o.day;
+          return;
+        }
+      }
+    } catch (e) { /* ignore */ }
+    state.newShownToday = 0;
+    state.newTodayIds = {};
+    state.todayKey = todayKey();
+    saveNewToday();
+  }
+
+  function saveNewToday() {
+    state.todayKey = todayKey();
+    localStorage.setItem(NEW_TODAY_KEY, JSON.stringify({
+      day: state.todayKey,
+      count: state.newShownToday,
+      ids: state.newTodayIds || {}
+    }));
+  }
+
+  function loadUndoKnown() {
+    try {
+      var raw = localStorage.getItem(UNDO_KNOWN_KEY);
+      if (raw) {
+        var arr = JSON.parse(raw);
+        if (Array.isArray(arr)) return arr.slice(0, 20);
+      }
+    } catch (e) { /* ignore */ }
+    return [];
+  }
+
+  function saveUndoKnown(list) {
+    localStorage.setItem(UNDO_KNOWN_KEY, JSON.stringify((list || []).slice(0, 20)));
+  }
+
+  function pushUndoKnown(card) {
+    var list = loadUndoKnown().filter(function (x) { return x.id !== card.id; });
+    list.unshift({
+      id: card.id,
+      word: card.word || '',
+      tr: card.tr || '',
+      at: Date.now()
+    });
+    saveUndoKnown(list.slice(0, 20));
+  }
+
   /**
-   * Бесконечный поток: все невыученные из выбранных колод.
-   * newPerDay не обрывает сессию; legacy state 'review' = выучено.
+   * Разбить пул: dueNow / learningLater / new / (review future + known — skip).
    */
-  async function buildQueue() {
+  async function partitionStudyPool() {
     var progressList = await LexDB.getAllProgress();
     var byId = {};
     progressList.forEach(function (p) { byId[p.id] = p; });
 
     var pool = studyPool();
-    var unknowns = [];
+    var t = Date.now();
+    var endToday = startOfTomorrow();
+    var dueNow = [];
+    var learningLater = [];
+    var news = [];
     var knownCount = 0;
+    var dueToday = 0;
+    var unknownCount = 0;
 
     pool.forEach(function (card) {
       var p = byId[card.id];
       if (LexSRS.isKnown(p)) {
         knownCount += 1;
-      } else {
-        unknowns.push(card);
+        return;
       }
+      unknownCount += 1;
+      if (!p || LexSRS.isNew(p)) {
+        news.push(card);
+        return;
+      }
+      if ((p.due || 0) > 0 && p.due <= endToday) dueToday += 1;
+      if (LexSRS.isDue(p, t)) {
+        dueNow.push(card);
+        return;
+      }
+      if (LexSRS.isLearning(p)) {
+        learningLater.push(card);
+        return;
+      }
+      // review не due — пропускаем до срока
     });
 
-    shuffleInPlace(unknowns);
-    state.streamUnknown = unknowns.length;
-    state.streamKnown = knownCount;
+    return {
+      byId: byId,
+      dueNow: dueNow,
+      learningLater: learningLater,
+      news: news,
+      knownCount: knownCount,
+      dueToday: dueToday,
+      unknownCount: unknownCount
+    };
+  }
 
-    // Начальная порция очереди (остальное дольём refillQueue)
-    var seed = Math.min(unknowns.length, 24);
-    state.queue = unknowns.slice(0, seed);
+  function updatePauseNew(dueCount) {
+    if (dueCount > NEW_PAUSE_HIGH) state.pauseNew = true;
+    if (dueCount < NEW_PAUSE_LOW) state.pauseNew = false;
+  }
+
+  /**
+   * Набрать очередь: due (shuffle) + new с балансом ~1:3; soft newPerDay;
+   * при отсутствии due — продолжаем давать new; learningLater если нужно.
+   */
+  function composeQueue(parts, existingIds, target) {
+    loadNewToday();
+    var dueNow = parts.dueNow.filter(function (c) { return !existingIds[c.id]; });
+    var news = parts.news.filter(function (c) { return !existingIds[c.id]; });
+    var learningLater = parts.learningLater.filter(function (c) { return !existingIds[c.id]; });
+    shuffleInPlace(dueNow);
+    shuffleInPlace(news);
+    learningLater.sort(function (a, b) {
+      var da = (parts.byId[a.id] && parts.byId[a.id].due) || 0;
+      var db = (parts.byId[b.id] && parts.byId[b.id].due) || 0;
+      return da - db;
+    });
+
+    updatePauseNew(parts.dueNow.length);
+    if (!state.newTodayIds) state.newTodayIds = {};
+
+    // Уже введенные сегодня new — всегда можно вернуть в очередь;
+    // soft cap / pause — только на свежие.
+    var alreadyNews = [];
+    var freshNews = [];
+    news.forEach(function (c) {
+      if (state.newTodayIds[c.id]) alreadyNews.push(c);
+      else freshNews.push(c);
+    });
+
+    var softCap = state.settings.newPerDay; // 0 = ∞
+    var dueExist = parts.dueNow.length > 0;
+    var allowFresh = !state.pauseNew;
+    var remainingCap;
+    if (!allowFresh) {
+      remainingCap = 0;
+    } else if (!dueExist) {
+      remainingCap = freshNews.length;
+    } else if (softCap === 0) {
+      remainingCap = freshNews.length;
+    } else {
+      remainingCap = Math.max(0, softCap - state.newShownToday);
+    }
+
+    var maxNewByRatio = dueExist
+      ? Math.max(1, Math.ceil(Math.min(dueNow.length, target) / 3))
+      : remainingCap;
+    var freshBudget = Math.min(freshNews.length, remainingCap, maxNewByRatio);
+    if (!dueExist) freshBudget = Math.min(freshNews.length, remainingCap);
+
+    var newsToUse = alreadyNews.concat(freshNews.slice(0, freshBudget));
+    var queue = [];
+    var di = 0;
+    var ni = 0;
+    var introduced = 0;
+    if (!state.newTodayIds) state.newTodayIds = {};
+
+    function pushNewCard(c) {
+      queue.push(c);
+      if (!state.newTodayIds[c.id]) {
+        state.newTodayIds[c.id] = 1;
+        introduced += 1;
+      }
+    }
+
+    while (queue.length < target && (di < dueNow.length || ni < newsToUse.length)) {
+      var batch = 0;
+      while (batch < 3 && di < dueNow.length && queue.length < target) {
+        queue.push(dueNow[di++]);
+        batch += 1;
+      }
+      if (ni < newsToUse.length && queue.length < target) {
+        pushNewCard(newsToUse[ni++]);
+      }
+      if (batch === 0 && ni >= newsToUse.length) break;
+    }
+
+    while (queue.length < target && di < dueNow.length) {
+      queue.push(dueNow[di++]);
+    }
+    while (queue.length < target && ni < newsToUse.length) {
+      pushNewCard(newsToUse[ni++]);
+    }
+
+    // Активный learning ещё не due — чтобы сессия не обрывалась
+    var li = 0;
+    while (queue.length < target && li < learningLater.length) {
+      queue.push(learningLater[li++]);
+    }
+
+    if (introduced > 0) {
+      state.newShownToday += introduced;
+      saveNewToday();
+    }
+
+    return queue;
+  }
+
+  /**
+   * Бесконечный поток: due + new (баланс) + learning; review future / known — skip.
+   * Сессия не заканчивается, пока есть не-known (кроме чистого future review).
+   */
+  async function buildQueue() {
+    var parts = await partitionStudyPool();
+    state.streamUnknown = parts.unknownCount;
+    state.streamKnown = parts.knownCount;
+    state.streamDue = parts.dueToday;
+
+    var ids = {};
+    state.queue = composeQueue(parts, ids, QUEUE_TARGET);
 
     if (!state.queue.length) {
       showEmptyStream();
@@ -316,41 +517,31 @@
     showCard(state.queue[0]);
   }
 
-  /** Когда очередь редеет — добрать невыученные, которых ещё нет в queue. */
   async function refillQueue() {
-    if (state.queue.length >= 8) {
+    if (state.queue.length >= QUEUE_REFILL_AT) {
+      // обновим счётчики без набора
+      var snap = await partitionStudyPool();
+      state.streamUnknown = snap.unknownCount;
+      state.streamKnown = snap.knownCount;
+      state.streamDue = snap.dueToday;
       updateStreamCounts();
       return;
     }
-    var progressList = await LexDB.getAllProgress();
-    var byId = {};
-    progressList.forEach(function (p) { byId[p.id] = p; });
+
+    var parts = await partitionStudyPool();
+    state.streamUnknown = parts.unknownCount;
+    state.streamKnown = parts.knownCount;
+    state.streamDue = parts.dueToday;
 
     var inQueue = {};
     state.queue.forEach(function (c) { inQueue[c.id] = true; });
+    if (state.current) inQueue[state.current.id] = true;
 
-    var pool = studyPool();
-    var knownCount = 0;
-    var unknownTotal = 0;
-    var candidates = [];
-
-    pool.forEach(function (card) {
-      var p = byId[card.id];
-      if (LexSRS.isKnown(p)) {
-        knownCount += 1;
-      } else {
-        unknownTotal += 1;
-        if (!inQueue[card.id]) candidates.push(card);
-      }
-    });
-
-    shuffleInPlace(candidates);
-    var need = Math.max(12 - state.queue.length, 0);
-    if (need > 0 && candidates.length) {
-      state.queue = state.queue.concat(candidates.slice(0, need));
+    var need = Math.max(QUEUE_TARGET - state.queue.length, 0);
+    if (need > 0) {
+      var extra = composeQueue(parts, inQueue, need);
+      state.queue = state.queue.concat(extra);
     }
-    state.streamUnknown = unknownTotal;
-    state.streamKnown = knownCount;
     updateStreamCounts();
   }
 
@@ -359,13 +550,11 @@
     node.classList.add('no-transition');
     node.style.opacity = '0';
     node.style.transform = '';
-    // Два кадра: снять freeze и запустить вход новой карточки
     requestAnimationFrame(function () {
       requestAnimationFrame(function () {
         node.classList.remove('no-transition');
         node.style.opacity = '';
         node.classList.remove('card-enter');
-        // force reflow so animation restarts
         void node.offsetWidth;
         node.classList.add('card-enter');
         setTimeout(function () {
@@ -376,16 +565,108 @@
     });
   }
 
+  function openUndoModal() {
+    var list = loadUndoKnown();
+    var host = els.modalHost;
+    host.innerHTML = '';
+    var back = document.createElement('div');
+    back.className = 'modal-backdrop';
+    var rows = list.length
+      ? list.map(function (item, idx) {
+          return (
+            '<button type="button" class="undo-item" data-idx="' + idx + '">' +
+            '<span class="undo-word">' + escapeHtml(item.word) + '</span>' +
+            '<span class="undo-tr">' + escapeHtml(item.tr) + '</span>' +
+            '</button>'
+          );
+        }).join('')
+      : '<p class="muted" style="margin:8px 0">Пока нет слов, отмеченных вправо с первого раза.</p>';
+    back.innerHTML =
+      '<div class="modal" role="dialog" aria-label="Отменить вправо">' +
+      '<div class="modal-head"><h3>Отменить вправо</h3>' +
+      '<button type="button" class="btn btn-ghost" id="undo-close" aria-label="Закрыть">✕</button></div>' +
+      '<p class="muted" style="margin:0 0 10px;font-size:0.85rem">Последние 20 первых «Хорошо/Легко» с новой или обучения. Вернёт карточку в поток.</p>' +
+      '<div class="undo-list">' + rows + '</div>' +
+      '</div>';
+    host.appendChild(back);
+    function close() { host.innerHTML = ''; }
+    back.addEventListener('click', function (e) { if (e.target === back) close(); });
+    var closeBtn = $('undo-close');
+    if (closeBtn) closeBtn.addEventListener('click', close);
+    back.querySelectorAll('.undo-item').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var idx = parseInt(btn.getAttribute('data-idx'), 10);
+        close();
+        undoFirstTimeKnown(idx);
+      });
+    });
+  }
+
+  async function undoFirstTimeKnown(idx) {
+    var list = loadUndoKnown();
+    var item = list[idx];
+    if (!item) return;
+    list.splice(idx, 1);
+    saveUndoKnown(list);
+
+    var fresh = LexSRS.createProgress(item.id);
+    try {
+      await LexDB.putProgress(fresh);
+    } catch (e) {
+      toast('Не удалось откатить', 'error');
+      return;
+    }
+
+    // Найти карточку в пуле
+    var pool = studyPool();
+    var card = null;
+    for (var i = 0; i < pool.length; i++) {
+      if (pool[i].id === item.id) { card = pool[i]; break; }
+    }
+    if (!card) {
+      card = {
+        id: item.id,
+        word: item.word,
+        tr: item.tr,
+        ipa: '',
+        pos: '',
+        ex: '',
+        exRu: ''
+      };
+    }
+
+    // Убрать дубликаты из очереди, вставить следующей
+    state.queue = state.queue.filter(function (c) { return c.id !== card.id; });
+    var insertAt = state.current && state.queue[0] && state.queue[0].id === state.current.id ? 1 : 0;
+    state.queue.splice(insertAt, 0, card);
+
+    state.streamKnown = Math.max(0, state.streamKnown - 1);
+    state.streamUnknown += 1;
+    updateStreamCounts();
+
+    if (!state.current) {
+      showCard(state.queue[0]);
+    }
+    toast('«' + (card.word || item.word) + '» снова в потоке', 'ok');
+    refreshStatsQuiet();
+  }
+
   async function grade(quality) {
     var card = state.current;
     if (!card || state.gradingBusy) return;
     state.gradingBusy = true;
 
+    var next = null;
+    var firstTimeKnown = false;
     try {
       var prog = await LexDB.ensureProgress(card.id);
-      var next = LexSRS.review(prog, quality);
-      await LexDB.putProgress(next);
+      next = LexSRS.review(prog, quality);
+      firstTimeKnown = !!next._firstTimeKnown;
+      var toSave = Object.assign({}, next);
+      delete toSave._firstTimeKnown;
+      await LexDB.putProgress(toSave);
       await LexDB.addReview(card.id, quality);
+      if (firstTimeKnown) pushUndoKnown(card);
     } catch (e) {
       state.gradingBusy = false;
       toast('Не удалось сохранить ответ', 'error');
@@ -394,7 +675,6 @@
 
     var node = els.card;
     var dir = quality === 0 || quality === 1 ? 'swipe-left' : 'swipe-right';
-    // Убрать inline drag, оставить tint, запустить вылет
     node.classList.remove('dragging');
     node.style.transform = '';
     node.style.opacity = '';
@@ -414,39 +694,41 @@
     node.classList.add(dir);
 
     setTimeout(async function () {
-      // Заморозить, снять свайп/tint, скрыть — затем новый контент
       node.classList.add('no-transition');
       node.classList.remove('swipe-left', 'swipe-right', 'tint-know', 'tint-again', 'dragging');
       node.style.removeProperty('--swipe-tint');
       node.style.opacity = '0';
       node.style.transform = '';
 
-      // Снять текущую из головы очереди
       if (state.queue.length && state.queue[0] && state.queue[0].id === card.id) {
         state.queue.shift();
       } else {
         state.queue = state.queue.filter(function (c) { return c.id !== card.id; });
       }
 
-      // Снова → через 2–5; Трудно → через 6–10; Good/Easy → больше не в потоке
+      // Again → 2–4; Hard learning → 6–10; Good learning с due скоро — лёгкий requeue
       if (quality === 0) {
-        requeueCard(card, 2, 5);
-      } else if (quality === 1) {
+        requeueCard(card, 2, 4);
+      } else if (quality === 1 && next && LexSRS.isLearning(next)) {
         requeueCard(card, 6, 10);
+      } else if (
+        quality === 2 &&
+        next &&
+        LexSRS.isLearning(next) &&
+        (next.due - Date.now()) <= LIGHT_REQUEUE_MS
+      ) {
+        requeueCard(card, 8, 14);
       }
 
       await refillQueue();
 
       if (!state.queue.length) {
-        // Возможно ещё есть невыученные — полная пересборка; иначе пустой экран
-        var progressList = await LexDB.getAllProgress();
-        var byId = {};
-        progressList.forEach(function (p) { byId[p.id] = p; });
-        var left = studyPool().filter(function (c) { return !LexSRS.isKnown(byId[c.id]); });
-        if (left.length) {
-          shuffleInPlace(left);
-          state.queue = left.slice(0, 24);
-          state.streamUnknown = left.length;
+        var parts = await partitionStudyPool();
+        state.streamUnknown = parts.unknownCount;
+        state.streamKnown = parts.knownCount;
+        state.streamDue = parts.dueToday;
+        if (parts.dueNow.length || parts.news.length || parts.learningLater.length) {
+          state.queue = composeQueue(parts, {}, QUEUE_TARGET);
         }
       }
 
@@ -779,9 +1061,10 @@
     }).length;
     els.stLearned.textContent = String(learned);
 
+    // «Завтра»: due к концу завтрашнего дня (review/learning), не known
     var tmr = startOfTomorrow() + 24 * 60 * 60 * 1000;
     var dueTmr = progress.filter(function (p) {
-      return !LexSRS.isKnown(p) && p.state !== 'new' && p.due > 0 && p.due <= tmr;
+      return !LexSRS.isKnown(p) && p.state !== 'new' && (p.due || 0) > 0 && p.due <= tmr;
     }).length;
     els.stDueTmr.textContent = String(dueTmr);
 
@@ -826,7 +1109,7 @@
     },
     {
       title: 'Как отвечать',
-      body: 'Сначала вспомните перевод, затем «Показать». Снова / Трудно / Хорошо / Легко — или свайп влево/вправо по карточке.'
+      body: 'Сначала вспомните перевод, затем «Показать». Вправо с первого раза — выучено навсегда (можно отменить). Снова — короткие шаги обучения. Свайп влево/вправо.'
     },
     {
       title: 'На iPhone',
@@ -1010,6 +1293,7 @@
       btnEdit: $('btn-edit-card'),
       gradeRow: $('grade-row'),
       todayCounts: $('today-counts'),
+      btnUndoKnown: $('btn-undo-known'),
       todayEmpty: $('today-empty'),
       studyArea: $('study-area'),
       deckList: $('deck-list'),
@@ -1069,6 +1353,10 @@
         grade(parseInt(b.getAttribute('data-q'), 10));
       });
     });
+
+    if (els.btnUndoKnown) {
+      els.btnUndoKnown.addEventListener('click', openUndoModal);
+    }
 
     els.searchInput.addEventListener('input', function () {
       doSearch(els.searchInput.value);

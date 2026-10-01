@@ -658,3 +658,61 @@ a { color: var(--accent); }
 @media (min-width: 600px) {
   .modal-backdrop { align-items: center; }
 }
+
+
+.study-meta-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+#btn-undo-known {
+  font-size: 0.8rem;
+  min-width: auto;
+  padding: 0 10px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+#btn-undo-known:active { color: var(--accent); }
+
+.modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+.modal-head h3 { margin: 0; font-size: 1.1rem; }
+
+.undo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-height: 55vh;
+  overflow: auto;
+}
+.undo-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  min-height: var(--tap);
+}
+.undo-item:active {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, var(--card));
+}
+.undo-word {
+  font-family: var(--font-word);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.undo-tr {
+  color: var(--muted);
+  font-size: 0.85rem;
+}

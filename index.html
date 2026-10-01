@@ -25,11 +25,14 @@
     <section id="screen-today" class="screen active" data-screen="today">
       <div class="study-meta">
         <span id="today-counts">Загрузка…</span>
-        <button type="button" id="btn-speak" class="btn btn-ghost hidden" aria-label="Произнести">🔊</button>
+        <div class="study-meta-actions">
+          <button type="button" id="btn-undo-known" class="btn btn-ghost" aria-label="Отменить вправо" title="Отменить вправо">↩ вправо</button>
+          <button type="button" id="btn-speak" class="btn btn-ghost hidden" aria-label="Произнести">🔊</button>
+        </div>
       </div>
       <div id="today-empty" class="empty-state hidden">
         <div class="big">✓</div>
-        <p>Все слова из выбранных колод отмечены как выученные.</p>
+        <p>На сейчас пусто: все слова выучены или ждут отложенного повторения. Выберите ещё колоды или загляните позже.</p>
       </div>
       <div id="study-area">
         <div class="card-stage">
