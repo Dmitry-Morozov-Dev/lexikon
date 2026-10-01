@@ -870,6 +870,25 @@
   }
 
   /* ---- Decks ---- */
+  async function refreshDecksCache() {
+    toast('Обновляю колоды…');
+    try {
+      if (window.caches) {
+        var keys = await caches.keys();
+        await Promise.all(keys.map(function (k) {
+          if (/lexikon-(shell|data)-/.test(k)) return caches.delete(k);
+          return null;
+        }));
+      }
+      if (navigator.serviceWorker) {
+        var regs = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(regs.map(function (r) { return r.unregister(); }));
+      }
+    } catch (e) { /* ignore */ }
+    // жёсткая перезагрузка с сети
+    location.reload(true);
+  }
+
   async function loadDecks() {
     var res = await fetch('decks.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error('Не удалось загрузить decks.json');
@@ -886,7 +905,7 @@
 
     await Promise.all(state.decksMeta.map(async function (d) {
       try {
-        var r = await fetch(d.path, { cache: 'default' });
+        var r = await fetch(d.path, { cache: 'no-cache' });
         if (!r.ok) throw new Error('missing');
         var json = await r.json();
         var cards = Array.isArray(json) ? json : (json.cards || []);
@@ -1537,6 +1556,9 @@
       catch (err) { toast('Ошибка CSV: ' + err.message, 'error'); }
     });
 
+    $('btn-refresh-decks').addEventListener('click', function () {
+      refreshDecksCache();
+    });
     $('btn-export').addEventListener('click', function () {
       exportBackup().catch(function (err) { toast(err.message, 'error'); });
     });

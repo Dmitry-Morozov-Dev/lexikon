@@ -1,6 +1,6 @@
 /* Service Worker «Лексикон» — кэширует оболочку и уже загруженные JSON. Картинки не прекэшируем. */
-var CACHE_SHELL = 'lexikon-shell-v5';
-var CACHE_DATA = 'lexikon-data-v15'';
+var CACHE_SHELL = 'lexikon-shell-v6';
+var CACHE_DATA = 'lexikon-data-v16';
 
 var SHELL_URLS = [
   './',
@@ -62,37 +62,33 @@ self.addEventListener('fetch', function (event) {
     return;
   }
 
-  // JSON колод: cache-then-network, кладём в CACHE_DATA после успешного ответа
+  // JSON колод: network-first (иначе Safari навсегда держит старые колоды), offline → cache
   if (isDataJson(url) || isConceptSvg(url)) {
     event.respondWith(
       caches.open(CACHE_DATA).then(function (cache) {
-        return cache.match(req).then(function (cached) {
-          var network = fetch(req).then(function (res) {
-            if (res && res.ok) cache.put(req, res.clone());
-            return res;
-          }).catch(function () { return cached; });
-          return cached || network;
+        return fetch(req, { cache: 'no-cache' }).then(function (res) {
+          if (res && res.ok) cache.put(req, res.clone());
+          return res;
+        }).catch(function () {
+          return cache.match(req);
         });
       })
     );
     return;
   }
 
-  // Оболочка: stale-while-revalidate
+  // Оболочка: network-first (чтобы iOS Safari не залипал на старом app.js)
   event.respondWith(
     caches.open(CACHE_SHELL).then(function (cache) {
-      return cache.match(req).then(function (cached) {
-        var fetched = fetch(req).then(function (res) {
-          if (res && res.ok && (req.url.indexOf(self.location.origin) === 0)) {
-            cache.put(req, res.clone());
-          }
-          return res;
-        }).catch(function () {
+      return fetch(req, { cache: 'no-cache' }).then(function (res) {
+        if (res && res.ok) cache.put(req, res.clone());
+        return res;
+      }).catch(function () {
+        return cache.match(req).then(function (cached) {
           if (cached) return cached;
           if (req.mode === 'navigate') return cache.match('./index.html');
           return undefined;
         });
-        return cached || fetched;
       });
     })
   );
