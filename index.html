@@ -73,6 +73,17 @@
         <p class="muted">Отметьте колоды, которые участвуют в «Сегодня».</p>
       </div>
       <div id="deck-list"></div>
+      <div class="panel" id="pdf-panel">
+        <h3>Тексты PDF</h3>
+        <p class="muted">Импортируйте PDF — текст извлечётся на устройстве и сохранится офлайн. Без загрузки файла на сервер.</p>
+        <button type="button" id="btn-import-pdf" class="btn btn-accent btn-block">Импорт PDF</button>
+        <input type="file" id="pdf-file" accept="application/pdf,.pdf" class="hidden" />
+        <div id="pdf-empty" class="empty-state pdf-empty">
+          <div class="big">📄</div>
+          <p>Пока нет текстов. Импортируйте PDF, чтобы читать офлайн.</p>
+        </div>
+        <div id="pdf-doc-list" class="pdf-doc-list"></div>
+      </div>
       <div class="panel">
         <h3>Поиск</h3>
         <input type="search" id="search-input" class="search-box" placeholder="Слово или перевод…" enterkeyhint="search" />
@@ -122,6 +133,11 @@
         <p class="muted">Колонки: word,ipa,tr,ex,exRu,level,img</p>
         <input type="file" id="csv-file" accept=".csv,text/csv" />
         <button type="button" id="btn-import-csv" class="btn btn-block" style="margin-top:8px">Импортировать CSV</button>
+      </div>
+      <div class="panel">
+        <h3>Импорт PDF</h3>
+        <p class="muted">Текст из PDF сохранится офлайн для чтения (без blob файла).</p>
+        <button type="button" id="btn-import-pdf-add" class="btn btn-block">Импорт PDF</button>
       </div>
     </section>
 
@@ -189,12 +205,26 @@
     <button type="button" data-nav="settings"><span class="nav-ico">⚙</span>Настройки</button>
   </nav>
 
+  <div id="reader-overlay" class="reader-overlay hidden" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="reader-title">
+    <header class="reader-bar">
+      <button type="button" id="reader-close" class="btn btn-ghost reader-close" aria-label="Закрыть">←</button>
+      <div class="reader-bar-text">
+        <h2 id="reader-title" class="reader-title">Документ</h2>
+        <span id="reader-meta" class="reader-meta muted"></span>
+      </div>
+    </header>
+    <div id="reader-scroll" class="reader-scroll">
+      <article id="reader-body" class="reader-body"></article>
+    </div>
+  </div>
+
   <div id="toast-host" class="toast-host" aria-live="polite"></div>
   <div id="onboard" class="onboard-overlay hidden" role="dialog" aria-modal="true"></div>
   <div id="modal-host"></div>
 
   <script defer src="srs.js"></script>
   <script defer src="db.js"></script>
+  <script defer src="reader.js"></script>
   <script defer src="app.js"></script>
 </body>
 </html>

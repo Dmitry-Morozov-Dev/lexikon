@@ -907,3 +907,190 @@ a { color: var(--accent); }
   border-color: color-mix(in srgb, #a67c52 25%, var(--border));
   background: color-mix(in srgb, #a67c52 8%, transparent);
 }
+
+/* ---- PDF texts / reader (STAGE A) ---- */
+.pdf-doc-list {
+  margin-top: 12px;
+}
+
+.pdf-empty {
+  padding: 24px 8px 8px;
+}
+
+.pdf-doc-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px;
+  border-radius: 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  margin-bottom: 10px;
+}
+
+.pdf-doc-info {
+  flex: 1;
+  min-width: 0;
+  cursor: pointer;
+}
+
+.pdf-doc-info strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-bottom: 2px;
+}
+
+.pdf-doc-info small {
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.pdf-doc-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.pdf-doc-actions .btn {
+  min-width: auto;
+  min-height: 40px;
+  padding: 0 10px;
+  font-size: 0.8rem;
+}
+
+.pdf-doc-del {
+  color: var(--again);
+  opacity: 0.85;
+}
+
+body.reader-open {
+  overflow: hidden;
+}
+
+body.reader-open .bottom-nav,
+body.reader-open .app-header {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.reader-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+  padding-top: var(--safe-t);
+  padding-left: var(--safe-l);
+  padding-right: var(--safe-r);
+  padding-bottom: var(--safe-b);
+  animation: fadeIn 200ms ease;
+}
+
+.reader-overlay.hidden {
+  display: none !important;
+}
+
+.reader-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  flex-shrink: 0;
+}
+
+.reader-close {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.reader-bar-text {
+  min-width: 0;
+  flex: 1;
+}
+
+.reader-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reader-meta {
+  display: block;
+  font-size: 0.75rem;
+  margin-top: 1px;
+}
+
+.reader-scroll {
+  flex: 1;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+.reader-body {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 20px 18px 48px;
+  font-family: var(--font-word);
+  font-size: 1.12rem;
+  line-height: 1.7;
+  color: var(--text);
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+.reader-p {
+  margin: 0 0 1.15em;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.reader-p:last-child {
+  margin-bottom: 0;
+}
+
+/* Word tokens — stage B will attach hold handlers */
+.rw {
+  border-radius: 3px;
+  padding: 0 1px;
+  margin: 0 -1px;
+  cursor: pointer;
+  transition: background 140ms ease, color 140ms ease;
+  -webkit-touch-callout: none;
+}
+
+.rw:hover,
+.rw:focus-visible {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: color-mix(in srgb, var(--accent) 55%, var(--text));
+  outline: none;
+}
+
+.rw:active {
+  background: color-mix(in srgb, var(--accent) 32%, transparent);
+}
+
+@media (max-width: 420px) {
+  .reader-body {
+    font-size: 1.05rem;
+    padding: 16px 14px 40px;
+  }
+  .pdf-doc-item {
+    flex-wrap: wrap;
+  }
+  .pdf-doc-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+}

@@ -1484,7 +1484,10 @@
     });
     if (name === 'today') buildQueue();
     if (name === 'stats') renderStats();
-    if (name === 'decks') renderDeckList();
+    if (name === 'decks') {
+      renderDeckList();
+      if (globalThis.LexReader) LexReader.refreshList();
+    }
   }
 
   /* ---- Swipe / hold / swipe-up ---- */
@@ -1690,6 +1693,7 @@
     toast('Импорт завершён', 'ok');
     buildQueue();
     renderStats();
+    if (globalThis.LexReader) LexReader.refreshList();
   }
 
   /* ---- Init ---- */
@@ -1864,6 +1868,7 @@
     showOnboard(false);
     try {
       await LexDB.open();
+      if (globalThis.LexReader) await LexReader.init();
       await loadDecks();
       await buildQueue();
     } catch (err) {

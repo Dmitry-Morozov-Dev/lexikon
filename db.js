@@ -5,6 +5,7 @@
  *   progress  — SM-2 прогресс по id карточки
  *   reviews   — лог ответов для статистики (дата, quality)
  *   meta      — служебные ключи
+ *   documents — тексты из PDF (без blob)
  *
  * Настройки — в localStorage (не здесь).
  */
@@ -12,7 +13,7 @@
   'use strict';
 
   var DB_NAME = 'lexikon-db';
-  var DB_VERSION = 1;
+  var DB_VERSION = 2;
   var dbPromise = null;
 
   function openDB() {
@@ -39,6 +40,10 @@
         }
         if (!db.objectStoreNames.contains('meta')) {
           db.createObjectStore('meta', { keyPath: 'key' });
+        }
+        if (!db.objectStoreNames.contains('documents')) {
+          var docs = db.createObjectStore('documents', { keyPath: 'id' });
+          docs.createIndex('createdAt', 'createdAt', { unique: false });
         }
       };
       req.onsuccess = function () { resolve(req.result); };
@@ -175,19 +180,47 @@
     await txDone(tx);
   }
 
+  /* ---- Documents (PDF text) ---- */
+
+  async function putDocument(doc) {
+    var db = await openDB();
+    var tx = db.transaction('documents', 'readwrite');
+    tx.objectStore('documents').put(doc);
+    await txDone(tx);
+  }
+
+  async function getDocument(id) {
+    var db = await openDB();
+    return reqToPromise(getStore(db, 'documents', 'readonly').get(id));
+  }
+
+  async function getAllDocuments() {
+    var db = await openDB();
+    return reqToPromise(getStore(db, 'documents', 'readonly').getAll());
+  }
+
+  async function deleteDocument(id) {
+    var db = await openDB();
+    var tx = db.transaction('documents', 'readwrite');
+    tx.objectStore('documents').delete(id);
+    await txDone(tx);
+  }
+
   /** Полный бэкап IndexedDB → JSON-объект */
   async function exportAll() {
     var cards = await getAllCards();
     var progress = await getAllProgress();
     var reviews = await getAllReviews();
+    var documents = await getAllDocuments();
     var db = await openDB();
     var metaRows = await reqToPromise(getStore(db, 'meta', 'readonly').getAll());
     return {
-      version: 1,
+      version: 2,
       exportedAt: new Date().toISOString(),
       cards: cards,
       progress: progress,
       reviews: reviews,
+      documents: documents,
       meta: metaRows
     };
   }
@@ -196,12 +229,10 @@
   async function importAll(data, replace) {
     if (!data || !Array.isArray(data.cards)) throw new Error('Некорректный файл бэкапа');
     var db = await openDB();
-    var tx = db.transaction(['cards', 'progress', 'reviews', 'meta'], 'readwrite');
+    var storeNames = ['cards', 'progress', 'reviews', 'meta', 'documents'];
+    var tx = db.transaction(storeNames, 'readwrite');
     if (replace) {
-      tx.objectStore('cards').clear();
-      tx.objectStore('progress').clear();
-      tx.objectStore('reviews').clear();
-      tx.objectStore('meta').clear();
+      storeNames.forEach(function (n) { tx.objectStore(n).clear(); });
     }
     data.cards.forEach(function (c) { tx.objectStore('cards').put(c); });
     (data.progress || []).forEach(function (p) { tx.objectStore('progress').put(p); });
@@ -211,16 +242,18 @@
       tx.objectStore('reviews').add(copy);
     });
     (data.meta || []).forEach(function (m) { tx.objectStore('meta').put(m); });
+    (data.documents || []).forEach(function (d) { tx.objectStore('documents').put(d); });
     await txDone(tx);
   }
 
   async function clearAll() {
     var db = await openDB();
-    var tx = db.transaction(['cards', 'progress', 'reviews', 'meta'], 'readwrite');
+    var tx = db.transaction(['cards', 'progress', 'reviews', 'meta', 'documents'], 'readwrite');
     tx.objectStore('cards').clear();
     tx.objectStore('progress').clear();
     tx.objectStore('reviews').clear();
     tx.objectStore('meta').clear();
+    tx.objectStore('documents').clear();
     await txDone(tx);
   }
 
@@ -241,6 +274,10 @@
     getAllReviews: getAllReviews,
     getMeta: getMeta,
     setMeta: setMeta,
+    putDocument: putDocument,
+    getDocument: getDocument,
+    getAllDocuments: getAllDocuments,
+    deleteDocument: deleteDocument,
     exportAll: exportAll,
     importAll: importAll,
     clearAll: clearAll,
