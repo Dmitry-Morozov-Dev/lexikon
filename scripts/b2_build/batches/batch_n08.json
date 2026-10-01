@@ -1,0 +1,2533 @@
+[
+  {
+    "word": "tag",
+    "lemma": "tag",
+    "ipa": "/tæg/",
+    "pos": "noun",
+    "tr": "бирка",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Check the price tag.",
+        "ru": "Проверь ценник."
+      },
+      {
+        "en": "Add a metadata tag.",
+        "ru": "Добавь метатег."
+      },
+      {
+        "en": "Kids played tag outside.",
+        "ru": "Дети играли в салочки."
+      }
+    ],
+    "colloc": "price tag"
+  },
+  {
+    "word": "tale",
+    "lemma": "tale",
+    "ipa": "/teɪl/",
+    "pos": "noun",
+    "tr": "сказка",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Tell a fairy tale.",
+        "ru": "Расскажи сказку."
+      },
+      {
+        "en": "A cautionary tale warned us.",
+        "ru": "Поучительная история нас предупредила."
+      },
+      {
+        "en": "Folk tales travel far.",
+        "ru": "Народные сказки далеко путешествуют."
+      }
+    ],
+    "colloc": "tale of"
+  },
+  {
+    "word": "tank",
+    "lemma": "tank",
+    "ipa": "/tæŋk/",
+    "pos": "noun",
+    "tr": "танк / бак",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Fill the gas tank.",
+        "ru": "Заправь бак."
+      },
+      {
+        "en": "Army tanks rolled in.",
+        "ru": "Армейские танки въехали."
+      },
+      {
+        "en": "A fish tank needs care.",
+        "ru": "Аквариуму нужен уход."
+      }
+    ],
+    "colloc": "think tank"
+  },
+  {
+    "word": "teen",
+    "lemma": "teen",
+    "ipa": "/tin/",
+    "pos": "noun",
+    "tr": "подросток",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Teens need sleep.",
+        "ru": "Подросткам нужен сон."
+      },
+      {
+        "en": "Talk openly with teens.",
+        "ru": "Говори открыто с подростками."
+      },
+      {
+        "en": "Teen drivers learn carefully.",
+        "ru": "Подростки-водители учатся осторожно."
+      }
+    ],
+    "colloc": "teen years"
+  },
+  {
+    "word": "temple",
+    "lemma": "temple",
+    "ipa": "/ˈtɛmpəl/",
+    "pos": "noun",
+    "tr": "храм",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Visit an ancient temple.",
+        "ru": "Посети древний храм."
+      },
+      {
+        "en": "Temple festivals draw crowds.",
+        "ru": "Храмовые праздники собирают толпы."
+      },
+      {
+        "en": "Rub your temple gently.",
+        "ru": "Осторожно разотри висок."
+      }
+    ],
+    "colloc": "temple of"
+  },
+  {
+    "word": "tendency",
+    "lemma": "tendency",
+    "ipa": "/ˈtɛndənsi/",
+    "pos": "noun",
+    "tr": "тенденция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Notice a worrying tendency.",
+        "ru": "Заметь тревожную тенденцию."
+      },
+      {
+        "en": "She has a tendency to rush.",
+        "ru": "У неё склонность торопиться."
+      },
+      {
+        "en": "Market tendencies shifted.",
+        "ru": "Рыночные тенденции сменились."
+      }
+    ],
+    "colloc": "tendency to"
+  },
+  {
+    "word": "tension",
+    "lemma": "tension",
+    "ipa": "/ˈtɛnʃən/",
+    "pos": "noun",
+    "tr": "напряжение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Ease political tension.",
+        "ru": "Смягчи политическое напряжение."
+      },
+      {
+        "en": "Muscle tension caused pain.",
+        "ru": "Мышечное напряжение вызвало боль."
+      },
+      {
+        "en": "Racial tension rose.",
+        "ru": "Расовое напряжение выросло."
+      }
+    ],
+    "colloc": "tension between"
+  },
+  {
+    "word": "terminal",
+    "lemma": "terminal",
+    "ipa": "/ˈtərmənəl/",
+    "pos": "noun",
+    "tr": "терминал",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Meet at the bus terminal.",
+        "ru": "Встреть у автобусного терминала."
+      },
+      {
+        "en": "Open a terminal window.",
+        "ru": "Открой окно терминала."
+      },
+      {
+        "en": "Terminal illness needs care.",
+        "ru": "Терминальная болезнь нуждается в уходе."
+      }
+    ],
+    "colloc": "airport terminal"
+  },
+  {
+    "word": "terms",
+    "lemma": "terms",
+    "ipa": "/tərmz/",
+    "pos": "noun",
+    "tr": "условия",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Read the contract terms.",
+        "ru": "Прочитай условия контракта."
+      },
+      {
+        "en": "On friendly terms again.",
+        "ru": "Снова в дружеских отношениях."
+      },
+      {
+        "en": "Define clear terms.",
+        "ru": "Определи ясные условия."
+      }
+    ],
+    "colloc": "terms of"
+  },
+  {
+    "word": "territory",
+    "lemma": "territory",
+    "ipa": "/ˈtɛrɪˌtɔri/",
+    "pos": "noun",
+    "tr": "территория",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Defend national territory.",
+        "ru": "Защищай национальную территорию."
+      },
+      {
+        "en": "Wolves mark territory.",
+        "ru": "Волки метят территорию."
+      },
+      {
+        "en": "Familiar territory calmed her.",
+        "ru": "Знакомая территория успокоила её."
+      }
+    ],
+    "colloc": "on territory"
+  },
+  {
+    "word": "terror",
+    "lemma": "terror",
+    "ipa": "/ˈtɛrər/",
+    "pos": "noun",
+    "tr": "ужас",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Live in terror no more.",
+        "ru": "Больше не живи в ужасе."
+      },
+      {
+        "en": "Reign of terror ended.",
+        "ru": "Правление ужаса закончилось."
+      },
+      {
+        "en": "Sheer terror froze him.",
+        "ru": "Чистый ужас заморозил его."
+      }
+    ],
+    "colloc": "terror of"
+  },
+  {
+    "word": "terrorism",
+    "lemma": "terrorism",
+    "ipa": "/ˈtɛrəˌrɪzəm/",
+    "pos": "noun",
+    "tr": "терроризм",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Combat terrorism carefully.",
+        "ru": "Осторожно борись с терроризмом."
+      },
+      {
+        "en": "Terrorism threatens civilians.",
+        "ru": "Терроризм угрожает мирным."
+      },
+      {
+        "en": "Global terrorism sparked laws.",
+        "ru": "Глобальный терроризм породил законы."
+      }
+    ],
+    "colloc": "fight terrorism"
+  },
+  {
+    "word": "terrorist",
+    "lemma": "terrorist",
+    "ipa": "/ˈtɛrərɪst/",
+    "pos": "noun",
+    "tr": "террорист",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Arrest suspected terrorists.",
+        "ru": "Арестуй подозреваемых террористов."
+      },
+      {
+        "en": "Terrorist attacks shook cities.",
+        "ru": "Теракты потрясли города."
+      },
+      {
+        "en": "Prevent terrorist financing.",
+        "ru": "Предотврати финансирование террористов."
+      }
+    ],
+    "colloc": "terrorist group"
+  },
+  {
+    "word": "testing",
+    "lemma": "testing",
+    "ipa": "/ˈtɛstɪŋ/",
+    "pos": "noun",
+    "tr": "тестирование",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Software testing found bugs.",
+        "ru": "Тестирование ПО нашло баги."
+      },
+      {
+        "en": "Drug testing is required.",
+        "ru": "Тестирование лекарств обязательно."
+      },
+      {
+        "en": "Standardized testing divides opinion.",
+        "ru": "Стандартизированное тестирование делит мнения."
+      }
+    ],
+    "colloc": "testing phase"
+  },
+  {
+    "word": "textbook",
+    "lemma": "textbook",
+    "ipa": "/ˈtɛkstˌbʊk/",
+    "pos": "noun",
+    "tr": "учебник",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Buy the required textbook.",
+        "ru": "Купи обязательный учебник."
+      },
+      {
+        "en": "Open textbooks online.",
+        "ru": "Открой учебники онлайн."
+      },
+      {
+        "en": "Textbook examples clarify.",
+        "ru": "Примеры из учебника проясняют."
+      }
+    ],
+    "colloc": "textbook case"
+  },
+  {
+    "word": "theft",
+    "lemma": "theft",
+    "ipa": "/θɛft/",
+    "pos": "noun",
+    "tr": "кража",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Report identity theft.",
+        "ru": "Сообщи о краже личности."
+      },
+      {
+        "en": "Petty theft rose.",
+        "ru": "Мелкая кража выросла."
+      },
+      {
+        "en": "Prevent bike theft.",
+        "ru": "Предотврати кражу велосипеда."
+      }
+    ],
+    "colloc": "theft of"
+  },
+  {
+    "word": "therapist",
+    "lemma": "therapist",
+    "ipa": "/ˈθɛrəpɪst/",
+    "pos": "noun",
+    "tr": "терапевт",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "See a physical therapist.",
+        "ru": "Обратись к физиотерапевту."
+      },
+      {
+        "en": "Speech therapists help kids.",
+        "ru": "Логопеды помогают детям."
+      },
+      {
+        "en": "Find a trusted therapist.",
+        "ru": "Найди надёжного терапевта."
+      }
+    ],
+    "colloc": "family therapist"
+  },
+  {
+    "word": "therapy",
+    "lemma": "therapy",
+    "ipa": "/ˈθɛrəpi/",
+    "pos": "noun",
+    "tr": "терапия",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Start talk therapy.",
+        "ru": "Начни разговорную терапию."
+      },
+      {
+        "en": "Physical therapy restored motion.",
+        "ru": "Физтерапия восстановила движение."
+      },
+      {
+        "en": "Gene therapy offers hope.",
+        "ru": "Генная терапия даёт надежду."
+      }
+    ],
+    "colloc": "therapy session"
+  },
+  {
+    "word": "thesis",
+    "lemma": "thesis",
+    "ipa": "/ˈθiˌsɪs/",
+    "pos": "noun",
+    "tr": "тезис / диссертация",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Defend your thesis.",
+        "ru": "Защити диссертацию."
+      },
+      {
+        "en": "State a clear thesis.",
+        "ru": "Заяви ясный тезис."
+      },
+      {
+        "en": "Thesis deadlines approach.",
+        "ru": "Дедлайны диссертации приближаются."
+      }
+    ],
+    "colloc": "thesis statement"
+  },
+  {
+    "word": "thread",
+    "lemma": "thread",
+    "ipa": "/θrɛd/",
+    "pos": "noun",
+    "tr": "нить",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Thread the needle carefully.",
+        "ru": "Осторожно вдень нитку."
+      },
+      {
+        "en": "Forum threads filled with spam.",
+        "ru": "Темы форума заполнились спамом."
+      },
+      {
+        "en": "Lose the thread of talk.",
+        "ru": "Потеряй нить разговора."
+      }
+    ],
+    "colloc": "thread of"
+  },
+  {
+    "word": "threat",
+    "lemma": "threat",
+    "ipa": "/θrɛt/",
+    "pos": "noun",
+    "tr": "угроза",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Take every threat seriously.",
+        "ru": "Воспринимай каждую угрозу серьёзно."
+      },
+      {
+        "en": "Climate threat grows.",
+        "ru": "Климатическая угроза растёт."
+      },
+      {
+        "en": "Under threat of fines.",
+        "ru": "Под угрозой штрафов."
+      }
+    ],
+    "colloc": "threat to"
+  },
+  {
+    "word": "threshold",
+    "lemma": "threshold",
+    "ipa": "/θˈrɛˌʃoʊld/",
+    "pos": "noun",
+    "tr": "порог",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Cross the threshold.",
+        "ru": "Перейди порог."
+      },
+      {
+        "en": "Pain threshold varies.",
+        "ru": "Порог боли различается."
+      },
+      {
+        "en": "Below the poverty threshold.",
+        "ru": "Ниже порога бедности."
+      }
+    ],
+    "colloc": "threshold of"
+  },
+  {
+    "word": "thumb",
+    "lemma": "thumb",
+    "ipa": "/θəm/",
+    "pos": "noun",
+    "tr": "большой палец",
+    "bucket": "body",
+    "examples": [
+      {
+        "en": "Give a thumbs-up.",
+        "ru": "Поставь большой палец вверх."
+      },
+      {
+        "en": "Rule of thumb helps.",
+        "ru": "Правило большого пальца помогает."
+      },
+      {
+        "en": "Hit your thumb with a hammer.",
+        "ru": "Ударь молотком по большому пальцу."
+      }
+    ],
+    "colloc": "thumb drive"
+  },
+  {
+    "word": "tide",
+    "lemma": "tide",
+    "ipa": "/taɪd/",
+    "pos": "noun",
+    "tr": "прилив",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "High tide flooded docks.",
+        "ru": "Высокий прилив затопил причалы."
+      },
+      {
+        "en": "Turn the tide of battle.",
+        "ru": "Поверни ход битвы."
+      },
+      {
+        "en": "Political tides shifted.",
+        "ru": "Политические приливы сменились."
+      }
+    ],
+    "colloc": "tide of"
+  },
+  {
+    "word": "timber",
+    "lemma": "timber",
+    "ipa": "/ˈtɪmbər/",
+    "pos": "noun",
+    "tr": "древесина",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Harvest timber sustainably.",
+        "ru": "Добывай древесину устойчиво."
+      },
+      {
+        "en": "Timber prices rose.",
+        "ru": "Цены на древесину выросли."
+      },
+      {
+        "en": "Old timber beams remain.",
+        "ru": "Старые деревянные балки остаются."
+      }
+    ],
+    "colloc": "timber industry"
+  },
+  {
+    "word": "timing",
+    "lemma": "timing",
+    "ipa": "/ˈtaɪmɪŋ/",
+    "pos": "noun",
+    "tr": "тайминг",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Perfect timing saved the deal.",
+        "ru": "Идеальный тайминг спас сделку."
+      },
+      {
+        "en": "Bad timing ruined jokes.",
+        "ru": "Плохой тайминг испортил шутки."
+      },
+      {
+        "en": "Work on comic timing.",
+        "ru": "Работай над комедийным таймингом."
+      }
+    ],
+    "colloc": "sense of timing"
+  },
+  {
+    "word": "tissue",
+    "lemma": "tissue",
+    "ipa": "/ˈtɪʃu/",
+    "pos": "noun",
+    "tr": "ткань",
+    "bucket": "body",
+    "examples": [
+      {
+        "en": "Wipe tears with a tissue.",
+        "ru": "Вытри слёзы салфеткой."
+      },
+      {
+        "en": "Soft tissue healed slowly.",
+        "ru": "Мягкие ткани заживали медленно."
+      },
+      {
+        "en": "Brain tissue needs oxygen.",
+        "ru": "Ткани мозга нужен кислород."
+      }
+    ],
+    "colloc": "tissue paper"
+  },
+  {
+    "word": "tobacco",
+    "lemma": "tobacco",
+    "ipa": "/təˈbæˌkoʊ/",
+    "pos": "noun",
+    "tr": "табак",
+    "bucket": "food",
+    "examples": [
+      {
+        "en": "Ban tobacco ads near schools.",
+        "ru": "Запрети рекламу табака у школ."
+      },
+      {
+        "en": "Tobacco farms shrank.",
+        "ru": "Табачные фермы сократились."
+      },
+      {
+        "en": "Quit tobacco for health.",
+        "ru": "Брось табак ради здоровья."
+      }
+    ],
+    "colloc": "tobacco smoke"
+  },
+  {
+    "word": "tolerance",
+    "lemma": "tolerance",
+    "ipa": "/ˈtɑlərəns/",
+    "pos": "noun",
+    "tr": "терпимость",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Teach religious tolerance.",
+        "ru": "Учи религиозной терпимости."
+      },
+      {
+        "en": "Pain tolerance varies.",
+        "ru": "Терпимость к боли различается."
+      },
+      {
+        "en": "Zero tolerance for abuse.",
+        "ru": "Нулевая терпимость к насилию."
+      }
+    ],
+    "colloc": "tolerance for"
+  },
+  {
+    "word": "toll",
+    "lemma": "toll",
+    "ipa": "/toʊl/",
+    "pos": "noun",
+    "tr": "пошлина / жертвы",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Pay the bridge toll.",
+        "ru": "Оплати пошлину за мост."
+      },
+      {
+        "en": "Death toll rose overnight.",
+        "ru": "Число жертв выросло за ночь."
+      },
+      {
+        "en": "Stress takes a toll.",
+        "ru": "Стресс берёт свою плату."
+      }
+    ],
+    "colloc": "toll of"
+  },
+  {
+    "word": "tone",
+    "lemma": "tone",
+    "ipa": "/toʊn/",
+    "pos": "noun",
+    "tr": "тон",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Watch your tone.",
+        "ru": "Следи за тоном."
+      },
+      {
+        "en": "Muscle tone improved.",
+        "ru": "Мышечный тонус улучшился."
+      },
+      {
+        "en": "Set a professional tone.",
+        "ru": "Задай профессиональный тон."
+      }
+    ],
+    "colloc": "tone of voice"
+  },
+  {
+    "word": "torture",
+    "lemma": "torture",
+    "ipa": "/ˈtɔrʧər/",
+    "pos": "noun",
+    "tr": "пытка",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Ban torture completely.",
+        "ru": "Полностью запрети пытки."
+      },
+      {
+        "en": "Survivors of torture need care.",
+        "ru": "Выжившим после пыток нужен уход."
+      },
+      {
+        "en": "Moral torture can be silent.",
+        "ru": "Моральная пытка может быть тихой."
+      }
+    ],
+    "colloc": "torture of"
+  },
+  {
+    "word": "tournament",
+    "lemma": "tournament",
+    "ipa": "/ˈtʊrnəmənt/",
+    "pos": "noun",
+    "tr": "турнир",
+    "bucket": "sport",
+    "examples": [
+      {
+        "en": "Win the chess tournament.",
+        "ru": "Выиграй шахматный турнир."
+      },
+      {
+        "en": "Tennis tournaments fill summer.",
+        "ru": "Теннисные турниры заполняют лето."
+      },
+      {
+        "en": "Host a local tournament.",
+        "ru": "Проведи местный турнир."
+      }
+    ],
+    "colloc": "tournament final"
+  },
+  {
+    "word": "trademark",
+    "lemma": "trademark",
+    "ipa": "/ˈtreɪdˌmɑrk/",
+    "pos": "noun",
+    "tr": "товарный знак",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Register a trademark.",
+        "ru": "Зарегистрируй товарный знак."
+      },
+      {
+        "en": "Protect brand trademarks.",
+        "ru": "Защищай товарные знаки бренда."
+      },
+      {
+        "en": "A trademark smile appeared.",
+        "ru": "Появилась фирменная улыбка."
+      }
+    ],
+    "colloc": "trademark of"
+  },
+  {
+    "word": "trading",
+    "lemma": "trading",
+    "ipa": "/ˈtreɪdɪŋ/",
+    "pos": "noun",
+    "tr": "торговля",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Day trading is risky.",
+        "ru": "Дневная торговля рискованна."
+      },
+      {
+        "en": "Slave trading stained history.",
+        "ru": "Торговля рабами запятнала историю."
+      },
+      {
+        "en": "Fair trading builds trust.",
+        "ru": "Честная торговля строит доверие."
+      }
+    ],
+    "colloc": "trading volume"
+  },
+  {
+    "word": "tragedy",
+    "lemma": "tragedy",
+    "ipa": "/ˈtræʤədi/",
+    "pos": "noun",
+    "tr": "трагедия",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Greek tragedy still teaches.",
+        "ru": "Греческая трагедия всё ещё учит."
+      },
+      {
+        "en": "Avoid traffic tragedy.",
+        "ru": "Избегай дорожной трагеды."
+      },
+      {
+        "en": "Family tragedy changed him.",
+        "ru": "Семейная трагедия изменила его."
+      }
+    ],
+    "colloc": "tragedy of"
+  },
+  {
+    "word": "trail",
+    "lemma": "trail",
+    "ipa": "/treɪl/",
+    "pos": "noun",
+    "tr": "тропа",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Hike the mountain trail.",
+        "ru": "Иди по горной тропе."
+      },
+      {
+        "en": "Follow the paper trail.",
+        "ru": "Следуй бумажному следу."
+      },
+      {
+        "en": "Audit trails protect data.",
+        "ru": "Аудит-трейлы защищают данные."
+      }
+    ],
+    "colloc": "on the trail"
+  },
+  {
+    "word": "trailer",
+    "lemma": "trailer",
+    "ipa": "/ˈtreɪlər/",
+    "pos": "noun",
+    "tr": "трейлер",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Watch the movie trailer.",
+        "ru": "Смотри трейлер фильма."
+      },
+      {
+        "en": "Park the trailer carefully.",
+        "ru": "Осторожно припаркуй трейлер."
+      },
+      {
+        "en": "Trailer parks lined the coast.",
+        "ru": "Трейлерные парки стояли вдоль побережья."
+      }
+    ],
+    "colloc": "film trailer"
+  },
+  {
+    "word": "trait",
+    "lemma": "trait",
+    "ipa": "/treɪt/",
+    "pos": "noun",
+    "tr": "черта",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Honesty is a rare trait.",
+        "ru": "Честность — редкая черта."
+      },
+      {
+        "en": "Genetic traits vary.",
+        "ru": "Генетические черты различаются."
+      },
+      {
+        "en": "Leadership traits can be learned.",
+        "ru": "Черты лидерства можно выучить."
+      }
+    ],
+    "colloc": "personality trait"
+  },
+  {
+    "word": "transaction",
+    "lemma": "transaction",
+    "ipa": "/trænˈzækʃən/",
+    "pos": "noun",
+    "tr": "транзакция",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Complete the bank transaction.",
+        "ru": "Заверши банковскую транзакцию."
+      },
+      {
+        "en": "Online transactions need security.",
+        "ru": "Онлайн-транзакции нуждаются в безопасности."
+      },
+      {
+        "en": "Record every transaction.",
+        "ru": "Запиши каждую транзакцию."
+      }
+    ],
+    "colloc": "financial transaction"
+  },
+  {
+    "word": "transcript",
+    "lemma": "transcript",
+    "ipa": "/ˈtrænˌskrɪpt/",
+    "pos": "noun",
+    "tr": "расшифровка",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Request a college transcript.",
+        "ru": "Запроси университетскую выписку."
+      },
+      {
+        "en": "Court transcripts filled boxes.",
+        "ru": "Судебные расшифровки заполнили коробки."
+      },
+      {
+        "en": "Read the interview transcript.",
+        "ru": "Прочитай расшифровку интервью."
+      }
+    ],
+    "colloc": "official transcript"
+  },
+  {
+    "word": "transformation",
+    "lemma": "transformation",
+    "ipa": "/ˌtrænsfərˈmeɪʃən/",
+    "pos": "noun",
+    "tr": "преобразование",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Digital transformation continues.",
+        "ru": "Цифровое преобразование продолжается."
+      },
+      {
+        "en": "Personal transformation takes time.",
+        "ru": "Личное преобразование занимает время."
+      },
+      {
+        "en": "Urban transformation reshaped blocks.",
+        "ru": "Городское преобразование перестроило кварталы."
+      }
+    ],
+    "colloc": "transformation of"
+  },
+  {
+    "word": "transit",
+    "lemma": "transit",
+    "ipa": "/ˈtrænzɪt/",
+    "pos": "noun",
+    "tr": "транзит",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Improve public transit.",
+        "ru": "Улучши общественный транспорт."
+      },
+      {
+        "en": "Goods in transit need tracking.",
+        "ru": "Товары в транзите нужно отслеживать."
+      },
+      {
+        "en": "Rapid transit cuts traffic.",
+        "ru": "Скоростной транзит сокращает пробки."
+      }
+    ],
+    "colloc": "in transit"
+  },
+  {
+    "word": "transition",
+    "lemma": "transition",
+    "ipa": "/trænˈzɪʃən/",
+    "pos": "noun",
+    "tr": "переход",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Manage career transition.",
+        "ru": "Управляй карьерным переходом."
+      },
+      {
+        "en": "Energy transition is urgent.",
+        "ru": "Энергетический переход срочен."
+      },
+      {
+        "en": "Smooth the transition carefully.",
+        "ru": "Осторожно сгладь переход."
+      }
+    ],
+    "colloc": "transition to"
+  },
+  {
+    "word": "transmission",
+    "lemma": "transmission",
+    "ipa": "/trænzˈmɪʃən/",
+    "pos": "noun",
+    "tr": "передача",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Fix car transmission.",
+        "ru": "Почини трансмиссию машины."
+      },
+      {
+        "en": "Disease transmission slowed.",
+        "ru": "Передача болезни замедлилась."
+      },
+      {
+        "en": "Live transmission failed.",
+        "ru": "Прямая передача провалилась."
+      }
+    ],
+    "colloc": "transmission of"
+  },
+  {
+    "word": "transparency",
+    "lemma": "transparency",
+    "ipa": "/trænˈspɛrənsi/",
+    "pos": "noun",
+    "tr": "прозрачность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Demand government transparency.",
+        "ru": "Требуй прозрачности власти."
+      },
+      {
+        "en": "Financial transparency builds trust.",
+        "ru": "Финансовая прозрачность строит доверие."
+      },
+      {
+        "en": "Glass offers visual transparency.",
+        "ru": "Стекло даёт визуальную прозрачность."
+      }
+    ],
+    "colloc": "transparency in"
+  },
+  {
+    "word": "trauma",
+    "lemma": "trauma",
+    "ipa": "/ˈtrɔmə/",
+    "pos": "noun",
+    "tr": "травма",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Heal from childhood trauma.",
+        "ru": "Исцелись от детской травмы."
+      },
+      {
+        "en": "Head trauma needs scanning.",
+        "ru": "Травма головы нуждается в сканировании."
+      },
+      {
+        "en": "Trauma-informed care helps.",
+        "ru": "Травма-информированный уход помогает."
+      }
+    ],
+    "colloc": "trauma of"
+  },
+  {
+    "word": "treasure",
+    "lemma": "treasure",
+    "ipa": "/ˈtrɛʒər/",
+    "pos": "noun",
+    "tr": "сокровище",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Protect national treasure.",
+        "ru": "Защищай национальное сокровище."
+      },
+      {
+        "en": "Buried treasure myths endure.",
+        "ru": "Мифы о кладах живут."
+      },
+      {
+        "en": "Treasure friendships carefully.",
+        "ru": "Осторожно береги дружбу."
+      }
+    ],
+    "colloc": "treasure of"
+  },
+  {
+    "word": "treatment",
+    "lemma": "treatment",
+    "ipa": "/ˈtritmənt/",
+    "pos": "noun",
+    "tr": "лечение",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Start cancer treatment early.",
+        "ru": "Начни лечение рака рано."
+      },
+      {
+        "en": "Fair treatment at work.",
+        "ru": "Справедливое отношение на работе."
+      },
+      {
+        "en": "Water treatment plants expanded.",
+        "ru": "Очистные сооружения расширились."
+      }
+    ],
+    "colloc": "treatment for"
+  },
+  {
+    "word": "treaty",
+    "lemma": "treaty",
+    "ipa": "/ˈtriti/",
+    "pos": "noun",
+    "tr": "договор",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Sign a peace treaty.",
+        "ru": "Подпиши мирный договор."
+      },
+      {
+        "en": "Climate treaties need enforcement.",
+        "ru": "Климатические договоры нуждаются в исполнении."
+      },
+      {
+        "en": "Break no treaty lightly.",
+        "ru": "Не нарушай договор легкомысленно."
+      }
+    ],
+    "colloc": "treaty of"
+  },
+  {
+    "word": "trend",
+    "lemma": "trend",
+    "ipa": "/trɛnd/",
+    "pos": "noun",
+    "tr": "тренд",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Spot fashion trends early.",
+        "ru": "Замечай модные тренды рано."
+      },
+      {
+        "en": "Downward trend worried investors.",
+        "ru": "Нисходящий тренд тревожил инвесторов."
+      },
+      {
+        "en": "Set a healthy trend.",
+        "ru": "Задай здоровый тренд."
+      }
+    ],
+    "colloc": "trend toward"
+  },
+  {
+    "word": "trial",
+    "lemma": "trial",
+    "ipa": "/traɪəl/",
+    "pos": "noun",
+    "tr": "суд / испытание",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "The trial begins Monday.",
+        "ru": "Суд начинается в понедельник."
+      },
+      {
+        "en": "Clinical trials test drugs.",
+        "ru": "Клинические испытания тестируют лекарства."
+      },
+      {
+        "en": "A trial period ends soon.",
+        "ru": "Испытательный срок скоро кончается."
+      }
+    ],
+    "colloc": "on trial"
+  },
+  {
+    "word": "tribe",
+    "lemma": "tribe",
+    "ipa": "/traɪb/",
+    "pos": "noun",
+    "tr": "племя",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Respect tribal traditions.",
+        "ru": "Уважай племенные традиции."
+      },
+      {
+        "en": "Tech tribes form online.",
+        "ru": "Тех-племена формируются онлайн."
+      },
+      {
+        "en": "Ancient tribes migrated.",
+        "ru": "Древние племена мигрировали."
+      }
+    ],
+    "colloc": "tribe of"
+  },
+  {
+    "word": "tribute",
+    "lemma": "tribute",
+    "ipa": "/ˈtrɪbjut/",
+    "pos": "noun",
+    "tr": "дань / дань уважения",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Pay tribute to heroes.",
+        "ru": "Отдай дань героям."
+      },
+      {
+        "en": "A musical tribute filled the hall.",
+        "ru": "Музыкальная дань заполнила зал."
+      },
+      {
+        "en": "Floral tributes lined graves.",
+        "ru": "Цветочные дани стояли вдоль могил."
+      }
+    ],
+    "colloc": "tribute to"
+  },
+  {
+    "word": "trick",
+    "lemma": "trick",
+    "ipa": "/trɪk/",
+    "pos": "noun",
+    "tr": "трюк",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Learn a card trick.",
+        "ru": "Выучи карточный трюк."
+      },
+      {
+        "en": "Don't fall for the trick.",
+        "ru": "Не попадись на трюк."
+      },
+      {
+        "en": "Trick or treat at Halloween.",
+        "ru": "Конфета или жизнь на Хэллоуин."
+      }
+    ],
+    "colloc": "trick of"
+  },
+  {
+    "word": "trillion",
+    "lemma": "trillion",
+    "ipa": "/ˈtrɪljən/",
+    "pos": "noun",
+    "tr": "триллион",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Debt hit a trillion.",
+        "ru": "Долг достиг триллиона."
+      },
+      {
+        "en": "Trillions of stars exist.",
+        "ru": "Существуют триллионы звёзд."
+      },
+      {
+        "en": "Cut a trillion carefully.",
+        "ru": "Осторожно сократи триллион."
+      }
+    ],
+    "colloc": "trillion dollars"
+  },
+  {
+    "word": "trio",
+    "lemma": "trio",
+    "ipa": "/ˈtriˌoʊ/",
+    "pos": "noun",
+    "tr": "трио",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A jazz trio played.",
+        "ru": "Джазовое трио играло."
+      },
+      {
+        "en": "Form a power trio.",
+        "ru": "Создай силовое трио."
+      },
+      {
+        "en": "The comedy trio toured.",
+        "ru": "Комедийное трио гастролировало."
+      }
+    ],
+    "colloc": "trio of"
+  },
+  {
+    "word": "triumph",
+    "lemma": "triumph",
+    "ipa": "/traɪəmf/",
+    "pos": "noun",
+    "tr": "триумф",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Celebrate a hard-won triumph.",
+        "ru": "Отметь тяжёлый триумф."
+      },
+      {
+        "en": "Triumph over adversity.",
+        "ru": "Триумф над невзгодами."
+      },
+      {
+        "en": "Olympic triumph inspired kids.",
+        "ru": "Олимпийский триумф вдохновил детей."
+      }
+    ],
+    "colloc": "triumph of"
+  },
+  {
+    "word": "troop",
+    "lemma": "troop",
+    "ipa": "/trup/",
+    "pos": "noun",
+    "tr": "войска",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Send peacekeeping troops.",
+        "ru": "Отправь миротворческие войска."
+      },
+      {
+        "en": "Scout troops camped.",
+        "ru": "Отряды скаутов стояли лагерем."
+      },
+      {
+        "en": "Troop morale rose.",
+        "ru": "Моральный дух войск вырос."
+      }
+    ],
+    "colloc": "troop of"
+  },
+  {
+    "word": "trophy",
+    "lemma": "trophy",
+    "ipa": "/ˈtroʊfi/",
+    "pos": "noun",
+    "tr": "трофей",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Lift the championship trophy.",
+        "ru": "Подними чемпионский кубок."
+      },
+      {
+        "en": "Hunting trophies lined walls.",
+        "ru": "Охотничьи трофеи висели на стенах."
+      },
+      {
+        "en": "Trophy case filled up.",
+        "ru": "Витрина трофеев заполнилась."
+      }
+    ],
+    "colloc": "trophy for"
+  },
+  {
+    "word": "trust",
+    "lemma": "trust",
+    "ipa": "/trəst/",
+    "pos": "noun",
+    "tr": "доверие",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Rebuild broken trust.",
+        "ru": "Восстанови разрушенное доверие."
+      },
+      {
+        "en": "A legal trust protects assets.",
+        "ru": "Юридический траст защищает активы."
+      },
+      {
+        "en": "Public trust fell.",
+        "ru": "Общественное доверие упало."
+      }
+    ],
+    "colloc": "in trust"
+  },
+  {
+    "word": "trustee",
+    "lemma": "trustee",
+    "ipa": "/ˌtrəˈsti/",
+    "pos": "noun",
+    "tr": "попечитель",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Board trustees met.",
+        "ru": "Попечители совета встретились."
+      },
+      {
+        "en": "Name a careful trustee.",
+        "ru": "Назначь осторожного попечителя."
+      },
+      {
+        "en": "School trustees voted.",
+        "ru": "Школьные попечители голосовали."
+      }
+    ],
+    "colloc": "board of trustees"
+  },
+  {
+    "word": "truth",
+    "lemma": "truth",
+    "ipa": "/truθ/",
+    "pos": "noun",
+    "tr": "правда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Tell the plain truth.",
+        "ru": "Скажи простую правду."
+      },
+      {
+        "en": "Seek scientific truth.",
+        "ru": "Ищи научную правду."
+      },
+      {
+        "en": "Truth eventually emerges.",
+        "ru": "Правда в итоге выходит."
+      }
+    ],
+    "colloc": "truth about"
+  },
+  {
+    "word": "tsunami",
+    "lemma": "tsunami",
+    "ipa": "/tsuˈnɑmi/",
+    "pos": "noun",
+    "tr": "цунами",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Tsunami warnings spread.",
+        "ru": "Предупреждения о цунами разошлись."
+      },
+      {
+        "en": "A tsunami hit the coast.",
+        "ru": "Цунами ударило по побережью."
+      },
+      {
+        "en": "Emotional tsunami followed news.",
+        "ru": "Эмоциональное цунами последовало за новостями."
+      }
+    ],
+    "colloc": "tsunami warning"
+  },
+  {
+    "word": "tube",
+    "lemma": "tube",
+    "ipa": "/tub/",
+    "pos": "noun",
+    "tr": "труба",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Squeeze the toothpaste tube.",
+        "ru": "Сожми тюбик зубной пасты."
+      },
+      {
+        "en": "Ride the London Tube.",
+        "ru": "Поезжай в лондонском метро."
+      },
+      {
+        "en": "Test tubes lined the lab.",
+        "ru": "Пробирки стояли в лаборатории."
+      }
+    ],
+    "colloc": "inner tube"
+  },
+  {
+    "word": "tuition",
+    "lemma": "tuition",
+    "ipa": "/tjuˈɪʃən/",
+    "pos": "noun",
+    "tr": "плата за обучение",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Raise tuition carefully.",
+        "ru": "Осторожно подними плату за обучение."
+      },
+      {
+        "en": "Tuition aid helps students.",
+        "ru": "Помощь на обучение помогает студентам."
+      },
+      {
+        "en": "Pay tuition on time.",
+        "ru": "Плати за обучение вовремя."
+      }
+    ],
+    "colloc": "tuition fee"
+  },
+  {
+    "word": "tumor",
+    "lemma": "tumor",
+    "ipa": "/ˈtumər/",
+    "pos": "noun",
+    "tr": "опухоль",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Scan revealed a tumor.",
+        "ru": "Сканирование выявило опухоль."
+      },
+      {
+        "en": "Benign tumors still need care.",
+        "ru": "Доброкачественные опухоли всё ещё нуждаются в уходе."
+      },
+      {
+        "en": "Remove the tumor carefully.",
+        "ru": "Осторожно удали опухоль."
+      }
+    ],
+    "colloc": "brain tumor",
+    "note": "AmE: tumor"
+  },
+  {
+    "word": "tune",
+    "lemma": "tune",
+    "ipa": "/tun/",
+    "pos": "noun",
+    "tr": "мелодия",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Hum a familiar tune.",
+        "ru": "Напевай знакомую мелодию."
+      },
+      {
+        "en": "Stay in tune with needs.",
+        "ru": "Оставайся в ладу с нуждами."
+      },
+      {
+        "en": "Fine-tune the settings.",
+        "ru": "Точно настрой параметры."
+      }
+    ],
+    "colloc": "out of tune"
+  },
+  {
+    "word": "tunnel",
+    "lemma": "tunnel",
+    "ipa": "/ˈtənəl/",
+    "pos": "noun",
+    "tr": "туннель",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Drive through the tunnel.",
+        "ru": "Проедь через туннель."
+      },
+      {
+        "en": "Light at the end of the tunnel.",
+        "ru": "Свет в конце туннеля."
+      },
+      {
+        "en": "Dig a subway tunnel.",
+        "ru": "Вырой туннель метро."
+      }
+    ],
+    "colloc": "tunnel vision"
+  },
+  {
+    "word": "turnout",
+    "lemma": "turnout",
+    "ipa": "/ˈtərˌnaʊt/",
+    "pos": "noun",
+    "tr": "явка",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Voter turnout hit records.",
+        "ru": "Явка избирателей достигла рекордов."
+      },
+      {
+        "en": "Low turnout worried parties.",
+        "ru": "Низкая явка тревожила партии."
+      },
+      {
+        "en": "Concert turnout surprised organizers.",
+        "ru": "Явка на концерт удивила организаторов."
+      }
+    ],
+    "colloc": "turnout of"
+  },
+  {
+    "word": "turnover",
+    "lemma": "turnover",
+    "ipa": "/ˈtərˌnoʊvər/",
+    "pos": "noun",
+    "tr": "текучесть / оборот",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Reduce staff turnover.",
+        "ru": "Снизь текучесть кадров."
+      },
+      {
+        "en": "Annual turnover grew.",
+        "ru": "Годовой оборот вырос."
+      },
+      {
+        "en": "High turnover hurts culture.",
+        "ru": "Высокая текучесть вредит культуре."
+      }
+    ],
+    "colloc": "turnover rate"
+  },
+  {
+    "word": "uncertainty",
+    "lemma": "uncertainty",
+    "ipa": "/ənˈsərtənti/",
+    "pos": "noun",
+    "tr": "неопределённость",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Live with uncertainty.",
+        "ru": "Живи с неопределённостью."
+      },
+      {
+        "en": "Economic uncertainty rose.",
+        "ru": "Экономическая неопределённость выросла."
+      },
+      {
+        "en": "Reduce project uncertainty.",
+        "ru": "Снизь неопределённость проекта."
+      }
+    ],
+    "colloc": "uncertainty about"
+  },
+  {
+    "word": "undergraduate",
+    "lemma": "undergraduate",
+    "ipa": "/ˌəndərˈgræʤəwət/",
+    "pos": "noun",
+    "tr": "студент бакалавриата",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Undergraduate research helps.",
+        "ru": "Исследования бакалавров помогают."
+      },
+      {
+        "en": "Hire recent undergraduates.",
+        "ru": "Найми недавних бакалавров."
+      },
+      {
+        "en": "Undergraduate tuition rose.",
+        "ru": "Плата за бакалавриат выросла."
+      }
+    ],
+    "colloc": "undergraduate student"
+  },
+  {
+    "word": "underwear",
+    "lemma": "underwear",
+    "ipa": "/ˈəndərˌwɛr/",
+    "pos": "noun",
+    "tr": "нижнее бельё",
+    "bucket": "clothes",
+    "examples": [
+      {
+        "en": "Pack spare underwear.",
+        "ru": "Возьми запасное бельё."
+      },
+      {
+        "en": "Buy comfortable underwear.",
+        "ru": "Купи удобное бельё."
+      },
+      {
+        "en": "Underwear ads filled screens.",
+        "ru": "Реклама белья заполнила экраны."
+      }
+    ],
+    "colloc": "clean underwear"
+  },
+  {
+    "word": "unemployment",
+    "lemma": "unemployment",
+    "ipa": "/ˌənɪmˈplɔɪmənt/",
+    "pos": "noun",
+    "tr": "безработица",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Unemployment fell last quarter.",
+        "ru": "Безработица упала в прошлом квартале."
+      },
+      {
+        "en": "Fight youth unemployment.",
+        "ru": "Борись с молодёжной безработицей."
+      },
+      {
+        "en": "Long-term unemployment hurts.",
+        "ru": "Долгосрочная безработица вредит."
+      }
+    ],
+    "colloc": "unemployment rate"
+  },
+  {
+    "word": "union",
+    "lemma": "union",
+    "ipa": "/ˈjunjən/",
+    "pos": "noun",
+    "tr": "союз",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Join a labor union.",
+        "ru": "Вступи в профсоюз."
+      },
+      {
+        "en": "European Union debated rules.",
+        "ru": "Евросоюз обсуждал правила."
+      },
+      {
+        "en": "Union membership rose.",
+        "ru": "Членство в союзе выросло."
+      }
+    ],
+    "colloc": "trade union"
+  },
+  {
+    "word": "unity",
+    "lemma": "unity",
+    "ipa": "/ˈjunɪti/",
+    "pos": "noun",
+    "tr": "единство",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Call for national unity.",
+        "ru": "Призови к национальному единству."
+      },
+      {
+        "en": "Team unity won games.",
+        "ru": "Командное единство выиграло игры."
+      },
+      {
+        "en": "Religious unity is rare.",
+        "ru": "Религиозное единство редко."
+      }
+    ],
+    "colloc": "unity of"
+  },
+  {
+    "word": "universe",
+    "lemma": "universe",
+    "ipa": "/ˈjunəˌvərs/",
+    "pos": "noun",
+    "tr": "вселенная",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Explore the universe.",
+        "ru": "Исследуй вселенную."
+      },
+      {
+        "en": "Parallel universe theories abound.",
+        "ru": "Теорий параллельных вселенных полно."
+      },
+      {
+        "en": "Expand your mental universe.",
+        "ru": "Расширь ментальную вселенную."
+      }
+    ],
+    "colloc": "known universe"
+  },
+  {
+    "word": "usage",
+    "lemma": "usage",
+    "ipa": "/ˈjusɪʤ/",
+    "pos": "noun",
+    "tr": "использование",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Track data usage.",
+        "ru": "Отслеживай использование данных."
+      },
+      {
+        "en": "Correct usage matters.",
+        "ru": "Правильное использование важно."
+      },
+      {
+        "en": "Water usage fell.",
+        "ru": "Использование воды упало."
+      }
+    ],
+    "colloc": "usage of"
+  },
+  {
+    "word": "utility",
+    "lemma": "utility",
+    "ipa": "/juˈtɪləti/",
+    "pos": "noun",
+    "tr": "коммунальная служба",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Pay utility bills on time.",
+        "ru": "Плати коммуналку вовремя."
+      },
+      {
+        "en": "Public utilities need investment.",
+        "ru": "Коммунальные службы нуждаются в инвестициях."
+      },
+      {
+        "en": "Tool utility varies.",
+        "ru": "Полезность инструмента различается."
+      }
+    ],
+    "colloc": "utility company"
+  },
+  {
+    "word": "van",
+    "lemma": "van",
+    "ipa": "/væn/",
+    "pos": "noun",
+    "tr": "фургон",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Load the delivery van.",
+        "ru": "Загрузи фургон доставки."
+      },
+      {
+        "en": "Park the van carefully.",
+        "ru": "Осторожно припаркуй фургон."
+      },
+      {
+        "en": "Camper vans lined beaches.",
+        "ru": "Кемперы стояли вдоль пляжей."
+      }
+    ],
+    "colloc": "cargo van"
+  },
+  {
+    "word": "variation",
+    "lemma": "variation",
+    "ipa": "/ˌvɛriˈeɪʃən/",
+    "pos": "noun",
+    "tr": "вариация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Genetic variation aids survival.",
+        "ru": "Генетическая вариация помогает выживанию."
+      },
+      {
+        "en": "Price variation confused buyers.",
+        "ru": "Вариация цен запутала покупателей."
+      },
+      {
+        "en": "Slight variation is normal.",
+        "ru": "Лёгкая вариация нормальна."
+      }
+    ],
+    "colloc": "variation in"
+  },
+  {
+    "word": "venue",
+    "lemma": "venue",
+    "ipa": "/ˈvɛnju/",
+    "pos": "noun",
+    "tr": "площадка",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Book a wedding venue.",
+        "ru": "Забронируй площадку для свадьбы."
+      },
+      {
+        "en": "Concert venues sold out.",
+        "ru": "Концертные площадки распроданы."
+      },
+      {
+        "en": "Change the meeting venue.",
+        "ru": "Смени площадку встречи."
+      }
+    ],
+    "colloc": "venue for"
+  },
+  {
+    "word": "victory",
+    "lemma": "victory",
+    "ipa": "/ˈvɪktəri/",
+    "pos": "noun",
+    "tr": "победа",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Celebrate a hard victory.",
+        "ru": "Отметь тяжёлую победу."
+      },
+      {
+        "en": "Narrow victory surprised polls.",
+        "ru": "Узкая победа удивила опросы."
+      },
+      {
+        "en": "Victory comes with duty.",
+        "ru": "Победа идёт с обязанностью."
+      }
+    ],
+    "colloc": "victory over"
+  },
+  {
+    "word": "viewpoint",
+    "lemma": "viewpoint",
+    "ipa": "/vˈjuˌpɔɪnt/",
+    "pos": "noun",
+    "tr": "точка зрения",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Respect another viewpoint.",
+        "ru": "Уважай другую точку зрения."
+      },
+      {
+        "en": "Share your viewpoint calmly.",
+        "ru": "Спокойно поделись точкой зрения."
+      },
+      {
+        "en": "Multiple viewpoints enrich debate.",
+        "ru": "Множество точек зрения обогащают спор."
+      }
+    ],
+    "colloc": "from the viewpoint of"
+  },
+  {
+    "word": "violence",
+    "lemma": "violence",
+    "ipa": "/ˈvaɪələns/",
+    "pos": "noun",
+    "tr": "насилие",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Condemn domestic violence.",
+        "ru": "Осуди домашнее насилие."
+      },
+      {
+        "en": "Gun violence divides opinion.",
+        "ru": "Оружейное насилие делит мнения."
+      },
+      {
+        "en": "Reduce media violence.",
+        "ru": "Снизь насилие в СМИ."
+      }
+    ],
+    "colloc": "act of violence"
+  },
+  {
+    "word": "visa",
+    "lemma": "visa",
+    "ipa": "/ˈvizə/",
+    "pos": "noun",
+    "tr": "виза",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Apply for a work visa.",
+        "ru": "Подай на рабочую визу."
+      },
+      {
+        "en": "Visa rules tightened.",
+        "ru": "Визовые правила ужесточились."
+      },
+      {
+        "en": "Extend your tourist visa.",
+        "ru": "Продли туристическую визу."
+      }
+    ],
+    "colloc": "visa application"
+  },
+  {
+    "word": "vision",
+    "lemma": "vision",
+    "ipa": "/ˈvɪʒən/",
+    "pos": "noun",
+    "tr": "зрение / видение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Protect your vision.",
+        "ru": "Защищай зрение."
+      },
+      {
+        "en": "Share a company vision.",
+        "ru": "Поделись видением компании."
+      },
+      {
+        "en": "Night vision failed.",
+        "ru": "Ночное зрение подвело."
+      }
+    ],
+    "colloc": "vision of"
+  },
+  {
+    "word": "vitamin",
+    "lemma": "vitamin",
+    "ipa": "/ˈvaɪtəmən/",
+    "pos": "noun",
+    "tr": "витамин",
+    "bucket": "food",
+    "examples": [
+      {
+        "en": "Take a vitamin daily.",
+        "ru": "Принимай витамин ежедневно."
+      },
+      {
+        "en": "Vitamin D comes from sun.",
+        "ru": "Витамин D приходит от солнца."
+      },
+      {
+        "en": "Fresh fruit provides vitamins.",
+        "ru": "Свежие фрукты дают витамины."
+      }
+    ],
+    "colloc": "vitamin deficiency"
+  },
+  {
+    "word": "volume",
+    "lemma": "volume",
+    "ipa": "/ˈvɑljum/",
+    "pos": "noun",
+    "tr": "громкость / том",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Lower the volume.",
+        "ru": "Сделай громкость тише."
+      },
+      {
+        "en": "Sales volume rose.",
+        "ru": "Объём продаж вырос."
+      },
+      {
+        "en": "Read volume three.",
+        "ru": "Читай третий том."
+      }
+    ],
+    "colloc": "volume of"
+  },
+  {
+    "word": "voting",
+    "lemma": "voting",
+    "ipa": "/ˈvoʊtɪŋ/",
+    "pos": "noun",
+    "tr": "голосование",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Early voting begins Monday.",
+        "ru": "Досрочное голосование начинается в понедельник."
+      },
+      {
+        "en": "Voting rights matter.",
+        "ru": "Избирательные права важны."
+      },
+      {
+        "en": "Online voting raised concerns.",
+        "ru": "Онлайн-голосование вызвало опасения."
+      }
+    ],
+    "colloc": "voting booth"
+  },
+  {
+    "word": "wage",
+    "lemma": "wage",
+    "ipa": "/weɪʤ/",
+    "pos": "noun",
+    "tr": "зарплата",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Raise the minimum wage.",
+        "ru": "Подними минимальную зарплату."
+      },
+      {
+        "en": "Living wages reduce poverty.",
+        "ru": "Прожиточный минимум снижает бедность."
+      },
+      {
+        "en": "Wage gaps persist.",
+        "ru": "Разрывы в зарплате сохраняются."
+      }
+    ],
+    "colloc": "hourly wage"
+  },
+  {
+    "word": "warming",
+    "lemma": "warming",
+    "ipa": "/ˈwɔrmɪŋ/",
+    "pos": "noun",
+    "tr": "потепление",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Global warming accelerates.",
+        "ru": "Глобальное потепление ускоряется."
+      },
+      {
+        "en": "Warming oceans threaten reefs.",
+        "ru": "Теплеющие океаны угрожают рифам."
+      },
+      {
+        "en": "Fight planetary warming.",
+        "ru": "Борись с планетарным потеплением."
+      }
+    ],
+    "colloc": "global warming"
+  },
+  {
+    "word": "weakness",
+    "lemma": "weakness",
+    "ipa": "/ˈwiknəs/",
+    "pos": "noun",
+    "tr": "слабость",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Admit a real weakness.",
+        "ru": "Признай реальную слабость."
+      },
+      {
+        "en": "Structural weakness caused collapse.",
+        "ru": "Структурная слабость вызвала обрушение."
+      },
+      {
+        "en": "Exploit no one's weakness.",
+        "ru": "Не эксплуатируй ничью слабость."
+      }
+    ],
+    "colloc": "weakness for"
+  },
+  {
+    "word": "wealth",
+    "lemma": "wealth",
+    "ipa": "/wɛlθ/",
+    "pos": "noun",
+    "tr": "богатство",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Share national wealth fairly.",
+        "ru": "Дели национальное богатство справедливо."
+      },
+      {
+        "en": "Wealth inequality grew.",
+        "ru": "Неравенство богатства выросло."
+      },
+      {
+        "en": "True wealth includes health.",
+        "ru": "Истинное богатство включает здоровье."
+      }
+    ],
+    "colloc": "wealth of"
+  },
+  {
+    "word": "welfare",
+    "lemma": "welfare",
+    "ipa": "/ˈwɛlˌfɛr/",
+    "pos": "noun",
+    "tr": "благосостояние",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Expand child welfare.",
+        "ru": "Расширь детское благосостояние."
+      },
+      {
+        "en": "On welfare temporarily.",
+        "ru": "Временно на пособии."
+      },
+      {
+        "en": "Animal welfare laws matter.",
+        "ru": "Законы о благополучии животных важны."
+      }
+    ],
+    "colloc": "social welfare"
+  },
+  {
+    "word": "wheat",
+    "lemma": "wheat",
+    "ipa": "/wit/",
+    "pos": "noun",
+    "tr": "пшеница",
+    "bucket": "food",
+    "examples": [
+      {
+        "en": "Harvest winter wheat.",
+        "ru": "Собери озимую пшеницу."
+      },
+      {
+        "en": "Wheat prices jumped.",
+        "ru": "Цены на пшеницу скакнули."
+      },
+      {
+        "en": "Whole wheat bread is healthier.",
+        "ru": "Цельнозерновой хлеб полезнее."
+      }
+    ],
+    "colloc": "wheat field"
+  },
+  {
+    "word": "wildlife",
+    "lemma": "wildlife",
+    "ipa": "/ˈwaɪlˌdlaɪf/",
+    "pos": "noun",
+    "tr": "дикая природа",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Protect local wildlife.",
+        "ru": "Защищай местную дикую природу."
+      },
+      {
+        "en": "Wildlife crossings save animals.",
+        "ru": "Переходы для дикой природы спасают животных."
+      },
+      {
+        "en": "Photograph wildlife carefully.",
+        "ru": "Осторожно фотографируй дикую природу."
+      }
+    ],
+    "colloc": "wildlife habitat"
+  },
+  {
+    "word": "wire",
+    "lemma": "wire",
+    "ipa": "/waɪər/",
+    "pos": "noun",
+    "tr": "провод",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Fix the broken wire.",
+        "ru": "Почини оборванный провод."
+      },
+      {
+        "en": "Wire money carefully.",
+        "ru": "Осторожно переведи деньги."
+      },
+      {
+        "en": "Behind-the-wire stories emerged.",
+        "ru": "Истории из-за ограждения появились."
+      }
+    ],
+    "colloc": "wire transfer"
+  },
+  {
+    "word": "wisdom",
+    "lemma": "wisdom",
+    "ipa": "/ˈwɪzdəm/",
+    "pos": "noun",
+    "tr": "мудрость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Seek elder wisdom.",
+        "ru": "Ищи мудрость старших."
+      },
+      {
+        "en": "Conventional wisdom failed.",
+        "ru": "Общепринятая мудрость подвела."
+      },
+      {
+        "en": "Wisdom grows with mistakes.",
+        "ru": "Мудрость растёт с ошибками."
+      }
+    ],
+    "colloc": "words of wisdom"
+  },
+  {
+    "word": "witness",
+    "lemma": "witness",
+    "ipa": "/ˈwɪtnəs/",
+    "pos": "noun",
+    "tr": "свидетель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Call a key witness.",
+        "ru": "Вызови ключевого свидетеля."
+      },
+      {
+        "en": "Witnesses contradicted each other.",
+        "ru": "Свидетели противоречили друг другу."
+      },
+      {
+        "en": "Be a witness to history.",
+        "ru": "Будь свидетелем истории."
+      }
+    ],
+    "colloc": "eyewitness"
+  },
+  {
+    "word": "wolf",
+    "lemma": "wolf",
+    "ipa": "/wʊlf/",
+    "pos": "noun",
+    "tr": "волк",
+    "bucket": "animal",
+    "examples": [
+      {
+        "en": "Wolves hunt in packs.",
+        "ru": "Волки охотятся стаями."
+      },
+      {
+        "en": "Cry wolf too often.",
+        "ru": "Слишком часто кричи «волки»."
+      },
+      {
+        "en": "Lone wolf operators worry security.",
+        "ru": "Одиночки-волки тревожат безопасность."
+      }
+    ],
+    "colloc": "wolf pack"
+  },
+  {
+    "word": "workforce",
+    "lemma": "workforce",
+    "ipa": "/ˈwərkˌfɔrs/",
+    "pos": "noun",
+    "tr": "рабочая сила",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Retrain the workforce.",
+        "ru": "Переобучи рабочую силу."
+      },
+      {
+        "en": "Aging workforce needs support.",
+        "ru": "Стареющая рабочая сила нуждается в поддержке."
+      },
+      {
+        "en": "Diversify the workforce.",
+        "ru": "Диверсифицируй рабочую силу."
+      }
+    ],
+    "colloc": "workforce development"
+  },
+  {
+    "word": "workplace",
+    "lemma": "workplace",
+    "ipa": "/ˈwərkˌpleɪs/",
+    "pos": "noun",
+    "tr": "рабочее место",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Improve workplace safety.",
+        "ru": "Улучши безопасность на работе."
+      },
+      {
+        "en": "Remote workplace tools help.",
+        "ru": "Инструменты удалённого рабочего места помогают."
+      },
+      {
+        "en": "Harassment-free workplaces matter.",
+        "ru": "Рабочие места без домогательств важны."
+      }
+    ],
+    "colloc": "workplace culture"
+  },
+  {
+    "word": "workshop",
+    "lemma": "workshop",
+    "ipa": "/ˈwərkˌʃɑp/",
+    "pos": "noun",
+    "tr": "мастерская",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Attend a writing workshop.",
+        "ru": "Посети писательский воркшоп."
+      },
+      {
+        "en": "Auto workshops fixed cars.",
+        "ru": "Автомастерские чинили машины."
+      },
+      {
+        "en": "Host a skills workshop.",
+        "ru": "Проведи воркшоп навыков."
+      }
+    ],
+    "colloc": "workshop on"
+  },
+  {
+    "word": "worm",
+    "lemma": "worm",
+    "ipa": "/wərm/",
+    "pos": "noun",
+    "tr": "червь",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Earthworms enrich soil.",
+        "ru": "Дождевые черви обогащают почву."
+      },
+      {
+        "en": "Computer worms spread fast.",
+        "ru": "Компьютерные черви быстро распространяются."
+      },
+      {
+        "en": "Bookworms fill libraries.",
+        "ru": "Книжные черви заполняют библиотеки."
+      }
+    ],
+    "colloc": "worm of"
+  },
+  {
+    "word": "worth",
+    "lemma": "worth",
+    "ipa": "/wərθ/",
+    "pos": "noun",
+    "tr": "ценность",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Know your self-worth.",
+        "ru": "Знай свою самоценность."
+      },
+      {
+        "en": "Net worth rose.",
+        "ru": "Чистая стоимость выросла."
+      },
+      {
+        "en": "Art of great worth.",
+        "ru": "Искусство большой ценности."
+      }
+    ],
+    "colloc": "worth of"
+  },
+  {
+    "word": "wound",
+    "lemma": "wound",
+    "ipa": "/wund/",
+    "pos": "noun",
+    "tr": "рана",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Clean the wound carefully.",
+        "ru": "Осторожно очисти рану."
+      },
+      {
+        "en": "Old wounds reopen.",
+        "ru": "Старые раны открываются."
+      },
+      {
+        "en": "Heal emotional wounds.",
+        "ru": "Исцели эмоциональные раны."
+      }
+    ],
+    "colloc": "wound of"
+  },
+  {
+    "word": "wrist",
+    "lemma": "wrist",
+    "ipa": "/rɪst/",
+    "pos": "noun",
+    "tr": "запястье",
+    "bucket": "body",
+    "examples": [
+      {
+        "en": "Wear a watch on your wrist.",
+        "ru": "Носи часы на запястье."
+      },
+      {
+        "en": "Wrist injuries need rest.",
+        "ru": "Травмы запястья нуждаются в покое."
+      },
+      {
+        "en": "Slap a band on the wrist.",
+        "ru": "Надень браслет на запястье."
+      }
+    ],
+    "colloc": "wrist pain"
+  },
+  {
+    "word": "zone",
+    "lemma": "zone",
+    "ipa": "/zoʊn/",
+    "pos": "noun",
+    "tr": "зона",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Enter a quiet zone.",
+        "ru": "Войди в тихую зону."
+      },
+      {
+        "en": "Time zones confuse travelers.",
+        "ru": "Часовые пояса путают путешественников."
+      },
+      {
+        "en": "Comfort zone limits growth.",
+        "ru": "Зона комфорта ограничивает рост."
+      }
+    ],
+    "colloc": "zone of"
+  }
+]

@@ -1,0 +1,1798 @@
+[
+  {
+    "word": "acknowledge",
+    "lemma": "acknowledge",
+    "ipa": "/ækˈnɑlɪʤ/",
+    "pos": "verb",
+    "tr": "признавать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Acknowledge the risk openly.",
+        "ru": "Открыто признай риск."
+      },
+      {
+        "en": "She acknowledged his contribution.",
+        "ru": "Она признала его вклад."
+      },
+      {
+        "en": "I acknowledge receipt of your letter.",
+        "ru": "Подтверждаю получение вашего письма."
+      }
+    ],
+    "colloc": "acknowledge receipt · acknowledge that",
+    "note": "false friend: не «знать»",
+    "pattern": "acknowledge + that/N",
+    "exRu": "Открыто признай риск.",
+    "ex": "Acknowledge the risk openly."
+  },
+  {
+    "word": "acquire",
+    "lemma": "acquire",
+    "ipa": "/əkˈwaɪər/",
+    "pos": "verb",
+    "tr": "приобретать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Acquire new skills at work.",
+        "ru": "Приобретай новые навыки на работе."
+      },
+      {
+        "en": "The museum acquired a rare painting.",
+        "ru": "Музей приобрёл редкую картину."
+      },
+      {
+        "en": "Companies acquire startups to grow.",
+        "ru": "Компании приобретают стартапы для роста."
+      }
+    ],
+    "colloc": "acquire skills · acquire a company",
+    "pattern": "acquire + N",
+    "exRu": "Приобретай новые навыки на работе.",
+    "ex": "Acquire new skills at work."
+  },
+  {
+    "word": "activate",
+    "lemma": "activate",
+    "ipa": "/ˈæktəˌveɪt/",
+    "pos": "verb",
+    "tr": "активировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Activate your account by email.",
+        "ru": "Активируй аккаунт по электронной почте."
+      },
+      {
+        "en": "Sensors activate when doors open.",
+        "ru": "Датчики срабатывают при открытии дверей."
+      },
+      {
+        "en": "Activate the alarm before leaving.",
+        "ru": "Включи сигнализацию перед уходом."
+      }
+    ],
+    "colloc": "activate an account · activate a device",
+    "pattern": "activate + N",
+    "exRu": "Активируй аккаунт по электронной почте.",
+    "ex": "Activate your account by email."
+  },
+  {
+    "word": "adhere",
+    "lemma": "adhere",
+    "ipa": "/əˈdhɪr/",
+    "pos": "verb",
+    "tr": "придерживаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Adhere to the safety rules.",
+        "ru": "Придерживайся правил безопасности."
+      },
+      {
+        "en": "The sticker adheres poorly to glass.",
+        "ru": "Наклейка плохо пристаёт к стеклу."
+      },
+      {
+        "en": "Teams must adhere to the deadline.",
+        "ru": "Команды должны соблюдать дедлайн."
+      }
+    ],
+    "colloc": "adhere to rules",
+    "pattern": "adhere to + N",
+    "exRu": "Придерживайся правил безопасности.",
+    "ex": "Adhere to the safety rules."
+  },
+  {
+    "word": "administer",
+    "lemma": "administer",
+    "ipa": "/ədˈmɪnɪstər/",
+    "pos": "verb",
+    "tr": "управлять / вводить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Nurses administer the vaccine.",
+        "ru": "Медсёстры вводят вакцину."
+      },
+      {
+        "en": "He administers a small charity.",
+        "ru": "Он управляет небольшой благотворительной организацией."
+      },
+      {
+        "en": "Schools administer standardized tests.",
+        "ru": "Школы проводят стандартизированные тесты."
+      }
+    ],
+    "colloc": "administer a test · administer aid",
+    "pattern": "administer + N",
+    "exRu": "Медсёстры вводят вакцину.",
+    "ex": "Nurses administer the vaccine."
+  },
+  {
+    "word": "alert",
+    "lemma": "alert",
+    "ipa": "/əˈlərt/",
+    "pos": "verb",
+    "tr": "тревожить / предупреждать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Alert the team about the delay.",
+        "ru": "Предупреди команду о задержке."
+      },
+      {
+        "en": "Sensors alert staff to smoke.",
+        "ru": "Датчики предупреждают персонал о дыме."
+      },
+      {
+        "en": "Please alert me if plans change.",
+        "ru": "Пожалуйста, предупреди меня, если планы изменятся."
+      }
+    ],
+    "colloc": "alert someone to",
+    "pattern": "alert + N + to",
+    "exRu": "Предупреди команду о задержке.",
+    "ex": "Alert the team about the delay."
+  },
+  {
+    "word": "align",
+    "lemma": "align",
+    "ipa": "/əˈlaɪn/",
+    "pos": "verb",
+    "tr": "выравнивать / согласовывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Align the text to the left.",
+        "ru": "Выровняй текст по левому краю."
+      },
+      {
+        "en": "Align goals with company values.",
+        "ru": "Согласуй цели с ценностями компании."
+      },
+      {
+        "en": "Their stories do not align.",
+        "ru": "Их истории не сходятся."
+      }
+    ],
+    "colloc": "align with · align to",
+    "pattern": "align + N + with",
+    "exRu": "Выровняй текст по левому краю.",
+    "ex": "Align the text to the left."
+  },
+  {
+    "word": "allocate",
+    "lemma": "allocate",
+    "ipa": "/ˈæləˌkeɪt/",
+    "pos": "verb",
+    "tr": "распределять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Allocate time for deep work.",
+        "ru": "Выдели время для глубокой работы."
+      },
+      {
+        "en": "Funds were allocated to schools.",
+        "ru": "Средства распределили школам."
+      },
+      {
+        "en": "Managers allocate tasks fairly.",
+        "ru": "Менеджеры справедливо распределяют задачи."
+      }
+    ],
+    "colloc": "allocate resources · allocate to",
+    "pattern": "allocate + N + to",
+    "exRu": "Выдели время для глубокой работы.",
+    "ex": "Allocate time for deep work."
+  },
+  {
+    "word": "amend",
+    "lemma": "amend",
+    "ipa": "/əˈmɛnd/",
+    "pos": "verb",
+    "tr": "вносить поправки",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Amend the contract carefully.",
+        "ru": "Осторожно внеси поправки в контракт."
+      },
+      {
+        "en": "Lawmakers amended the bill.",
+        "ru": "Законодатели внесли поправки в законопроект."
+      },
+      {
+        "en": "Please amend your application.",
+        "ru": "Пожалуйста, исправь заявку."
+      }
+    ],
+    "colloc": "amend a law · amend a document",
+    "pattern": "amend + N",
+    "exRu": "Осторожно внеси поправки в контракт.",
+    "ex": "Amend the contract carefully."
+  },
+  {
+    "word": "articulate",
+    "lemma": "articulate",
+    "ipa": "/ɑrˈtɪkjəˌleɪt/",
+    "pos": "verb",
+    "tr": "чётко выражать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Articulate your concerns clearly.",
+        "ru": "Чётко сформулируй свои опасения."
+      },
+      {
+        "en": "She articulated a complex idea.",
+        "ru": "Она чётко выразила сложную идею."
+      },
+      {
+        "en": "He struggles to articulate feelings.",
+        "ru": "Ему трудно выражать чувства."
+      }
+    ],
+    "colloc": "articulate an idea",
+    "pattern": "articulate + N",
+    "exRu": "Чётко сформулируй свои опасения.",
+    "ex": "Articulate your concerns clearly."
+  },
+  {
+    "word": "aspire",
+    "lemma": "aspire",
+    "ipa": "/əˈspaɪr/",
+    "pos": "verb",
+    "tr": "стремиться",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Aspire to higher standards.",
+        "ru": "Стремись к более высоким стандартам."
+      },
+      {
+        "en": "She aspires to become a surgeon.",
+        "ru": "Она стремится стать хирургом."
+      },
+      {
+        "en": "Young writers aspire to publish.",
+        "ru": "Молодые писатели стремятся публиковаться."
+      }
+    ],
+    "colloc": "aspire to · aspire after",
+    "pattern": "aspire to + N/V",
+    "exRu": "Стремись к более высоким стандартам.",
+    "ex": "Aspire to higher standards."
+  },
+  {
+    "word": "attribute",
+    "lemma": "attribute",
+    "ipa": "/əˈtrɪˌbjut/",
+    "pos": "verb",
+    "tr": "приписывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Attribute success to teamwork.",
+        "ru": "Припиши успех командной работе."
+      },
+      {
+        "en": "Critics attributed the delay to weather.",
+        "ru": "Критики связали задержку с погодой."
+      },
+      {
+        "en": "Don't attribute motives without evidence.",
+        "ru": "Не приписывай мотивы без доказательств."
+      }
+    ],
+    "colloc": "attribute to",
+    "pattern": "attribute + N + to",
+    "exRu": "Припиши успех командной работе.",
+    "ex": "Attribute success to teamwork."
+  },
+  {
+    "word": "circulate",
+    "lemma": "circulate",
+    "ipa": "/ˈsərkjəˌleɪt/",
+    "pos": "verb",
+    "tr": "циркулировать / распространять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Rumors circulate quickly online.",
+        "ru": "Слухи быстро циркулируют онлайн."
+      },
+      {
+        "en": "Circulate the agenda before Monday.",
+        "ru": "Распространи повестку до понедельника."
+      },
+      {
+        "en": "Blood circulates through the body.",
+        "ru": "Кровь циркулирует по телу."
+      }
+    ],
+    "colloc": "circulate rumors · circulate a document",
+    "pattern": "circulate + N",
+    "exRu": "Слухи быстро циркулируют онлайн.",
+    "ex": "Rumors circulate quickly online."
+  },
+  {
+    "word": "coincide",
+    "lemma": "coincide",
+    "ipa": "/ˌkoʊɪnˈsaɪd/",
+    "pos": "verb",
+    "tr": "совпадать",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Our breaks coincide today.",
+        "ru": "Наши перерывы сегодня совпадают."
+      },
+      {
+        "en": "The announcement coincided with elections.",
+        "ru": "Объявление совпало с выборами."
+      },
+      {
+        "en": "Their views rarely coincide.",
+        "ru": "Их взгляды редко совпадают."
+      }
+    ],
+    "colloc": "coincide with",
+    "pattern": "coincide with + N",
+    "exRu": "Наши перерывы сегодня совпадают.",
+    "ex": "Our breaks coincide today."
+  },
+  {
+    "word": "collaborate",
+    "lemma": "collaborate",
+    "ipa": "/kəˈlæbərˌeɪt/",
+    "pos": "verb",
+    "tr": "сотрудничать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Collaborate across departments.",
+        "ru": "Сотрудничай между отделами."
+      },
+      {
+        "en": "Artists collaborated on the mural.",
+        "ru": "Художники вместе работали над муралом."
+      },
+      {
+        "en": "We collaborate with local NGOs.",
+        "ru": "Мы сотрудничаем с местными НКО."
+      }
+    ],
+    "colloc": "collaborate with · collaborate on",
+    "pattern": "collaborate with/on",
+    "exRu": "Сотрудничай между отделами.",
+    "ex": "Collaborate across departments."
+  },
+  {
+    "word": "comply",
+    "lemma": "comply",
+    "ipa": "/kəmˈplaɪ/",
+    "pos": "verb",
+    "tr": "соблюдать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Comply with local regulations.",
+        "ru": "Соблюдай местные правила."
+      },
+      {
+        "en": "Companies must comply or pay fines.",
+        "ru": "Компании должны соблюдать или платить штрафы."
+      },
+      {
+        "en": "He refused to comply with the order.",
+        "ru": "Он отказался подчиниться приказу."
+      }
+    ],
+    "colloc": "comply with",
+    "pattern": "comply with + N",
+    "exRu": "Соблюдай местные правила.",
+    "ex": "Comply with local regulations."
+  },
+  {
+    "word": "compute",
+    "lemma": "compute",
+    "ipa": "/kəmˈpjut/",
+    "pos": "verb",
+    "tr": "вычислять",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Compute the total cost.",
+        "ru": "Вычисли общую стоимость."
+      },
+      {
+        "en": "The chip computes results fast.",
+        "ru": "Чип быстро вычисляет результаты."
+      },
+      {
+        "en": "Students compute averages by hand.",
+        "ru": "Студенты считают средние вручную."
+      }
+    ],
+    "colloc": "compute a value",
+    "pattern": "compute + N",
+    "exRu": "Вычисли общую стоимость.",
+    "ex": "Compute the total cost."
+  },
+  {
+    "word": "correlate",
+    "lemma": "correlate",
+    "ipa": "/ˈkɔrəˌleɪt/",
+    "pos": "verb",
+    "tr": "коррелировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Scores correlate with practice time.",
+        "ru": "Оценки коррелируют с временем практики."
+      },
+      {
+        "en": "Does stress correlate with illness?",
+        "ru": "Коррелирует ли стресс с болезнью?"
+      },
+      {
+        "en": "The variables correlate strongly.",
+        "ru": "Переменные сильно коррелируют."
+      }
+    ],
+    "colloc": "correlate with",
+    "pattern": "correlate with + N",
+    "exRu": "Оценки коррелируют с временем практики.",
+    "ex": "Scores correlate with practice time."
+  },
+  {
+    "word": "date",
+    "lemma": "date",
+    "ipa": "/deɪt/",
+    "pos": "verb",
+    "tr": "датировать / встречаться",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Archaeologists date the pottery.",
+        "ru": "Археологи датируют керамику."
+      },
+      {
+        "en": "They have been dating for a year.",
+        "ru": "Они встречаются уже год."
+      },
+      {
+        "en": "Can I date this manuscript?",
+        "ru": "Могу ли я датировать эту рукопись?"
+      }
+    ],
+    "colloc": "date back to · date someone",
+    "note": "AmE: date = встречаться",
+    "pattern": "date + N",
+    "exRu": "Археологи датируют керамику.",
+    "ex": "Archaeologists date the pottery."
+  },
+  {
+    "word": "declare",
+    "lemma": "declare",
+    "ipa": "/dɪˈklɛr/",
+    "pos": "verb",
+    "tr": "объявлять",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Declare your income honestly.",
+        "ru": "Честно укажи доход."
+      },
+      {
+        "en": "The mayor declared a holiday.",
+        "ru": "Мэр объявил выходной."
+      },
+      {
+        "en": "He declared his intention to resign.",
+        "ru": "Он заявил о намерении уйти."
+      }
+    ],
+    "colloc": "declare war · declare that",
+    "pattern": "declare + N/that",
+    "exRu": "Честно укажи доход.",
+    "ex": "Declare your income honestly."
+  },
+  {
+    "word": "decorate",
+    "lemma": "decorate",
+    "ipa": "/ˈdɛkərˌeɪt/",
+    "pos": "verb",
+    "tr": "украшать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Decorate the room for the party.",
+        "ru": "Укрась комнату к вечеринке."
+      },
+      {
+        "en": "They decorated the cake with fruit.",
+        "ru": "Они украсили торт фруктами."
+      },
+      {
+        "en": "Soldiers decorate veterans for bravery.",
+        "ru": "Солдаты награждают ветеранов за храбрость."
+      }
+    ],
+    "colloc": "decorate with · decorate for",
+    "pattern": "decorate + N",
+    "exRu": "Укрась комнату к вечеринке.",
+    "ex": "Decorate the room for the party."
+  },
+  {
+    "word": "deem",
+    "lemma": "deem",
+    "ipa": "/dim/",
+    "pos": "verb",
+    "tr": "считать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They deem the plan unrealistic.",
+        "ru": "Они считают план нереалистичным."
+      },
+      {
+        "en": "The court deemed it necessary.",
+        "ru": "Суд счёл это необходимым."
+      },
+      {
+        "en": "I deem this evidence insufficient.",
+        "ru": "Я считаю эти доказательства недостаточными."
+      }
+    ],
+    "colloc": "deem necessary · deem that",
+    "pattern": "deem + N + adj",
+    "exRu": "Они считают план нереалистичным.",
+    "ex": "They deem the plan unrealistic."
+  },
+  {
+    "word": "defend",
+    "lemma": "defend",
+    "ipa": "/dɪˈfɛnd/",
+    "pos": "verb",
+    "tr": "защищать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Defend your thesis calmly.",
+        "ru": "Спокойно защищай диссертацию."
+      },
+      {
+        "en": "Lawyers defend their clients.",
+        "ru": "Адвокаты защищают клиентов."
+      },
+      {
+        "en": "Soldiers defended the bridge.",
+        "ru": "Солдаты защищали мост."
+      }
+    ],
+    "colloc": "defend against · defend a title",
+    "pattern": "defend + N",
+    "exRu": "Спокойно защищай диссертацию.",
+    "ex": "Defend your thesis calmly."
+  },
+  {
+    "word": "defy",
+    "lemma": "defy",
+    "ipa": "/dɪˈfaɪ/",
+    "pos": "verb",
+    "tr": "бросать вызов",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Defy outdated expectations.",
+        "ru": "Брось вызов устаревшим ожиданиям."
+      },
+      {
+        "en": "The results defy explanation.",
+        "ru": "Результаты не поддаются объяснению."
+      },
+      {
+        "en": "Protesters defied the ban.",
+        "ru": "Протестующие бросили вызов запрету."
+      }
+    ],
+    "colloc": "defy logic · defy an order",
+    "pattern": "defy + N",
+    "exRu": "Брось вызов устаревшим ожиданиям.",
+    "ex": "Defy outdated expectations."
+  },
+  {
+    "word": "demonstrate",
+    "lemma": "demonstrate",
+    "ipa": "/ˈdɛmənˌstreɪt/",
+    "pos": "verb",
+    "tr": "демонстрировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Demonstrate the new feature.",
+        "ru": "Продемонстрируй новую функцию."
+      },
+      {
+        "en": "Students demonstrated against cuts.",
+        "ru": "Студенты протестовали против сокращений."
+      },
+      {
+        "en": "Data demonstrate a clear trend.",
+        "ru": "Данные демонстрируют ясный тренд."
+      }
+    ],
+    "colloc": "demonstrate that · demonstrate against",
+    "pattern": "demonstrate + N/that",
+    "exRu": "Продемонстрируй новую функцию.",
+    "ex": "Demonstrate the new feature."
+  },
+  {
+    "word": "denounce",
+    "lemma": "denounce",
+    "ipa": "/dɪˈnaʊns/",
+    "pos": "verb",
+    "tr": "осуждать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Leaders denounced the violence.",
+        "ru": "Лидеры осудили насилие."
+      },
+      {
+        "en": "She denounced corruption publicly.",
+        "ru": "Она публично осудила коррупцию."
+      },
+      {
+        "en": "Activists denounce unfair labor.",
+        "ru": "Активисты осуждают несправедливый труд."
+      }
+    ],
+    "colloc": "denounce as",
+    "pattern": "denounce + N",
+    "exRu": "Лидеры осудили насилие.",
+    "ex": "Leaders denounced the violence."
+  },
+  {
+    "word": "deny",
+    "lemma": "deny",
+    "ipa": "/dɪˈnaɪ/",
+    "pos": "verb",
+    "tr": "отрицать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Don't deny the obvious facts.",
+        "ru": "Не отрицай очевидные факты."
+      },
+      {
+        "en": "He denied stealing the files.",
+        "ru": "Он отрицал кражу файлов."
+      },
+      {
+        "en": "The company denied all charges.",
+        "ru": "Компания отрицала все обвинения."
+      }
+    ],
+    "colloc": "deny responsibility · deny that",
+    "pattern": "deny + N/that/V-ing",
+    "exRu": "Не отрицай очевидные факты.",
+    "ex": "Don't deny the obvious facts."
+  },
+  {
+    "word": "depart",
+    "lemma": "depart",
+    "ipa": "/dɪˈpɑrt/",
+    "pos": "verb",
+    "tr": "отправляться",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Trains depart every hour.",
+        "ru": "Поезда отправляются каждый час."
+      },
+      {
+        "en": "She departed from tradition.",
+        "ru": "Она отошла от традиции."
+      },
+      {
+        "en": "Guests began to depart after dinner.",
+        "ru": "Гости начали уходить после ужина."
+      }
+    ],
+    "colloc": "depart from · depart for",
+    "pattern": "depart from/for",
+    "exRu": "Поезда отправляются каждый час.",
+    "ex": "Trains depart every hour."
+  },
+  {
+    "word": "depict",
+    "lemma": "depict",
+    "ipa": "/dɪˈpɪkt/",
+    "pos": "verb",
+    "tr": "изображать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The novel depicts rural life.",
+        "ru": "Роман изображает сельскую жизнь."
+      },
+      {
+        "en": "Charts depict rising costs.",
+        "ru": "Графики изображают рост затрат."
+      },
+      {
+        "en": "Artists depict emotion through color.",
+        "ru": "Художники изображают эмоции через цвет."
+      }
+    ],
+    "colloc": "depict as",
+    "pattern": "depict + N",
+    "exRu": "Роман изображает сельскую жизнь.",
+    "ex": "The novel depicts rural life."
+  },
+  {
+    "word": "deploy",
+    "lemma": "deploy",
+    "ipa": "/dɪˈplɔɪ/",
+    "pos": "verb",
+    "tr": "развёртывать",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Deploy the update overnight.",
+        "ru": "Разверни обновление ночью."
+      },
+      {
+        "en": "Troops were deployed near the border.",
+        "ru": "Войска развернули у границы."
+      },
+      {
+        "en": "We deploy sensors across the city.",
+        "ru": "Мы размещаем датчики по городу."
+      }
+    ],
+    "colloc": "deploy troops · deploy software",
+    "pattern": "deploy + N",
+    "exRu": "Разверни обновление ночью.",
+    "ex": "Deploy the update overnight."
+  },
+  {
+    "word": "deprive",
+    "lemma": "deprive",
+    "ipa": "/dɪˈpraɪv/",
+    "pos": "verb",
+    "tr": "лишать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't deprive kids of sleep.",
+        "ru": "Не лишай детей сна."
+      },
+      {
+        "en": "Poverty deprives people of choices.",
+        "ru": "Бедность лишает людей выбора."
+      },
+      {
+        "en": "He was deprived of his rights.",
+        "ru": "Его лишили прав."
+      }
+    ],
+    "colloc": "deprive of",
+    "pattern": "deprive + N + of",
+    "exRu": "Не лишай детей сна.",
+    "ex": "Don't deprive kids of sleep."
+  },
+  {
+    "word": "derive",
+    "lemma": "derive",
+    "ipa": "/dəraɪv/",
+    "pos": "verb",
+    "tr": "получать / происходить",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Derive joy from small wins.",
+        "ru": "Черпай радость из маленьких побед."
+      },
+      {
+        "en": "The word derives from Latin.",
+        "ru": "Слово происходит от латыни."
+      },
+      {
+        "en": "Scientists derive energy from waste.",
+        "ru": "Учёные получают энергию из отходов."
+      }
+    ],
+    "colloc": "derive from",
+    "pattern": "derive + N + from",
+    "exRu": "Черпай радость из маленьких побед.",
+    "ex": "Derive joy from small wins."
+  },
+  {
+    "word": "descend",
+    "lemma": "descend",
+    "ipa": "/dɪˈsɛnd/",
+    "pos": "verb",
+    "tr": "спускаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Descend the stairs carefully.",
+        "ru": "Осторожно спускайся по лестнице."
+      },
+      {
+        "en": "Fog descended on the valley.",
+        "ru": "Туман опустился на долину."
+      },
+      {
+        "en": "She is descended from immigrants.",
+        "ru": "Она происходит от иммигрантов."
+      }
+    ],
+    "colloc": "descend from · descend into",
+    "pattern": "descend from/into",
+    "exRu": "Осторожно спускайся по лестнице.",
+    "ex": "Descend the stairs carefully."
+  },
+  {
+    "word": "designate",
+    "lemma": "designate",
+    "ipa": "/ˈdɛzɪgˌneɪt/",
+    "pos": "verb",
+    "tr": "назначать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Designate a team leader.",
+        "ru": "Назначь тимлида."
+      },
+      {
+        "en": "This area is designated for parking.",
+        "ru": "Эта зона предназначена для парковки."
+      },
+      {
+        "en": "They designated Friday as a holiday.",
+        "ru": "Они назначили пятницу выходным."
+      }
+    ],
+    "colloc": "designate as · designate for",
+    "pattern": "designate + N + as",
+    "exRu": "Назначь тимлида.",
+    "ex": "Designate a team leader."
+  },
+  {
+    "word": "detain",
+    "lemma": "detain",
+    "ipa": "/dɪˈteɪn/",
+    "pos": "verb",
+    "tr": "задерживать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Police detained two suspects.",
+        "ru": "Полиция задержала двух подозреваемых."
+      },
+      {
+        "en": "Don't detain me with small talk.",
+        "ru": "Не задерживай меня светской беседой."
+      },
+      {
+        "en": "Travelers were detained at the border.",
+        "ru": "Путешественников задержали на границе."
+      }
+    ],
+    "colloc": "detain for questioning",
+    "pattern": "detain + N",
+    "exRu": "Полиция задержала двух подозреваемых.",
+    "ex": "Police detained two suspects."
+  },
+  {
+    "word": "detect",
+    "lemma": "detect",
+    "ipa": "/dɪˈtɛkt/",
+    "pos": "verb",
+    "tr": "обнаруживать",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Detect errors early in testing.",
+        "ru": "Обнаруживай ошибки рано на тестах."
+      },
+      {
+        "en": "Dogs can detect hidden explosives.",
+        "ru": "Собаки могут обнаруживать спрятанную взрывчатку."
+      },
+      {
+        "en": "Sensors detected unusual heat.",
+        "ru": "Датчики обнаружили необычное тепло."
+      }
+    ],
+    "colloc": "detect a problem · detect fraud",
+    "pattern": "detect + N",
+    "exRu": "Обнаруживай ошибки рано на тестах.",
+    "ex": "Detect errors early in testing."
+  },
+  {
+    "word": "deteriorate",
+    "lemma": "deteriorate",
+    "ipa": "/dɪˈtɪriərˌeɪt/",
+    "pos": "verb",
+    "tr": "ухудшаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Air quality can deteriorate fast.",
+        "ru": "Качество воздуха может быстро ухудшиться."
+      },
+      {
+        "en": "Relations deteriorated after the dispute.",
+        "ru": "Отношения ухудшились после спора."
+      },
+      {
+        "en": "His health deteriorated in winter.",
+        "ru": "Его здоровье ухудшилось зимой."
+      }
+    ],
+    "colloc": "deteriorate rapidly",
+    "pattern": "deteriorate",
+    "exRu": "Качество воздуха может быстро ухудшиться.",
+    "ex": "Air quality can deteriorate fast."
+  },
+  {
+    "word": "devastate",
+    "lemma": "devastate",
+    "ipa": "/ˈdɛvəˌsteɪt/",
+    "pos": "verb",
+    "tr": "опустошать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The storm devastated coastal towns.",
+        "ru": "Шторм опустошил прибрежные города."
+      },
+      {
+        "en": "Bad news devastated the family.",
+        "ru": "Плохие новости опустошили семью."
+      },
+      {
+        "en": "Budget cuts devastated the program.",
+        "ru": "Бюджетные сокращения разрушили программу."
+      }
+    ],
+    "colloc": "devastate a community",
+    "pattern": "devastate + N",
+    "exRu": "Шторм опустошил прибрежные города.",
+    "ex": "The storm devastated coastal towns."
+  },
+  {
+    "word": "devise",
+    "lemma": "devise",
+    "ipa": "/dɪˈvaɪz/",
+    "pos": "verb",
+    "tr": "разрабатывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Devise a better workflow.",
+        "ru": "Разработай лучший рабочий процесс."
+      },
+      {
+        "en": "Engineers devised a clever fix.",
+        "ru": "Инженеры придумали умное решение."
+      },
+      {
+        "en": "She devised a plan overnight.",
+        "ru": "Она разработала план за ночь."
+      }
+    ],
+    "colloc": "devise a plan",
+    "pattern": "devise + N",
+    "exRu": "Разработай лучший рабочий процесс.",
+    "ex": "Devise a better workflow."
+  },
+  {
+    "word": "devote",
+    "lemma": "devote",
+    "ipa": "/dɪˈvoʊt/",
+    "pos": "verb",
+    "tr": "посвящать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Devote an hour to reading.",
+        "ru": "Посвяти час чтению."
+      },
+      {
+        "en": "He devoted his life to teaching.",
+        "ru": "Он посвятил жизнь преподаванию."
+      },
+      {
+        "en": "Devote more resources to research.",
+        "ru": "Выдели больше ресурсов на исследования."
+      }
+    ],
+    "colloc": "devote to",
+    "pattern": "devote + N + to",
+    "exRu": "Посвяти час чтению.",
+    "ex": "Devote an hour to reading."
+  },
+  {
+    "word": "diagnose",
+    "lemma": "diagnose",
+    "ipa": "/ˌdaɪəgˈnoʊs/",
+    "pos": "verb",
+    "tr": "диагностировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Doctors diagnose the illness.",
+        "ru": "Врачи диагностируют болезнь."
+      },
+      {
+        "en": "Engineers diagnosed a memory leak.",
+        "ru": "Инженеры выявили утечку памяти."
+      },
+      {
+        "en": "It's hard to diagnose the root cause.",
+        "ru": "Трудно диагностировать корневую причину."
+      }
+    ],
+    "colloc": "diagnose a problem",
+    "pattern": "diagnose + N",
+    "exRu": "Врачи диагностируют болезнь.",
+    "ex": "Doctors diagnose the illness."
+  },
+  {
+    "word": "dictate",
+    "lemma": "dictate",
+    "ipa": "/ˈdɪkˌteɪt/",
+    "pos": "verb",
+    "tr": "диктовать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Don't let fear dictate choices.",
+        "ru": "Не позволяй страху диктовать выбор."
+      },
+      {
+        "en": "She dictated a letter to her aide.",
+        "ru": "Она продиктовала письмо помощнику."
+      },
+      {
+        "en": "Market forces dictate prices.",
+        "ru": "Рыночные силы диктуют цены."
+      }
+    ],
+    "colloc": "dictate terms · dictate to",
+    "pattern": "dictate + N",
+    "exRu": "Не позволяй страху диктовать выбор.",
+    "ex": "Don't let fear dictate choices."
+  },
+  {
+    "word": "differ",
+    "lemma": "differ",
+    "ipa": "/ˈdɪfər/",
+    "pos": "verb",
+    "tr": "отличаться",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Opinions differ on the topic.",
+        "ru": "Мнения по теме расходятся."
+      },
+      {
+        "en": "American spelling differs slightly.",
+        "ru": "Американское написание немного отличается."
+      },
+      {
+        "en": "We differ about the timeline.",
+        "ru": "Мы расходимся насчёт сроков."
+      }
+    ],
+    "colloc": "differ from · differ on",
+    "pattern": "differ from/on",
+    "exRu": "Мнения по теме расходятся.",
+    "ex": "Opinions differ on the topic."
+  },
+  {
+    "word": "differentiate",
+    "lemma": "differentiate",
+    "ipa": "/ˌdɪfərˈɛnʧiˌeɪt/",
+    "pos": "verb",
+    "tr": "различать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Differentiate facts from opinions.",
+        "ru": "Отличай факты от мнений."
+      },
+      {
+        "en": "Brands differentiate through design.",
+        "ru": "Бренды отличаются через дизайн."
+      },
+      {
+        "en": "Teachers differentiate instruction.",
+        "ru": "Учителя дифференцируют обучение."
+      }
+    ],
+    "colloc": "differentiate between · differentiate from",
+    "pattern": "differentiate between/from",
+    "exRu": "Отличай факты от мнений.",
+    "ex": "Differentiate facts from opinions."
+  },
+  {
+    "word": "dig",
+    "lemma": "dig",
+    "ipa": "/dɪg/",
+    "pos": "verb",
+    "tr": "копать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Dig a shallow trench.",
+        "ru": "Выкопай неглубокую траншею."
+      },
+      {
+        "en": "Reporters dig into the story.",
+        "ru": "Репортёры копают историю."
+      },
+      {
+        "en": "Dig deeper for better evidence.",
+        "ru": "Копай глубже за лучшими доказательствами."
+      }
+    ],
+    "colloc": "dig into · dig up",
+    "pattern": "dig + N",
+    "exRu": "Выкопай неглубокую траншею.",
+    "ex": "Dig a shallow trench."
+  },
+  {
+    "word": "diminish",
+    "lemma": "diminish",
+    "ipa": "/dɪˈmɪnɪʃ/",
+    "pos": "verb",
+    "tr": "уменьшать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't diminish their efforts.",
+        "ru": "Не принижай их усилия."
+      },
+      {
+        "en": "Trust can diminish after lies.",
+        "ru": "Доверие может уменьшиться после лжи."
+      },
+      {
+        "en": "Funding diminished over time.",
+        "ru": "Финансирование со временем уменьшилось."
+      }
+    ],
+    "colloc": "diminish in · diminish the impact",
+    "pattern": "diminish + N",
+    "exRu": "Не принижай их усилия.",
+    "ex": "Don't diminish their efforts."
+  },
+  {
+    "word": "dip",
+    "lemma": "dip",
+    "ipa": "/dɪp/",
+    "pos": "verb",
+    "tr": "окунать / падать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Dip the brush in paint.",
+        "ru": "Окуни кисть в краску."
+      },
+      {
+        "en": "Temperatures dipped overnight.",
+        "ru": "Температура упала за ночь."
+      },
+      {
+        "en": "Sales dipped in the second quarter.",
+        "ru": "Продажи упали во втором квартале."
+      }
+    ],
+    "colloc": "dip into · dip below",
+    "pattern": "dip + N",
+    "exRu": "Окуни кисть в краску.",
+    "ex": "Dip the brush in paint."
+  },
+  {
+    "word": "disappoint",
+    "lemma": "disappoint",
+    "ipa": "/ˌdɪsəˈpɔɪnt/",
+    "pos": "verb",
+    "tr": "разочаровывать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't disappoint your mentors.",
+        "ru": "Не разочаровывай наставников."
+      },
+      {
+        "en": "The ending disappointed fans.",
+        "ru": "Концовка разочаровала фанатов."
+      },
+      {
+        "en": "I hate to disappoint you.",
+        "ru": "Ненавижу тебя разочаровывать."
+      }
+    ],
+    "colloc": "disappoint someone",
+    "pattern": "disappoint + N",
+    "exRu": "Не разочаровывай наставников.",
+    "ex": "Don't disappoint your mentors."
+  },
+  {
+    "word": "discard",
+    "lemma": "discard",
+    "ipa": "/dɪˈskɑrd/",
+    "pos": "verb",
+    "tr": "выбрасывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Discard expired medicine.",
+        "ru": "Выбрось просроченные лекарства."
+      },
+      {
+        "en": "Don't discard useful feedback.",
+        "ru": "Не отбрасывай полезную обратную связь."
+      },
+      {
+        "en": "She discarded the rough draft.",
+        "ru": "Она выбросила черновик."
+      }
+    ],
+    "colloc": "discard as",
+    "pattern": "discard + N",
+    "exRu": "Выбрось просроченные лекарства.",
+    "ex": "Discard expired medicine."
+  },
+  {
+    "word": "discharge",
+    "lemma": "discharge",
+    "ipa": "/ˈdɪsˌʧɑrʤ/",
+    "pos": "verb",
+    "tr": "выпускать / разряжать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Hospitals discharge patients carefully.",
+        "ru": "Больницы осторожно выписывают пациентов."
+      },
+      {
+        "en": "Factories must not discharge waste into rivers.",
+        "ru": "Заводы не должны сбрасывать отходы в реки."
+      },
+      {
+        "en": "He was discharged from the army.",
+        "ru": "Его уволили из армии."
+      }
+    ],
+    "colloc": "discharge from · discharge into",
+    "pattern": "discharge + N",
+    "exRu": "Больницы осторожно выписывают пациентов.",
+    "ex": "Hospitals discharge patients carefully."
+  },
+  {
+    "word": "disclose",
+    "lemma": "disclose",
+    "ipa": "/dɪˈskloʊz/",
+    "pos": "verb",
+    "tr": "раскрывать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Disclose conflicts of interest.",
+        "ru": "Раскрой конфликт интересов."
+      },
+      {
+        "en": "The report disclosed hidden costs.",
+        "ru": "Отчёт раскрыл скрытые затраты."
+      },
+      {
+        "en": "Companies must disclose risks.",
+        "ru": "Компании должны раскрывать риски."
+      }
+    ],
+    "colloc": "disclose information",
+    "pattern": "disclose + N",
+    "exRu": "Раскрой конфликт интересов.",
+    "ex": "Disclose conflicts of interest."
+  },
+  {
+    "word": "discourage",
+    "lemma": "discourage",
+    "ipa": "/dɪˈskərɪʤ/",
+    "pos": "verb",
+    "tr": "отговаривать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't discourage curious students.",
+        "ru": "Не отговаривай любопытных студентов."
+      },
+      {
+        "en": "High fees discourage applicants.",
+        "ru": "Высокие сборы отпугивают заявителей."
+      },
+      {
+        "en": "Bad weather discouraged hikers.",
+        "ru": "Плохая погода отговорила туристов."
+      }
+    ],
+    "colloc": "discourage from",
+    "pattern": "discourage + N + from",
+    "exRu": "Не отговаривай любопытных студентов.",
+    "ex": "Don't discourage curious students."
+  },
+  {
+    "word": "dismiss",
+    "lemma": "dismiss",
+    "ipa": "/dɪsˈmɪs/",
+    "pos": "verb",
+    "tr": "отклонять / увольнять",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Don't dismiss early warnings.",
+        "ru": "Не отмахивайся от ранних предупреждений."
+      },
+      {
+        "en": "The judge dismissed the case.",
+        "ru": "Судья отклонил дело."
+      },
+      {
+        "en": "She was dismissed for misconduct.",
+        "ru": "Её уволили за проступок."
+      }
+    ],
+    "colloc": "dismiss as · dismiss from",
+    "pattern": "dismiss + N",
+    "exRu": "Не отмахивайся от ранних предупреждений.",
+    "ex": "Don't dismiss early warnings."
+  },
+  {
+    "word": "displace",
+    "lemma": "displace",
+    "ipa": "/dɪˈspleɪs/",
+    "pos": "verb",
+    "tr": "вытеснять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Floods displace entire communities.",
+        "ru": "Наводнения вытесняют целые общины."
+      },
+      {
+        "en": "New tools displace old methods.",
+        "ru": "Новые инструменты вытесняют старые методы."
+      },
+      {
+        "en": "War displaced millions of people.",
+        "ru": "Война переместила миллионы людей."
+      }
+    ],
+    "colloc": "displace workers",
+    "pattern": "displace + N",
+    "exRu": "Наводнения вытесняют целые общины.",
+    "ex": "Floods displace entire communities."
+  },
+  {
+    "word": "dispose",
+    "lemma": "dispose",
+    "ipa": "/dɪˈspoʊz/",
+    "pos": "verb",
+    "tr": "избавляться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Dispose of hazardous waste safely.",
+        "ru": "Безопасно утилизируй опасные отходы."
+      },
+      {
+        "en": "He disposed of the old files.",
+        "ru": "Он избавился от старых файлов."
+      },
+      {
+        "en": "How will you dispose of the surplus?",
+        "ru": "Как ты утилизируешь излишки?"
+      }
+    ],
+    "colloc": "dispose of",
+    "pattern": "dispose of + N",
+    "exRu": "Безопасно утилизируй опасные отходы.",
+    "ex": "Dispose of hazardous waste safely."
+  },
+  {
+    "word": "disrupt",
+    "lemma": "disrupt",
+    "ipa": "/dɪsˈrəpt/",
+    "pos": "verb",
+    "tr": "нарушать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Strikes disrupt public transport.",
+        "ru": "Забастовки нарушают общественный транспорт."
+      },
+      {
+        "en": "Don't disrupt the meeting.",
+        "ru": "Не срывай встречу."
+      },
+      {
+        "en": "Innovation can disrupt whole industries.",
+        "ru": "Инновации могут перевернуть целые отрасли."
+      }
+    ],
+    "colloc": "disrupt a market",
+    "pattern": "disrupt + N",
+    "exRu": "Забастовки нарушают общественный транспорт.",
+    "ex": "Strikes disrupt public transport."
+  },
+  {
+    "word": "dissolve",
+    "lemma": "dissolve",
+    "ipa": "/dɪˈzɑlv/",
+    "pos": "verb",
+    "tr": "растворять / распускать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Sugar dissolves in hot tea.",
+        "ru": "Сахар растворяется в горячем чае."
+      },
+      {
+        "en": "Parliament was dissolved early.",
+        "ru": "Парламент распустили рано."
+      },
+      {
+        "en": "Trust dissolved after the scandal.",
+        "ru": "Доверие растворилось после скандала."
+      }
+    ],
+    "colloc": "dissolve in · dissolve a partnership",
+    "pattern": "dissolve + N",
+    "exRu": "Сахар растворяется в горячем чае.",
+    "ex": "Sugar dissolves in hot tea."
+  },
+  {
+    "word": "distinguish",
+    "lemma": "distinguish",
+    "ipa": "/dɪˈstɪŋgwɪʃ/",
+    "pos": "verb",
+    "tr": "различать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Distinguish signal from noise.",
+        "ru": "Отличай сигнал от шума."
+      },
+      {
+        "en": "She distinguished herself in research.",
+        "ru": "Она отличилась в исследованиях."
+      },
+      {
+        "en": "Can you distinguish the twins?",
+        "ru": "Можешь различить близнецов?"
+      }
+    ],
+    "colloc": "distinguish between · distinguish from",
+    "pattern": "distinguish between/from",
+    "exRu": "Отличай сигнал от шума.",
+    "ex": "Distinguish signal from noise."
+  },
+  {
+    "word": "distort",
+    "lemma": "distort",
+    "ipa": "/dɪˈstɔrt/",
+    "pos": "verb",
+    "tr": "искажать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Media can distort the facts.",
+        "ru": "СМИ могут искажать факты."
+      },
+      {
+        "en": "Heat distorted the plastic.",
+        "ru": "Жара деформировала пластик."
+      },
+      {
+        "en": "Don't distort my words.",
+        "ru": "Не искажай мои слова."
+      }
+    ],
+    "colloc": "distort the truth",
+    "pattern": "distort + N",
+    "exRu": "СМИ могут искажать факты.",
+    "ex": "Media can distort the facts."
+  },
+  {
+    "word": "distract",
+    "lemma": "distract",
+    "ipa": "/dɪˈstrækt/",
+    "pos": "verb",
+    "tr": "отвлекать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Notifications distract from deep work.",
+        "ru": "Уведомления отвлекают от глубокой работы."
+      },
+      {
+        "en": "Don't distract the driver.",
+        "ru": "Не отвлекай водителя."
+      },
+      {
+        "en": "Noise distracted the students.",
+        "ru": "Шум отвлекал студентов."
+      }
+    ],
+    "colloc": "distract from",
+    "pattern": "distract + N + from",
+    "exRu": "Уведомления отвлекают от глубокой работы.",
+    "ex": "Notifications distract from deep work."
+  },
+  {
+    "word": "distribute",
+    "lemma": "distribute",
+    "ipa": "/dɪˈstrɪbjut/",
+    "pos": "verb",
+    "tr": "распределять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Distribute copies to everyone.",
+        "ru": "Раздай копии всем."
+      },
+      {
+        "en": "Aid was distributed after the quake.",
+        "ru": "Помощь распределили после землетрясения."
+      },
+      {
+        "en": "The app distributes updates automatically.",
+        "ru": "Приложение автоматически распространяет обновления."
+      }
+    ],
+    "colloc": "distribute to · distribute among",
+    "pattern": "distribute + N",
+    "exRu": "Раздай копии всем.",
+    "ex": "Distribute copies to everyone."
+  },
+  {
+    "word": "disturb",
+    "lemma": "disturb",
+    "ipa": "/dɪˈstərb/",
+    "pos": "verb",
+    "tr": "беспокоить",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Do not disturb the neighbors.",
+        "ru": "Не беспокой соседей."
+      },
+      {
+        "en": "Bad news disturbed her sleep.",
+        "ru": "Плохие новости нарушили её сон."
+      },
+      {
+        "en": "Nothing should disturb this habitat.",
+        "ru": "Ничто не должно тревожить эту среду обитания."
+      }
+    ],
+    "colloc": "disturb the peace",
+    "pattern": "disturb + N",
+    "exRu": "Не беспокой соседей.",
+    "ex": "Do not disturb the neighbors."
+  },
+  {
+    "word": "dive",
+    "lemma": "dive",
+    "ipa": "/daɪv/",
+    "pos": "verb",
+    "tr": "нырять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Dive into the cold lake.",
+        "ru": "Нырни в холодное озеро."
+      },
+      {
+        "en": "Markets dove after the report.",
+        "ru": "Рынки рухнули после отчёта."
+      },
+      {
+        "en": "She dove into the research.",
+        "ru": "Она погрузилась в исследование."
+      }
+    ],
+    "colloc": "dive into · dive off",
+    "pattern": "dive into",
+    "exRu": "Нырни в холодное озеро.",
+    "ex": "Dive into the cold lake."
+  },
+  {
+    "word": "divert",
+    "lemma": "divert",
+    "ipa": "/dɪˈvərt/",
+    "pos": "verb",
+    "tr": "перенаправлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Divert traffic around the crash.",
+        "ru": "Перенаправь трафик в обход аварии."
+      },
+      {
+        "en": "Don't divert funds illegally.",
+        "ru": "Не перенаправляй средства незаконно."
+      },
+      {
+        "en": "A joke diverted their attention.",
+        "ru": "Шутка отвлекла их внимание."
+      }
+    ],
+    "colloc": "divert attention · divert from",
+    "pattern": "divert + N",
+    "exRu": "Перенаправь трафик в обход аварии.",
+    "ex": "Divert traffic around the crash."
+  },
+  {
+    "word": "dominate",
+    "lemma": "dominate",
+    "ipa": "/ˈdɑməˌneɪt/",
+    "pos": "verb",
+    "tr": "доминировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "One firm dominates the market.",
+        "ru": "Одна фирма доминирует на рынке."
+      },
+      {
+        "en": "Don't let fear dominate decisions.",
+        "ru": "Не позволяй страху доминировать в решениях."
+      },
+      {
+        "en": "The team dominated possession.",
+        "ru": "Команда доминировала во владении."
+      }
+    ],
+    "colloc": "dominate the market",
+    "pattern": "dominate + N",
+    "exRu": "Одна фирма доминирует на рынке.",
+    "ex": "One firm dominates the market."
+  },
+  {
+    "word": "drag",
+    "lemma": "drag",
+    "ipa": "/dræg/",
+    "pos": "verb",
+    "tr": "тащить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't drag the chair across floors.",
+        "ru": "Не тащи стул по полу."
+      },
+      {
+        "en": "The meeting dragged on for hours.",
+        "ru": "Встреча тянулась часами."
+      },
+      {
+        "en": "Drag the file into the folder.",
+        "ru": "Перетащи файл в папку."
+      }
+    ],
+    "colloc": "drag on · drag and drop",
+    "pattern": "drag + N",
+    "exRu": "Не тащи стул по полу.",
+    "ex": "Don't drag the chair across floors."
+  },
+  {
+    "word": "drain",
+    "lemma": "drain",
+    "ipa": "/dreɪn/",
+    "pos": "verb",
+    "tr": "осушать / истощать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Drain the pasta carefully.",
+        "ru": "Осторожно слей воду с пасты."
+      },
+      {
+        "en": "Long hours drain your energy.",
+        "ru": "Долгие часы истощают энергию."
+      },
+      {
+        "en": "Storms drained the reservoir.",
+        "ru": "Бури осушили водохранилище."
+      }
+    ],
+    "colloc": "drain of · brain drain",
+    "pattern": "drain + N",
+    "exRu": "Осторожно слей воду с пасты.",
+    "ex": "Drain the pasta carefully."
+  },
+  {
+    "word": "drown",
+    "lemma": "drown",
+    "ipa": "/draʊn/",
+    "pos": "verb",
+    "tr": "тонуть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't let email drown your day.",
+        "ru": "Не позволяй почте затопить день."
+      },
+      {
+        "en": "The speech drowned in applause.",
+        "ru": "Речь утонула в аплодисментах."
+      },
+      {
+        "en": "Heavy rain almost drowned the crops.",
+        "ru": "Сильный дождь почти затопил посевы."
+      }
+    ],
+    "colloc": "drown out · drown in",
+    "pattern": "drown + N",
+    "exRu": "Не позволяй почте затопить день.",
+    "ex": "Don't let email drown your day."
+  },
+  {
+    "word": "dub",
+    "lemma": "dub",
+    "ipa": "/dəb/",
+    "pos": "verb",
+    "tr": "дублировать / прозвать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Studios dub films into Spanish.",
+        "ru": "Студии дублируют фильмы на испанский."
+      },
+      {
+        "en": "Fans dubbed her the queen of pop.",
+        "ru": "Фаны прозвали её королевой поп-музыки."
+      },
+      {
+        "en": "The clip was poorly dubbed.",
+        "ru": "Ролик был плохо дублирован."
+      }
+    ],
+    "colloc": "dub into · dub someone",
+    "pattern": "dub + N",
+    "exRu": "Студии дублируют фильмы на испанский.",
+    "ex": "Studios dub films into Spanish."
+  }
+]

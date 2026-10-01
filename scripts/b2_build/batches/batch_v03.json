@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "illustrate",
+    "lemma": "illustrate",
+    "ipa": "/ˈɪləˌstreɪt/",
+    "pos": "verb",
+    "tr": "иллюстрировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Charts illustrate the trend.",
+        "ru": "Графики иллюстрируют тренд."
+      },
+      {
+        "en": "She illustrated the book herself.",
+        "ru": "Она сама проиллюстрировала книгу."
+      },
+      {
+        "en": "This case illustrates the risk.",
+        "ru": "Этот случай иллюстрирует риск."
+      }
+    ],
+    "colloc": "illustrate a point",
+    "pattern": "illustrate + N",
+    "exRu": "Графики иллюстрируют тренд.",
+    "ex": "Charts illustrate the trend."
+  },
+  {
+    "word": "implement",
+    "lemma": "implement",
+    "ipa": "/ˈɪmpləmənt/",
+    "pos": "verb",
+    "tr": "внедрять",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Implement the policy carefully.",
+        "ru": "Осторожно внедри политику."
+      },
+      {
+        "en": "Schools implemented new schedules.",
+        "ru": "Школы внедрили новые расписания."
+      },
+      {
+        "en": "We implement fixes weekly.",
+        "ru": "Мы внедряем исправления еженедельно."
+      }
+    ],
+    "colloc": "implement a plan",
+    "pattern": "implement + N",
+    "exRu": "Осторожно внедри политику.",
+    "ex": "Implement the policy carefully."
+  },
+  {
+    "word": "imply",
+    "lemma": "imply",
+    "ipa": "/ˌɪmˈplaɪ/",
+    "pos": "verb",
+    "tr": "подразумевать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Silence can imply consent.",
+        "ru": "Молчание может подразумевать согласие."
+      },
+      {
+        "en": "The data imply a slowdown.",
+        "ru": "Данные подразумевают замедление."
+      },
+      {
+        "en": "Are you implying I lied?",
+        "ru": "Ты намекаешь, что я солгал?"
+      }
+    ],
+    "colloc": "imply that",
+    "pattern": "imply + that/N",
+    "exRu": "Молчание может подразумевать согласие.",
+    "ex": "Silence can imply consent."
+  },
+  {
+    "word": "impose",
+    "lemma": "impose",
+    "ipa": "/ˌɪmˈpoʊz/",
+    "pos": "verb",
+    "tr": "налагать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't impose your views.",
+        "ru": "Не навязывай свои взгляды."
+      },
+      {
+        "en": "The city imposed a curfew.",
+        "ru": "Город ввёл комендантский час."
+      },
+      {
+        "en": "Taxes were imposed on imports.",
+        "ru": "На импорт наложили налоги."
+      }
+    ],
+    "colloc": "impose on · impose a ban",
+    "pattern": "impose + N + on",
+    "exRu": "Не навязывай свои взгляды.",
+    "ex": "Don't impose your views."
+  },
+  {
+    "word": "impress",
+    "lemma": "impress",
+    "ipa": "/ˌɪmˈprɛs/",
+    "pos": "verb",
+    "tr": "впечатлять",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Results impress the board.",
+        "ru": "Результаты впечатляют совет."
+      },
+      {
+        "en": "She impressed us with calm.",
+        "ru": "Она впечатлила нас спокойствием."
+      },
+      {
+        "en": "First impressions impress recruiters.",
+        "ru": "Первые впечатления впечатляют рекрутеров."
+      }
+    ],
+    "colloc": "impress with · impress on",
+    "pattern": "impress + N",
+    "exRu": "Результаты впечатляют совет.",
+    "ex": "Results impress the board."
+  },
+  {
+    "word": "imprison",
+    "lemma": "imprison",
+    "ipa": "/ˌɪmˈprɪzən/",
+    "pos": "verb",
+    "tr": "заключать в тюрьму",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Courts may imprison offenders.",
+        "ru": "Суды могут заключать преступников."
+      },
+      {
+        "en": "He was imprisoned for fraud.",
+        "ru": "Его заключили за мошенничество."
+      },
+      {
+        "en": "Ideas cannot be easily imprisoned.",
+        "ru": "Идеи нелегко заточить."
+      }
+    ],
+    "colloc": "imprison for",
+    "pattern": "imprison + N",
+    "exRu": "Суды могут заключать преступников.",
+    "ex": "Courts may imprison offenders."
+  },
+  {
+    "word": "incarcerate",
+    "lemma": "incarcerate",
+    "ipa": "/ˌɪnˈkɑrsərˌeɪt/",
+    "pos": "verb",
+    "tr": "заключать под стражу",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "States incarcerate too many people.",
+        "ru": "Штаты заключают слишком много людей."
+      },
+      {
+        "en": "She was incarcerated for a year.",
+        "ru": "Её держали под стражей год."
+      },
+      {
+        "en": "Reform aims to incarcerate fewer youths.",
+        "ru": "Реформа стремится заключать меньше молодых."
+      }
+    ],
+    "colloc": "incarcerate for",
+    "pattern": "incarcerate + N",
+    "exRu": "Штаты заключают слишком много людей.",
+    "ex": "States incarcerate too many people."
+  },
+  {
+    "word": "incorporate",
+    "lemma": "incorporate",
+    "ipa": "/ˌɪnˈkɔrpərˌeɪt/",
+    "pos": "verb",
+    "tr": "включать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Incorporate feedback into drafts.",
+        "ru": "Включай отзывы в черновики."
+      },
+      {
+        "en": "The design incorporates recycled steel.",
+        "ru": "Дизайн включает переработанную сталь."
+      },
+      {
+        "en": "They incorporated a new company.",
+        "ru": "Они учредили новую компанию."
+      }
+    ],
+    "colloc": "incorporate into",
+    "pattern": "incorporate + N + into",
+    "exRu": "Включай отзывы в черновики.",
+    "ex": "Incorporate feedback into drafts."
+  },
+  {
+    "word": "incur",
+    "lemma": "incur",
+    "ipa": "/ˌɪnˈkər/",
+    "pos": "verb",
+    "tr": "нести (расходы/убытки)",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Avoid costs you cannot incur.",
+        "ru": "Избегай расходов, которые не можешь понести."
+      },
+      {
+        "en": "The firm incurred heavy losses.",
+        "ru": "Фирма понесла тяжёлые убытки."
+      },
+      {
+        "en": "Late fees are incurred after Friday.",
+        "ru": "Штрафы начисляются после пятницы."
+      }
+    ],
+    "colloc": "incur costs · incur debt",
+    "pattern": "incur + N",
+    "exRu": "Избегай расходов, которые не можешь понести.",
+    "ex": "Avoid costs you cannot incur."
+  },
+  {
+    "word": "induce",
+    "lemma": "induce",
+    "ipa": "/ˌɪnˈdus/",
+    "pos": "verb",
+    "tr": "вызывать / побуждать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Noise can induce stress.",
+        "ru": "Шум может вызывать стресс."
+      },
+      {
+        "en": "Nothing could induce him to stay.",
+        "ru": "Ничто не могло побудить его остаться."
+      },
+      {
+        "en": "Drugs may induce drowsiness.",
+        "ru": "Лекарства могут вызывать сонливость."
+      }
+    ],
+    "colloc": "induce someone to",
+    "pattern": "induce + N",
+    "exRu": "Шум может вызывать стресс.",
+    "ex": "Noise can induce stress."
+  },
+  {
+    "word": "indulge",
+    "lemma": "indulge",
+    "ipa": "/ˌɪnˈdəlʤ/",
+    "pos": "verb",
+    "tr": "баловать / позволять себе",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't indulge every craving.",
+        "ru": "Не потакай каждому желанию."
+      },
+      {
+        "en": "She indulged in dark chocolate.",
+        "ru": "Она позволила себе тёмный шоколад."
+      },
+      {
+        "en": "Parents sometimes indulge kids too much.",
+        "ru": "Родители иногда слишком балуют детей."
+      }
+    ],
+    "colloc": "indulge in",
+    "pattern": "indulge in + N",
+    "exRu": "Не потакай каждому желанию.",
+    "ex": "Don't indulge every craving."
+  },
+  {
+    "word": "infect",
+    "lemma": "infect",
+    "ipa": "/ˌɪnˈfɛkt/",
+    "pos": "verb",
+    "tr": "заражать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Viruses infect host cells.",
+        "ru": "Вирусы заражают клетки хозяина."
+      },
+      {
+        "en": "Fear can infect a whole team.",
+        "ru": "Страх может заразить всю команду."
+      },
+      {
+        "en": "The wound became infected.",
+        "ru": "Рана воспалилась."
+      }
+    ],
+    "colloc": "infect with",
+    "pattern": "infect + N",
+    "exRu": "Вирусы заражают клетки хозяина.",
+    "ex": "Viruses infect host cells."
+  },
+  {
+    "word": "infer",
+    "lemma": "infer",
+    "ipa": "/ˌɪnˈfər/",
+    "pos": "verb",
+    "tr": "делать вывод",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Infer meaning from context.",
+        "ru": "Выводи значение из контекста."
+      },
+      {
+        "en": "From the data we infer growth.",
+        "ru": "Из данных мы делаем вывод о росте."
+      },
+      {
+        "en": "Don't infer motives too quickly.",
+        "ru": "Не делай вывод о мотивах слишком быстро."
+      }
+    ],
+    "colloc": "infer from · infer that",
+    "pattern": "infer from/that",
+    "exRu": "Выводи значение из контекста.",
+    "ex": "Infer meaning from context."
+  },
+  {
+    "word": "inflict",
+    "lemma": "inflict",
+    "ipa": "/ˌɪnˈflɪkt/",
+    "pos": "verb",
+    "tr": "причинять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "War inflicts lasting trauma.",
+        "ru": "Война причиняет длительную травму."
+      },
+      {
+        "en": "Don't inflict pain needlessly.",
+        "ru": "Не причиняй боль без нужды."
+      },
+      {
+        "en": "Sanctions inflicted economic damage.",
+        "ru": "Санкции нанесли экономический ущерб."
+      }
+    ],
+    "colloc": "inflict on",
+    "pattern": "inflict + N + on",
+    "exRu": "Война причиняет длительную травму.",
+    "ex": "War inflicts lasting trauma."
+  },
+  {
+    "word": "inherit",
+    "lemma": "inherit",
+    "ipa": "/ˌɪnˈhɛrət/",
+    "pos": "verb",
+    "tr": "наследовать",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "She inherited the house.",
+        "ru": "Она унаследовала дом."
+      },
+      {
+        "en": "Teams inherit outdated systems.",
+        "ru": "Команды наследуют устаревшие системы."
+      },
+      {
+        "en": "He inherited his father's stubbornness.",
+        "ru": "Он унаследовал упрямство отца."
+      }
+    ],
+    "colloc": "inherit from",
+    "pattern": "inherit + N",
+    "exRu": "Она унаследовала дом.",
+    "ex": "She inherited the house."
+  },
+  {
+    "word": "inhibit",
+    "lemma": "inhibit",
+    "ipa": "/ˌɪnˈhɪbət/",
+    "pos": "verb",
+    "tr": "сдерживать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Fear inhibits creativity.",
+        "ru": "Страх сдерживает креативность."
+      },
+      {
+        "en": "Drugs may inhibit growth.",
+        "ru": "Лекарства могут тормозить рост."
+      },
+      {
+        "en": "Don't inhibit honest debate.",
+        "ru": "Не сдерживай честные дебаты."
+      }
+    ],
+    "colloc": "inhibit growth",
+    "pattern": "inhibit + N",
+    "exRu": "Страх сдерживает креативность.",
+    "ex": "Fear inhibits creativity."
+  },
+  {
+    "word": "initiate",
+    "lemma": "initiate",
+    "ipa": "/ˌɪˈnɪʃiˌeɪt/",
+    "pos": "verb",
+    "tr": "инициировать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Initiate the onboarding process.",
+        "ru": "Запусти процесс онбординга."
+      },
+      {
+        "en": "Students initiated a petition.",
+        "ru": "Студенты инициировали петицию."
+      },
+      {
+        "en": "Talks were initiated last month.",
+        "ru": "Переговоры начали в прошлом месяце."
+      }
+    ],
+    "colloc": "initiate a process",
+    "pattern": "initiate + N",
+    "exRu": "Запусти процесс онбординга.",
+    "ex": "Initiate the onboarding process."
+  },
+  {
+    "word": "inject",
+    "lemma": "inject",
+    "ipa": "/ˌɪnˈʤɛkt/",
+    "pos": "verb",
+    "tr": "вводить инъекцией",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Nurses inject the vaccine.",
+        "ru": "Медсёстры делают инъекцию вакцины."
+      },
+      {
+        "en": "Investors injected new capital.",
+        "ru": "Инвесторы влили новый капитал."
+      },
+      {
+        "en": "Don't inject opinion into facts.",
+        "ru": "Не вставляй мнение в факты."
+      }
+    ],
+    "colloc": "inject into",
+    "pattern": "inject + N + into",
+    "exRu": "Медсёстры делают инъекцию вакцины.",
+    "ex": "Nurses inject the vaccine."
+  },
+  {
+    "word": "inquire",
+    "lemma": "inquire",
+    "ipa": "/ˌɪnkˈwaɪr/",
+    "pos": "verb",
+    "tr": "спрашивать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Inquire about room rates.",
+        "ru": "Узнай о ценах на номера."
+      },
+      {
+        "en": "She inquired whether seats remained.",
+        "ru": "Она спросила, остались ли места."
+      },
+      {
+        "en": "Police inquired into the complaint.",
+        "ru": "Полиция расследовала жалобу."
+      }
+    ],
+    "colloc": "inquire about · inquire into",
+    "note": "AmE: inquire",
+    "pattern": "inquire about/into",
+    "exRu": "Узнай о ценах на номера.",
+    "ex": "Inquire about room rates."
+  },
+  {
+    "word": "insert",
+    "lemma": "insert",
+    "ipa": "/ˌɪnˈsərt/",
+    "pos": "verb",
+    "tr": "вставлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Insert the key gently.",
+        "ru": "Осторожно вставь ключ."
+      },
+      {
+        "en": "Insert a paragraph here.",
+        "ru": "Вставь абзац сюда."
+      },
+      {
+        "en": "Ads were inserted mid-video.",
+        "ru": "Рекламу вставили в середину видео."
+      }
+    ],
+    "colloc": "insert into",
+    "pattern": "insert + N + into",
+    "exRu": "Осторожно вставь ключ.",
+    "ex": "Insert the key gently."
+  },
+  {
+    "word": "inspect",
+    "lemma": "inspect",
+    "ipa": "/ˌɪnˈspɛkt/",
+    "pos": "verb",
+    "tr": "осматривать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Inspect the wiring carefully.",
+        "ru": "Осторожно осмотри проводку."
+      },
+      {
+        "en": "Officials inspected the factory.",
+        "ru": "Чиновники проверили завод."
+      },
+      {
+        "en": "Buyers inspect homes before closing.",
+        "ru": "Покупатели осматривают дома перед сделкой."
+      }
+    ],
+    "colloc": "inspect for",
+    "pattern": "inspect + N",
+    "exRu": "Осторожно осмотри проводку.",
+    "ex": "Inspect the wiring carefully."
+  },
+  {
+    "word": "inspire",
+    "lemma": "inspire",
+    "ipa": "/ˌɪnˈspaɪr/",
+    "pos": "verb",
+    "tr": "вдохновлять",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Teachers inspire lifelong learning.",
+        "ru": "Учителя вдохновляют на обучение всю жизнь."
+      },
+      {
+        "en": "The speech inspired volunteers.",
+        "ru": "Речь вдохновила волонтёров."
+      },
+      {
+        "en": "Nature inspires her painting.",
+        "ru": "Природа вдохновляет её живопись."
+      }
+    ],
+    "colloc": "inspire someone to",
+    "pattern": "inspire + N",
+    "exRu": "Учителя вдохновляют на обучение всю жизнь.",
+    "ex": "Teachers inspire lifelong learning."
+  },
+  {
+    "word": "install",
+    "lemma": "install",
+    "ipa": "/ˌɪnˈstɔl/",
+    "pos": "verb",
+    "tr": "устанавливать",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Install updates tonight.",
+        "ru": "Установи обновления сегодня ночью."
+      },
+      {
+        "en": "Workers installed solar panels.",
+        "ru": "Рабочие установили солнечные панели."
+      },
+      {
+        "en": "Please install the app first.",
+        "ru": "Сначала установи приложение."
+      }
+    ],
+    "colloc": "install software · install equipment",
+    "pattern": "install + N",
+    "exRu": "Установи обновления сегодня ночью.",
+    "ex": "Install updates tonight."
+  },
+  {
+    "word": "integrate",
+    "lemma": "integrate",
+    "ipa": "/ˈɪnəˌgreɪt/",
+    "pos": "verb",
+    "tr": "интегрировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Integrate new hires quickly.",
+        "ru": "Быстро интегрируй новых сотрудников."
+      },
+      {
+        "en": "Systems integrate across teams.",
+        "ru": "Системы интегрируются между командами."
+      },
+      {
+        "en": "Refugees integrate into local life.",
+        "ru": "Беженцы интегрируются в местную жизнь."
+      }
+    ],
+    "colloc": "integrate into · integrate with",
+    "pattern": "integrate into/with",
+    "exRu": "Быстро интегрируй новых сотрудников.",
+    "ex": "Integrate new hires quickly."
+  },
+  {
+    "word": "intensify",
+    "lemma": "intensify",
+    "ipa": "/ˌɪnˈtɛnsɪˌfaɪ/",
+    "pos": "verb",
+    "tr": "усиливать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Winds intensify near the coast.",
+        "ru": "Ветер усиливается у побережья."
+      },
+      {
+        "en": "Efforts intensified after the leak.",
+        "ru": "Усилия усилились после утечки."
+      },
+      {
+        "en": "Don't intensify the conflict.",
+        "ru": "Не усиливай конфликт."
+      }
+    ],
+    "colloc": "intensify efforts",
+    "pattern": "intensify + N",
+    "exRu": "Ветер усиливается у побережья.",
+    "ex": "Winds intensify near the coast."
+  },
+  {
+    "word": "interact",
+    "lemma": "interact",
+    "ipa": "/ˌɪnərˈækt/",
+    "pos": "verb",
+    "tr": "взаимодействовать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Kids interact through play.",
+        "ru": "Дети взаимодействуют через игру."
+      },
+      {
+        "en": "Users interact with the interface.",
+        "ru": "Пользователи взаимодействуют с интерфейсом."
+      },
+      {
+        "en": "Chemicals interact unpredictably.",
+        "ru": "Химикаты взаимодействуют непредсказуемо."
+      }
+    ],
+    "colloc": "interact with",
+    "pattern": "interact with + N",
+    "exRu": "Дети взаимодействуют через игру.",
+    "ex": "Kids interact through play."
+  },
+  {
+    "word": "interfere",
+    "lemma": "interfere",
+    "ipa": "/ˌɪnərˈfɪr/",
+    "pos": "verb",
+    "tr": "вмешиваться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't interfere in their talks.",
+        "ru": "Не вмешивайся в их переговоры."
+      },
+      {
+        "en": "Noise interferes with sleep.",
+        "ru": "Шум мешает сну."
+      },
+      {
+        "en": "Weather interfered with the launch.",
+        "ru": "Погода помешала запуску."
+      }
+    ],
+    "colloc": "interfere with · interfere in",
+    "pattern": "interfere with/in",
+    "exRu": "Не вмешивайся в их переговоры.",
+    "ex": "Don't interfere in their talks."
+  },
+  {
+    "word": "interpret",
+    "lemma": "interpret",
+    "ipa": "/ˌɪnˈtərprət/",
+    "pos": "verb",
+    "tr": "интерпретировать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Interpret the results carefully.",
+        "ru": "Осторожно интерпретируй результаты."
+      },
+      {
+        "en": "She interprets for the embassy.",
+        "ru": "Она переводит для посольства."
+      },
+      {
+        "en": "Dreams are hard to interpret.",
+        "ru": "Сны трудно интерпретировать."
+      }
+    ],
+    "colloc": "interpret as · interpret for",
+    "pattern": "interpret + N",
+    "exRu": "Осторожно интерпретируй результаты.",
+    "ex": "Interpret the results carefully."
+  },
+  {
+    "word": "interrupt",
+    "lemma": "interrupt",
+    "ipa": "/ˌɪntərˈəpt/",
+    "pos": "verb",
+    "tr": "прерывать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Don't interrupt the speaker.",
+        "ru": "Не перебивай выступающего."
+      },
+      {
+        "en": "Storms interrupted the match.",
+        "ru": "Бури прервали матч."
+      },
+      {
+        "en": "Sorry to interrupt your lunch.",
+        "ru": "Извини, что прерываю твой обед."
+      }
+    ],
+    "colloc": "interrupt a meeting",
+    "pattern": "interrupt + N",
+    "exRu": "Не перебивай выступающего.",
+    "ex": "Don't interrupt the speaker."
+  },
+  {
+    "word": "intervene",
+    "lemma": "intervene",
+    "ipa": "/ˌɪntərˈvin/",
+    "pos": "verb",
+    "tr": "вмешиваться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Teachers intervene early.",
+        "ru": "Учителя вмешиваются рано."
+      },
+      {
+        "en": "The UN intervened in the crisis.",
+        "ru": "ООН вмешалась в кризис."
+      },
+      {
+        "en": "Don't intervene unless asked.",
+        "ru": "Не вмешивайся, пока не попросят."
+      }
+    ],
+    "colloc": "intervene in",
+    "pattern": "intervene in + N",
+    "exRu": "Учителя вмешиваются рано.",
+    "ex": "Teachers intervene early."
+  },
+  {
+    "word": "invade",
+    "lemma": "invade",
+    "ipa": "/ˌɪnˈveɪd/",
+    "pos": "verb",
+    "tr": "вторгаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Armies invade across borders.",
+        "ru": "Армии вторгаются через границы."
+      },
+      {
+        "en": "Don't invade their privacy.",
+        "ru": "Не вторгайся в их частную жизнь."
+      },
+      {
+        "en": "Tourists invaded the quiet town.",
+        "ru": "Туристы наводнили тихий город."
+      }
+    ],
+    "colloc": "invade privacy",
+    "pattern": "invade + N",
+    "exRu": "Армии вторгаются через границы.",
+    "ex": "Armies invade across borders."
+  },
+  {
+    "word": "invoke",
+    "lemma": "invoke",
+    "ipa": "/ˌɪnˈvoʊk/",
+    "pos": "verb",
+    "tr": "ссылаться / вызывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Lawyers invoke precedent.",
+        "ru": "Адвокаты ссылаются на прецедент."
+      },
+      {
+        "en": "Don't invoke fear to persuade.",
+        "ru": "Не вызывай страх, чтобы убеждать."
+      },
+      {
+        "en": "The ritual invokes old myths.",
+        "ru": "Ритуал взывает к старым мифам."
+      }
+    ],
+    "colloc": "invoke a law · invoke a name",
+    "pattern": "invoke + N",
+    "exRu": "Адвокаты ссылаются на прецедент.",
+    "ex": "Lawyers invoke precedent."
+  },
+  {
+    "word": "isolate",
+    "lemma": "isolate",
+    "ipa": "/ˈaɪsəˌleɪt/",
+    "pos": "verb",
+    "tr": "изолировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Isolate the faulty server.",
+        "ru": "Изолируй неисправный сервер."
+      },
+      {
+        "en": "Patients were isolated overnight.",
+        "ru": "Пациентов изолировали на ночь."
+      },
+      {
+        "en": "Don't isolate yourself socially.",
+        "ru": "Не изолируй себя социально."
+      }
+    ],
+    "colloc": "isolate from",
+    "pattern": "isolate + N + from",
+    "exRu": "Изолируй неисправный сервер.",
+    "ex": "Isolate the faulty server."
+  },
+  {
+    "word": "justify",
+    "lemma": "justify",
+    "ipa": "/ˈʤəstəˌfaɪ/",
+    "pos": "verb",
+    "tr": "оправдывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Justify the budget increase.",
+        "ru": "Обоснуй увеличение бюджета."
+      },
+      {
+        "en": "Nothing justifies cruelty.",
+        "ru": "Ничто не оправдывает жестокость."
+      },
+      {
+        "en": "Can you justify that claim?",
+        "ru": "Можешь обосновать это утверждение?"
+      }
+    ],
+    "colloc": "justify a decision",
+    "pattern": "justify + N",
+    "exRu": "Обоснуй увеличение бюджета.",
+    "ex": "Justify the budget increase."
+  },
+  {
+    "word": "kidnap",
+    "lemma": "kidnap",
+    "ipa": "/ˈkɪdˌnæp/",
+    "pos": "verb",
+    "tr": "похищать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Criminals kidnap for ransom.",
+        "ru": "Преступники похищают ради выкупа."
+      },
+      {
+        "en": "The plot involves a kidnapped child.",
+        "ru": "В сюжете — похищенный ребёнок."
+      },
+      {
+        "en": "Guards prevented a kidnap attempt.",
+        "ru": "Охрана предотвратила попытку похищения."
+      }
+    ],
+    "colloc": "kidnap for ransom",
+    "pattern": "kidnap + N",
+    "exRu": "Преступники похищают ради выкупа.",
+    "ex": "Criminals kidnap for ransom."
+  },
+  {
+    "word": "lean",
+    "lemma": "lean",
+    "ipa": "/lin/",
+    "pos": "verb",
+    "tr": "прислоняться / склоняться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Lean the ladder against the wall.",
+        "ru": "Прислони лестницу к стене."
+      },
+      {
+        "en": "She leans toward a compromise.",
+        "ru": "Она склоняется к компромиссу."
+      },
+      {
+        "en": "Don't lean on weak evidence.",
+        "ru": "Не опирайся на слабые доказательства."
+      }
+    ],
+    "colloc": "lean on · lean toward",
+    "pattern": "lean on/toward",
+    "exRu": "Прислони лестницу к стене.",
+    "ex": "Lean the ladder against the wall."
+  },
+  {
+    "word": "leap",
+    "lemma": "leap",
+    "ipa": "/lip/",
+    "pos": "verb",
+    "tr": "прыгать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Deer leap across the road.",
+        "ru": "Олени перепрыгивают дорогу."
+      },
+      {
+        "en": "Sales leapt after the launch.",
+        "ru": "Продажи скакнули после запуска."
+      },
+      {
+        "en": "Leap to conclusions carefully.",
+        "ru": "Осторожно прыгай к выводам."
+      }
+    ],
+    "colloc": "leap to · leap over",
+    "pattern": "leap",
+    "exRu": "Олени перепрыгивают дорогу.",
+    "ex": "Deer leap across the road."
+  },
+  {
+    "word": "linger",
+    "lemma": "linger",
+    "ipa": "/ˈlɪŋər/",
+    "pos": "verb",
+    "tr": "задерживаться",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Guests lingered after dinner.",
+        "ru": "Гости задержались после ужина."
+      },
+      {
+        "en": "The smell lingered for days.",
+        "ru": "Запах держался днями."
+      },
+      {
+        "en": "Don't linger on past mistakes.",
+        "ru": "Не задерживайся на прошлых ошибках."
+      }
+    ],
+    "colloc": "linger on · linger over",
+    "pattern": "linger",
+    "exRu": "Гости задержались после ужина.",
+    "ex": "Guests lingered after dinner."
+  },
+  {
+    "word": "loom",
+    "lemma": "loom",
+    "ipa": "/lum/",
+    "pos": "verb",
+    "tr": "нависать",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Deadlines loom next week.",
+        "ru": "Дедлайны нависают на следующей неделе."
+      },
+      {
+        "en": "Dark clouds loomed over the hills.",
+        "ru": "Тёмные облака нависли над холмами."
+      },
+      {
+        "en": "A crisis is looming.",
+        "ru": "Надвигается кризис."
+      }
+    ],
+    "colloc": "loom large · loom over",
+    "pattern": "loom",
+    "exRu": "Дедлайны нависают на следующей неделе.",
+    "ex": "Deadlines loom next week."
+  },
+  {
+    "word": "lower",
+    "lemma": "lower",
+    "ipa": "/loʊər/",
+    "pos": "verb",
+    "tr": "снижать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Lower the volume please.",
+        "ru": "Пожалуйста, сделай тише."
+      },
+      {
+        "en": "Rates were lowered overnight.",
+        "ru": "Ставки снизили за ночь."
+      },
+      {
+        "en": "Lower your expectations slightly.",
+        "ru": "Чуть снизь ожидания."
+      }
+    ],
+    "colloc": "lower costs · lower a flag",
+    "pattern": "lower + N",
+    "exRu": "Пожалуйста, сделай тише.",
+    "ex": "Lower the volume please."
+  },
+  {
+    "word": "maintain",
+    "lemma": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "pos": "verb",
+    "tr": "поддерживать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Maintain steady eye contact.",
+        "ru": "Поддерживай устойчивый зрительный контакт."
+      },
+      {
+        "en": "Cities maintain public parks.",
+        "ru": "Города содержат общественные парки."
+      },
+      {
+        "en": "She maintains that she is innocent.",
+        "ru": "Она утверждает, что невиновна."
+      }
+    ],
+    "colloc": "maintain that · maintain equipment",
+    "pattern": "maintain + N",
+    "exRu": "Поддерживай устойчивый зрительный контакт.",
+    "ex": "Maintain steady eye contact."
+  },
+  {
+    "word": "manifest",
+    "lemma": "manifest",
+    "ipa": "/ˈmænəˌfɛst/",
+    "pos": "verb",
+    "tr": "проявляться",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Stress can manifest as headaches.",
+        "ru": "Стресс может проявляться головными болями."
+      },
+      {
+        "en": "Support manifested in donations.",
+        "ru": "Поддержка проявилась в пожертвованиях."
+      },
+      {
+        "en": "Problems manifest under pressure.",
+        "ru": "Проблемы проявляются под давлением."
+      }
+    ],
+    "colloc": "manifest as · manifest in",
+    "pattern": "manifest as/in",
+    "exRu": "Стресс может проявляться головными болями.",
+    "ex": "Stress can manifest as headaches."
+  },
+  {
+    "word": "manipulate",
+    "lemma": "manipulate",
+    "ipa": "/məˈnɪpjəˌleɪt/",
+    "pos": "verb",
+    "tr": "манипулировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't manipulate the data.",
+        "ru": "Не манипулируй данными."
+      },
+      {
+        "en": "Surgeons manipulate tiny tools.",
+        "ru": "Хирурги управляют крошечными инструментами."
+      },
+      {
+        "en": "Ads can manipulate emotions.",
+        "ru": "Реклама может манипулировать эмоциями."
+      }
+    ],
+    "colloc": "manipulate data",
+    "note": "часто негативно",
+    "pattern": "manipulate + N",
+    "exRu": "Не манипулируй данными.",
+    "ex": "Don't manipulate the data."
+  },
+  {
+    "word": "maximize",
+    "lemma": "maximize",
+    "ipa": "/ˈmæksəˌmaɪz/",
+    "pos": "verb",
+    "tr": "максимизировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Maximize limited study time.",
+        "ru": "Максимизируй ограниченное учебное время."
+      },
+      {
+        "en": "Firms maximize short-term profit.",
+        "ru": "Фирмы максимизируют краткосрочную прибыль."
+      },
+      {
+        "en": "Maximize battery life outdoors.",
+        "ru": "Максимизируй жизнь батареи на улице."
+      }
+    ],
+    "colloc": "maximize efficiency",
+    "note": "AmE: maximize",
+    "pattern": "maximize + N",
+    "exRu": "Максимизируй ограниченное учебное время.",
+    "ex": "Maximize limited study time."
+  },
+  {
+    "word": "melt",
+    "lemma": "melt",
+    "ipa": "/mɛlt/",
+    "pos": "verb",
+    "tr": "таять",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Snow melts in spring sun.",
+        "ru": "Снег тает на весеннем солнце."
+      },
+      {
+        "en": "Her anger melted after the apology.",
+        "ru": "Её гнев растаял после извинения."
+      },
+      {
+        "en": "Chocolate melts quickly.",
+        "ru": "Шоколад быстро тает."
+      }
+    ],
+    "colloc": "melt away · melt into",
+    "pattern": "melt",
+    "exRu": "Снег тает на весеннем солнце.",
+    "ex": "Snow melts in spring sun."
+  },
+  {
+    "word": "merge",
+    "lemma": "merge",
+    "ipa": "/mərʤ/",
+    "pos": "verb",
+    "tr": "объединять",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Merge the two departments.",
+        "ru": "Объедини два отдела."
+      },
+      {
+        "en": "Banks merged last year.",
+        "ru": "Банки объединились в прошлом году."
+      },
+      {
+        "en": "Merge changes into main.",
+        "ru": "Слей изменения в основную ветку."
+      }
+    ],
+    "colloc": "merge with · merge into",
+    "pattern": "merge with/into",
+    "exRu": "Объедини два отдела.",
+    "ex": "Merge the two departments."
+  },
+  {
+    "word": "minimize",
+    "lemma": "minimize",
+    "ipa": "/ˈmɪnəˌmaɪz/",
+    "pos": "verb",
+    "tr": "минимизировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Minimize unnecessary travel.",
+        "ru": "Минимизируй ненужные поездки."
+      },
+      {
+        "en": "Designers minimize visual clutter.",
+        "ru": "Дизайнеры минимизируют визуальный шум."
+      },
+      {
+        "en": "Minimize risk before launch.",
+        "ru": "Минимизируй риск перед запуском."
+      }
+    ],
+    "colloc": "minimize risk",
+    "note": "AmE: minimize",
+    "pattern": "minimize + N",
+    "exRu": "Минимизируй ненужные поездки.",
+    "ex": "Minimize unnecessary travel."
+  },
+  {
+    "word": "mobilize",
+    "lemma": "mobilize",
+    "ipa": "/ˈmoʊbəˌlaɪz/",
+    "pos": "verb",
+    "tr": "мобилизовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Mobilize volunteers quickly.",
+        "ru": "Быстро мобилизуй волонтёров."
+      },
+      {
+        "en": "The army mobilized overnight.",
+        "ru": "Армию мобилизовали за ночь."
+      },
+      {
+        "en": "Communities mobilize after floods.",
+        "ru": "Сообщества мобилизуются после наводнений."
+      }
+    ],
+    "colloc": "mobilize support",
+    "note": "AmE: mobilize",
+    "pattern": "mobilize + N",
+    "exRu": "Быстро мобилизуй волонтёров.",
+    "ex": "Mobilize volunteers quickly."
+  },
+  {
+    "word": "modify",
+    "lemma": "modify",
+    "ipa": "/ˈmɑdəˌfaɪ/",
+    "pos": "verb",
+    "tr": "изменять",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Modify the settings carefully.",
+        "ru": "Осторожно измени настройки."
+      },
+      {
+        "en": "Genes can be modified in labs.",
+        "ru": "Гены можно изменять в лабораториях."
+      },
+      {
+        "en": "Please modify your tone.",
+        "ru": "Пожалуйста, смягчи тон."
+      }
+    ],
+    "colloc": "modify a plan",
+    "pattern": "modify + N",
+    "exRu": "Осторожно измени настройки.",
+    "ex": "Modify the settings carefully."
+  },
+  {
+    "word": "motivate",
+    "lemma": "motivate",
+    "ipa": "/ˈmoʊtəˌveɪt/",
+    "pos": "verb",
+    "tr": "мотивировать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Clear goals motivate teams.",
+        "ru": "Ясные цели мотивируют команды."
+      },
+      {
+        "en": "What motivates your research?",
+        "ru": "Что мотивирует твоё исследование?"
+      },
+      {
+        "en": "Bonuses may motivate sales staff.",
+        "ru": "Бонусы могут мотивировать отдел продаж."
+      }
+    ],
+    "colloc": "motivate someone to",
+    "pattern": "motivate + N",
+    "exRu": "Ясные цели мотивируют команды.",
+    "ex": "Clear goals motivate teams."
+  },
+  {
+    "word": "multiply",
+    "lemma": "multiply",
+    "ipa": "/ˈməltəˌplaɪ/",
+    "pos": "verb",
+    "tr": "умножать",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Multiply the values carefully.",
+        "ru": "Осторожно умножь значения."
+      },
+      {
+        "en": "Rumors multiply online.",
+        "ru": "Слухи множатся онлайн."
+      },
+      {
+        "en": "Cells multiply rapidly.",
+        "ru": "Клетки быстро размножаются."
+      }
+    ],
+    "colloc": "multiply by",
+    "pattern": "multiply + N",
+    "exRu": "Осторожно умножь значения.",
+    "ex": "Multiply the values carefully."
+  },
+  {
+    "word": "neglect",
+    "lemma": "neglect",
+    "ipa": "/nɪˈglɛkt/",
+    "pos": "verb",
+    "tr": "пренебрегать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't neglect basic sleep.",
+        "ru": "Не пренебрегай базовым сном."
+      },
+      {
+        "en": "The garden was neglected for years.",
+        "ru": "Сад забросили на годы."
+      },
+      {
+        "en": "He neglected to reply.",
+        "ru": "Он пренебрёг ответом."
+      }
+    ],
+    "colloc": "neglect to · neglect duties",
+    "pattern": "neglect + N",
+    "exRu": "Не пренебрегай базовым сном.",
+    "ex": "Don't neglect basic sleep."
+  },
+  {
+    "word": "negotiate",
+    "lemma": "negotiate",
+    "ipa": "/nɪˈgoʊʃiˌeɪt/",
+    "pos": "verb",
+    "tr": "вести переговоры",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Negotiate a fair contract.",
+        "ru": "Договаривайся о справедливом контракте."
+      },
+      {
+        "en": "Unions negotiate wages yearly.",
+        "ru": "Профсоюзы ежегодно ведут переговоры о зарплате."
+      },
+      {
+        "en": "We negotiated past the obstacle.",
+        "ru": "Мы обошли препятствие."
+      }
+    ],
+    "colloc": "negotiate with · negotiate a deal",
+    "pattern": "negotiate + N",
+    "exRu": "Договаривайся о справедливом контракте.",
+    "ex": "Negotiate a fair contract."
+  },
+  {
+    "word": "nod",
+    "lemma": "nod",
+    "ipa": "/nɑd/",
+    "pos": "verb",
+    "tr": "кивать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "She nodded in agreement.",
+        "ru": "Она кивнула в согласии."
+      },
+      {
+        "en": "He nodded off during the talk.",
+        "ru": "Он задремал во время доклада."
+      },
+      {
+        "en": "Nod to the security guard.",
+        "ru": "Кивни охраннику."
+      }
+    ],
+    "colloc": "nod off · nod in agreement",
+    "pattern": "nod",
+    "exRu": "Она кивнула в согласии.",
+    "ex": "She nodded in agreement."
+  },
+  {
+    "word": "nominate",
+    "lemma": "nominate",
+    "ipa": "/ˈnɑməˌneɪt/",
+    "pos": "verb",
+    "tr": "номинировать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Nominate a strong candidate.",
+        "ru": "Номинируй сильного кандидата."
+      },
+      {
+        "en": "She was nominated for an award.",
+        "ru": "Её номинировали на награду."
+      },
+      {
+        "en": "Members nominate officers.",
+        "ru": "Члены выдвигают должностных лиц."
+      }
+    ],
+    "colloc": "nominate for · nominate as",
+    "pattern": "nominate + N",
+    "exRu": "Номинируй сильного кандидата.",
+    "ex": "Nominate a strong candidate."
+  },
+  {
+    "word": "notify",
+    "lemma": "notify",
+    "ipa": "/ˈnoʊtəˌfaɪ/",
+    "pos": "verb",
+    "tr": "уведомлять",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Notify staff of the change.",
+        "ru": "Уведоми персонал об изменении."
+      },
+      {
+        "en": "Users were notified by email.",
+        "ru": "Пользователей уведомили по электронной почте."
+      },
+      {
+        "en": "Please notify us immediately.",
+        "ru": "Пожалуйста, уведоми нас немедленно."
+      }
+    ],
+    "colloc": "notify of · notify that",
+    "pattern": "notify + N + of",
+    "exRu": "Уведоми персонал об изменении.",
+    "ex": "Notify staff of the change."
+  },
+  {
+    "word": "object",
+    "lemma": "object",
+    "ipa": "/ˈɑbʤɛkt/",
+    "pos": "verb",
+    "tr": "возражать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "I object to the delay.",
+        "ru": "Я возражаю против задержки."
+      },
+      {
+        "en": "Lawyers objected loudly.",
+        "ru": "Адвокаты громко возразили."
+      },
+      {
+        "en": "Residents object to the tower.",
+        "ru": "Жители возражают против башни."
+      }
+    ],
+    "colloc": "object to",
+    "pattern": "object to + N",
+    "exRu": "Я возражаю против задержки.",
+    "ex": "I object to the delay."
+  },
+  {
+    "word": "oblige",
+    "lemma": "oblige",
+    "ipa": "/əˈblaɪʤ/",
+    "pos": "verb",
+    "tr": "обязывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Rules oblige drivers to stop.",
+        "ru": "Правила обязывают водителей останавливаться."
+      },
+      {
+        "en": "I'm much obliged for your help.",
+        "ru": "Я очень обязан за твою помощь."
+      },
+      {
+        "en": "Weather obliged us to cancel.",
+        "ru": "Погода вынудила нас отменить."
+      }
+    ],
+    "colloc": "oblige to · much obliged",
+    "pattern": "oblige + N + to",
+    "exRu": "Правила обязывают водителей останавливаться.",
+    "ex": "Rules oblige drivers to stop."
+  },
+  {
+    "word": "obsess",
+    "lemma": "obsess",
+    "ipa": "/əbˈsɛs/",
+    "pos": "verb",
+    "tr": "зацикливаться",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't obsess over likes.",
+        "ru": "Не зацикливайся на лайках."
+      },
+      {
+        "en": "He obsesses about cleanliness.",
+        "ru": "Он зациклен на чистоте."
+      },
+      {
+        "en": "Fans obsess over every detail.",
+        "ru": "Фанаты зацикливаются на каждой детали."
+      }
+    ],
+    "colloc": "obsess over · obsess about",
+    "pattern": "obsess over/about",
+    "exRu": "Не зацикливайся на лайках.",
+    "ex": "Don't obsess over likes."
+  },
+  {
+    "word": "obtain",
+    "lemma": "obtain",
+    "ipa": "/əbˈteɪn/",
+    "pos": "verb",
+    "tr": "получать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Obtain written permission.",
+        "ru": "Получи письменное разрешение."
+      },
+      {
+        "en": "Samples were obtained legally.",
+        "ru": "Образцы получены законно."
+      },
+      {
+        "en": "How did you obtain this data?",
+        "ru": "Как ты получил эти данные?"
+      }
+    ],
+    "colloc": "obtain permission",
+    "pattern": "obtain + N",
+    "exRu": "Получи письменное разрешение.",
+    "ex": "Obtain written permission."
+  },
+  {
+    "word": "occupy",
+    "lemma": "occupy",
+    "ipa": "/ˈɑkjəˌpaɪ/",
+    "pos": "verb",
+    "tr": "занимать",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Protesters occupy the square.",
+        "ru": "Протестующие занимают площадь."
+      },
+      {
+        "en": "Reading occupies her evenings.",
+        "ru": "Чтение занимает её вечера."
+      },
+      {
+        "en": "The house is occupied.",
+        "ru": "Дом занят."
+      }
+    ],
+    "colloc": "occupy a position · occupy oneself",
+    "pattern": "occupy + N",
+    "exRu": "Протестующие занимают площадь.",
+    "ex": "Protesters occupy the square."
+  },
+  {
+    "word": "offend",
+    "lemma": "offend",
+    "ipa": "/əˈfɛnd/",
+    "pos": "verb",
+    "tr": "оскорблять",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't offend your hosts.",
+        "ru": "Не оскорбляй хозяев."
+      },
+      {
+        "en": "The joke offended many people.",
+        "ru": "Шутка оскорбила многих."
+      },
+      {
+        "en": "I didn't mean to offend you.",
+        "ru": "Я не хотел тебя обидеть."
+      }
+    ],
+    "colloc": "offend against",
+    "pattern": "offend + N",
+    "exRu": "Не оскорбляй хозяев.",
+    "ex": "Don't offend your hosts."
+  },
+  {
+    "word": "oppose",
+    "lemma": "oppose",
+    "ipa": "/əˈpoʊz/",
+    "pos": "verb",
+    "tr": "противостоять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Citizens oppose the tax.",
+        "ru": "Граждане выступают против налога."
+      },
+      {
+        "en": "She opposed the motion.",
+        "ru": "Она выступила против предложения."
+      },
+      {
+        "en": "Don't oppose every new idea.",
+        "ru": "Не противься каждой новой идее."
+      }
+    ],
+    "colloc": "oppose a plan · be opposed to",
+    "pattern": "oppose + N",
+    "exRu": "Граждане выступают против налога.",
+    "ex": "Citizens oppose the tax."
+  },
+  {
+    "word": "opt",
+    "lemma": "opt",
+    "ipa": "/ɑpt/",
+    "pos": "verb",
+    "tr": "выбирать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Opt for the safer route.",
+        "ru": "Выбери более безопасный путь."
+      },
+      {
+        "en": "Many opted out of the survey.",
+        "ru": "Многие отказались от опроса."
+      },
+      {
+        "en": "She opted to stay home.",
+        "ru": "Она предпочла остаться дома."
+      }
+    ],
+    "colloc": "opt for · opt out",
+    "pattern": "opt for/to",
+    "exRu": "Выбери более безопасный путь.",
+    "ex": "Opt for the safer route."
+  },
+  {
+    "word": "originate",
+    "lemma": "originate",
+    "ipa": "/ərˈɪʤəˌneɪt/",
+    "pos": "verb",
+    "tr": "происходить",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The custom originates in Asia.",
+        "ru": "Обычай происходит из Азии."
+      },
+      {
+        "en": "Where did the rumor originate?",
+        "ru": "Где возник слух?"
+      },
+      {
+        "en": "The river originates in the mountains.",
+        "ru": "Река берёт начало в горах."
+      }
+    ],
+    "colloc": "originate in · originate from",
+    "pattern": "originate in/from",
+    "exRu": "Обычай происходит из Азии.",
+    "ex": "The custom originates in Asia."
+  },
+  {
+    "word": "overlook",
+    "lemma": "overlook",
+    "ipa": "/ˈoʊvərˌlʊk/",
+    "pos": "verb",
+    "tr": "упускать / смотреть сверху",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Don't overlook small risks.",
+        "ru": "Не упускай мелкие риски."
+      },
+      {
+        "en": "The balcony overlooks the bay.",
+        "ru": "Балкон смотрит на залив."
+      },
+      {
+        "en": "Managers overlooked early warnings.",
+        "ru": "Менеджеры упустили ранние предупреждения."
+      }
+    ],
+    "colloc": "overlook a detail",
+    "note": "два смысла",
+    "pattern": "overlook + N",
+    "exRu": "Не упускай мелкие риски.",
+    "ex": "Don't overlook small risks."
+  },
+  {
+    "word": "oversee",
+    "lemma": "oversee",
+    "ipa": "/ˈoʊvərˌsi/",
+    "pos": "verb",
+    "tr": "надзирать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "She oversees daily operations.",
+        "ru": "Она надзирает за ежедневными операциями."
+      },
+      {
+        "en": "A committee oversees the fund.",
+        "ru": "Комитет надзирает за фондом."
+      },
+      {
+        "en": "Who will oversee the merger?",
+        "ru": "Кто будет надзирать за слиянием?"
+      }
+    ],
+    "colloc": "oversee a project",
+    "pattern": "oversee + N",
+    "exRu": "Она надзирает за ежедневными операциями.",
+    "ex": "She oversees daily operations."
+  },
+  {
+    "word": "overturn",
+    "lemma": "overturn",
+    "ipa": "/ˈoʊvərˌtərn/",
+    "pos": "verb",
+    "tr": "опрокидывать / отменять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Winds overturned the signs.",
+        "ru": "Ветер опрокинул знаки."
+      },
+      {
+        "en": "The court overturned the ruling.",
+        "ru": "Суд отменил решение."
+      },
+      {
+        "en": "Protesters seek to overturn the ban.",
+        "ru": "Протестующие стремятся отменить запрет."
+      }
+    ],
+    "colloc": "overturn a decision",
+    "pattern": "overturn + N",
+    "exRu": "Ветер опрокинул знаки.",
+    "ex": "Winds overturned the signs."
+  },
+  {
+    "word": "overwhelm",
+    "lemma": "overwhelm",
+    "ipa": "/ˌoʊvərˈwɛlm/",
+    "pos": "verb",
+    "tr": "перегружать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Tasks can overwhelm beginners.",
+        "ru": "Задачи могут перегрузить новичков."
+      },
+      {
+        "en": "Grief overwhelmed the family.",
+        "ru": "Горе захлестнуло семью."
+      },
+      {
+        "en": "Don't overwhelm users with options.",
+        "ru": "Не перегружай пользователей опциями."
+      }
+    ],
+    "colloc": "overwhelm with",
+    "pattern": "overwhelm + N",
+    "exRu": "Задачи могут перегрузить новичков.",
+    "ex": "Tasks can overwhelm beginners."
+  }
+]

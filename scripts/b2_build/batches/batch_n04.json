@@ -1,0 +1,1503 @@
+[
+  {
+    "word": "landing",
+    "lemma": "landing",
+    "ipa": "/ˈlændɪŋ/",
+    "pos": "noun",
+    "tr": "посадка",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "The plane made a smooth landing.",
+        "ru": "Самолёт сделал мягкую посадку."
+      },
+      {
+        "en": "Moon landing inspired a generation.",
+        "ru": "Посадка на Луну вдохновила поколение."
+      },
+      {
+        "en": "Secure a job landing carefully.",
+        "ru": "Осторожно обеспечь получение работы."
+      }
+    ],
+    "colloc": "emergency landing",
+    "exRu": "Самолёт сделал мягкую посадку.",
+    "ex": "The plane made a smooth landing."
+  },
+  {
+    "word": "landmark",
+    "lemma": "landmark",
+    "ipa": "/ˈlændˌmɑrk/",
+    "pos": "noun",
+    "tr": "ориентир",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Visit a historic landmark.",
+        "ru": "Посети исторический ориентир."
+      },
+      {
+        "en": "The ruling was a legal landmark.",
+        "ru": "Решение стало правовым ориентиром."
+      },
+      {
+        "en": "Landmarks guide travelers.",
+        "ru": "Ориентиры ведут путешественников."
+      }
+    ],
+    "colloc": "landmark decision",
+    "exRu": "Посети исторический ориентир.",
+    "ex": "Visit a historic landmark."
+  },
+  {
+    "word": "latest",
+    "lemma": "latest",
+    "ipa": "/ˈleɪtəst/",
+    "pos": "noun",
+    "tr": "последнее",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Have you heard the latest?",
+        "ru": "Ты слышал последнее?"
+      },
+      {
+        "en": "Buy the latest model.",
+        "ru": "Купи последнюю модель."
+      },
+      {
+        "en": "Stay updated with the latest.",
+        "ru": "Оставайся в курсе последнего."
+      }
+    ],
+    "colloc": "the latest",
+    "exRu": "Ты слышал последнее?",
+    "ex": "Have you heard the latest?"
+  },
+  {
+    "word": "lawmaker",
+    "lemma": "lawmaker",
+    "ipa": "/ˈlɔˌmeɪkər/",
+    "pos": "noun",
+    "tr": "законодатель",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Lawmakers debated the bill.",
+        "ru": "Законодатели обсуждали законопроект."
+      },
+      {
+        "en": "Elect careful lawmakers.",
+        "ru": "Избирай осторожных законодателей."
+      },
+      {
+        "en": "A bipartisan group of lawmakers agreed.",
+        "ru": "Двухпартийная группа законодателей согласилась."
+      }
+    ],
+    "colloc": "state lawmaker",
+    "exRu": "Законодатели обсуждали законопроект.",
+    "ex": "Lawmakers debated the bill."
+  },
+  {
+    "word": "lawn",
+    "lemma": "lawn",
+    "ipa": "/lɔn/",
+    "pos": "noun",
+    "tr": "газон",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Mow the lawn weekly.",
+        "ru": "Коси газон еженедельно."
+      },
+      {
+        "en": "Kids played on the lawn.",
+        "ru": "Дети играли на газоне."
+      },
+      {
+        "en": "Water the lawn at dawn.",
+        "ru": "Поливай газон на рассвете."
+      }
+    ],
+    "colloc": "front lawn",
+    "exRu": "Коси газон еженедельно.",
+    "ex": "Mow the lawn weekly."
+  },
+  {
+    "word": "lawsuit",
+    "lemma": "lawsuit",
+    "ipa": "/ˈlɔˌsut/",
+    "pos": "noun",
+    "tr": "иск",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "File a lawsuit carefully.",
+        "ru": "Осторожно подай иск."
+      },
+      {
+        "en": "The lawsuit settled out of court.",
+        "ru": "Иск урегулировали вне суда."
+      },
+      {
+        "en": "A class-action lawsuit began.",
+        "ru": "Начался коллективный иск."
+      }
+    ],
+    "colloc": "file a lawsuit",
+    "exRu": "Осторожно подай иск.",
+    "ex": "File a lawsuit carefully."
+  },
+  {
+    "word": "layout",
+    "lemma": "layout",
+    "ipa": "/leɪaʊt/",
+    "pos": "noun",
+    "tr": "макет",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Redesign the page layout.",
+        "ru": "Переделай макет страницы."
+      },
+      {
+        "en": "Office layout affects focus.",
+        "ru": "Планировка офиса влияет на фокус."
+      },
+      {
+        "en": "Print the layout for review.",
+        "ru": "Распечатай макет для проверки."
+      }
+    ],
+    "colloc": "page layout",
+    "exRu": "Переделай макет страницы.",
+    "ex": "Redesign the page layout."
+  },
+  {
+    "word": "legacy",
+    "lemma": "legacy",
+    "ipa": "/ˈlɛgəsi/",
+    "pos": "noun",
+    "tr": "наследие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Leave a positive legacy.",
+        "ru": "Оставь позитивное наследие."
+      },
+      {
+        "en": "Legacy systems need upgrades.",
+        "ru": "Устаревшие системы нуждаются в обновлениях."
+      },
+      {
+        "en": "Colonial legacy still shapes law.",
+        "ru": "Колониальное наследие всё ещё формирует закон."
+      }
+    ],
+    "colloc": "legacy of",
+    "exRu": "Оставь позитивное наследие.",
+    "ex": "Leave a positive legacy."
+  },
+  {
+    "word": "legislature",
+    "lemma": "legislature",
+    "ipa": "/ˈlɛʤəsˌleɪʧər/",
+    "pos": "noun",
+    "tr": "законодательный орган",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The legislature passed reforms.",
+        "ru": "Законодательный орган принял реформы."
+      },
+      {
+        "en": "State legislatures vary widely.",
+        "ru": "Штатные легислатуры сильно различаются."
+      },
+      {
+        "en": "Lobby the legislature carefully.",
+        "ru": "Осторожно лоббируй легислатуру."
+      }
+    ],
+    "colloc": "state legislature",
+    "exRu": "Законодательный орган принял реформы.",
+    "ex": "The legislature passed reforms."
+  },
+  {
+    "word": "lens",
+    "lemma": "lens",
+    "ipa": "/lɛnz/",
+    "pos": "noun",
+    "tr": "линза",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Clean the camera lens.",
+        "ru": "Почисти линзу камеры."
+      },
+      {
+        "en": "See events through a critical lens.",
+        "ru": "Смотри на события через критическую линзу."
+      },
+      {
+        "en": "Contact lenses need care.",
+        "ru": "Контактные линзы нуждаются в уходе."
+      }
+    ],
+    "colloc": "through the lens of",
+    "exRu": "Почисти линзу камеры.",
+    "ex": "Clean the camera lens."
+  },
+  {
+    "word": "liberation",
+    "lemma": "liberation",
+    "ipa": "/ˌlɪˌbərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "освобождение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Liberation movements reshaped nations.",
+        "ru": "Освободительные движения перестроили нации."
+      },
+      {
+        "en": "Animal liberation activists protested.",
+        "ru": "Активисты освобождения животных протестовали."
+      },
+      {
+        "en": "The city celebrated liberation.",
+        "ru": "Город отпраздновал освобождение."
+      }
+    ],
+    "colloc": "liberation of",
+    "exRu": "Освободительные движения перестроили нации.",
+    "ex": "Liberation movements reshaped nations."
+  },
+  {
+    "word": "limb",
+    "lemma": "limb",
+    "ipa": "/lɪm/",
+    "pos": "noun",
+    "tr": "конечность",
+    "bucket": "body",
+    "examples": [
+      {
+        "en": "Surgeons saved the limb.",
+        "ru": "Хирурги спасли конечность."
+      },
+      {
+        "en": "Climb out on a limb carefully.",
+        "ru": "Осторожно рискни."
+      },
+      {
+        "en": "Tree limbs cracked in wind.",
+        "ru": "Ветви трещали на ветру."
+      }
+    ],
+    "colloc": "out on a limb",
+    "exRu": "Хирурги спасли конечность.",
+    "ex": "Surgeons saved the limb."
+  },
+  {
+    "word": "lineup",
+    "lemma": "lineup",
+    "ipa": "/ˈlaɪˌnəp/",
+    "pos": "noun",
+    "tr": "состав",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Check tonight's starting lineup.",
+        "ru": "Проверь сегодняшний стартовый состав."
+      },
+      {
+        "en": "A police lineup identified him.",
+        "ru": "Очная ставка опознала его."
+      },
+      {
+        "en": "Festival lineup looks strong.",
+        "ru": "Состав фестиваля выглядит сильным."
+      }
+    ],
+    "colloc": "lineup of",
+    "exRu": "Проверь сегодняшний стартовый состав.",
+    "ex": "Check tonight's starting lineup."
+  },
+  {
+    "word": "listing",
+    "lemma": "listing",
+    "ipa": "/ˈlɪstɪŋ/",
+    "pos": "noun",
+    "tr": "листинг",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Check the job listing.",
+        "ru": "Проверь вакансию."
+      },
+      {
+        "en": "Property listings flooded the site.",
+        "ru": "Объявления о недвижимости заполнили сайт."
+      },
+      {
+        "en": "Stock listing requires paperwork.",
+        "ru": "Листинг акций требует документов."
+      }
+    ],
+    "colloc": "listing of",
+    "exRu": "Проверь вакансию.",
+    "ex": "Check the job listing."
+  },
+  {
+    "word": "liter",
+    "lemma": "liter",
+    "ipa": "/ˈlitər/",
+    "pos": "noun",
+    "tr": "литр",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Buy two liters of water.",
+        "ru": "Купи два литра воды."
+      },
+      {
+        "en": "Engine capacity is in liters.",
+        "ru": "Объём двигателя — в литрах."
+      },
+      {
+        "en": "Milk costs more per liter.",
+        "ru": "Молоко дороже за литр."
+      }
+    ],
+    "colloc": "liter of",
+    "note": "AmE often liter",
+    "exRu": "Купи два литра воды.",
+    "ex": "Buy two liters of water."
+  },
+  {
+    "word": "litter",
+    "lemma": "litter",
+    "ipa": "/ˈlɪtər/",
+    "pos": "noun",
+    "tr": "мусор",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Don't litter in parks.",
+        "ru": "Не мусори в парках."
+      },
+      {
+        "en": "A litter of puppies arrived.",
+        "ru": "Появился помёт щенков."
+      },
+      {
+        "en": "Clear roadside litter.",
+        "ru": "Убери придорожный мусор."
+      }
+    ],
+    "colloc": "litter of",
+    "exRu": "Не мусори в парках.",
+    "ex": "Don't litter in parks."
+  },
+  {
+    "word": "log",
+    "lemma": "log",
+    "ipa": "/lɔg/",
+    "pos": "noun",
+    "tr": "бревно / журнал",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Stack firewood logs.",
+        "ru": "Сложи поленья."
+      },
+      {
+        "en": "Check the error log.",
+        "ru": "Проверь журнал ошибок."
+      },
+      {
+        "en": "Keep a daily log.",
+        "ru": "Веди ежедневный журнал."
+      }
+    ],
+    "colloc": "log file",
+    "exRu": "Сложи поленья.",
+    "ex": "Stack firewood logs."
+  },
+  {
+    "word": "lyric",
+    "lemma": "lyric",
+    "ipa": "/ˈlɪrɪk/",
+    "pos": "noun",
+    "tr": "текст песни",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Write honest lyrics.",
+        "ru": "Пиши честные тексты песен."
+      },
+      {
+        "en": "Fans sang every lyric.",
+        "ru": "Фаны пели каждый куплет."
+      },
+      {
+        "en": "Lyric poetry was her focus.",
+        "ru": "Лирическая поэзия была её фокусом."
+      }
+    ],
+    "colloc": "song lyric",
+    "exRu": "Пиши честные тексты песен.",
+    "ex": "Write honest lyrics."
+  },
+  {
+    "word": "mainland",
+    "lemma": "mainland",
+    "ipa": "/ˈmeɪnˌlænd/",
+    "pos": "noun",
+    "tr": "континент",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Ferries reach the mainland.",
+        "ru": "Паромы достигают материка."
+      },
+      {
+        "en": "Mainland China policies differ.",
+        "ru": "Политика материкового Китая отличается."
+      },
+      {
+        "en": "Island life differs from the mainland.",
+        "ru": "Островная жизнь отличается от материка."
+      }
+    ],
+    "colloc": "on the mainland",
+    "exRu": "Паромы достигают материка.",
+    "ex": "Ferries reach the mainland."
+  },
+  {
+    "word": "mainstream",
+    "lemma": "mainstream",
+    "ipa": "/ˈmeɪnˌstrim/",
+    "pos": "noun",
+    "tr": "мейнстрим",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The idea entered the mainstream.",
+        "ru": "Идея вошла в мейнстрим."
+      },
+      {
+        "en": "Mainstream media covered the story.",
+        "ru": "Мейнстрим-СМИ осветили историю."
+      },
+      {
+        "en": "Leave the mainstream carefully.",
+        "ru": "Осторожно выйди из мейнстрима."
+      }
+    ],
+    "colloc": "mainstream culture",
+    "exRu": "Идея вошла в мейнстрим.",
+    "ex": "The idea entered the mainstream."
+  },
+  {
+    "word": "major",
+    "lemma": "major",
+    "ipa": "/ˈmeɪʤər/",
+    "pos": "noun",
+    "tr": "майор / профиль",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "She is a history major.",
+        "ru": "Она историк по профилю."
+      },
+      {
+        "en": "A major in the army spoke.",
+        "ru": "Майор армии выступил."
+      },
+      {
+        "en": "Declare your major soon.",
+        "ru": "Скоро объяви профиль."
+      }
+    ],
+    "colloc": "college major",
+    "exRu": "Она историк по профилю.",
+    "ex": "She is a history major."
+  },
+  {
+    "word": "makeup",
+    "lemma": "makeup",
+    "ipa": "/ˈmeɪˌkəp/",
+    "pos": "noun",
+    "tr": "макияж / состав",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Apply light makeup.",
+        "ru": "Нанеси лёгкий макияж."
+      },
+      {
+        "en": "The makeup of the board changed.",
+        "ru": "Состав совета изменился."
+      },
+      {
+        "en": "Remove makeup before sleep.",
+        "ru": "Смой макияж перед сном."
+      }
+    ],
+    "colloc": "makeup of",
+    "exRu": "Нанеси лёгкий макияж.",
+    "ex": "Apply light makeup."
+  },
+  {
+    "word": "making",
+    "lemma": "making",
+    "ipa": "/ˈmeɪkɪŋ/",
+    "pos": "noun",
+    "tr": "создание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The making of the film took years.",
+        "ru": "Создание фильма заняло годы."
+      },
+      {
+        "en": "In the making for a decade.",
+        "ru": "В процессе создания десятилетие."
+      },
+      {
+        "en": "Decision-making needs clarity.",
+        "ru": "Принятие решений нуждается в ясности."
+      }
+    ],
+    "colloc": "in the making",
+    "exRu": "Создание фильма заняло годы.",
+    "ex": "The making of the film took years."
+  },
+  {
+    "word": "manipulation",
+    "lemma": "manipulation",
+    "ipa": "/məˌnɪpjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "манипуляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Resist emotional manipulation.",
+        "ru": "Сопротивляйся эмоциональной манипуляции."
+      },
+      {
+        "en": "Data manipulation skewed results.",
+        "ru": "Манипуляция данными исказила результаты."
+      },
+      {
+        "en": "Stock market manipulation is illegal.",
+        "ru": "Манипуляция рынком незаконна."
+      }
+    ],
+    "colloc": "manipulation of",
+    "exRu": "Сопротивляйся эмоциональной манипуляции.",
+    "ex": "Resist emotional manipulation."
+  },
+  {
+    "word": "manufacturing",
+    "lemma": "manufacturing",
+    "ipa": "/ˌmænjəˈfækʧərɪŋ/",
+    "pos": "noun",
+    "tr": "производство",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Manufacturing jobs returned slowly.",
+        "ru": "Производственные рабочие места возвращались медленно."
+      },
+      {
+        "en": "Advanced manufacturing needs skills.",
+        "ru": "Продвинутому производству нужны навыки."
+      },
+      {
+        "en": "Local manufacturing cut shipping.",
+        "ru": "Местное производство сократило доставку."
+      }
+    ],
+    "colloc": "manufacturing sector",
+    "exRu": "Производственные рабочие места возвращались медленно.",
+    "ex": "Manufacturing jobs returned slowly."
+  },
+  {
+    "word": "manuscript",
+    "lemma": "manuscript",
+    "ipa": "/ˈmænjəˌskrɪpt/",
+    "pos": "noun",
+    "tr": "рукопись",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Submit the manuscript by May.",
+        "ru": "Подай рукопись к маю."
+      },
+      {
+        "en": "Ancient manuscripts need care.",
+        "ru": "Древние рукописи нуждаются в уходе."
+      },
+      {
+        "en": "Editors marked the manuscript.",
+        "ru": "Редакторы разметили рукопись."
+      }
+    ],
+    "colloc": "manuscript of",
+    "exRu": "Подай рукопись к маю.",
+    "ex": "Submit the manuscript by May."
+  },
+  {
+    "word": "marathon",
+    "lemma": "marathon",
+    "ipa": "/ˈmɛrəˌθɑn/",
+    "pos": "noun",
+    "tr": "марафон",
+    "bucket": "sport",
+    "examples": [
+      {
+        "en": "Train for a spring marathon.",
+        "ru": "Готовься к весеннему марафону."
+      },
+      {
+        "en": "A legislative marathon lasted days.",
+        "ru": "Законодательный марафон длился днями."
+      },
+      {
+        "en": "She finished her first marathon.",
+        "ru": "Она закончила первый марафон."
+      }
+    ],
+    "colloc": "marathon runner",
+    "exRu": "Готовься к весеннему марафону.",
+    "ex": "Train for a spring marathon."
+  },
+  {
+    "word": "march",
+    "lemma": "march",
+    "ipa": "/mɑrʧ/",
+    "pos": "noun",
+    "tr": "марш",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Workers joined the protest march.",
+        "ru": "Работники присоединились к протестному маршу."
+      },
+      {
+        "en": "Military marches filled the square.",
+        "ru": "Военные марши заполнили площадь."
+      },
+      {
+        "en": "Progress came in a slow march.",
+        "ru": "Прогресс шёл медленным маршем."
+      }
+    ],
+    "colloc": "on the march",
+    "exRu": "Работники присоединились к протестному маршу.",
+    "ex": "Workers joined the protest march."
+  },
+  {
+    "word": "marketplace",
+    "lemma": "marketplace",
+    "ipa": "/ˈmɑrkɪtˌpleɪs/",
+    "pos": "noun",
+    "tr": "рынок",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Compete in a global marketplace.",
+        "ru": "Конкурируй на глобальном рынке."
+      },
+      {
+        "en": "Ideas compete in the marketplace.",
+        "ru": "Идеи конкурируют на рынке."
+      },
+      {
+        "en": "Online marketplaces cut costs.",
+        "ru": "Онлайн-рынки снижают затраты."
+      }
+    ],
+    "colloc": "marketplace of ideas",
+    "exRu": "Конкурируй на глобальном рынке.",
+    "ex": "Compete in a global marketplace."
+  },
+  {
+    "word": "massacre",
+    "lemma": "massacre",
+    "ipa": "/ˈmæsəkər/",
+    "pos": "noun",
+    "tr": "резня",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "History condemns the massacre.",
+        "ru": "История осуждает резню."
+      },
+      {
+        "en": "Survivors recalled the massacre.",
+        "ru": "Выжившие вспоминали резню."
+      },
+      {
+        "en": "Prevent another massacre.",
+        "ru": "Предотврати ещё одну резню."
+      }
+    ],
+    "colloc": "massacre of",
+    "exRu": "История осуждает резню.",
+    "ex": "History condemns the massacre."
+  },
+  {
+    "word": "meantime",
+    "lemma": "meantime",
+    "ipa": "/ˈminˌtaɪm/",
+    "pos": "noun",
+    "tr": "тем временем",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "In the meantime, prepare dinner.",
+        "ru": "Тем временем готовь ужин."
+      },
+      {
+        "en": "Meantime, markets stayed calm.",
+        "ru": "Тем временем рынки оставались спокойными."
+      },
+      {
+        "en": "Use the meantime wisely.",
+        "ru": "Используй промежуток мудро."
+      }
+    ],
+    "colloc": "in the meantime",
+    "exRu": "Тем временем готовь ужин.",
+    "ex": "In the meantime, prepare dinner."
+  },
+  {
+    "word": "medal",
+    "lemma": "medal",
+    "ipa": "/ˈmɛdəl/",
+    "pos": "noun",
+    "tr": "медаль",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "She won a gold medal.",
+        "ru": "Она выиграла золотую медаль."
+      },
+      {
+        "en": "Veterans received service medals.",
+        "ru": "Ветераны получили медали за службу."
+      },
+      {
+        "en": "Medal ceremonies moved many.",
+        "ru": "Церемонии награждения тронули многих."
+      }
+    ],
+    "colloc": "gold medal",
+    "exRu": "Она выиграла золотую медаль.",
+    "ex": "She won a gold medal."
+  },
+  {
+    "word": "meditation",
+    "lemma": "meditation",
+    "ipa": "/ˌmɛdəˈteɪʃən/",
+    "pos": "noun",
+    "tr": "медитация",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Daily meditation lowers stress.",
+        "ru": "Ежедневная медитация снижает стресс."
+      },
+      {
+        "en": "Try guided meditation apps.",
+        "ru": "Попробуй приложения с управляемой медитацией."
+      },
+      {
+        "en": "Meditation practice takes patience.",
+        "ru": "Практика медитации требует терпения."
+      }
+    ],
+    "colloc": "meditation practice",
+    "exRu": "Ежедневная медитация снижает стресс.",
+    "ex": "Daily meditation lowers stress."
+  },
+  {
+    "word": "melody",
+    "lemma": "melody",
+    "ipa": "/ˈmɛlədi/",
+    "pos": "noun",
+    "tr": "мелодия",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "A simple melody stuck with me.",
+        "ru": "Простая мелодия засела во мне."
+      },
+      {
+        "en": "Compose a catchy melody.",
+        "ru": "Сочини цепляющую мелодию."
+      },
+      {
+        "en": "Folk melodies traveled widely.",
+        "ru": "Народные мелодии широко путешествовали."
+      }
+    ],
+    "colloc": "melody of",
+    "exRu": "Простая мелодия засела во мне.",
+    "ex": "A simple melody stuck with me."
+  },
+  {
+    "word": "memo",
+    "lemma": "memo",
+    "ipa": "/ˈmɛˌmoʊ/",
+    "pos": "noun",
+    "tr": "служебная записка",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Send a brief memo.",
+        "ru": "Отправь краткую служебную записку."
+      },
+      {
+        "en": "The memo clarified policy.",
+        "ru": "Записка прояснила политику."
+      },
+      {
+        "en": "Ignore no safety memo.",
+        "ru": "Не игнорируй ни одну записку по безопасности."
+      }
+    ],
+    "colloc": "internal memo",
+    "exRu": "Отправь краткую служебную записку.",
+    "ex": "Send a brief memo."
+  },
+  {
+    "word": "memoir",
+    "lemma": "memoir",
+    "ipa": "/ˈmɛmˌwɑr/",
+    "pos": "noun",
+    "tr": "мемуары",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "She published a raw memoir.",
+        "ru": "Она опубликовала откровенные мемуары."
+      },
+      {
+        "en": "Political memoirs sell well.",
+        "ru": "Политические мемуары хорошо продаются."
+      },
+      {
+        "en": "Write your memoir carefully.",
+        "ru": "Осторожно пиши мемуары."
+      }
+    ],
+    "colloc": "memoir of",
+    "exRu": "Она опубликовала откровенные мемуары.",
+    "ex": "She published a raw memoir."
+  },
+  {
+    "word": "merger",
+    "lemma": "merger",
+    "ipa": "/ˈmərʤər/",
+    "pos": "noun",
+    "tr": "слияние",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Announce the merger carefully.",
+        "ru": "Осторожно объяви слияние."
+      },
+      {
+        "en": "A bank merger created layoffs.",
+        "ru": "Слияние банков создало увольнения."
+      },
+      {
+        "en": "Regulators reviewed the merger.",
+        "ru": "Регуляторы проверили слияние."
+      }
+    ],
+    "colloc": "merger of",
+    "exRu": "Осторожно объяви слияние.",
+    "ex": "Announce the merger carefully."
+  },
+  {
+    "word": "metaphor",
+    "lemma": "metaphor",
+    "ipa": "/ˈmɛtəfɔr/",
+    "pos": "noun",
+    "tr": "метафора",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Use metaphor sparingly.",
+        "ru": "Используй метафору умеренно."
+      },
+      {
+        "en": "Life as a journey is a metaphor.",
+        "ru": "Жизнь как путь — метафора."
+      },
+      {
+        "en": "Mixed metaphors confuse readers.",
+        "ru": "Смешанные метафоры путают читателей."
+      }
+    ],
+    "colloc": "extended metaphor",
+    "exRu": "Используй метафору умеренно.",
+    "ex": "Use metaphor sparingly."
+  },
+  {
+    "word": "methodology",
+    "lemma": "methodology",
+    "ipa": "/ˌmɛθəˈdɑləʤi/",
+    "pos": "noun",
+    "tr": "методология",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Explain your research methodology.",
+        "ru": "Объясни методологию исследования."
+      },
+      {
+        "en": "Flawed methodology weakens claims.",
+        "ru": "Ошибочная методология ослабляет утверждения."
+      },
+      {
+        "en": "Adopt a clear methodology.",
+        "ru": "Прими ясную методологию."
+      }
+    ],
+    "colloc": "research methodology",
+    "exRu": "Объясни методологию исследования.",
+    "ex": "Explain your research methodology."
+  },
+  {
+    "word": "midst",
+    "lemma": "midst",
+    "ipa": "/mɪst/",
+    "pos": "noun",
+    "tr": "середина",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "In the midst of chaos, stay calm.",
+        "ru": "Посреди хаоса оставайся спокойным."
+      },
+      {
+        "en": "She quit in the midst of success.",
+        "ru": "Она ушла посреди успеха."
+      },
+      {
+        "en": "Find hope in the midst of loss.",
+        "ru": "Найди надежду посреди потери."
+      }
+    ],
+    "colloc": "in the midst of",
+    "exRu": "Посреди хаоса оставайся спокойным.",
+    "ex": "In the midst of chaos, stay calm."
+  },
+  {
+    "word": "militant",
+    "lemma": "militant",
+    "ipa": "/ˈmɪlətənt/",
+    "pos": "noun",
+    "tr": "боевик",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Militants attacked the outpost.",
+        "ru": "Боевики атаковали форпост."
+      },
+      {
+        "en": "A militant tone filled the speech.",
+        "ru": "Боевой тон заполнил речь."
+      },
+      {
+        "en": "Negotiate with militant groups carefully.",
+        "ru": "Осторожно веди переговоры с боевыми группами."
+      }
+    ],
+    "colloc": "militant group",
+    "exRu": "Боевики атаковали форпост.",
+    "ex": "Militants attacked the outpost."
+  },
+  {
+    "word": "militia",
+    "lemma": "militia",
+    "ipa": "/mɪˈlɪʃə/",
+    "pos": "noun",
+    "tr": "ополчение",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Local militia guarded the town.",
+        "ru": "Местное ополчение охраняло город."
+      },
+      {
+        "en": "Militia training began at dawn.",
+        "ru": "Тренировки ополчения начались на рассвете."
+      },
+      {
+        "en": "Disarm illegal militias.",
+        "ru": "Разоружи незаконные ополчения."
+      }
+    ],
+    "colloc": "armed militia",
+    "exRu": "Местное ополчение охраняло город.",
+    "ex": "Local militia guarded the town."
+  },
+  {
+    "word": "miner",
+    "lemma": "miner",
+    "ipa": "/ˈmaɪnər/",
+    "pos": "noun",
+    "tr": "шахтёр",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Coal miners struck for safety.",
+        "ru": "Угольные шахтёры бастовали за безопасность."
+      },
+      {
+        "en": "Miners descended before dawn.",
+        "ru": "Шахтёры спустились до рассвета."
+      },
+      {
+        "en": "Rescue trapped miners.",
+        "ru": "Спаси запертых шахтёров."
+      }
+    ],
+    "colloc": "coal miner",
+    "exRu": "Угольные шахтёры бастовали за безопасность.",
+    "ex": "Coal miners struck for safety."
+  },
+  {
+    "word": "mining",
+    "lemma": "mining",
+    "ipa": "/ˈmaɪnɪŋ/",
+    "pos": "noun",
+    "tr": "добыча",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Mining scars the landscape.",
+        "ru": "Добыча уродует ландшафт."
+      },
+      {
+        "en": "Data mining finds patterns.",
+        "ru": "Добыча данных находит паттерны."
+      },
+      {
+        "en": "Ban unsafe mining practices.",
+        "ru": "Запрети небезопасные практики добычи."
+      }
+    ],
+    "colloc": "mining industry",
+    "exRu": "Добыча уродует ландшафт.",
+    "ex": "Mining scars the landscape."
+  },
+  {
+    "word": "missile",
+    "lemma": "missile",
+    "ipa": "/ˈmɪsəl/",
+    "pos": "noun",
+    "tr": "ракета",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "A missile test raised alarms.",
+        "ru": "Испытание ракеты подняло тревогу."
+      },
+      {
+        "en": "Intercept incoming missiles.",
+        "ru": "Перехвати входящие ракеты."
+      },
+      {
+        "en": "Missile defense systems expanded.",
+        "ru": "Системы ПРО расширились."
+      }
+    ],
+    "colloc": "missile strike",
+    "exRu": "Испытание ракеты подняло тревогу.",
+    "ex": "A missile test raised alarms."
+  },
+  {
+    "word": "mob",
+    "lemma": "mob",
+    "ipa": "/mɑb/",
+    "pos": "noun",
+    "tr": "толпа",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "An angry mob gathered.",
+        "ru": "Сердитая толпа собралась."
+      },
+      {
+        "en": "Mob rule threatens justice.",
+        "ru": "Правление толпы угрожает правосудию."
+      },
+      {
+        "en": "Don't join a violent mob.",
+        "ru": "Не присоединяйся к жестокой толпе."
+      }
+    ],
+    "colloc": "mob violence",
+    "exRu": "Сердитая толпа собралась.",
+    "ex": "An angry mob gathered."
+  },
+  {
+    "word": "mobility",
+    "lemma": "mobility",
+    "ipa": "/moʊˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "мобильность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve urban mobility.",
+        "ru": "Улучши городскую мобильность."
+      },
+      {
+        "en": "Social mobility remains uneven.",
+        "ru": "Социальная мобильность остаётся неравномерной."
+      },
+      {
+        "en": "Wheelchair mobility needs ramps.",
+        "ru": "Мобильность на коляске нуждается в пандусах."
+      }
+    ],
+    "colloc": "social mobility",
+    "exRu": "Улучши городскую мобильность.",
+    "ex": "Improve urban mobility."
+  },
+  {
+    "word": "module",
+    "lemma": "module",
+    "ipa": "/ˈmɑʤul/",
+    "pos": "noun",
+    "tr": "модуль",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Complete the training module.",
+        "ru": "Заверши учебный модуль."
+      },
+      {
+        "en": "Replace the faulty module.",
+        "ru": "Замени неисправный модуль."
+      },
+      {
+        "en": "Course modules build skills.",
+        "ru": "Модули курса строят навыки."
+      }
+    ],
+    "colloc": "module of",
+    "exRu": "Заверши учебный модуль.",
+    "ex": "Complete the training module."
+  },
+  {
+    "word": "momentum",
+    "lemma": "momentum",
+    "ipa": "/moʊˈmɛntəm/",
+    "pos": "noun",
+    "tr": "импульс",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Keep campaign momentum.",
+        "ru": "Сохраняй импульс кампании."
+      },
+      {
+        "en": "The team lost momentum.",
+        "ru": "Команда потеряла импульс."
+      },
+      {
+        "en": "Build momentum early.",
+        "ru": "Набирай импульс рано."
+      }
+    ],
+    "colloc": "gain momentum",
+    "exRu": "Сохраняй импульс кампании.",
+    "ex": "Keep campaign momentum."
+  },
+  {
+    "word": "monk",
+    "lemma": "monk",
+    "ipa": "/məŋk/",
+    "pos": "noun",
+    "tr": "монах",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Buddhist monks meditated quietly.",
+        "ru": "Буддийские монахи тихо медитировали."
+      },
+      {
+        "en": "A monk guided the retreat.",
+        "ru": "Монах вёл ретрит."
+      },
+      {
+        "en": "Monastery monks rose at dawn.",
+        "ru": "Монастырские монахи вставали на рассвете."
+      }
+    ],
+    "colloc": "Buddhist monk",
+    "exRu": "Буддийские монахи тихо медитировали.",
+    "ex": "Buddhist monks meditated quietly."
+  },
+  {
+    "word": "monopoly",
+    "lemma": "monopoly",
+    "ipa": "/məˈnɑpəli/",
+    "pos": "noun",
+    "tr": "монополия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Break up the monopoly carefully.",
+        "ru": "Осторожно разбей монополию."
+      },
+      {
+        "en": "They held a near monopoly.",
+        "ru": "Они держали почти монополию."
+      },
+      {
+        "en": "Board game Monopoly taught trade.",
+        "ru": "Игра «Монополия» учила торговле."
+      }
+    ],
+    "colloc": "monopoly on",
+    "exRu": "Осторожно разбей монополию.",
+    "ex": "Break up the monopoly carefully."
+  },
+  {
+    "word": "morality",
+    "lemma": "morality",
+    "ipa": "/ˌmɔˈræləˌti/",
+    "pos": "noun",
+    "tr": "мораль",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Debate public morality carefully.",
+        "ru": "Осторожно обсуждай публичную мораль."
+      },
+      {
+        "en": "Personal morality guides choices.",
+        "ru": "Личная мораль ведёт выборы."
+      },
+      {
+        "en": "Law and morality sometimes clash.",
+        "ru": "Закон и мораль иногда сталкиваются."
+      }
+    ],
+    "colloc": "sense of morality",
+    "exRu": "Осторожно обсуждай публичную мораль.",
+    "ex": "Debate public morality carefully."
+  },
+  {
+    "word": "mosque",
+    "lemma": "mosque",
+    "ipa": "/mɔsk/",
+    "pos": "noun",
+    "tr": "мечеть",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Friday prayers filled the mosque.",
+        "ru": "Пятничный намаз заполнил мечеть."
+      },
+      {
+        "en": "Visit the historic mosque.",
+        "ru": "Посети историческую мечеть."
+      },
+      {
+        "en": "A new mosque opened downtown.",
+        "ru": "Новая мечеть открылась в центре."
+      }
+    ],
+    "colloc": "mosque courtyard",
+    "exRu": "Пятничный намаз заполнил мечеть.",
+    "ex": "Friday prayers filled the mosque."
+  },
+  {
+    "word": "national",
+    "lemma": "national",
+    "ipa": "/ˈnæʃənəl/",
+    "pos": "noun",
+    "tr": "сборная",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The national won gold.",
+        "ru": "Сборная выиграла золото."
+      },
+      {
+        "en": "Support the national team.",
+        "ru": "Поддерживай сборную."
+      },
+      {
+        "en": "National pride surged.",
+        "ru": "Национальная гордость взмыла."
+      }
+    ],
+    "colloc": "the national",
+    "exRu": "Сборная выиграла золото.",
+    "ex": "The national won gold."
+  },
+  {
+    "word": "nest",
+    "lemma": "nest",
+    "ipa": "/nɛst/",
+    "pos": "noun",
+    "tr": "гнездо",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Birds build nests in spring.",
+        "ru": "Птицы вьют гнёзда весной."
+      },
+      {
+        "en": "Empty nest syndrome is real.",
+        "ru": "Синдром пустого гнезда реален."
+      },
+      {
+        "en": "Find a nest egg for retirement.",
+        "ru": "Найди заначку на пенсию."
+      }
+    ],
+    "colloc": "empty nest",
+    "exRu": "Птицы вьют гнёзда весной.",
+    "ex": "Birds build nests in spring."
+  },
+  {
+    "word": "newsletter",
+    "lemma": "newsletter",
+    "ipa": "/ˈnuzˌlɛtər/",
+    "pos": "noun",
+    "tr": "рассылка",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Subscribe to the newsletter.",
+        "ru": "Подпишись на рассылку."
+      },
+      {
+        "en": "Weekly newsletters fill inboxes.",
+        "ru": "Еженедельные рассылки заполняют почту."
+      },
+      {
+        "en": "Write a concise newsletter.",
+        "ru": "Пиши краткую рассылку."
+      }
+    ],
+    "colloc": "email newsletter",
+    "exRu": "Подпишись на рассылку.",
+    "ex": "Subscribe to the newsletter."
+  },
+  {
+    "word": "niche",
+    "lemma": "niche",
+    "ipa": "/nɪʧ/",
+    "pos": "noun",
+    "tr": "ниша",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Find a market niche.",
+        "ru": "Найди рыночную нишу."
+      },
+      {
+        "en": "She carved a niche in jazz.",
+        "ru": "Она вырезала нишу в джазе."
+      },
+      {
+        "en": "Niche products sell steadily.",
+        "ru": "Нишевые продукты продаются стабильно."
+      }
+    ],
+    "colloc": "niche market",
+    "exRu": "Найди рыночную нишу.",
+    "ex": "Find a market niche."
+  },
+  {
+    "word": "nickel",
+    "lemma": "nickel",
+    "ipa": "/ˈnɪkəl/",
+    "pos": "noun",
+    "tr": "никель / 5 центов",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "A nickel costs five cents.",
+        "ru": "Никель стоит пять центов."
+      },
+      {
+        "en": "Nickel allergy affects some people.",
+        "ru": "Аллергия на никель поражает некоторых."
+      },
+      {
+        "en": "Don't nickel-and-dime the team.",
+        "ru": "Не крохоборствуй с командой."
+      }
+    ],
+    "colloc": "nickel and dime",
+    "exRu": "Никель стоит пять центов.",
+    "ex": "A nickel costs five cents."
+  },
+  {
+    "word": "nominee",
+    "lemma": "nominee",
+    "ipa": "/ˌnɑməˈni/",
+    "pos": "noun",
+    "tr": "номинант",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Congratulate the award nominee.",
+        "ru": "Поздравь номинанта на награду."
+      },
+      {
+        "en": "Party nominees debated live.",
+        "ru": "Номинанты партий спорили в прямом эфире."
+      },
+      {
+        "en": "She is a strong nominee.",
+        "ru": "Она сильный номинант."
+      }
+    ],
+    "colloc": "award nominee",
+    "exRu": "Поздравь номинанта на награду.",
+    "ex": "Congratulate the award nominee."
+  },
+  {
+    "word": "noon",
+    "lemma": "noon",
+    "ipa": "/nun/",
+    "pos": "noun",
+    "tr": "полдень",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Meet at noon.",
+        "ru": "Встретимся в полдень."
+      },
+      {
+        "en": "By noon the heat peaked.",
+        "ru": "К полудню жара достигла пика."
+      },
+      {
+        "en": "Lunch is served at noon.",
+        "ru": "Обед подают в полдень."
+      }
+    ],
+    "colloc": "at noon",
+    "exRu": "Встретимся в полдень.",
+    "ex": "Meet at noon."
+  }
+]

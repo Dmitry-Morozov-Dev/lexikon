@@ -1,0 +1,2007 @@
+[
+  {
+    "word": "cancer",
+    "lemma": "cancer",
+    "ipa": "/ˈkænsər/",
+    "pos": "noun",
+    "tr": "рак",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Early screening can detect cancer.",
+        "ru": "Ранний скрининг может выявить рак."
+      },
+      {
+        "en": "Cancer research receives major funding.",
+        "ru": "Исследования рака получают крупное финансирование."
+      },
+      {
+        "en": "She survived breast cancer.",
+        "ru": "Она пережила рак груди."
+      }
+    ],
+    "colloc": "cancer treatment · cancer research",
+    "exRu": "Ранний скрининг может выявить рак.",
+    "ex": "Early screening can detect cancer."
+  },
+  {
+    "word": "canvas",
+    "lemma": "canvas",
+    "ipa": "/ˈkænvəs/",
+    "pos": "noun",
+    "tr": "холст",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Paint on a stretched canvas.",
+        "ru": "Пиши на натянутом холсте."
+      },
+      {
+        "en": "Candidates covered every canvas of issues.",
+        "ru": "Кандидаты охватили весь спектр вопросов."
+      },
+      {
+        "en": "A blank canvas invites ideas.",
+        "ru": "Чистый холст приглашает идеи."
+      }
+    ],
+    "colloc": "blank canvas",
+    "exRu": "Пиши на натянутом холсте.",
+    "ex": "Paint on a stretched canvas."
+  },
+  {
+    "word": "capitalism",
+    "lemma": "capitalism",
+    "ipa": "/ˈkæpɪtəˌlɪzəm/",
+    "pos": "noun",
+    "tr": "капитализм",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Critics debate modern capitalism.",
+        "ru": "Критики спорят о современном капитализме."
+      },
+      {
+        "en": "Capitalism rewards innovation unevenly.",
+        "ru": "Капитализм неравномерно вознаграждает инновации."
+      },
+      {
+        "en": "She studies the history of capitalism.",
+        "ru": "Она изучает историю капитализма."
+      }
+    ],
+    "colloc": "global capitalism",
+    "exRu": "Критики спорят о современном капитализме.",
+    "ex": "Critics debate modern capitalism."
+  },
+  {
+    "word": "catalog",
+    "lemma": "catalog",
+    "ipa": "/ˈkætəlɔg/",
+    "pos": "noun",
+    "tr": "каталог",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Browse the product catalog online.",
+        "ru": "Просмотри каталог товаров онлайн."
+      },
+      {
+        "en": "A star catalog lists galaxies.",
+        "ru": "Звёздный каталог перечисляет галактики."
+      },
+      {
+        "en": "Update the library catalog weekly.",
+        "ru": "Обновляй библиотечный каталог еженедельно."
+      }
+    ],
+    "colloc": "product catalog",
+    "note": "AmE: catalog",
+    "exRu": "Просмотри каталог товаров онлайн.",
+    "ex": "Browse the product catalog online."
+  },
+  {
+    "word": "charter",
+    "lemma": "charter",
+    "ipa": "/ˈʧɑrtər/",
+    "pos": "noun",
+    "tr": "устав / чартер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The city adopted a new charter.",
+        "ru": "Город принял новый устав."
+      },
+      {
+        "en": "They booked a charter flight.",
+        "ru": "Они забронировали чартерный рейс."
+      },
+      {
+        "en": "Schools operate under a charter.",
+        "ru": "Школы работают по чартеру."
+      }
+    ],
+    "colloc": "charter school · charter flight",
+    "exRu": "Город принял новый устав.",
+    "ex": "The city adopted a new charter."
+  },
+  {
+    "word": "chunk",
+    "lemma": "chunk",
+    "ipa": "/ʧəŋk/",
+    "pos": "noun",
+    "tr": "кусок",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Cut the cheese into chunks.",
+        "ru": "Нарежь сыр кусками."
+      },
+      {
+        "en": "Learn vocabulary in useful chunks.",
+        "ru": "Учи лексику полезными кусками."
+      },
+      {
+        "en": "A chunk of the budget went to transit.",
+        "ru": "Кусок бюджета ушёл на транспорт."
+      }
+    ],
+    "colloc": "chunk of",
+    "exRu": "Нарежь сыр кусками.",
+    "ex": "Cut the cheese into chunks."
+  },
+  {
+    "word": "circulation",
+    "lemma": "circulation",
+    "ipa": "/ˈsərkjəˌleɪʃən/",
+    "pos": "noun",
+    "tr": "циркуляция / тираж",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Exercise improves blood circulation.",
+        "ru": "Упражнения улучшают кровообращение."
+      },
+      {
+        "en": "Newspaper circulation keeps falling.",
+        "ru": "Тираж газет продолжает падать."
+      },
+      {
+        "en": "Put the memo into circulation.",
+        "ru": "Пусти служебную записку в оборот."
+      }
+    ],
+    "colloc": "in circulation · blood circulation",
+    "exRu": "Упражнения улучшают кровообращение.",
+    "ex": "Exercise improves blood circulation."
+  },
+  {
+    "word": "civilian",
+    "lemma": "civilian",
+    "ipa": "/səˈvɪljən/",
+    "pos": "noun",
+    "tr": "гражданское лицо",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Civilians fled the fighting.",
+        "ru": "Мирные жители бежали от боёв."
+      },
+      {
+        "en": "Military and civilian roles differ.",
+        "ru": "Военные и гражданские роли различаются."
+      },
+      {
+        "en": "Protect civilian infrastructure.",
+        "ru": "Защищай гражданскую инфраструктуру."
+      }
+    ],
+    "colloc": "civilian casualties",
+    "exRu": "Мирные жители бежали от боёв.",
+    "ex": "Civilians fled the fighting."
+  },
+  {
+    "word": "classification",
+    "lemma": "classification",
+    "ipa": "/ˌklæsəfəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "классификация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Review the document classification.",
+        "ru": "Проверь классификацию документа."
+      },
+      {
+        "en": "Species classification can change.",
+        "ru": "Классификация видов может меняться."
+      },
+      {
+        "en": "Job classification affects pay.",
+        "ru": "Классификация должностей влияет на оплату."
+      }
+    ],
+    "colloc": "classification system",
+    "exRu": "Проверь классификацию документа.",
+    "ex": "Review the document classification."
+  },
+  {
+    "word": "closure",
+    "lemma": "closure",
+    "ipa": "/ˈkloʊʒər/",
+    "pos": "noun",
+    "tr": "закрытие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Factory closure hurt the town.",
+        "ru": "Закрытие завода ударило по городу."
+      },
+      {
+        "en": "Seek emotional closure after loss.",
+        "ru": "Ищи эмоциональное завершение после потери."
+      },
+      {
+        "en": "Road closure lasted all week.",
+        "ru": "Закрытие дороги длилось всю неделю."
+      }
+    ],
+    "colloc": "bring closure · school closure",
+    "exRu": "Закрытие завода ударило по городу.",
+    "ex": "Factory closure hurt the town."
+  },
+  {
+    "word": "cluster",
+    "lemma": "cluster",
+    "ipa": "/ˈkləstər/",
+    "pos": "noun",
+    "tr": "кластер",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A cluster of stars filled the sky.",
+        "ru": "Кластер звёзд заполнил небо."
+      },
+      {
+        "en": "Tech firms form an industry cluster.",
+        "ru": "Техфирмы образуют отраслевой кластер."
+      },
+      {
+        "en": "Cases rose in one cluster.",
+        "ru": "Случаи выросли в одном кластере."
+      }
+    ],
+    "colloc": "cluster of",
+    "exRu": "Кластер звёзд заполнил небо.",
+    "ex": "A cluster of stars filled the sky."
+  },
+  {
+    "word": "coalition",
+    "lemma": "coalition",
+    "ipa": "/ˌkoʊəˈlɪʃən/",
+    "pos": "noun",
+    "tr": "коалиция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Parties formed a ruling coalition.",
+        "ru": "Партии сформировали правящую коалицию."
+      },
+      {
+        "en": "A broad coalition backed the bill.",
+        "ru": "Широкая коалиция поддержала законопроект."
+      },
+      {
+        "en": "The coalition collapsed overnight.",
+        "ru": "Коалиция развалилась за ночь."
+      }
+    ],
+    "colloc": "coalition government",
+    "exRu": "Партии сформировали правящую коалицию.",
+    "ex": "Parties formed a ruling coalition."
+  },
+  {
+    "word": "cocktail",
+    "lemma": "cocktail",
+    "ipa": "/ˈkɑkˌteɪl/",
+    "pos": "noun",
+    "tr": "коктейль",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Order a fruit cocktail.",
+        "ru": "Закажи фруктовый коктейль."
+      },
+      {
+        "en": "A cocktail of drugs proved risky.",
+        "ru": "Коктейль лекарств оказался рискованным."
+      },
+      {
+        "en": "Cocktail parties filled the evening.",
+        "ru": "Коктейльные вечеринки заполнили вечер."
+      }
+    ],
+    "colloc": "cocktail of",
+    "exRu": "Закажи фруктовый коктейль.",
+    "ex": "Order a fruit cocktail."
+  },
+  {
+    "word": "coincidence",
+    "lemma": "coincidence",
+    "ipa": "/koʊˈɪnsɪdəns/",
+    "pos": "noun",
+    "tr": "совпадение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Meeting her was pure coincidence.",
+        "ru": "Встреча с ней была чистым совпадением."
+      },
+      {
+        "en": "By coincidence, we chose the same book.",
+        "ru": "По совпадению мы выбрали одну книгу."
+      },
+      {
+        "en": "Don't dismiss it as coincidence.",
+        "ru": "Не списывай это на совпадение."
+      }
+    ],
+    "colloc": "by coincidence · pure coincidence",
+    "exRu": "Встреча с ней была чистым совпадением.",
+    "ex": "Meeting her was pure coincidence."
+  },
+  {
+    "word": "collaboration",
+    "lemma": "collaboration",
+    "ipa": "/kəˌlæbərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "сотрудничество",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Remote collaboration needs clear tools.",
+        "ru": "Удалённое сотрудничество нуждается в ясных инструментах."
+      },
+      {
+        "en": "Their collaboration produced a hit.",
+        "ru": "Их сотрудничество породило хит."
+      },
+      {
+        "en": "International collaboration advances science.",
+        "ru": "Международное сотрудничество двигает науку."
+      }
+    ],
+    "colloc": "in collaboration with",
+    "exRu": "Удалённое сотрудничество нуждается в ясных инструментах.",
+    "ex": "Remote collaboration needs clear tools."
+  },
+  {
+    "word": "collector",
+    "lemma": "collector",
+    "ipa": "/kəˈlɛktər/",
+    "pos": "noun",
+    "tr": "коллекционер",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Art collectors bid aggressively.",
+        "ru": "Коллекционеры искусства торгуются агрессивно."
+      },
+      {
+        "en": "A tax collector visited the shop.",
+        "ru": "Сборщик налогов посетил магазин."
+      },
+      {
+        "en": "She is a stamp collector.",
+        "ru": "Она коллекционер марок."
+      }
+    ],
+    "colloc": "art collector",
+    "exRu": "Коллекционеры искусства торгуются агрессивно.",
+    "ex": "Art collectors bid aggressively."
+  },
+  {
+    "word": "columnist",
+    "lemma": "columnist",
+    "ipa": "/ˈkɑləmnəst/",
+    "pos": "noun",
+    "tr": "колонкист",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "A newspaper columnist resigned.",
+        "ru": "Газетный колонкист ушёл."
+      },
+      {
+        "en": "Opinion columnists shape debate.",
+        "ru": "Авторы мнений формируют дискуссию."
+      },
+      {
+        "en": "She became a weekly columnist.",
+        "ru": "Она стала еженедельным колонкистом."
+      }
+    ],
+    "colloc": "opinion columnist",
+    "exRu": "Газетный колонкист ушёл.",
+    "ex": "A newspaper columnist resigned."
+  },
+  {
+    "word": "commander",
+    "lemma": "commander",
+    "ipa": "/kəˈmændər/",
+    "pos": "noun",
+    "tr": "командир",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The commander issued new orders.",
+        "ru": "Командир отдал новые приказы."
+      },
+      {
+        "en": "Field commanders adapted quickly.",
+        "ru": "Полевые командиры быстро адаптировались."
+      },
+      {
+        "en": "She was named mission commander.",
+        "ru": "Её назначили командиром миссии."
+      }
+    ],
+    "colloc": "commander in chief",
+    "exRu": "Командир отдал новые приказы.",
+    "ex": "The commander issued new orders."
+  },
+  {
+    "word": "commentary",
+    "lemma": "commentary",
+    "ipa": "/ˈkɑmənˌtɛri/",
+    "pos": "noun",
+    "tr": "комментарий",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Sports commentary filled the broadcast.",
+        "ru": "Спортивный комментарий заполнил эфир."
+      },
+      {
+        "en": "Add critical commentary to the text.",
+        "ru": "Добавь критический комментарий к тексту."
+      },
+      {
+        "en": "Political commentary got heated.",
+        "ru": "Политический комментарий накалился."
+      }
+    ],
+    "colloc": "running commentary",
+    "exRu": "Спортивный комментарий заполнил эфир.",
+    "ex": "Sports commentary filled the broadcast."
+  },
+  {
+    "word": "commentator",
+    "lemma": "commentator",
+    "ipa": "/ˈkɑmənˌteɪtər/",
+    "pos": "noun",
+    "tr": "комментатор",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A TV commentator misspoke.",
+        "ru": "ТВ-комментатор оговорился."
+      },
+      {
+        "en": "Political commentators disagreed.",
+        "ru": "Политические комментаторы не согласились."
+      },
+      {
+        "en": "She works as a radio commentator.",
+        "ru": "Она работает радиокомментатором."
+      }
+    ],
+    "colloc": "sports commentator",
+    "exRu": "ТВ-комментатор оговорился.",
+    "ex": "A TV commentator misspoke."
+  },
+  {
+    "word": "commissioner",
+    "lemma": "commissioner",
+    "ipa": "/kəˈmɪʃənər/",
+    "pos": "noun",
+    "tr": "комиссар",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "The police commissioner resigned.",
+        "ru": "Полицейский комиссар ушёл."
+      },
+      {
+        "en": "A trade commissioner visited factories.",
+        "ru": "Торговый комиссар посетил заводы."
+      },
+      {
+        "en": "Election commissioners certified results.",
+        "ru": "Избирательные комиссары подтвердили результаты."
+      }
+    ],
+    "colloc": "police commissioner",
+    "exRu": "Полицейский комиссар ушёл.",
+    "ex": "The police commissioner resigned."
+  },
+  {
+    "word": "completion",
+    "lemma": "completion",
+    "ipa": "/kəmˈpliʃən/",
+    "pos": "noun",
+    "tr": "завершение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Project completion slipped a month.",
+        "ru": "Завершение проекта сдвинулось на месяц."
+      },
+      {
+        "en": "Celebrate completion of training.",
+        "ru": "Отметь завершение обучения."
+      },
+      {
+        "en": "On completion, submit the form.",
+        "ru": "По завершении подай форму."
+      }
+    ],
+    "colloc": "completion of · on completion",
+    "exRu": "Завершение проекта сдвинулось на месяц.",
+    "ex": "Project completion slipped a month."
+  },
+  {
+    "word": "complication",
+    "lemma": "complication",
+    "ipa": "/ˌkɑmpləˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "осложнение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Surgery brought unexpected complications.",
+        "ru": "Операция принесла неожиданные осложнения."
+      },
+      {
+        "en": "Legal complications delayed the sale.",
+        "ru": "Юридические осложнения задержали продажу."
+      },
+      {
+        "en": "Avoid unnecessary complications.",
+        "ru": "Избегай ненужных осложнений."
+      }
+    ],
+    "colloc": "without complication",
+    "exRu": "Операция принесла неожиданные осложнения.",
+    "ex": "Surgery brought unexpected complications."
+  },
+  {
+    "word": "conception",
+    "lemma": "conception",
+    "ipa": "/kənˈsɛpʃən/",
+    "pos": "noun",
+    "tr": "зачатие / представление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The project changed from the first conception.",
+        "ru": "Проект изменился с первого замысла."
+      },
+      {
+        "en": "Conception of the plan took weeks.",
+        "ru": "Замысел плана занял недели."
+      },
+      {
+        "en": "Modern conception of privacy differs.",
+        "ru": "Современное представление о приватности иное."
+      }
+    ],
+    "colloc": "conception of",
+    "exRu": "Проект изменился с первого замысла.",
+    "ex": "The project changed from the first conception."
+  },
+  {
+    "word": "concession",
+    "lemma": "concession",
+    "ipa": "/kənˈsɛʃən/",
+    "pos": "noun",
+    "tr": "уступка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Neither side offered a concession.",
+        "ru": "Ни одна сторона не предложила уступку."
+      },
+      {
+        "en": "Food concessions line the stadium.",
+        "ru": "Точки с едой стоят вдоль стадиона."
+      },
+      {
+        "en": "Make a small concession to proceed.",
+        "ru": "Сделай маленькую уступку, чтобы двигаться."
+      }
+    ],
+    "colloc": "make a concession",
+    "exRu": "Ни одна сторона не предложила уступку.",
+    "ex": "Neither side offered a concession."
+  },
+  {
+    "word": "confession",
+    "lemma": "confession",
+    "ipa": "/kənˈfɛʃən/",
+    "pos": "noun",
+    "tr": "признание",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "His confession surprised investigators.",
+        "ru": "Его признание удивило следователей."
+      },
+      {
+        "en": "A private confession eased guilt.",
+        "ru": "Личное признание облегчило вину."
+      },
+      {
+        "en": "Religious confession remains personal.",
+        "ru": "Религиозная исповедь остаётся личной."
+      }
+    ],
+    "colloc": "make a confession",
+    "exRu": "Его признание удивило следователей.",
+    "ex": "His confession surprised investigators."
+  },
+  {
+    "word": "configuration",
+    "lemma": "configuration",
+    "ipa": "/kənˌfɪgjərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "конфигурация",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Check the network configuration.",
+        "ru": "Проверь конфигурацию сети."
+      },
+      {
+        "en": "Default configuration is insecure.",
+        "ru": "Конфигурация по умолчанию небезопасна."
+      },
+      {
+        "en": "A new seating configuration helped.",
+        "ru": "Новая рассадка помогла."
+      }
+    ],
+    "colloc": "configuration file",
+    "exRu": "Проверь конфигурацию сети.",
+    "ex": "Check the network configuration."
+  },
+  {
+    "word": "confirmation",
+    "lemma": "confirmation",
+    "ipa": "/ˌkɑnfərˈmeɪʃən/",
+    "pos": "noun",
+    "tr": "подтверждение",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Wait for email confirmation.",
+        "ru": "Жди подтверждения по электронной почте."
+      },
+      {
+        "en": "Confirmation of the booking arrived.",
+        "ru": "Подтверждение бронирования пришло."
+      },
+      {
+        "en": "Seek confirmation before announcing.",
+        "ru": "Ищи подтверждение перед объявлением."
+      }
+    ],
+    "colloc": "confirmation of",
+    "exRu": "Жди подтверждения по электронной почте.",
+    "ex": "Wait for email confirmation."
+  },
+  {
+    "word": "confrontation",
+    "lemma": "confrontation",
+    "ipa": "/ˌkɑnfrənˈteɪʃən/",
+    "pos": "noun",
+    "tr": "противостояние",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Avoid needless confrontation.",
+        "ru": "Избегай ненужного противостояния."
+      },
+      {
+        "en": "A heated confrontation erupted.",
+        "ru": "Вспыхнуло жаркое противостояние."
+      },
+      {
+        "en": "Diplomatic confrontation escalated.",
+        "ru": "Дипломатическое противостояние обострилось."
+      }
+    ],
+    "colloc": "military confrontation",
+    "exRu": "Избегай ненужного противостояния.",
+    "ex": "Avoid needless confrontation."
+  },
+  {
+    "word": "congregation",
+    "lemma": "congregation",
+    "ipa": "/ˌkɑŋgrəˈgeɪʃən/",
+    "pos": "noun",
+    "tr": "община",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The congregation sang together.",
+        "ru": "Община пела вместе."
+      },
+      {
+        "en": "A large congregation gathered outside.",
+        "ru": "Большая община собралась снаружи."
+      },
+      {
+        "en": "Weekly congregations shrank.",
+        "ru": "Еженедельные собрания сократились."
+      }
+    ],
+    "colloc": "congregation of",
+    "exRu": "Община пела вместе.",
+    "ex": "The congregation sang together."
+  },
+  {
+    "word": "constraint",
+    "lemma": "constraint",
+    "ipa": "/kənˈstreɪnt/",
+    "pos": "noun",
+    "tr": "ограничение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Budget constraints limit hiring.",
+        "ru": "Бюджетные ограничения лимитируют найм."
+      },
+      {
+        "en": "Work within time constraints.",
+        "ru": "Работай в рамках временных ограничений."
+      },
+      {
+        "en": "Legal constraints shaped the deal.",
+        "ru": "Правовые ограничения сформировали сделку."
+      }
+    ],
+    "colloc": "under constraint",
+    "exRu": "Бюджетные ограничения лимитируют найм.",
+    "ex": "Budget constraints limit hiring."
+  },
+  {
+    "word": "consultation",
+    "lemma": "consultation",
+    "ipa": "/ˌkɑnsəlˈteɪʃən/",
+    "pos": "noun",
+    "tr": "консультация",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Book a medical consultation.",
+        "ru": "Запишись на медицинскую консультацию."
+      },
+      {
+        "en": "Public consultation shaped policy.",
+        "ru": "Публичная консультация сформировала политику."
+      },
+      {
+        "en": "After consultation, they agreed.",
+        "ru": "После консультации они согласились."
+      }
+    ],
+    "colloc": "in consultation with",
+    "exRu": "Запишись на медицинскую консультацию.",
+    "ex": "Book a medical consultation."
+  },
+  {
+    "word": "contempt",
+    "lemma": "contempt",
+    "ipa": "/kənˈtɛmpt/",
+    "pos": "noun",
+    "tr": "презрение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "He spoke with open contempt.",
+        "ru": "Он говорил с открытым презрением."
+      },
+      {
+        "en": "Courts can hold people in contempt.",
+        "ru": "Суды могут признать неуважение к суду."
+      },
+      {
+        "en": "Show no contempt for beginners.",
+        "ru": "Не показывай презрения к новичкам."
+      }
+    ],
+    "colloc": "contempt of court",
+    "exRu": "Он говорил с открытым презрением.",
+    "ex": "He spoke with open contempt."
+  },
+  {
+    "word": "contender",
+    "lemma": "contender",
+    "ipa": "/kənˈtɛndər/",
+    "pos": "noun",
+    "tr": "претендент",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "She is a serious title contender.",
+        "ru": "Она серьёзный претендент на титул."
+      },
+      {
+        "en": "Several contenders entered the race.",
+        "ru": "Несколько претендентов вышли на гонку."
+      },
+      {
+        "en": "A dark-horse contender surged.",
+        "ru": "Тёмный лошадка-претендент рванул вперёд."
+      }
+    ],
+    "colloc": "leading contender",
+    "exRu": "Она серьёзный претендент на титул.",
+    "ex": "She is a serious title contender."
+  },
+  {
+    "word": "contention",
+    "lemma": "contention",
+    "ipa": "/kənˈtɛnʃən/",
+    "pos": "noun",
+    "tr": "спор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The main point of contention remains pay.",
+        "ru": "Главный пункт спора — оплата."
+      },
+      {
+        "en": "Her contention lacks evidence.",
+        "ru": "Её утверждение лишено доказательств."
+      },
+      {
+        "en": "In contention for the prize.",
+        "ru": "В борьбе за приз."
+      }
+    ],
+    "colloc": "point of contention",
+    "exRu": "Главный пункт спора — оплата.",
+    "ex": "The main point of contention remains pay."
+  },
+  {
+    "word": "contradiction",
+    "lemma": "contradiction",
+    "ipa": "/ˌkɑntrəˈdɪkʃən/",
+    "pos": "noun",
+    "tr": "противоречие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Spot the contradiction in the story.",
+        "ru": "Найди противоречие в истории."
+      },
+      {
+        "en": "Live with productive contradictions carefully.",
+        "ru": "Осторожно живи с продуктивными противоречиями."
+      },
+      {
+        "en": "His actions are a contradiction.",
+        "ru": "Его действия — противоречие."
+      }
+    ],
+    "colloc": "in contradiction to",
+    "exRu": "Найди противоречие в истории.",
+    "ex": "Spot the contradiction in the story."
+  },
+  {
+    "word": "contributor",
+    "lemma": "contributor",
+    "ipa": "/kənˈtrɪbjətər/",
+    "pos": "noun",
+    "tr": "автор / вкладчик",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Thank every open-source contributor.",
+        "ru": "Поблагодари каждого вкладчика открытого кода."
+      },
+      {
+        "en": "She is a regular magazine contributor.",
+        "ru": "Она регулярный автор журнала."
+      },
+      {
+        "en": "Major donors are key contributors.",
+        "ru": "Крупные доноры — ключевые вкладчики."
+      }
+    ],
+    "colloc": "contributor to",
+    "exRu": "Поблагодари каждого вкладчика открытого кода.",
+    "ex": "Thank every open-source contributor."
+  },
+  {
+    "word": "coordination",
+    "lemma": "coordination",
+    "ipa": "/koʊˌɔrdəˈneɪʃən/",
+    "pos": "noun",
+    "tr": "координация",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Better coordination saved time.",
+        "ru": "Лучшая координация сэкономила время."
+      },
+      {
+        "en": "Eye-hand coordination improves with practice.",
+        "ru": "Зрительно-моторная координация растёт с практикой."
+      },
+      {
+        "en": "Lack of coordination caused delays.",
+        "ru": "Нехватка координации вызвала задержки."
+      }
+    ],
+    "colloc": "in coordination with",
+    "exRu": "Лучшая координация сэкономила время.",
+    "ex": "Better coordination saved time."
+  },
+  {
+    "word": "coordinator",
+    "lemma": "coordinator",
+    "ipa": "/koʊˈɔrdəˌneɪtər/",
+    "pos": "noun",
+    "tr": "координатор",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "The event coordinator handled logistics.",
+        "ru": "Координатор мероприятия занимался логистикой."
+      },
+      {
+        "en": "A volunteer coordinator recruited help.",
+        "ru": "Координатор волонтёров набрал помощь."
+      },
+      {
+        "en": "Contact the program coordinator.",
+        "ru": "Свяжись с координатором программы."
+      }
+    ],
+    "colloc": "project coordinator",
+    "exRu": "Координатор мероприятия занимался логистикой.",
+    "ex": "The event coordinator handled logistics."
+  },
+  {
+    "word": "cop",
+    "lemma": "cop",
+    "ipa": "/kɑp/",
+    "pos": "noun",
+    "tr": "полицейский",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A traffic cop waved us through.",
+        "ru": "Дорожный полицейский пропустил нас."
+      },
+      {
+        "en": "Cops arrived within minutes.",
+        "ru": "Копы прибыли за минуты."
+      },
+      {
+        "en": "Don't argue with the cop.",
+        "ru": "Не спорь с полицейским."
+      }
+    ],
+    "colloc": "traffic cop",
+    "note": "неформально",
+    "exRu": "Дорожный полицейский пропустил нас.",
+    "ex": "A traffic cop waved us through."
+  },
+  {
+    "word": "correction",
+    "lemma": "correction",
+    "ipa": "/kərˈɛkʃən/",
+    "pos": "noun",
+    "tr": "исправление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Make a quick correction.",
+        "ru": "Сделай быстрое исправление."
+      },
+      {
+        "en": "Market corrections worry investors.",
+        "ru": "Коррекции рынка тревожат инвесторов."
+      },
+      {
+        "en": "Issue a public correction.",
+        "ru": "Выпусти публичное исправление."
+      }
+    ],
+    "colloc": "course correction",
+    "exRu": "Сделай быстрое исправление.",
+    "ex": "Make a quick correction."
+  },
+  {
+    "word": "correlation",
+    "lemma": "correlation",
+    "ipa": "/ˌkɔrəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "корреляция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Find the correlation carefully.",
+        "ru": "Осторожно найди корреляцию."
+      },
+      {
+        "en": "Correlation is not causation.",
+        "ru": "Корреляция — не причинность."
+      },
+      {
+        "en": "A strong correlation appeared.",
+        "ru": "Появилась сильная корреляция."
+      }
+    ],
+    "colloc": "correlation between",
+    "exRu": "Осторожно найди корреляцию.",
+    "ex": "Find the correlation carefully."
+  },
+  {
+    "word": "correspondence",
+    "lemma": "correspondence",
+    "ipa": "/ˌkɔrəˈspɑndəns/",
+    "pos": "noun",
+    "tr": "переписка",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Keep business correspondence polite.",
+        "ru": "Держи деловую переписку вежливой."
+      },
+      {
+        "en": "Private correspondence was leaked.",
+        "ru": "Частная переписка утекла."
+      },
+      {
+        "en": "There is little correspondence between claims.",
+        "ru": "Между утверждениями мало соответствия."
+      }
+    ],
+    "colloc": "in correspondence with",
+    "exRu": "Держи деловую переписку вежливой.",
+    "ex": "Keep business correspondence polite."
+  },
+  {
+    "word": "correspondent",
+    "lemma": "correspondent",
+    "ipa": "/ˌkɔrəˈspɑndənt/",
+    "pos": "noun",
+    "tr": "корреспондент",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A war correspondent filed reports.",
+        "ru": "Военный корреспондент отправил репортажи."
+      },
+      {
+        "en": "Foreign correspondents filled the briefing.",
+        "ru": "Иностранные корреспонденты заполнили брифинг."
+      },
+      {
+        "en": "She is our science correspondent.",
+        "ru": "Она наш научный корреспондент."
+      }
+    ],
+    "colloc": "foreign correspondent",
+    "exRu": "Военный корреспондент отправил репортажи.",
+    "ex": "A war correspondent filed reports."
+  },
+  {
+    "word": "councilor",
+    "lemma": "councilor",
+    "ipa": "/ˈkaʊnsɪlər/",
+    "pos": "noun",
+    "tr": "советник",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "City councilors debated transit.",
+        "ru": "Городские советники спорили о транспорте."
+      },
+      {
+        "en": "Elect a new councilor next year.",
+        "ru": "Избери нового советника в следующем году."
+      },
+      {
+        "en": "The councilor held office hours.",
+        "ru": "Советник проводил приёмные часы."
+      }
+    ],
+    "colloc": "city councilor",
+    "note": "AmE: councilor",
+    "exRu": "Городские советники спорили о транспорте.",
+    "ex": "City councilors debated transit."
+  },
+  {
+    "word": "counseling",
+    "lemma": "counseling",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "pos": "noun",
+    "tr": "консультирование",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Seek counseling after trauma.",
+        "ru": "Ищи консультирование после травмы."
+      },
+      {
+        "en": "School counseling helps teens.",
+        "ru": "Школьное консультирование помогает подросткам."
+      },
+      {
+        "en": "Career counseling clarified options.",
+        "ru": "Карьерное консультирование прояснило варианты."
+      }
+    ],
+    "colloc": "counseling services",
+    "note": "AmE: counseling",
+    "exRu": "Ищи консультирование после травмы.",
+    "ex": "Seek counseling after trauma."
+  },
+  {
+    "word": "counselor",
+    "lemma": "counselor",
+    "ipa": "/ˈkaʊnsələr/",
+    "pos": "noun",
+    "tr": "консультант",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Talk to a school counselor.",
+        "ru": "Поговори со школьным консультантом."
+      },
+      {
+        "en": "Camp counselors supervise kids.",
+        "ru": "Вожатые лагеря следят за детьми."
+      },
+      {
+        "en": "A debt counselor offered a plan.",
+        "ru": "Консультант по долгам предложил план."
+      }
+    ],
+    "colloc": "guidance counselor",
+    "note": "AmE: counselor",
+    "exRu": "Поговори со школьным консультантом.",
+    "ex": "Talk to a school counselor."
+  },
+  {
+    "word": "county",
+    "lemma": "county",
+    "ipa": "/ˈkaʊnti/",
+    "pos": "noun",
+    "tr": "округ",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "County officials closed the bridge.",
+        "ru": "Власти округа закрыли мост."
+      },
+      {
+        "en": "She lives in a rural county.",
+        "ru": "Она живёт в сельском округе."
+      },
+      {
+        "en": "County taxes fund local schools.",
+        "ru": "Налоги округа финансируют местные школы."
+      }
+    ],
+    "colloc": "county seat",
+    "exRu": "Власти округа закрыли мост.",
+    "ex": "County officials closed the bridge."
+  },
+  {
+    "word": "coup",
+    "lemma": "coup",
+    "ipa": "/ku/",
+    "pos": "noun",
+    "tr": "переворот",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A military coup seized power.",
+        "ru": "Военный переворот захватил власть."
+      },
+      {
+        "en": "The coup failed within hours.",
+        "ru": "Переворот провалился за часы."
+      },
+      {
+        "en": "Investors fear a palace coup.",
+        "ru": "Инвесторы боятся дворцового переворота."
+      }
+    ],
+    "colloc": "coup attempt",
+    "exRu": "Военный переворот захватил власть.",
+    "ex": "A military coup seized power."
+  },
+  {
+    "word": "cowboy",
+    "lemma": "cowboy",
+    "ipa": "/ˈkaʊˌbɔɪ/",
+    "pos": "noun",
+    "tr": "ковбой",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Cowboys drove cattle north.",
+        "ru": "Ковбои гнали скот на север."
+      },
+      {
+        "en": "He plays the lone cowboy.",
+        "ru": "Он играет одинокого ковбоя."
+      },
+      {
+        "en": "Cowboy boots lined the porch.",
+        "ru": "Ковбойские сапоги стояли на крыльце."
+      }
+    ],
+    "colloc": "cowboy hat",
+    "exRu": "Ковбои гнали скот на север.",
+    "ex": "Cowboys drove cattle north."
+  },
+  {
+    "word": "creativity",
+    "lemma": "creativity",
+    "ipa": "/ˌkrieɪˈtɪvəti/",
+    "pos": "noun",
+    "tr": "креативность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Foster creativity in schools.",
+        "ru": "Поощряй креативность в школах."
+      },
+      {
+        "en": "Deadlines can spark creativity.",
+        "ru": "Дедлайны могут зажечь креативность."
+      },
+      {
+        "en": "Her creativity impressed clients.",
+        "ru": "Её креативность впечатлила клиентов."
+      }
+    ],
+    "colloc": "spark creativity",
+    "exRu": "Поощряй креативность в школах.",
+    "ex": "Foster creativity in schools."
+  },
+  {
+    "word": "creator",
+    "lemma": "creator",
+    "ipa": "/kriˈeɪtər/",
+    "pos": "noun",
+    "tr": "создатель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Thank the content creator.",
+        "ru": "Поблагодари создателя контента."
+      },
+      {
+        "en": "The creator signed limited prints.",
+        "ru": "Создатель подписал лимитированные принты."
+      },
+      {
+        "en": "Platforms pay creators unevenly.",
+        "ru": "Платформы неравномерно платят создателям."
+      }
+    ],
+    "colloc": "content creator",
+    "exRu": "Поблагодари создателя контента.",
+    "ex": "Thank the content creator."
+  },
+  {
+    "word": "critique",
+    "lemma": "critique",
+    "ipa": "/krɪˈtik/",
+    "pos": "noun",
+    "tr": "критика",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Write a thoughtful critique.",
+        "ru": "Напиши вдумчивую критику."
+      },
+      {
+        "en": "Peer critique improved drafts.",
+        "ru": "Взаимная критика улучшила черновики."
+      },
+      {
+        "en": "Offer critique without cruelty.",
+        "ru": "Предлагай критику без жестокости."
+      }
+    ],
+    "colloc": "literary critique",
+    "exRu": "Напиши вдумчивую критику.",
+    "ex": "Write a thoughtful critique."
+  },
+  {
+    "word": "cue",
+    "lemma": "cue",
+    "ipa": "/kju/",
+    "pos": "noun",
+    "tr": "сигнал",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Take your cue from the host.",
+        "ru": "Бери сигнал от ведущего."
+      },
+      {
+        "en": "Actors missed their cue.",
+        "ru": "Актёры пропустили свою реплику."
+      },
+      {
+        "en": "Visual cues guide users.",
+        "ru": "Визуальные сигналы ведут пользователей."
+      }
+    ],
+    "colloc": "on cue · cue card",
+    "exRu": "Бери сигнал от ведущего.",
+    "ex": "Take your cue from the host."
+  },
+  {
+    "word": "cult",
+    "lemma": "cult",
+    "ipa": "/kəlt/",
+    "pos": "noun",
+    "tr": "культ",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A personality cult grew online.",
+        "ru": "Культ личности вырос онлайн."
+      },
+      {
+        "en": "The film gained a cult following.",
+        "ru": "Фильм получил культовых поклонников."
+      },
+      {
+        "en": "Avoid dangerous cults.",
+        "ru": "Избегай опасных культов."
+      }
+    ],
+    "colloc": "cult following",
+    "exRu": "Культ личности вырос онлайн.",
+    "ex": "A personality cult grew online."
+  },
+  {
+    "word": "cutting",
+    "lemma": "cutting",
+    "ipa": "/ˈkətɪŋ/",
+    "pos": "noun",
+    "tr": "вырезка / сокращение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Budget cuttings sparked protests.",
+        "ru": "Бюджетные сокращения вызвали протесты."
+      },
+      {
+        "en": "Save newspaper cuttings carefully.",
+        "ru": "Осторожно храни газетные вырезки."
+      },
+      {
+        "en": "Cost cutting hurt quality.",
+        "ru": "Сокращение затрат ударило по качеству."
+      }
+    ],
+    "colloc": "cost cutting",
+    "exRu": "Бюджетные сокращения вызвали протесты.",
+    "ex": "Budget cuttings sparked protests."
+  },
+  {
+    "word": "dairy",
+    "lemma": "dairy",
+    "ipa": "/ˈdɛri/",
+    "pos": "noun",
+    "tr": "молочные продукты",
+    "bucket": "food",
+    "examples": [
+      {
+        "en": "Buy fresh dairy locally.",
+        "ru": "Покупай свежие молочные продукты локально."
+      },
+      {
+        "en": "Dairy farms face tight margins.",
+        "ru": "Молочные фермы сталкиваются с узкой маржой."
+      },
+      {
+        "en": "She avoids dairy for health.",
+        "ru": "Она избегает молочного ради здоровья."
+      }
+    ],
+    "colloc": "dairy products",
+    "exRu": "Покупай свежие молочные продукты локально.",
+    "ex": "Buy fresh dairy locally."
+  },
+  {
+    "word": "dam",
+    "lemma": "dam",
+    "ipa": "/dæm/",
+    "pos": "noun",
+    "tr": "плотина",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "The dam holds a huge reservoir.",
+        "ru": "Плотина держит огромное водохранилище."
+      },
+      {
+        "en": "Engineers inspected the dam.",
+        "ru": "Инженеры осмотрели плотину."
+      },
+      {
+        "en": "A beaver dam slowed the creek.",
+        "ru": "Бобровая плотина замедлила ручей."
+      }
+    ],
+    "colloc": "hydroelectric dam",
+    "exRu": "Плотина держит огромное водохранилище.",
+    "ex": "The dam holds a huge reservoir."
+  },
+  {
+    "word": "debris",
+    "lemma": "debris",
+    "ipa": "/dəˈbri/",
+    "pos": "noun",
+    "tr": "обломки",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Clear storm debris safely.",
+        "ru": "Безопасно убери обломки после бури."
+      },
+      {
+        "en": "Space debris threatens satellites.",
+        "ru": "Космический мусор угрожает спутникам."
+      },
+      {
+        "en": "Debris blocked the road.",
+        "ru": "Обломки перекрыли дорогу."
+      }
+    ],
+    "colloc": "debris field",
+    "exRu": "Безопасно убери обломки после бури.",
+    "ex": "Clear storm debris safely."
+  },
+  {
+    "word": "debut",
+    "lemma": "debut",
+    "ipa": "/ˈdeɪbju/",
+    "pos": "noun",
+    "tr": "дебют",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The band made its debut live.",
+        "ru": "Группа сделала живой дебют."
+      },
+      {
+        "en": "Her novel debut sold out.",
+        "ru": "Её дебютный роман раскупили."
+      },
+      {
+        "en": "A late debut still counts.",
+        "ru": "Поздний дебют всё равно считается."
+      }
+    ],
+    "colloc": "make a debut",
+    "exRu": "Группа сделала живой дебют.",
+    "ex": "The band made its debut live."
+  },
+  {
+    "word": "decision-making",
+    "lemma": "decision-making",
+    "ipa": "/dɪˈsɪʒənˌmeɪkɪŋ/",
+    "pos": "noun",
+    "tr": "принятие решений",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Improve team decision-making.",
+        "ru": "Улучши командное принятие решений."
+      },
+      {
+        "en": "Data informs decision-making.",
+        "ru": "Данные информируют принятие решений."
+      },
+      {
+        "en": "Slow decision-making costs deals.",
+        "ru": "Медленное принятие решений стоит сделок."
+      }
+    ],
+    "colloc": "decision-making process",
+    "exRu": "Улучши командное принятие решений.",
+    "ex": "Improve team decision-making."
+  },
+  {
+    "word": "deck",
+    "lemma": "deck",
+    "ipa": "/dɛk/",
+    "pos": "noun",
+    "tr": "палуба / колода",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Stand on the ship's deck.",
+        "ru": "Стой на палубе корабля."
+      },
+      {
+        "en": "Shuffle the deck carefully.",
+        "ru": "Осторожно перетасуй колоду."
+      },
+      {
+        "en": "A deck of cards sat unused.",
+        "ru": "Колода карт лежала нетронутой."
+      }
+    ],
+    "colloc": "on deck · deck of cards",
+    "exRu": "Стой на палубе корабля.",
+    "ex": "Stand on the ship's deck."
+  },
+  {
+    "word": "declaration",
+    "lemma": "declaration",
+    "ipa": "/ˌdɛklərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "заявление",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Issue a formal declaration.",
+        "ru": "Выпусти формальное заявление."
+      },
+      {
+        "en": "A customs declaration is required.",
+        "ru": "Таможенная декларация обязательна."
+      },
+      {
+        "en": "The declaration of independence inspired many.",
+        "ru": "Декларация независимости вдохновила многих."
+      }
+    ],
+    "colloc": "declaration of",
+    "exRu": "Выпусти формальное заявление.",
+    "ex": "Issue a formal declaration."
+  },
+  {
+    "word": "dedication",
+    "lemma": "dedication",
+    "ipa": "/ˌdɛdəˈkeɪʃən/",
+    "pos": "noun",
+    "tr": "преданность",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Her dedication impressed mentors.",
+        "ru": "Её преданность впечатлила наставников."
+      },
+      {
+        "en": "Book dedication thanked her parents.",
+        "ru": "Посвящение книги благодарило родителей."
+      },
+      {
+        "en": "Show dedication to craft.",
+        "ru": "Прояви преданность ремеслу."
+      }
+    ],
+    "colloc": "dedication to",
+    "exRu": "Её преданность впечатлила наставников.",
+    "ex": "Her dedication impressed mentors."
+  },
+  {
+    "word": "deed",
+    "lemma": "deed",
+    "ipa": "/did/",
+    "pos": "noun",
+    "tr": "дело / акт",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Kind deeds lift spirits.",
+        "ru": "Добрые дела поднимают дух."
+      },
+      {
+        "en": "Sign the deed carefully.",
+        "ru": "Осторожно подпиши акт."
+      },
+      {
+        "en": "A deed of gift transferred ownership.",
+        "ru": "Акт дарения передал собственность."
+      }
+    ],
+    "colloc": "good deed · title deed",
+    "exRu": "Добрые дела поднимают дух.",
+    "ex": "Kind deeds lift spirits."
+  },
+  {
+    "word": "default",
+    "lemma": "default",
+    "ipa": "/dɪˈfɔlt/",
+    "pos": "noun",
+    "tr": "дефолт / по умолчанию",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Avoid loan default carefully.",
+        "ru": "Осторожно избегай дефолта по кредиту."
+      },
+      {
+        "en": "Change the default settings.",
+        "ru": "Измени настройки по умолчанию."
+      },
+      {
+        "en": "By default, notifications are on.",
+        "ru": "По умолчанию уведомления включены."
+      }
+    ],
+    "colloc": "by default · in default",
+    "exRu": "Осторожно избегай дефолта по кредиту.",
+    "ex": "Avoid loan default carefully."
+  },
+  {
+    "word": "defect",
+    "lemma": "defect",
+    "ipa": "/ˈdifɛkt/",
+    "pos": "noun",
+    "tr": "дефект",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Report every product defect.",
+        "ru": "Сообщай о каждом дефекте продукта."
+      },
+      {
+        "en": "A birth defect needs care.",
+        "ru": "Врождённый дефект нуждается в уходе."
+      },
+      {
+        "en": "Engineers fixed the design defect.",
+        "ru": "Инженеры исправили дефект дизайна."
+      }
+    ],
+    "colloc": "defect in",
+    "exRu": "Сообщай о каждом дефекте продукта.",
+    "ex": "Report every product defect."
+  },
+  {
+    "word": "defender",
+    "lemma": "defender",
+    "ipa": "/dɪˈfɛndər/",
+    "pos": "noun",
+    "tr": "защитник",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Public defenders represent the poor.",
+        "ru": "Государственные защитники представляют бедных."
+      },
+      {
+        "en": "She is a strong defender of free speech.",
+        "ru": "Она сильный защитник свободы слова."
+      },
+      {
+        "en": "The defender blocked the shot.",
+        "ru": "Защитник заблокировал удар."
+      }
+    ],
+    "colloc": "public defender",
+    "exRu": "Государственные защитники представляют бедных.",
+    "ex": "Public defenders represent the poor."
+  },
+  {
+    "word": "deficit",
+    "lemma": "deficit",
+    "ipa": "/ˈdɛfəsət/",
+    "pos": "noun",
+    "tr": "дефицит",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "The budget deficit widened.",
+        "ru": "Бюджетный дефицит вырос."
+      },
+      {
+        "en": "Sleep deficit harms focus.",
+        "ru": "Дефицит сна вредит фокусу."
+      },
+      {
+        "en": "Trade deficits sparked debate.",
+        "ru": "Торговые дефициты вызвали споры."
+      }
+    ],
+    "colloc": "budget deficit",
+    "exRu": "Бюджетный дефицит вырос.",
+    "ex": "The budget deficit widened."
+  },
+  {
+    "word": "delegation",
+    "lemma": "delegation",
+    "ipa": "/ˌdɛləˈgeɪʃən/",
+    "pos": "noun",
+    "tr": "делегация",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A trade delegation arrived.",
+        "ru": "Торговая делегация прибыла."
+      },
+      {
+        "en": "Delegation of tasks builds trust.",
+        "ru": "Делегирование задач строит доверие."
+      },
+      {
+        "en": "Lead the school delegation.",
+        "ru": "Возглавь школьную делегацию."
+      }
+    ],
+    "colloc": "trade delegation",
+    "exRu": "Торговая делегация прибыла.",
+    "ex": "A trade delegation arrived."
+  },
+  {
+    "word": "demon",
+    "lemma": "demon",
+    "ipa": "/ˈdimən/",
+    "pos": "noun",
+    "tr": "демон",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Folk tales invent demons.",
+        "ru": "Народные сказки изобретают демонов."
+      },
+      {
+        "en": "Face your inner demons carefully.",
+        "ru": "Осторожно встречай внутренних демонов."
+      },
+      {
+        "en": "He was painted as a demon.",
+        "ru": "Его изобразили демоном."
+      }
+    ],
+    "colloc": "inner demons",
+    "exRu": "Народные сказки изобретают демонов.",
+    "ex": "Folk tales invent demons."
+  },
+  {
+    "word": "denial",
+    "lemma": "denial",
+    "ipa": "/dɪˈnaɪəl/",
+    "pos": "noun",
+    "tr": "отрицание",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Denial delayed treatment.",
+        "ru": "Отрицание задержало лечение."
+      },
+      {
+        "en": "Official denial followed the leak.",
+        "ru": "Официальное отрицание последовало за утечкой."
+      },
+      {
+        "en": "She is still in denial.",
+        "ru": "Она всё ещё в отрицании."
+      }
+    ],
+    "colloc": "in denial · denial of",
+    "exRu": "Отрицание задержало лечение.",
+    "ex": "Denial delayed treatment."
+  },
+  {
+    "word": "dependence",
+    "lemma": "dependence",
+    "ipa": "/dɪˈpɛndəns/",
+    "pos": "noun",
+    "tr": "зависимость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Reduce dependence on imports.",
+        "ru": "Снизь зависимость от импорта."
+      },
+      {
+        "en": "Chemical dependence needs treatment.",
+        "ru": "Химическая зависимость нуждается в лечении."
+      },
+      {
+        "en": "Mutual dependence can be healthy.",
+        "ru": "Взаимная зависимость может быть здоровой."
+      }
+    ],
+    "colloc": "dependence on",
+    "exRu": "Снизь зависимость от импорта.",
+    "ex": "Reduce dependence on imports."
+  },
+  {
+    "word": "deployment",
+    "lemma": "deployment",
+    "ipa": "/dɪˈplɔɪmənt/",
+    "pos": "noun",
+    "tr": "развёртывание",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Software deployment happens nightly.",
+        "ru": "Развёртывание ПО происходит каждую ночь."
+      },
+      {
+        "en": "Troop deployment raised tensions.",
+        "ru": "Развёртывание войск повысило напряжённость."
+      },
+      {
+        "en": "Careful deployment reduces risk.",
+        "ru": "Осторожное развёртывание снижает риск."
+      }
+    ],
+    "colloc": "deployment of",
+    "exRu": "Развёртывание ПО происходит каждую ночь.",
+    "ex": "Software deployment happens nightly."
+  },
+  {
+    "word": "descent",
+    "lemma": "descent",
+    "ipa": "/dɪˈsɛnt/",
+    "pos": "noun",
+    "tr": "спуск / происхождение",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Begin the mountain descent early.",
+        "ru": "Начни спуск с горы рано."
+      },
+      {
+        "en": "She is of Italian descent.",
+        "ru": "Она итальянского происхождения."
+      },
+      {
+        "en": "A steep descent requires brakes.",
+        "ru": "Крутой спуск требует тормозов."
+      }
+    ],
+    "colloc": "of descent · steep descent",
+    "exRu": "Начни спуск с горы рано.",
+    "ex": "Begin the mountain descent early."
+  },
+  {
+    "word": "desktop",
+    "lemma": "desktop",
+    "ipa": "/ˈdɛskˌtɑp/",
+    "pos": "noun",
+    "tr": "рабочий стол",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Clear your desktop weekly.",
+        "ru": "Очищай рабочий стол еженедельно."
+      },
+      {
+        "en": "Desktop computers still matter.",
+        "ru": "Настольные компьютеры всё ещё важны."
+      },
+      {
+        "en": "Pin the icon to the desktop.",
+        "ru": "Закрепи иконку на рабочем столе."
+      }
+    ],
+    "colloc": "desktop computer",
+    "exRu": "Очищай рабочий стол еженедельно.",
+    "ex": "Clear your desktop weekly."
+  },
+  {
+    "word": "detention",
+    "lemma": "detention",
+    "ipa": "/dɪˈtɛnʃən/",
+    "pos": "noun",
+    "tr": "задержание",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "After-school detention starts at three.",
+        "ru": "Послешкольный арест начинается в три."
+      },
+      {
+        "en": "Immigration detention sparked protests.",
+        "ru": "Иммиграционное задержание вызвало протесты."
+      },
+      {
+        "en": "He spent a night in detention.",
+        "ru": "Он провёл ночь в заключении."
+      }
+    ],
+    "colloc": "in detention",
+    "exRu": "Послешкольный арест начинается в три.",
+    "ex": "After-school detention starts at three."
+  },
+  {
+    "word": "diagnosis",
+    "lemma": "diagnosis",
+    "ipa": "/ˌdaɪəgˈnoʊsəs/",
+    "pos": "noun",
+    "tr": "диагноз",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Early diagnosis improves outcomes.",
+        "ru": "Ранний диагноз улучшает исходы."
+      },
+      {
+        "en": "Get a second diagnosis if unsure.",
+        "ru": "Получи второй диагноз, если не уверен."
+      },
+      {
+        "en": "The diagnosis surprised the family.",
+        "ru": "Диагноз удивил семью."
+      }
+    ],
+    "colloc": "make a diagnosis",
+    "exRu": "Ранний диагноз улучшает исходы.",
+    "ex": "Early diagnosis improves outcomes."
+  },
+  {
+    "word": "dictator",
+    "lemma": "dictator",
+    "ipa": "/ˈdɪkteɪtər/",
+    "pos": "noun",
+    "tr": "диктатор",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The dictator banned protests.",
+        "ru": "Диктатор запретил протесты."
+      },
+      {
+        "en": "History judges dictators harshly.",
+        "ru": "История сурово судит диктаторов."
+      },
+      {
+        "en": "A dictator seized power overnight.",
+        "ru": "Диктатор захватил власть за ночь."
+      }
+    ],
+    "colloc": "military dictator",
+    "exRu": "Диктатор запретил протесты.",
+    "ex": "The dictator banned protests."
+  },
+  {
+    "word": "dilemma",
+    "lemma": "dilemma",
+    "ipa": "/dɪˈlɛmə/",
+    "pos": "noun",
+    "tr": "дилемма",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Face a tough ethical dilemma.",
+        "ru": "Встреть трудную этическую дилемму."
+      },
+      {
+        "en": "The dilemma has no easy answer.",
+        "ru": "У дилеммы нет лёгкого ответа."
+      },
+      {
+        "en": "Students discussed the classic dilemma.",
+        "ru": "Студенты обсудили классическую дилемму."
+      }
+    ],
+    "colloc": "moral dilemma",
+    "exRu": "Встреть трудную этическую дилемму.",
+    "ex": "Face a tough ethical dilemma."
+  }
+]

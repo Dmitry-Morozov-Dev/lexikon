@@ -1,0 +1,232 @@
+[
+  {
+    "word": "alongside",
+    "lemma": "alongside",
+    "ipa": "/əˈlɔŋˈsaɪd/",
+    "pos": "prep",
+    "tr": "рядом с",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Walk alongside mentors.",
+        "ru": "Иди рядом с наставниками."
+      },
+      {
+        "en": "Alongside reforms, funding rose.",
+        "ru": "Рядом с реформами выросло финансирование."
+      },
+      {
+        "en": "Work alongside volunteers.",
+        "ru": "Работай рядом с волонтёрами."
+      }
+    ],
+    "colloc": "alongside of"
+  },
+  {
+    "word": "amid",
+    "lemma": "amid",
+    "ipa": "/əˈmɪd/",
+    "pos": "prep",
+    "tr": "среди",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Speak amid noise.",
+        "ru": "Говори среди шума."
+      },
+      {
+        "en": "Amid crisis, hope remained.",
+        "ru": "Среди кризиса оставалась надежда."
+      },
+      {
+        "en": "Stand amid friends.",
+        "ru": "Стой среди друзей."
+      }
+    ],
+    "colloc": "amid chaos"
+  },
+  {
+    "word": "beneath",
+    "lemma": "beneath",
+    "ipa": "/bɪˈniθ/",
+    "pos": "prep",
+    "tr": "под",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Hide beneath the desk.",
+        "ru": "Прячься под партой."
+      },
+      {
+        "en": "Beneath the surface, tensions rose.",
+        "ru": "Под поверхностью росло напряжение."
+      },
+      {
+        "en": "Feel beneath notice.",
+        "ru": "Чувствуй себя ниже внимания."
+      }
+    ],
+    "colloc": "beneath dignity"
+  },
+  {
+    "word": "beside",
+    "lemma": "beside",
+    "ipa": "/ˌbiˈsaɪd/",
+    "pos": "prep",
+    "tr": "рядом с",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Sit beside me.",
+        "ru": "Сядь рядом со мной."
+      },
+      {
+        "en": "Beside the point.",
+        "ru": "Не по делу."
+      },
+      {
+        "en": "A path beside the river.",
+        "ru": "Тропа рядом с рекой."
+      }
+    ],
+    "colloc": "beside oneself"
+  },
+  {
+    "word": "besides",
+    "lemma": "besides",
+    "ipa": "/ˌbiˈsaɪdz/",
+    "pos": "prep",
+    "tr": "кроме",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Besides English, learn code.",
+        "ru": "Кроме английского, учи код."
+      },
+      {
+        "en": "Who else is coming besides you?",
+        "ru": "Кто ещё идёт кроме тебя?"
+      },
+      {
+        "en": "Besides, we need time.",
+        "ru": "Кроме того, нам нужно время."
+      }
+    ],
+    "colloc": "besides that"
+  },
+  {
+    "word": "unless",
+    "lemma": "unless",
+    "ipa": "/ənˈlɛs/",
+    "pos": "conj",
+    "tr": "если не",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Don't go unless ready.",
+        "ru": "Не иди, если не готов."
+      },
+      {
+        "en": "Unless it rains, we hike.",
+        "ru": "Если не будет дождя, идём в хайк."
+      },
+      {
+        "en": "Fail unless you practice.",
+        "ru": "Провалишься, если не практикуешь."
+      }
+    ],
+    "colloc": "unless otherwise"
+  },
+  {
+    "word": "whereas",
+    "lemma": "whereas",
+    "ipa": "/wɛˈræz/",
+    "pos": "conj",
+    "tr": "тогда как",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I prefer tea, whereas she likes coffee.",
+        "ru": "Я предпочитаю чай, тогда как она любит кофе."
+      },
+      {
+        "en": "Whereas costs rose, wages froze.",
+        "ru": "Тогда как затраты выросли, зарплаты заморозили."
+      },
+      {
+        "en": "Wealth grew, whereas poverty lingered.",
+        "ru": "Богатство росло, тогда как бедность оставалась."
+      }
+    ],
+    "colloc": "whereas"
+  },
+  {
+    "word": "wherever",
+    "lemma": "wherever",
+    "ipa": "/wɛˈrɛvər/",
+    "pos": "conj",
+    "tr": "где бы ни",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Call wherever you are.",
+        "ru": "Звони, где бы ты ни был."
+      },
+      {
+        "en": "Wherever possible, recycle.",
+        "ru": "Где бы ни возможно, перерабатывай."
+      },
+      {
+        "en": "Sit wherever you like.",
+        "ru": "Садись, где бы ни хотелось."
+      }
+    ],
+    "colloc": "wherever"
+  },
+  {
+    "word": "whoever",
+    "lemma": "whoever",
+    "ipa": "/huˈɛvər/",
+    "pos": "other",
+    "tr": "кто бы ни",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Invite whoever wants to come.",
+        "ru": "Пригласи, кто бы ни хотел прийти."
+      },
+      {
+        "en": "Whoever finishes first wins.",
+        "ru": "Кто бы ни закончил первым, побеждает."
+      },
+      {
+        "en": "Give it to whoever asks.",
+        "ru": "Отдай тому, кто бы ни попросил."
+      }
+    ],
+    "colloc": "whoever"
+  },
+  {
+    "word": "whom",
+    "lemma": "whom",
+    "ipa": "/hum/",
+    "pos": "other",
+    "tr": "кого / кому",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "To whom it may concern.",
+        "ru": "Тем, кого это может касаться."
+      },
+      {
+        "en": "Whom did you meet?",
+        "ru": "Кого ты встретил?"
+      },
+      {
+        "en": "The person whom we hired.",
+        "ru": "Человек, которого мы наняли."
+      }
+    ],
+    "colloc": "with whom"
+  }
+]

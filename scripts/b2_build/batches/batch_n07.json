@@ -1,0 +1,2029 @@
+[
+  {
+    "word": "rumor",
+    "lemma": "rumor",
+    "ipa": "/ˈrumər/",
+    "pos": "noun",
+    "tr": "слух",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Don't spread the rumor.",
+        "ru": "Не распространяй слух."
+      },
+      {
+        "en": "Rumors of a merger grew.",
+        "ru": "Слухи о слиянии росли."
+      },
+      {
+        "en": "Kill the false rumor fast.",
+        "ru": "Быстро убей ложный слух."
+      }
+    ],
+    "colloc": "rumor has it",
+    "note": "AmE: rumor"
+  },
+  {
+    "word": "sacrifice",
+    "lemma": "sacrifice",
+    "ipa": "/ˈsækrəˌfaɪs/",
+    "pos": "noun",
+    "tr": "жертва",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Make personal sacrifices.",
+        "ru": "Делай личные жертвы."
+      },
+      {
+        "en": "Animal sacrifice was banned.",
+        "ru": "Жертвоприношение животных запретили."
+      },
+      {
+        "en": "Success demanded sacrifice.",
+        "ru": "Успех требовал жертвы."
+      }
+    ],
+    "colloc": "make a sacrifice"
+  },
+  {
+    "word": "saint",
+    "lemma": "saint",
+    "ipa": "/seɪnt/",
+    "pos": "noun",
+    "tr": "святой",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Honor the local saint.",
+        "ru": "Чти местного святого."
+      },
+      {
+        "en": "She is a living saint.",
+        "ru": "Она живой святой."
+      },
+      {
+        "en": "Saint statues lined the nave.",
+        "ru": "Статуи святых стояли вдоль нефа."
+      }
+    ],
+    "colloc": "patron saint"
+  },
+  {
+    "word": "sake",
+    "lemma": "sake",
+    "ipa": "/seɪk/",
+    "pos": "noun",
+    "tr": "ради",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Do it for her sake.",
+        "ru": "Сделай это ради неё."
+      },
+      {
+        "en": "For goodness' sake, stop.",
+        "ru": "Ради всего святого, остановись."
+      },
+      {
+        "en": "Argue for argument's sake.",
+        "ru": "Спорь ради спора."
+      }
+    ],
+    "colloc": "for the sake of"
+  },
+  {
+    "word": "sanction",
+    "lemma": "sanction",
+    "ipa": "/ˈsæŋkʃən/",
+    "pos": "noun",
+    "tr": "санкция",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Economic sanctions bit hard.",
+        "ru": "Экономические санкции больно ударили."
+      },
+      {
+        "en": "Official sanction was required.",
+        "ru": "Официальное одобрение требовалось."
+      },
+      {
+        "en": "Lift unfair sanctions.",
+        "ru": "Сними несправедливые санкции."
+      }
+    ],
+    "colloc": "impose sanctions"
+  },
+  {
+    "word": "satellite",
+    "lemma": "satellite",
+    "ipa": "/ˈsætəˌlaɪt/",
+    "pos": "noun",
+    "tr": "спутник",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "A weather satellite launched.",
+        "ru": "Метеоспутник стартовал."
+      },
+      {
+        "en": "Satellite TV reached villages.",
+        "ru": "Спутниковое ТВ достигло деревень."
+      },
+      {
+        "en": "Moons are natural satellites.",
+        "ru": "Луны — естественные спутники."
+      }
+    ],
+    "colloc": "satellite dish"
+  },
+  {
+    "word": "satisfaction",
+    "lemma": "satisfaction",
+    "ipa": "/ˌsætɪsˈfækʃən/",
+    "pos": "noun",
+    "tr": "удовлетворение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Customer satisfaction rose.",
+        "ru": "Удовлетворённость клиентов выросла."
+      },
+      {
+        "en": "Find satisfaction in craft.",
+        "ru": "Найди удовлетворение в ремесле."
+      },
+      {
+        "en": "To my satisfaction, it worked.",
+        "ru": "К моему удовлетворению, сработало."
+      }
+    ],
+    "colloc": "job satisfaction"
+  },
+  {
+    "word": "saving",
+    "lemma": "saving",
+    "ipa": "/ˈseɪvɪŋ/",
+    "pos": "noun",
+    "tr": "сбережение",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Build emergency savings.",
+        "ru": "Копи аварийные сбережения."
+      },
+      {
+        "en": "Energy savings add up.",
+        "ru": "Экономия энергии суммируется."
+      },
+      {
+        "en": "Life savings vanished.",
+        "ru": "Жизненные сбережения исчезли."
+      }
+    ],
+    "colloc": "savings account"
+  },
+  {
+    "word": "scale",
+    "lemma": "scale",
+    "ipa": "/skeɪl/",
+    "pos": "noun",
+    "tr": "масштаб",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Scale the mountain carefully.",
+        "ru": "Осторожно взбирайся на гору."
+      },
+      {
+        "en": "On a global scale.",
+        "ru": "В глобальном масштабе."
+      },
+      {
+        "en": "Weigh fish on a scale.",
+        "ru": "Взвесь рыбу на весах."
+      }
+    ],
+    "colloc": "large scale"
+  },
+  {
+    "word": "scandal",
+    "lemma": "scandal",
+    "ipa": "/ˈskændəl/",
+    "pos": "noun",
+    "tr": "скандал",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "A corruption scandal erupted.",
+        "ru": "Вспыхнул коррупционный скандал."
+      },
+      {
+        "en": "Avoid needless scandal.",
+        "ru": "Избегай ненужного скандала."
+      },
+      {
+        "en": "Scandal damaged trust.",
+        "ru": "Скандал повредил доверие."
+      }
+    ],
+    "colloc": "political scandal"
+  },
+  {
+    "word": "scenario",
+    "lemma": "scenario",
+    "ipa": "/sɪˈnɛrioʊ/",
+    "pos": "noun",
+    "tr": "сценарий",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Plan for a worst-case scenario.",
+        "ru": "Планируй худший сценарий."
+      },
+      {
+        "en": "Several scenarios were modeled.",
+        "ru": "Смоделировали несколько сценариев."
+      },
+      {
+        "en": "Change the scenario mid-play.",
+        "ru": "Смени сценарий посреди пьесы."
+      }
+    ],
+    "colloc": "scenario planning"
+  },
+  {
+    "word": "scholar",
+    "lemma": "scholar",
+    "ipa": "/ˈskɑlər/",
+    "pos": "noun",
+    "tr": "учёный",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A visiting scholar lectured.",
+        "ru": "Приезжий учёный читал лекцию."
+      },
+      {
+        "en": "Classical scholars debate texts.",
+        "ru": "Классические учёные спорят о текстах."
+      },
+      {
+        "en": "She is a Rhodes scholar.",
+        "ru": "Она стипендиат Родса."
+      }
+    ],
+    "colloc": "scholar of"
+  },
+  {
+    "word": "scholarship",
+    "lemma": "scholarship",
+    "ipa": "/ˈskɑlərˌʃɪp/",
+    "pos": "noun",
+    "tr": "стипендия",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Win a full scholarship.",
+        "ru": "Выиграй полную стипендию."
+      },
+      {
+        "en": "Scholarship funds expanded.",
+        "ru": "Стипендиальные фонды расширились."
+      },
+      {
+        "en": "Apply for research scholarship.",
+        "ru": "Подай на исследовательскую стипендию."
+      }
+    ],
+    "colloc": "scholarship program"
+  },
+  {
+    "word": "scope",
+    "lemma": "scope",
+    "ipa": "/skoʊp/",
+    "pos": "noun",
+    "tr": "охват",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Define the project scope.",
+        "ru": "Определи охват проекта."
+      },
+      {
+        "en": "Beyond the scope of class.",
+        "ru": "Вне охвата занятия."
+      },
+      {
+        "en": "Telescope scope revealed stars.",
+        "ru": "Телескоп раскрыл звёзды."
+      }
+    ],
+    "colloc": "scope of"
+  },
+  {
+    "word": "screening",
+    "lemma": "screening",
+    "ipa": "/ˈskrinɪŋ/",
+    "pos": "noun",
+    "tr": "скрининг",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Cancer screening saves lives.",
+        "ru": "Скрининг рака спасает жизни."
+      },
+      {
+        "en": "Airport screening tightened.",
+        "ru": "Аэропортовый досмотр ужесточился."
+      },
+      {
+        "en": "Attend a film screening.",
+        "ru": "Посети кинопоказ."
+      }
+    ],
+    "colloc": "screening for"
+  },
+  {
+    "word": "scrutiny",
+    "lemma": "scrutiny",
+    "ipa": "/ˈskrutəni/",
+    "pos": "noun",
+    "tr": "тщательная проверка",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Face public scrutiny.",
+        "ru": "Столкнись с публичной проверкой."
+      },
+      {
+        "en": "Under close scrutiny.",
+        "ru": "Под пристальным вниманием."
+      },
+      {
+        "en": "Invite scrutiny of the data.",
+        "ru": "Пригласи проверку данных."
+      }
+    ],
+    "colloc": "under scrutiny"
+  },
+  {
+    "word": "sector",
+    "lemma": "sector",
+    "ipa": "/ˈsɛktər/",
+    "pos": "noun",
+    "tr": "сектор",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "The tech sector boomed.",
+        "ru": "Техсектор взорвался."
+      },
+      {
+        "en": "Public sector wages rose.",
+        "ru": "Зарплаты госсектора выросли."
+      },
+      {
+        "en": "Diversify across sectors.",
+        "ru": "Диверсифицируй по секторам."
+      }
+    ],
+    "colloc": "private sector"
+  },
+  {
+    "word": "seeker",
+    "lemma": "seeker",
+    "ipa": "/ˈsikər/",
+    "pos": "noun",
+    "tr": "искатель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Asylum seekers need aid.",
+        "ru": "Искателям убежища нужна помощь."
+      },
+      {
+        "en": "Job seekers filled the fair.",
+        "ru": "Соискатели заполнили ярмарку."
+      },
+      {
+        "en": "Truth seekers dig deeper.",
+        "ru": "Искатели истины копают глубже."
+      }
+    ],
+    "colloc": "asylum seeker"
+  },
+  {
+    "word": "segment",
+    "lemma": "segment",
+    "ipa": "/ˌsɛgˈmɛnt/",
+    "pos": "noun",
+    "tr": "сегмент",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Target a market segment.",
+        "ru": "Нацелься на сегмент рынка."
+      },
+      {
+        "en": "Orange segments filled the bowl.",
+        "ru": "Дольки апельсина заполнили миску."
+      },
+      {
+        "en": "Broadcast the next segment.",
+        "ru": "Передай следующий сегмент."
+      }
+    ],
+    "colloc": "market segment"
+  },
+  {
+    "word": "selection",
+    "lemma": "selection",
+    "ipa": "/səˈlɛkʃən/",
+    "pos": "noun",
+    "tr": "выбор",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Make a careful selection.",
+        "ru": "Сделай осторожный выбор."
+      },
+      {
+        "en": "Natural selection shapes species.",
+        "ru": "Естественный отбор формирует виды."
+      },
+      {
+        "en": "Wide selection of teas.",
+        "ru": "Широкий выбор чаёв."
+      }
+    ],
+    "colloc": "selection of"
+  },
+  {
+    "word": "self",
+    "lemma": "self",
+    "ipa": "/sɛlf/",
+    "pos": "noun",
+    "tr": "я / самость",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Know your true self.",
+        "ru": "Знай своё истинное я."
+      },
+      {
+        "en": "Self-care is not selfish.",
+        "ru": "Забота о себе — не эгоизм."
+      },
+      {
+        "en": "Lose yourself in music.",
+        "ru": "Потеряй себя в музыке."
+      }
+    ],
+    "colloc": "sense of self"
+  },
+  {
+    "word": "seminar",
+    "lemma": "seminar",
+    "ipa": "/ˈsɛməˌnɑr/",
+    "pos": "noun",
+    "tr": "семинар",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "Attend the research seminar.",
+        "ru": "Посети исследовательский семинар."
+      },
+      {
+        "en": "Online seminars draw crowds.",
+        "ru": "Онлайн-семинары собирают толпы."
+      },
+      {
+        "en": "Lead a short seminar.",
+        "ru": "Веди короткий семинар."
+      }
+    ],
+    "colloc": "seminar on"
+  },
+  {
+    "word": "senate",
+    "lemma": "senate",
+    "ipa": "/ˈsɛnɪt/",
+    "pos": "noun",
+    "tr": "сенат",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "The senate voted yes.",
+        "ru": "Сенат проголосовал за."
+      },
+      {
+        "en": "State senate races heated.",
+        "ru": "Гонки в сенат штата накалились."
+      },
+      {
+        "en": "Appear before the senate.",
+        "ru": "Представься перед сенатом."
+      }
+    ],
+    "colloc": "senate hearing"
+  },
+  {
+    "word": "senator",
+    "lemma": "senator",
+    "ipa": "/ˈsɛnətər/",
+    "pos": "noun",
+    "tr": "сенатор",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Elect a new senator.",
+        "ru": "Избери нового сенатора."
+      },
+      {
+        "en": "Senators debated the bill.",
+        "ru": "Сенаторы обсуждали законопроект."
+      },
+      {
+        "en": "Call your senator.",
+        "ru": "Позвони своему сенатору."
+      }
+    ],
+    "colloc": "US senator"
+  },
+  {
+    "word": "sensation",
+    "lemma": "sensation",
+    "ipa": "/sɛnˈseɪʃən/",
+    "pos": "noun",
+    "tr": "ощущение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "A burning sensation followed.",
+        "ru": "Последовало жжение."
+      },
+      {
+        "en": "Media created a sensation.",
+        "ru": "СМИ создали сенсацию."
+      },
+      {
+        "en": "Taste sensation faded.",
+        "ru": "Вкусовое ощущение угасло."
+      }
+    ],
+    "colloc": "overnight sensation"
+  },
+  {
+    "word": "sensitivity",
+    "lemma": "sensitivity",
+    "ipa": "/ˌsɛnsɪˈtɪvɪti/",
+    "pos": "noun",
+    "tr": "чувствительность",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Show cultural sensitivity.",
+        "ru": "Прояви культурную чувствительность."
+      },
+      {
+        "en": "Skin sensitivity increased.",
+        "ru": "Чувствительность кожи выросла."
+      },
+      {
+        "en": "Data sensitivity requires care.",
+        "ru": "Чувствительность данных требует осторожности."
+      }
+    ],
+    "colloc": "sensitivity to"
+  },
+  {
+    "word": "sentiment",
+    "lemma": "sentiment",
+    "ipa": "/ˈsɛnəmənt/",
+    "pos": "noun",
+    "tr": "настроение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Public sentiment shifted.",
+        "ru": "Общественное настроение сменилось."
+      },
+      {
+        "en": "Anti-war sentiment grew.",
+        "ru": "Антивоенные настроения выросли."
+      },
+      {
+        "en": "Investor sentiment cooled.",
+        "ru": "Настроение инвесторов остыло."
+      }
+    ],
+    "colloc": "public sentiment"
+  },
+  {
+    "word": "separation",
+    "lemma": "separation",
+    "ipa": "/ˌsɛpərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "разделение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Legal separation preceded divorce.",
+        "ru": "Юридическое разделение предшествовало разводу."
+      },
+      {
+        "en": "Separation of powers matters.",
+        "ru": "Разделение властей важно."
+      },
+      {
+        "en": "Feel the pain of separation.",
+        "ru": "Ощути боль разлуки."
+      }
+    ],
+    "colloc": "separation from"
+  },
+  {
+    "word": "sequence",
+    "lemma": "sequence",
+    "ipa": "/ˈsikwəns/",
+    "pos": "noun",
+    "tr": "последовательность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Follow the correct sequence.",
+        "ru": "Следуй правильной последовательности."
+      },
+      {
+        "en": "DNA sequence revealed clues.",
+        "ru": "Последовательность ДНК раскрыла улики."
+      },
+      {
+        "en": "A sequence of events unfolded.",
+        "ru": "Последовательность событий развернулась."
+      }
+    ],
+    "colloc": "in sequence"
+  },
+  {
+    "word": "session",
+    "lemma": "session",
+    "ipa": "/ˈsɛʃən/",
+    "pos": "noun",
+    "tr": "сессия",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Book a therapy session.",
+        "ru": "Запишись на сессию терапии."
+      },
+      {
+        "en": "Parliament is in session.",
+        "ru": "Парламент на сессии."
+      },
+      {
+        "en": "Training sessions run daily.",
+        "ru": "Тренировочные сессии идут ежедневно."
+      }
+    ],
+    "colloc": "session of"
+  },
+  {
+    "word": "settlement",
+    "lemma": "settlement",
+    "ipa": "/ˈsɛtəlmənt/",
+    "pos": "noun",
+    "tr": "поселение / урегулирование",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Reach an out-of-court settlement.",
+        "ru": "Достигни внесудебного урегулирования."
+      },
+      {
+        "en": "Early settlements lined rivers.",
+        "ru": "Ранние поселения стояли вдоль рек."
+      },
+      {
+        "en": "Peace settlement ended war.",
+        "ru": "Мирное урегулирование закончило войну."
+      }
+    ],
+    "colloc": "settlement agreement"
+  },
+  {
+    "word": "settler",
+    "lemma": "settler",
+    "ipa": "/ˈsɛtələr/",
+    "pos": "noun",
+    "tr": "поселенец",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Early settlers farmed hard.",
+        "ru": "Ранние поселенцы тяжело обрабатывали землю."
+      },
+      {
+        "en": "Settler communities grew.",
+        "ru": "Общины поселенцев росли."
+      },
+      {
+        "en": "Honor indigenous and settler histories carefully.",
+        "ru": "Осторожно чти истории коренных и поселенцев."
+      }
+    ],
+    "colloc": "settler colony"
+  },
+  {
+    "word": "setup",
+    "lemma": "setup",
+    "ipa": "/ˈsɛˌtəp/",
+    "pos": "noun",
+    "tr": "настройка",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Complete the camera setup.",
+        "ru": "Заверши настройку камеры."
+      },
+      {
+        "en": "A comedy setup landed well.",
+        "ru": "Комедийная завязка хорошо сработала."
+      },
+      {
+        "en": "Office setup feels cramped.",
+        "ru": "Офисная расстановка тесна."
+      }
+    ],
+    "colloc": "setup process"
+  },
+  {
+    "word": "sexuality",
+    "lemma": "sexuality",
+    "ipa": "/ˌsɛkʃuˈæləti/",
+    "pos": "noun",
+    "tr": "сексуальность",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Discuss sexuality respectfully.",
+        "ru": "Обсуждай сексуальность с уважением."
+      },
+      {
+        "en": "Human sexuality courses filled.",
+        "ru": "Курсы по человеческой сексуальности заполнились."
+      },
+      {
+        "en": "Respect diverse sexuality.",
+        "ru": "Уважай разнообразие сексуальности."
+      }
+    ],
+    "colloc": "human sexuality"
+  },
+  {
+    "word": "shade",
+    "lemma": "shade",
+    "ipa": "/ʃeɪd/",
+    "pos": "noun",
+    "tr": "тень",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Sit in the shade.",
+        "ru": "Сядь в тени."
+      },
+      {
+        "en": "A shade of blue.",
+        "ru": "Оттенок синего."
+      },
+      {
+        "en": "Throw shade carefully online.",
+        "ru": "Осторожно подкалывай онлайн."
+      }
+    ],
+    "colloc": "in the shade"
+  },
+  {
+    "word": "shadow",
+    "lemma": "shadow",
+    "ipa": "/ˈʃæˌdoʊ/",
+    "pos": "noun",
+    "tr": "тень",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Walk in someone's shadow.",
+        "ru": "Иди в чьей-то тени."
+      },
+      {
+        "en": "Doubt cast a shadow.",
+        "ru": "Сомнение бросило тень."
+      },
+      {
+        "en": "Shadows lengthened at dusk.",
+        "ru": "Тени удлинились в сумерках."
+      }
+    ],
+    "colloc": "cast a shadow"
+  },
+  {
+    "word": "shareholder",
+    "lemma": "shareholder",
+    "ipa": "/ˈʃɛˌrhoʊldər/",
+    "pos": "noun",
+    "tr": "акционер",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Inform major shareholders.",
+        "ru": "Информируй крупных акционеров."
+      },
+      {
+        "en": "Shareholder meeting starts at nine.",
+        "ru": "Собрание акционеров в девять."
+      },
+      {
+        "en": "Protect shareholder value.",
+        "ru": "Защищай акционерную стоимость."
+      }
+    ],
+    "colloc": "shareholder vote"
+  },
+  {
+    "word": "shelter",
+    "lemma": "shelter",
+    "ipa": "/ˈʃɛltər/",
+    "pos": "noun",
+    "tr": "убежище",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Find shelter from rain.",
+        "ru": "Найди укрытие от дождя."
+      },
+      {
+        "en": "Animal shelters need volunteers.",
+        "ru": "Приютам для животных нужны волонтёры."
+      },
+      {
+        "en": "Offer temporary shelter.",
+        "ru": "Предложи временное убежище."
+      }
+    ],
+    "colloc": "take shelter"
+  },
+  {
+    "word": "shipping",
+    "lemma": "shipping",
+    "ipa": "/ˈʃɪpɪŋ/",
+    "pos": "noun",
+    "tr": "доставка",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Free shipping ends tonight.",
+        "ru": "Бесплатная доставка кончается сегодня."
+      },
+      {
+        "en": "Shipping delays frustrated buyers.",
+        "ru": "Задержки доставки раздражали покупателей."
+      },
+      {
+        "en": "Global shipping slowed.",
+        "ru": "Глобальные перевозки замедлились."
+      }
+    ],
+    "colloc": "shipping cost"
+  },
+  {
+    "word": "shooting",
+    "lemma": "shooting",
+    "ipa": "/ˈʃutɪŋ/",
+    "pos": "noun",
+    "tr": "стрельба",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Report a shooting downtown.",
+        "ru": "Сообщи о стрельбе в центре."
+      },
+      {
+        "en": "Film shooting wrapped early.",
+        "ru": "Съёмки фильма закончились рано."
+      },
+      {
+        "en": "School shootings spark debate.",
+        "ru": "Школьные стрельбы вызывают споры."
+      }
+    ],
+    "colloc": "mass shooting"
+  },
+  {
+    "word": "shore",
+    "lemma": "shore",
+    "ipa": "/ʃɔr/",
+    "pos": "noun",
+    "tr": "берег",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Walk along the shore.",
+        "ru": "Иди вдоль берега."
+      },
+      {
+        "en": "Ships approached shore.",
+        "ru": "Корабли приблизились к берегу."
+      },
+      {
+        "en": "Off-shore winds rose.",
+        "ru": "Береговые ветры усилились."
+      }
+    ],
+    "colloc": "on shore"
+  },
+  {
+    "word": "shortage",
+    "lemma": "shortage",
+    "ipa": "/ˈʃɔrtɪʤ/",
+    "pos": "noun",
+    "tr": "нехватка",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Food shortage hit villages.",
+        "ru": "Нехватка еды ударила по деревням."
+      },
+      {
+        "en": "Labor shortages raised wages.",
+        "ru": "Нехватка рабочей силы подняла зарплаты."
+      },
+      {
+        "en": "Face a water shortage.",
+        "ru": "Столкнись с нехваткой воды."
+      }
+    ],
+    "colloc": "shortage of"
+  },
+  {
+    "word": "shot",
+    "lemma": "shot",
+    "ipa": "/ʃɑt/",
+    "pos": "noun",
+    "tr": "выстрел / укол",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Get a flu shot.",
+        "ru": "Сделай прививку от гриппа."
+      },
+      {
+        "en": "A wide shot framed the city.",
+        "ru": "Широкий кадр обрамил город."
+      },
+      {
+        "en": "Take your best shot.",
+        "ru": "Сделай лучший выстрел."
+      }
+    ],
+    "colloc": "flu shot · long shot"
+  },
+  {
+    "word": "sibling",
+    "lemma": "sibling",
+    "ipa": "/ˈsɪblɪŋ/",
+    "pos": "noun",
+    "tr": "брат или сестра",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "She has three siblings.",
+        "ru": "У неё трое братьев и сестёр."
+      },
+      {
+        "en": "Sibling rivalry is common.",
+        "ru": "Соперничество сиблингов распространено."
+      },
+      {
+        "en": "Support your younger sibling.",
+        "ru": "Поддержи младшего брата или сестру."
+      }
+    ],
+    "colloc": "sibling rivalry"
+  },
+  {
+    "word": "sidewalk",
+    "lemma": "sidewalk",
+    "ipa": "/ˈsaɪdˌwɔk/",
+    "pos": "noun",
+    "tr": "тротуар",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Clear ice from the sidewalk.",
+        "ru": "Убери лёд с тротуара."
+      },
+      {
+        "en": "Kids chalked the sidewalk.",
+        "ru": "Дети рисовали мелом на тротуаре."
+      },
+      {
+        "en": "Cafe tables lined the sidewalk.",
+        "ru": "Столики кафе стояли вдоль тротуара."
+      }
+    ],
+    "colloc": "sidewalk cafe",
+    "note": "AmE"
+  },
+  {
+    "word": "signature",
+    "lemma": "signature",
+    "ipa": "/ˈsɪgnəʧər/",
+    "pos": "noun",
+    "tr": "подпись",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Add your signature here.",
+        "ru": "Поставь подпись здесь."
+      },
+      {
+        "en": "A signature dish arrived.",
+        "ru": "Фирменное блюдо прибыло."
+      },
+      {
+        "en": "Digital signatures save time.",
+        "ru": "Цифровые подписи экономят время."
+      }
+    ],
+    "colloc": "signature of"
+  },
+  {
+    "word": "significance",
+    "lemma": "significance",
+    "ipa": "/sɪgˈnɪfɪkəns/",
+    "pos": "noun",
+    "tr": "значимость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Grasp the historical significance.",
+        "ru": "Пойми историческую значимость."
+      },
+      {
+        "en": "Statistical significance matters.",
+        "ru": "Статистическая значимость важна."
+      },
+      {
+        "en": "Downplay no real significance.",
+        "ru": "Не преуменьшай реальную значимость."
+      }
+    ],
+    "colloc": "significance of"
+  },
+  {
+    "word": "silence",
+    "lemma": "silence",
+    "ipa": "/ˈsaɪləns/",
+    "pos": "noun",
+    "tr": "тишина",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Silence filled the hall.",
+        "ru": "Тишина заполнила зал."
+      },
+      {
+        "en": "Break the awkward silence.",
+        "ru": "Разбей неловкую тишину."
+      },
+      {
+        "en": "In silence, think clearly.",
+        "ru": "В тишине думай ясно."
+      }
+    ],
+    "colloc": "silence of"
+  },
+  {
+    "word": "silk",
+    "lemma": "silk",
+    "ipa": "/sɪlk/",
+    "pos": "noun",
+    "tr": "шёлк",
+    "bucket": "clothes",
+    "examples": [
+      {
+        "en": "Wear a silk scarf.",
+        "ru": "Носи шёлковый шарф."
+      },
+      {
+        "en": "Silk roads linked empires.",
+        "ru": "Шёлковые пути связывали империи."
+      },
+      {
+        "en": "Smooth as silk.",
+        "ru": "Гладкий как шёлк."
+      }
+    ],
+    "colloc": "silk fabric"
+  },
+  {
+    "word": "simulation",
+    "lemma": "simulation",
+    "ipa": "/ˌsɪmjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "симуляция",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Run a flight simulation.",
+        "ru": "Запусти симуляцию полёта."
+      },
+      {
+        "en": "Climate simulations warn us.",
+        "ru": "Климатические симуляции предупреждают."
+      },
+      {
+        "en": "Job interviews used simulation.",
+        "ru": "Собеседования использовали симуляцию."
+      }
+    ],
+    "colloc": "computer simulation"
+  },
+  {
+    "word": "sin",
+    "lemma": "sin",
+    "ipa": "/sɪn/",
+    "pos": "noun",
+    "tr": "грех",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Confess a private sin.",
+        "ru": "Исповедуй личный грех."
+      },
+      {
+        "en": "Living in sin shocked elders.",
+        "ru": "Жизнь в грехе шокировала старших."
+      },
+      {
+        "en": "Forgive past sins.",
+        "ru": "Прости прошлые грехи."
+      }
+    ],
+    "colloc": "original sin"
+  },
+  {
+    "word": "sketch",
+    "lemma": "sketch",
+    "ipa": "/skɛʧ/",
+    "pos": "noun",
+    "tr": "набросок",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Draw a quick sketch.",
+        "ru": "Сделай быстрый набросок."
+      },
+      {
+        "en": "Comedy sketch made us laugh.",
+        "ru": "Комедийный скетч нас рассмешил."
+      },
+      {
+        "en": "Sketch the outline first.",
+        "ru": "Сначала набросай контур."
+      }
+    ],
+    "colloc": "pencil sketch"
+  },
+  {
+    "word": "skull",
+    "lemma": "skull",
+    "ipa": "/skəl/",
+    "pos": "noun",
+    "tr": "череп",
+    "bucket": "body",
+    "examples": [
+      {
+        "en": "Wear a helmet for your skull.",
+        "ru": "Носи шлем ради черепа."
+      },
+      {
+        "en": "Skull fossils amazed scientists.",
+        "ru": "Ископаемые черепа поразили учёных."
+      },
+      {
+        "en": "A skull warning marked poison.",
+        "ru": "Череп-предупреждение отметил яд."
+      }
+    ],
+    "colloc": "skull fracture"
+  },
+  {
+    "word": "slavery",
+    "lemma": "slavery",
+    "ipa": "/sˈleɪvəri/",
+    "pos": "noun",
+    "tr": "рабство",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Abolish modern slavery.",
+        "ru": "Отмени современное рабство."
+      },
+      {
+        "en": "History of slavery still hurts.",
+        "ru": "История рабства всё ещё ранит."
+      },
+      {
+        "en": "Fight human slavery.",
+        "ru": "Борись с человеческим рабством."
+      }
+    ],
+    "colloc": "end slavery"
+  },
+  {
+    "word": "slogan",
+    "lemma": "slogan",
+    "ipa": "/sˈloʊgən/",
+    "pos": "noun",
+    "tr": "слоган",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Invent a catchy slogan.",
+        "ru": "Придумай цепляющий слоган."
+      },
+      {
+        "en": "Campaign slogans filled ads.",
+        "ru": "Предвыборные слоганы заполнили рекламу."
+      },
+      {
+        "en": "Repeat the safety slogan.",
+        "ru": "Повтори слоган безопасности."
+      }
+    ],
+    "colloc": "campaign slogan"
+  },
+  {
+    "word": "slope",
+    "lemma": "slope",
+    "ipa": "/sloʊp/",
+    "pos": "noun",
+    "tr": "склон",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Ski the steep slope.",
+        "ru": "Катайся по крутому склону."
+      },
+      {
+        "en": "A slippery slope argument.",
+        "ru": "Аргумент скользкого склона."
+      },
+      {
+        "en": "Garden slopes toward the creek.",
+        "ru": "Сад склоняется к ручью."
+      }
+    ],
+    "colloc": "on the slope"
+  },
+  {
+    "word": "slot",
+    "lemma": "slot",
+    "ipa": "/slɑt/",
+    "pos": "noun",
+    "tr": "слот",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Book a time slot.",
+        "ru": "Забронируй временной слот."
+      },
+      {
+        "en": "Insert coins in the slot.",
+        "ru": "Вставь монеты в щель."
+      },
+      {
+        "en": "Expansion slots filled.",
+        "ru": "Слоты расширения заполнились."
+      }
+    ],
+    "colloc": "time slot"
+  },
+  {
+    "word": "solidarity",
+    "lemma": "solidarity",
+    "ipa": "/ˌsɑləˈdɛrəti/",
+    "pos": "noun",
+    "tr": "солидарность",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Show worker solidarity.",
+        "ru": "Прояви солидарность работников."
+      },
+      {
+        "en": "International solidarity grew.",
+        "ru": "Международная солидарность выросла."
+      },
+      {
+        "en": "Act in solidarity.",
+        "ru": "Действуй в солидарности."
+      }
+    ],
+    "colloc": "in solidarity"
+  },
+  {
+    "word": "sophomore",
+    "lemma": "sophomore",
+    "ipa": "/ˈsɑfˌmɔr/",
+    "pos": "noun",
+    "tr": "студент второго курса",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Sophomores choose majors.",
+        "ru": "Второкурсники выбирают профили."
+      },
+      {
+        "en": "A sophomore album disappointed.",
+        "ru": "Второй альбом разочаровал."
+      },
+      {
+        "en": "Help lost sophomores.",
+        "ru": "Помоги потерявшимся второкурсникам."
+      }
+    ],
+    "colloc": "sophomore year",
+    "note": "AmE"
+  },
+  {
+    "word": "soul",
+    "lemma": "soul",
+    "ipa": "/soʊl/",
+    "pos": "noun",
+    "tr": "душа",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Pour your soul into art.",
+        "ru": "Вложи душу в искусство."
+      },
+      {
+        "en": "Soul music filled the bar.",
+        "ru": "Соул-музыка заполнила бар."
+      },
+      {
+        "en": "Keep body and soul together.",
+        "ru": "Держи тело и душу вместе."
+      }
+    ],
+    "colloc": "soul of"
+  },
+  {
+    "word": "sovereignty",
+    "lemma": "sovereignty",
+    "ipa": "/ˈsɑvrənti/",
+    "pos": "noun",
+    "tr": "суверенитет",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Defend national sovereignty.",
+        "ru": "Защищай национальный суверенитет."
+      },
+      {
+        "en": "Tribal sovereignty matters.",
+        "ru": "Племенной суверенитет важен."
+      },
+      {
+        "en": "Shared sovereignty is complex.",
+        "ru": "Совместный суверенитет сложен."
+      }
+    ],
+    "colloc": "sovereignty over"
+  },
+  {
+    "word": "spam",
+    "lemma": "spam",
+    "ipa": "/spæm/",
+    "pos": "noun",
+    "tr": "спам",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Filter email spam.",
+        "ru": "Фильтруй почтовый спам."
+      },
+      {
+        "en": "Don't send marketing spam.",
+        "ru": "Не шли маркетинговый спам."
+      },
+      {
+        "en": "Spam filled my inbox.",
+        "ru": "Спам заполнил мой ящик."
+      }
+    ],
+    "colloc": "spam filter"
+  },
+  {
+    "word": "specialist",
+    "lemma": "specialist",
+    "ipa": "/ˈspɛʃəlɪst/",
+    "pos": "noun",
+    "tr": "специалист",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "See a heart specialist.",
+        "ru": "Обратись к кардиологу."
+      },
+      {
+        "en": "IT specialists fixed servers.",
+        "ru": "ИТ-специалисты починили серверы."
+      },
+      {
+        "en": "Hire a logistics specialist.",
+        "ru": "Найми специалиста по логистике."
+      }
+    ],
+    "colloc": "medical specialist"
+  },
+  {
+    "word": "species",
+    "lemma": "species",
+    "ipa": "/ˈspiʃiz/",
+    "pos": "noun",
+    "tr": "вид",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Protect endangered species.",
+        "ru": "Защищай исчезающие виды."
+      },
+      {
+        "en": "A new species was found.",
+        "ru": "Нашли новый вид."
+      },
+      {
+        "en": "Human species faces climate risk.",
+        "ru": "Вид человека сталкивается с климатическим риском."
+      }
+    ],
+    "colloc": "species of"
+  },
+  {
+    "word": "spectator",
+    "lemma": "spectator",
+    "ipa": "/ˈspɛkteɪtər/",
+    "pos": "noun",
+    "tr": "зритель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Spectators filled the stands.",
+        "ru": "Зрители заполнили трибуны."
+      },
+      {
+        "en": "Don't be a passive spectator.",
+        "ru": "Не будь пассивным зрителем."
+      },
+      {
+        "en": "Spectator sports draw crowds.",
+        "ru": "Зрелищный спорт собирает толпы."
+      }
+    ],
+    "colloc": "spectator sport"
+  },
+  {
+    "word": "speculation",
+    "lemma": "speculation",
+    "ipa": "/ˌspɛkjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "домысел",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Avoid wild speculation.",
+        "ru": "Избегай диких домыслов."
+      },
+      {
+        "en": "Market speculation heated up.",
+        "ru": "Рыночные спекуляции накалились."
+      },
+      {
+        "en": "Pure speculation, not fact.",
+        "ru": "Чистый домысел, не факт."
+      }
+    ],
+    "colloc": "speculation about"
+  },
+  {
+    "word": "spice",
+    "lemma": "spice",
+    "ipa": "/spaɪs/",
+    "pos": "noun",
+    "tr": "специя",
+    "bucket": "food",
+    "examples": [
+      {
+        "en": "Add spice carefully.",
+        "ru": "Осторожно добавь специю."
+      },
+      {
+        "en": "Spice of life is variety.",
+        "ru": "Изюминка жизни — разнообразие."
+      },
+      {
+        "en": "Indian spices fill markets.",
+        "ru": "Индийские специи заполняют рынки."
+      }
+    ],
+    "colloc": "spice mix"
+  },
+  {
+    "word": "spite",
+    "lemma": "spite",
+    "ipa": "/spaɪt/",
+    "pos": "noun",
+    "tr": "назло",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't act out of spite.",
+        "ru": "Не действуй из злости."
+      },
+      {
+        "en": "In spite of rain, we walked.",
+        "ru": "Несмотря на дождь, мы гуляли."
+      },
+      {
+        "en": "Cut off your nose to spite your face.",
+        "ru": "Назло себе отрежь нос."
+      }
+    ],
+    "colloc": "in spite of"
+  },
+  {
+    "word": "spokesman",
+    "lemma": "spokesman",
+    "ipa": "/ˈspoʊksmən/",
+    "pos": "noun",
+    "tr": "пресс-секретарь (м)",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A company spokesman replied.",
+        "ru": "Пресс-секретарь компании ответил."
+      },
+      {
+        "en": "Official spokesmen denied leaks.",
+        "ru": "Официальные пресс-секретари отрицали утечки."
+      },
+      {
+        "en": "Ask the spokesman for comment.",
+        "ru": "Попроси пресс-секретаря комментарий."
+      }
+    ],
+    "colloc": "official spokesman"
+  },
+  {
+    "word": "spokesperson",
+    "lemma": "spokesperson",
+    "ipa": "/ˈspoʊkspərsən/",
+    "pos": "noun",
+    "tr": "представитель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Name a clear spokesperson.",
+        "ru": "Назначь ясного представителя."
+      },
+      {
+        "en": "The spokesperson clarified policy.",
+        "ru": "Представитель прояснил политику."
+      },
+      {
+        "en": "Train spokespeople carefully.",
+        "ru": "Осторожно обучай представителей."
+      }
+    ],
+    "colloc": "official spokesperson"
+  },
+  {
+    "word": "spokeswoman",
+    "lemma": "spokeswoman",
+    "ipa": "/ˈspoʊksˌwʊmən/",
+    "pos": "noun",
+    "tr": "пресс-секретарь (ж)",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "A ministry spokeswoman spoke.",
+        "ru": "Пресс-секретарь министерства выступила."
+      },
+      {
+        "en": "The spokeswoman declined comment.",
+        "ru": "Пресс-секретарь отказалась комментировать."
+      },
+      {
+        "en": "Quote the spokeswoman accurately.",
+        "ru": "Точно цитируй пресс-секретаря."
+      }
+    ],
+    "colloc": "party spokeswoman"
+  },
+  {
+    "word": "sponsorship",
+    "lemma": "sponsorship",
+    "ipa": "/ˈspɑnsərˌʃɪp/",
+    "pos": "noun",
+    "tr": "спонсорство",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Seek event sponsorship.",
+        "ru": "Ищи спонсорство мероприятия."
+      },
+      {
+        "en": "Corporate sponsorship funds teams.",
+        "ru": "Корпоративное спонсорство финансирует команды."
+      },
+      {
+        "en": "End harmful sponsorships.",
+        "ru": "Покончи с вредным спонсорством."
+      }
+    ],
+    "colloc": "sponsorship deal"
+  },
+  {
+    "word": "stall",
+    "lemma": "stall",
+    "ipa": "/stɔl/",
+    "pos": "noun",
+    "tr": "стойло / ларёк",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Browse market stalls.",
+        "ru": "Гуляй по рыночным ларькам."
+      },
+      {
+        "en": "Engine stall delayed takeoff.",
+        "ru": "Остановка двигателя задержала взлёт."
+      },
+      {
+        "en": "Horse stalls need cleaning.",
+        "ru": "Конюшни нужно чистить."
+      }
+    ],
+    "colloc": "market stall"
+  },
+  {
+    "word": "stance",
+    "lemma": "stance",
+    "ipa": "/stæns/",
+    "pos": "noun",
+    "tr": "позиция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Take a clear stance.",
+        "ru": "Займи ясную позицию."
+      },
+      {
+        "en": "Her stance on taxes shifted.",
+        "ru": "Её позиция по налогам сменилась."
+      },
+      {
+        "en": "Adopt a firm stance.",
+        "ru": "Прими твёрдую позицию."
+      }
+    ],
+    "colloc": "stance on"
+  },
+  {
+    "word": "status",
+    "lemma": "status",
+    "ipa": "/ˈstætəs/",
+    "pos": "noun",
+    "tr": "статус",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Check application status.",
+        "ru": "Проверь статус заявки."
+      },
+      {
+        "en": "Social status still matters.",
+        "ru": "Социальный статус всё ещё важен."
+      },
+      {
+        "en": "Update marital status.",
+        "ru": "Обнови семейный статус."
+      }
+    ],
+    "colloc": "status of"
+  },
+  {
+    "word": "steam",
+    "lemma": "steam",
+    "ipa": "/stim/",
+    "pos": "noun",
+    "tr": "пар",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Steam rose from the kettle.",
+        "ru": "Пар поднимался от чайника."
+      },
+      {
+        "en": "Let off steam after work.",
+        "ru": "Выпусти пар после работы."
+      },
+      {
+        "en": "Steam engines changed travel.",
+        "ru": "Паровозы изменили путешествия."
+      }
+    ],
+    "colloc": "full steam"
+  },
+  {
+    "word": "steel",
+    "lemma": "steel",
+    "ipa": "/stil/",
+    "pos": "noun",
+    "tr": "сталь",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Build bridges from steel.",
+        "ru": "Строй мосты из стали."
+      },
+      {
+        "en": "Steel prices fluctuated.",
+        "ru": "Цены на сталь колебались."
+      },
+      {
+        "en": "Nerve of steel helped.",
+        "ru": "Стальные нервы помогли."
+      }
+    ],
+    "colloc": "steel industry"
+  },
+  {
+    "word": "stock",
+    "lemma": "stock",
+    "ipa": "/stɑk/",
+    "pos": "noun",
+    "tr": "акции / запас",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Buy stock carefully.",
+        "ru": "Осторожно покупай акции."
+      },
+      {
+        "en": "Stock the pantry before storms.",
+        "ru": "Запаси кладовую перед бурями."
+      },
+      {
+        "en": "Livestock filled the barn.",
+        "ru": "Скот заполнил амбар."
+      }
+    ],
+    "colloc": "stock market"
+  },
+  {
+    "word": "stream",
+    "lemma": "stream",
+    "ipa": "/strim/",
+    "pos": "noun",
+    "tr": "поток",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Cross a clear stream.",
+        "ru": "Перейди чистый ручей."
+      },
+      {
+        "en": "Live stream the concert.",
+        "ru": "Транслируй концерт в прямом эфире."
+      },
+      {
+        "en": "A stream of visitors came.",
+        "ru": "Поток посетителей пришёл."
+      }
+    ],
+    "colloc": "stream of"
+  },
+  {
+    "word": "stroke",
+    "lemma": "stroke",
+    "ipa": "/stroʊk/",
+    "pos": "noun",
+    "tr": "инсульт / удар",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Recognize stroke symptoms.",
+        "ru": "Узнавай симптомы инсульта."
+      },
+      {
+        "en": "A brush stroke finished art.",
+        "ru": "Мазок кисти завершил работу."
+      },
+      {
+        "en": "Swim freestyle strokes.",
+        "ru": "Плыви кролем."
+      }
+    ],
+    "colloc": "stroke of luck"
+  },
+  {
+    "word": "suburb",
+    "lemma": "suburb",
+    "ipa": "/ˈsəbərb/",
+    "pos": "noun",
+    "tr": "пригород",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Move to a quiet suburb.",
+        "ru": "Переезжай в тихий пригород."
+      },
+      {
+        "en": "Suburb schools improved.",
+        "ru": "Пригородные школы улучшились."
+      },
+      {
+        "en": "Commute from the suburbs.",
+        "ru": "Езди на работу из пригорода."
+      }
+    ],
+    "colloc": "in the suburbs"
+  },
+  {
+    "word": "suffering",
+    "lemma": "suffering",
+    "ipa": "/ˈsəfərɪŋ/",
+    "pos": "noun",
+    "tr": "страдание",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Ease unnecessary suffering.",
+        "ru": "Облегчи ненужное страдание."
+      },
+      {
+        "en": "Human suffering demands response.",
+        "ru": "Человеческое страдание требует ответа."
+      },
+      {
+        "en": "Share stories of suffering carefully.",
+        "ru": "Осторожно делись историями страдания."
+      }
+    ],
+    "colloc": "end suffering"
+  },
+  {
+    "word": "sum",
+    "lemma": "sum",
+    "ipa": "/səm/",
+    "pos": "noun",
+    "tr": "сумма",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Calculate the total sum.",
+        "ru": "Посчитай общую сумму."
+      },
+      {
+        "en": "In sum, we agree.",
+        "ru": "В итоге мы согласны."
+      },
+      {
+        "en": "A large sum vanished.",
+        "ru": "Крупная сумма исчезла."
+      }
+    ],
+    "colloc": "sum of"
+  },
+  {
+    "word": "surgeon",
+    "lemma": "surgeon",
+    "ipa": "/ˈsərʤɪn/",
+    "pos": "noun",
+    "tr": "хирург",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Heart surgeons operate daily.",
+        "ru": "Кардиохирурги оперируют ежедневно."
+      },
+      {
+        "en": "Consult a skilled surgeon.",
+        "ru": "Обратись к опытному хирургу."
+      },
+      {
+        "en": "Surgeons scrub before surgery.",
+        "ru": "Хирурги моются перед операцией."
+      }
+    ],
+    "colloc": "brain surgeon"
+  },
+  {
+    "word": "surgery",
+    "lemma": "surgery",
+    "ipa": "/ˈsərʤəri/",
+    "pos": "noun",
+    "tr": "операция",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Schedule knee surgery.",
+        "ru": "Запланируй операцию на колене."
+      },
+      {
+        "en": "Cosmetic surgery rose.",
+        "ru": "Пластическая хирургия выросла."
+      },
+      {
+        "en": "Recover after major surgery.",
+        "ru": "Восстанавливайся после крупной операции."
+      }
+    ],
+    "colloc": "undergo surgery"
+  },
+  {
+    "word": "survival",
+    "lemma": "survival",
+    "ipa": "/sərˈvaɪvəl/",
+    "pos": "noun",
+    "tr": "выживание",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Wilderness survival needs skill.",
+        "ru": "Выживание в дикой природе требует навыка."
+      },
+      {
+        "en": "Business survival was uncertain.",
+        "ru": "Выживание бизнеса было неясным."
+      },
+      {
+        "en": "Celebrate cancer survival.",
+        "ru": "Отметь выживание после рака."
+      }
+    ],
+    "colloc": "survival rate"
+  },
+  {
+    "word": "survivor",
+    "lemma": "survivor",
+    "ipa": "/sərˈvaɪvər/",
+    "pos": "noun",
+    "tr": "выживший",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Honor disaster survivors.",
+        "ru": "Чти выживших после катастрофы."
+      },
+      {
+        "en": "Survivor stories inspire.",
+        "ru": "Истории выживших вдохновляют."
+      },
+      {
+        "en": "She is a cancer survivor.",
+        "ru": "Она выжившая после рака."
+      }
+    ],
+    "colloc": "sole survivor"
+  },
+  {
+    "word": "sympathy",
+    "lemma": "sympathy",
+    "ipa": "/ˈsɪmpəθi/",
+    "pos": "noun",
+    "tr": "сочувствие",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Offer genuine sympathy.",
+        "ru": "Предложи искреннее сочувствие."
+      },
+      {
+        "en": "Public sympathy shifted.",
+        "ru": "Общественное сочувствие сменилось."
+      },
+      {
+        "en": "Sympathy cards arrived.",
+        "ru": "Открытки с соболезнованиями прибыли."
+      }
+    ],
+    "colloc": "sympathy for"
+  }
+]

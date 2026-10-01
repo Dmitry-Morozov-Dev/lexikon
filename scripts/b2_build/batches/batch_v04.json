@@ -1,0 +1,1442 @@
+[
+  {
+    "word": "perceive",
+    "lemma": "perceive",
+    "ipa": "/pərˈsiv/",
+    "pos": "verb",
+    "tr": "воспринимать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "How do you perceive the risk?",
+        "ru": "Как ты воспринимаешь риск?"
+      },
+      {
+        "en": "Babies perceive faces early.",
+        "ru": "Младенцы рано воспринимают лица."
+      },
+      {
+        "en": "She perceived a slight change.",
+        "ru": "Она заметила лёгкое изменение."
+      }
+    ],
+    "colloc": "perceive as",
+    "pattern": "perceive + N"
+  },
+  {
+    "word": "persist",
+    "lemma": "persist",
+    "ipa": "/pərˈsɪst/",
+    "pos": "verb",
+    "tr": "упорствовать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Symptoms persist for weeks.",
+        "ru": "Симптомы сохраняются неделями."
+      },
+      {
+        "en": "Persist despite setbacks.",
+        "ru": "Упорствуй несмотря на неудачи."
+      },
+      {
+        "en": "If problems persist, call support.",
+        "ru": "Если проблемы сохраняются, позвони в поддержку."
+      }
+    ],
+    "colloc": "persist in · persist with",
+    "pattern": "persist in/with"
+  },
+  {
+    "word": "plead",
+    "lemma": "plead",
+    "ipa": "/plid/",
+    "pos": "verb",
+    "tr": "умолять / заявлять",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "They pleaded for help.",
+        "ru": "Они умоляли о помощи."
+      },
+      {
+        "en": "He pleaded guilty in court.",
+        "ru": "Он признал вину в суде."
+      },
+      {
+        "en": "Don't plead ignorance now.",
+        "ru": "Не ссылайся на незнание сейчас."
+      }
+    ],
+    "colloc": "plead guilty · plead for",
+    "pattern": "plead + N"
+  },
+  {
+    "word": "pledge",
+    "lemma": "pledge",
+    "ipa": "/plɛʤ/",
+    "pos": "verb",
+    "tr": "торжественно обещать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Leaders pledged climate action.",
+        "ru": "Лидеры пообещали климатические действия."
+      },
+      {
+        "en": "I pledge my support.",
+        "ru": "Я торжественно обещаю поддержку."
+      },
+      {
+        "en": "Donors pledged millions.",
+        "ru": "Доноры пообещали миллионы."
+      }
+    ],
+    "colloc": "pledge to · pledge support",
+    "pattern": "pledge + N"
+  },
+  {
+    "word": "plunge",
+    "lemma": "plunge",
+    "ipa": "/plənʤ/",
+    "pos": "verb",
+    "tr": "нырять / резко падать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Prices plunged overnight.",
+        "ru": "Цены резко упали за ночь."
+      },
+      {
+        "en": "Plunge into cold water carefully.",
+        "ru": "Осторожно ныряй в холодную воду."
+      },
+      {
+        "en": "The car plunged off the bridge.",
+        "ru": "Машина сорвалась с моста."
+      }
+    ],
+    "colloc": "plunge into · plunge to",
+    "pattern": "plunge into"
+  },
+  {
+    "word": "portray",
+    "lemma": "portray",
+    "ipa": "/pɔrˈtreɪ/",
+    "pos": "verb",
+    "tr": "изображать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Films portray complex heroes.",
+        "ru": "Фильмы изображают сложных героев."
+      },
+      {
+        "en": "Media portrayed him unfairly.",
+        "ru": "СМИ изобразили его несправедливо."
+      },
+      {
+        "en": "The novel portrays city life.",
+        "ru": "Роман изображает городскую жизнь."
+      }
+    ],
+    "colloc": "portray as",
+    "pattern": "portray + N"
+  },
+  {
+    "word": "pose",
+    "lemma": "pose",
+    "ipa": "/poʊz/",
+    "pos": "verb",
+    "tr": "представлять / позировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Pollution poses a health risk.",
+        "ru": "Загрязнение представляет риск для здоровья."
+      },
+      {
+        "en": "Models pose for the camera.",
+        "ru": "Модели позируют для камеры."
+      },
+      {
+        "en": "May I pose a question?",
+        "ru": "Могу задать вопрос?"
+      }
+    ],
+    "colloc": "pose a risk · pose a question",
+    "pattern": "pose + N"
+  },
+  {
+    "word": "possess",
+    "lemma": "possess",
+    "ipa": "/pəˈzɛs/",
+    "pos": "verb",
+    "tr": "обладать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Few possess true patience.",
+        "ru": "Мало кто обладает настоящим терпением."
+      },
+      {
+        "en": "He possesses rare skills.",
+        "ru": "Он обладает редкими навыками."
+      },
+      {
+        "en": "The suspect possessed stolen goods.",
+        "ru": "У подозреваемого были краденые вещи."
+      }
+    ],
+    "colloc": "possess skills",
+    "pattern": "possess + N"
+  },
+  {
+    "word": "preach",
+    "lemma": "preach",
+    "ipa": "/priʧ/",
+    "pos": "verb",
+    "tr": "проповедовать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Don't preach at your friends.",
+        "ru": "Не читай проповеди друзьям."
+      },
+      {
+        "en": "Leaders preach fiscal discipline.",
+        "ru": "Лидеры проповедуют бюджетную дисциплину."
+      },
+      {
+        "en": "He preached tolerance.",
+        "ru": "Он проповедовал терпимость."
+      }
+    ],
+    "colloc": "preach to · preach about",
+    "pattern": "preach + N"
+  },
+  {
+    "word": "precede",
+    "lemma": "precede",
+    "ipa": "/prɪˈsid/",
+    "pos": "verb",
+    "tr": "предшествовать",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Thunder precedes heavy rain.",
+        "ru": "Гром предшествует сильному дождю."
+      },
+      {
+        "en": "A preface precedes the chapters.",
+        "ru": "Предисловие предшествует главам."
+      },
+      {
+        "en": "What preceded the decision?",
+        "ru": "Что предшествовало решению?"
+      }
+    ],
+    "colloc": "precede by",
+    "pattern": "precede + N"
+  },
+  {
+    "word": "prescribe",
+    "lemma": "prescribe",
+    "ipa": "/prəˈskraɪb/",
+    "pos": "verb",
+    "tr": "прописывать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Doctors prescribe antibiotics carefully.",
+        "ru": "Врачи осторожно прописывают антибиотики."
+      },
+      {
+        "en": "Rules prescribe clear procedures.",
+        "ru": "Правила предписывают ясные процедуры."
+      },
+      {
+        "en": "The law prescribes penalties.",
+        "ru": "Закон предписывает наказания."
+      }
+    ],
+    "colloc": "prescribe medication",
+    "pattern": "prescribe + N"
+  },
+  {
+    "word": "preserve",
+    "lemma": "preserve",
+    "ipa": "/prɪˈzərv/",
+    "pos": "verb",
+    "tr": "сохранять",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Preserve historic buildings.",
+        "ru": "Сохраняй исторические здания."
+      },
+      {
+        "en": "Salt helps preserve food.",
+        "ru": "Соль помогает сохранять еду."
+      },
+      {
+        "en": "We must preserve biodiversity.",
+        "ru": "Мы должны сохранять биоразнообразие."
+      }
+    ],
+    "colloc": "preserve from · preserve for",
+    "pattern": "preserve + N"
+  },
+  {
+    "word": "preside",
+    "lemma": "preside",
+    "ipa": "/prɪˈzaɪd/",
+    "pos": "verb",
+    "tr": "председательствовать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "She will preside over the meeting.",
+        "ru": "Она будет председательствовать на встрече."
+      },
+      {
+        "en": "Judges preside in court.",
+        "ru": "Судьи председательствуют в суде."
+      },
+      {
+        "en": "Who presides at the ceremony?",
+        "ru": "Кто председательствует на церемонии?"
+      }
+    ],
+    "colloc": "preside over",
+    "pattern": "preside over + N"
+  },
+  {
+    "word": "presume",
+    "lemma": "presume",
+    "ipa": "/prɪˈzum/",
+    "pos": "verb",
+    "tr": "предполагать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Don't presume bad intent.",
+        "ru": "Не предполагай плохих намерений."
+      },
+      {
+        "en": "I presume you agree.",
+        "ru": "Полагаю, ты согласен."
+      },
+      {
+        "en": "Missing hikers are presumed lost.",
+        "ru": "Пропавших туристов считают пропавшими."
+      }
+    ],
+    "colloc": "presume that · presumed innocent",
+    "pattern": "presume + that"
+  },
+  {
+    "word": "prevail",
+    "lemma": "prevail",
+    "ipa": "/prɪˈveɪl/",
+    "pos": "verb",
+    "tr": "преобладать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Calm should prevail in crises.",
+        "ru": "В кризисах должно преобладать спокойствие."
+      },
+      {
+        "en": "Justice ultimately prevailed.",
+        "ru": "Справедливость в итоге восторжествовала."
+      },
+      {
+        "en": "Strong winds prevail along the coast.",
+        "ru": "Сильные ветры преобладают вдоль побережья."
+      }
+    ],
+    "colloc": "prevail over · prevail in",
+    "pattern": "prevail"
+  },
+  {
+    "word": "proceed",
+    "lemma": "proceed",
+    "ipa": "/pərˈsid/",
+    "pos": "verb",
+    "tr": "продолжать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Proceed with caution.",
+        "ru": "Продолжай с осторожностью."
+      },
+      {
+        "en": "The trial will proceed tomorrow.",
+        "ru": "Суд продолжится завтра."
+      },
+      {
+        "en": "Please proceed to gate twelve.",
+        "ru": "Пожалуйста, пройдите к выходу двенадцать."
+      }
+    ],
+    "colloc": "proceed with · proceed to",
+    "pattern": "proceed with/to"
+  },
+  {
+    "word": "proclaim",
+    "lemma": "proclaim",
+    "ipa": "/proʊˈkleɪm/",
+    "pos": "verb",
+    "tr": "провозглашать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Leaders proclaimed a ceasefire.",
+        "ru": "Лидеры провозгласили прекращение огня."
+      },
+      {
+        "en": "She proclaimed her innocence.",
+        "ru": "Она провозгласила свою невиновность."
+      },
+      {
+        "en": "The banner proclaimed victory.",
+        "ru": "Баннер провозглашал победу."
+      }
+    ],
+    "colloc": "proclaim that",
+    "pattern": "proclaim + N/that"
+  },
+  {
+    "word": "prohibit",
+    "lemma": "prohibit",
+    "ipa": "/proʊˈhɪbət/",
+    "pos": "verb",
+    "tr": "запрещать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Signs prohibit parking here.",
+        "ru": "Знаки запрещают парковку здесь."
+      },
+      {
+        "en": "The law prohibits discrimination.",
+        "ru": "Закон запрещает дискриминацию."
+      },
+      {
+        "en": "Smoking is prohibited indoors.",
+        "ru": "Курение в помещении запрещено."
+      }
+    ],
+    "colloc": "prohibit from",
+    "pattern": "prohibit + N"
+  },
+  {
+    "word": "prompt",
+    "lemma": "prompt",
+    "ipa": "/prɑmpt/",
+    "pos": "verb",
+    "tr": "побуждать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "News prompted an investigation.",
+        "ru": "Новости побудили к расследованию."
+      },
+      {
+        "en": "Teachers prompt students carefully.",
+        "ru": "Учителя осторожно подсказывают ученикам."
+      },
+      {
+        "en": "What prompted your decision?",
+        "ru": "Что побудило твоё решение?"
+      }
+    ],
+    "colloc": "prompt someone to",
+    "pattern": "prompt + N"
+  },
+  {
+    "word": "propose",
+    "lemma": "propose",
+    "ipa": "/prəˈpoʊz/",
+    "pos": "verb",
+    "tr": "предлагать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Propose a clear alternative.",
+        "ru": "Предложи ясную альтернативу."
+      },
+      {
+        "en": "He proposed marriage in Paris.",
+        "ru": "Он сделал предложение в Париже."
+      },
+      {
+        "en": "The committee proposed reforms.",
+        "ru": "Комитет предложил реформы."
+      }
+    ],
+    "colloc": "propose that · propose to",
+    "pattern": "propose + N/that"
+  },
+  {
+    "word": "prosecute",
+    "lemma": "prosecute",
+    "ipa": "/ˈprɑsəˌkjut/",
+    "pos": "verb",
+    "tr": "преследовать судебно",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "States prosecute serious crimes.",
+        "ru": "Штаты преследуют серьёзные преступления."
+      },
+      {
+        "en": "She was prosecuted for fraud.",
+        "ru": "Её преследовали за мошенничество."
+      },
+      {
+        "en": "Will they prosecute the case?",
+        "ru": "Будут ли они вести это дело?"
+      }
+    ],
+    "colloc": "prosecute for",
+    "pattern": "prosecute + N"
+  },
+  {
+    "word": "provoke",
+    "lemma": "provoke",
+    "ipa": "/prəˈvoʊk/",
+    "pos": "verb",
+    "tr": "провоцировать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't provoke an argument.",
+        "ru": "Не провоцируй спор."
+      },
+      {
+        "en": "The ad provoked strong reactions.",
+        "ru": "Реклама вызвала сильные реакции."
+      },
+      {
+        "en": "Harsh words provoke anger.",
+        "ru": "Резкие слова провоцируют гнев."
+      }
+    ],
+    "colloc": "provoke a reaction",
+    "pattern": "provoke + N"
+  },
+  {
+    "word": "pursue",
+    "lemma": "pursue",
+    "ipa": "/pərˈsu/",
+    "pos": "verb",
+    "tr": "преследовать / стремиться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Pursue meaningful goals.",
+        "ru": "Стремись к значимым целям."
+      },
+      {
+        "en": "Police pursued the suspect.",
+        "ru": "Полиция преследовала подозреваемого."
+      },
+      {
+        "en": "She pursued a degree abroad.",
+        "ru": "Она получила степень за рубежом."
+      }
+    ],
+    "colloc": "pursue a career · pursue charges",
+    "pattern": "pursue + N"
+  },
+  {
+    "word": "range",
+    "lemma": "range",
+    "ipa": "/reɪnʤ/",
+    "pos": "verb",
+    "tr": "варьироваться",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Prices range from low to high.",
+        "ru": "Цены варьируются от низких до высоких."
+      },
+      {
+        "en": "Topics ranged widely.",
+        "ru": "Темы широко варьировались."
+      },
+      {
+        "en": "Cattle range across the plains.",
+        "ru": "Скот пасётся по равнинам."
+      }
+    ],
+    "colloc": "range from · range across",
+    "pattern": "range from"
+  },
+  {
+    "word": "rate",
+    "lemma": "rate",
+    "ipa": "/reɪt/",
+    "pos": "verb",
+    "tr": "оценивать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Users rate the app highly.",
+        "ru": "Пользователи высоко оценивают приложение."
+      },
+      {
+        "en": "How do you rate our service?",
+        "ru": "Как ты оцениваешь наш сервис?"
+      },
+      {
+        "en": "Critics rated the film poorly.",
+        "ru": "Критики низко оценили фильм."
+      }
+    ],
+    "colloc": "rate as · highly rated",
+    "pattern": "rate + N"
+  },
+  {
+    "word": "reassure",
+    "lemma": "reassure",
+    "ipa": "/ˌriəˈʃʊr/",
+    "pos": "verb",
+    "tr": "успокаивать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Reassure anxious patients.",
+        "ru": "Успокаивай тревожных пациентов."
+      },
+      {
+        "en": "Parents reassured the child.",
+        "ru": "Родители успокоили ребёнка."
+      },
+      {
+        "en": "Data reassure investors.",
+        "ru": "Данные успокаивают инвесторов."
+      }
+    ],
+    "colloc": "reassure about",
+    "pattern": "reassure + N"
+  },
+  {
+    "word": "rebuild",
+    "lemma": "rebuild",
+    "ipa": "/riˈbɪld/",
+    "pos": "verb",
+    "tr": "перестраивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Communities rebuild after storms.",
+        "ru": "Сообщества восстанавливаются после бурь."
+      },
+      {
+        "en": "Rebuild trust slowly.",
+        "ru": "Медленно восстанавливай доверие."
+      },
+      {
+        "en": "They rebuilt the bridge.",
+        "ru": "Они перестроили мост."
+      }
+    ],
+    "colloc": "rebuild trust",
+    "pattern": "rebuild + N"
+  },
+  {
+    "word": "recall",
+    "lemma": "recall",
+    "ipa": "/ˈriˌkɔl/",
+    "pos": "verb",
+    "tr": "вспоминать / отзывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I can't recall her name.",
+        "ru": "Не могу вспомнить её имя."
+      },
+      {
+        "en": "The company recalled the cars.",
+        "ru": "Компания отозвала машины."
+      },
+      {
+        "en": "Recall the main points.",
+        "ru": "Вспомни главные пункты."
+      }
+    ],
+    "colloc": "recall that · product recall",
+    "pattern": "recall + N"
+  },
+  {
+    "word": "reckon",
+    "lemma": "reckon",
+    "ipa": "/ˈrɛkən/",
+    "pos": "verb",
+    "tr": "считать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I reckon we'll finish soon.",
+        "ru": "Думаю, скоро закончим."
+      },
+      {
+        "en": "Experts reckon costs will rise.",
+        "ru": "Эксперты считают, что затраты вырастут."
+      },
+      {
+        "en": "Reckon without surprises.",
+        "ru": "Не считай без сюрпризов."
+      }
+    ],
+    "colloc": "reckon that · reckon with",
+    "pattern": "reckon that"
+  },
+  {
+    "word": "recover",
+    "lemma": "recover",
+    "ipa": "/rɪˈkəvər/",
+    "pos": "verb",
+    "tr": "восстанавливаться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Patients recover slowly.",
+        "ru": "Пациенты восстанавливаются медленно."
+      },
+      {
+        "en": "Markets recovered after losses.",
+        "ru": "Рынки восстановились после убытков."
+      },
+      {
+        "en": "Police recovered the stolen goods.",
+        "ru": "Полиция вернула краденые вещи."
+      }
+    ],
+    "colloc": "recover from · recover data",
+    "pattern": "recover from"
+  },
+  {
+    "word": "recruit",
+    "lemma": "recruit",
+    "ipa": "/rɪˈkrut/",
+    "pos": "verb",
+    "tr": "нанимать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Firms recruit campus talent.",
+        "ru": "Фирмы нанимают университетские таланты."
+      },
+      {
+        "en": "Armies recruit young adults.",
+        "ru": "Армии набирают молодых взрослых."
+      },
+      {
+        "en": "We need to recruit volunteers.",
+        "ru": "Нам нужно набрать волонтёров."
+      }
+    ],
+    "colloc": "recruit for",
+    "pattern": "recruit + N"
+  },
+  {
+    "word": "regain",
+    "lemma": "regain",
+    "ipa": "/rɪˈgeɪn/",
+    "pos": "verb",
+    "tr": "вернуть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Regain focus after a break.",
+        "ru": "Верни фокус после перерыва."
+      },
+      {
+        "en": "She regained consciousness.",
+        "ru": "Она пришла в сознание."
+      },
+      {
+        "en": "Teams regain momentum slowly.",
+        "ru": "Команды медленно возвращают импульс."
+      }
+    ],
+    "colloc": "regain control",
+    "pattern": "regain + N"
+  },
+  {
+    "word": "register",
+    "lemma": "register",
+    "ipa": "/ˈrɛʤɪstər/",
+    "pos": "verb",
+    "tr": "регистрировать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Register for the conference.",
+        "ru": "Зарегистрируйся на конференцию."
+      },
+      {
+        "en": "Voters must register early.",
+        "ru": "Избиратели должны регистрироваться рано."
+      },
+      {
+        "en": "The shock registered on her face.",
+        "ru": "Шок отразился на её лице."
+      }
+    ],
+    "colloc": "register for · register as",
+    "pattern": "register for/as"
+  },
+  {
+    "word": "regulate",
+    "lemma": "regulate",
+    "ipa": "/ˈrɛgjəˌleɪt/",
+    "pos": "verb",
+    "tr": "регулировать",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Agencies regulate food safety.",
+        "ru": "Агентства регулируют безопасность пищи."
+      },
+      {
+        "en": "Laws regulate online ads.",
+        "ru": "Законы регулируют онлайн-рекламу."
+      },
+      {
+        "en": "The body regulates temperature.",
+        "ru": "Тело регулирует температуру."
+      }
+    ],
+    "colloc": "regulate an industry",
+    "pattern": "regulate + N"
+  },
+  {
+    "word": "reinforce",
+    "lemma": "reinforce",
+    "ipa": "/ˌriɪnˈfɔrs/",
+    "pos": "verb",
+    "tr": "усиливать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Reinforce the weak beam.",
+        "ru": "Усиль слабую балку."
+      },
+      {
+        "en": "Evidence reinforces the claim.",
+        "ru": "Доказательства усиливают утверждение."
+      },
+      {
+        "en": "Praise can reinforce good habits.",
+        "ru": "Похвала может закрепить хорошие привычки."
+      }
+    ],
+    "colloc": "reinforce with",
+    "pattern": "reinforce + N"
+  },
+  {
+    "word": "relieve",
+    "lemma": "relieve",
+    "ipa": "/rɪˈliv/",
+    "pos": "verb",
+    "tr": "облегчать",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Medicine relieves the pain.",
+        "ru": "Лекарство облегчает боль."
+      },
+      {
+        "en": "A joke relieved the tension.",
+        "ru": "Шутка сняла напряжение."
+      },
+      {
+        "en": "Volunteers relieve exhausted staff.",
+        "ru": "Волонтёры сменяют измотанный персонал."
+      }
+    ],
+    "colloc": "relieve of · relieve pain",
+    "pattern": "relieve + N"
+  },
+  {
+    "word": "render",
+    "lemma": "render",
+    "ipa": "/ˈrɛndər/",
+    "pos": "verb",
+    "tr": "делать / оказывать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Errors render the data useless.",
+        "ru": "Ошибки делают данные бесполезными."
+      },
+      {
+        "en": "Doctors render emergency care.",
+        "ru": "Врачи оказывают неотложную помощь."
+      },
+      {
+        "en": "The verdict rendered him free.",
+        "ru": "Приговор сделал его свободным."
+      }
+    ],
+    "colloc": "render useless · render aid",
+    "pattern": "render + N + adj"
+  },
+  {
+    "word": "renew",
+    "lemma": "renew",
+    "ipa": "/rɪˈnu/",
+    "pos": "verb",
+    "tr": "обновлять",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Renew your passport early.",
+        "ru": "Обнови паспорт заранее."
+      },
+      {
+        "en": "They renewed the lease.",
+        "ru": "Они продлили аренду."
+      },
+      {
+        "en": "Hope renewed after the win.",
+        "ru": "Надежда обновилась после победы."
+      }
+    ],
+    "colloc": "renew a contract",
+    "pattern": "renew + N"
+  },
+  {
+    "word": "reproduce",
+    "lemma": "reproduce",
+    "ipa": "/ˌriprəˈdus/",
+    "pos": "verb",
+    "tr": "воспроизводить",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Cells reproduce quickly.",
+        "ru": "Клетки быстро размножаются."
+      },
+      {
+        "en": "Don't reproduce copyrighted text.",
+        "ru": "Не воспроизводи защищённый текст."
+      },
+      {
+        "en": "Artists reproduce classic styles.",
+        "ru": "Художники воспроизводят классические стили."
+      }
+    ],
+    "colloc": "reproduce asexually",
+    "pattern": "reproduce + N"
+  },
+  {
+    "word": "rescue",
+    "lemma": "rescue",
+    "ipa": "/ˈrɛskju/",
+    "pos": "verb",
+    "tr": "спасать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Firefighters rescue trapped people.",
+        "ru": "Пожарные спасают запертых людей."
+      },
+      {
+        "en": "A loan rescued the business.",
+        "ru": "Кредит спас бизнес."
+      },
+      {
+        "en": "Volunteers rescued stranded hikers.",
+        "ru": "Волонтёры спасли застрявших туристов."
+      }
+    ],
+    "colloc": "rescue from",
+    "pattern": "rescue + N"
+  },
+  {
+    "word": "resemble",
+    "lemma": "resemble",
+    "ipa": "/rɪˈzɛmbəl/",
+    "pos": "verb",
+    "tr": "походить",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "The twins resemble each other.",
+        "ru": "Близнецы похожи друг на друга."
+      },
+      {
+        "en": "This design resembles last year's.",
+        "ru": "Этот дизайн похож на прошлогодний."
+      },
+      {
+        "en": "His voice resembles yours.",
+        "ru": "Его голос похож на твой."
+      }
+    ],
+    "colloc": "resemble closely",
+    "pattern": "resemble + N"
+  },
+  {
+    "word": "reside",
+    "lemma": "reside",
+    "ipa": "/rɪˈzaɪd/",
+    "pos": "verb",
+    "tr": "проживать",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "She resides downtown.",
+        "ru": "Она проживает в центре."
+      },
+      {
+        "en": "Power resides with the board.",
+        "ru": "Власть принадлежит совету."
+      },
+      {
+        "en": "Where do you currently reside?",
+        "ru": "Где ты сейчас проживаешь?"
+      }
+    ],
+    "colloc": "reside in",
+    "pattern": "reside in + N"
+  },
+  {
+    "word": "resign",
+    "lemma": "resign",
+    "ipa": "/rɪˈzaɪn/",
+    "pos": "verb",
+    "tr": "уходить в отставку",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "He resigned from the cabinet.",
+        "ru": "Он ушёл из кабинета."
+      },
+      {
+        "en": "She resigned herself to waiting.",
+        "ru": "Она смирилась с ожиданием."
+      },
+      {
+        "en": "The CEO will resign next month.",
+        "ru": "CEO уйдёт в отставку в следующем месяце."
+      }
+    ],
+    "colloc": "resign from · resign oneself",
+    "pattern": "resign from"
+  },
+  {
+    "word": "resist",
+    "lemma": "resist",
+    "ipa": "/rɪˈzɪst/",
+    "pos": "verb",
+    "tr": "сопротивляться",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Resist the urge to quit.",
+        "ru": "Сопротивляйся желанию сдаться."
+      },
+      {
+        "en": "Materials resist corrosion.",
+        "ru": "Материалы сопротивляются коррозии."
+      },
+      {
+        "en": "They resisted the takeover.",
+        "ru": "Они сопротивлялись поглощению."
+      }
+    ],
+    "colloc": "resist temptation",
+    "pattern": "resist + N"
+  },
+  {
+    "word": "resolve",
+    "lemma": "resolve",
+    "ipa": "/riˈzɑlv/",
+    "pos": "verb",
+    "tr": "решать",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Resolve the conflict calmly.",
+        "ru": "Спокойно реши конфликт."
+      },
+      {
+        "en": "She resolved to train daily.",
+        "ru": "Она решила тренироваться ежедневно."
+      },
+      {
+        "en": "The image resolved into focus.",
+        "ru": "Изображение стало чётким."
+      }
+    ],
+    "colloc": "resolve to · resolve a dispute",
+    "pattern": "resolve + N"
+  },
+  {
+    "word": "restore",
+    "lemma": "restore",
+    "ipa": "/rɪˈstɔr/",
+    "pos": "verb",
+    "tr": "восстанавливать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Restore the old theater.",
+        "ru": "Восстанови старый театр."
+      },
+      {
+        "en": "Backup restore fixed the outage.",
+        "ru": "Восстановление из бэкапа устранило сбой."
+      },
+      {
+        "en": "Trust is hard to restore.",
+        "ru": "Доверие трудно восстановить."
+      }
+    ],
+    "colloc": "restore to",
+    "pattern": "restore + N"
+  },
+  {
+    "word": "restrict",
+    "lemma": "restrict",
+    "ipa": "/riˈstrɪkt/",
+    "pos": "verb",
+    "tr": "ограничивать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Restrict access to sensitive files.",
+        "ru": "Ограничь доступ к чувствительным файлам."
+      },
+      {
+        "en": "Laws restrict smoking indoors.",
+        "ru": "Законы ограничивают курение в помещении."
+      },
+      {
+        "en": "Don't restrict creativity needlessly.",
+        "ru": "Не ограничивай креативность без нужды."
+      }
+    ],
+    "colloc": "restrict to · restrict from",
+    "pattern": "restrict + N"
+  },
+  {
+    "word": "resume",
+    "lemma": "resume",
+    "ipa": "/ˈrɛzəˌmeɪ/",
+    "pos": "verb",
+    "tr": "возобновлять",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Resume work after lunch.",
+        "ru": "Возобнови работу после обеда."
+      },
+      {
+        "en": "Talks resumed on Monday.",
+        "ru": "Переговоры возобновились в понедельник."
+      },
+      {
+        "en": "Please resume your seats.",
+        "ru": "Пожалуйста, займите места снова."
+      }
+    ],
+    "colloc": "resume after",
+    "pattern": "resume + N"
+  },
+  {
+    "word": "retain",
+    "lemma": "retain",
+    "ipa": "/rɪˈteɪn/",
+    "pos": "verb",
+    "tr": "сохранять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Retain skilled employees.",
+        "ru": "Сохраняй квалифицированных сотрудников."
+      },
+      {
+        "en": "Concrete retains heat.",
+        "ru": "Бетон сохраняет тепло."
+      },
+      {
+        "en": "She retained a lawyer.",
+        "ru": "Она наняла адвоката."
+      }
+    ],
+    "colloc": "retain control",
+    "pattern": "retain + N"
+  },
+  {
+    "word": "retrieve",
+    "lemma": "retrieve",
+    "ipa": "/rɪˈtriv/",
+    "pos": "verb",
+    "tr": "извлекать",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Retrieve the backup file.",
+        "ru": "Извлеки файл бэкапа."
+      },
+      {
+        "en": "Dogs retrieve thrown balls.",
+        "ru": "Собаки приносят брошенные мячи."
+      },
+      {
+        "en": "Can you retrieve that email?",
+        "ru": "Можешь найти то письмо?"
+      }
+    ],
+    "colloc": "retrieve from",
+    "pattern": "retrieve + N"
+  },
+  {
+    "word": "reveal",
+    "lemma": "reveal",
+    "ipa": "/rɪˈvil/",
+    "pos": "verb",
+    "tr": "раскрывать",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Tests reveal hidden flaws.",
+        "ru": "Тесты раскрывают скрытые изъяны."
+      },
+      {
+        "en": "She revealed her plans.",
+        "ru": "Она раскрыла свои планы."
+      },
+      {
+        "en": "Don't reveal the ending.",
+        "ru": "Не раскрывай концовку."
+      }
+    ],
+    "colloc": "reveal that",
+    "pattern": "reveal + N/that"
+  },
+  {
+    "word": "reverse",
+    "lemma": "reverse",
+    "ipa": "/rɪˈvərs/",
+    "pos": "verb",
+    "tr": "обращать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Reverse the decision carefully.",
+        "ru": "Осторожно отмени решение."
+      },
+      {
+        "en": "Cars reverse into the lot.",
+        "ru": "Машины задним ходом заезжают на стоянку."
+      },
+      {
+        "en": "Trends may reverse soon.",
+        "ru": "Тренды скоро могут развернуться."
+      }
+    ],
+    "colloc": "reverse a trend",
+    "pattern": "reverse + N"
+  },
+  {
+    "word": "revive",
+    "lemma": "revive",
+    "ipa": "/rɪˈvaɪv/",
+    "pos": "verb",
+    "tr": "оживлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Revive the stalled talks.",
+        "ru": "Оживи застопорившиеся переговоры."
+      },
+      {
+        "en": "Medics revived the patient.",
+        "ru": "Медики оживили пациента."
+      },
+      {
+        "en": "Fashion trends revive every decade.",
+        "ru": "Мода оживает каждое десятилетие."
+      }
+    ],
+    "colloc": "revive interest",
+    "pattern": "revive + N"
+  },
+  {
+    "word": "rid",
+    "lemma": "rid",
+    "ipa": "/rɪd/",
+    "pos": "verb",
+    "tr": "избавлять",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Rid the kitchen of pests.",
+        "ru": "Избавь кухню от вредителей."
+      },
+      {
+        "en": "She wants to rid herself of debt.",
+        "ru": "Она хочет избавиться от долга."
+      },
+      {
+        "en": "Get rid of unused apps.",
+        "ru": "Избавься от неиспользуемых приложений."
+      }
+    ],
+    "colloc": "rid of · get rid of",
+    "pattern": "rid + N + of"
+  },
+  {
+    "word": "rip",
+    "lemma": "rip",
+    "ipa": "/rɪp/",
+    "pos": "verb",
+    "tr": "рвать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't rip the pages.",
+        "ru": "Не рви страницы."
+      },
+      {
+        "en": "A storm ripped the roof off.",
+        "ru": "Буря сорвала крышу."
+      },
+      {
+        "en": "He ripped up the contract.",
+        "ru": "Он разорвал контракт."
+      }
+    ],
+    "colloc": "rip off · rip up",
+    "pattern": "rip + N"
+  },
+  {
+    "word": "rob",
+    "lemma": "rob",
+    "ipa": "/rɑb/",
+    "pos": "verb",
+    "tr": "грабить",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Thieves robbed the store.",
+        "ru": "Воры ограбили магазин."
+      },
+      {
+        "en": "Don't let fear rob your joy.",
+        "ru": "Не позволяй страху красть радость."
+      },
+      {
+        "en": "He was robbed at knifepoint.",
+        "ru": "Его ограбили под ножом."
+      }
+    ],
+    "colloc": "rob of",
+    "pattern": "rob + N"
+  },
+  {
+    "word": "rock",
+    "lemma": "rock",
+    "ipa": "/rɑk/",
+    "pos": "verb",
+    "tr": "качать / потрясать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Waves rock the boat.",
+        "ru": "Волны качают лодку."
+      },
+      {
+        "en": "Scandal rocked the industry.",
+        "ru": "Скандал потряс отрасль."
+      },
+      {
+        "en": "Rock the baby to sleep.",
+        "ru": "Укачай малыша ко сну."
+      }
+    ],
+    "colloc": "rock the boat",
+    "pattern": "rock + N"
+  },
+  {
+    "word": "rotate",
+    "lemma": "rotate",
+    "ipa": "/ˈroʊˌteɪt/",
+    "pos": "verb",
+    "tr": "вращать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Rotate crops each season.",
+        "ru": "Чередуй культуры каждый сезон."
+      },
+      {
+        "en": "Earth rotates on its axis.",
+        "ru": "Земля вращается вокруг оси."
+      },
+      {
+        "en": "Staff rotate night shifts.",
+        "ru": "Персонал чередует ночные смены."
+      }
+    ],
+    "colloc": "rotate around",
+    "pattern": "rotate + N"
+  },
+  {
+    "word": "rub",
+    "lemma": "rub",
+    "ipa": "/rəb/",
+    "pos": "verb",
+    "tr": "тереть",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Rub sunscreen on your arms.",
+        "ru": "Натри руки солнцезащитным кремом."
+      },
+      {
+        "en": "Don't rub your eyes.",
+        "ru": "Не три глаза."
+      },
+      {
+        "en": "Athletes rub sore muscles.",
+        "ru": "Спортсмены растирают больные мышцы."
+      }
+    ],
+    "colloc": "rub in · rub off",
+    "pattern": "rub + N"
+  },
+  {
+    "word": "ruin",
+    "lemma": "ruin",
+    "ipa": "/ruɪn/",
+    "pos": "verb",
+    "tr": "разрушать",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Don't ruin the surprise.",
+        "ru": "Не испорти сюрприз."
+      },
+      {
+        "en": "Floods ruined the harvest.",
+        "ru": "Наводнения погубили урожай."
+      },
+      {
+        "en": "One mistake can ruin trust.",
+        "ru": "Одна ошибка может разрушить доверие."
+      }
+    ],
+    "colloc": "ruin chances",
+    "pattern": "ruin + N"
+  }
+]

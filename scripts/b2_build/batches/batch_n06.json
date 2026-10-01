@@ -1,0 +1,2302 @@
+[
+  {
+    "word": "race",
+    "lemma": "race",
+    "ipa": "/reɪs/",
+    "pos": "noun",
+    "tr": "гонка / раса",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Win the race with discipline.",
+        "ru": "Выиграй гонку с дисциплиной."
+      },
+      {
+        "en": "Don't judge by race.",
+        "ru": "Не суди по расе."
+      },
+      {
+        "en": "Arms race worries leaders.",
+        "ru": "Гонка вооружений тревожит лидеров."
+      }
+    ],
+    "colloc": "race against time"
+  },
+  {
+    "word": "racism",
+    "lemma": "racism",
+    "ipa": "/ˈreɪˌsɪzəm/",
+    "pos": "noun",
+    "tr": "расизм",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fight systemic racism.",
+        "ru": "Борись с системным расизмом."
+      },
+      {
+        "en": "Racism has no place here.",
+        "ru": "Расизму здесь нет места."
+      },
+      {
+        "en": "Call out racism clearly.",
+        "ru": "Ясно называй расизм."
+      }
+    ],
+    "colloc": "combat racism"
+  },
+  {
+    "word": "radar",
+    "lemma": "radar",
+    "ipa": "/ˈreɪˌdɑr/",
+    "pos": "noun",
+    "tr": "радар",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Planes appeared on radar.",
+        "ru": "Самолёты появились на радаре."
+      },
+      {
+        "en": "Stay under the radar carefully.",
+        "ru": "Осторожно оставайся вне радара."
+      },
+      {
+        "en": "Police used speed radar.",
+        "ru": "Полиция использовала радар скорости."
+      }
+    ],
+    "colloc": "on the radar"
+  },
+  {
+    "word": "radiation",
+    "lemma": "radiation",
+    "ipa": "/ˌreɪdiˈeɪʃən/",
+    "pos": "noun",
+    "tr": "радиация",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Limit sun radiation at noon.",
+        "ru": "Ограничь солнечную радиацию в полдень."
+      },
+      {
+        "en": "Radiation therapy targets tumors.",
+        "ru": "Лучевая терапия бьёт по опухолям."
+      },
+      {
+        "en": "Measure radiation carefully.",
+        "ru": "Осторожно измеряй радиацию."
+      }
+    ],
+    "colloc": "radiation exposure"
+  },
+  {
+    "word": "rage",
+    "lemma": "rage",
+    "ipa": "/reɪʤ/",
+    "pos": "noun",
+    "tr": "ярость",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't act in a rage.",
+        "ru": "Не действуй в ярости."
+      },
+      {
+        "en": "Road rage endangers drivers.",
+        "ru": "Дорожная ярость угрожает водителям."
+      },
+      {
+        "en": "Channel rage into change.",
+        "ru": "Направь ярость в перемены."
+      }
+    ],
+    "colloc": "fly into a rage"
+  },
+  {
+    "word": "raid",
+    "lemma": "raid",
+    "ipa": "/reɪd/",
+    "pos": "noun",
+    "tr": "рейд",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Police led a dawn raid.",
+        "ru": "Полиция провела рассветный рейд."
+      },
+      {
+        "en": "Air raids shook the city.",
+        "ru": "Воздушные рейды потрясли город."
+      },
+      {
+        "en": "A pantry raid emptied snacks.",
+        "ru": "Набег на кладовую опустошил снеки."
+      }
+    ],
+    "colloc": "raid on"
+  },
+  {
+    "word": "rail",
+    "lemma": "rail",
+    "ipa": "/reɪl/",
+    "pos": "noun",
+    "tr": "рельс / поручень",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Hold the stair rail.",
+        "ru": "Держись за перила лестницы."
+      },
+      {
+        "en": "Freight moves by rail.",
+        "ru": "Грузы идут по рельсам."
+      },
+      {
+        "en": "Rail travel is efficient.",
+        "ru": "Путешествия по железной дороге эффективны."
+      }
+    ],
+    "colloc": "by rail"
+  },
+  {
+    "word": "rally",
+    "lemma": "rally",
+    "ipa": "/ˈræli/",
+    "pos": "noun",
+    "tr": "митинг / ралли",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Join the climate rally.",
+        "ru": "Присоединяйся к климатическому митингу."
+      },
+      {
+        "en": "Markets staged a late rally.",
+        "ru": "Рынки устроили поздний ралли."
+      },
+      {
+        "en": "Car rallies cross deserts.",
+        "ru": "Авторалли пересекают пустыни."
+      }
+    ],
+    "colloc": "political rally"
+  },
+  {
+    "word": "rank",
+    "lemma": "rank",
+    "ipa": "/ræŋk/",
+    "pos": "noun",
+    "tr": "звание / ранг",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "He rose in rank quickly.",
+        "ru": "Он быстро вырос в звании."
+      },
+      {
+        "en": "Rank the options carefully.",
+        "ru": "Осторожно ранжируй варианты."
+      },
+      {
+        "en": "High-rank officials spoke.",
+        "ru": "Высокопоставленные чиновники выступили."
+      }
+    ],
+    "colloc": "rank and file"
+  },
+  {
+    "word": "ranking",
+    "lemma": "ranking",
+    "ipa": "/ˈræŋkɪŋ/",
+    "pos": "noun",
+    "tr": "рейтинг",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "University rankings shifted.",
+        "ru": "Рейтинги университетов сменились."
+      },
+      {
+        "en": "Check the latest ranking.",
+        "ru": "Проверь последний рейтинг."
+      },
+      {
+        "en": "Improve your search ranking.",
+        "ru": "Улучши поисковый рейтинг."
+      }
+    ],
+    "colloc": "world ranking"
+  },
+  {
+    "word": "rape",
+    "lemma": "rape",
+    "ipa": "/reɪp/",
+    "pos": "noun",
+    "tr": "изнасилование",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Laws punish rape severely.",
+        "ru": "Законы сурово наказывают изнасилование."
+      },
+      {
+        "en": "Support rape survivors.",
+        "ru": "Поддерживай выживших после изнасилования."
+      },
+      {
+        "en": "Report rape to authorities.",
+        "ru": "Сообщи об изнасиловании властям."
+      }
+    ],
+    "colloc": "rape crisis"
+  },
+  {
+    "word": "rat",
+    "lemma": "rat",
+    "ipa": "/ræt/",
+    "pos": "noun",
+    "tr": "крыса",
+    "bucket": "animal",
+    "examples": [
+      {
+        "en": "Rats spread disease.",
+        "ru": "Крысы разносят болезни."
+      },
+      {
+        "en": "Smell a rat in the deal.",
+        "ru": "Почувствуй подвох в сделке."
+      },
+      {
+        "en": "Lab rats aid research.",
+        "ru": "Лабораторные крысы помогают исследованиям."
+      }
+    ],
+    "colloc": "lab rat"
+  },
+  {
+    "word": "rating",
+    "lemma": "rating",
+    "ipa": "/ˈreɪtɪŋ/",
+    "pos": "noun",
+    "tr": "рейтинг",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Credit ratings fell.",
+        "ru": "Кредитные рейтинги упали."
+      },
+      {
+        "en": "Check the movie rating.",
+        "ru": "Проверь рейтинг фильма."
+      },
+      {
+        "en": "Customer ratings rose.",
+        "ru": "Клиентские рейтинги выросли."
+      }
+    ],
+    "colloc": "credit rating"
+  },
+  {
+    "word": "ratio",
+    "lemma": "ratio",
+    "ipa": "/ˈreɪʃiˌoʊ/",
+    "pos": "noun",
+    "tr": "соотношение",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Improve the student-teacher ratio.",
+        "ru": "Улучши соотношение учеников и учителей."
+      },
+      {
+        "en": "The ratio of wins to losses.",
+        "ru": "Соотношение побед к поражениям."
+      },
+      {
+        "en": "Keep a healthy ratio.",
+        "ru": "Держи здоровое соотношение."
+      }
+    ],
+    "colloc": "ratio of"
+  },
+  {
+    "word": "ray",
+    "lemma": "ray",
+    "ipa": "/reɪ/",
+    "pos": "noun",
+    "tr": "луч",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "A ray of hope appeared.",
+        "ru": "Появился луч надежды."
+      },
+      {
+        "en": "X-rays need shielding.",
+        "ru": "Рентгеновские лучи нуждаются в защите."
+      },
+      {
+        "en": "Sun rays warmed the porch.",
+        "ru": "Солнечные лучи согрели крыльцо."
+      }
+    ],
+    "colloc": "ray of light"
+  },
+  {
+    "word": "realization",
+    "lemma": "realization",
+    "ipa": "/ˈriləˈzeɪʃən/",
+    "pos": "noun",
+    "tr": "осознание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A sudden realization hit her.",
+        "ru": "Внезапное осознание поразило её."
+      },
+      {
+        "en": "The realization of the plan took years.",
+        "ru": "Реализация плана заняла годы."
+      },
+      {
+        "en": "Share your realization.",
+        "ru": "Поделись осознанием."
+      }
+    ],
+    "colloc": "realization that"
+  },
+  {
+    "word": "realm",
+    "lemma": "realm",
+    "ipa": "/rɛlm/",
+    "pos": "noun",
+    "tr": "сфера",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "In the realm of science.",
+        "ru": "В сфере науки."
+      },
+      {
+        "en": "Fantasy realms fill novels.",
+        "ru": "Фэнтезийные миры заполняют романы."
+      },
+      {
+        "en": "Expand your knowledge realm.",
+        "ru": "Расширь сферу знаний."
+      }
+    ],
+    "colloc": "realm of"
+  },
+  {
+    "word": "reasoning",
+    "lemma": "reasoning",
+    "ipa": "/ˈrizənɪŋ/",
+    "pos": "noun",
+    "tr": "рассуждение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Follow sound reasoning.",
+        "ru": "Следуй здравому рассуждению."
+      },
+      {
+        "en": "Flawed reasoning misleads.",
+        "ru": "Ошибочное рассуждение вводит в заблуждение."
+      },
+      {
+        "en": "Explain your reasoning.",
+        "ru": "Объясни своё рассуждение."
+      }
+    ],
+    "colloc": "line of reasoning"
+  },
+  {
+    "word": "rebel",
+    "lemma": "rebel",
+    "ipa": "/ˈrɛbəl/",
+    "pos": "noun",
+    "tr": "повстанец",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Rebels seized the outpost.",
+        "ru": "Повстанцы захватили форпост."
+      },
+      {
+        "en": "A teenage rebel challenged rules.",
+        "ru": "Подросток-бунтарь бросил вызов правилам."
+      },
+      {
+        "en": "Talks with rebels began.",
+        "ru": "Переговоры с повстанцами начались."
+      }
+    ],
+    "colloc": "rebel forces"
+  },
+  {
+    "word": "rebellion",
+    "lemma": "rebellion",
+    "ipa": "/rɪˈbɛljən/",
+    "pos": "noun",
+    "tr": "восстание",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "A rebellion shook the empire.",
+        "ru": "Восстание потрясло империю."
+      },
+      {
+        "en": "Teenage rebellion is common.",
+        "ru": "Подростковый бунт распространён."
+      },
+      {
+        "en": "Crushing rebellion costs lives.",
+        "ru": "Подавление восстания стоит жизней."
+      }
+    ],
+    "colloc": "in rebellion"
+  },
+  {
+    "word": "receiver",
+    "lemma": "receiver",
+    "ipa": "/rɪˈsivər/",
+    "pos": "noun",
+    "tr": "приёмник / получатель",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Pick up the phone receiver.",
+        "ru": "Подними трубку телефона."
+      },
+      {
+        "en": "The pass reached the receiver.",
+        "ru": "Пас дошёл до ресивера."
+      },
+      {
+        "en": "Name a package receiver.",
+        "ru": "Укажи получателя посылки."
+      }
+    ],
+    "colloc": "wide receiver"
+  },
+  {
+    "word": "recession",
+    "lemma": "recession",
+    "ipa": "/ˌriˈsɛʃən/",
+    "pos": "noun",
+    "tr": "рецессия",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "A deep recession hit jobs.",
+        "ru": "Глубокая рецессия ударила по работе."
+      },
+      {
+        "en": "Exit recession carefully.",
+        "ru": "Осторожно выйди из рецессии."
+      },
+      {
+        "en": "Fear of recession rose.",
+        "ru": "Страх рецессии вырос."
+      }
+    ],
+    "colloc": "economic recession"
+  },
+  {
+    "word": "recipient",
+    "lemma": "recipient",
+    "ipa": "/rɪˈsɪpiənt/",
+    "pos": "noun",
+    "tr": "получатель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Name an award recipient.",
+        "ru": "Укажи получателя награды."
+      },
+      {
+        "en": "Email recipients got notices.",
+        "ru": "Получатели писем получили уведомления."
+      },
+      {
+        "en": "Aid recipients need dignity.",
+        "ru": "Получатели помощи нуждаются в достоинстве."
+      }
+    ],
+    "colloc": "recipient of"
+  },
+  {
+    "word": "recognition",
+    "lemma": "recognition",
+    "ipa": "/ˌrɛkɪgˈnɪʃən/",
+    "pos": "noun",
+    "tr": "признание",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Seek recognition for good work.",
+        "ru": "Ищи признание за хорошую работу."
+      },
+      {
+        "en": "Facial recognition raises privacy issues.",
+        "ru": "Распознавание лиц поднимает вопросы приватности."
+      },
+      {
+        "en": "In recognition of service.",
+        "ru": "В знак признания службы."
+      }
+    ],
+    "colloc": "in recognition of"
+  },
+  {
+    "word": "reconstruction",
+    "lemma": "reconstruction",
+    "ipa": "/ˌrikənˈstrəkʃən/",
+    "pos": "noun",
+    "tr": "реконструкция",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Postwar reconstruction took decades.",
+        "ru": "Послевоенная реконструкция заняла десятилетия."
+      },
+      {
+        "en": "Knee reconstruction needs rehab.",
+        "ru": "Реконструкция колена нуждается в реабилитации."
+      },
+      {
+        "en": "Fund school reconstruction.",
+        "ru": "Финансируй реконструкцию школ."
+      }
+    ],
+    "colloc": "reconstruction of"
+  },
+  {
+    "word": "recovery",
+    "lemma": "recovery",
+    "ipa": "/rɪˈkəvəri/",
+    "pos": "noun",
+    "tr": "восстановление",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Patient recovery was slow.",
+        "ru": "Восстановление пациента было медленным."
+      },
+      {
+        "en": "Economic recovery began.",
+        "ru": "Экономическое восстановление началось."
+      },
+      {
+        "en": "Data recovery saved files.",
+        "ru": "Восстановление данных спасло файлы."
+      }
+    ],
+    "colloc": "recovery from"
+  },
+  {
+    "word": "recruitment",
+    "lemma": "recruitment",
+    "ipa": "/rɪˈkrutmənt/",
+    "pos": "noun",
+    "tr": "набор",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Campus recruitment starts in fall.",
+        "ru": "Университетский набор начинается осенью."
+      },
+      {
+        "en": "Army recruitment rose.",
+        "ru": "Армейский набор вырос."
+      },
+      {
+        "en": "Improve recruitment practices.",
+        "ru": "Улучши практики найма."
+      }
+    ],
+    "colloc": "recruitment drive"
+  },
+  {
+    "word": "reduction",
+    "lemma": "reduction",
+    "ipa": "/rɪˈdəkʃən/",
+    "pos": "noun",
+    "tr": "снижение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Demand a price reduction.",
+        "ru": "Требуй снижения цены."
+      },
+      {
+        "en": "Emission reductions help climate.",
+        "ru": "Снижение выбросов помогает климату."
+      },
+      {
+        "en": "Staff reduction worried teams.",
+        "ru": "Сокращение штата тревожило команды."
+      }
+    ],
+    "colloc": "reduction in"
+  },
+  {
+    "word": "referee",
+    "lemma": "referee",
+    "ipa": "/ˌrɛfərˈi/",
+    "pos": "noun",
+    "tr": "судья",
+    "bucket": "sport",
+    "examples": [
+      {
+        "en": "The referee blew the whistle.",
+        "ru": "Судья свистнул."
+      },
+      {
+        "en": "Ask a neutral referee.",
+        "ru": "Попроси нейтрального судью."
+      },
+      {
+        "en": "Peer referees review papers.",
+        "ru": "Рецензенты проверяют статьи."
+      }
+    ],
+    "colloc": "referee decision"
+  },
+  {
+    "word": "referendum",
+    "lemma": "referendum",
+    "ipa": "/ˌrɛfərˈɛndəm/",
+    "pos": "noun",
+    "tr": "референдум",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Hold a national referendum.",
+        "ru": "Проведи национальный референдум."
+      },
+      {
+        "en": "Voters rejected the referendum.",
+        "ru": "Избиратели отвергли референдум."
+      },
+      {
+        "en": "Referendum results arrived.",
+        "ru": "Результаты референдума пришли."
+      }
+    ],
+    "colloc": "call a referendum"
+  },
+  {
+    "word": "reflection",
+    "lemma": "reflection",
+    "ipa": "/rɪˈflɛkʃən/",
+    "pos": "noun",
+    "tr": "отражение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "See your reflection in glass.",
+        "ru": "Увидь отражение в стекле."
+      },
+      {
+        "en": "Quiet reflection helps decisions.",
+        "ru": "Тихое размышление помогает решениям."
+      },
+      {
+        "en": "Write a short reflection.",
+        "ru": "Напиши короткое размышление."
+      }
+    ],
+    "colloc": "on reflection"
+  },
+  {
+    "word": "reform",
+    "lemma": "reform",
+    "ipa": "/rɪˈfɔrm/",
+    "pos": "noun",
+    "tr": "реформа",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Education reform takes time.",
+        "ru": "Образовательная реформа занимает время."
+      },
+      {
+        "en": "Push for prison reform.",
+        "ru": "Двигай тюремную реформу."
+      },
+      {
+        "en": "Tax reforms sparked debate.",
+        "ru": "Налоговые реформы вызвали споры."
+      }
+    ],
+    "colloc": "reform of"
+  },
+  {
+    "word": "refuge",
+    "lemma": "refuge",
+    "ipa": "/ˈrɛfjuʤ/",
+    "pos": "noun",
+    "tr": "убежище",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Seek refuge from the storm.",
+        "ru": "Ищи убежище от бури."
+      },
+      {
+        "en": "Wildlife found refuge in parks.",
+        "ru": "Дикая природа нашла убежище в парках."
+      },
+      {
+        "en": "Offer temporary refuge.",
+        "ru": "Предложи временное убежище."
+      }
+    ],
+    "colloc": "take refuge"
+  },
+  {
+    "word": "refugee",
+    "lemma": "refugee",
+    "ipa": "/ˈrɛfjuʤi/",
+    "pos": "noun",
+    "tr": "беженец",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Welcome refugees with dignity.",
+        "ru": "Принимай беженцев с достоинством."
+      },
+      {
+        "en": "Refugee camps need supplies.",
+        "ru": "Лагерям беженцев нужны припасы."
+      },
+      {
+        "en": "Refugee stories moved listeners.",
+        "ru": "Истории беженцев тронули слушателей."
+      }
+    ],
+    "colloc": "refugee camp"
+  },
+  {
+    "word": "refusal",
+    "lemma": "refusal",
+    "ipa": "/rɪfˈjuzəl/",
+    "pos": "noun",
+    "tr": "отказ",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "His refusal surprised everyone.",
+        "ru": "Его отказ всех удивил."
+      },
+      {
+        "en": "Face flat refusal calmly.",
+        "ru": "Спокойно встреть категоричный отказ."
+      },
+      {
+        "en": "Refusal of treatment is legal.",
+        "ru": "Отказ от лечения законен."
+      }
+    ],
+    "colloc": "refusal to"
+  },
+  {
+    "word": "regime",
+    "lemma": "regime",
+    "ipa": "/rəˈʒim/",
+    "pos": "noun",
+    "tr": "режим",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "The regime banned protests.",
+        "ru": "Режим запретил протесты."
+      },
+      {
+        "en": "Training regimes build strength.",
+        "ru": "Режимы тренировок строят силу."
+      },
+      {
+        "en": "Change the political regime.",
+        "ru": "Смени политический режим."
+      }
+    ],
+    "colloc": "under a regime"
+  },
+  {
+    "word": "registration",
+    "lemma": "registration",
+    "ipa": "/ˌrɛʤɪˈstreɪʃən/",
+    "pos": "noun",
+    "tr": "регистрация",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Complete course registration.",
+        "ru": "Заверши регистрацию на курс."
+      },
+      {
+        "en": "Car registration expires soon.",
+        "ru": "Регистрация машины скоро истекает."
+      },
+      {
+        "en": "Voter registration rose.",
+        "ru": "Регистрация избирателей выросла."
+      }
+    ],
+    "colloc": "registration form"
+  },
+  {
+    "word": "regulation",
+    "lemma": "regulation",
+    "ipa": "/ˌrɛgjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "регулирование",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Safety regulations protect workers.",
+        "ru": "Правила безопасности защищают работников."
+      },
+      {
+        "en": "Tighten financial regulation.",
+        "ru": "Ужесточи финансовое регулирование."
+      },
+      {
+        "en": "Follow every regulation.",
+        "ru": "Следуй каждому правилу."
+      }
+    ],
+    "colloc": "government regulation"
+  },
+  {
+    "word": "regulator",
+    "lemma": "regulator",
+    "ipa": "/ˈrɛgjəˌleɪtər/",
+    "pos": "noun",
+    "tr": "регулятор",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Bank regulators issued guidance.",
+        "ru": "Банковские регуляторы выпустили указания."
+      },
+      {
+        "en": "Call the industry regulator.",
+        "ru": "Позвони отраслевому регулятору."
+      },
+      {
+        "en": "Independent regulators matter.",
+        "ru": "Независимые регуляторы важны."
+      }
+    ],
+    "colloc": "market regulator"
+  },
+  {
+    "word": "rehabilitation",
+    "lemma": "rehabilitation",
+    "ipa": "/ˌriəˌbɪləˈteɪʃən/",
+    "pos": "noun",
+    "tr": "реабилитация",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Physical rehabilitation takes months.",
+        "ru": "Физическая реабилитация занимает месяцы."
+      },
+      {
+        "en": "Prison rehabilitation reduces crime.",
+        "ru": "Тюремная реабилитация снижает преступность."
+      },
+      {
+        "en": "Fund drug rehabilitation.",
+        "ru": "Финансируй наркореабилитацию."
+      }
+    ],
+    "colloc": "rehabilitation program"
+  },
+  {
+    "word": "reign",
+    "lemma": "reign",
+    "ipa": "/reɪn/",
+    "pos": "noun",
+    "tr": "правление",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "During her reign, arts flourished.",
+        "ru": "Во время её правления искусства процветали."
+      },
+      {
+        "en": "Terror reigned after the quake.",
+        "ru": "Ужас царил после землетрясения."
+      },
+      {
+        "en": "End the reign of fear.",
+        "ru": "Покончи с правлением страха."
+      }
+    ],
+    "colloc": "reign of"
+  },
+  {
+    "word": "rejection",
+    "lemma": "rejection",
+    "ipa": "/rɪˈʤɛkʃən/",
+    "pos": "noun",
+    "tr": "отказ",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Handle rejection calmly.",
+        "ru": "Спокойно переноси отказ."
+      },
+      {
+        "en": "Fear of rejection stops risk.",
+        "ru": "Страх отказа останавливает риск."
+      },
+      {
+        "en": "Job rejection stung.",
+        "ru": "Отказ в работе кольнул."
+      }
+    ],
+    "colloc": "rejection of"
+  },
+  {
+    "word": "relevance",
+    "lemma": "relevance",
+    "ipa": "/ˈrɛləvəns/",
+    "pos": "noun",
+    "tr": "актуальность",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Prove the relevance of data.",
+        "ru": "Докажи актуальность данных."
+      },
+      {
+        "en": "Lose relevance carefully avoided.",
+        "ru": "Потерю актуальности осторожно избегай."
+      },
+      {
+        "en": "Question its relevance.",
+        "ru": "Подвергай сомнению его актуальность."
+      }
+    ],
+    "colloc": "relevance to"
+  },
+  {
+    "word": "reliability",
+    "lemma": "reliability",
+    "ipa": "/riˌlaɪəˈbɪləti/",
+    "pos": "noun",
+    "tr": "надёжность",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Test system reliability.",
+        "ru": "Проверь надёжность системы."
+      },
+      {
+        "en": "Reliability builds customer trust.",
+        "ru": "Надёжность строит доверие клиентов."
+      },
+      {
+        "en": "Improve data reliability.",
+        "ru": "Улучши надёжность данных."
+      }
+    ],
+    "colloc": "reliability of"
+  },
+  {
+    "word": "relief",
+    "lemma": "relief",
+    "ipa": "/rɪˈlif/",
+    "pos": "noun",
+    "tr": "облегчение",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Sigh with relief.",
+        "ru": "Вздохни с облегчением."
+      },
+      {
+        "en": "Disaster relief arrived.",
+        "ru": "Помощь при бедствии прибыла."
+      },
+      {
+        "en": "Pain relief came slowly.",
+        "ru": "Облегчение боли пришло медленно."
+      }
+    ],
+    "colloc": "relief from · sigh of relief"
+  },
+  {
+    "word": "remainder",
+    "lemma": "remainder",
+    "ipa": "/rɪˈmeɪndər/",
+    "pos": "noun",
+    "tr": "остаток",
+    "bucket": "number",
+    "examples": [
+      {
+        "en": "Spend the remainder wisely.",
+        "ru": "Потрать остаток мудро."
+      },
+      {
+        "en": "The remainder of the day was quiet.",
+        "ru": "Остаток дня был тихим."
+      },
+      {
+        "en": "Divide and find the remainder.",
+        "ru": "Раздели и найди остаток."
+      }
+    ],
+    "colloc": "remainder of"
+  },
+  {
+    "word": "remains",
+    "lemma": "remains",
+    "ipa": "/rɪˈmeɪnz/",
+    "pos": "noun",
+    "tr": "останки / остатки",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Archaeologists found remains.",
+        "ru": "Археологи нашли останки."
+      },
+      {
+        "en": "Little remains of the fort.",
+        "ru": "От форта мало что осталось."
+      },
+      {
+        "en": "Human remains need respect.",
+        "ru": "Человеческие останки нуждаются в уважении."
+      }
+    ],
+    "colloc": "remains of"
+  },
+  {
+    "word": "remark",
+    "lemma": "remark",
+    "ipa": "/rɪˈmɑrk/",
+    "pos": "noun",
+    "tr": "замечание",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Ignore the rude remark.",
+        "ru": "Игнорируй грубое замечание."
+      },
+      {
+        "en": "Make a brief closing remark.",
+        "ru": "Сделай краткое заключительное замечание."
+      },
+      {
+        "en": "Her remark sparked debate.",
+        "ru": "Её замечание вызвало спор."
+      }
+    ],
+    "colloc": "opening remark"
+  },
+  {
+    "word": "remedy",
+    "lemma": "remedy",
+    "ipa": "/ˈrɛmədi/",
+    "pos": "noun",
+    "tr": "средство",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Seek a legal remedy.",
+        "ru": "Ищи правовое средство."
+      },
+      {
+        "en": "Home remedies ease colds.",
+        "ru": "Домашние средства облегчают простуду."
+      },
+      {
+        "en": "No quick remedy exists.",
+        "ru": "Быстрого средства нет."
+      }
+    ],
+    "colloc": "remedy for"
+  },
+  {
+    "word": "reminder",
+    "lemma": "reminder",
+    "ipa": "/riˈmaɪndər/",
+    "pos": "noun",
+    "tr": "напоминание",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Set a calendar reminder.",
+        "ru": "Поставь напоминание в календаре."
+      },
+      {
+        "en": "A gentle reminder helps.",
+        "ru": "Мягкое напоминание помогает."
+      },
+      {
+        "en": "Send payment reminders.",
+        "ru": "Отправляй напоминания об оплате."
+      }
+    ],
+    "colloc": "friendly reminder"
+  },
+  {
+    "word": "removal",
+    "lemma": "removal",
+    "ipa": "/rɪˈmuvəl/",
+    "pos": "noun",
+    "tr": "удаление",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Schedule stain removal.",
+        "ru": "Запланируй удаление пятна."
+      },
+      {
+        "en": "Tattoo removal takes sessions.",
+        "ru": "Удаление тату занимает сеансы."
+      },
+      {
+        "en": "Support snow removal crews.",
+        "ru": "Поддерживай бригады уборки снега."
+      }
+    ],
+    "colloc": "removal of"
+  },
+  {
+    "word": "rental",
+    "lemma": "rental",
+    "ipa": "/ˈrɛntəl/",
+    "pos": "noun",
+    "tr": "аренда",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Sign a car rental.",
+        "ru": "Подпиши аренду машины."
+      },
+      {
+        "en": "Rental prices rose downtown.",
+        "ru": "Цены аренды выросли в центре."
+      },
+      {
+        "en": "Check rental terms carefully.",
+        "ru": "Осторожно проверь условия аренды."
+      }
+    ],
+    "colloc": "rental agreement"
+  },
+  {
+    "word": "replacement",
+    "lemma": "replacement",
+    "ipa": "/rɪˈpleɪsmənt/",
+    "pos": "noun",
+    "tr": "замена",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Order a replacement part.",
+        "ru": "Закажи запасную часть."
+      },
+      {
+        "en": "Find a temporary replacement.",
+        "ru": "Найди временную замену."
+      },
+      {
+        "en": "Hip replacement succeeded.",
+        "ru": "Замена бедра удалась."
+      }
+    ],
+    "colloc": "replacement for"
+  },
+  {
+    "word": "reporting",
+    "lemma": "reporting",
+    "ipa": "/rɪˈpɔrtɪŋ/",
+    "pos": "noun",
+    "tr": "отчётность",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Improve financial reporting.",
+        "ru": "Улучши финансовую отчётность."
+      },
+      {
+        "en": "Investigative reporting takes time.",
+        "ru": "Расследовательская журналистика занимает время."
+      },
+      {
+        "en": "Accurate reporting builds trust.",
+        "ru": "Точная отчётность строит доверие."
+      }
+    ],
+    "colloc": "news reporting"
+  },
+  {
+    "word": "representation",
+    "lemma": "representation",
+    "ipa": "/ˌrɛprəzɛnˈteɪʃən/",
+    "pos": "noun",
+    "tr": "представительство",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Demand fair representation.",
+        "ru": "Требуй справедливого представительства."
+      },
+      {
+        "en": "Legal representation matters.",
+        "ru": "Юридическое представительство важно."
+      },
+      {
+        "en": "Artistic representation varies.",
+        "ru": "Художественное изображение варьируется."
+      }
+    ],
+    "colloc": "representation of"
+  },
+  {
+    "word": "representative",
+    "lemma": "representative",
+    "ipa": "/ˌrɛprɪˈzɛnətɪv/",
+    "pos": "noun",
+    "tr": "представитель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Elect a local representative.",
+        "ru": "Избери местного представителя."
+      },
+      {
+        "en": "Sales representatives called.",
+        "ru": "Торговые представители звонили."
+      },
+      {
+        "en": "A representative sample helps.",
+        "ru": "Репрезентативная выборка помогает."
+      }
+    ],
+    "colloc": "elected representative"
+  },
+  {
+    "word": "reproduction",
+    "lemma": "reproduction",
+    "ipa": "/ˌriprəˈdəkʃən/",
+    "pos": "noun",
+    "tr": "воспроизведение",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Study plant reproduction.",
+        "ru": "Изучай размножение растений."
+      },
+      {
+        "en": "Art reproduction fills museums.",
+        "ru": "Репродукции искусства заполняют музеи."
+      },
+      {
+        "en": "Ban unauthorized reproduction.",
+        "ru": "Запрети несанкционированное воспроизведение."
+      }
+    ],
+    "colloc": "reproduction of"
+  },
+  {
+    "word": "republic",
+    "lemma": "republic",
+    "ipa": "/riˈpəblɪk/",
+    "pos": "noun",
+    "tr": "республика",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Found a democratic republic.",
+        "ru": "Оснуй демократическую республику."
+      },
+      {
+        "en": "The republic held elections.",
+        "ru": "Республика провела выборы."
+      },
+      {
+        "en": "Live in a federal republic.",
+        "ru": "Живи в федеративной республике."
+      }
+    ],
+    "colloc": "republic of"
+  },
+  {
+    "word": "reputation",
+    "lemma": "reputation",
+    "ipa": "/ˌrɛpjəˈteɪʃən/",
+    "pos": "noun",
+    "tr": "репутация",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Protect your reputation.",
+        "ru": "Защищай репутацию."
+      },
+      {
+        "en": "A damaged reputation heals slowly.",
+        "ru": "Повреждённая репутация заживает медленно."
+      },
+      {
+        "en": "Build a strong reputation.",
+        "ru": "Строй сильную репутацию."
+      }
+    ],
+    "colloc": "reputation for"
+  },
+  {
+    "word": "requirement",
+    "lemma": "requirement",
+    "ipa": "/rɪkˈwaɪrmənt/",
+    "pos": "noun",
+    "tr": "требование",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Meet every visa requirement.",
+        "ru": "Выполни каждое визовое требование."
+      },
+      {
+        "en": "Job requirements changed.",
+        "ru": "Требования к работе изменились."
+      },
+      {
+        "en": "List degree requirements.",
+        "ru": "Перечисли требования к степени."
+      }
+    ],
+    "colloc": "meet requirements"
+  },
+  {
+    "word": "reserve",
+    "lemma": "reserve",
+    "ipa": "/rɪˈzərv/",
+    "pos": "noun",
+    "tr": "запас / заповедник",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Keep a cash reserve.",
+        "ru": "Держи денежный запас."
+      },
+      {
+        "en": "Visit a nature reserve.",
+        "ru": "Посети природный заповедник."
+      },
+      {
+        "en": "Call up army reserves.",
+        "ru": "Призови армейский резерв."
+      }
+    ],
+    "colloc": "in reserve"
+  },
+  {
+    "word": "residence",
+    "lemma": "residence",
+    "ipa": "/ˈrɛzɪdəns/",
+    "pos": "noun",
+    "tr": "место жительства",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Update your tax residence.",
+        "ru": "Обнови налоговое место жительства."
+      },
+      {
+        "en": "Official residence opened.",
+        "ru": "Официальная резиденция открылась."
+      },
+      {
+        "en": "Proof of residence required.",
+        "ru": "Требуется подтверждение проживания."
+      }
+    ],
+    "colloc": "place of residence"
+  },
+  {
+    "word": "resident",
+    "lemma": "resident",
+    "ipa": "/ˈrɛzɪdənt/",
+    "pos": "noun",
+    "tr": "житель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Local residents protested.",
+        "ru": "Местные жители протестовали."
+      },
+      {
+        "en": "She is a permanent resident.",
+        "ru": "Она постоянный житель."
+      },
+      {
+        "en": "Hospital residents train hard.",
+        "ru": "Ординаторы больницы упорно учатся."
+      }
+    ],
+    "colloc": "long-term resident"
+  },
+  {
+    "word": "residue",
+    "lemma": "residue",
+    "ipa": "/ˈrɛzəˌdu/",
+    "pos": "noun",
+    "tr": "остаток",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Wash soap residue off.",
+        "ru": "Смой остатки мыла."
+      },
+      {
+        "en": "Chemical residue lingered.",
+        "ru": "Химический остаток остался."
+      },
+      {
+        "en": "Leave no sticky residue.",
+        "ru": "Не оставляй липкого остатка."
+      }
+    ],
+    "colloc": "residue of"
+  },
+  {
+    "word": "resignation",
+    "lemma": "resignation",
+    "ipa": "/ˌrɛzɪgˈneɪʃən/",
+    "pos": "noun",
+    "tr": "отставка",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Accept his resignation.",
+        "ru": "Прими его отставку."
+      },
+      {
+        "en": "A letter of resignation arrived.",
+        "ru": "Пришло письмо об отставке."
+      },
+      {
+        "en": "Resignation filled her voice.",
+        "ru": "В её голосе звучало смирение."
+      }
+    ],
+    "colloc": "letter of resignation"
+  },
+  {
+    "word": "resistance",
+    "lemma": "resistance",
+    "ipa": "/rɪˈzɪstəns/",
+    "pos": "noun",
+    "tr": "сопротивление",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Meet fierce resistance.",
+        "ru": "Встреть яростное сопротивление."
+      },
+      {
+        "en": "Antibiotic resistance grows.",
+        "ru": "Антибиотикорезистентность растёт."
+      },
+      {
+        "en": "Join the resistance carefully.",
+        "ru": "Осторожно присоединяйся к сопротивлению."
+      }
+    ],
+    "colloc": "resistance to"
+  },
+  {
+    "word": "resolution",
+    "lemma": "resolution",
+    "ipa": "/ˌrɛzəˈluʃən/",
+    "pos": "noun",
+    "tr": "резолюция / решимость",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Pass a UN resolution.",
+        "ru": "Прими резолюцию ООН."
+      },
+      {
+        "en": "New Year resolutions fade.",
+        "ru": "Новогодние обещания угасают."
+      },
+      {
+        "en": "High resolution improves photos.",
+        "ru": "Высокое разрешение улучшает фото."
+      }
+    ],
+    "colloc": "pass a resolution"
+  },
+  {
+    "word": "resort",
+    "lemma": "resort",
+    "ipa": "/rɪˈzɔrt/",
+    "pos": "noun",
+    "tr": "курорт",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Stay at a beach resort.",
+        "ru": "Остановись на пляжном курорте."
+      },
+      {
+        "en": "As a last resort, call help.",
+        "ru": "В крайнем случае позови помощь."
+      },
+      {
+        "en": "Ski resorts filled up.",
+        "ru": "Горнолыжные курорты заполнились."
+      }
+    ],
+    "colloc": "last resort"
+  },
+  {
+    "word": "restoration",
+    "lemma": "restoration",
+    "ipa": "/ˌrɛstərˈeɪʃən/",
+    "pos": "noun",
+    "tr": "восстановление",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Fund church restoration.",
+        "ru": "Финансируй реставрацию церкви."
+      },
+      {
+        "en": "Habitat restoration helps birds.",
+        "ru": "Восстановление среды помогает птицам."
+      },
+      {
+        "en": "Seek restoration of rights.",
+        "ru": "Ищи восстановление прав."
+      }
+    ],
+    "colloc": "restoration of"
+  },
+  {
+    "word": "restraint",
+    "lemma": "restraint",
+    "ipa": "/rɪˈstreɪnt/",
+    "pos": "noun",
+    "tr": "сдержанность",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Show financial restraint.",
+        "ru": "Прояви финансовую сдержанность."
+      },
+      {
+        "en": "Police used restraint carefully.",
+        "ru": "Полиция осторожно применила силу."
+      },
+      {
+        "en": "Practice emotional restraint.",
+        "ru": "Практикуй эмоциональную сдержанность."
+      }
+    ],
+    "colloc": "show restraint"
+  },
+  {
+    "word": "restriction",
+    "lemma": "restriction",
+    "ipa": "/riˈstrɪkʃən/",
+    "pos": "noun",
+    "tr": "ограничение",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Travel restrictions eased.",
+        "ru": "Ограничения на поездки смягчились."
+      },
+      {
+        "en": "Diet restrictions apply.",
+        "ru": "Диетические ограничения действуют."
+      },
+      {
+        "en": "Lift unnecessary restrictions.",
+        "ru": "Сними ненужные ограничения."
+      }
+    ],
+    "colloc": "restriction on"
+  },
+  {
+    "word": "retail",
+    "lemma": "retail",
+    "ipa": "/ˈriˌteɪl/",
+    "pos": "noun",
+    "tr": "розничная торговля",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Work in retail sales.",
+        "ru": "Работай в розничных продажах."
+      },
+      {
+        "en": "Retail prices rose.",
+        "ru": "Розничные цены выросли."
+      },
+      {
+        "en": "Online retail grew fast.",
+        "ru": "Онлайн-ритейл вырос быстро."
+      }
+    ],
+    "colloc": "retail sector"
+  },
+  {
+    "word": "retirement",
+    "lemma": "retirement",
+    "ipa": "/rɪˈtaɪərmənt/",
+    "pos": "noun",
+    "tr": "пенсия",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Plan for retirement early.",
+        "ru": "Планируй пенсию рано."
+      },
+      {
+        "en": "Forced retirement angered staff.",
+        "ru": "Вынужденный выход на пенсию разозлил персонал."
+      },
+      {
+        "en": "Enjoy active retirement.",
+        "ru": "Наслаждайся активной пенсией."
+      }
+    ],
+    "colloc": "retirement age"
+  },
+  {
+    "word": "retreat",
+    "lemma": "retreat",
+    "ipa": "/riˈtrit/",
+    "pos": "noun",
+    "tr": "отступление / ретрит",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Join a silent retreat.",
+        "ru": "Присоединяйся к тихому ретриту."
+      },
+      {
+        "en": "Troops began a retreat.",
+        "ru": "Войска начали отступление."
+      },
+      {
+        "en": "Weekend retreats restore focus.",
+        "ru": "Ретриты на выходных восстанавливают фокус."
+      }
+    ],
+    "colloc": "in retreat"
+  },
+  {
+    "word": "revelation",
+    "lemma": "revelation",
+    "ipa": "/ˌrɛvəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "откровение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A shocking revelation emerged.",
+        "ru": "Появилось шокирующее откровение."
+      },
+      {
+        "en": "Divine revelation filled texts.",
+        "ru": "Божественное откровение заполнило тексты."
+      },
+      {
+        "en": "Book revelations surprised fans.",
+        "ru": "Откровения книги удивили фанатов."
+      }
+    ],
+    "colloc": "revelation that"
+  },
+  {
+    "word": "revenge",
+    "lemma": "revenge",
+    "ipa": "/riˈvɛnʤ/",
+    "pos": "noun",
+    "tr": "месть",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't seek revenge.",
+        "ru": "Не ищи мести."
+      },
+      {
+        "en": "Revenge fantasies fade.",
+        "ru": "Фантазии о мести угасают."
+      },
+      {
+        "en": "Revenge hurt both sides.",
+        "ru": "Месть вредила обеим сторонам."
+      }
+    ],
+    "colloc": "take revenge"
+  },
+  {
+    "word": "revenue",
+    "lemma": "revenue",
+    "ipa": "/ˈrɛvəˌnu/",
+    "pos": "noun",
+    "tr": "доход",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "Tax revenue funded schools.",
+        "ru": "Налоговые доходы финансировали школы."
+      },
+      {
+        "en": "Boost ad revenue carefully.",
+        "ru": "Осторожно подними рекламный доход."
+      },
+      {
+        "en": "Annual revenue grew.",
+        "ru": "Годовой доход вырос."
+      }
+    ],
+    "colloc": "revenue stream"
+  },
+  {
+    "word": "revision",
+    "lemma": "revision",
+    "ipa": "/riˈvɪʒən/",
+    "pos": "noun",
+    "tr": "редакция",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Submit a paper revision.",
+        "ru": "Подай редакцию статьи."
+      },
+      {
+        "en": "Policy revision takes months.",
+        "ru": "Пересмотр политики занимает месяцы."
+      },
+      {
+        "en": "Textbook revisions arrived.",
+        "ru": "Редакции учебников прибыли."
+      }
+    ],
+    "colloc": "revision of"
+  },
+  {
+    "word": "revival",
+    "lemma": "revival",
+    "ipa": "/rɪˈvaɪvəl/",
+    "pos": "noun",
+    "tr": "возрождение",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A jazz revival filled clubs.",
+        "ru": "Возрождение джаза заполнило клубы."
+      },
+      {
+        "en": "Economic revival began slowly.",
+        "ru": "Экономическое возрождение началось медленно."
+      },
+      {
+        "en": "Faith revival drew crowds.",
+        "ru": "Религиозное возрождение собрало толпы."
+      }
+    ],
+    "colloc": "revival of"
+  },
+  {
+    "word": "revolution",
+    "lemma": "revolution",
+    "ipa": "/ˌrɛvəˈluʃən/",
+    "pos": "noun",
+    "tr": "революция",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "The industrial revolution reshaped work.",
+        "ru": "Промышленная революция перестроила труд."
+      },
+      {
+        "en": "A peaceful revolution began.",
+        "ru": "Началась мирная революция."
+      },
+      {
+        "en": "Tech revolutions keep coming.",
+        "ru": "Технологические революции продолжаются."
+      }
+    ],
+    "colloc": "revolution in"
+  },
+  {
+    "word": "reward",
+    "lemma": "reward",
+    "ipa": "/rɪˈwɔrd/",
+    "pos": "noun",
+    "tr": "награда",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Offer a fair reward.",
+        "ru": "Предложи справедливую награду."
+      },
+      {
+        "en": "Hard work brings reward.",
+        "ru": "Упорный труд приносит награду."
+      },
+      {
+        "en": "Claim the cash reward.",
+        "ru": "Получи денежную награду."
+      }
+    ],
+    "colloc": "reward for"
+  },
+  {
+    "word": "rhetoric",
+    "lemma": "rhetoric",
+    "ipa": "/ˈrɛtərɪk/",
+    "pos": "noun",
+    "tr": "риторика",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Empty rhetoric won't help.",
+        "ru": "Пустая риторика не поможет."
+      },
+      {
+        "en": "Political rhetoric heated up.",
+        "ru": "Политическая риторика накалилась."
+      },
+      {
+        "en": "Study classical rhetoric.",
+        "ru": "Изучай классическую риторику."
+      }
+    ],
+    "colloc": "rhetoric of"
+  },
+  {
+    "word": "rhythm",
+    "lemma": "rhythm",
+    "ipa": "/ˈrɪðəm/",
+    "pos": "noun",
+    "tr": "ритм",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Feel the drum rhythm.",
+        "ru": "Почувствуй ритм барабана."
+      },
+      {
+        "en": "Find your work rhythm.",
+        "ru": "Найди свой рабочий ритм."
+      },
+      {
+        "en": "Circadian rhythms matter.",
+        "ru": "Циркадные ритмы важны."
+      }
+    ],
+    "colloc": "sense of rhythm"
+  },
+  {
+    "word": "rifle",
+    "lemma": "rifle",
+    "ipa": "/ˈraɪfəl/",
+    "pos": "noun",
+    "tr": "винтовка",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Clean the hunting rifle.",
+        "ru": "Почисти охотничью винтовку."
+      },
+      {
+        "en": "Soldiers carried rifles.",
+        "ru": "Солдаты несли винтовки."
+      },
+      {
+        "en": "Rifle practice needs focus.",
+        "ru": "Стрельба из винтовки требует фокуса."
+      }
+    ],
+    "colloc": "assault rifle"
+  },
+  {
+    "word": "riot",
+    "lemma": "riot",
+    "ipa": "/raɪət/",
+    "pos": "noun",
+    "tr": "бунт",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "A riot broke out downtown.",
+        "ru": "В центре вспыхнул бунт."
+      },
+      {
+        "en": "Police contained the riot.",
+        "ru": "Полиция сдержала бунт."
+      },
+      {
+        "en": "Food riots followed shortages.",
+        "ru": "Продовольственные бунты последовали за дефицитом."
+      }
+    ],
+    "colloc": "riot police"
+  },
+  {
+    "word": "rise",
+    "lemma": "rise",
+    "ipa": "/raɪz/",
+    "pos": "noun",
+    "tr": "рост",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "See a rise in costs.",
+        "ru": "Увидь рост затрат."
+      },
+      {
+        "en": "At sunrise the birds sang.",
+        "ru": "На рассвете птицы пели."
+      },
+      {
+        "en": "His rise to fame was fast.",
+        "ru": "Его путь к славе был быстрым."
+      }
+    ],
+    "colloc": "rise in · on the rise"
+  },
+  {
+    "word": "ritual",
+    "lemma": "ritual",
+    "ipa": "/ˈrɪʧuəl/",
+    "pos": "noun",
+    "tr": "ритуал",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Morning rituals calm nerves.",
+        "ru": "Утренние ритуалы успокаивают нервы."
+      },
+      {
+        "en": "Ancient rituals survive.",
+        "ru": "Древние ритуалы выживают."
+      },
+      {
+        "en": "Make learning a ritual.",
+        "ru": "Сделай обучение ритуалом."
+      }
+    ],
+    "colloc": "daily ritual"
+  },
+  {
+    "word": "rival",
+    "lemma": "rival",
+    "ipa": "/ˈraɪvəl/",
+    "pos": "noun",
+    "tr": "соперник",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Respect a strong rival.",
+        "ru": "Уважай сильного соперника."
+      },
+      {
+        "en": "Business rivals competed hard.",
+        "ru": "Бизнес-соперники жёстко конкурировали."
+      },
+      {
+        "en": "Childhood rivals became friends.",
+        "ru": "Детские соперники стали друзьями."
+      }
+    ],
+    "colloc": "rival company"
+  },
+  {
+    "word": "robbery",
+    "lemma": "robbery",
+    "ipa": "/ˈrɑbəri/",
+    "pos": "noun",
+    "tr": "ограбление",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "Report the robbery at once.",
+        "ru": "Сообщи об ограблении сразу."
+      },
+      {
+        "en": "Armed robbery shocked the town.",
+        "ru": "Вооружённое ограбление шокировало город."
+      },
+      {
+        "en": "Bank robbery rates fell.",
+        "ru": "Уровень ограблений банков упал."
+      }
+    ],
+    "colloc": "armed robbery"
+  },
+  {
+    "word": "rocket",
+    "lemma": "rocket",
+    "ipa": "/ˈrɑkət/",
+    "pos": "noun",
+    "tr": "ракета",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "A rocket launched at dawn.",
+        "ru": "Ракета стартовала на рассвете."
+      },
+      {
+        "en": "House prices rocketed.",
+        "ru": "Цены на жильё взмыли."
+      },
+      {
+        "en": "Model rockets fascinate kids.",
+        "ru": "Модели ракет очаровывают детей."
+      }
+    ],
+    "colloc": "rocket launch"
+  },
+  {
+    "word": "rod",
+    "lemma": "rod",
+    "ipa": "/rɑd/",
+    "pos": "noun",
+    "tr": "стержень",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Bend the metal rod carefully.",
+        "ru": "Осторожно согни металлический стержень."
+      },
+      {
+        "en": "Fishing rods lined the dock.",
+        "ru": "Удочки стояли вдоль пристани."
+      },
+      {
+        "en": "Lightning rod protects roofs.",
+        "ru": "Громоотвод защищает крыши."
+      }
+    ],
+    "colloc": "fishing rod"
+  },
+  {
+    "word": "romance",
+    "lemma": "romance",
+    "ipa": "/ˈroʊmæns/",
+    "pos": "noun",
+    "tr": "романтика",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Summer romance faded.",
+        "ru": "Летняя романтика угасла."
+      },
+      {
+        "en": "Read a historical romance.",
+        "ru": "Читай исторический любовный роман."
+      },
+      {
+        "en": "Office romance needs caution.",
+        "ru": "Офисный роман требует осторожности."
+      }
+    ],
+    "colloc": "romance novel"
+  },
+  {
+    "word": "rookie",
+    "lemma": "rookie",
+    "ipa": "/ˈrʊki/",
+    "pos": "noun",
+    "tr": "новичок",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The rookie scored twice.",
+        "ru": "Новичок забил дважды."
+      },
+      {
+        "en": "Help rookies learn fast.",
+        "ru": "Помоги новичкам учиться быстро."
+      },
+      {
+        "en": "Rookie mistakes are normal.",
+        "ru": "Ошибки новичков нормальны."
+      }
+    ],
+    "colloc": "rookie season"
+  },
+  {
+    "word": "root",
+    "lemma": "root",
+    "ipa": "/rut/",
+    "pos": "noun",
+    "tr": "корень",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Pull weeds by the root.",
+        "ru": "Вырывай сорняки с корнем."
+      },
+      {
+        "en": "Find the root of the problem.",
+        "ru": "Найди корень проблемы."
+      },
+      {
+        "en": "Tree roots cracked the walk.",
+        "ru": "Корни дерева треснули дорожку."
+      }
+    ],
+    "colloc": "root cause"
+  },
+  {
+    "word": "rose",
+    "lemma": "rose",
+    "ipa": "/roʊz/",
+    "pos": "noun",
+    "tr": "роза",
+    "bucket": "nature",
+    "examples": [
+      {
+        "en": "Give a red rose.",
+        "ru": "Подари красную розу."
+      },
+      {
+        "en": "Roses bloomed in May.",
+        "ru": "Розы расцвели в мае."
+      },
+      {
+        "en": "Every rose has thorns.",
+        "ru": "У каждой розы есть шипы."
+      }
+    ],
+    "colloc": "bunch of roses"
+  },
+  {
+    "word": "roster",
+    "lemma": "roster",
+    "ipa": "/ˈrɑstər/",
+    "pos": "noun",
+    "tr": "список",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Check the duty roster.",
+        "ru": "Проверь список дежурств."
+      },
+      {
+        "en": "Expand the team roster.",
+        "ru": "Расширь состав команды."
+      },
+      {
+        "en": "Player rosters changed.",
+        "ru": "Составы игроков изменились."
+      }
+    ],
+    "colloc": "duty roster"
+  },
+  {
+    "word": "rotation",
+    "lemma": "rotation",
+    "ipa": "/roʊˈteɪʃən/",
+    "pos": "noun",
+    "tr": "вращение",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Earth's rotation makes day.",
+        "ru": "Вращение Земли делает день."
+      },
+      {
+        "en": "Crop rotation improves soil.",
+        "ru": "Севооборот улучшает почву."
+      },
+      {
+        "en": "Staff rotation prevents burnout.",
+        "ru": "Ротация персонала предотвращает выгорание."
+      }
+    ],
+    "colloc": "in rotation"
+  },
+  {
+    "word": "round",
+    "lemma": "round",
+    "ipa": "/raʊnd/",
+    "pos": "noun",
+    "tr": "раунд",
+    "bucket": "sport",
+    "examples": [
+      {
+        "en": "Win the first round.",
+        "ru": "Выиграй первый раунд."
+      },
+      {
+        "en": "Buy another round of drinks.",
+        "ru": "Купи ещё раунд напитков."
+      },
+      {
+        "en": "Funding rounds closed.",
+        "ru": "Раунды финансирования закрылись."
+      }
+    ],
+    "colloc": "round of"
+  },
+  {
+    "word": "rubber",
+    "lemma": "rubber",
+    "ipa": "/ˈrəbər/",
+    "pos": "noun",
+    "tr": "резина",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Wear rubber gloves.",
+        "ru": "Носи резиновые перчатки."
+      },
+      {
+        "en": "Rubber tires need air.",
+        "ru": "Резиновым шинам нужен воздух."
+      },
+      {
+        "en": "Bounce the rubber ball.",
+        "ru": "Подбрось резиновый мяч."
+      }
+    ],
+    "colloc": "rubber band"
+  },
+  {
+    "word": "ruling",
+    "lemma": "ruling",
+    "ipa": "/ˈrulɪŋ/",
+    "pos": "noun",
+    "tr": "постановление",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Court ruling surprised lawyers.",
+        "ru": "Постановление суда удивило адвокатов."
+      },
+      {
+        "en": "Obey the official ruling.",
+        "ru": "Соблюдай официальное постановление."
+      },
+      {
+        "en": "A landmark ruling changed law.",
+        "ru": "Знаковое постановление изменило закон."
+      }
+    ],
+    "colloc": "court ruling"
+  }
+]

@@ -1,0 +1,1180 @@
+[
+  {
+    "word": "abortion",
+    "lemma": "abortion",
+    "ipa": "/əˈbɔrʃən/",
+    "pos": "noun",
+    "tr": "аборт",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Abortion laws vary by state.",
+        "ru": "Законы об абортах различаются по штатам."
+      },
+      {
+        "en": "The debate over abortion continues.",
+        "ru": "Споры об абортах продолжаются."
+      },
+      {
+        "en": "Clinics provide abortion counseling.",
+        "ru": "Клиники дают консультации по абортам."
+      }
+    ],
+    "colloc": "abortion rights · ban on abortion"
+  },
+  {
+    "word": "academy",
+    "lemma": "academy",
+    "ipa": "/əˈkædəmi/",
+    "pos": "noun",
+    "tr": "академия",
+    "bucket": "school",
+    "examples": [
+      {
+        "en": "She joined a military academy.",
+        "ru": "Она поступила в военную академию."
+      },
+      {
+        "en": "The film academy hosts awards.",
+        "ru": "Киноакадемия проводит награды."
+      },
+      {
+        "en": "Local academies train athletes.",
+        "ru": "Местные академии тренируют спортсменов."
+      }
+    ],
+    "colloc": "academy of · military academy"
+  },
+  {
+    "word": "accent",
+    "lemma": "accent",
+    "ipa": "/ˈækˌsɛnt/",
+    "pos": "noun",
+    "tr": "акцент",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "She speaks with a soft accent.",
+        "ru": "Она говорит с мягким акцентом."
+      },
+      {
+        "en": "Put the accent on the first syllable.",
+        "ru": "Поставь ударение на первый слог."
+      },
+      {
+        "en": "Regional accents enrich English.",
+        "ru": "Региональные акценты обогащают английский."
+      }
+    ],
+    "colloc": "accent on · foreign accent"
+  },
+  {
+    "word": "acceptance",
+    "lemma": "acceptance",
+    "ipa": "/əkˈsɛptəns/",
+    "pos": "noun",
+    "tr": "принятие",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Acceptance of the offer arrived late.",
+        "ru": "Принятие предложения пришло поздно."
+      },
+      {
+        "en": "Practice self-acceptance daily.",
+        "ru": "Практикуй самопринятие ежедневно."
+      },
+      {
+        "en": "Social acceptance matters to teens.",
+        "ru": "Социальное принятие важно подросткам."
+      }
+    ],
+    "colloc": "acceptance of · gain acceptance"
+  },
+  {
+    "word": "accountability",
+    "lemma": "accountability",
+    "ipa": "/əˈkaʊntəˌbɪlɪti/",
+    "pos": "noun",
+    "tr": "подотчётность",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "Demand accountability from leaders.",
+        "ru": "Требуй подотчётности от лидеров."
+      },
+      {
+        "en": "Clear roles increase accountability.",
+        "ru": "Ясные роли повышают подотчётность."
+      },
+      {
+        "en": "Public accountability builds trust.",
+        "ru": "Публичная подотчётность строит доверие."
+      }
+    ],
+    "colloc": "accountability for"
+  },
+  {
+    "word": "accountant",
+    "lemma": "accountant",
+    "ipa": "/əˈkaʊntənt/",
+    "pos": "noun",
+    "tr": "бухгалтер",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Hire a certified accountant.",
+        "ru": "Найми сертифицированного бухгалтера."
+      },
+      {
+        "en": "Accountants prepare tax returns.",
+        "ru": "Бухгалтеры готовят налоговые декларации."
+      },
+      {
+        "en": "She works as a forensic accountant.",
+        "ru": "Она работает судебным бухгалтером."
+      }
+    ],
+    "colloc": "certified accountant"
+  },
+  {
+    "word": "accumulation",
+    "lemma": "accumulation",
+    "ipa": "/əˌkjumjəˈleɪʃən/",
+    "pos": "noun",
+    "tr": "накопление",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Snow accumulation closed roads.",
+        "ru": "Накопление снега закрыло дороги."
+      },
+      {
+        "en": "Wealth accumulation takes decades.",
+        "ru": "Накопление богатства занимает десятилетия."
+      },
+      {
+        "en": "Avoid accumulation of clutter.",
+        "ru": "Избегай накопления хлама."
+      }
+    ],
+    "colloc": "accumulation of"
+  },
+  {
+    "word": "accused",
+    "lemma": "accused",
+    "ipa": "/əˈkjuzd/",
+    "pos": "noun",
+    "tr": "обвиняемый",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "The accused denied the charges.",
+        "ru": "Обвиняемый отрицал обвинения."
+      },
+      {
+        "en": "Rights of the accused matter.",
+        "ru": "Права обвиняемого важны."
+      },
+      {
+        "en": "The accused sat silently.",
+        "ru": "Обвиняемый сидел молча."
+      }
+    ],
+    "colloc": "the accused"
+  },
+  {
+    "word": "activation",
+    "lemma": "activation",
+    "ipa": "/ˌæktəˈveɪʃən/",
+    "pos": "noun",
+    "tr": "активация",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Complete account activation tonight.",
+        "ru": "Заверши активацию аккаунта сегодня."
+      },
+      {
+        "en": "Muscle activation precedes movement.",
+        "ru": "Активация мышц предшествует движению."
+      },
+      {
+        "en": "Card activation takes minutes.",
+        "ru": "Активация карты занимает минуты."
+      }
+    ],
+    "colloc": "activation code"
+  },
+  {
+    "word": "activist",
+    "lemma": "activist",
+    "ipa": "/ˈæktɪvɪst/",
+    "pos": "noun",
+    "tr": "активист",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Climate activists marched downtown.",
+        "ru": "Климатические активисты шли по центру."
+      },
+      {
+        "en": "She became a human-rights activist.",
+        "ru": "Она стала правозащитницей."
+      },
+      {
+        "en": "Local activists cleaned the river.",
+        "ru": "Местные активисты очистили реку."
+      }
+    ],
+    "colloc": "activist for"
+  },
+  {
+    "word": "adaptation",
+    "lemma": "adaptation",
+    "ipa": "/ˌædəpˈteɪʃən/",
+    "pos": "noun",
+    "tr": "адаптация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Film adaptation cut several scenes.",
+        "ru": "Экранизация вырезала несколько сцен."
+      },
+      {
+        "en": "Adaptation to cold takes time.",
+        "ru": "Адаптация к холоду занимает время."
+      },
+      {
+        "en": "Species show remarkable adaptation.",
+        "ru": "Виды показывают замечательную адаптацию."
+      }
+    ],
+    "colloc": "adaptation to"
+  },
+  {
+    "word": "administrator",
+    "lemma": "administrator",
+    "ipa": "/ədˈmɪnɪˌstreɪtər/",
+    "pos": "noun",
+    "tr": "администратор",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "System administrators fix outages.",
+        "ru": "Системные администраторы чинят сбои."
+      },
+      {
+        "en": "School administrators met parents.",
+        "ru": "Школьные администраторы встретились с родителями."
+      },
+      {
+        "en": "Contact the network administrator.",
+        "ru": "Свяжись с сетевым администратором."
+      }
+    ],
+    "colloc": "system administrator"
+  },
+  {
+    "word": "adolescent",
+    "lemma": "adolescent",
+    "ipa": "/ˌædəˈlɛsənt/",
+    "pos": "noun",
+    "tr": "подросток",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Adolescents need sleep and support.",
+        "ru": "Подросткам нужны сон и поддержка."
+      },
+      {
+        "en": "Adolescent brains are still developing.",
+        "ru": "Мозг подростка всё ещё развивается."
+      },
+      {
+        "en": "Programs help at-risk adolescents.",
+        "ru": "Программы помогают подросткам из группы риска."
+      }
+    ],
+    "colloc": "adolescent years"
+  },
+  {
+    "word": "adoption",
+    "lemma": "adoption",
+    "ipa": "/əˈdɑpʃən/",
+    "pos": "noun",
+    "tr": "усыновление / принятие",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "They completed the adoption last year.",
+        "ru": "Они завершили усыновление в прошлом году."
+      },
+      {
+        "en": "Adoption of new tools takes training.",
+        "ru": "Принятие новых инструментов требует обучения."
+      },
+      {
+        "en": "Pet adoption rates rose.",
+        "ru": "Уровень усыновления животных вырос."
+      }
+    ],
+    "colloc": "adoption of"
+  },
+  {
+    "word": "aide",
+    "lemma": "aide",
+    "ipa": "/eɪd/",
+    "pos": "noun",
+    "tr": "помощник",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "A presidential aide spoke briefly.",
+        "ru": "Помощник президента кратко выступил."
+      },
+      {
+        "en": "Nurse aides support patients.",
+        "ru": "Помощники медсестёр поддерживают пациентов."
+      },
+      {
+        "en": "She works as a teaching aide.",
+        "ru": "Она работает помощником учителя."
+      }
+    ],
+    "colloc": "aide to"
+  },
+  {
+    "word": "alien",
+    "lemma": "alien",
+    "ipa": "/ˈeɪliən/",
+    "pos": "noun",
+    "tr": "инопланетянин / чужак",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Sci-fi films invent alien worlds.",
+        "ru": "Научная фантастика изобретает чужие миры."
+      },
+      {
+        "en": "Newcomers can feel alien at first.",
+        "ru": "Новички сначала могут чувствовать себя чужими."
+      },
+      {
+        "en": "Alien species threaten local plants.",
+        "ru": "Чужеродные виды угрожают местным растениям."
+      }
+    ],
+    "colloc": "alien to",
+    "note": "в США «illegal alien» — спорный термин"
+  },
+  {
+    "word": "alignment",
+    "lemma": "alignment",
+    "ipa": "/əˈlaɪnmənt/",
+    "pos": "noun",
+    "tr": "выравнивание",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Check wheel alignment yearly.",
+        "ru": "Проверяй развал-схождение ежегодно."
+      },
+      {
+        "en": "Strategic alignment improves focus.",
+        "ru": "Стратегическое выравнивание улучшает фокус."
+      },
+      {
+        "en": "Spinal alignment affects posture.",
+        "ru": "Выравнивание позвоночника влияет на осанку."
+      }
+    ],
+    "colloc": "alignment with"
+  },
+  {
+    "word": "allegation",
+    "lemma": "allegation",
+    "ipa": "/ˌæləˈgeɪʃən/",
+    "pos": "noun",
+    "tr": "обвинение",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Serious allegations require evidence.",
+        "ru": "Серьёзные обвинения требуют доказательств."
+      },
+      {
+        "en": "He denied the allegation flatly.",
+        "ru": "Он категорично отрицал обвинение."
+      },
+      {
+        "en": "Media repeated unverified allegations.",
+        "ru": "СМИ повторяли непроверенные обвинения."
+      }
+    ],
+    "colloc": "allegation of"
+  },
+  {
+    "word": "aluminum",
+    "lemma": "aluminum",
+    "ipa": "/əˈlumənəm/",
+    "pos": "noun",
+    "tr": "алюминий",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Recycle aluminum cans carefully.",
+        "ru": "Осторожно перерабатывай алюминиевые банки."
+      },
+      {
+        "en": "Aircraft use lightweight aluminum.",
+        "ru": "Самолёты используют лёгкий алюминий."
+      },
+      {
+        "en": "Aluminum foil wraps leftovers.",
+        "ru": "Алюминиевая фольга заворачивает остатки."
+      }
+    ],
+    "colloc": "aluminum can",
+    "note": "AmE: aluminum"
+  },
+  {
+    "word": "analogy",
+    "lemma": "analogy",
+    "ipa": "/əˈnæləʤi/",
+    "pos": "noun",
+    "tr": "аналогия",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Use a clear analogy in teaching.",
+        "ru": "Используй ясную аналогию в обучении."
+      },
+      {
+        "en": "The analogy broke down quickly.",
+        "ru": "Аналогия быстро развалилась."
+      },
+      {
+        "en": "Draw an analogy with traffic flow.",
+        "ru": "Проведи аналогию с потоком машин."
+      }
+    ],
+    "colloc": "draw an analogy"
+  },
+  {
+    "word": "analyst",
+    "lemma": "analyst",
+    "ipa": "/ˈænəlɪst/",
+    "pos": "noun",
+    "tr": "аналитик",
+    "bucket": "job",
+    "examples": [
+      {
+        "en": "Data analysts spot trends.",
+        "ru": "Аналитики данных находят тренды."
+      },
+      {
+        "en": "A security analyst raised alerts.",
+        "ru": "Аналитик безопасности поднял тревогу."
+      },
+      {
+        "en": "Policy analysts brief lawmakers.",
+        "ru": "Политические аналитики информируют законодателей."
+      }
+    ],
+    "colloc": "financial analyst"
+  },
+  {
+    "word": "animation",
+    "lemma": "animation",
+    "ipa": "/ˌænəˈmeɪʃən/",
+    "pos": "noun",
+    "tr": "анимация",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Stop-motion animation takes patience.",
+        "ru": "Кукольная анимация требует терпения."
+      },
+      {
+        "en": "Kids love computer animation.",
+        "ru": "Дети любят компьютерную анимацию."
+      },
+      {
+        "en": "The studio released a new animation.",
+        "ru": "Студия выпустила новую анимацию."
+      }
+    ],
+    "colloc": "animation studio"
+  },
+  {
+    "word": "apparel",
+    "lemma": "apparel",
+    "ipa": "/əˈpærəl/",
+    "pos": "noun",
+    "tr": "одежда",
+    "bucket": "clothes",
+    "examples": [
+      {
+        "en": "Sports apparel sells well online.",
+        "ru": "Спортивная одежда хорошо продаётся онлайн."
+      },
+      {
+        "en": "The apparel industry employs millions.",
+        "ru": "Индустрия одежды нанимает миллионы."
+      },
+      {
+        "en": "Winter apparel arrived early.",
+        "ru": "Зимняя одежда прибыла рано."
+      }
+    ],
+    "colloc": "apparel industry"
+  },
+  {
+    "word": "array",
+    "lemma": "array",
+    "ipa": "/əreɪ/",
+    "pos": "noun",
+    "tr": "массив / ряд",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "An array of options confused buyers.",
+        "ru": "Ряд опций запутал покупателей."
+      },
+      {
+        "en": "Solar arrays cover the roof.",
+        "ru": "Солнечные панели покрывают крышу."
+      },
+      {
+        "en": "Programmers declare an array.",
+        "ru": "Программисты объявляют массив."
+      }
+    ],
+    "colloc": "array of"
+  },
+  {
+    "word": "artwork",
+    "lemma": "artwork",
+    "ipa": "/ˈɑrtˌwərk/",
+    "pos": "noun",
+    "tr": "произведение искусства",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Museum artwork needs climate control.",
+        "ru": "Музейным произведениям нужен климат-контроль."
+      },
+      {
+        "en": "Cover artwork attracts readers.",
+        "ru": "Обложка привлекает читателей."
+      },
+      {
+        "en": "Display original artwork carefully.",
+        "ru": "Осторожно выставляй оригинальные работы."
+      }
+    ],
+    "colloc": "original artwork"
+  },
+  {
+    "word": "assassination",
+    "lemma": "assassination",
+    "ipa": "/əˌsæsəˈneɪʃən/",
+    "pos": "noun",
+    "tr": "политическое убийство",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "History records several assassinations.",
+        "ru": "История фиксирует несколько политических убийств."
+      },
+      {
+        "en": "Security tightened after the assassination.",
+        "ru": "Охрану усилили после убийства."
+      },
+      {
+        "en": "Assassination attempts failed.",
+        "ru": "Покушения провалились."
+      }
+    ],
+    "colloc": "assassination of"
+  },
+  {
+    "word": "assertion",
+    "lemma": "assertion",
+    "ipa": "/əˈsərʃən/",
+    "pos": "noun",
+    "tr": "утверждение",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "Bold assertions need evidence.",
+        "ru": "Смелые утверждения нуждаются в доказательствах."
+      },
+      {
+        "en": "She repeated the assertion calmly.",
+        "ru": "Она спокойно повторила утверждение."
+      },
+      {
+        "en": "Challenge every weak assertion.",
+        "ru": "Оспаривай каждое слабое утверждение."
+      }
+    ],
+    "colloc": "make an assertion"
+  },
+  {
+    "word": "asylum",
+    "lemma": "asylum",
+    "ipa": "/əˈsaɪləm/",
+    "pos": "noun",
+    "tr": "убежище",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Refugees seek political asylum.",
+        "ru": "Беженцы ищут политического убежища."
+      },
+      {
+        "en": "The asylum process is slow.",
+        "ru": "Процесс получения убежища медленный."
+      },
+      {
+        "en": "She worked in a psychiatric asylum.",
+        "ru": "Она работала в психиатрической больнице."
+      }
+    ],
+    "colloc": "seek asylum"
+  },
+  {
+    "word": "atrocity",
+    "lemma": "atrocity",
+    "ipa": "/əˈtrɑsəti/",
+    "pos": "noun",
+    "tr": "злодеяние",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "War atrocities shocked the world.",
+        "ru": "Военные злодеяния шокировали мир."
+      },
+      {
+        "en": "Never forget past atrocities.",
+        "ru": "Никогда не забывай прошлые злодеяния."
+      },
+      {
+        "en": "Reports documented the atrocity.",
+        "ru": "Отчёты задокументировали злодеяние."
+      }
+    ],
+    "colloc": "commit an atrocity"
+  },
+  {
+    "word": "auto",
+    "lemma": "auto",
+    "ipa": "/ˈɔtoʊ/",
+    "pos": "noun",
+    "tr": "автомобиль",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Auto sales rose this quarter.",
+        "ru": "Продажи авто выросли в этом квартале."
+      },
+      {
+        "en": "She works in the auto industry.",
+        "ru": "Она работает в автопроме."
+      },
+      {
+        "en": "Park the auto in the garage.",
+        "ru": "Припаркуй авто в гараже."
+      }
+    ],
+    "colloc": "auto industry",
+    "note": "разг. от automobile"
+  },
+  {
+    "word": "availability",
+    "lemma": "availability",
+    "ipa": "/əˌveɪləˈbɪlɪti/",
+    "pos": "noun",
+    "tr": "доступность",
+    "bucket": "time",
+    "examples": [
+      {
+        "en": "Check room availability online.",
+        "ru": "Проверь доступность номеров онлайн."
+      },
+      {
+        "en": "Staff availability limits hours.",
+        "ru": "Доступность персонала ограничивает часы."
+      },
+      {
+        "en": "Product availability varies by region.",
+        "ru": "Доступность товара зависит от региона."
+      }
+    ],
+    "colloc": "subject to availability"
+  },
+  {
+    "word": "backdrop",
+    "lemma": "backdrop",
+    "ipa": "/ˈbækˌdrɑp/",
+    "pos": "noun",
+    "tr": "фон",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Mountains formed a dramatic backdrop.",
+        "ru": "Горы образовали драматичный фон."
+      },
+      {
+        "en": "Against that backdrop, reforms began.",
+        "ru": "На этом фоне начались реформы."
+      },
+      {
+        "en": "The stage backdrop looked painted.",
+        "ru": "Задник сцены выглядел нарисованным."
+      }
+    ],
+    "colloc": "against the backdrop of"
+  },
+  {
+    "word": "backing",
+    "lemma": "backing",
+    "ipa": "/ˈbækɪŋ/",
+    "pos": "noun",
+    "tr": "поддержка",
+    "bucket": "work",
+    "examples": [
+      {
+        "en": "The plan needs financial backing.",
+        "ru": "Плану нужна финансовая поддержка."
+      },
+      {
+        "en": "Vocal backing filled the chorus.",
+        "ru": "Вокальная поддержка заполнила припев."
+      },
+      {
+        "en": "Political backing shifted overnight.",
+        "ru": "Политическая поддержка сменилась за ночь."
+      }
+    ],
+    "colloc": "financial backing"
+  },
+  {
+    "word": "bail",
+    "lemma": "bail",
+    "ipa": "/beɪl/",
+    "pos": "noun",
+    "tr": "залог",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "She posted bail and went home.",
+        "ru": "Она внесла залог и пошла домой."
+      },
+      {
+        "en": "Bail was set at ten thousand.",
+        "ru": "Залог установили в десять тысяч."
+      },
+      {
+        "en": "Jumping bail is a crime.",
+        "ru": "Скрыться от залога — преступление."
+      }
+    ],
+    "colloc": "post bail"
+  },
+  {
+    "word": "ballet",
+    "lemma": "ballet",
+    "ipa": "/bæˈleɪ/",
+    "pos": "noun",
+    "tr": "балет",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Kids study classical ballet.",
+        "ru": "Дети изучают классический балет."
+      },
+      {
+        "en": "The ballet premiered in spring.",
+        "ru": "Премьера балета прошла весной."
+      },
+      {
+        "en": "Ballet requires daily practice.",
+        "ru": "Балет требует ежедневной практики."
+      }
+    ],
+    "colloc": "ballet dancer"
+  },
+  {
+    "word": "banner",
+    "lemma": "banner",
+    "ipa": "/ˈbænər/",
+    "pos": "noun",
+    "tr": "баннер",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Hang a welcome banner.",
+        "ru": "Повесь приветственный баннер."
+      },
+      {
+        "en": "Protest banners filled the street.",
+        "ru": "Протестные баннеры заполнили улицу."
+      },
+      {
+        "en": "Click-through on the banner fell.",
+        "ru": "Клики по баннеру упали."
+      }
+    ],
+    "colloc": "under the banner of"
+  },
+  {
+    "word": "barrel",
+    "lemma": "barrel",
+    "ipa": "/ˈbɛrəl/",
+    "pos": "noun",
+    "tr": "бочка",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Oil barrels stacked high.",
+        "ru": "Нефтяные бочки сложились высоко."
+      },
+      {
+        "en": "They bought a barrel of apples.",
+        "ru": "Они купили бочку яблок."
+      },
+      {
+        "en": "Laugh until you are over a barrel.",
+        "ru": "Смейся, пока не окажешься в безвыходном положении."
+      }
+    ],
+    "colloc": "barrel of"
+  },
+  {
+    "word": "bat",
+    "lemma": "bat",
+    "ipa": "/bæt/",
+    "pos": "noun",
+    "tr": "бита / летучая мышь",
+    "bucket": "object",
+    "examples": [
+      {
+        "en": "Swing the baseball bat hard.",
+        "ru": "Сильно маши бейсбольной битой."
+      },
+      {
+        "en": "Bats hunt insects at night.",
+        "ru": "Летучие мыши охотятся на насекомых ночью."
+      },
+      {
+        "en": "She went to bat for the idea.",
+        "ru": "Она вступилась за идею."
+      }
+    ],
+    "colloc": "baseball bat"
+  },
+  {
+    "word": "battlefield",
+    "lemma": "battlefield",
+    "ipa": "/ˈbætəlˌfild/",
+    "pos": "noun",
+    "tr": "поле боя",
+    "bucket": "place",
+    "examples": [
+      {
+        "en": "Medics rushed onto the battlefield.",
+        "ru": "Медики бросились на поле боя."
+      },
+      {
+        "en": "The courtroom became a battlefield.",
+        "ru": "Зал суда стал полем боя."
+      },
+      {
+        "en": "Historic battlefields attract visitors.",
+        "ru": "Исторические поля боёв привлекают посетителей."
+      }
+    ],
+    "colloc": "on the battlefield"
+  },
+  {
+    "word": "behalf",
+    "lemma": "behalf",
+    "ipa": "/bɪˈhæf/",
+    "pos": "noun",
+    "tr": "имя",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "I speak on her behalf.",
+        "ru": "Я говорю от её имени."
+      },
+      {
+        "en": "Donations were made on behalf of patients.",
+        "ru": "Пожертвования сделали от имени пациентов."
+      },
+      {
+        "en": "Act on behalf of the team.",
+        "ru": "Действуй от имени команды."
+      }
+    ],
+    "colloc": "on behalf of"
+  },
+  {
+    "word": "benchmark",
+    "lemma": "benchmark",
+    "ipa": "/ˈbɛnʧˌmɑrk/",
+    "pos": "noun",
+    "tr": "ориентир",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Set a clear performance benchmark.",
+        "ru": "Поставь ясный ориентир производительности."
+      },
+      {
+        "en": "The test is an industry benchmark.",
+        "ru": "Тест — отраслевой ориентир."
+      },
+      {
+        "en": "Benchmark results against peers.",
+        "ru": "Сравни результаты с коллегами."
+      }
+    ],
+    "colloc": "benchmark for"
+  },
+  {
+    "word": "beneficiary",
+    "lemma": "beneficiary",
+    "ipa": "/ˌbɛnəˈfɪʃiˌɛri/",
+    "pos": "noun",
+    "tr": "бенефициар",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Name a life-insurance beneficiary.",
+        "ru": "Укажи бенефициара страховки жизни."
+      },
+      {
+        "en": "Students are the main beneficiaries.",
+        "ru": "Студенты — главные бенефициары."
+      },
+      {
+        "en": "The trust has two beneficiaries.",
+        "ru": "У траста два бенефициара."
+      }
+    ],
+    "colloc": "beneficiary of"
+  },
+  {
+    "word": "biography",
+    "lemma": "biography",
+    "ipa": "/baɪˈɑgrəfi/",
+    "pos": "noun",
+    "tr": "биография",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Read a short presidential biography.",
+        "ru": "Прочитай короткую биографию президента."
+      },
+      {
+        "en": "Her biography spans five decades.",
+        "ru": "Её биография охватывает пять десятилетий."
+      },
+      {
+        "en": "Authorized biographies need access.",
+        "ru": "Авторизованные биографии нуждаются в доступе."
+      }
+    ],
+    "colloc": "biography of"
+  },
+  {
+    "word": "bombing",
+    "lemma": "bombing",
+    "ipa": "/ˈbɑmɪŋ/",
+    "pos": "noun",
+    "tr": "бомбардировка",
+    "bucket": "action",
+    "examples": [
+      {
+        "en": "The bombing destroyed the bridge.",
+        "ru": "Бомбардировка разрушила мост."
+      },
+      {
+        "en": "Survivors recalled the bombing.",
+        "ru": "Выжившие вспоминали бомбардировку."
+      },
+      {
+        "en": "A bombing campaign lasted months.",
+        "ru": "Кампания бомбардировок длилась месяцы."
+      }
+    ],
+    "colloc": "bombing campaign"
+  },
+  {
+    "word": "booking",
+    "lemma": "booking",
+    "ipa": "/ˈbʊkɪŋ/",
+    "pos": "noun",
+    "tr": "бронирование",
+    "bucket": "travel",
+    "examples": [
+      {
+        "en": "Confirm your hotel booking.",
+        "ru": "Подтверди бронирование отеля."
+      },
+      {
+        "en": "Booking fees annoyed travelers.",
+        "ru": "Сборы за бронирование раздражали туристов."
+      },
+      {
+        "en": "Online booking is faster.",
+        "ru": "Онлайн-бронирование быстрее."
+      }
+    ],
+    "colloc": "make a booking"
+  },
+  {
+    "word": "broadband",
+    "lemma": "broadband",
+    "ipa": "/ˈbrɔdˌbænd/",
+    "pos": "noun",
+    "tr": "широкополосный интернет",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Rural broadband remains uneven.",
+        "ru": "Сельский широкополосный интернет остаётся неравномерным."
+      },
+      {
+        "en": "Upgrade to faster broadband.",
+        "ru": "Обновись до более быстрого широкополосного."
+      },
+      {
+        "en": "Broadband access supports remote work.",
+        "ru": "Широкополосный доступ поддерживает удалёнку."
+      }
+    ],
+    "colloc": "broadband access"
+  },
+  {
+    "word": "broadcaster",
+    "lemma": "broadcaster",
+    "ipa": "/ˈbrɔdˌkæstər/",
+    "pos": "noun",
+    "tr": "вещатель",
+    "bucket": "speech",
+    "examples": [
+      {
+        "en": "A national broadcaster aired the debate.",
+        "ru": "Национальный вещатель показал дебаты."
+      },
+      {
+        "en": "Sports broadcasters fill weekends.",
+        "ru": "Спортивные вещатели заполняют выходные."
+      },
+      {
+        "en": "She works for a radio broadcaster.",
+        "ru": "Она работает на радиовещателе."
+      }
+    ],
+    "colloc": "public broadcaster"
+  },
+  {
+    "word": "browser",
+    "lemma": "browser",
+    "ipa": "/ˈbraʊzər/",
+    "pos": "noun",
+    "tr": "браузер",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Clear your browser cache.",
+        "ru": "Очисти кэш браузера."
+      },
+      {
+        "en": "The site supports every major browser.",
+        "ru": "Сайт поддерживает каждый крупный браузер."
+      },
+      {
+        "en": "A new browser tab opened.",
+        "ru": "Открылась новая вкладка браузера."
+      }
+    ],
+    "colloc": "web browser"
+  },
+  {
+    "word": "buck",
+    "lemma": "buck",
+    "ipa": "/bək/",
+    "pos": "noun",
+    "tr": "доллар",
+    "bucket": "money",
+    "examples": [
+      {
+        "en": "That jacket costs fifty bucks.",
+        "ru": "Та куртка стоит пятьдесят баксов."
+      },
+      {
+        "en": "Pass the buck carefully.",
+        "ru": "Осторожно перекладывай ответственность."
+      },
+      {
+        "en": "He earns a few bucks tutoring.",
+        "ru": "Он зарабатывает несколько баксов репетиторством."
+      }
+    ],
+    "colloc": "big bucks",
+    "note": "разг."
+  },
+  {
+    "word": "buddy",
+    "lemma": "buddy",
+    "ipa": "/ˈbədi/",
+    "pos": "noun",
+    "tr": "приятель",
+    "bucket": "person",
+    "examples": [
+      {
+        "en": "Call your workout buddy.",
+        "ru": "Позвони приятелю по тренировкам."
+      },
+      {
+        "en": "Buddy systems keep hikers safe.",
+        "ru": "Система напарников бережёт туристов."
+      },
+      {
+        "en": "Hey, buddy, need a hand?",
+        "ru": "Эй, приятель, нужна помощь?"
+      }
+    ],
+    "colloc": "buddy system",
+    "note": "неформально"
+  },
+  {
+    "word": "buffer",
+    "lemma": "buffer",
+    "ipa": "/ˈbəfər/",
+    "pos": "noun",
+    "tr": "буфер",
+    "bucket": "tech",
+    "examples": [
+      {
+        "en": "Keep a cash buffer for emergencies.",
+        "ru": "Держи денежный буфер на чрезвычайные случаи."
+      },
+      {
+        "en": "Trees act as a noise buffer.",
+        "ru": "Деревья служат шумовым буфером."
+      },
+      {
+        "en": "Increase the download buffer.",
+        "ru": "Увеличь буфер загрузки."
+      }
+    ],
+    "colloc": "buffer zone"
+  }
+]

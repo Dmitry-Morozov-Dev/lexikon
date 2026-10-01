@@ -1,0 +1,2049 @@
+[
+  {
+    "word": "abroad",
+    "lemma": "abroad",
+    "ipa": "/əˈbrɔd/",
+    "pos": "adv",
+    "tr": "за границей",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Study abroad for a year.",
+        "ru": "Учись за границей год."
+      },
+      {
+        "en": "Goods are shipped abroad.",
+        "ru": "Товары отправляют за границу."
+      },
+      {
+        "en": "News spread abroad quickly.",
+        "ru": "Новости быстро распространились за границей."
+      }
+    ],
+    "colloc": "live abroad"
+  },
+  {
+    "word": "accidentally",
+    "lemma": "accidentally",
+    "ipa": "/ˌæksəˈdɛnəli/",
+    "pos": "adv",
+    "tr": "случайно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I accidentally deleted files.",
+        "ru": "Я случайно удалил файлы."
+      },
+      {
+        "en": "Accidentally, we met again.",
+        "ru": "Случайно мы снова встретились."
+      },
+      {
+        "en": "Doors closed accidentally.",
+        "ru": "Двери случайно закрылись."
+      }
+    ],
+    "colloc": "accidentally on purpose"
+  },
+  {
+    "word": "accordingly",
+    "lemma": "accordingly",
+    "ipa": "/əˈkɔrdɪŋli/",
+    "pos": "adv",
+    "tr": "соответственно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Act accordingly.",
+        "ru": "Действуй соответственно."
+      },
+      {
+        "en": "Plans changed accordingly.",
+        "ru": "Планы изменились соответственно."
+      },
+      {
+        "en": "Adjust staffing accordingly.",
+        "ru": "Соответственно скорректируй штат."
+      }
+    ],
+    "colloc": "plan accordingly"
+  },
+  {
+    "word": "accurately",
+    "lemma": "accurately",
+    "ipa": "/ˈækjərətli/",
+    "pos": "adv",
+    "tr": "точно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Measure accurately.",
+        "ru": "Измеряй точно."
+      },
+      {
+        "en": "Report accurately and clearly.",
+        "ru": "Сообщай точно и ясно."
+      },
+      {
+        "en": "Predict more accurately.",
+        "ru": "Предсказывай точнее."
+      }
+    ],
+    "colloc": "accurately describe"
+  },
+  {
+    "word": "additionally",
+    "lemma": "additionally",
+    "ipa": "/əˈdɪʃəˌnəli/",
+    "pos": "adv",
+    "tr": "дополнительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Additionally, check backups.",
+        "ru": "Дополнительно проверь бэкапы."
+      },
+      {
+        "en": "Funds arrived additionally.",
+        "ru": "Средства прибыли дополнительно."
+      },
+      {
+        "en": "Additionally, train staff.",
+        "ru": "Дополнительно обучи персонал."
+      }
+    ],
+    "colloc": "additionally"
+  },
+  {
+    "word": "adequately",
+    "lemma": "adequately",
+    "ipa": "/ˈædəkwɪtli/",
+    "pos": "adv",
+    "tr": "адекватно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Prepare adequately.",
+        "ru": "Готовься адекватно."
+      },
+      {
+        "en": "Adequately funded schools thrive.",
+        "ru": "Адекватно финансируемые школы процветают."
+      },
+      {
+        "en": "Sleep adequately nightly.",
+        "ru": "Адекватно спи каждую ночь."
+      }
+    ],
+    "colloc": "adequately prepared"
+  },
+  {
+    "word": "afterward",
+    "lemma": "afterward",
+    "ipa": "/ˈæftərwərd/",
+    "pos": "adv",
+    "tr": "потом; впоследствии",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Rest afterward.",
+        "ru": "Отдохни после."
+      },
+      {
+        "en": "Afterward, we reviewed notes.",
+        "ru": "После мы просмотрели записи."
+      },
+      {
+        "en": "Celebrate afterward carefully.",
+        "ru": "Осторожно отмечай после."
+      }
+    ],
+    "colloc": "shortly afterward"
+  },
+  {
+    "word": "alike",
+    "lemma": "alike",
+    "ipa": "/əˈlaɪk/",
+    "pos": "adv",
+    "tr": "одинаково",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Treat all alike.",
+        "ru": "Относись ко всем одинаково."
+      },
+      {
+        "en": "Siblings look alike.",
+        "ru": "Сиблинги выглядят одинаково."
+      },
+      {
+        "en": "Think alike sometimes.",
+        "ru": "Иногда думай одинаково."
+      }
+    ],
+    "colloc": "look alike"
+  },
+  {
+    "word": "allegedly",
+    "lemma": "allegedly",
+    "ipa": "/əˈlɛʤədli/",
+    "pos": "adv",
+    "tr": "якобы",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "He allegedly stole funds.",
+        "ru": "Он якобы украл средства."
+      },
+      {
+        "en": "Allegedly, talks failed.",
+        "ru": "Якобы переговоры провалились."
+      },
+      {
+        "en": "The firm allegedly lied.",
+        "ru": "Фирма якобы солгала."
+      }
+    ],
+    "colloc": "allegedly involved"
+  },
+  {
+    "word": "altogether",
+    "lemma": "altogether",
+    "ipa": "/ˌɔltəˈgɛðər/",
+    "pos": "adv",
+    "tr": "в целом",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Altogether, results look strong.",
+        "ru": "В целом результаты выглядят сильными."
+      },
+      {
+        "en": "Stop altogether.",
+        "ru": "Остановись совсем."
+      },
+      {
+        "en": "Different altogether.",
+        "ru": "Совсем другое."
+      }
+    ],
+    "colloc": "altogether different"
+  },
+  {
+    "word": "annually",
+    "lemma": "annually",
+    "ipa": "/ˈænjuəli/",
+    "pos": "adv",
+    "tr": "ежегодно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Review wages annually.",
+        "ru": "Пересматривай зарплаты ежегодно."
+      },
+      {
+        "en": "Annually, festivals return.",
+        "ru": "Ежегодно фестивали возвращаются."
+      },
+      {
+        "en": "Test systems annually.",
+        "ru": "Тестируй системы ежегодно."
+      }
+    ],
+    "colloc": "annually updated"
+  },
+  {
+    "word": "appropriately",
+    "lemma": "appropriately",
+    "ipa": "/əˈproʊpriɪtli/",
+    "pos": "adv",
+    "tr": "уместно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Dress appropriately.",
+        "ru": "Одевайся уместно."
+      },
+      {
+        "en": "Respond appropriately to risk.",
+        "ru": "Отвечай уместно на риск."
+      },
+      {
+        "en": "Appropriately, she paused.",
+        "ru": "Уместно она сделала паузу."
+      }
+    ],
+    "colloc": "appropriately enough"
+  },
+  {
+    "word": "briefly",
+    "lemma": "briefly",
+    "ipa": "/ˈbrifli/",
+    "pos": "adv",
+    "tr": "кратко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Speak briefly.",
+        "ru": "Говори кратко."
+      },
+      {
+        "en": "Briefly, here is the plan.",
+        "ru": "Кратко, вот план."
+      },
+      {
+        "en": "Stop briefly at rest areas.",
+        "ru": "Кратко останавливайся на зонах отдыха."
+      }
+    ],
+    "colloc": "briefly explain"
+  },
+  {
+    "word": "broadly",
+    "lemma": "broadly",
+    "ipa": "/ˈbrɔdli/",
+    "pos": "adv",
+    "tr": "широко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Think broadly.",
+        "ru": "Думай широко."
+      },
+      {
+        "en": "Broadly speaking, we agree.",
+        "ru": "Широко говоря, мы согласны."
+      },
+      {
+        "en": "Smile broadly.",
+        "ru": "Улыбайся широко."
+      }
+    ],
+    "colloc": "broadly defined"
+  },
+  {
+    "word": "consequently",
+    "lemma": "consequently",
+    "ipa": "/ˈkɑnsəkˌwɛntli/",
+    "pos": "adv",
+    "tr": "следовательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Consequently, costs rose.",
+        "ru": "Следовательно, затраты выросли."
+      },
+      {
+        "en": "Rain fell; consequently, floods.",
+        "ru": "Пошёл дождь; следовательно, наводнения."
+      },
+      {
+        "en": "Act consequently with care.",
+        "ru": "Действуй соответственно с осторожностью."
+      }
+    ],
+    "colloc": "consequently"
+  },
+  {
+    "word": "considerably",
+    "lemma": "considerably",
+    "ipa": "/kənˈsɪdərəbli/",
+    "pos": "adv",
+    "tr": "значительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve considerably.",
+        "ru": "Улучшись значительно."
+      },
+      {
+        "en": "Prices rose considerably.",
+        "ru": "Цены значительно выросли."
+      },
+      {
+        "en": "Considerably more work awaits.",
+        "ru": "Значительно больше работы ждёт."
+      }
+    ],
+    "colloc": "considerably better"
+  },
+  {
+    "word": "consistently",
+    "lemma": "consistently",
+    "ipa": "/kənˈsɪstəntli/",
+    "pos": "adv",
+    "tr": "последовательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Perform consistently.",
+        "ru": "Работай последовательно."
+      },
+      {
+        "en": "Consistently late trains angered.",
+        "ru": "Последовательно поздние поезда разозлили."
+      },
+      {
+        "en": "Vote consistently with values.",
+        "ru": "Голосуй последовательно с ценностями."
+      }
+    ],
+    "colloc": "consistently high"
+  },
+  {
+    "word": "continually",
+    "lemma": "continually",
+    "ipa": "/kənˈtɪnjuəli/",
+    "pos": "adv",
+    "tr": "постоянно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve continually.",
+        "ru": "Улучшайся постоянно."
+      },
+      {
+        "en": "Continually changing rules confuse.",
+        "ru": "Постоянно меняющиеся правила путают."
+      },
+      {
+        "en": "Rain fell continually.",
+        "ru": "Дождь шёл постоянно."
+      }
+    ],
+    "colloc": "continually evolving"
+  },
+  {
+    "word": "critically",
+    "lemma": "critically",
+    "ipa": "/ˈkrɪtɪkəli/",
+    "pos": "adv",
+    "tr": "критически",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Think critically.",
+        "ru": "Думай критически."
+      },
+      {
+        "en": "Critically injured patients arrived.",
+        "ru": "Критически раненые пациенты прибыли."
+      },
+      {
+        "en": "Critically, funding failed.",
+        "ru": "Критически финансирование провалилось."
+      }
+    ],
+    "colloc": "critically important"
+  },
+  {
+    "word": "deeply",
+    "lemma": "deeply",
+    "ipa": "/ˈdipli/",
+    "pos": "adv",
+    "tr": "глубоко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Care deeply.",
+        "ru": "Заботься глубоко."
+      },
+      {
+        "en": "Deeply rooted habits linger.",
+        "ru": "Глубоко укоренённые привычки остаются."
+      },
+      {
+        "en": "Breathe deeply.",
+        "ru": "Дыши глубоко."
+      }
+    ],
+    "colloc": "deeply concerned"
+  },
+  {
+    "word": "deliberately",
+    "lemma": "deliberately",
+    "ipa": "/dɪˈlɪbərətli/",
+    "pos": "adv",
+    "tr": "намеренно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Speak deliberately.",
+        "ru": "Говори намеренно."
+      },
+      {
+        "en": "Deliberately ignore noise.",
+        "ru": "Намеренно игнорируй шум."
+      },
+      {
+        "en": "He deliberately delayed.",
+        "ru": "Он намеренно задержал."
+      }
+    ],
+    "colloc": "deliberately choose"
+  },
+  {
+    "word": "dramatically",
+    "lemma": "dramatically",
+    "ipa": "/drəˈmætɪkəli/",
+    "pos": "adv",
+    "tr": "драматично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Change dramatically.",
+        "ru": "Меняйся драматично."
+      },
+      {
+        "en": "Costs rose dramatically.",
+        "ru": "Затраты драматично выросли."
+      },
+      {
+        "en": "Dramatically, silence fell.",
+        "ru": "Драматично воцарилась тишина."
+      }
+    ],
+    "colloc": "dramatically improve"
+  },
+  {
+    "word": "efficiently",
+    "lemma": "efficiently",
+    "ipa": "/ɪˈfɪʃəntli/",
+    "pos": "adv",
+    "tr": "эффективно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Work efficiently.",
+        "ru": "Работай эффективно."
+      },
+      {
+        "en": "Allocate funds efficiently.",
+        "ru": "Распределяй средства эффективно."
+      },
+      {
+        "en": "Move efficiently through crowds.",
+        "ru": "Двигайся эффективно сквозь толпы."
+      }
+    ],
+    "colloc": "efficiently managed"
+  },
+  {
+    "word": "emotionally",
+    "lemma": "emotionally",
+    "ipa": "/ˈiˌmoʊʃnəli/",
+    "pos": "adv",
+    "tr": "эмоционально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Support emotionally.",
+        "ru": "Поддерживай эмоционально."
+      },
+      {
+        "en": "Emotionally charged debates ensued.",
+        "ru": "Последовали эмоционально заряженные дебаты."
+      },
+      {
+        "en": "Recover emotionally.",
+        "ru": "Восстанавливайся эмоционально."
+      }
+    ],
+    "colloc": "emotionally drained"
+  },
+  {
+    "word": "entirely",
+    "lemma": "entirely",
+    "ipa": "/ɪnˈtaɪərli/",
+    "pos": "adv",
+    "tr": "полностью",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Agree entirely.",
+        "ru": "Согласись полностью."
+      },
+      {
+        "en": "Entirely new methods emerged.",
+        "ru": "Появились полностью новые методы."
+      },
+      {
+        "en": "Not entirely clear.",
+        "ru": "Не полностью ясно."
+      }
+    ],
+    "colloc": "entirely possible"
+  },
+  {
+    "word": "essentially",
+    "lemma": "essentially",
+    "ipa": "/ɛˈsɛnʃəli/",
+    "pos": "adv",
+    "tr": "по существу",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Essentially, we agree.",
+        "ru": "По существу мы согласны."
+      },
+      {
+        "en": "Essentially the same idea.",
+        "ru": "По существу та же идея."
+      },
+      {
+        "en": "Focus essentially on safety.",
+        "ru": "Фокусируйся по существу на безопасности."
+      }
+    ],
+    "colloc": "essentially"
+  },
+  {
+    "word": "exclusively",
+    "lemma": "exclusively",
+    "ipa": "/ɪkˈsklusɪvli/",
+    "pos": "adv",
+    "tr": "исключительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Serve exclusively locals.",
+        "ru": "Служи исключительно местным."
+      },
+      {
+        "en": "Exclusively available online.",
+        "ru": "Исключительно доступно онлайн."
+      },
+      {
+        "en": "Designed exclusively for kids.",
+        "ru": "Спроектировано исключительно для детей."
+      }
+    ],
+    "colloc": "exclusively for"
+  },
+  {
+    "word": "explicitly",
+    "lemma": "explicitly",
+    "ipa": "/ɪkˈsplɪsətli/",
+    "pos": "adv",
+    "tr": "явно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "State explicitly.",
+        "ru": "Заяви явно."
+      },
+      {
+        "en": "Explicitly banned online.",
+        "ru": "Явно запрещено онлайн."
+      },
+      {
+        "en": "Ask explicitly for consent.",
+        "ru": "Проси явно о согласии."
+      }
+    ],
+    "colloc": "explicitly stated"
+  },
+  {
+    "word": "extensively",
+    "lemma": "extensively",
+    "ipa": "/ɪkˈstɛnsɪvli/",
+    "pos": "adv",
+    "tr": "обширно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Travel extensively.",
+        "ru": "Путешествуй обширно."
+      },
+      {
+        "en": "Extensively tested products.",
+        "ru": "Обширно протестированные продукты."
+      },
+      {
+        "en": "Write extensively on climate.",
+        "ru": "Пиши обширно о климате."
+      }
+    ],
+    "colloc": "extensively researched"
+  },
+  {
+    "word": "firmly",
+    "lemma": "firmly",
+    "ipa": "/ˈfərmli/",
+    "pos": "adv",
+    "tr": "твёрдо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Stand firmly.",
+        "ru": "Стой твёрдо."
+      },
+      {
+        "en": "Firmly reject hate.",
+        "ru": "Твёрдо отвергай ненависть."
+      },
+      {
+        "en": "Hold the rope firmly.",
+        "ru": "Держи верёвку твёрдо."
+      }
+    ],
+    "colloc": "firmly believe"
+  },
+  {
+    "word": "formerly",
+    "lemma": "formerly",
+    "ipa": "/ˈfɔrmərli/",
+    "pos": "adv",
+    "tr": "ранее",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Formerly known as X.",
+        "ru": "Ранее известен как X."
+      },
+      {
+        "en": "She formerly taught.",
+        "ru": "Она ранее преподавала."
+      },
+      {
+        "en": "Formerly, rules differed.",
+        "ru": "Ранее правила отличались."
+      }
+    ],
+    "colloc": "formerly"
+  },
+  {
+    "word": "freely",
+    "lemma": "freely",
+    "ipa": "/ˈfrili/",
+    "pos": "adv",
+    "tr": "свободно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Speak freely.",
+        "ru": "Говори свободно."
+      },
+      {
+        "en": "Freely available tools.",
+        "ru": "Свободно доступные инструменты."
+      },
+      {
+        "en": "Give freely of time.",
+        "ru": "Давай свободно время."
+      }
+    ],
+    "colloc": "freely admit"
+  },
+  {
+    "word": "fundamentally",
+    "lemma": "fundamentally",
+    "ipa": "/ˌfəndəˈmɛnəli/",
+    "pos": "adv",
+    "tr": "фундаментально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Change fundamentally.",
+        "ru": "Меняйся фундаментально."
+      },
+      {
+        "en": "Fundamentally flawed logic.",
+        "ru": "Фундаментально ошибочная логика."
+      },
+      {
+        "en": "Agree fundamentally.",
+        "ru": "Согласись фундаментально."
+      }
+    ],
+    "colloc": "fundamentally different"
+  },
+  {
+    "word": "furthermore",
+    "lemma": "furthermore",
+    "ipa": "/ˈfərðərˌmɔr/",
+    "pos": "adv",
+    "tr": "более того",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Furthermore, costs rose.",
+        "ru": "Более того, затраты выросли."
+      },
+      {
+        "en": "Furthermore, train staff.",
+        "ru": "Более того, обучи персонал."
+      },
+      {
+        "en": "Add furthermore a note.",
+        "ru": "Добавь более того заметку."
+      }
+    ],
+    "colloc": "furthermore"
+  },
+  {
+    "word": "genuinely",
+    "lemma": "genuinely",
+    "ipa": "/ˈʤɛnjuˌaɪnli/",
+    "pos": "adv",
+    "tr": "искренне",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Care genuinely.",
+        "ru": "Заботься искренне."
+      },
+      {
+        "en": "Genuinely surprised faces.",
+        "ru": "Искренне удивлённые лица."
+      },
+      {
+        "en": "Feel genuinely grateful.",
+        "ru": "Чувствуй искреннюю благодарность."
+      }
+    ],
+    "colloc": "genuinely interested"
+  },
+  {
+    "word": "greatly",
+    "lemma": "greatly",
+    "ipa": "/ˈgreɪtli/",
+    "pos": "adv",
+    "tr": "значительно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve greatly.",
+        "ru": "Улучшись значительно."
+      },
+      {
+        "en": "Greatly appreciated help.",
+        "ru": "Значительно ценная помощь."
+      },
+      {
+        "en": "Suffer greatly in silence.",
+        "ru": "Страдай значительно в тишине."
+      }
+    ],
+    "colloc": "greatly reduce"
+  },
+  {
+    "word": "hence",
+    "lemma": "hence",
+    "ipa": "/hɛns/",
+    "pos": "adv",
+    "tr": "отсюда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Hence the delay.",
+        "ru": "Отсюда задержка."
+      },
+      {
+        "en": "Act now; hence success.",
+        "ru": "Действуй сейчас; отсюда успех."
+      },
+      {
+        "en": "Few came; hence quiet.",
+        "ru": "Мало пришло; отсюда тишина."
+      }
+    ],
+    "colloc": "hence"
+  },
+  {
+    "word": "hopefully",
+    "lemma": "hopefully",
+    "ipa": "/ˈhoʊpfəli/",
+    "pos": "adv",
+    "tr": "надеюсь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Hopefully, rain stops.",
+        "ru": "Надеюсь, дождь прекратится."
+      },
+      {
+        "en": "Arrive hopefully on time.",
+        "ru": "Прибудь, надеюсь, вовремя."
+      },
+      {
+        "en": "Hopefully we agree.",
+        "ru": "Надеюсь, мы согласны."
+      }
+    ],
+    "colloc": "hopefully"
+  },
+  {
+    "word": "inevitably",
+    "lemma": "inevitably",
+    "ipa": "/ˌɪˈnɛvətəbli/",
+    "pos": "adv",
+    "tr": "неизбежно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Change inevitably comes.",
+        "ru": "Перемены неизбежно приходят."
+      },
+      {
+        "en": "Inevitably, costs rose.",
+        "ru": "Неизбежно затраты выросли."
+      },
+      {
+        "en": "Fail inevitably without practice.",
+        "ru": "Провались неизбежно без практики."
+      }
+    ],
+    "colloc": "inevitably lead to"
+  },
+  {
+    "word": "initially",
+    "lemma": "initially",
+    "ipa": "/ˌɪˈnɪʃəli/",
+    "pos": "adv",
+    "tr": "изначально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Refuse initially.",
+        "ru": "Откажись изначально."
+      },
+      {
+        "en": "Initially, plans differed.",
+        "ru": "Изначально планы отличались."
+      },
+      {
+        "en": "Launch initially in pilots.",
+        "ru": "Запусти изначально в пилотах."
+      }
+    ],
+    "colloc": "initially reluctant"
+  },
+  {
+    "word": "instantly",
+    "lemma": "instantly",
+    "ipa": "/ˈɪnstəntli/",
+    "pos": "adv",
+    "tr": "мгновенно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Respond instantly.",
+        "ru": "Отвечай мгновенно."
+      },
+      {
+        "en": "Instantly recognizable logos.",
+        "ru": "Мгновенно узнаваемые логотипы."
+      },
+      {
+        "en": "Know instantly something is wrong.",
+        "ru": "Знай мгновенно, что что-то не так."
+      }
+    ],
+    "colloc": "instantly"
+  },
+  {
+    "word": "ironically",
+    "lemma": "ironically",
+    "ipa": "/aɪˈrɑnɪkli/",
+    "pos": "adv",
+    "tr": "иронично",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Ironically, rain came.",
+        "ru": "Иронично, пришёл дождь."
+      },
+      {
+        "en": "Ironically named products.",
+        "ru": "Иронично названные продукты."
+      },
+      {
+        "en": "Smile ironically.",
+        "ru": "Улыбнись иронично."
+      }
+    ],
+    "colloc": "ironically enough"
+  },
+  {
+    "word": "largely",
+    "lemma": "largely",
+    "ipa": "/ˈlɑrʤli/",
+    "pos": "adv",
+    "tr": "в значительной степени",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Succeed largely alone.",
+        "ru": "Успей в значительной степени в одиночку."
+      },
+      {
+        "en": "Largely ignored warnings.",
+        "ru": "В значительной степени проигнорированные предупреждения."
+      },
+      {
+        "en": "Cities largely recovered.",
+        "ru": "Города в значительной степени восстановились."
+      }
+    ],
+    "colloc": "largely due to"
+  },
+  {
+    "word": "likewise",
+    "lemma": "likewise",
+    "ipa": "/ˈlaɪkˌwaɪz/",
+    "pos": "adv",
+    "tr": "также",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Likewise, check backups.",
+        "ru": "Также проверь бэкапы."
+      },
+      {
+        "en": "Act likewise.",
+        "ru": "Действуй также."
+      },
+      {
+        "en": "Students likewise struggled.",
+        "ru": "Студенты также боролись."
+      }
+    ],
+    "colloc": "likewise"
+  },
+  {
+    "word": "literally",
+    "lemma": "literally",
+    "ipa": "/ˈlɪtərəli/",
+    "pos": "adv",
+    "tr": "буквально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "I literally ran.",
+        "ru": "Я буквально бежал."
+      },
+      {
+        "en": "Literally speaking, no.",
+        "ru": "Буквально говоря, нет."
+      },
+      {
+        "en": "Don\\'t take jokes literally.",
+        "ru": "Не принимай шутки буквально."
+      }
+    ],
+    "colloc": "literally true"
+  },
+  {
+    "word": "merely",
+    "lemma": "merely",
+    "ipa": "/ˈmɪrli/",
+    "pos": "adv",
+    "tr": "всего лишь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Merely a suggestion.",
+        "ru": "Всего лишь предложение."
+      },
+      {
+        "en": "Merely wait a minute.",
+        "ru": "Всего лишь подожди минуту."
+      },
+      {
+        "en": "Not merely luck.",
+        "ru": "Не всего лишь удача."
+      }
+    ],
+    "colloc": "merely"
+  },
+  {
+    "word": "moreover",
+    "lemma": "moreover",
+    "ipa": "/mɔˈroʊvər/",
+    "pos": "adv",
+    "tr": "более того",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Moreover, train staff.",
+        "ru": "Более того, обучи персонал."
+      },
+      {
+        "en": "Moreover costs fell.",
+        "ru": "Более того затраты упали."
+      },
+      {
+        "en": "Add moreover evidence.",
+        "ru": "Добавь более того доказательства."
+      }
+    ],
+    "colloc": "moreover"
+  },
+  {
+    "word": "namely",
+    "lemma": "namely",
+    "ipa": "/ˈneɪmli/",
+    "pos": "adv",
+    "tr": "а именно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Three goals, namely A, B, C.",
+        "ru": "Три цели, а именно A, B, C."
+      },
+      {
+        "en": "Namely, cut waste.",
+        "ru": "А именно, сократи отходы."
+      },
+      {
+        "en": "One issue, namely trust.",
+        "ru": "Одна проблема, а именно доверие."
+      }
+    ],
+    "colloc": "namely"
+  },
+  {
+    "word": "nevertheless",
+    "lemma": "nevertheless",
+    "ipa": "/ˌnɛvərðəˈlɛs/",
+    "pos": "adv",
+    "tr": "тем не менее",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Nevertheless, continue.",
+        "ru": "Тем не менее продолжай."
+      },
+      {
+        "en": "Hard; nevertheless fair.",
+        "ru": "Трудно; тем не менее справедливо."
+      },
+      {
+        "en": "Nevertheless we succeeded.",
+        "ru": "Тем не менее мы преуспели."
+      }
+    ],
+    "colloc": "nevertheless"
+  },
+  {
+    "word": "newly",
+    "lemma": "newly",
+    "ipa": "/ˈnuli/",
+    "pos": "adv",
+    "tr": "недавно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A newly opened cafe.",
+        "ru": "Недавно открытое кафе."
+      },
+      {
+        "en": "Newly elected leaders.",
+        "ru": "Недавно избранные лидеры."
+      },
+      {
+        "en": "Newly discovered fossils.",
+        "ru": "Недавно открытые ископаемые."
+      }
+    ],
+    "colloc": "newly formed"
+  },
+  {
+    "word": "nonetheless",
+    "lemma": "nonetheless",
+    "ipa": "/ˌnənðəˈlɛs/",
+    "pos": "adv",
+    "tr": "тем не менее",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Nonetheless, try.",
+        "ru": "Тем не менее попробуй."
+      },
+      {
+        "en": "Risky; nonetheless needed.",
+        "ru": "Рискованно; тем не менее нужно."
+      },
+      {
+        "en": "Nonetheless she smiled.",
+        "ru": "Тем не менее она улыбнулась."
+      }
+    ],
+    "colloc": "nonetheless"
+  },
+  {
+    "word": "nowadays",
+    "lemma": "nowadays",
+    "ipa": "/ˈnaʊəˌdeɪz/",
+    "pos": "adv",
+    "tr": "в наши дни",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Nowadays people remote work.",
+        "ru": "В наши дни люди работают удалённо."
+      },
+      {
+        "en": "Nowadays news travels fast.",
+        "ru": "В наши дни новости летят быстро."
+      },
+      {
+        "en": "Kids nowadays multitask.",
+        "ru": "Дети в наши дни мультизадачны."
+      }
+    ],
+    "colloc": "nowadays"
+  },
+  {
+    "word": "occasionally",
+    "lemma": "occasionally",
+    "ipa": "/ɔˈkeɪʒənəˌli/",
+    "pos": "adv",
+    "tr": "иногда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Travel occasionally.",
+        "ru": "Путешествуй иногда."
+      },
+      {
+        "en": "Occasionally it rains.",
+        "ru": "Иногда идёт дождь."
+      },
+      {
+        "en": "Call occasionally.",
+        "ru": "Звони иногда."
+      }
+    ],
+    "colloc": "occasionally useful"
+  },
+  {
+    "word": "openly",
+    "lemma": "openly",
+    "ipa": "/ˈoʊpənli/",
+    "pos": "adv",
+    "tr": "открыто",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Speak openly.",
+        "ru": "Говори открыто."
+      },
+      {
+        "en": "Openly criticize policy.",
+        "ru": "Открыто критикуй политику."
+      },
+      {
+        "en": "Weigh risks openly.",
+        "ru": "Взвешивай риски открыто."
+      }
+    ],
+    "colloc": "openly admit"
+  },
+  {
+    "word": "overnight",
+    "lemma": "overnight",
+    "ipa": "/ˈoʊvərˈnaɪt/",
+    "pos": "adv",
+    "tr": "за ночь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Change overnight.",
+        "ru": "Изменись за ночь."
+      },
+      {
+        "en": "Stay overnight.",
+        "ru": "Останься на ночь."
+      },
+      {
+        "en": "Fame came overnight.",
+        "ru": "Слава пришла за ночь."
+      }
+    ],
+    "colloc": "overnight success"
+  },
+  {
+    "word": "permanently",
+    "lemma": "permanently",
+    "ipa": "/ˈpərmɑˌnɛnˌtli/",
+    "pos": "adv",
+    "tr": "навсегда",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Close permanently.",
+        "ru": "Закрой навсегда."
+      },
+      {
+        "en": "Permanently delete files.",
+        "ru": "Навсегда удали файлы."
+      },
+      {
+        "en": "Move permanently abroad.",
+        "ru": "Переезжай навсегда за границу."
+      }
+    ],
+    "colloc": "permanently damaged"
+  },
+  {
+    "word": "potentially",
+    "lemma": "potentially",
+    "ipa": "/pəˈtɛnʃəli/",
+    "pos": "adv",
+    "tr": "потенциально",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Potentially dangerous.",
+        "ru": "Потенциально опасно."
+      },
+      {
+        "en": "Potentially save millions.",
+        "ru": "Потенциально спаси миллионы."
+      },
+      {
+        "en": "Act on potentially big risks.",
+        "ru": "Действуй по потенциально большим рискам."
+      }
+    ],
+    "colloc": "potentially harmful"
+  },
+  {
+    "word": "precisely",
+    "lemma": "precisely",
+    "ipa": "/prɪˈsaɪsli/",
+    "pos": "adv",
+    "tr": "точно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Aim precisely.",
+        "ru": "Целься точно."
+      },
+      {
+        "en": "Precisely at noon.",
+        "ru": "Точно в полдень."
+      },
+      {
+        "en": "State precisely what you need.",
+        "ru": "Заяви точно, что нужно."
+      }
+    ],
+    "colloc": "precisely because"
+  },
+  {
+    "word": "primarily",
+    "lemma": "primarily",
+    "ipa": "/praɪˈmɛrəli/",
+    "pos": "adv",
+    "tr": "в первую очередь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Focus primarily on safety.",
+        "ru": "Фокусируйся в первую очередь на безопасности."
+      },
+      {
+        "en": "Primarily a research lab.",
+        "ru": "В первую очередь исследовательская лаборатория."
+      },
+      {
+        "en": "Serve primarily locals.",
+        "ru": "Служи в первую очередь местным."
+      }
+    ],
+    "colloc": "primarily responsible"
+  },
+  {
+    "word": "purely",
+    "lemma": "purely",
+    "ipa": "/ˈpjʊrli/",
+    "pos": "adv",
+    "tr": "чисто",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Purely coincidental.",
+        "ru": "Чисто совпадение."
+      },
+      {
+        "en": "Purely for fun.",
+        "ru": "Чисто для веселья."
+      },
+      {
+        "en": "Act purely on evidence.",
+        "ru": "Действуй чисто на доказательствах."
+      }
+    ],
+    "colloc": "purely academic"
+  },
+  {
+    "word": "rapidly",
+    "lemma": "rapidly",
+    "ipa": "/ˈræpədli/",
+    "pos": "adv",
+    "tr": "быстро",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Grow rapidly.",
+        "ru": "Расти быстро."
+      },
+      {
+        "en": "Rapidly changing markets.",
+        "ru": "Быстро меняющиеся рынки."
+      },
+      {
+        "en": "Speak rapidly under stress.",
+        "ru": "Говори быстро под стрессом."
+      }
+    ],
+    "colloc": "rapidly expand"
+  },
+  {
+    "word": "readily",
+    "lemma": "readily",
+    "ipa": "/ˈrɛdəli/",
+    "pos": "adv",
+    "tr": "охотно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Readily available tools.",
+        "ru": "Охотно доступные инструменты."
+      },
+      {
+        "en": "Agree readily.",
+        "ru": "Согласись охотно."
+      },
+      {
+        "en": "Readily admit mistakes.",
+        "ru": "Охотно признавай ошибки."
+      }
+    ],
+    "colloc": "readily accessible"
+  },
+  {
+    "word": "reasonably",
+    "lemma": "reasonably",
+    "ipa": "/ˈrizənəbli/",
+    "pos": "adv",
+    "tr": "разумно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Price reasonably.",
+        "ru": "Цени разумно."
+      },
+      {
+        "en": "Reasonably priced housing.",
+        "ru": "Разумно оценённое жильё."
+      },
+      {
+        "en": "Act reasonably.",
+        "ru": "Действуй разумно."
+      }
+    ],
+    "colloc": "reasonably sure"
+  },
+  {
+    "word": "regardless",
+    "lemma": "regardless",
+    "ipa": "/rəˈgɑrdləs/",
+    "pos": "adv",
+    "tr": "независимо",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Continue regardless.",
+        "ru": "Продолжай независимо."
+      },
+      {
+        "en": "Regardless of weather.",
+        "ru": "Независимо от погоды."
+      },
+      {
+        "en": "Succeed regardless of odds.",
+        "ru": "Преуспей независимо от шансов."
+      }
+    ],
+    "colloc": "regardless of"
+  },
+  {
+    "word": "remarkably",
+    "lemma": "remarkably",
+    "ipa": "/rɪˈmɑrkəbli/",
+    "pos": "adv",
+    "tr": "замечательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve remarkably.",
+        "ru": "Улучшись замечательно."
+      },
+      {
+        "en": "Remarkably calm under fire.",
+        "ru": "Замечательно спокоен под огнём."
+      },
+      {
+        "en": "Remarkably similar results.",
+        "ru": "Замечательно похожие результаты."
+      }
+    ],
+    "colloc": "remarkably well"
+  },
+  {
+    "word": "reportedly",
+    "lemma": "reportedly",
+    "ipa": "/rɪˈpɔrtədli/",
+    "pos": "adv",
+    "tr": "по сообщениям",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Reportedly delayed.",
+        "ru": "По сообщениям задержан."
+      },
+      {
+        "en": "Reportedly, talks failed.",
+        "ru": "По сообщениям переговоры провалились."
+      },
+      {
+        "en": "The firm reportedly lied.",
+        "ru": "Фирма по сообщениям солгала."
+      }
+    ],
+    "colloc": "reportedly involved"
+  },
+  {
+    "word": "respectively",
+    "lemma": "respectively",
+    "ipa": "/rɪˈspɛktɪvli/",
+    "pos": "adv",
+    "tr": "соответственно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A and B scored 2 and 3 respectively.",
+        "ru": "A и B набрали 2 и 3 соответственно."
+      },
+      {
+        "en": "Parents and kids respectively.",
+        "ru": "Родители и дети соответственно."
+      },
+      {
+        "en": "List items respectively.",
+        "ru": "Перечисли пункты соответственно."
+      }
+    ],
+    "colloc": "respectively"
+  },
+  {
+    "word": "roughly",
+    "lemma": "roughly",
+    "ipa": "/ˈrəfli/",
+    "pos": "adv",
+    "tr": "примерно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Roughly fifty came.",
+        "ru": "Примерно пятьдесят пришло."
+      },
+      {
+        "en": "Roughly speaking, yes.",
+        "ru": "Грубо говоря, да."
+      },
+      {
+        "en": "Cut roughly equal parts.",
+        "ru": "Нарежь примерно равные части."
+      }
+    ],
+    "colloc": "roughly equal"
+  },
+  {
+    "word": "secondly",
+    "lemma": "secondly",
+    "ipa": "/ˈsɛkəndli/",
+    "pos": "adv",
+    "tr": "во-вторых",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Secondly, check costs.",
+        "ru": "Во-вторых, проверь затраты."
+      },
+      {
+        "en": "Firstly safety; secondly speed.",
+        "ru": "Во-первых безопасность; во-вторых скорость."
+      },
+      {
+        "en": "Secondly, train staff.",
+        "ru": "Во-вторых, обучи персонал."
+      }
+    ],
+    "colloc": "secondly"
+  },
+  {
+    "word": "seemingly",
+    "lemma": "seemingly",
+    "ipa": "/ˈsimɪŋli/",
+    "pos": "adv",
+    "tr": "кажущийся",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "A seemingly simple task.",
+        "ru": "Кажущаяся простой задача."
+      },
+      {
+        "en": "Seemingly endless rain.",
+        "ru": "Кажущийся бесконечным дождь."
+      },
+      {
+        "en": "Seemingly calm markets.",
+        "ru": "Кажущиеся спокойными рынки."
+      }
+    ],
+    "colloc": "seemingly impossible"
+  },
+  {
+    "word": "seldom",
+    "lemma": "seldom",
+    "ipa": "/ˈsɛldəm/",
+    "pos": "adv",
+    "tr": "редко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Seldom complain.",
+        "ru": "Редко жалуйся."
+      },
+      {
+        "en": "Seldom seen birds.",
+        "ru": "Редко видимые птицы."
+      },
+      {
+        "en": "We seldom agree fully.",
+        "ru": "Мы редко соглашаемся полностью."
+      }
+    ],
+    "colloc": "seldom if ever"
+  },
+  {
+    "word": "severely",
+    "lemma": "severely",
+    "ipa": "/səˈvɪrli/",
+    "pos": "adv",
+    "tr": "серьёзно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Punish severely.",
+        "ru": "Накажи серьёзно."
+      },
+      {
+        "en": "Severely damaged roads.",
+        "ru": "Серьёзно повреждённые дороги."
+      },
+      {
+        "en": "Severely limit access.",
+        "ru": "Серьёзно ограничь доступ."
+      }
+    ],
+    "colloc": "severely limited"
+  },
+  {
+    "word": "shortly",
+    "lemma": "shortly",
+    "ipa": "/ˈʃɔrtli/",
+    "pos": "adv",
+    "tr": "вскоре",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Arrive shortly.",
+        "ru": "Прибудь вскоре."
+      },
+      {
+        "en": "Shortly after dawn.",
+        "ru": "Вскоре после рассвета."
+      },
+      {
+        "en": "Speak shortly and clearly.",
+        "ru": "Говори вскоре и ясно."
+      }
+    ],
+    "colloc": "shortly thereafter"
+  },
+  {
+    "word": "sometime",
+    "lemma": "sometime",
+    "ipa": "/ˈsəmˌtaɪm/",
+    "pos": "adv",
+    "tr": "когда-нибудь",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Call sometime.",
+        "ru": "Позвони когда-нибудь."
+      },
+      {
+        "en": "Sometime next week.",
+        "ru": "Когда-нибудь на следующей неделе."
+      },
+      {
+        "en": "Write sometime soon.",
+        "ru": "Напиши когда-нибудь скоро."
+      }
+    ],
+    "colloc": "sometime"
+  },
+  {
+    "word": "somewhat",
+    "lemma": "somewhat",
+    "ipa": "/ˈsəmˈwət/",
+    "pos": "adv",
+    "tr": "несколько",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Feel somewhat better.",
+        "ru": "Чувствуй себя несколько лучше."
+      },
+      {
+        "en": "Somewhat risky.",
+        "ru": "Несколько рискованно."
+      },
+      {
+        "en": "Somewhat surprising results.",
+        "ru": "Несколько удивительные результаты."
+      }
+    ],
+    "colloc": "somewhat different"
+  },
+  {
+    "word": "steadily",
+    "lemma": "steadily",
+    "ipa": "/ˈstɛdəli/",
+    "pos": "adv",
+    "tr": "устойчиво",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Improve steadily.",
+        "ru": "Улучшайся устойчиво."
+      },
+      {
+        "en": "Steadily rising prices.",
+        "ru": "Устойчиво растущие цены."
+      },
+      {
+        "en": "Work steadily.",
+        "ru": "Работай устойчиво."
+      }
+    ],
+    "colloc": "steadily increase"
+  },
+  {
+    "word": "strictly",
+    "lemma": "strictly",
+    "ipa": "/ˈstrɪktli/",
+    "pos": "adv",
+    "tr": "строго",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Strictly forbidden.",
+        "ru": "Строго запрещено."
+      },
+      {
+        "en": "Strictly speaking, no.",
+        "ru": "Строго говоря, нет."
+      },
+      {
+        "en": "Enforce strictly.",
+        "ru": "Применяй строго."
+      }
+    ],
+    "colloc": "strictly confidential"
+  },
+  {
+    "word": "subsequently",
+    "lemma": "subsequently",
+    "ipa": "/ˈsəbsəkwəntli/",
+    "pos": "adv",
+    "tr": "впоследствии",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Subsequently, rules changed.",
+        "ru": "Впоследствии правила изменились."
+      },
+      {
+        "en": "Arrested and subsequently freed.",
+        "ru": "Арестован и впоследствии освобождён."
+      },
+      {
+        "en": "Subsequently published.",
+        "ru": "Впоследствии опубликован."
+      }
+    ],
+    "colloc": "subsequently"
+  },
+  {
+    "word": "sufficiently",
+    "lemma": "sufficiently",
+    "ipa": "/səˈfɪʃəntli/",
+    "pos": "adv",
+    "tr": "достаточно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Prepare sufficiently.",
+        "ru": "Готовься достаточно."
+      },
+      {
+        "en": "Sufficiently clear guidance.",
+        "ru": "Достаточно ясное руководство."
+      },
+      {
+        "en": "Cool sufficiently before serving.",
+        "ru": "Охлади достаточно перед подачей."
+      }
+    ],
+    "colloc": "sufficiently large"
+  },
+  {
+    "word": "temporarily",
+    "lemma": "temporarily",
+    "ipa": "/ˌtɛmpərˈɛrəli/",
+    "pos": "adv",
+    "tr": "временно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Close temporarily.",
+        "ru": "Закрой временно."
+      },
+      {
+        "en": "Temporarily unavailable.",
+        "ru": "Временно недоступно."
+      },
+      {
+        "en": "Live temporarily abroad.",
+        "ru": "Живи временно за границей."
+      }
+    ],
+    "colloc": "temporarily suspended"
+  },
+  {
+    "word": "terribly",
+    "lemma": "terribly",
+    "ipa": "/ˈtɛrəbli/",
+    "pos": "adv",
+    "tr": "ужасно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Feel terribly sorry.",
+        "ru": "Чувствуй ужасное сожаление."
+      },
+      {
+        "en": "Terribly cold winds.",
+        "ru": "Ужасно холодные ветры."
+      },
+      {
+        "en": "Terribly important.",
+        "ru": "Ужасно важно."
+      }
+    ],
+    "colloc": "terribly wrong"
+  },
+  {
+    "word": "thoroughly",
+    "lemma": "thoroughly",
+    "ipa": "/ˈθəroʊli/",
+    "pos": "adv",
+    "tr": "тщательно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Clean thoroughly.",
+        "ru": "Чисти тщательно."
+      },
+      {
+        "en": "Thoroughly researched.",
+        "ru": "Тщательно исследовано."
+      },
+      {
+        "en": "Check thoroughly.",
+        "ru": "Проверь тщательно."
+      }
+    ],
+    "colloc": "thoroughly enjoy"
+  },
+  {
+    "word": "thus",
+    "lemma": "thus",
+    "ipa": "/ðəs/",
+    "pos": "adv",
+    "tr": "таким образом",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Thus we conclude.",
+        "ru": "Таким образом мы заключаем."
+      },
+      {
+        "en": "Save thus time.",
+        "ru": "Экономь таким образом время."
+      },
+      {
+        "en": "Thus began reforms.",
+        "ru": "Таким образом начались реформы."
+      }
+    ],
+    "colloc": "thus far"
+  },
+  {
+    "word": "truly",
+    "lemma": "truly",
+    "ipa": "/ˈtruli/",
+    "pos": "adv",
+    "tr": "поистине",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Truly remarkable.",
+        "ru": "Поистине замечательно."
+      },
+      {
+        "en": "Truly believe.",
+        "ru": "Поистине верь."
+      },
+      {
+        "en": "Yours truly.",
+        "ru": "Искренне ваш."
+      }
+    ],
+    "colloc": "truly sorry"
+  },
+  {
+    "word": "typically",
+    "lemma": "typically",
+    "ipa": "/ˈtɪpɪkəli/",
+    "pos": "adv",
+    "tr": "обычно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Typically open at nine.",
+        "ru": "Обычно открыто в девять."
+      },
+      {
+        "en": "Typically, rains in spring.",
+        "ru": "Обычно дожди весной."
+      },
+      {
+        "en": "Typically quiet streets.",
+        "ru": "Обычно тихие улицы."
+      }
+    ],
+    "colloc": "typically"
+  },
+  {
+    "word": "ultimately",
+    "lemma": "ultimately",
+    "ipa": "/ˈəltəmətli/",
+    "pos": "adv",
+    "tr": "в конечном счёте",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Ultimately succeed.",
+        "ru": "В конечном счёте преуспей."
+      },
+      {
+        "en": "Ultimately responsible.",
+        "ru": "В конечном счёте ответственен."
+      },
+      {
+        "en": "Ultimately, truth wins.",
+        "ru": "В конечном счёте правда побеждает."
+      }
+    ],
+    "colloc": "ultimately decide"
+  },
+  {
+    "word": "undoubtedly",
+    "lemma": "undoubtedly",
+    "ipa": "/ənˈdaʊtɪdli/",
+    "pos": "adv",
+    "tr": "несомненно",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Undoubtedly true.",
+        "ru": "Несомненно правда."
+      },
+      {
+        "en": "Undoubtedly hard.",
+        "ru": "Несомненно трудно."
+      },
+      {
+        "en": "Undoubtedly the best.",
+        "ru": "Несомненно лучший."
+      }
+    ],
+    "colloc": "undoubtedly"
+  },
+  {
+    "word": "upward",
+    "lemma": "upward",
+    "ipa": "/ˈəpwərd/",
+    "pos": "adv",
+    "tr": "вверх",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Look upward.",
+        "ru": "Смотри вверх."
+      },
+      {
+        "en": "Upward mobility matters.",
+        "ru": "Восходящая мобильность важна."
+      },
+      {
+        "en": "Move upward carefully.",
+        "ru": "Двигайся вверх осторожно."
+      }
+    ],
+    "colloc": "upward trend"
+  },
+  {
+    "word": "widely",
+    "lemma": "widely",
+    "ipa": "/ˈwaɪdli/",
+    "pos": "adv",
+    "tr": "широко",
+    "bucket": "idea",
+    "examples": [
+      {
+        "en": "Widely known.",
+        "ru": "Широко известно."
+      },
+      {
+        "en": "Widely available.",
+        "ru": "Широко доступно."
+      },
+      {
+        "en": "Travel widely.",
+        "ru": "Путешествуй широко."
+      }
+    ],
+    "colloc": "widely accepted"
+  }
+]

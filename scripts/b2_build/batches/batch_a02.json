@@ -1,0 +1,2348 @@
+[
+  {
+    "word": "ethical",
+    "lemma": "ethical",
+    "ipa": "/ˈɛθɪkəl/",
+    "pos": "adj",
+    "tr": "этический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Make ethical choices.",
+        "ru": "Делай этический выбор."
+      },
+      {
+        "en": "Ethical standards guide medicine.",
+        "ru": "Этические стандарты ведут медицину."
+      },
+      {
+        "en": "An ethical dilemma arose.",
+        "ru": "Возникла этическая дилемма."
+      }
+    ],
+    "colloc": "ethical issue"
+  },
+  {
+    "word": "ethnic",
+    "lemma": "ethnic",
+    "ipa": "/ˈɛθnɪk/",
+    "pos": "adj",
+    "tr": "этнический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Respect ethnic diversity.",
+        "ru": "Уважай этническое разнообразие."
+      },
+      {
+        "en": "Ethnic food filled the fair.",
+        "ru": "Этническая еда заполнила ярмарку."
+      },
+      {
+        "en": "Fight ethnic discrimination.",
+        "ru": "Борись с этнической дискриминацией."
+      }
+    ],
+    "colloc": "ethnic group"
+  },
+  {
+    "word": "evident",
+    "lemma": "evident",
+    "ipa": "/ˈɛvədənt/",
+    "pos": "adj",
+    "tr": "очевидный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "The risk is evident.",
+        "ru": "Риск очевиден."
+      },
+      {
+        "en": "Evident progress pleased mentors.",
+        "ru": "Очевидный прогресс порадовал наставников."
+      },
+      {
+        "en": "Make benefits more evident.",
+        "ru": "Сделай выгоды очевиднее."
+      }
+    ],
+    "colloc": "self-evident"
+  },
+  {
+    "word": "evolutionary",
+    "lemma": "evolutionary",
+    "ipa": "/ˌɛvəˈluʃəˌnɛri/",
+    "pos": "adj",
+    "tr": "эволюционный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Study evolutionary biology.",
+        "ru": "Изучай эволюционную биологию."
+      },
+      {
+        "en": "Evolutionary change is slow.",
+        "ru": "Эволюционные изменения медленны."
+      },
+      {
+        "en": "An evolutionary leap occurred.",
+        "ru": "Произошёл эволюционный скачок."
+      }
+    ],
+    "colloc": "evolutionary theory"
+  },
+  {
+    "word": "exceptional",
+    "lemma": "exceptional",
+    "ipa": "/ɪkˈsɛpʃənəl/",
+    "pos": "adj",
+    "tr": "исключительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Show exceptional talent.",
+        "ru": "Прояви исключительный талант."
+      },
+      {
+        "en": "Exceptional weather delayed planes.",
+        "ru": "Исключительная погода задержала самолёты."
+      },
+      {
+        "en": "Reward exceptional effort.",
+        "ru": "Награди исключительные усилия."
+      }
+    ],
+    "colloc": "exceptional case"
+  },
+  {
+    "word": "excessive",
+    "lemma": "excessive",
+    "ipa": "/ɪkˈsɛsɪv/",
+    "pos": "adj",
+    "tr": "чрезмерный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Cut excessive spending.",
+        "ru": "Сократи чрезмерные траты."
+      },
+      {
+        "en": "Excessive noise harms sleep.",
+        "ru": "Чрезмерный шум вредит сну."
+      },
+      {
+        "en": "Avoid excessive force.",
+        "ru": "Избегай чрезмерной силы."
+      }
+    ],
+    "colloc": "excessive amount"
+  },
+  {
+    "word": "exclusive",
+    "lemma": "exclusive",
+    "ipa": "/ɪkˈsklusɪv/",
+    "pos": "adj",
+    "tr": "эксклюзивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Join an exclusive club.",
+        "ru": "Вступи в эксклюзивный клуб."
+      },
+      {
+        "en": "Exclusive rights were sold.",
+        "ru": "Эксклюзивные права продали."
+      },
+      {
+        "en": "An exclusive interview aired.",
+        "ru": "Вышло эксклюзивное интервью."
+      }
+    ],
+    "colloc": "exclusive to"
+  },
+  {
+    "word": "exotic",
+    "lemma": "exotic",
+    "ipa": "/ɪgˈzɑtɪk/",
+    "pos": "adj",
+    "tr": "экзотический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Try exotic fruit carefully.",
+        "ru": "Осторожно попробуй экзотический фрукт."
+      },
+      {
+        "en": "Exotic pets need permits.",
+        "ru": "Экзотическим питомцам нужны разрешения."
+      },
+      {
+        "en": "An exotic destination beckoned.",
+        "ru": "Манил экзотический пункт назначения."
+      }
+    ],
+    "colloc": "exotic species"
+  },
+  {
+    "word": "experimental",
+    "lemma": "experimental",
+    "ipa": "/ɪkˌspɛrɪˈmɛntəl/",
+    "pos": "adj",
+    "tr": "экспериментальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Run experimental trials.",
+        "ru": "Проводи экспериментальные испытания."
+      },
+      {
+        "en": "Experimental theater surprised us.",
+        "ru": "Экспериментальный театр нас удивил."
+      },
+      {
+        "en": "An experimental drug helped.",
+        "ru": "Экспериментальное лекарство помогло."
+      }
+    ],
+    "colloc": "experimental design"
+  },
+  {
+    "word": "explicit",
+    "lemma": "explicit",
+    "ipa": "/ɪkˈsplɪsət/",
+    "pos": "adj",
+    "tr": "явный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Give explicit instructions.",
+        "ru": "Дай явные инструкции."
+      },
+      {
+        "en": "Explicit consent is required.",
+        "ru": "Явное согласие требуется."
+      },
+      {
+        "en": "Be explicit about risks.",
+        "ru": "Будь явным насчёт рисков."
+      }
+    ],
+    "colloc": "explicit content"
+  },
+  {
+    "word": "explosive",
+    "lemma": "explosive",
+    "ipa": "/ɪkˈsploʊsɪv/",
+    "pos": "adj",
+    "tr": "взрывной",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Handle explosive materials carefully.",
+        "ru": "Осторожно обращайся со взрывчатыми материалами."
+      },
+      {
+        "en": "Explosive growth strained servers.",
+        "ru": "Взрывной рост нагрузил серверы."
+      },
+      {
+        "en": "An explosive argument erupted.",
+        "ru": "Вспыхнул взрывной спор."
+      }
+    ],
+    "colloc": "explosive device"
+  },
+  {
+    "word": "extensive",
+    "lemma": "extensive",
+    "ipa": "/ɪkˈstɛnsɪv/",
+    "pos": "adj",
+    "tr": "обширный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Do extensive research.",
+        "ru": "Проведи обширное исследование."
+      },
+      {
+        "en": "Extensive damage followed storms.",
+        "ru": "Обширный ущерб последовал за бурями."
+      },
+      {
+        "en": "An extensive network helps.",
+        "ru": "Обширная сеть помогает."
+      }
+    ],
+    "colloc": "extensive knowledge"
+  },
+  {
+    "word": "extraordinary",
+    "lemma": "extraordinary",
+    "ipa": "/ˌɛkstrəˈɔrdəˌnɛri/",
+    "pos": "adj",
+    "tr": "экстраординарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Show extraordinary courage.",
+        "ru": "Прояви экстраординарную смелость."
+      },
+      {
+        "en": "Extraordinary measures were taken.",
+        "ru": "Приняли экстраординарные меры."
+      },
+      {
+        "en": "An extraordinary career unfolded.",
+        "ru": "Развернулась экстраординарная карьера."
+      }
+    ],
+    "colloc": "extraordinary circumstances"
+  },
+  {
+    "word": "fabulous",
+    "lemma": "fabulous",
+    "ipa": "/ˈfæbjələs/",
+    "pos": "adj",
+    "tr": "фантастический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Have a fabulous weekend.",
+        "ru": "Проведи фантастические выходные."
+      },
+      {
+        "en": "Fabulous reviews poured in.",
+        "ru": "Посыпались фантастические отзывы."
+      },
+      {
+        "en": "A fabulous view awaited.",
+        "ru": "Ждал фантастический вид."
+      }
+    ],
+    "colloc": "absolutely fabulous"
+  },
+  {
+    "word": "failed",
+    "lemma": "failed",
+    "ipa": "/feɪld/",
+    "pos": "adj",
+    "tr": "провальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Learn from failed attempts.",
+        "ru": "Учись на провальных попытках."
+      },
+      {
+        "en": "A failed launch delayed plans.",
+        "ru": "Провальный запуск отложил планы."
+      },
+      {
+        "en": "Rescue failed states carefully.",
+        "ru": "Осторожно спасай провальные государства."
+      }
+    ],
+    "colloc": "failed experiment"
+  },
+  {
+    "word": "fake",
+    "lemma": "fake",
+    "ipa": "/feɪk/",
+    "pos": "adj",
+    "tr": "поддельный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Spot fake news.",
+        "ru": "Замечай поддельные новости."
+      },
+      {
+        "en": "Fake IDs were seized.",
+        "ru": "Поддельные удостоверения изъяли."
+      },
+      {
+        "en": "Avoid fake smiles at work.",
+        "ru": "Избегай фальшивых улыбок на работе."
+      }
+    ],
+    "colloc": "fake account"
+  },
+  {
+    "word": "fatal",
+    "lemma": "fatal",
+    "ipa": "/ˈfeɪtəl/",
+    "pos": "adj",
+    "tr": "фатальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Avoid fatal errors.",
+        "ru": "Избегай фатальных ошибок."
+      },
+      {
+        "en": "A fatal crash closed roads.",
+        "ru": "Фатальная авария закрыла дороги."
+      },
+      {
+        "en": "Fatal flaws sank the deal.",
+        "ru": "Фатальные изъяны потопили сделку."
+      }
+    ],
+    "colloc": "fatal mistake"
+  },
+  {
+    "word": "fellow",
+    "lemma": "fellow",
+    "ipa": "/ˈfɛloʊ/",
+    "pos": "adj",
+    "tr": "собрат",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Help a fellow student.",
+        "ru": "Помоги сокурснику."
+      },
+      {
+        "en": "Fellow citizens deserve respect.",
+        "ru": "Сограждане заслуживают уважения."
+      },
+      {
+        "en": "Her fellow travelers waited.",
+        "ru": "Её попутчики ждали."
+      }
+    ],
+    "colloc": "fellow worker"
+  },
+  {
+    "word": "feminist",
+    "lemma": "feminist",
+    "ipa": "/ˈfɛmənɪst/",
+    "pos": "adj",
+    "tr": "феминистский",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Read feminist theory carefully.",
+        "ru": "Осторожно читай феминистскую теорию."
+      },
+      {
+        "en": "Feminist movements reshaped law.",
+        "ru": "Феминистские движения перестроили закон."
+      },
+      {
+        "en": "A feminist critique emerged.",
+        "ru": "Появилась феминистская критика."
+      }
+    ],
+    "colloc": "feminist perspective"
+  },
+  {
+    "word": "fierce",
+    "lemma": "fierce",
+    "ipa": "/fɪrs/",
+    "pos": "adj",
+    "tr": "яростный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Face fierce competition.",
+        "ru": "Столкнись с яростной конкуренцией."
+      },
+      {
+        "en": "Fierce winds tore roofs.",
+        "ru": "Яростный ветер срывал крыши."
+      },
+      {
+        "en": "A fierce debate followed.",
+        "ru": "Последовал яростный спор."
+      }
+    ],
+    "colloc": "fierce loyalty"
+  },
+  {
+    "word": "fiscal",
+    "lemma": "fiscal",
+    "ipa": "/ˈfɪskəl/",
+    "pos": "adj",
+    "tr": "фискальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Debate fiscal policy.",
+        "ru": "Обсуждай фискальную политику."
+      },
+      {
+        "en": "Fiscal year ends in June.",
+        "ru": "Фискальный год кончается в июне."
+      },
+      {
+        "en": "Tighten fiscal discipline.",
+        "ru": "Ужесточи фискальную дисциплину."
+      }
+    ],
+    "colloc": "fiscal deficit"
+  },
+  {
+    "word": "flawed",
+    "lemma": "flawed",
+    "ipa": "/flɔd/",
+    "pos": "adj",
+    "tr": "с изъяном",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fix flawed logic.",
+        "ru": "Исправь логику с изъяном."
+      },
+      {
+        "en": "A flawed study misled many.",
+        "ru": "Исследование с изъяном многих ввело в заблуждение."
+      },
+      {
+        "en": "Flawed design caused recalls.",
+        "ru": "Дизайн с изъяном вызвал отзывы."
+      }
+    ],
+    "colloc": "flawed argument"
+  },
+  {
+    "word": "folding",
+    "lemma": "folding",
+    "ipa": "/ˈfoʊldɪŋ/",
+    "pos": "adj",
+    "tr": "складной",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Buy a folding chair.",
+        "ru": "Купи складной стул."
+      },
+      {
+        "en": "Folding doors save space.",
+        "ru": "Складные двери экономят место."
+      },
+      {
+        "en": "A folding map tore.",
+        "ru": "Складная карта порвалась."
+      }
+    ],
+    "colloc": "folding bike"
+  },
+  {
+    "word": "fond",
+    "lemma": "fond",
+    "ipa": "/fɑnd/",
+    "pos": "adj",
+    "tr": "любящий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay fond of reading.",
+        "ru": "Оставайся любящим чтение."
+      },
+      {
+        "en": "A fond memory returned.",
+        "ru": "Вернулось тёплое воспоминание."
+      },
+      {
+        "en": "She is fond of hiking.",
+        "ru": "Она любит хайкинг."
+      }
+    ],
+    "colloc": "fond of"
+  },
+  {
+    "word": "forthcoming",
+    "lemma": "forthcoming",
+    "ipa": "/ˈfɔrθˈkəmɪŋ/",
+    "pos": "adj",
+    "tr": "предстоящий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Announce forthcoming events.",
+        "ru": "Объяви предстоящие события."
+      },
+      {
+        "en": "Be more forthcoming with facts.",
+        "ru": "Будь откровеннее с фактами."
+      },
+      {
+        "en": "Forthcoming books excite fans.",
+        "ru": "Предстоящие книги волнуют фанатов."
+      }
+    ],
+    "colloc": "forthcoming week"
+  },
+  {
+    "word": "forward",
+    "lemma": "forward",
+    "ipa": "/ˈfɔrwərd/",
+    "pos": "adj",
+    "tr": "передний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Move to a forward position.",
+        "ru": "Перейди на переднюю позицию."
+      },
+      {
+        "en": "Forward thinking shapes strategy.",
+        "ru": "Передовое мышление формирует стратегию."
+      },
+      {
+        "en": "A forward pass scored.",
+        "ru": "Передний пас принёс очко."
+      }
+    ],
+    "colloc": "forward-looking"
+  },
+  {
+    "word": "fragile",
+    "lemma": "fragile",
+    "ipa": "/ˈfræʤəl/",
+    "pos": "adj",
+    "tr": "хрупкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Handle fragile packages.",
+        "ru": "Обращайся с хрупкими посылками."
+      },
+      {
+        "en": "Fragile ecosystems need care.",
+        "ru": "Хрупкие экосистемы нуждаются в уходе."
+      },
+      {
+        "en": "A fragile peace held.",
+        "ru": "Хрупкий мир держался."
+      }
+    ],
+    "colloc": "fragile state"
+  },
+  {
+    "word": "frustrated",
+    "lemma": "frustrated",
+    "ipa": "/ˈfrəˌstreɪtəd/",
+    "pos": "adj",
+    "tr": "разочарованный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Feel frustrated but persist.",
+        "ru": "Чувствуй разочарование, но упорствуй."
+      },
+      {
+        "en": "Frustrated voters demanded change.",
+        "ru": "Разочарованные избиратели требовали перемен."
+      },
+      {
+        "en": "Stay less frustrated daily.",
+        "ru": "Будь менее разочарованным ежедневно."
+      }
+    ],
+    "colloc": "frustrated with"
+  },
+  {
+    "word": "frustrating",
+    "lemma": "frustrating",
+    "ipa": "/ˈfrəˌstreɪtɪŋ/",
+    "pos": "adj",
+    "tr": "раздражающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fix frustrating bugs.",
+        "ru": "Исправь раздражающие баги."
+      },
+      {
+        "en": "A frustrating delay ensued.",
+        "ru": "Последовала раздражающая задержка."
+      },
+      {
+        "en": "Frustrating rules slowed work.",
+        "ru": "Раздражающие правила замедлили работу."
+      }
+    ],
+    "colloc": "frustrating experience"
+  },
+  {
+    "word": "fundamental",
+    "lemma": "fundamental",
+    "ipa": "/ˌfəndəˈmɛnəl/",
+    "pos": "adj",
+    "tr": "фундаментальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Learn fundamental skills.",
+        "ru": "Учи фундаментальные навыки."
+      },
+      {
+        "en": "A fundamental shift occurred.",
+        "ru": "Произошёл фундаментальный сдвиг."
+      },
+      {
+        "en": "Fundamental rights matter.",
+        "ru": "Фундаментальные права важны."
+      }
+    ],
+    "colloc": "fundamental change"
+  },
+  {
+    "word": "furious",
+    "lemma": "furious",
+    "ipa": "/fˈjʊriəs/",
+    "pos": "adj",
+    "tr": "в ярости",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "He was furious about delays.",
+        "ru": "Он был в ярости из-за задержек."
+      },
+      {
+        "en": "Furious winds knocked trees.",
+        "ru": "Яростный ветер валил деревья."
+      },
+      {
+        "en": "A furious debate erupted.",
+        "ru": "Вспыхнул яростный спор."
+      }
+    ],
+    "colloc": "furious with"
+  },
+  {
+    "word": "gay",
+    "lemma": "gay",
+    "ipa": "/geɪ/",
+    "pos": "adj",
+    "tr": "гей",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Protect gay rights.",
+        "ru": "Защищай права геев."
+      },
+      {
+        "en": "Gay pride events filled streets.",
+        "ru": "Мероприятия гей-прайда заполнили улицы."
+      },
+      {
+        "en": "Live with a gay roommate respectfully.",
+        "ru": "Живи с геем-соседом с уважением."
+      }
+    ],
+    "colloc": "gay marriage"
+  },
+  {
+    "word": "generic",
+    "lemma": "generic",
+    "ipa": "/ʤəˈnɛrɪk/",
+    "pos": "adj",
+    "tr": "общий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Avoid generic advice.",
+        "ru": "Избегай общих советов."
+      },
+      {
+        "en": "Generic drugs cost less.",
+        "ru": "Дженерики стоят меньше."
+      },
+      {
+        "en": "A generic brand sold well.",
+        "ru": "Общий бренд хорошо продавался."
+      }
+    ],
+    "colloc": "generic term"
+  },
+  {
+    "word": "genetic",
+    "lemma": "genetic",
+    "ipa": "/ʤəˈnɛtɪk/",
+    "pos": "adj",
+    "tr": "генетический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Study genetic disorders.",
+        "ru": "Изучай генетические расстройства."
+      },
+      {
+        "en": "Genetic testing informs care.",
+        "ru": "Генетическое тестирование информирует уход."
+      },
+      {
+        "en": "Genetic diversity aids survival.",
+        "ru": "Генетическое разнообразие помогает выживанию."
+      }
+    ],
+    "colloc": "genetic code"
+  },
+  {
+    "word": "glorious",
+    "lemma": "glorious",
+    "ipa": "/ˈglɔriəs/",
+    "pos": "adj",
+    "tr": "славный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Enjoy a glorious sunset.",
+        "ru": "Насладись славным закатом."
+      },
+      {
+        "en": "Glorious victories inspire.",
+        "ru": "Славные победы вдохновляют."
+      },
+      {
+        "en": "A glorious mess followed.",
+        "ru": "Последовал славный беспорядок."
+      }
+    ],
+    "colloc": "glorious past"
+  },
+  {
+    "word": "graphic",
+    "lemma": "graphic",
+    "ipa": "/ˈgræfɪk/",
+    "pos": "adj",
+    "tr": "графический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Create graphic designs.",
+        "ru": "Создавай графический дизайн."
+      },
+      {
+        "en": "Graphic violence needs warnings.",
+        "ru": "Графическое насилие нуждается в предупреждениях."
+      },
+      {
+        "en": "A graphic novel sold out.",
+        "ru": "Графический роман раскупили."
+      }
+    ],
+    "colloc": "graphic artist"
+  },
+  {
+    "word": "gross",
+    "lemma": "gross",
+    "ipa": "/groʊs/",
+    "pos": "adj",
+    "tr": "валовый / грубый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Calculate gross income.",
+        "ru": "Посчитай валовый доход."
+      },
+      {
+        "en": "Avoid gross negligence.",
+        "ru": "Избегай грубой халатности."
+      },
+      {
+        "en": "Gross misconduct led to firing.",
+        "ru": "Грубый проступок привёл к увольнению."
+      }
+    ],
+    "colloc": "gross domestic product"
+  },
+  {
+    "word": "high-profile",
+    "lemma": "high-profile",
+    "ipa": "/ˌhaɪˈproʊfaɪl/",
+    "pos": "adj",
+    "tr": "высокопрофильный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Handle high-profile cases carefully.",
+        "ru": "Осторожно веди высокопрофильные дела."
+      },
+      {
+        "en": "A high-profile arrest shocked.",
+        "ru": "Высокопрофильный арест шокировал."
+      },
+      {
+        "en": "High-profile guests arrived.",
+        "ru": "Прибыли высокопрофильные гости."
+      }
+    ],
+    "colloc": "high-profile event"
+  },
+  {
+    "word": "hollow",
+    "lemma": "hollow",
+    "ipa": "/ˈhɑloʊ/",
+    "pos": "adj",
+    "tr": "полый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Tap the hollow tree.",
+        "ru": "Постучи по полому дереву."
+      },
+      {
+        "en": "Hollow promises fade.",
+        "ru": "Полые обещания угасают."
+      },
+      {
+        "en": "A hollow victory felt empty.",
+        "ru": "Полая победа ощущалась пустой."
+      }
+    ],
+    "colloc": "hollow eyes"
+  },
+  {
+    "word": "holy",
+    "lemma": "holy",
+    "ipa": "/ˈhoʊli/",
+    "pos": "adj",
+    "tr": "святой",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Visit a holy site.",
+        "ru": "Посети святое место."
+      },
+      {
+        "en": "Holy texts guide believers.",
+        "ru": "Святые тексты ведут верующих."
+      },
+      {
+        "en": "Keep the Sabbath holy.",
+        "ru": "Держи субботу святой."
+      }
+    ],
+    "colloc": "holy day"
+  },
+  {
+    "word": "homeless",
+    "lemma": "homeless",
+    "ipa": "/ˈhoʊmləs/",
+    "pos": "adj",
+    "tr": "бездомный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Support homeless shelters.",
+        "ru": "Поддерживай приюты для бездомных."
+      },
+      {
+        "en": "Homeless youth need safety.",
+        "ru": "Бездомной молодёжи нужна безопасность."
+      },
+      {
+        "en": "Count homeless residents yearly.",
+        "ru": "Ежегодно считай бездомных жителей."
+      }
+    ],
+    "colloc": "homeless people"
+  },
+  {
+    "word": "hopeful",
+    "lemma": "hopeful",
+    "ipa": "/ˈhoʊpfəl/",
+    "pos": "adj",
+    "tr": "полный надежды",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay hopeful about change.",
+        "ru": "Оставайся полным надежды о переменах."
+      },
+      {
+        "en": "Hopeful signs emerged.",
+        "ru": "Появились обнадёживающие признаки."
+      },
+      {
+        "en": "A hopeful candidate spoke.",
+        "ru": "Полный надежды кандидат выступил."
+      }
+    ],
+    "colloc": "hopeful about"
+  },
+  {
+    "word": "humanitarian",
+    "lemma": "humanitarian",
+    "ipa": "/ˌjuˌmænəˈtɛriən/",
+    "pos": "adj",
+    "tr": "гуманитарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Send humanitarian aid.",
+        "ru": "Отправь гуманитарную помощь."
+      },
+      {
+        "en": "Humanitarian crises demand action.",
+        "ru": "Гуманитарные кризисы требуют действий."
+      },
+      {
+        "en": "A humanitarian corridor opened.",
+        "ru": "Открылся гуманитарный коридор."
+      }
+    ],
+    "colloc": "humanitarian effort"
+  },
+  {
+    "word": "humble",
+    "lemma": "humble",
+    "ipa": "/ˈhəmbəl/",
+    "pos": "adj",
+    "tr": "скромный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay humble after wins.",
+        "ru": "Оставайся скромным после побед."
+      },
+      {
+        "en": "A humble beginning inspired many.",
+        "ru": "Скромное начало многих вдохновило."
+      },
+      {
+        "en": "Humble pie tastes bitter.",
+        "ru": "Пирог смирения горек."
+      }
+    ],
+    "colloc": "humble apology"
+  },
+  {
+    "word": "humorous",
+    "lemma": "humorous",
+    "ipa": "/ˈhjumərəs/",
+    "pos": "adj",
+    "tr": "юмористический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Write a humorous essay.",
+        "ru": "Напиши юмористическое эссе."
+      },
+      {
+        "en": "Humorous ads can backfire.",
+        "ru": "Юмористическая реклама может выйти боком."
+      },
+      {
+        "en": "A humorous tone eased tension.",
+        "ru": "Юмористический тон снял напряжение."
+      }
+    ],
+    "colloc": "humorous remark"
+  },
+  {
+    "word": "ideological",
+    "lemma": "ideological",
+    "ipa": "/ˌaɪdiəˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "идеологический",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Question ideological extremes.",
+        "ru": "Подвергай сомнению идеологические крайности."
+      },
+      {
+        "en": "Ideological battles divide parties.",
+        "ru": "Идеологические битвы делят партии."
+      },
+      {
+        "en": "An ideological shift began.",
+        "ru": "Начался идеологический сдвиг."
+      }
+    ],
+    "colloc": "ideological difference"
+  },
+  {
+    "word": "imminent",
+    "lemma": "imminent",
+    "ipa": "/ˈɪmənənt/",
+    "pos": "adj",
+    "tr": "неминуемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Prepare for imminent danger.",
+        "ru": "Готовься к неминуемой опасности."
+      },
+      {
+        "en": "Imminent collapse forced evacuation.",
+        "ru": "Неминуемый обвал вынудил эвакуацию."
+      },
+      {
+        "en": "An imminent deadline loomed.",
+        "ru": "Надвинулся неминуемый дедлайн."
+      }
+    ],
+    "colloc": "imminent threat"
+  },
+  {
+    "word": "immune",
+    "lemma": "immune",
+    "ipa": "/ˌɪmˈjun/",
+    "pos": "adj",
+    "tr": "иммунный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay immune to gossip.",
+        "ru": "Оставайся невосприимчивым к сплетням."
+      },
+      {
+        "en": "Immune systems fight viruses.",
+        "ru": "Иммунные системы борются с вирусами."
+      },
+      {
+        "en": "Nobody is immune to error.",
+        "ru": "Никто не застрахован от ошибки."
+      }
+    ],
+    "colloc": "immune to"
+  },
+  {
+    "word": "impatient",
+    "lemma": "impatient",
+    "ipa": "/ˌɪmˈpeɪʃənt/",
+    "pos": "adj",
+    "tr": "нетерпеливый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Don't be impatient with beginners.",
+        "ru": "Не будь нетерпеливым с новичками."
+      },
+      {
+        "en": "Impatient drivers honked.",
+        "ru": "Нетерпеливые водители сигналили."
+      },
+      {
+        "en": "An impatient sigh escaped.",
+        "ru": "Вырвался нетерпеливый вздох."
+      }
+    ],
+    "colloc": "impatient with"
+  },
+  {
+    "word": "impressed",
+    "lemma": "impressed",
+    "ipa": "/ˌɪmˈprɛst/",
+    "pos": "adj",
+    "tr": "впечатлённый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "I was impressed by results.",
+        "ru": "Я был впечатлён результатами."
+      },
+      {
+        "en": "Impressed investors funded more.",
+        "ru": "Впечатлённые инвесторы финансировали больше."
+      },
+      {
+        "en": "Stay impressed by craft.",
+        "ru": "Оставайся впечатлённым ремеслом."
+      }
+    ],
+    "colloc": "impressed by"
+  },
+  {
+    "word": "inadequate",
+    "lemma": "inadequate",
+    "ipa": "/ˌɪˈnædəkˌweɪt/",
+    "pos": "adj",
+    "tr": "недостаточный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fix inadequate funding.",
+        "ru": "Исправь недостаточное финансирование."
+      },
+      {
+        "en": "Inadequate sleep harms focus.",
+        "ru": "Недостаточный сон вредит фокусу."
+      },
+      {
+        "en": "An inadequate response failed.",
+        "ru": "Недостаточный ответ провалился."
+      }
+    ],
+    "colloc": "inadequate for"
+  },
+  {
+    "word": "inappropriate",
+    "lemma": "inappropriate",
+    "ipa": "/ˌɪnəˈproʊpriɪt/",
+    "pos": "adj",
+    "tr": "неуместный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Avoid inappropriate jokes.",
+        "ru": "Избегай неуместных шуток."
+      },
+      {
+        "en": "Inappropriate content was removed.",
+        "ru": "Неуместный контент удалили."
+      },
+      {
+        "en": "An inappropriate gift embarrassed.",
+        "ru": "Неуместный подарок смутил."
+      }
+    ],
+    "colloc": "inappropriate for"
+  },
+  {
+    "word": "inclined",
+    "lemma": "inclined",
+    "ipa": "/ˌɪnˈklaɪnd/",
+    "pos": "adj",
+    "tr": "склонный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "I am inclined to agree.",
+        "ru": "Я склонен согласиться."
+      },
+      {
+        "en": "Inclined planes ease lifting.",
+        "ru": "Наклонные плоскости облегчают подъём."
+      },
+      {
+        "en": "Stay inclined toward evidence.",
+        "ru": "Оставайся склонным к доказательствам."
+      }
+    ],
+    "colloc": "inclined to"
+  },
+  {
+    "word": "incorrect",
+    "lemma": "incorrect",
+    "ipa": "/ˌɪnkərˈɛkt/",
+    "pos": "adj",
+    "tr": "неверный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Correct incorrect data.",
+        "ru": "Исправь неверные данные."
+      },
+      {
+        "en": "An incorrect address delayed mail.",
+        "ru": "Неверный адрес задержал почту."
+      },
+      {
+        "en": "Incorrect assumptions mislead.",
+        "ru": "Неверные допущения вводят в заблуждение."
+      }
+    ],
+    "colloc": "incorrect answer"
+  },
+  {
+    "word": "indigenous",
+    "lemma": "indigenous",
+    "ipa": "/ˌɪnˈdɪʤənəs/",
+    "pos": "adj",
+    "tr": "коренной",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Respect indigenous rights.",
+        "ru": "Уважай права коренных народов."
+      },
+      {
+        "en": "Indigenous languages need protection.",
+        "ru": "Коренные языки нуждаются в защите."
+      },
+      {
+        "en": "Indigenous knowledge guides land care.",
+        "ru": "Коренные знания ведут уход за землёй."
+      }
+    ],
+    "colloc": "indigenous people"
+  },
+  {
+    "word": "inevitable",
+    "lemma": "inevitable",
+    "ipa": "/ˌɪˈnɛvətəbəl/",
+    "pos": "adj",
+    "tr": "неизбежный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Accept the inevitable delay.",
+        "ru": "Прими неизбежную задержку."
+      },
+      {
+        "en": "Change seems inevitable.",
+        "ru": "Перемены кажутся неизбежными."
+      },
+      {
+        "en": "An inevitable collision occurred.",
+        "ru": "Произошло неизбежное столкновение."
+      }
+    ],
+    "colloc": "inevitable consequence"
+  },
+  {
+    "word": "infamous",
+    "lemma": "infamous",
+    "ipa": "/ˈɪnfəməs/",
+    "pos": "adj",
+    "tr": "печально известный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Avoid infamous shortcuts.",
+        "ru": "Избегай печально известных коротких путей."
+      },
+      {
+        "en": "An infamous scandal returned.",
+        "ru": "Вернулся печально известный скандал."
+      },
+      {
+        "en": "Infamous for cruelty.",
+        "ru": "Печально известен жестокостью."
+      }
+    ],
+    "colloc": "infamous for"
+  },
+  {
+    "word": "influential",
+    "lemma": "influential",
+    "ipa": "/ˌɪnfluˈɛnʃəl/",
+    "pos": "adj",
+    "tr": "влиятельный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Meet influential mentors.",
+        "ru": "Встречай влиятельных наставников."
+      },
+      {
+        "en": "Influential papers shaped fields.",
+        "ru": "Влиятельные статьи сформировали области."
+      },
+      {
+        "en": "An influential voice spoke.",
+        "ru": "Раздался влиятельный голос."
+      }
+    ],
+    "colloc": "influential in"
+  },
+  {
+    "word": "inherent",
+    "lemma": "inherent",
+    "ipa": "/ˌɪnˈhɛrənt/",
+    "pos": "adj",
+    "tr": "присущий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Accept inherent risk.",
+        "ru": "Прими присущий риск."
+      },
+      {
+        "en": "Inherent bias needs checks.",
+        "ru": "Присущее искажение нуждается в проверках."
+      },
+      {
+        "en": "An inherent flaw remained.",
+        "ru": "Остался присущий изъян."
+      }
+    ],
+    "colloc": "inherent in"
+  },
+  {
+    "word": "inner",
+    "lemma": "inner",
+    "ipa": "/ˈɪnər/",
+    "pos": "adj",
+    "tr": "внутренний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Trust your inner voice carefully.",
+        "ru": "Осторожно доверяй внутреннему голосу."
+      },
+      {
+        "en": "Inner cities need investment.",
+        "ru": "Внутренние города нуждаются в инвестициях."
+      },
+      {
+        "en": "Find inner peace.",
+        "ru": "Найди внутренний покой."
+      }
+    ],
+    "colloc": "inner circle"
+  },
+  {
+    "word": "innovative",
+    "lemma": "innovative",
+    "ipa": "/ˈɪnəˌveɪtɪv/",
+    "pos": "adj",
+    "tr": "инновационный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fund innovative startups.",
+        "ru": "Финансируй инновационные стартапы."
+      },
+      {
+        "en": "Innovative teaching engages kids.",
+        "ru": "Инновационное преподавание вовлекает детей."
+      },
+      {
+        "en": "An innovative design won.",
+        "ru": "Инновационный дизайн победил."
+      }
+    ],
+    "colloc": "innovative approach"
+  },
+  {
+    "word": "instant",
+    "lemma": "instant",
+    "ipa": "/ˈɪnstənt/",
+    "pos": "adj",
+    "tr": "мгновенный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Get instant feedback.",
+        "ru": "Получи мгновенную обратную связь."
+      },
+      {
+        "en": "Instant coffee tastes weaker.",
+        "ru": "Растворимый кофе слабее на вкус."
+      },
+      {
+        "en": "An instant classic emerged.",
+        "ru": "Появилась мгновенная классика."
+      }
+    ],
+    "colloc": "instant access"
+  },
+  {
+    "word": "institutional",
+    "lemma": "institutional",
+    "ipa": "/ˌɪnstɪˈtuʃənəl/",
+    "pos": "adj",
+    "tr": "институциональный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fight institutional racism.",
+        "ru": "Борись с институциональным расизмом."
+      },
+      {
+        "en": "Institutional investors moved markets.",
+        "ru": "Институциональные инвесторы двигали рынки."
+      },
+      {
+        "en": "An institutional failure hurt trust.",
+        "ru": "Институциональный провал ударил по доверию."
+      }
+    ],
+    "colloc": "institutional change"
+  },
+  {
+    "word": "instrumental",
+    "lemma": "instrumental",
+    "ipa": "/ˌɪnstrəˈmɛnəl/",
+    "pos": "adj",
+    "tr": "инструментальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Play instrumental music.",
+        "ru": "Играй инструментальную музыку."
+      },
+      {
+        "en": "She was instrumental in reform.",
+        "ru": "Она сыграла ключевую роль в реформе."
+      },
+      {
+        "en": "Instrumental analysis guides labs.",
+        "ru": "Инструментальный анализ ведёт лаборатории."
+      }
+    ],
+    "colloc": "instrumental in"
+  },
+  {
+    "word": "insufficient",
+    "lemma": "insufficient",
+    "ipa": "/ˌɪnsəˈfɪʃənt/",
+    "pos": "adj",
+    "tr": "недостаточный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Insufficient data blocked claims.",
+        "ru": "Недостаточные данные блокировали утверждения."
+      },
+      {
+        "en": "Fix insufficient lighting.",
+        "ru": "Исправь недостаточное освещение."
+      },
+      {
+        "en": "An insufficient apology failed.",
+        "ru": "Недостаточное извинение провалилось."
+      }
+    ],
+    "colloc": "insufficient for"
+  },
+  {
+    "word": "intact",
+    "lemma": "intact",
+    "ipa": "/ˌɪnˈtækt/",
+    "pos": "adj",
+    "tr": "нетронутый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Keep records intact.",
+        "ru": "Держи записи нетронутыми."
+      },
+      {
+        "en": "\"Leave nature intact.\"",
+        "ru": "«Оставь природу нетронутой.»"
+      },
+      {
+        "en": "The envelope arrived intact.",
+        "ru": "Конверт прибыл нетронутым."
+      }
+    ],
+    "colloc": "remain intact"
+  },
+  {
+    "word": "integral",
+    "lemma": "integral",
+    "ipa": "/ˈɪnəgrəl/",
+    "pos": "adj",
+    "tr": "неотъемлемый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Trust is integral to teams.",
+        "ru": "Доверие неотъемлемо для команд."
+      },
+      {
+        "en": "An integral part was missing.",
+        "ru": "Неотъемлемая часть отсутствовала."
+      },
+      {
+        "en": "Integral calculus helps physics.",
+        "ru": "Интегральное исчисление помогает физике."
+      }
+    ],
+    "colloc": "integral to"
+  },
+  {
+    "word": "integrated",
+    "lemma": "integrated",
+    "ipa": "/ˈɪnəˌgreɪtɪd/",
+    "pos": "adj",
+    "tr": "интегрированный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Build an integrated system.",
+        "ru": "Построй интегрированную систему."
+      },
+      {
+        "en": "Integrated schools improved outcomes.",
+        "ru": "Интегрированные школы улучшили исходы."
+      },
+      {
+        "en": "An integrated approach won.",
+        "ru": "Интегрированный подход победил."
+      }
+    ],
+    "colloc": "fully integrated"
+  },
+  {
+    "word": "intellectual",
+    "lemma": "intellectual",
+    "ipa": "/ˌɪnəˈlɛkʧuəl/",
+    "pos": "adj",
+    "tr": "интеллектуальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Protect intellectual property.",
+        "ru": "Защищай интеллектуальную собственность."
+      },
+      {
+        "en": "Intellectual curiosity drives science.",
+        "ru": "Интеллектуальное любопытство двигает науку."
+      },
+      {
+        "en": "An intellectual debate ensued.",
+        "ru": "Последовал интеллектуальный спор."
+      }
+    ],
+    "colloc": "intellectual freedom"
+  },
+  {
+    "word": "intended",
+    "lemma": "intended",
+    "ipa": "/ˌɪnˈtɛndɪd/",
+    "pos": "adj",
+    "tr": "задуманный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Reach the intended audience.",
+        "ru": "Достигни задуманной аудитории."
+      },
+      {
+        "en": "Intended consequences arrived.",
+        "ru": "Задуманные последствия прибыли."
+      },
+      {
+        "en": "An intended meaning was lost.",
+        "ru": "Задуманный смысл потерялся."
+      }
+    ],
+    "colloc": "intended for"
+  },
+  {
+    "word": "intense",
+    "lemma": "intense",
+    "ipa": "/ˌɪnˈtɛns/",
+    "pos": "adj",
+    "tr": "интенсивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Feel intense pressure.",
+        "ru": "Ощути интенсивное давление."
+      },
+      {
+        "en": "Intense training paid off.",
+        "ru": "Интенсивные тренировки окупились."
+      },
+      {
+        "en": "An intense stare unsettled him.",
+        "ru": "Интенсивный взгляд его обеспокоил."
+      }
+    ],
+    "colloc": "intense heat"
+  },
+  {
+    "word": "intensive",
+    "lemma": "intensive",
+    "ipa": "/ˌɪnˈtɛnsɪv/",
+    "pos": "adj",
+    "tr": "интенсивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Take an intensive course.",
+        "ru": "Пройди интенсивный курс."
+      },
+      {
+        "en": "Intensive care saved lives.",
+        "ru": "Интенсивная терапия спасла жизни."
+      },
+      {
+        "en": "Intensive farming hurts soil.",
+        "ru": "Интенсивное земледелие вредит почве."
+      }
+    ],
+    "colloc": "intensive care"
+  },
+  {
+    "word": "interactive",
+    "lemma": "interactive",
+    "ipa": "/ˌɪnərˈæktɪv/",
+    "pos": "adj",
+    "tr": "интерактивный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Build interactive lessons.",
+        "ru": "Строй интерактивные уроки."
+      },
+      {
+        "en": "Interactive maps guide hikers.",
+        "ru": "Интерактивные карты ведут туристов."
+      },
+      {
+        "en": "An interactive exhibit drew kids.",
+        "ru": "Интерактивная экспозиция привлекла детей."
+      }
+    ],
+    "colloc": "interactive media"
+  },
+  {
+    "word": "interim",
+    "lemma": "interim",
+    "ipa": "/ˈɪnərəm/",
+    "pos": "adj",
+    "tr": "временный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Name an interim leader.",
+        "ru": "Назначь временного лидера."
+      },
+      {
+        "en": "Interim reports guide boards.",
+        "ru": "Промежуточные отчёты ведут советы."
+      },
+      {
+        "en": "An interim solution helped.",
+        "ru": "Временное решение помогло."
+      }
+    ],
+    "colloc": "interim period"
+  },
+  {
+    "word": "intermediate",
+    "lemma": "intermediate",
+    "ipa": "/ˌɪnərˈmidiɪt/",
+    "pos": "adj",
+    "tr": "промежуточный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Take an intermediate class.",
+        "ru": "Пройди промежуточный класс."
+      },
+      {
+        "en": "Intermediate goals keep momentum.",
+        "ru": "Промежуточные цели держат импульс."
+      },
+      {
+        "en": "Reach an intermediate level.",
+        "ru": "Достигни промежуточного уровня."
+      }
+    ],
+    "colloc": "intermediate stage"
+  },
+  {
+    "word": "internal",
+    "lemma": "internal",
+    "ipa": "/ˌɪnˈtərnəl/",
+    "pos": "adj",
+    "tr": "внутренний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Fix internal bugs.",
+        "ru": "Исправь внутренние баги."
+      },
+      {
+        "en": "Internal affairs investigated.",
+        "ru": "Внутренние дела расследовали."
+      },
+      {
+        "en": "An internal memo leaked.",
+        "ru": "Внутренняя записка утекла."
+      }
+    ],
+    "colloc": "internal control"
+  },
+  {
+    "word": "intimate",
+    "lemma": "intimate",
+    "ipa": "/ˈɪnɪmət/",
+    "pos": "adj",
+    "tr": "интимный / близкий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Share intimate details carefully.",
+        "ru": "Осторожно делись интимными деталями."
+      },
+      {
+        "en": "Intimate knowledge of the city helped.",
+        "ru": "Близкое знание города помогло."
+      },
+      {
+        "en": "An intimate venue felt warm.",
+        "ru": "Камерная площадка ощущалась тёплой."
+      }
+    ],
+    "colloc": "intimate with"
+  },
+  {
+    "word": "intriguing",
+    "lemma": "intriguing",
+    "ipa": "/ˌɪnˈtrigɪŋ/",
+    "pos": "adj",
+    "tr": "интригующий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Follow an intriguing clue.",
+        "ru": "Следуй интригующей улике."
+      },
+      {
+        "en": "Intriguing results demand checks.",
+        "ru": "Интригующие результаты требуют проверок."
+      },
+      {
+        "en": "An intriguing offer arrived.",
+        "ru": "Пришло интригующее предложение."
+      }
+    ],
+    "colloc": "intriguing idea"
+  },
+  {
+    "word": "invisible",
+    "lemma": "invisible",
+    "ipa": "/ˌɪnˈvɪzəbəl/",
+    "pos": "adj",
+    "tr": "невидимый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Make risk less invisible.",
+        "ru": "Сделай риск менее невидимым."
+      },
+      {
+        "en": "Invisible labor goes unpaid.",
+        "ru": "Невидимый труд не оплачивается."
+      },
+      {
+        "en": "An invisible barrier remained.",
+        "ru": "Оставался невидимый барьер."
+      }
+    ],
+    "colloc": "invisible to"
+  },
+  {
+    "word": "ironic",
+    "lemma": "ironic",
+    "ipa": "/aɪˈrɑnɪk/",
+    "pos": "adj",
+    "tr": "ироничный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Note the ironic twist.",
+        "ru": "Отметь ироничный поворот."
+      },
+      {
+        "en": "Ironic humor can sting.",
+        "ru": "Ироничный юмор может кольнуть."
+      },
+      {
+        "en": "An ironic smile appeared.",
+        "ru": "Появилась ироничная улыбка."
+      }
+    ],
+    "colloc": "ironic that"
+  },
+  {
+    "word": "irrelevant",
+    "lemma": "irrelevant",
+    "ipa": "/ˌɪˈrɛləvənt/",
+    "pos": "adj",
+    "tr": "нерелевантный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Cut irrelevant details.",
+        "ru": "Убери нерелевантные детали."
+      },
+      {
+        "en": "Irrelevant questions wasted time.",
+        "ru": "Нерелевантные вопросы тратили время."
+      },
+      {
+        "en": "Age is irrelevant here.",
+        "ru": "Возраст здесь нерелевантен."
+      }
+    ],
+    "colloc": "irrelevant to"
+  },
+  {
+    "word": "isolated",
+    "lemma": "isolated",
+    "ipa": "/ˈaɪsəˌleɪtɪd/",
+    "pos": "adj",
+    "tr": "изолированный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Help isolated communities.",
+        "ru": "Помоги изолированным сообществам."
+      },
+      {
+        "en": "Isolated cases still matter.",
+        "ru": "Изолированные случаи всё ещё важны."
+      },
+      {
+        "en": "Feel less isolated online.",
+        "ru": "Чувствуй себя менее изолированным онлайн."
+      }
+    ],
+    "colloc": "isolated from"
+  },
+  {
+    "word": "judicial",
+    "lemma": "judicial",
+    "ipa": "/ʤuˈdɪʃəl/",
+    "pos": "adj",
+    "tr": "судебный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Reform judicial systems.",
+        "ru": "Реформируй судебные системы."
+      },
+      {
+        "en": "Judicial review checks power.",
+        "ru": "Судебный надзор проверяет власть."
+      },
+      {
+        "en": "A judicial ruling landed.",
+        "ru": "Вынесено судебное постановление."
+      }
+    ],
+    "colloc": "judicial branch"
+  },
+  {
+    "word": "keen",
+    "lemma": "keen",
+    "ipa": "/kin/",
+    "pos": "adj",
+    "tr": "острый / сильно желающий",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay keen on learning.",
+        "ru": "Оставайся сильно желающим учиться."
+      },
+      {
+        "en": "Keen eyes spotted errors.",
+        "ru": "Острые глаза заметили ошибки."
+      },
+      {
+        "en": "A keen interest grew.",
+        "ru": "Вырос острый интерес."
+      }
+    ],
+    "colloc": "keen on"
+  },
+  {
+    "word": "latter",
+    "lemma": "latter",
+    "ipa": "/ˈlætər/",
+    "pos": "adj",
+    "tr": "последний (из двух)",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Prefer the latter option.",
+        "ru": "Предпочитай последний вариант."
+      },
+      {
+        "en": "In the latter half of life.",
+        "ru": "Во второй половине жизни."
+      },
+      {
+        "en": "The latter proved wiser.",
+        "ru": "Последний оказался мудрее."
+      }
+    ],
+    "colloc": "the latter"
+  },
+  {
+    "word": "legendary",
+    "lemma": "legendary",
+    "ipa": "/ˈlɛʤənˌdɛri/",
+    "pos": "adj",
+    "tr": "легендарный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Meet a legendary coach.",
+        "ru": "Встреть легендарного тренера."
+      },
+      {
+        "en": "Legendary status takes decades.",
+        "ru": "Легендарный статус занимает десятилетия."
+      },
+      {
+        "en": "A legendary storm hit.",
+        "ru": "Ударила легендарная буря."
+      }
+    ],
+    "colloc": "legendary figure"
+  },
+  {
+    "word": "legislative",
+    "lemma": "legislative",
+    "ipa": "/ˈlɛʤəsˌleɪtɪv/",
+    "pos": "adj",
+    "tr": "законодательный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Push legislative reform.",
+        "ru": "Двигай законодательную реформу."
+      },
+      {
+        "en": "Legislative sessions ran late.",
+        "ru": "Законодательные сессии шли допоздна."
+      },
+      {
+        "en": "A legislative package passed.",
+        "ru": "Законодательный пакет прошёл."
+      }
+    ],
+    "colloc": "legislative body"
+  },
+  {
+    "word": "legitimate",
+    "lemma": "legitimate",
+    "ipa": "/ləˈʤɪtəmət/",
+    "pos": "adj",
+    "tr": "законный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Raise legitimate concerns.",
+        "ru": "Поднимай законные опасения."
+      },
+      {
+        "en": "Legitimate businesses pay taxes.",
+        "ru": "Законный бизнес платит налоги."
+      },
+      {
+        "en": "A legitimate claim won.",
+        "ru": "Законный иск победил."
+      }
+    ],
+    "colloc": "legitimate reason"
+  },
+  {
+    "word": "lengthy",
+    "lemma": "lengthy",
+    "ipa": "/ˈlɛŋθi/",
+    "pos": "adj",
+    "tr": "длительный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Avoid lengthy meetings.",
+        "ru": "Избегай длительных встреч."
+      },
+      {
+        "en": "A lengthy process frustrated users.",
+        "ru": "Длительный процесс раздражал пользователей."
+      },
+      {
+        "en": "Lengthy delays hurt patients.",
+        "ru": "Длительные задержки вредят пациентам."
+      }
+    ],
+    "colloc": "lengthy discussion"
+  },
+  {
+    "word": "lesbian",
+    "lemma": "lesbian",
+    "ipa": "/ˈlɛzbiən/",
+    "pos": "adj",
+    "tr": "лесбиянка",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Protect lesbian rights.",
+        "ru": "Защищай права лесбиянок."
+      },
+      {
+        "en": "Lesbian couples sought equality.",
+        "ru": "Лесбийские пары искали равенства."
+      },
+      {
+        "en": "A lesbian author spoke.",
+        "ru": "Авторка-лесбиянка выступила."
+      }
+    ],
+    "colloc": "lesbian community"
+  },
+  {
+    "word": "lesser",
+    "lemma": "lesser",
+    "ipa": "/ˈlɛsər/",
+    "pos": "adj",
+    "tr": "меньший",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Choose the lesser evil carefully.",
+        "ru": "Осторожно выбирай меньшее зло."
+      },
+      {
+        "en": "Lesser-known artists struggled.",
+        "ru": "Менее известные художники боролись."
+      },
+      {
+        "en": "A lesser sentence followed.",
+        "ru": "Последовал меньший приговор."
+      }
+    ],
+    "colloc": "lesser of two evils"
+  },
+  {
+    "word": "lethal",
+    "lemma": "lethal",
+    "ipa": "/ˈliθəl/",
+    "pos": "adj",
+    "tr": "летальный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Ban lethal weapons near schools.",
+        "ru": "Запрети летальное оружие у школ."
+      },
+      {
+        "en": "Lethal doses need labels.",
+        "ru": "Летальные дозы нуждаются в этикетках."
+      },
+      {
+        "en": "A lethal combination emerged.",
+        "ru": "Появилась летальная комбинация."
+      }
+    ],
+    "colloc": "lethal force"
+  },
+  {
+    "word": "liable",
+    "lemma": "liable",
+    "ipa": "/ˈlaɪəbəl/",
+    "pos": "adj",
+    "tr": "ответственный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Firms are liable for harm.",
+        "ru": "Фирмы ответственны за вред."
+      },
+      {
+        "en": "Liable to sudden change.",
+        "ru": "Склонен к внезапным переменам."
+      },
+      {
+        "en": "Find who is liable.",
+        "ru": "Найди, кто ответственен."
+      }
+    ],
+    "colloc": "liable for"
+  },
+  {
+    "word": "lifelong",
+    "lemma": "lifelong",
+    "ipa": "/ˈlaɪˈflɔŋ/",
+    "pos": "adj",
+    "tr": "пожизненный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Build lifelong habits.",
+        "ru": "Строй пожизненные привычки."
+      },
+      {
+        "en": "Lifelong learning pays off.",
+        "ru": "Обучение всю жизнь окупается."
+      },
+      {
+        "en": "A lifelong friendship endured.",
+        "ru": "Пожизненная дружба выдержала."
+      }
+    ],
+    "colloc": "lifelong dream"
+  },
+  {
+    "word": "limited",
+    "lemma": "limited",
+    "ipa": "/ˈlɪmɪtɪd/",
+    "pos": "adj",
+    "tr": "ограниченный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Work with limited resources.",
+        "ru": "Работай с ограниченными ресурсами."
+      },
+      {
+        "en": "Limited editions sell fast.",
+        "ru": "Ограниченные издания быстро продаются."
+      },
+      {
+        "en": "A limited view misleads.",
+        "ru": "Ограниченный взгляд вводит в заблуждение."
+      }
+    ],
+    "colloc": "limited to"
+  },
+  {
+    "word": "linear",
+    "lemma": "linear",
+    "ipa": "/ˈlɪniər/",
+    "pos": "adj",
+    "tr": "линейный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Prefer linear narratives sometimes.",
+        "ru": "Иногда предпочитай линейные нарративы."
+      },
+      {
+        "en": "Linear algebra helps AI.",
+        "ru": "Линейная алгебра помогает ИИ."
+      },
+      {
+        "en": "A linear path felt safer.",
+        "ru": "Линейный путь казался безопаснее."
+      }
+    ],
+    "colloc": "linear relationship"
+  },
+  {
+    "word": "literary",
+    "lemma": "literary",
+    "ipa": "/ˈlɪtərˌɛri/",
+    "pos": "adj",
+    "tr": "литературный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Join a literary circle.",
+        "ru": "Вступи в литературный кружок."
+      },
+      {
+        "en": "Literary devices enrich prose.",
+        "ru": "Литературные приёмы обогащают прозу."
+      },
+      {
+        "en": "A literary prize was awarded.",
+        "ru": "Присудили литературную премию."
+      }
+    ],
+    "colloc": "literary critic"
+  },
+  {
+    "word": "lively",
+    "lemma": "lively",
+    "ipa": "/ˈlaɪvli/",
+    "pos": "adj",
+    "tr": "оживлённый",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Host a lively debate.",
+        "ru": "Веди оживлённые дебаты."
+      },
+      {
+        "en": "Lively streets invite walks.",
+        "ru": "Оживлённые улицы зовут гулять."
+      },
+      {
+        "en": "A lively child asked questions.",
+        "ru": "Оживлённый ребёнок задавал вопросы."
+      }
+    ],
+    "colloc": "lively discussion"
+  },
+  {
+    "word": "logical",
+    "lemma": "logical",
+    "ipa": "/ˈlɑʤɪkəl/",
+    "pos": "adj",
+    "tr": "логичный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Follow a logical order.",
+        "ru": "Следуй логичному порядку."
+      },
+      {
+        "en": "Logical errors sank claims.",
+        "ru": "Логические ошибки потопили утверждения."
+      },
+      {
+        "en": "A logical next step appeared.",
+        "ru": "Появился логичный следующий шаг."
+      }
+    ],
+    "colloc": "logical conclusion"
+  },
+  {
+    "word": "longtime",
+    "lemma": "longtime",
+    "ipa": "/ˈlɔŋˌtaɪm/",
+    "pos": "adj",
+    "tr": "давний",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Thank longtime supporters.",
+        "ru": "Поблагодари давних сторонников."
+      },
+      {
+        "en": "A longtime friend visited.",
+        "ru": "Давний друг навестил."
+      },
+      {
+        "en": "Longtime residents protested.",
+        "ru": "Давние жители протестовали."
+      }
+    ],
+    "colloc": "longtime partner"
+  },
+  {
+    "word": "loose",
+    "lemma": "loose",
+    "ipa": "/lus/",
+    "pos": "adj",
+    "tr": "свободный / болтающийся",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Tighten loose screws.",
+        "ru": "Затяни болтающиеся винты."
+      },
+      {
+        "en": "Loose clothing feels cooler.",
+        "ru": "Свободная одежда ощущается прохладнее."
+      },
+      {
+        "en": "A loose interpretation failed.",
+        "ru": "Свободная интерпретация провалилась."
+      }
+    ],
+    "colloc": "loose ends"
+  },
+  {
+    "word": "loyal",
+    "lemma": "loyal",
+    "ipa": "/lɔɪəl/",
+    "pos": "adj",
+    "tr": "верный",
+    "bucket": "emotion",
+    "examples": [
+      {
+        "en": "Stay loyal to principles.",
+        "ru": "Оставайся верным принципам."
+      },
+      {
+        "en": "Loyal customers return.",
+        "ru": "Верные клиенты возвращаются."
+      },
+      {
+        "en": "A loyal friend listened.",
+        "ru": "Верный друг слушал."
+      }
+    ],
+    "colloc": "loyal to"
+  }
+]
