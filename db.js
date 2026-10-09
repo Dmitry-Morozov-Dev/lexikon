@@ -5,7 +5,11 @@
  *   progress  — SM-2 прогресс по id карточки
  *   reviews   — лог ответов для статистики (дата, quality)
  *   meta      — служебные ключи
- *   documents — тексты из PDF (без blob)
+ *   documents   — метаданные книг (title, author, format, cover, toc, позиция, participate). Лёгкие:
+ *                 лента читает отсюда только participate.
+ *   bookContent — текст книг: { id, chapters: [{ title, paras: [string | {h: string}] }] }
+ *                 (с v3; раньше текст PDF лежал в documents.text — мигрируется).
+ *   bookCovers  — миниатюры обложек { id, dataUrl } (грузятся только библиотекой).
  *
  * Настройки — в localStorage (не здесь).
  */
@@ -13,7 +17,8 @@
   'use strict';
 
   var DB_NAME = 'lexikon-db';
-  var DB_VERSION = 2;
+  var DB_VERSION = 3;
+  var PART_WORDS = 5000;
   var dbPromise = null;
 
   function openDB() {
@@ -45,11 +50,101 @@
           var docs = db.createObjectStore('documents', { keyPath: 'id' });
           docs.createIndex('createdAt', 'createdAt', { unique: false });
         }
+        if (!db.objectStoreNames.contains('bookContent')) {
+          db.createObjectStore('bookContent', { keyPath: 'id' });
+        }
+        if (!db.objectStoreNames.contains('bookCovers')) {
+          db.createObjectStore('bookCovers', { keyPath: 'id' });
+        }
+        // v2 → v3: текст старых PDF-документов переносим в bookContent (главы/абзацы)
+        if (e.oldVersion > 0 && e.oldVersion < 3) {
+          var utx = e.target.transaction;
+          var docStore = utx.objectStore('documents');
+          var contentStore = utx.objectStore('bookContent');
+          docStore.openCursor().onsuccess = function (ev) {
+            var cur = ev.target.result;
+            if (!cur) return;
+            var conv = legacyDocToBook(cur.value);
+            if (conv.content) contentStore.put(conv.content);
+            cur.update(conv.meta);
+            cur.continue();
+          };
+        }
       };
-      req.onsuccess = function () { resolve(req.result); };
-      req.onerror = function () { reject(req.error); };
+      req.onblocked = function () {
+        console.warn('lexikon-db upgrade blocked: закройте другие вкладки');
+      };
+      req.onsuccess = function () {
+        var db = req.result;
+        // новая версия в другой вкладке — отпускаем соединение, чтобы апгрейд не завис
+        db.onversionchange = function () {
+          db.close();
+          dbPromise = null;
+        };
+        resolve(db);
+      };
+      req.onerror = function () { dbPromise = null; reject(req.error); };
     });
     return dbPromise;
+  }
+
+  function countWords(text) {
+    var m = String(text || '').match(/[A-Za-zÀ-ÖØ-öø-ÿĀ-žА-Яа-яЁё0-9]+(?:['’-][A-Za-zÀ-ÖØ-öø-ÿĀ-žА-Яа-яЁё0-9]+)*/g);
+    return m ? m.length : 0;
+  }
+
+  function paraText(p) {
+    return typeof p === 'string' ? p : (p && p.h) || '';
+  }
+
+  /** Сводка глав для метаданных (оглавление без загрузки текста). */
+  function summarizeChapters(chapters) {
+    var toc = [];
+    var total = 0;
+    (chapters || []).forEach(function (ch) {
+      var w = 0;
+      (ch.paras || []).forEach(function (p) { w += countWords(paraText(p)); });
+      toc.push({ title: ch.title || '', words: w, level: ch.level || 1 });
+      total += w;
+    });
+    return { toc: toc, wordCount: total };
+  }
+
+  /**
+   * Старый документ v2 ({text}) → { meta, content }. Документы в новом формате
+   * возвращаются как есть (content = null).
+   */
+  function legacyDocToBook(doc) {
+    if (!doc || typeof doc.text !== 'string') return { meta: doc, content: null };
+    var paras = doc.text.split(/\n\n+/).map(function (p) { return p.trim(); }).filter(Boolean);
+    var chapters = [];
+    var cur = [];
+    var words = 0;
+    paras.forEach(function (p) {
+      var w = countWords(p);
+      if (cur.length && words + w > PART_WORDS) {
+        chapters.push({ title: '', paras: cur });
+        cur = [];
+        words = 0;
+      }
+      cur.push(p);
+      words += w;
+    });
+    if (cur.length || !chapters.length) chapters.push({ title: '', paras: cur });
+    chapters.forEach(function (ch, i) {
+      ch.title = chapters.length > 1 ? 'Часть ' + (i + 1) : (doc.title || 'Текст');
+    });
+    var sum = summarizeChapters(chapters);
+    var meta = Object.assign({}, doc);
+    delete meta.text;
+    meta.format = meta.format || 'pdf';
+    meta.addedAt = meta.addedAt || meta.createdAt || Date.now();
+    meta.author = meta.author || '';
+    meta.toc = sum.toc;
+    meta.wordCount = sum.wordCount;
+    meta.participate = doc.participate !== false;
+    meta.schema = 3;
+    return { meta: meta, content: { id: doc.id, chapters: chapters } };
   }
 
   function txDone(tx) {
@@ -201,9 +296,37 @@
 
   async function deleteDocument(id) {
     var db = await openDB();
-    var tx = db.transaction('documents', 'readwrite');
+    var tx = db.transaction(['documents', 'bookContent', 'bookCovers'], 'readwrite');
     tx.objectStore('documents').delete(id);
+    tx.objectStore('bookContent').delete(id);
+    tx.objectStore('bookCovers').delete(id);
     await txDone(tx);
+  }
+
+  /** Книга целиком: метаданные + текст одной транзакцией. */
+  async function putBook(meta, content, cover) {
+    var db = await openDB();
+    var tx = db.transaction(['documents', 'bookContent', 'bookCovers'], 'readwrite');
+    tx.objectStore('documents').put(meta);
+    tx.objectStore('bookContent').put(Object.assign({}, content, { id: meta.id }));
+    if (cover) tx.objectStore('bookCovers').put({ id: meta.id, dataUrl: cover });
+    await txDone(tx);
+  }
+
+  /** Обложки отдельно, чтобы список метаданных (и лента) оставался лёгким. */
+  async function getAllCovers() {
+    var db = await openDB();
+    return reqToPromise(getStore(db, 'bookCovers', 'readonly').getAll());
+  }
+
+  async function getBookContent(id) {
+    var db = await openDB();
+    return reqToPromise(getStore(db, 'bookContent', 'readonly').get(id));
+  }
+
+  async function getAllBookContent() {
+    var db = await openDB();
+    return reqToPromise(getStore(db, 'bookContent', 'readonly').getAll());
   }
 
   /** Полный бэкап IndexedDB → JSON-объект */
@@ -212,15 +335,19 @@
     var progress = await getAllProgress();
     var reviews = await getAllReviews();
     var documents = await getAllDocuments();
+    var bookContent = await getAllBookContent();
+    var bookCovers = await getAllCovers();
     var db = await openDB();
     var metaRows = await reqToPromise(getStore(db, 'meta', 'readonly').getAll());
     return {
-      version: 2,
+      version: 3,
       exportedAt: new Date().toISOString(),
       cards: cards,
       progress: progress,
       reviews: reviews,
       documents: documents,
+      bookContent: bookContent,
+      bookCovers: bookCovers,
       meta: metaRows
     };
   }
@@ -229,7 +356,7 @@
   async function importAll(data, replace) {
     if (!data || !Array.isArray(data.cards)) throw new Error('Некорректный файл бэкапа');
     var db = await openDB();
-    var storeNames = ['cards', 'progress', 'reviews', 'meta', 'documents'];
+    var storeNames = ['cards', 'progress', 'reviews', 'meta', 'documents', 'bookContent', 'bookCovers'];
     var tx = db.transaction(storeNames, 'readwrite');
     if (replace) {
       storeNames.forEach(function (n) { tx.objectStore(n).clear(); });
@@ -242,18 +369,27 @@
       tx.objectStore('reviews').add(copy);
     });
     (data.meta || []).forEach(function (m) { tx.objectStore('meta').put(m); });
-    (data.documents || []).forEach(function (d) { tx.objectStore('documents').put(d); });
+    (data.documents || []).forEach(function (d) {
+      // бэкап v2: текст PDF внутри документа → конвертируем
+      var conv = legacyDocToBook(d);
+      tx.objectStore('documents').put(conv.meta);
+      if (conv.content) tx.objectStore('bookContent').put(conv.content);
+    });
+    (data.bookContent || []).forEach(function (c) { tx.objectStore('bookContent').put(c); });
+    (data.bookCovers || []).forEach(function (c) { tx.objectStore('bookCovers').put(c); });
     await txDone(tx);
   }
 
   async function clearAll() {
     var db = await openDB();
-    var tx = db.transaction(['cards', 'progress', 'reviews', 'meta', 'documents'], 'readwrite');
+    var tx = db.transaction(['cards', 'progress', 'reviews', 'meta', 'documents', 'bookContent', 'bookCovers'], 'readwrite');
     tx.objectStore('cards').clear();
     tx.objectStore('progress').clear();
     tx.objectStore('reviews').clear();
     tx.objectStore('meta').clear();
     tx.objectStore('documents').clear();
+    tx.objectStore('bookContent').clear();
+    tx.objectStore('bookCovers').clear();
     await txDone(tx);
   }
 
@@ -278,6 +414,13 @@
     getDocument: getDocument,
     getAllDocuments: getAllDocuments,
     deleteDocument: deleteDocument,
+    putBook: putBook,
+    getBookContent: getBookContent,
+    getAllCovers: getAllCovers,
+    summarizeChapters: summarizeChapters,
+    legacyDocToBook: legacyDocToBook,
+    countWords: countWords,
+    PART_WORDS: PART_WORDS,
     exportAll: exportAll,
     importAll: importAll,
     clearAll: clearAll,
