@@ -44,8 +44,37 @@
     return pdfjsPromise;
   }
 
+  // C1-управляющие U+0080–U+009F почти всегда — «потерянные» байты cp1252 (’ “ ” … —):
+  // приходят из RTF/TXT/XHTML с &#146; и т. п. Рендерятся квадратиками → возвращаем символы.
+  var CP1252_C1 = {
+    0x80: '€', 0x82: '‚', 0x83: 'ƒ', 0x84: '„', 0x85: '…', 0x86: '†', 0x87: '‡', 0x88: 'ˆ', 0x89: '‰',
+    0x8a: 'Š', 0x8b: '‹', 0x8c: 'Œ', 0x8e: 'Ž', 0x91: '‘', 0x92: '’', 0x93: '“', 0x94: '”', 0x95: '•',
+    0x96: '–', 0x97: '—', 0x98: '˜', 0x99: '™', 0x9a: 'š', 0x9b: '›', 0x9c: 'œ', 0x9e: 'ž', 0x9f: 'Ÿ'
+  };
+  // Символы шрифта Symbol/Wingdings в Private Use Area (U+F020–U+F0FF) — из Word/RTF.
+  var SYMBOL_GREEK = 'ΑΒΧΔΕΦΓΗΙϑΚΛΜΝΟΠΘΡΣΤΥςΩΞΨΖ';   // Symbol: A..Z
+  var SYMBOL_greek = 'αβχδεφγηιϕκλμνοπθρστυϖωξψζ';   // Symbol: a..z
+  var SYMBOL_HIGH = { 0xa7: '•', 0xb7: '•', 0xa8: '♦', 0xa9: '♥', 0xaa: '♠', 0xab: '↔', 0xac: '←', 0xae: '→',
+    0xb0: '°', 0xb1: '±', 0xb4: '×', 0xb8: '÷', 0xb9: '≠', 0xba: '≡', 0xbb: '≈', 0xbc: '…', 0xbe: '—',
+    0xa3: '≤', 0xb3: '≥', 0xa5: '∞', 0xd7: '·', 0xe0: '→', 0xd8: '¬', 0xd6: '√', 0xe5: '∑', 0xf2: '∫',
+    0xd2: '®', 0xd3: '©', 0xd4: '™', 0xfc: '✓', 0xfb: '✗', 0x9f: '•' };
+  function fixChars(s) {
+    return s
+      .replace(/[\u0080-\u009f]/g, function (c) { return CP1252_C1[c.charCodeAt(0)] || ''; })
+      .replace(/[\uf020-\uf0ff]/g, function (c) {
+        var k = c.charCodeAt(0) - 0xf000;
+        if (k >= 0x41 && k <= 0x5a) return SYMBOL_GREEK.charAt(k - 0x41);
+        if (k >= 0x61 && k <= 0x7a) return SYMBOL_greek.charAt(k - 0x61);
+        if (k === 0x2d) return '−';
+        if (k < 0x7f) return String.fromCharCode(k);
+        return SYMBOL_HIGH[k] || '';
+      })
+      // прочие управляющие (кроме \t \n), заменитель U+FFFD, неразрывные/нулевой ширины уже ниже
+      .replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f\ufffd]/g, '');
+  }
+
   function cleanPara(s) {
-    return String(s || '')
+    return fixChars(String(s || ''))
       .replace(/\r\n?/g, '\n')
       .replace(/[\u00ad\u200b\u200c\u200d\ufeff]/g, '')
       .replace(/[ \t\f\v\u00a0\u2000-\u200a\u202f\u205f\u3000]+/g, ' ')
@@ -568,17 +597,196 @@
     });
   }
 
+  /* ================= Word 97–2003 (.doc, OLE CFB) — только текст ================= */
+
+  function cfbOpen(bytes) {
+    var dv = new DataView(bytes.buffer, bytes.byteOffset, bytes.byteLength);
+    if (dv.getUint32(0, true) !== 0xe011cfd0) throw ImportError('Файл .doc повреждён.');
+    var secShift = dv.getUint16(0x1e, true), miniShift = dv.getUint16(0x20, true);
+    var secSize = 1 << secShift, miniSize = 1 << miniShift;
+    var nFat = dv.getUint32(0x2c, true), dirStart = dv.getUint32(0x30, true);
+    var miniCutoff = dv.getUint32(0x38, true), miniFatStart = dv.getUint32(0x3c, true);
+    var difatStart = dv.getUint32(0x44, true), nDifat = dv.getUint32(0x48, true);
+    function secOff(n) { return (n + 1) * secSize; }
+    var fatSecs = [];
+    for (var i = 0; i < 109 && fatSecs.length < nFat; i++) fatSecs.push(dv.getUint32(0x4c + i * 4, true));
+    var ds = difatStart, guard = 0;
+    while (fatSecs.length < nFat && ds < 0xfffffffa && guard++ < nDifat + 1) {
+      var o = secOff(ds), per = secSize / 4 - 1;
+      for (var j = 0; j < per && fatSecs.length < nFat; j++) fatSecs.push(dv.getUint32(o + j * 4, true));
+      ds = dv.getUint32(o + per * 4, true);
+    }
+    var fat = new Uint32Array(fatSecs.length * secSize / 4);
+    fatSecs.forEach(function (sec, k) {
+      var o = secOff(sec);
+      for (var q = 0; q < secSize / 4; q++) fat[k * secSize / 4 + q] = o + q * 4 + 4 <= bytes.length ? dv.getUint32(o + q * 4, true) : 0xfffffffe;
+    });
+    function chain(start, table) {
+      var out = [], n = start, g = 0;
+      while (n < 0xfffffffa && n < table.length && g++ < 1e6) { out.push(n); n = table[n]; }
+      return out;
+    }
+    function readBig(start, size) {
+      var secs = chain(start, fat), buf = new Uint8Array(secs.length * secSize);
+      secs.forEach(function (sec, k) { var o = secOff(sec); buf.set(bytes.subarray(o, Math.min(o + secSize, bytes.length)), k * secSize); });
+      return size != null ? buf.subarray(0, size) : buf;
+    }
+    var dirBuf = readBig(dirStart);
+    var ddv = new DataView(dirBuf.buffer, dirBuf.byteOffset, dirBuf.byteLength);
+    var entries = [];
+    for (var e = 0; e + 128 <= dirBuf.length; e += 128) {
+      var nl = ddv.getUint16(e + 64, true), name = '';
+      for (var c = 0; c + 2 < nl; c += 2) name += String.fromCharCode(ddv.getUint16(e + c, true));
+      entries.push({ name: name, type: dirBuf[e + 66], start: ddv.getUint32(e + 116, true), size: ddv.getUint32(e + 120, true) });
+    }
+    var root = entries[0];
+    var miniFat = null, miniStream = null;
+    function stream(name) {
+      var en = entries.filter(function (x) { return x.type === 2 && x.name === name; })[0];
+      if (!en) return null;
+      if (en.size >= miniCutoff) return readBig(en.start, en.size);
+      if (!miniFat) {
+        var mf = readBig(miniFatStart), mdv = new DataView(mf.buffer, mf.byteOffset, mf.byteLength);
+        miniFat = new Uint32Array(mf.length / 4);
+        for (var k = 0; k < miniFat.length; k++) miniFat[k] = mdv.getUint32(k * 4, true);
+        miniStream = readBig(root.start, root.size);
+      }
+      var secs = chain(en.start, miniFat), buf = new Uint8Array(secs.length * miniSize);
+      secs.forEach(function (sec, k) { buf.set(miniStream.subarray(sec * miniSize, sec * miniSize + miniSize), k * miniSize); });
+      return buf.subarray(0, en.size);
+    }
+    return { stream: stream, names: entries.map(function (x) { return x.name; }) };
+  }
+
+  function docToBook(bytes, sourceName, size) {
+    var cfb = cfbOpen(bytes);
+    var wd = cfb.stream('WordDocument');
+    if (!wd) {
+      throw ImportError('Это не документ Word (в файле нет текста Word). Сохраните его как .docx, EPUB или PDF.');
+    }
+    var dv = new DataView(wd.buffer, wd.byteOffset, wd.byteLength);
+    if (dv.getUint16(0, true) !== 0xa5ec) throw ImportError('Слишком старая версия Word (до Word 97). Сохраните документ как .docx.');
+    var flags = dv.getUint16(0x0a, true);
+    if (flags & 0x0100) throw ImportError('Документ Word защищён паролем. Снимите пароль и импортируйте снова.');
+    var tbl = cfb.stream(flags & 0x0200 ? '1Table' : '0Table');
+    if (!tbl) throw ImportError('Файл .doc повреждён (нет таблицы текста).');
+    var tdv = new DataView(tbl.buffer, tbl.byteOffset, tbl.byteLength);
+    // FibRgLw97.ccpText (длина основного текста), FibRgFcLcb97.fcClx/lcbClx
+    var csw = dv.getUint16(0x20, true);
+    var lwOff = 0x22 + csw * 2;
+    var cslw = dv.getUint16(lwOff, true);
+    var ccpText = dv.getUint32(lwOff + 2 + 3 * 4, true);
+    var fcOff = lwOff + 2 + cslw * 4 + 2;
+    var fcClx = dv.getUint32(fcOff + 66 * 4, true), lcbClx = dv.getUint32(fcOff + 66 * 4 + 4, true);
+    var p = fcClx, end = fcClx + lcbClx, pieces = null;
+    while (p < end) {
+      var t = tbl[p];
+      if (t === 1) { p += 3 + tdv.getUint16(p + 1, true); continue; }
+      if (t === 2) {
+        var lcb = tdv.getUint32(p + 1, true), base = p + 5, n = (lcb - 4) / 12;
+        pieces = [];
+        for (var i = 0; i < n; i++) {
+          var cp0 = tdv.getUint32(base + i * 4, true), cp1 = tdv.getUint32(base + (i + 1) * 4, true);
+          var fcRaw = tdv.getUint32(base + (n + 1) * 4 + i * 8 + 2, true);
+          pieces.push({ cp0: cp0, cp1: cp1, compressed: !!(fcRaw & 0x40000000), fc: fcRaw & 0x3fffffff });
+        }
+        break;
+      }
+      break;
+    }
+    if (!pieces) throw ImportError('Не удалось прочитать текст .doc. Сохраните документ как .docx.');
+    var d1252 = new TextDecoder('windows-1252'), d16 = new TextDecoder('utf-16le');
+    var text = '';
+    for (var k = 0; k < pieces.length && text.length < ccpText; k++) {
+      var pc = pieces[k], len = pc.cp1 - pc.cp0;
+      if (pc.compressed) {
+        var off = pc.fc / 2;
+        text += d1252.decode(wd.subarray(off, off + len));
+      } else {
+        text += d16.decode(wd.subarray(pc.fc, pc.fc + len * 2));
+      }
+    }
+    if (ccpText > 0) text = text.slice(0, ccpText);
+    // поля: 0x13 инструкция 0x14 результат 0x15 → оставляем результат
+    var out = '', depth = [];
+    for (var q = 0; q < text.length; q++) {
+      var ch = text.charAt(q), code = text.charCodeAt(q);
+      if (code === 0x13) { depth.push(false); continue; }
+      if (code === 0x14) { if (depth.length) depth[depth.length - 1] = true; continue; }
+      if (code === 0x15) { depth.pop(); continue; }
+      if (depth.length && !depth[depth.length - 1]) continue;
+      if (code === 0x0d || code === 0x0c || code === 0x07) { out += '\n\n'; continue; }
+      if (code === 0x0b) { out += '\n'; continue; }
+      if (code === 0x09) { out += ' '; continue; }
+      if (code === 0x1e) { out += '-'; continue; }
+      if (code === 0xa0) { out += ' '; continue; }
+      if (code < 0x20) continue;   // 0x01 картинки, 0x02 сноски, 0x08 объекты, 0x1f мягкий перенос
+      out += ch;
+    }
+    var blocks = out.split(/\n\s*\n+/).map(function (x) { return x.trim(); }).filter(Boolean).map(function (x) {
+      return isTxtHeading(x) ? { type: 'h', level: 1, text: x } : { type: 'p', text: x };
+    });
+    if (!blocks.some(function (b) { return b.type === 'p' && /[A-Za-zА-Яа-яЁё]{2}/.test(b.text); })) {
+      throw ImportError('В документе .doc не найден текст.');
+    }
+    var title = baseName(sourceName);
+    return finalizeBook({
+      format: 'doc', title: title, chapters: blocksToChapters(blocks, title),
+      sourceName: sourceName, size: size
+    });
+  }
+
   /* ================= RTF (базовый) ================= */
 
   var RTF_SKIP_DEST = /^(fonttbl|colortbl|stylesheet|info|pict|object|header|headerl|headerr|headerf|footer|footerl|footerr|footerf|themedata|colorschememapping|datastore|latentstyles|listtable|listoverridetable|rsidtbl|xmlnstbl|generator|filetbl|revtbl|pgdsctbl|fldinst|bkmkstart|bkmkend|shppict|nonshppict|mmathPr|wgrffmtfilter|operator|private)$/;
+
+  var RTF_CHARSET_CP = { 0: 'windows-1252', 2: 'symbol', 77: 'macintosh', 128: 'shift_jis', 129: 'euc-kr', 134: 'gbk', 136: 'big5',
+    161: 'windows-1253', 162: 'windows-1254', 163: 'windows-1258', 177: 'windows-1255', 178: 'windows-1256',
+    186: 'windows-1257', 204: 'windows-1251', 222: 'windows-874', 238: 'windows-1250' };
 
   function rtfToBook(bytes, sourceName, size) {
     var s = '';
     for (var i = 0; i < bytes.length; i++) s += String.fromCharCode(bytes[i]);
     if (!/^\s*\{\\rtf/.test(s)) throw ImportError('Файл RTF повреждён или не является RTF.');
+    // Кодировка: \ansicpgN, иначе по \fcharset шрифтов (204 → cp1251 и т. д.); у каждого шрифта своя.
+    var decCache = {};
+    function decoderFor(cp) {
+      if (!decCache[cp]) {
+        try { decCache[cp] = new TextDecoder(cp); } catch (e) { decCache[cp] = new TextDecoder('windows-1252'); }
+      }
+      return decCache[cp];
+    }
     var cpm = s.match(/\\ansicpg(\d+)/);
-    var dec;
-    try { dec = new TextDecoder(cpm ? 'windows-' + cpm[1] : 'windows-1252'); } catch (e) { dec = new TextDecoder('windows-1252'); }
+    var fontCp = {};
+    var ftStart = s.indexOf('\\fonttbl');
+    if (ftStart >= 0) {
+      var ftEnd = s.length;
+      ['{\\colortbl', '{\\stylesheet', '{\\info', '\\pard', '\\par '].forEach(function (k) {
+        var i = s.indexOf(k, ftStart); if (i > ftStart && i < ftEnd) ftEnd = i;
+      });
+      var ftText = s.slice(ftStart, Math.min(ftEnd, ftStart + 100000));
+      var fre = /\\f(\d+)[^{};]*?\\fcharset(\d+)/g, fm;
+      while ((fm = fre.exec(ftText))) {
+        var cpName = RTF_CHARSET_CP[+fm[2]];
+        if (cpName) fontCp[fm[1]] = cpName;
+      }
+    }
+    var deffM = s.match(/\\deff(\d+)/);
+    var docCp = (cpm && cpm[1] !== '0' && cpm[1] !== '1252') ? 'windows-' + cpm[1]
+      : (deffM && fontCp[deffM[1]]) || (cpm ? 'windows-' + cpm[1] : null) || 'windows-1252';
+    if (docCp === 'windows-1252' || docCp === 'windows-0') {
+      // \ansicpg1252/без него, но все текстовые шрифты кириллические → cp1251
+      var cps = Object.keys(fontCp).map(function (k) { return fontCp[k]; }).filter(function (c) { return c !== 'symbol'; });
+      if (cps.length && cps.every(function (c) { return c === cps[0]; })) docCp = cps[0];
+      if (docCp === 'windows-0') docCp = 'windows-1252';
+    }
+    var curCp = docCp;
+    var dec = decoderFor(docCp);
+    function setFont(n) {
+      var cp = fontCp[n];
+      curCp = cp || docCp;
+      dec = decoderFor(curCp === 'symbol' ? 'windows-1252' : curCp);
+    }
     var titleM = s.match(/\{\\title\s+([^{}]*)\}/);
     var out = '';
     var stack = [];
@@ -588,7 +796,10 @@
     var hexBuf = [];
     function flushHex() {
       if (hexBuf.length) {
-        if (!skip) out += dec.decode(new Uint8Array(hexBuf));
+        if (!skip) {
+          if (curCp === 'symbol') out += hexBuf.map(function (b) { return String.fromCharCode(0xf000 + b); }).join('');
+          else out += dec.decode(new Uint8Array(hexBuf));
+        }
         hexBuf = [];
       }
     }
@@ -598,7 +809,7 @@
       var ch = s.charAt(pos);
       if (ch === '{') {
         flushHex();
-        stack.push({ skip: skip, uc: uc });
+        stack.push({ skip: skip, uc: uc, cp: curCp });
         pos++;
         if (s.substr(pos, 2) === '\\*') skip = true;
         continue;
@@ -606,7 +817,7 @@
       if (ch === '}') {
         flushHex();
         var st = stack.pop();
-        if (st) { skip = st.skip; uc = st.uc; }
+        if (st) { skip = st.skip; uc = st.uc; if (st.cp !== curCp) { curCp = st.cp; dec = decoderFor(curCp === 'symbol' ? 'windows-1252' : curCp); } }
         pos++;
         continue;
       }
@@ -649,7 +860,10 @@
           case 'rdblquote': out += '”'; break;
           case 'bullet': out += '•'; break;
           case 'uc': uc = param == null ? 1 : param; break;
+          case 'f': if (param != null) setFont(String(param)); break;
+          case 'plain': break;
           case 'u':
+            flushHex();
             if (param != null) out += String.fromCharCode(param < 0 ? param + 65536 : param);
             pendingSkip = uc;
             break;
@@ -659,6 +873,8 @@
       }
       if (ch === '\r' || ch === '\n') { pos++; continue; }
       if (pendingSkip > 0) { pendingSkip--; pos++; continue; }
+      var code = ch.charCodeAt(0);
+      if (code >= 0x80) { hexBuf.push(code); pos++; continue; }   // «сырые» 8-битные байты (нестандартно, но часто)
       flushHex();
       if (!skip) out += ch;
       pos++;
@@ -667,9 +883,21 @@
     var blocks = out.split(/\n\s*\n+/).map(function (p) { return p.trim(); }).filter(Boolean).map(function (p) {
       return isTxtHeading(p) ? { type: 'h', level: 1, text: p } : { type: 'p', text: p };
     });
-    var title = cleanPara(titleM ? titleM[1] : '') || baseName(sourceName);
+    function decodeInfo(raw) {
+      if (!raw) return '';
+      var d = decoderFor(docCp === 'symbol' ? 'windows-1252' : docCp);
+      var tb = [];
+      for (var ti = 0; ti < raw.length; ti++) tb.push(raw.charCodeAt(ti) & 0xff);
+      return d.decode(new Uint8Array(tb))
+        .replace(/\\'([0-9a-f]{2})/gi, function (m, h) { return d.decode(new Uint8Array([parseInt(h, 16)])); })
+        .replace(/\\u(-?\d+) ?\??/g, function (m, n) { n = +n; return String.fromCharCode(n < 0 ? n + 65536 : n); })
+        .replace(/\\[a-z]+-?\d* ?/gi, '');
+    }
+    var authorM = s.match(/\{\\author\s+([^{}]*)\}/);
+    var title = cleanPara(decodeInfo(titleM && titleM[1])) || baseName(sourceName);
+    var author = cleanPara(decodeInfo(authorM && authorM[1])).replace(/\n/g, ' ');
     return finalizeBook({
-      format: 'rtf', title: title, chapters: blocksToChapters(blocks, title),
+      format: 'rtf', title: title, author: author, chapters: blocksToChapters(blocks, title),
       sourceName: sourceName, size: size
     });
   }
@@ -1411,8 +1639,8 @@
 
   /* ================= Определение формата и вход ================= */
 
-  var ACCEPT = '.epub,.pdf,.fb2,.zip,.txt,.text,.html,.htm,.xhtml,.docx,.md,.markdown,.rtf,' +
-    'application/epub+zip,application/pdf,text/plain,text/html,text/markdown,application/rtf,text/rtf,' +
+  var ACCEPT = '.epub,.pdf,.fb2,.zip,.txt,.text,.html,.htm,.xhtml,.docx,.doc,.md,.markdown,.rtf,' +
+    'application/epub+zip,application/pdf,text/plain,text/html,text/markdown,application/rtf,text/rtf,application/msword,' +
     'application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/x-fictionbook+xml,application/zip';
 
   function startsWith(bytes, str) {
@@ -1443,7 +1671,7 @@
       return 'zip';
     }
     if (ext === 'mobi' || ext === 'azw' || ext === 'azw3' || ext === 'kfx' || ext === 'prc') return 'mobi';
-    if (ext === 'doc') return 'doc';
+    if (bytes.length > 8 && bytes[0] === 0xd0 && bytes[1] === 0xcf && bytes[2] === 0x11 && bytes[3] === 0xe0) return 'doc';
     if (ext === 'djvu' || ext === 'djv') return 'djvu';
     var head = '';
     for (var i = 0; i < Math.min(bytes.length, 600); i++) head += String.fromCharCode(bytes[i]);
@@ -1490,10 +1718,13 @@
       case 'html': return htmlToBook(bytes, name, file.size);
       case 'rtf': return rtfToBook(bytes, name, file.size);
       case 'mobi': throw ImportError('MOBI/AZW (Kindle) не поддерживается. Конвертируйте книгу в EPUB, например бесплатной программой Calibre.');
-      case 'doc': throw ImportError('Старый формат .doc не поддерживается — сохраните документ как .docx или PDF.');
+      case 'doc': {
+        if (onProgress) onProgress(0.4, 'Разбор Word .doc');
+        return docToBook(bytes, name, file.size);
+      }
       case 'djvu': throw ImportError('DjVu — это сканы страниц без текста. Нужен PDF/EPUB с текстом.');
       case 'zip': throw ImportError('В ZIP-архиве не найдена книга (EPUB, DOCX или FB2).');
-      default: throw ImportError('Неизвестный формат файла. Поддерживаются: EPUB, PDF, FB2, TXT, DOCX, HTML, MD, RTF.');
+      default: throw ImportError('Неизвестный формат файла. Поддерживаются: EPUB, PDF, FB2, TXT, DOCX, DOC, HTML, MD, RTF.');
     }
   }
 

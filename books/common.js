@@ -132,7 +132,41 @@
     return Math.max(0, Math.min(1, (before + inCh) / total));
   }
 
+  /* ---- Ремонт текста, сохранённого старыми версиями импорта ----
+   * Раньше RTF с «сырыми» 8-битными байтами превращался в U+0080–U+00FF:
+   * ’ “ ” … — становились невидимыми управляющими символами (квадратики),
+   * а кириллица — «Ñïàñèáî». Чиним на месте, не трогая разбивку на абзацы. */
+  var C1_1252 = {
+    0x80: '€', 0x82: '‚', 0x83: 'ƒ', 0x84: '„', 0x85: '…', 0x86: '†', 0x87: '‡', 0x88: 'ˆ', 0x89: '‰',
+    0x8a: 'Š', 0x8b: '‹', 0x8c: 'Œ', 0x8e: 'Ž', 0x91: '‘', 0x92: '’', 0x93: '“', 0x94: '”', 0x95: '•',
+    0x96: '–', 0x97: '—', 0x98: '˜', 0x99: '™', 0x9a: 'š', 0x9b: '›', 0x9c: 'œ', 0x9e: 'ž', 0x9f: 'Ÿ'
+  };
+  var dec1251 = null;
+  function brokenTextMode(sample, format) {
+    if (!/[\u0080-\u009f]/.test(sample)) return null;
+    if (format === 'rtf') {
+      var high = (sample.match(/[\u00c0-\u00ff]/g) || []).length;
+      var inRuns = (sample.match(/[\u00c0-\u00ff]{3,}/g) || []).join('').length;
+      if (high >= 20 && inRuns / high >= 0.5) return 'cp1251';
+    }
+    return 'cp1252';
+  }
+  function repairText(str, mode) {
+    if (typeof str !== 'string' || !mode) return str;
+    if (mode === 'cp1251') {
+      if (!dec1251) dec1251 = new TextDecoder('windows-1251');
+      return str.replace(/[\u0080-\u00ff]+/g, function (run) {
+        var b = new Uint8Array(run.length);
+        for (var i = 0; i < run.length; i++) b[i] = run.charCodeAt(i);
+        return dec1251.decode(b);
+      });
+    }
+    return str.replace(/[\u0080-\u009f]/g, function (c) { return C1_1252[c.charCodeAt(0)] || ''; });
+  }
+
   global.LexBooksUtil = {
+    brokenTextMode: brokenTextMode,
+    repairText: repairText,
     loadScript: loadScript,
     escapeHtml: escapeHtml,
     countWords: countWords,

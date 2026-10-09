@@ -609,6 +609,75 @@
       return;
     }
     render();
+    repairOldTexts();
+  }
+
+  /* Разовый ремонт текста книг, импортированных до исправления кодировок
+   * (квадратики вместо ’ “ ” … —). Абзацы не меняются → позиция и слова сохраняются. */
+  var TEXT_FIX_VERSION = 1;
+  var repairing = false;
+  async function repairOldTexts() {
+    if (repairing) return;
+    repairing = true;
+    var fixedTitles = [];
+    try {
+      var todo = books.filter(function (b) { return (b.textFix || 0) < TEXT_FIX_VERSION; });
+      for (var i = 0; i < todo.length; i++) {
+        var id = todo[i].id;
+        if (global.LexBookReader && LexBookReader.currentBookId && LexBookReader.currentBookId() === id) continue;
+        var content = await LexDB.getBookContent(id);
+        var meta = await LexDB.getDocument(id);
+        if (!meta) continue;
+        var mode = null;
+        if (content && content.chapters) {
+          var sample = JSON.stringify(content.chapters);
+          mode = U.brokenTextMode(sample, meta.format);
+        }
+        if (mode) {
+          var fix = function (x) { return U.repairText(x, mode); };
+          content.chapters.forEach(function (ch) {
+            ch.title = fix(ch.title);
+            ch.paras = ch.paras.map(function (p) {
+              if (typeof p === 'string') return fix(p);
+              if (p && typeof p.h === 'string') return Object.assign({}, p, { h: fix(p.h) });
+              return p;
+            });
+          });
+          meta.title = fix(meta.title);
+          meta.author = fix(meta.author);
+          meta.annotation = fix(meta.annotation);
+          (meta.toc || []).forEach(function (t) { t.title = fix(t.title); });
+          (meta.bookmarks || []).forEach(function (bm) { bm.text = fix(bm.text); });
+          var cards = (await LexDB.getAllCards()).filter(function (c) { return c.docId === id; });
+          for (var k = 0; k < cards.length; k++) {
+            var c = cards[k], changed = false;
+            ['contextSentence', 'note'].forEach(function (f) {
+              var v = fix(c[f]);
+              if (v !== c[f]) { c[f] = v; changed = true; }
+            });
+            (c.examples || []).forEach(function (ex, j) {
+              if (typeof ex === 'string') { var v = fix(ex); if (v !== ex) { c.examples[j] = v; changed = true; } }
+              else if (ex && typeof ex.en === 'string') { var v2 = fix(ex.en); if (v2 !== ex.en) { ex.en = v2; changed = true; } }
+            });
+            if (changed) await LexDB.putCard(c);
+          }
+          fixedTitles.push(meta.title);
+        }
+        meta.textFix = TEXT_FIX_VERSION;
+        if (mode) await LexDB.putBook(meta, content);
+        else await LexDB.putDocument(meta);
+        var b = findBook(id);
+        if (b) { b.textFix = TEXT_FIX_VERSION; if (mode) { b.title = meta.title; b.author = meta.author; b.toc = meta.toc; b.bookmarks = meta.bookmarks; } }
+      }
+    } catch (err) {
+      console.warn('repairOldTexts', err);
+    } finally {
+      repairing = false;
+    }
+    if (fixedTitles.length) {
+      render();
+      toast('Исправлены символы в книге: ' + fixedTitles.map(function (t) { return '«' + t + '»'; }).join(', '), 'ok');
+    }
   }
 
   function init() {
