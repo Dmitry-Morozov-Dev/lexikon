@@ -390,6 +390,23 @@ mark.ctx-hl {
 .ctx-ru { font-size: 0.85rem; line-height: 1.35; color: var(--muted); margin-top: 2px; }
 .ctx-src { font-size: 0.75rem; color: var(--muted); font-style: italic; margin-top: 2px; }
 
+/* % знакомых слов книги */
+.book-cov { display: flex; align-items: center; gap: 5px; font-size: 0.72rem; color: var(--muted); min-height: 1em; }
+.cov-dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex: none; }
+.cov-great { background: var(--success); }
+.cov-good { background: color-mix(in srgb, var(--success) 60%, var(--hard)); }
+.cov-mid { background: var(--hard); }
+.cov-low { background: var(--again); }
+.book-cov-box { margin: 10px 0 12px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 14px; display: flex; flex-direction: column; gap: 4px; }
+.cov-main { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-size: 0.92rem; }
+.cov-how summary { cursor: pointer; font-size: 0.78rem; color: var(--accent); margin-top: 2px; }
+.cov-how p { font-size: 0.78rem; line-height: 1.4; margin: 6px 0 0; }
+.cov-top-head { font-size: 0.78rem; font-weight: 600; margin-top: 8px; color: var(--accent); }
+.cov-top { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.cov-word { display: inline-flex; align-items: center; gap: 4px; padding: 3px 4px 3px 10px; border-radius: 999px; border: 1px solid var(--border); font-size: 0.82rem; }
+.cov-add { min-height: 26px; min-width: 26px; padding: 0; line-height: 26px; flex: none; border: 0; background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); width: 26px; height: 26px; border-radius: 50%; font-size: 0.95rem; cursor: pointer; }
+.cov-add.done { background: color-mix(in srgb, var(--success) 22%, transparent); color: var(--success); }
+
 /* Ввод слова (RU → EN) */
 .type-box { margin: 6px auto 10px; max-width: 26em; text-align: left; }
 .type-label { display: block; font-size: 0.78rem; color: var(--muted); margin: 0 0 6px 4px; }

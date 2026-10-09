@@ -174,6 +174,7 @@
           '<strong class="book-title" data-open="' + escapeHtml(b.id) + '">' + escapeHtml(b.title) + '</strong>' +
           (b.author ? '<small class="book-author">' + escapeHtml(b.author) + '</small>' : '') +
           '<small class="book-stats">' + escapeHtml(statsLine(b)) + (b.participate === false ? ' · <span class="book-off">не в ленте</span>' : '') + '</small>' +
+          '<small class="book-cov" data-cov="' + escapeHtml(b.id) + '">' + covChip(b.id) + '</small>' +
           '</div>' +
           '<button type="button" class="btn btn-ghost book-more" data-more="' + escapeHtml(b.id) + '" aria-label="Действия с книгой">⋯</button>' +
           '</div>';
@@ -373,6 +374,7 @@
       '<small class="muted">' + escapeHtml(details) + '</small>' +
       (b.lastOpenedAt ? '<small class="muted">Прочитано ' + pctOf(b) + '% · открыта ' + escapeHtml(U.formatDate(b.lastOpenedAt)) + '</small>' : '') +
       '</div></div>' +
+      '<div class="book-cov-box" id="book-cov-box"><span class="muted">Считаем знакомые слова…</span></div>' +
       (b.annotation ? '<p class="book-annotation muted">' + escapeHtml(b.annotation.slice(0, 600)) + (b.annotation.length > 600 ? '…' : '') + '</p>' : '') +
       '<button type="button" class="btn btn-accent btn-block" data-a="open">' + (b.lastOpenedAt ? 'Продолжить чтение' : 'Читать') + '</button>' +
       '<div class="row book-sheet-row"><span>В ленте «Сегодня»<br><small class="muted">слова этой книги в повторении</small></span>' +
@@ -388,6 +390,7 @@
         root.querySelector('[data-a="words"]').addEventListener('click', function () { close(); wordsSheet(b.id); });
         root.querySelector('[data-a="rename"]').addEventListener('click', function () { close(); renameSheet(b.id); });
         root.querySelector('[data-a="delete"]').addEventListener('click', function () { close(); deleteSheet(b.id); });
+        fillCoverageBox(b, root);
         var sw = root.querySelector('#book-participate');
         sw.addEventListener('change', function () { setParticipate(b.id, sw.checked, sw); });
       }
@@ -610,6 +613,95 @@
     }
     render();
     repairOldTexts();
+    updateCoverage();
+  }
+
+  /* ---- % знакомых слов (покрытие текста) ---- */
+  var covCache = {};     // id → результат compute
+  var covRunning = false;
+
+  function covClass(p) { return p >= 0.98 ? 'cov-great' : p >= 0.95 ? 'cov-good' : p >= 0.9 ? 'cov-mid' : 'cov-low'; }
+  function covPct(p) {
+    var v = p * 100;
+    return (v >= 99.5 ? '>99' : v >= 95 ? v.toFixed(1).replace('.', ',') : String(Math.round(v)));
+  }
+  function covChip(id) {
+    var c = covCache[id];
+    if (!c) return '';
+    return '<span class="cov-dot ' + covClass(c.pct) + '"></span>знакомо ~' + covPct(c.pct) + '% слов';
+  }
+
+  function loadCoverage() {
+    if (global.LexCoverage) return Promise.resolve(global.LexCoverage);
+    return U.loadScript('books/coverage.js').then(function () { return global.LexCoverage; });
+  }
+
+  async function updateCoverage() {
+    if (covRunning) return;
+    covRunning = true;
+    try {
+      var C = await loadCoverage();
+      if (C.invalidateKnown) C.invalidateKnown();
+      for (var i = 0; i < books.length; i++) {
+        var b = books[i];
+        try {
+          var res = await C.coverageFor(b, 30);
+          if (!res) continue;
+          covCache[b.id] = res;
+          var el = document.querySelector('.book-cov[data-cov="' + (global.CSS && CSS.escape ? CSS.escape(b.id) : b.id) + '"]');
+          if (el) el.innerHTML = covChip(b.id);
+        } catch (e) { console.warn('coverage', b.id, e); }
+      }
+    } catch (e) {
+      console.warn('coverage', e);
+    } finally {
+      covRunning = false;
+    }
+  }
+
+  async function fillCoverageBox(b, root) {
+    var box = root.querySelector('#book-cov-box');
+    if (!box) return;
+    try {
+      var C = await loadCoverage();
+      var c = await C.coverageFor(b, 30);
+      if (!c) { box.innerHTML = ''; return; }
+      covCache[b.id] = c;
+      var hint = c.pct >= 0.98 ? 'читается свободно' : c.pct >= 0.95 ? 'комфортно, со словарём изредка' : c.pct >= 0.9 ? 'с усилием, много новых слов' : 'сложно: каждое ~' + Math.max(2, Math.round(1 / Math.max(0.01, 1 - c.pct))) + '-е слово незнакомо';
+      box.innerHTML =
+        '<div class="cov-main"><span class="cov-dot ' + covClass(c.pct) + '"></span>' +
+        '<strong>Знакомо ~' + covPct(c.pct) + '% слов текста</strong> <span class="muted">· ' + escapeHtml(hint) + '</span></div>' +
+        '<small class="muted">Уникальных слов: ' + c.unique.toLocaleString('ru-RU') + ' · незнакомых: ' + c.unknownUnique.toLocaleString('ru-RU') + '</small>' +
+        '<details class="cov-how"><summary>Как считается</summary><p class="muted">' +
+        'Доля всех слов текста (с повторами), которые вы знаете: слово «выучено», «на повторении» или «убрано из ленты» в любой колоде, ' +
+        'плюс ~200 служебных слов (the, of, I’m…). Новые слова колод, слова на изучении и сохранённые из книг — незнакомые. ' +
+        'Формы сводятся к слову (went → go, considered → consider). Имена собственные не учитываются. ' +
+        'Для свободного чтения обычно нужно 95–98%. Оценка приблизительная.</p></details>' +
+        (c.top.length ? '<div class="cov-top-head">Частые незнакомые слова</div><div class="cov-top">' + c.top.map(function (t) {
+          return '<span class="cov-word"><span>' + escapeHtml(t.w) + ' <small class="muted">×' + t.n + '</small></span>' +
+            '<button type="button" class="cov-add" data-add="' + escapeHtml(t.w) + '" aria-label="Добавить «' + escapeHtml(t.w) + '» в колоду книги">＋</button></span>';
+        }).join('') + '</div>' : '');
+      box.querySelectorAll('[data-add]').forEach(function (btn) {
+        btn.addEventListener('click', async function () {
+          var w = btn.getAttribute('data-add');
+          btn.disabled = true;
+          btn.textContent = '…';
+          try {
+            var saved = await global.LexBookReader.addWordFromLibrary(b, w);
+            btn.textContent = '✓';
+            btn.classList.add('done');
+            wordCounts[b.id] = (wordCounts[b.id] || 0) + (saved.already ? 0 : 1);
+            toast((saved.already ? 'Уже в колоде: «' : 'Добавлено в колоду книги: «') + saved.card.word + '» — ' + saved.card.tr, 'ok');
+          } catch (err) {
+            btn.disabled = false;
+            btn.textContent = '＋';
+            toast('Не удалось добавить: ' + err.message, 'error');
+          }
+        });
+      });
+    } catch (e) {
+      box.innerHTML = '<small class="muted">Не удалось посчитать знакомые слова</small>';
+    }
   }
 
   /* Разовый ремонт текста книг, импортированных до исправления кодировок

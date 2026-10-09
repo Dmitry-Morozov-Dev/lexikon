@@ -1,5 +1,5 @@
 /* Service Worker «Лексикон» — кэширует оболочку и уже загруженные JSON. Картинки не прекэшируем. */
-var CACHE_SHELL = 'lexikon-shell-v17';
+var CACHE_SHELL = 'lexikon-shell-v18';
 var CACHE_DATA = 'lexikon-data-v19';
 // Библиотеки (pdf.js, JSZip) — отдельный кэш: тяжёлые, меняются редко, не перекачиваем при каждой версии оболочки
 var CACHE_LIB = 'lexikon-lib-v1';
@@ -17,6 +17,8 @@ var SHELL_URLS = [
   './books/reader.js',
   './books/library.js',
   './books/parsers.js',
+  './books/coverage.js',
+  './books/stats-worker.js',
   './manifest.webmanifest',
   './decks.json',
   './icons/app.svg',

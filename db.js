@@ -296,7 +296,8 @@
 
   async function deleteDocument(id) {
     var db = await openDB();
-    var tx = db.transaction(['documents', 'bookContent', 'bookCovers'], 'readwrite');
+    var tx = db.transaction(['documents', 'bookContent', 'bookCovers', 'meta'], 'readwrite');
+    tx.objectStore('meta').delete('bookStats:' + id);
     tx.objectStore('documents').delete(id);
     tx.objectStore('bookContent').delete(id);
     tx.objectStore('bookCovers').delete(id);
@@ -338,7 +339,8 @@
     var bookContent = await getAllBookContent();
     var bookCovers = await getAllCovers();
     var db = await openDB();
-    var metaRows = await reqToPromise(getStore(db, 'meta', 'readonly').getAll());
+    var metaRows = (await reqToPromise(getStore(db, 'meta', 'readonly').getAll()))
+      .filter(function (m) { return !/^bookStats:/.test(m.key); });   // кэш частот — пересчитается
     return {
       version: 3,
       exportedAt: new Date().toISOString(),

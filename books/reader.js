@@ -324,7 +324,7 @@
     }
     if (sentence) {
       contexts = contexts.filter(function (c) { return c && c.en !== sentence; });
-      contexts.unshift({ en: sentence, ru: trInfo.sentenceRu || '', docId: docId, bookTitle: book ? book.title : '',
+      contexts.unshift({ en: sentence, ru: trInfo.sentenceRu || '', docId: docId, bookTitle: opts.bookTitle || (book ? book.title : ''),
         ch: opts.ch != null ? opts.ch : null, para: opts.para != null ? opts.para : null, at: Date.now() });
     }
     contexts = contexts.slice(0, 8);
@@ -334,7 +334,7 @@
       lemma: lemma,
       ipa: (from && from.ipa) || (existing && existing.ipa) || '',
       pos: (from && from.pos) || (existing && existing.pos) || 'other',
-      level: (from && from.level) || (existing && existing.level) || (book && book.format !== 'pdf' ? 'book' : 'pdf'),
+      level: (from && from.level) || (existing && existing.level) || ((opts.bookFormat || (book && book.format)) === 'pdf' ? 'pdf' : 'book'),
       tr: trInfo.tr || (existing && existing.tr) || '—',
       note: trInfo.note || (from && from.note) || (existing && existing.note) || '',
       ex: primary.en || '',
@@ -352,7 +352,7 @@
       source: 'pdf',
       deckId: 'pdf:' + docId,
       docId: docId,
-      bookTitle: book ? book.title : '',
+      bookTitle: opts.bookTitle || (book ? book.title : ''),
       contexts: contexts,
       contextSentence: sentence,
       contextSentenceRu: trInfo.sentenceRu || (existing && existing.contextSentenceRu) || '',
@@ -366,6 +366,35 @@
       await LexDB.ensureProgress(card.id);
     }
     return { card: card, already: already };
+  }
+
+  /**
+   * Добавить слово в колоду книги из библиотеки («Частые незнакомые слова»), без открытия читалки:
+   * первое предложение книги с этим словом (с учётом форм), перевод/данные из колод.
+   */
+  async function addWordFromLibrary(meta, form) {
+    var content = await LexDB.getBookContent(meta.id);
+    if (!content) throw new Error('Текст книги не найден');
+    var L = global.LexLemma;
+    var chs = content.chapters || [];
+    for (var c = 0; c < chs.length; c++) {
+      var paras = chs[c].paras || [];
+      for (var p = 0; p < paras.length; p++) {
+        if (typeof paras[p] !== 'string') continue;
+        var m = L ? L.findInText(paras[p], form) : null;
+        if (!m || (m.text.charAt(0) !== m.text.charAt(0).toLowerCase() && m.start > 0 && !/[.!?…]\s*$/.test(paras[p].slice(0, m.start)))) continue;
+        var surface = m.text;
+        var sentence = extractSentence(paras[p], m.start, surface.length);
+        var hit = lookupSurface(surface);
+        var trInfo = await resolveTranslations(surface, sentence, hit);
+        return saveBookCard({
+          docId: meta.id, surface: surface.toLowerCase() === surface ? surface : surface.toLowerCase(),
+          lemma: (hit && hit.query) || normalizeLemma(form), sentence: sentence, hit: hit, trInfo: trInfo,
+          ch: c, para: p, bookTitle: meta.title, bookFormat: meta.format
+        });
+      }
+    }
+    throw new Error('Слово не найдено в тексте');
   }
 
   /* ================= Пузырёк ================= */
@@ -1288,6 +1317,7 @@
     getSettings: function () { return Object.assign({}, settings); },
     // для тестов
     _computePos: computePos,
-    _pageBy: pageBy
+    _pageBy: pageBy,
+    addWordFromLibrary: addWordFromLibrary
   };
 })(typeof window !== 'undefined' ? window : self);
