@@ -144,7 +144,9 @@
     fallback.className = 'card-img-fallback';
     fallback.textContent = letter;
 
-    var src = resolveImgUrl(card.img);
+    // Картинки на карточках не показываем (выглядят как подсказка) — всегда буква.
+    // Поле img в данных колод сохраняется, но игнорируется.
+    var src = '';
     if (!src || card.imgSrc === 'letter') {
       wrap.appendChild(fallback);
       return;
