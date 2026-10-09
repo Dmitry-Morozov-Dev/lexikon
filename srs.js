@@ -19,6 +19,18 @@
   var DEFAULT_EASE = 2.5;
   var HARD_FACTOR = 1.2;
   var KNOWN_MS = Math.round(100 * 365.25 * 24 * 60 * 60 * 1000);
+  /** «Трудное слово»: столько провалов ПОСЛЕ того, как слово уже вспоминалось (Anki: 8 провалов в повторении). */
+  var LEECH_AT = 4;
+  /** Старые данные без relapses: по общему числу «Снова». */
+  var LEECH_LEGACY_LAPSES = 6;
+
+  function isLeech(p) {
+    if (!p || p.state === 'known' || p.state === 'hidden') return false;
+    if (p.leech === true) return true;
+    if (p.leech === false && p.leechResetAt) return (p.relapses || 0) >= LEECH_AT;
+    if ((p.relapses || 0) >= LEECH_AT) return true;
+    return p.relapses == null && (p.lapses || 0) >= LEECH_LEGACY_LAPSES;
+  }
 
   /** Шаги обучения (мс): 2м, 10м, 30м, 60м, 1д */
   var LEARN_STEPS = [
@@ -135,6 +147,14 @@
     p._firstTimeKnown = false;
 
     if (quality === 0) {
+      // «Забыл после того, как вспоминал»: из повторения или после пройденного шага обучения
+      var wasLeech = isLeech(progress);
+      var recalledBefore = prevState === 'review' ||
+        ((prevState === 'learning' || prevState === 'relearning') && (p.learnStep || 0) > 0);
+      if (recalledBefore) p.relapses = (p.relapses || 0) + 1;
+      else if (p.relapses == null) p.relapses = 0;
+      if (wasLeech) p.leech = true;   // отметка держится, пока пользователь не сбросит
+      else if ((p.relapses || 0) >= LEECH_AT) { p.leech = true; p._becameLeech = true; }
       // Again: learning/relearning, шаг 0, due +2 мин
       p.repetition = 0;
       p.interval = 0;
@@ -234,6 +254,8 @@
     isUnknown: isUnknown,
     isLearning: isLearning,
     markHidden: markHidden,
+    isLeech: isLeech,
+    LEECH_AT: LEECH_AT,
     dueBy: dueBy,
     LEARN_STEPS: LEARN_STEPS,
     MIN_EASE: MIN_EASE,

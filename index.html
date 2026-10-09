@@ -43,6 +43,7 @@
               <h2 class="card-word" id="card-word"></h2>
               <p class="card-ipa" id="card-ipa"></p>
               <span class="card-pos" id="card-pos"></span>
+              <span class="leech-badge hidden" id="card-leech" title="Слово часто забывается">трудное</span>
               <p class="card-cloze hidden" id="card-cloze"></p>
               <form id="type-box" class="type-box hidden" autocomplete="off" novalidate>
                 <label class="type-label" for="type-input">Напишите по-английски</label>
@@ -62,6 +63,7 @@
               <div id="card-reveal" class="card-reveal hidden">
                 <p class="card-tr" id="card-tr"></p>
                 <div id="card-context" class="card-context hidden"></div>
+                <div id="card-leech-hint" class="leech-hint hidden"></div>
                 <div id="card-examples" class="card-examples"></div>
                 <div id="card-colloc" class="card-colloc hidden"></div>
                 <div id="card-meta" class="card-meta hidden"></div>
@@ -88,6 +90,11 @@
         <p class="muted">Отметьте колоды, которые участвуют в «Сегодня».</p>
       </div>
       <div id="deck-list"></div>
+      <div class="panel leech-panel">
+        <h3>Трудные слова</h3>
+        <p class="muted">Слова, которые забываются снова и снова (4+ раза после того, как уже вспоминались). Им чаще достаётся ввод и подсказка-пропуск.</p>
+        <button type="button" id="btn-leeches" class="btn btn-block">Список</button>
+      </div>
       <div class="panel books-link-panel">
         <h3>Книги</h3>
         <p class="muted">EPUB, PDF, FB2, TXT, DOCX и другие — во вкладке «Книги». Слова, которые вы удерживаете в тексте, попадают в колоду книги и в ленту.</p>

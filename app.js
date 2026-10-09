@@ -14,6 +14,7 @@
   var HOLD_DISMISS_MS = 2500;
   var HOLD_MOVE_CANCEL_PX = 12;
   var REVERSE_REVIEW_CHANCE = 0.45;
+  var LEECH_REVERSE_CHANCE = 0.7;
   var QUEUE_REFILL_AT = 8;
   var QUEUE_TARGET = 24;
   var NEW_PAUSE_HIGH = 40;
@@ -361,7 +362,11 @@
     var isRepeat = !!(prog && (LexSRS.isLearning(prog) || prog.state === 'review'));
     var forceRev = null;
     try { forceRev = localStorage.getItem('lexikon-test-reverse'); } catch (e) { /* ignore */ }
-    state.reversePrompt = isRepeat && (forceRev === '1' ? true : forceRev === '0' ? false : Math.random() < REVERSE_REVIEW_CHANCE);
+    var leech = LexSRS.isLeech(prog);
+    state.currentLeech = leech;
+    // у трудных слов обратная сторона (и ввод) чаще — доп. тренировка
+    state.reversePrompt = isRepeat && (forceRev === '1' ? true : forceRev === '0' ? false : Math.random() < (leech ? LEECH_REVERSE_CHANCE : REVERSE_REVIEW_CHANCE));
+    els.cardLeech.classList.toggle('hidden', !leech);
     node.classList.toggle('reverse-prompt', !!state.reversePrompt);
 
     if (state.reversePrompt) {
@@ -393,6 +398,7 @@
       els.cardCloze.classList.add('hidden');
     }
     renderContextBlock(card, ctxs, state.cloze ? state.cloze.ctx.en : null);
+    renderLeechHint(card, prog);
     // Ввод слова: обратная сторона + слово уже уходило влево (+ включено в настройках)
     state.typing = null;
     resetTypeUi();
@@ -450,6 +456,196 @@
     els.btnReveal.classList.add('hidden');
     markSuggestedGrade(state.typing && state.typing.result ? state.typing.result.grade : null);
     nudgeRevealIntoView();
+  }
+
+  /* ---- Трудные слова (leeches) ---- */
+
+  var PREFIXES = [
+    ['counter', 'против'], ['inter', 'между'], ['trans', 'через'], ['super', 'сверх'], ['under', 'недо-/под'],
+    ['over', 'пере-/сверх'], ['anti', 'анти-'], ['fore', 'пред-'], ['semi', 'полу-'], ['mis', 'ошибочно'],
+    ['dis', 'не-/обратное'], ['non', 'не-'], ['out', 'пре-/вне'], ['pre', 'пред-'], ['sub', 'под-'],
+    ['un', 'не-'], ['re', 'снова/обратно'], ['de', 'от-/обратное'], ['en', 'сделать'], ['im', 'не-/в'],
+    ['in', 'не-/в'], ['ir', 'не-'], ['il', 'не-']
+  ];
+  var SUFFIXES = [
+    ['ization', 'сущ.: процесс'], ['ation', 'сущ.: действие'], ['ition', 'сущ.: действие'], ['tion', 'сущ.: действие'],
+    ['sion', 'сущ.: действие'], ['ment', 'сущ.: результат'], ['ness', 'сущ.: качество'], ['ity', 'сущ.: качество'],
+    ['ance', 'сущ.'], ['ence', 'сущ.'], ['ship', 'сущ.: состояние'], ['hood', 'сущ.: состояние'], ['ism', 'сущ.: учение'],
+    ['ist', 'сущ.: деятель'], ['able', 'прил.: можно'], ['ible', 'прил.: можно'], ['ful', 'прил.: полный'],
+    ['less', 'прил.: без'], ['ous', 'прил.'], ['ive', 'прил.'], ['ical', 'прил.'], ['al', 'прил.'], ['ize', 'гл.: делать'],
+    ['ise', 'гл.: делать'], ['ify', 'гл.: делать'], ['ate', 'гл.'], ['ly', 'нареч.'], ['er', 'сущ.: кто/что'], ['or', 'сущ.: кто']
+  ];
+
+  /** Простой разбор на приставку/корень/суффикс: dis·appoint·ment. */
+  function morphParts(word) {
+    var w = String(word || '').toLowerCase().trim();
+    if (!/^[a-z]+$/.test(w) || w.length < 6) return null;
+    var pre = null, suf = null, root = w, i;
+    for (i = 0; i < PREFIXES.length; i++) {
+      var p = PREFIXES[i][0];
+      if (root.indexOf(p) === 0 && root.length - p.length >= 4) { pre = PREFIXES[i]; root = root.slice(p.length); break; }
+    }
+    for (i = 0; i < SUFFIXES.length; i++) {
+      var s = SUFFIXES[i][0];
+      if (root.length - s.length >= 3 && root.slice(-s.length) === s) { suf = SUFFIXES[i]; root = root.slice(0, -s.length); break; }
+    }
+    if (!pre && !suf) return null;
+    return { pre: pre, root: root, suf: suf };
+  }
+
+  /** Похожие слова из колод (интерференция: disappoint / disappear). */
+  function confusablesFor(card) {
+    var w = String(card.word || '').toLowerCase().trim();
+    if (!w || /\s/.test(w) || w.length < 4 || !globalThis.LexTyping) return [];
+    var seen = {};
+    seen[w] = true;
+    if (card.lemma) seen[String(card.lemma).toLowerCase()] = true;
+    var out = [];
+    var all = allLoadedCards();
+    var maxD = w.length >= 8 ? 2 : 1;
+    for (var i = 0; i < all.length && out.length < 4; i++) {
+      var c = all[i];
+      var x = String(c.word || '').toLowerCase().trim();
+      if (!x || seen[x] || /\s/.test(x) || Math.abs(x.length - w.length) > maxD) continue;
+      var stemN = Math.min(x.length, w.length) - 2;
+      if (stemN >= 4 && x.slice(0, stemN) === w.slice(0, stemN)) continue;   // та же семья слов
+      if (x.charAt(0) !== w.charAt(0) && x.slice(-2) !== w.slice(-2)) continue;
+      var shareStart = x.slice(0, 5) === w.slice(0, 5) && w.length >= 7;
+      if (shareStart || LexTyping.dl(x, w) <= maxD) {
+        seen[x] = true;
+        out.push({ word: c.word, tr: c.tr || '' });
+      }
+    }
+    return out;
+  }
+
+  function renderLeechHint(card, prog) {
+    var host = els.cardLeechHint;
+    if (!host) return;
+    host.innerHTML = '';
+    var leech = LexSRS.isLeech(prog);
+    var mn = (prog && prog.mnemonic) || '';
+    if (!leech && !mn) { host.classList.add('hidden'); return; }
+    host.classList.remove('hidden');
+    var html = '<div class="lh-head">' + (leech ? '⚑ Трудное слово' : '✎ Ваша подсказка') +
+      (leech && prog ? ' <small class="muted">· забыто ' + (prog.relapses != null ? prog.relapses : prog.lapses || 0) + razWord(prog.relapses != null ? prog.relapses : prog.lapses || 0) + '</small>' : '') + '</div>';
+    if (leech) {
+      var mp = morphParts(card.word);
+      if (mp) {
+        html += '<div class="lh-row"><span class="lh-k">Состав</span><span>' +
+          (mp.pre ? '<b>' + escapeHtml(mp.pre[0]) + '</b><i>(' + escapeHtml(mp.pre[1]) + ')</i>·' : '') +
+          escapeHtml(mp.root) +
+          (mp.suf ? '·<b>' + escapeHtml(mp.suf[0]) + '</b><i>(' + escapeHtml(mp.suf[1]) + ')</i>' : '') + '</span></div>';
+      }
+      var conf = confusablesFor(card);
+      if (conf.length) {
+        html += '<div class="lh-row"><span class="lh-k">Не путать</span><span>' + conf.map(function (c) {
+          return '<b>' + escapeHtml(c.word) + '</b> — ' + escapeHtml(c.tr);
+        }).join('; ') + '</span></div>';
+      }
+    }
+    html += '<label class="lh-k" for="leech-mnemonic">Своя ассоциация / мнемоника</label>' +
+      '<textarea id="leech-mnemonic" class="lh-input" rows="2" placeholder="Например: reluctant — «рил-актант»: актёр неохотно выходит на сцену" ' +
+      'autocapitalize="sentences" enterkeyhint="done">' + escapeHtml(mn) + '</textarea>';
+    host.innerHTML = html;
+    var ta = $('leech-mnemonic');
+    var saveTimer = null;
+    function saveMn() {
+      if (saveTimer) { clearTimeout(saveTimer); saveTimer = null; }
+      var val = ta.value.trim();
+      LexDB.getProgress(card.id).then(function (p) {
+        p = p || LexSRS.createProgress(card.id);
+        if ((p.mnemonic || '') === val) return;
+        p.mnemonic = val;
+        return LexDB.putProgress(p);
+      }).catch(function () { toast('Не удалось сохранить подсказку', 'error'); });
+    }
+    ta.addEventListener('input', function () {
+      if (saveTimer) clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveMn, 600);
+    });
+    ta.addEventListener('blur', saveMn);
+    ta.addEventListener('focus', function () {
+      setTimeout(function () { try { ta.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch (e) { /* ignore */ } }, 80);
+    });
+  }
+
+  function razWord(n) {
+    n = Math.abs(n) % 100;
+    var d = n % 10;
+    return (d >= 2 && d <= 4 && (n < 12 || n > 14)) ? ' раза' : ' раз';
+  }
+
+  function cardById() {
+    var map = {};
+    allLoadedCards().forEach(function (c) { map[c.id] = c; });
+    return map;
+  }
+
+  async function openLeechModal() {
+    var progress = await LexDB.getAllProgress();
+    var own = await LexDB.getAllCards();
+    var map = cardById();
+    own.forEach(function (c) { if (!map[c.id]) map[c.id] = c; });
+    var list = progress.filter(function (p) { return LexSRS.isLeech(p) && map[p.id]; })
+      .sort(function (a, b) { return (b.relapses || b.lapses || 0) - (a.relapses || a.lapses || 0); });
+    var host = els.modalHost;
+    host.innerHTML = '';
+    var back = document.createElement('div');
+    back.className = 'modal-backdrop';
+    var rows = list.length ? list.map(function (p) {
+      var c = map[p.id];
+      return '<div class="leech-item" data-id="' + escapeHtml(p.id) + '">' +
+        '<div class="leech-item-main"><strong>' + escapeHtml(c.word) + '</strong> <span class="muted">— ' + escapeHtml(c.tr || '') + '</span>' +
+        '<small class="muted">забыто ' + (p.relapses != null ? p.relapses : p.lapses || 0) + razWord(p.relapses != null ? p.relapses : p.lapses || 0) + (p.mnemonic ? ' · есть подсказка' : '') + '</small></div>' +
+        '<div class="leech-item-act">' +
+        '<button type="button" class="btn btn-ghost" data-leech="reset">Сбросить</button>' +
+        '<button type="button" class="btn btn-ghost" data-leech="hide">Убрать из ленты</button>' +
+        '</div></div>';
+    }).join('') : '<p class="muted" style="margin:8px 0">Пока трудных слов нет. Слово попадёт сюда, если забудете его 4 раза после того, как уже вспоминали.</p>';
+    back.innerHTML =
+      '<div class="modal" role="dialog" aria-label="Трудные слова">' +
+      '<div class="modal-head"><h3>Трудные слова</h3>' +
+      '<button type="button" class="btn btn-ghost" id="leech-close" aria-label="Закрыть">✕</button></div>' +
+      '<p class="muted" style="margin:0 0 10px;font-size:0.85rem">Ничего не приостанавливается само. «Сбросить» — снять отметку; «Убрать из ленты» — как удержание (можно вернуть через «↩ отмена»).</p>' +
+      '<div class="leech-list">' + rows + '</div></div>';
+    host.appendChild(back);
+    function close() { host.innerHTML = ''; updateLeechButton(); }
+    back.addEventListener('click', function (e) { if (e.target === back) close(); });
+    $('leech-close').addEventListener('click', close);
+    back.querySelectorAll('[data-leech]').forEach(function (btn) {
+      btn.addEventListener('click', async function () {
+        var row = btn.closest('.leech-item');
+        var id = row.getAttribute('data-id');
+        var p = await LexDB.getProgress(id);
+        if (!p) return;
+        var prev = Object.assign({}, p);
+        if (btn.getAttribute('data-leech') === 'reset') {
+          p.leech = false;
+          p.relapses = 0;
+          p.leechResetAt = Date.now();
+          await LexDB.putProgress(p);
+          toast('Отметка снята', 'ok');
+        } else {
+          LexSRS.markHidden(p);
+          await LexDB.putProgress(p);
+          if (map[id]) pushUndoEntry(map[id], 'dismissed', prev);
+          state.queue = state.queue.filter(function (c) { return c.id !== id; });
+          toast('Убрано из ленты · ↩ отмена', 'ok');
+        }
+        row.remove();
+      });
+    });
+  }
+
+  async function updateLeechButton() {
+    var btn = $('btn-leeches');
+    if (!btn) return;
+    try {
+      var progress = await LexDB.getAllProgress();
+      var n = progress.filter(function (p) { return LexSRS.isLeech(p); }).length;
+      btn.textContent = n ? 'Список трудных слов (' + n + ')' : 'Список трудных слов (пока нет)';
+    } catch (e) { /* ignore */ }
   }
 
   /* ---- Ввод слова (RU → EN) ---- */
@@ -1375,6 +1571,8 @@
       firstTimeKnown = !!next._firstTimeKnown;
       var toSave = Object.assign({}, next);
       delete toSave._firstTimeKnown;
+      delete toSave._becameLeech;
+      if (next._becameLeech) toast('«' + (card.word || '') + '» — трудное слово: добавлены подсказки', 'ok');
       await LexDB.putProgress(toSave);
       await LexDB.addReview(card.id, quality);
       if (firstTimeKnown) pushUndoKnown(card);
@@ -1918,6 +2116,7 @@
     if (name === 'stats') renderStats();
     if (name === 'decks') {
       renderDeckList();
+      updateLeechButton();
     }
     if (name === 'books') {
       var firstLoad = !globalThis.LexLibrary;
@@ -2231,6 +2430,8 @@
       cardPos: $('card-pos'),
       cardTr: $('card-tr'),
       cardCloze: $('card-cloze'),
+      cardLeech: $('card-leech'),
+      cardLeechHint: $('card-leech-hint'),
       typeBox: $('type-box'),
       typeInput: $('type-input'),
       typeResult: $('type-result'),
@@ -2374,6 +2575,7 @@
 
     setupSwipe();
     setupTyping();
+    $('btn-leeches').addEventListener('click', openLeechModal);
     setupBookImport();
   }
 
