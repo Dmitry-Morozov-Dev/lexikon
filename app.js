@@ -118,6 +118,25 @@
     return 'object';
   }
 
+  // Пути картинок из колод вида «/icons/concepts/x.svg» абсолютные от корня домена,
+  // а сайт живёт в подпапке (/lexikon/) → приводим к относительным при показе.
+  var APP_BASE_PATH = (function () {
+    try { return new URL('.', location.href).pathname; } catch (e) { return '/'; }
+  })();
+  function resolveImgUrl(src) {
+    src = String(src || '').trim();
+    if (!src) return '';
+    if (/^(https?:|data:|blob:)/i.test(src) || src.indexOf('//') === 0) return src;
+    if (src.charAt(0) === '/') {
+      if (APP_BASE_PATH !== '/' && src.indexOf(APP_BASE_PATH) === 0) return src;
+      return src.replace(/^\/+/, '');
+    }
+    return src.replace(/^\.\//, '');
+  }
+  function isConceptIcon(src) {
+    return /^(\.?\/)?([^:]*\/)?icons\/concepts\//.test(src || '');
+  }
+
   function renderCardImage(wrap, card) {
     wrap.innerHTML = '';
     var letter = ((card.word || '?')[0] || '?').toUpperCase();
@@ -125,13 +144,13 @@
     fallback.className = 'card-img-fallback';
     fallback.textContent = letter;
 
-    var src = card.img || '';
+    var src = resolveImgUrl(card.img);
     if (!src || card.imgSrc === 'letter') {
       wrap.appendChild(fallback);
       return;
     }
 
-    if (src.indexOf('/icons/concepts/') === 0 || card.imgSrc === 'svg') {
+    if (isConceptIcon(src) || card.imgSrc === 'svg') {
       var imgSvg = document.createElement('img');
       imgSvg.loading = 'lazy';
       imgSvg.referrerPolicy = 'no-referrer';
@@ -1355,7 +1374,7 @@
       syn: data.syn || '',
       ant: data.ant || '',
       img: data.img || '',
-      imgSrc: data.img ? (data.img.indexOf('/icons/') === 0 ? 'svg' : 'url') : 'letter',
+      imgSrc: data.img ? (isConceptIcon(data.img) ? 'svg' : 'url') : 'letter',
       imgAlt: data.word,
       deckId: 'own',
       source: 'own'
