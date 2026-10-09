@@ -2389,32 +2389,106 @@
   }
 
   /* ---- Backup ---- */
+  /* ---- Резервная копия (backup.js, загружается по требованию) ---- */
+
+  function loadBackupLib() {
+    return globalThis.LexBackup ? Promise.resolve(globalThis.LexBackup) : loadScriptOnce('backup.js').then(function () { return globalThis.LexBackup; });
+  }
+
+  function fmtBytes(n) {
+    if (n < 1024) return n + ' Б';
+    if (n < 1024 * 1024) return (n / 1024).toFixed(0) + ' КБ';
+    return (n / 1024 / 1024).toFixed(1).replace('.', ',') + ' МБ';
+  }
+
+  function summaryHtml(s) {
+    return '<ul class="backup-sum">' +
+      '<li><b>' + s.progress + '</b> слов с прогрессом (выучено ' + s.known + ', в повторении ' + s.learning + ', убрано ' + s.hidden + ')</li>' +
+      '<li><b>' + s.cards + '</b> своих карточек (из книг ' + s.bookCards + ', свои/CSV ' + s.ownCards + ')</li>' +
+      '<li><b>' + s.books + '</b> ' + (s.books % 10 === 1 && s.books % 100 !== 11 ? 'книга' : (s.books % 10 >= 2 && s.books % 10 <= 4 && (s.books % 100 < 12 || s.books % 100 > 14)) ? 'книги' : 'книг') + ' (текст, позиции, закладки)</li>' +
+      '<li><b>' + s.reviews + '</b> ответов в истории · ' + s.settings + ' групп настроек</li></ul>';
+  }
+
+  function backupModal(html, onMount) {
+    var host = els.modalHost;
+    host.innerHTML = '';
+    var back = document.createElement('div');
+    back.className = 'modal-backdrop';
+    back.innerHTML = '<div class="modal" role="dialog">' + html + '</div>';
+    host.appendChild(back);
+    function close() { host.innerHTML = ''; }
+    back.addEventListener('click', function (e) { if (e.target === back) close(); });
+    back.querySelectorAll('[data-close]').forEach(function (b) { b.addEventListener('click', close); });
+    if (onMount) onMount(back, close);
+  }
+
   async function exportBackup() {
-    var data = await LexDB.exportAll();
-    data.settings = state.settings;
-    var blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-    var a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = 'lexikon-backup-' + todayKey() + '.json';
-    a.click();
-    setTimeout(function () { URL.revokeObjectURL(a.href); }, 2000);
-    toast('Экспорт готов', 'ok');
+    var status = $('backup-status');
+    var B = await loadBackupLib();
+    if (status) status.textContent = 'Собираем копию…';
+    var res = await B.build(function (f) { if (status) status.textContent = 'Сжимаем… ' + Math.round(f * 100) + '%'; });
+    if (status) status.textContent = '';
+    var file = null;
+    try { file = new File([res.blob], res.filename, { type: 'application/zip' }); } catch (e) { file = null; }
+    var canShare = !!(file && navigator.canShare && navigator.share && navigator.canShare({ files: [file] }));
+    // Share sheet требует свежий жест пользователя, поэтому — отдельной кнопкой после сборки
+    backupModal(
+      '<div class="modal-head"><h3>Копия готова</h3><button type="button" class="btn btn-ghost" data-close aria-label="Закрыть">✕</button></div>' +
+      '<p class="muted" style="margin:0 0 6px">' + escapeHtml(res.filename) + ' · ' + fmtBytes(res.bytes) + '</p>' + summaryHtml(res.summary) +
+      (canShare ? '<button type="button" class="btn btn-accent btn-block" data-b="share">Отправить / Сохранить в «Файлы»</button>' : '') +
+      '<button type="button" class="btn btn-block' + (canShare ? '' : ' btn-accent') + '" data-b="download" style="margin-top:8px">Скачать файл</button>',
+      function (root, close) {
+        var sh = root.querySelector('[data-b="share"]');
+        if (sh) sh.addEventListener('click', function () {
+          navigator.share({ files: [file], title: 'Лексикон — резервная копия' }).then(function () { close(); toast('Копия отправлена', 'ok'); })
+            .catch(function (err) { if (err && err.name !== 'AbortError') toast('Не удалось поделиться — скачайте файл', 'error'); });
+        });
+        root.querySelector('[data-b="download"]').addEventListener('click', function () {
+          var a = document.createElement('a');
+          a.href = URL.createObjectURL(res.blob);
+          a.download = res.filename;
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(function () { URL.revokeObjectURL(a.href); }, 60000);
+          toast('Копия сохранена', 'ok');
+        });
+      }
+    );
   }
 
   async function importBackup(file) {
-    var text = await file.text();
-    var data = JSON.parse(text);
-    await LexDB.importAll(data, true);
-    if (data.settings) {
-      state.settings = Object.assign(state.settings, data.settings);
-      saveSettings();
-      applyTheme(state.settings.theme || 'dark');
-    }
-    await loadOwnCards();
-    toast('Импорт завершён', 'ok');
-    buildQueue();
-    renderStats();
-    if (globalThis.LexLibrary) LexLibrary.refresh();
+    var status = $('backup-status');
+    var B = await loadBackupLib();
+    if (status) status.textContent = 'Читаем копию…';
+    var parsed;
+    try { parsed = await B.parse(file); } finally { if (status) status.textContent = ''; }
+    var m = parsed.manifest;
+    backupModal(
+      '<div class="modal-head"><h3>Восстановить копию?</h3><button type="button" class="btn btn-ghost" data-close aria-label="Закрыть">✕</button></div>' +
+      '<p class="muted" style="margin:0 0 6px">' + escapeHtml(file.name) + (m.exportedAt ? ' · от ' + escapeHtml(new Date(m.exportedAt).toLocaleString('ru-RU')) : '') +
+      ' · формат v' + escapeHtml(String(m.formatVersion)) + ' · ' + escapeHtml(m.appVersion || '') + '</p>' + summaryHtml(m.summary) +
+      '<button type="button" class="btn btn-accent btn-block" data-b="replace">Заменить всё на копию</button>' +
+      '<button type="button" class="btn btn-block" data-b="merge" style="margin-top:8px">Объединить с текущими данными</button>' +
+      '<p class="muted" style="font-size:0.78rem;margin:8px 0 0">«Заменить» — телефон станет точной копией. «Объединить» — добавит слова и книги из копии; где прогресс есть в обоих, остаётся более свежий.</p>',
+      function (root, close) {
+        async function run(mode) {
+          if (mode === 'replace' && !window.confirm('Текущие слова, прогресс, книги и настройки будут заменены копией. Продолжить?')) return;
+          root.querySelectorAll('button').forEach(function (b) { b.disabled = true; });
+          try {
+            await B.apply(parsed, mode);
+            close();
+            toast('Копия восстановлена — перезапуск…', 'ok');
+            setTimeout(function () { location.reload(); }, 700);
+          } catch (err) {
+            root.querySelectorAll('button').forEach(function (b) { b.disabled = false; });
+            toast('Ошибка восстановления: ' + err.message, 'error');
+          }
+        }
+        root.querySelector('[data-b="replace"]').addEventListener('click', function () { run('replace'); });
+        root.querySelector('[data-b="merge"]').addEventListener('click', function () { run('merge'); });
+      }
+    );
   }
 
   /* ---- Init ---- */
@@ -2561,11 +2635,16 @@
     $('btn-export').addEventListener('click', function () {
       exportBackup().catch(function (err) { toast(err.message, 'error'); });
     });
-    $('btn-import-backup').addEventListener('click', async function () {
+    $('btn-import-backup').addEventListener('click', function () {
+      var inp = $('backup-file');
+      inp.value = '';
+      inp.click();
+    });
+    $('backup-file').addEventListener('change', async function () {
       var f = $('backup-file').files[0];
-      if (!f) { toast('Выберите файл', 'error'); return; }
+      if (!f) return;
       try { await importBackup(f); }
-      catch (err) { toast('Ошибка импорта: ' + err.message, 'error'); }
+      catch (err) { toast('Ошибка: ' + err.message, 'error'); }
     });
 
     $('btn-reset-onboard').addEventListener('click', function () {

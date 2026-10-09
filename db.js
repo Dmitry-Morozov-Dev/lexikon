@@ -425,6 +425,7 @@
     PART_WORDS: PART_WORDS,
     exportAll: exportAll,
     importAll: importAll,
+    DB_VERSION: DB_VERSION,
     clearAll: clearAll,
     dayKey: dayKey
   };

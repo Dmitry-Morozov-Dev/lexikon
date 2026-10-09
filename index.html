@@ -211,10 +211,11 @@
       </div>
       <div class="panel">
         <h3>Резервная копия</h3>
-        <p class="muted">Экспорт/импорт всего прогресса из IndexedDB. На iPhone данные могут пропасть — делайте бэкап.</p>
-        <button type="button" id="btn-export" class="btn btn-block" style="margin-bottom:8px">Экспорт JSON</button>
-        <input type="file" id="backup-file" accept="application/json,.json" />
-        <button type="button" id="btn-import-backup" class="btn btn-block" style="margin-top:8px">Импорт JSON</button>
+        <p class="muted">Один файл .zip со всем: прогресс и история повторений, свои слова, колоды книг с контекстами, трудные слова и подсказки, книги целиком (текст, обложки, позиция, закладки), настройки приложения и читалки, выбор колод. На другом телефоне восстановится 1:1. На iPhone данные могут пропасть — делайте копию.</p>
+        <button type="button" id="btn-export" class="btn btn-block btn-accent" style="margin-bottom:8px">Сохранить копию (.zip)</button>
+        <input type="file" id="backup-file" class="visually-hidden" accept=".zip,.json,application/zip,application/json" />
+        <button type="button" id="btn-import-backup" class="btn btn-block">Восстановить из копии…</button>
+        <p class="muted backup-status" id="backup-status"></p>
       </div>
       <div class="panel">
         <h3>Данные колод</h3>

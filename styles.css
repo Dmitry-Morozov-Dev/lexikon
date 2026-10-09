@@ -407,6 +407,12 @@ mark.ctx-hl {
 .cov-add { min-height: 26px; min-width: 26px; padding: 0; line-height: 26px; flex: none; border: 0; background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); width: 26px; height: 26px; border-radius: 50%; font-size: 0.95rem; cursor: pointer; }
 .cov-add.done { background: color-mix(in srgb, var(--success) 22%, transparent); color: var(--success); }
 
+/* Резервная копия */
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.backup-sum { margin: 6px 0 12px; padding-left: 18px; font-size: 0.88rem; line-height: 1.5; }
+.backup-status:empty { display: none; }
+.backup-status { margin: 8px 0 0; font-size: 0.82rem; }
+
 /* Трудные слова */
 .leech-badge {
   display: inline-block; margin: 0 0 12px 6px; padding: 4px 10px; border-radius: 999px;
