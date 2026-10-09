@@ -338,6 +338,58 @@ a { color: var(--accent); }
   margin-bottom: 12px;
 }
 
+/* Пропуск-подсказка на лицевой (слово уже уходило влево) */
+.card-cloze {
+  margin: 4px auto 12px;
+  max-width: 34em;
+  font-family: var(--font-word);
+  font-size: 1.02rem;
+  line-height: 1.5;
+  color: color-mix(in srgb, var(--text) 82%, var(--muted));
+  text-align: center;
+}
+.card-cloze .cloze-gap {
+  display: inline-block;
+  width: calc(var(--len, 5) * 0.55em);
+  min-width: 2.2em;
+  height: 1em;
+  border-bottom: 2px solid var(--accent);
+  vertical-align: -0.18em;
+  margin: 0 2px;
+}
+.card-cloze.filled { text-align: left; }
+.card-cloze .cloze-ru,
+.card-cloze .cloze-src {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.card-cloze .cloze-src { font-size: 0.78rem; font-style: italic; margin-top: 2px; }
+mark.ctx-hl {
+  background: color-mix(in srgb, var(--accent) 26%, transparent);
+  color: inherit;
+  border-radius: 4px;
+  padding: 0 2px;
+  font-weight: 600;
+}
+/* Контекст из книг в «Показать» */
+.card-context {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--border));
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.ctx-head { font-size: 0.78rem; font-weight: 600; color: var(--accent); letter-spacing: 0.02em; }
+.ctx-en { font-family: var(--font-word); font-size: 0.98rem; line-height: 1.45; }
+.ctx-ru { font-size: 0.85rem; line-height: 1.35; color: var(--muted); margin-top: 2px; }
+.ctx-src { font-size: 0.75rem; color: var(--muted); font-style: italic; margin-top: 2px; }
+
 .card-reveal {
   text-align: left;
   margin-top: 8px;

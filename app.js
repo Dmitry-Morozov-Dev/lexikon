@@ -52,7 +52,9 @@
     streamUnknown: 0,
     streamKnown: 0,
     streamDue: 0,
-    pauseNew: false
+    pauseNew: false,
+    contextIndex: {},   // лемма/форма → [{en, ru, bookTitle, docId, cardId}] — предложения из книг
+    cloze: null         // {ctx, match} — пропуск на лицевой текущей карточки
   };
 
   /** После long-press не срабатывать click→reveal. */
@@ -229,7 +231,10 @@
   function renderExamples(card) {
     var host = els.cardExamples;
     host.innerHTML = '';
-    var list = collectExamples(card);
+    var skip = {};
+    cardContexts(card).forEach(function (x) { skip[x.en] = true; });
+    if (state.cloze && state.current === card) skip[state.cloze.ctx.en] = true;
+    var list = collectExamples(card).filter(function (x) { return !skip[x.en]; });
     if (!list.length) {
       host.classList.add('hidden');
       return;
@@ -353,7 +358,9 @@
     if (state.current !== card) return;
 
     var isRepeat = !!(prog && (LexSRS.isLearning(prog) || prog.state === 'review'));
-    state.reversePrompt = isRepeat && Math.random() < REVERSE_REVIEW_CHANCE;
+    var forceRev = null;
+    try { forceRev = localStorage.getItem('lexikon-test-reverse'); } catch (e) { /* ignore */ }
+    state.reversePrompt = isRepeat && (forceRev === '1' ? true : forceRev === '0' ? false : Math.random() < REVERSE_REVIEW_CHANCE);
     node.classList.toggle('reverse-prompt', !!state.reversePrompt);
 
     if (state.reversePrompt) {
@@ -373,6 +380,18 @@
     els.btnReveal.classList.remove('hidden');
     if (els.cardScroll) els.cardScroll.scrollTop = 0;
     els.cardTr.textContent = card.tr || '';
+    // Пропуск на лицевой: слово уже уходило влево (lapses > 0) — предложение-источник с «＿＿＿»
+    var ctxs = bookContextsFor(card);
+    state.cloze = null;
+    if (prog && (prog.lapses || 0) > 0 && !LexSRS.isKnown(prog)) state.cloze = pickClozeSource(card, ctxs);
+    if (state.cloze) {
+      els.cardCloze.innerHTML = clozeHtml(state.cloze.ctx.en, state.cloze.match);
+      els.cardCloze.classList.remove('hidden', 'filled');
+    } else {
+      els.cardCloze.innerHTML = '';
+      els.cardCloze.classList.add('hidden');
+    }
+    renderContextBlock(card, ctxs, state.cloze ? state.cloze.ctx.en : null);
     renderExamples(card);
     renderCollocs(card);
     renderMeta(card);
@@ -402,6 +421,13 @@
       els.cardTr.textContent = card.tr || '';
       updateSpeakBtn(card.word);
       els.card.classList.remove('reverse-prompt');
+    }
+    if (state.cloze) {
+      var cz = state.cloze;
+      els.cardCloze.innerHTML = highlightHtml(cz.ctx.en, cz.match) +
+        (cz.ctx.ru ? '<span class="cloze-ru">' + escapeHtml(cz.ctx.ru) + '</span>' : '') +
+        (cz.ctx.bookTitle ? '<span class="cloze-src">— ' + escapeHtml(cz.ctx.bookTitle) + '</span>' : '');
+      els.cardCloze.classList.add('filled');
     }
     els.reveal.classList.remove('hidden');
     els.gradeRow.classList.remove('hidden');
@@ -471,6 +497,7 @@
     docs.forEach(function (d) {
       partMap[d.id] = d.participate !== false;
     });
+    buildContextIndex(all);
     state.ownCards = all.filter(function (c) {
       if (c.source === 'own' || c.source === 'csv' || !c.source) return true;
       if (c.source === 'pdf') {
@@ -479,6 +506,131 @@
       return false;
     });
     return state.ownCards;
+  }
+
+  /* ---- Контекст из книг ---- */
+
+  function cardContexts(c) {
+    if (!c) return [];
+    if (Array.isArray(c.contexts) && c.contexts.length) {
+      return c.contexts.filter(function (x) { return x && x.en; }).map(function (x) {
+        return { en: x.en, ru: x.ru || '', bookTitle: x.bookTitle || c.bookTitle || '', docId: x.docId || c.docId || '', cardId: c.id };
+      });
+    }
+    if (c.contextSentence && (c.source === 'pdf' || c.bookTitle || /^из «/.test(c.note || ''))) {
+      var title = c.bookTitle || ((c.note || '').match(/^из «(.+)»/) || [])[1] || '';
+      return [{ en: c.contextSentence, ru: c.contextSentenceRu || '', bookTitle: title, docId: c.docId || '', cardId: c.id }];
+    }
+    return [];
+  }
+
+  function contextKeys(c) {
+    var L = globalThis.LexLemma;
+    var keys = {};
+    [c.lemma, c.word].forEach(function (w) {
+      if (!w) return;
+      var n = L ? L.norm(w) : String(w).toLowerCase();
+      if (n) keys[n] = true;
+    });
+    return Object.keys(keys);
+  }
+
+  function indexCardContexts(c) {
+    var ctxs = cardContexts(c);
+    if (!ctxs.length) return;
+    contextKeys(c).forEach(function (k) {
+      var list = state.contextIndex[k] || (state.contextIndex[k] = []);
+      ctxs.forEach(function (x) {
+        if (!list.some(function (y) { return y.en === x.en; })) list.push(x);
+      });
+    });
+  }
+
+  function buildContextIndex(allCards) {
+    state.contextIndex = {};
+    (allCards || []).forEach(indexCardContexts);
+  }
+
+  /** Все предложения из книг для слова карточки: свои — первыми, затем из других книг. */
+  function bookContextsFor(card) {
+    if (!card) return [];
+    var L = globalThis.LexLemma;
+    var out = cardContexts(card).slice();
+    var keys = contextKeys(card);
+    if (L) {
+      // «considered» на карточке книги ↔ «consider» в колоде
+      [card.lemma, card.word].forEach(function (w) {
+        if (w && !/\s/.test(w)) L.candidates(w).forEach(function (k) { if (keys.indexOf(k) < 0) keys.push(k); });
+      });
+    }
+    keys.forEach(function (k) {
+      (state.contextIndex[k] || []).forEach(function (x) {
+        if (!out.some(function (y) { return y.en === x.en; })) out.push(x);
+      });
+    });
+    return out.slice(0, 6);
+  }
+
+  function findWordIn(sentence, card) {
+    var L = globalThis.LexLemma;
+    if (!L || !sentence) return null;
+    var targets = [card.word, card.lemma].filter(Boolean);
+    for (var i = 0; i < targets.length; i++) {
+      var m = L.findInText(sentence, targets[i]);
+      if (m) return m;
+    }
+    return null;
+  }
+
+  function highlightHtml(sentence, match) {
+    if (!match) return escapeHtml(sentence);
+    return escapeHtml(sentence.slice(0, match.start)) +
+      '<mark class="ctx-hl">' + escapeHtml(sentence.slice(match.start, match.end)) + '</mark>' +
+      escapeHtml(sentence.slice(match.end));
+  }
+
+  function clozeHtml(sentence, match) {
+    var len = Math.max(3, Math.min(14, match.end - match.start));
+    return escapeHtml(sentence.slice(0, match.start)) +
+      '<span class="cloze-gap" style="--len:' + len + '" aria-label="пропуск"></span>' +
+      escapeHtml(sentence.slice(match.end));
+  }
+
+  /** Источник для пропуска: предложение из книги, иначе пример колоды, где нашлась форма слова. */
+  function pickClozeSource(card, ctxs) {
+    var i, m;
+    for (i = 0; i < ctxs.length; i++) {
+      m = findWordIn(ctxs[i].en, card);
+      if (m) return { ctx: ctxs[i], match: m, fromBook: true };
+    }
+    var ex = collectExamples(card);
+    for (i = 0; i < ex.length; i++) {
+      m = findWordIn(ex[i].en, card);
+      if (m) return { ctx: { en: ex[i].en, ru: ex[i].ru, bookTitle: '' }, match: m, fromBook: false };
+    }
+    return null;
+  }
+
+  function renderContextBlock(card, ctxs, skipEn) {
+    var host = els.cardContext;
+    if (!host) return;
+    host.innerHTML = '';
+    var list = ctxs.filter(function (x) { return x.en !== skipEn; });
+    if (!list.length) { host.classList.add('hidden'); return; }
+    host.classList.remove('hidden');
+    var head = document.createElement('div');
+    head.className = 'ctx-head';
+    head.textContent = list.length > 1 ? '📖 Из книг' : '📖 Из книги';
+    host.appendChild(head);
+    list.forEach(function (x) {
+      var item = document.createElement('div');
+      item.className = 'ctx-item';
+      item.innerHTML =
+        '<div class="ctx-en">' + highlightHtml(x.en, findWordIn(x.en, card)) + '</div>' +
+        (x.ru ? '<div class="ctx-ru">' + escapeHtml(x.ru) + '</div>' : '') +
+        (x.bookTitle ? '<div class="ctx-src">— ' + escapeHtml(x.bookTitle) + '</div>' : '');
+      host.appendChild(item);
+    });
   }
 
   function lemmaCandidates(surface) {
@@ -545,6 +697,7 @@
   }
 
   async function upsertOwnCardState(card) {
+    indexCardContexts(card);
     var idx = state.ownCards.findIndex(function (c) { return c.id === card.id; });
     if (card.source === 'pdf') {
       var doc = card.docId ? await LexDB.getDocument(card.docId) : null;
@@ -1968,6 +2121,8 @@
       cardIpa: $('card-ipa'),
       cardPos: $('card-pos'),
       cardTr: $('card-tr'),
+      cardCloze: $('card-cloze'),
+      cardContext: $('card-context'),
       cardExamples: $('card-examples'),
       cardColloc: $('card-colloc'),
       cardMeta: $('card-meta'),

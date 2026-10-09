@@ -315,6 +315,19 @@
       examples = examples.slice(0, 6);
     }
     var primary = examples[0] || { en: sentence, ru: trInfo.sentenceRu || '' };
+    // Все места, где слово встретилось в этой книге (новое — первым), до 8
+    var contexts = [];
+    if (existing && Array.isArray(existing.contexts)) contexts = existing.contexts.slice();
+    else if (existing && existing.contextSentence) {
+      contexts = [{ en: existing.contextSentence, ru: existing.contextSentenceRu || '', docId: docId,
+        bookTitle: existing.bookTitle || (book ? book.title : ''), at: existing.createdAt || Date.now() }];
+    }
+    if (sentence) {
+      contexts = contexts.filter(function (c) { return c && c.en !== sentence; });
+      contexts.unshift({ en: sentence, ru: trInfo.sentenceRu || '', docId: docId, bookTitle: book ? book.title : '',
+        ch: opts.ch != null ? opts.ch : null, para: opts.para != null ? opts.para : null, at: Date.now() });
+    }
+    contexts = contexts.slice(0, 8);
     var card = {
       id: cardId,
       word: surface,
@@ -340,6 +353,7 @@
       deckId: 'pdf:' + docId,
       docId: docId,
       bookTitle: book ? book.title : '',
+      contexts: contexts,
       contextSentence: sentence,
       contextSentenceRu: trInfo.sentenceRu || (existing && existing.contextSentenceRu) || '',
       updatedAt: Date.now(),
@@ -507,7 +521,8 @@
       if (activeSpan !== span) return;
       var saved = await saveBookCard({
         docId: book.id, surface: surface, lemma: (hit && hit.query) || lemma,
-        sentence: sentence, hit: hit, trInfo: trInfo
+        sentence: sentence, hit: hit, trInfo: trInfo,
+        ch: chIndex, para: pos.para ? +pos.para.getAttribute('data-pi') : null
       });
       if (activeSpan !== span) return;
       var key = normalizeLemma(saved.card.lemma);
