@@ -10,8 +10,7 @@
   var UNDO_KNOWN_KEY = 'lexikon-undo-known';
   var NEW_TODAY_KEY = 'lexikon-new-today';
   var SWIPE_THRESHOLD = 110;
-  var SWIPE_UP_THRESHOLD = 90;
-  var AXIS_LOCK_PX = 12;
+  var AXIS_LOCK_PX = 10;
   var HOLD_DISMISS_MS = 2500;
   var HOLD_MOVE_CANCEL_PX = 12;
   var REVERSE_REVIEW_CHANCE = 0.45;
@@ -312,7 +311,7 @@
 
   /**
    * Показать карточку. Для learning/review иногда (~45%) reverse: RU на лицевой,
-   * EN+IPA после «Показать» / свайп вверх.
+   * EN+IPA после «Показать» / тапа по карточке.
    */
   async function showCard(card) {
     state.current = card;
@@ -351,6 +350,7 @@
     els.reveal.classList.add('hidden');
     els.gradeRow.classList.add('hidden');
     els.btnReveal.classList.remove('hidden');
+    if (els.cardScroll) els.cardScroll.scrollTop = 0;
     els.cardTr.textContent = card.tr || '';
     renderExamples(card);
     renderCollocs(card);
@@ -385,6 +385,27 @@
     els.reveal.classList.remove('hidden');
     els.gradeRow.classList.remove('hidden');
     els.btnReveal.classList.add('hidden');
+    nudgeRevealIntoView();
+  }
+
+  /** После «Показать» плавно подкрутить карточку, чтобы раскрытый блок начал входить в кадр. */
+  function nudgeRevealIntoView() {
+    var sc = els.cardScroll;
+    if (!sc) return;
+    requestAnimationFrame(function () {
+      var view = sc.clientHeight;
+      if (!view || sc.scrollHeight <= view + 4) return; // всё и так помещается
+      var revealTop = els.reveal.getBoundingClientRect().top - sc.getBoundingClientRect().top + sc.scrollTop;
+      // Слово остаётся видно сверху, раскрытый блок — примерно с середины карточки
+      var target = Math.max(0, Math.min(revealTop - view * 0.42, sc.scrollHeight - view));
+      if (target <= sc.scrollTop + 8) return;
+      var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      try {
+        sc.scrollTo({ top: target, behavior: reduce ? 'auto' : 'smooth' });
+      } catch (e) {
+        sc.scrollTop = target;
+      }
+    });
   }
 
   function updateSpeakBtn(word) {
@@ -1567,7 +1588,7 @@
     },
     {
       title: 'Как отвечать',
-      body: 'Сначала вспомните перевод, затем «Показать» или свайп вверх. Вправо — знаю, влево — снова. Удержание ~2.5 с — убрать из ленты (↩ отмена). На повторах иногда сначала русский.'
+      body: 'Сначала вспомните перевод, затем нажмите «Показать» (или тапните по карточке). Карточку можно листать пальцем вверх/вниз. Вправо — знаю, влево — снова. Удержание ~2.5 с — убрать из ленты (↩ отмена). На повторах иногда сначала русский.'
     },
     {
       title: 'На iPhone',
@@ -1620,7 +1641,7 @@
     }
   }
 
-  /* ---- Swipe / hold / swipe-up ---- */
+  /* ---- Swipe (влево/вправо) / hold; вертикаль — нативный скролл карточки ---- */
   function setupSwipe() {
     var card = els.card;
     var startX = 0, startY = 0, dx = 0, dy = 0, active = false;
@@ -1629,6 +1650,7 @@
     var holdPulseTimer = null;
     var holdFired = false;
     var movedFar = false;
+    var viaMouse = false;
 
     function clearHoldTimers() {
       if (holdTimer) { clearTimeout(holdTimer); holdTimer = null; }
@@ -1643,11 +1665,11 @@
       // Мягкая подсветка через ~1 с удержания
       holdPulseTimer = setTimeout(function () {
         holdPulseTimer = null;
-        if (active && !movedFar && !holdFired) card.classList.add('holding');
+        if (active && !movedFar && !holdFired && !axis) card.classList.add('holding');
       }, 900);
       holdTimer = setTimeout(function () {
         holdTimer = null;
-        if (!active || movedFar || holdFired || state.gradingBusy) return;
+        if (!active || movedFar || holdFired || axis || state.gradingBusy) return;
         if (Math.abs(dx) > HOLD_MOVE_CANCEL_PX || Math.abs(dy) > HOLD_MOVE_CANCEL_PX) return;
         holdFired = true;
         active = false;
@@ -1659,15 +1681,15 @@
       }, HOLD_DISMISS_MS);
     }
 
-    function onStart(x, y) {
+    function onStart(x, y, mouse) {
       if (!state.current || state.gradingBusy) return;
-      // Не начинать жест с кнопок/ссылок на карточке
       active = true;
+      viaMouse = !!mouse;
       axis = null;
       holdFired = false;
       movedFar = false;
       startX = x; startY = y; dx = 0; dy = 0;
-      card.classList.add('dragging');
+      // 'dragging' (без transition) — только после фиксации горизонтали
       armHold();
     }
 
@@ -1676,6 +1698,14 @@
       card.style.transform = '';
       card.style.opacity = '';
       card.style.removeProperty('--swipe-tint');
+    }
+
+    /** Вертикаль: отдаём жест браузеру (скролл), карточку не трогаем. */
+    function releaseToScroll() {
+      active = false;
+      clearHoldTimers();
+      card.classList.remove('dragging');
+      clearSwipeTint();
     }
 
     function onMove(x, y, ev) {
@@ -1690,43 +1720,41 @@
 
       if (!axis) {
         if (Math.abs(dx) < AXIS_LOCK_PX && Math.abs(dy) < AXIS_LOCK_PX) return;
-        axis = Math.abs(dx) >= Math.abs(dy) ? 'h' : 'v';
-      }
-
-      if (axis === 'h') {
-        if (ev && ev.cancelable) ev.preventDefault();
-        var rot = dx / 28;
-        card.style.transform = 'translateX(' + dx + 'px) rotate(' + rot + 'deg)';
-        card.style.opacity = String(Math.max(0.55, 1 - Math.abs(dx) / 520));
-        var strength = Math.min(1, Math.abs(dx) / SWIPE_THRESHOLD);
-        if (dx > 24) {
-          card.classList.add('tint-know');
-          card.classList.remove('tint-again');
-          card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
-        } else if (dx < -24) {
-          card.classList.add('tint-again');
-          card.classList.remove('tint-know');
-          card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
-        } else {
-          card.classList.remove('tint-know', 'tint-again');
-          card.style.removeProperty('--swipe-tint');
+        axis = Math.abs(dx) > Math.abs(dy) ? 'h' : 'v';
+        clearHoldTimers();
+        if (axis === 'v') {
+          // Без preventDefault — нативная прокрутка карточки/страницы
+          releaseToScroll();
+          return;
         }
-        return;
+        card.classList.add('dragging');
       }
 
-      // vertical: вверх = reveal (если ещё не показано); вниз — сброс
-      if (dy < 0 && !state.revealed) {
-        if (ev && ev.cancelable) ev.preventDefault();
-        var lift = Math.min(36, -dy * 0.4);
-        card.style.transform = 'translateY(' + (-lift) + 'px) scale(' + (1 + lift / 900) + ')';
-        card.style.opacity = String(Math.max(0.82, 1 + dy / 500));
+      if (axis !== 'h') return;
+      if (ev && ev.cancelable) ev.preventDefault();
+      var rot = dx / 28;
+      card.style.transform = 'translateX(' + dx + 'px) rotate(' + rot + 'deg)';
+      card.style.opacity = String(Math.max(0.55, 1 - Math.abs(dx) / 520));
+      var strength = Math.min(1, Math.abs(dx) / SWIPE_THRESHOLD);
+      if (dx > 24) {
+        card.classList.add('tint-know');
+        card.classList.remove('tint-again');
+        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+      } else if (dx < -24) {
+        card.classList.add('tint-again');
+        card.classList.remove('tint-know');
+        card.style.setProperty('--swipe-tint', String(0.12 + 0.28 * strength));
+      } else {
         card.classList.remove('tint-know', 'tint-again');
         card.style.removeProperty('--swipe-tint');
-      } else if (dy > 0) {
-        // лёгкий сдвиг вниз без конфликта со скроллом страницы
-        card.style.transform = '';
-        card.style.opacity = '';
       }
+    }
+
+    /** Мышь: после перетаскивания браузер шлёт click — не раскрывать карточку случайно. */
+    function suppressClickAfterMouseDrag() {
+      if (!viaMouse || !movedFar) return;
+      suppressCardClick = true;
+      setTimeout(function () { suppressCardClick = false; }, 60);
     }
 
     function onEnd() {
@@ -1734,10 +1762,17 @@
         active = false;
         return;
       }
-      if (!active) return;
+      if (!active) {
+        // вертикальный mouse-drag уже отпущен в releaseToScroll
+        suppressClickAfterMouseDrag();
+        viaMouse = false;
+        return;
+      }
       active = false;
       clearHoldTimers();
       card.classList.remove('dragging');
+      suppressClickAfterMouseDrag();
+      viaMouse = false;
 
       if (axis === 'h') {
         if (dx > SWIPE_THRESHOLD) {
@@ -1749,50 +1784,51 @@
         }
         return;
       }
-
-      if (axis === 'v') {
-        if (dy < -SWIPE_UP_THRESHOLD && !state.revealed) {
-          clearSwipeTint();
-          revealCard();
-        } else {
-          clearSwipeTint();
-        }
-        return;
-      }
-
       clearSwipeTint();
     }
 
     function onCancel() {
       if (holdFired) return;
       active = false;
+      viaMouse = false;
       clearHoldTimers();
       card.classList.remove('dragging');
       clearSwipeTint();
     }
 
     card.addEventListener('touchstart', function (e) {
-      if (e.touches.length !== 1) return;
+      if (e.touches.length !== 1) { onCancel(); return; }
       if (e.target && e.target.closest && e.target.closest('button, a')) return;
-      onStart(e.touches[0].clientX, e.touches[0].clientY);
+      onStart(e.touches[0].clientX, e.touches[0].clientY, false);
     }, { passive: true });
+    // passive:false нужен только чтобы гасить горизонталь; вертикаль не трогаем (axis 'v' → active=false)
     card.addEventListener('touchmove', function (e) {
       if (!active || e.touches.length !== 1) return;
       onMove(e.touches[0].clientX, e.touches[0].clientY, e);
     }, { passive: false });
     card.addEventListener('touchend', onEnd);
     card.addEventListener('touchcancel', onCancel);
+    // Если карточка прокрутилась (инерция/нативный скролл) — удержание не считается
+    if (els.cardScroll) {
+      els.cardScroll.addEventListener('scroll', function () {
+        if (active && !axis) { movedFar = true; clearHoldTimers(); }
+      }, { passive: true });
+    }
 
-    // mouse fallback (десктоп / отладка)
+    // mouse fallback (десктоп / отладка): горизонтальный drag = свайп.
+    // Нативный drag картинки глушил mousemove — отключаем.
+    card.addEventListener('dragstart', function (e) { e.preventDefault(); });
     card.addEventListener('mousedown', function (e) {
       if (e.button !== 0) return;
       if (e.target && e.target.closest && e.target.closest('button, a')) return;
-      onStart(e.clientX, e.clientY);
+      onStart(e.clientX, e.clientY, true);
     });
     window.addEventListener('mousemove', function (e) {
-      if (active) onMove(e.clientX, e.clientY, null);
+      if (active && viaMouse) onMove(e.clientX, e.clientY, null);
     });
-    window.addEventListener('mouseup', onEnd);
+    window.addEventListener('mouseup', function () {
+      if (viaMouse) onEnd();
+    });
   }
 
   /* ---- Backup ---- */
@@ -1842,6 +1878,7 @@
       cardNote: $('card-note'),
       cardLinks: $('card-links'),
       reveal: $('card-reveal'),
+      cardScroll: $('card-scroll'),
       btnReveal: $('btn-reveal'),
       btnSpeak: $('btn-speak'),
       btnEdit: $('btn-edit-card'),

@@ -20,6 +20,8 @@
   --font-ui: system-ui, "SF Pro Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-word: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
   --tap: 48px;
+  /* Высота карточки: экран минус шапка, мета, кнопки оценки и нижняя навигация */
+  --card-max-h: max(300px, calc(100vh - var(--safe-t) - var(--safe-b) - 280px));
   color-scheme: dark;
 }
 
@@ -163,7 +165,7 @@ a { color: var(--accent); }
 
 .card-stage {
   perspective: 900px;
-  min-height: 420px;
+  min-height: min(420px, var(--card-max-h));
 }
 
 .vocab-card {
@@ -174,10 +176,30 @@ a { color: var(--accent); }
   overflow: hidden;
   position: relative;
   transition: transform 250ms ease, opacity 250ms ease, box-shadow 250ms ease;
-  touch-action: none;
+  /* Вертикаль — нативный скролл браузера, горизонталь — свайп в JS */
+  touch-action: pan-y;
   will-change: transform;
   user-select: none;
   -webkit-user-select: none;
+  display: flex;
+  flex-direction: column;
+  max-height: var(--card-max-h);
+}
+@supports (height: 100dvh) {
+  :root { --card-max-h: max(300px, calc(100dvh - var(--safe-t) - var(--safe-b) - 280px)); }
+}
+
+/* Прокручиваемое содержимое карточки: палец в любом месте листает вверх/вниз */
+.card-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+  border-radius: inherit;
+  scrollbar-width: thin;
 }
 
 .vocab-card.swipe-right { transform: translateX(120%) rotate(8deg); opacity: 0; }
