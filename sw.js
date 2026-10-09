@@ -1,6 +1,8 @@
 /* Service Worker «Лексикон» — кэширует оболочку и уже загруженные JSON. Картинки не прекэшируем. */
-var CACHE_SHELL = 'lexikon-shell-v11';
+var CACHE_SHELL = 'lexikon-shell-v12';
 var CACHE_DATA = 'lexikon-data-v19';
+// Библиотеки (pdf.js, JSZip) — отдельный кэш: тяжёлые, меняются редко, не перекачиваем при каждой версии оболочки
+var CACHE_LIB = 'lexikon-lib-v1';
 
 var SHELL_URLS = [
   './',
@@ -9,7 +11,10 @@ var SHELL_URLS = [
   './app.js',
   './db.js',
   './srs.js',
-  './reader.js',
+  './books/common.js',
+  './books/reader.js',
+  './books/library.js',
+  './books/parsers.js',
   './manifest.webmanifest',
   './decks.json',
   './icons/app.svg',
@@ -36,7 +41,7 @@ self.addEventListener('activate', function (event) {
   event.waitUntil(
     caches.keys().then(function (keys) {
       return Promise.all(keys.map(function (k) {
-        if (k !== CACHE_SHELL && k !== CACHE_DATA) return caches.delete(k);
+        if (k !== CACHE_SHELL && k !== CACHE_DATA && k !== CACHE_LIB) return caches.delete(k);
       }));
     }).then(function () { return self.clients.claim(); })
   );
@@ -44,6 +49,10 @@ self.addEventListener('activate', function (event) {
 
 function isDataJson(url) {
   return /\/data\/[^/]+\.json(\?|$)/.test(url.pathname) || url.pathname.endsWith('/decks.json');
+}
+
+function isLib(url) {
+  return /\/lib\//.test(url.pathname);
 }
 
 function isConceptSvg(url) {
@@ -72,6 +81,22 @@ self.addEventListener('fetch', function (event) {
           return res;
         }).catch(function () {
           return cache.match(req);
+        });
+      })
+    );
+    return;
+  }
+
+  // lib/: cache-first (pdf.js, JSZip) — после первой загрузки импорт работает офлайн
+  if (isLib(url)) {
+    event.respondWith(
+      caches.open(CACHE_LIB).then(function (cache) {
+        return cache.match(req).then(function (cached) {
+          if (cached) return cached;
+          return fetch(req).then(function (res) {
+            if (res && res.ok) cache.put(req, res.clone());
+            return res;
+          });
         });
       })
     );
