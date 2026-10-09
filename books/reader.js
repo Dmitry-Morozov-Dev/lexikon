@@ -333,7 +333,7 @@
       word: surface,
       lemma: lemma,
       ipa: (from && from.ipa) || (existing && existing.ipa) || '',
-      pos: (from && from.pos) || (existing && existing.pos) || 'other',
+      pos: (from && from.pos) || (existing && existing.pos) || (opts.phrase ? 'phrase' : 'other'),
       level: (from && from.level) || (existing && existing.level) || ((opts.bookFormat || (book && book.format)) === 'pdf' ? 'pdf' : 'book'),
       tr: trInfo.tr || (existing && existing.tr) || '—',
       note: trInfo.note || (from && from.note) || (existing && existing.note) || '',
@@ -470,9 +470,22 @@
       escapeHtml(status) + (data.fromLex ? ' · из лексикона' : '') +
       '</div>' +
       '<div class="rw-bubble-links card-links">' + extLinksHtml(data.word, data.lemma) + '</div>' +
+      (data.saved && !data.phrase && data.cardId ? '<button type="button" class="btn btn-ghost rw-bubble-phrase" data-action="phrase">＋ Фраза: коснитесь последнего слова</button>' : '') +
       delBtn +
       '</div>';
     positionBubble(data.anchor);
+    var phBtn = el.querySelector('[data-action="phrase"]');
+    if (phBtn) {
+      phBtn.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var anchor = data.anchor;
+        extendMode = { anchor: anchor, saved: lastWordSave && lastWordSave.span === anchor ? lastWordSave : null };
+        el.classList.add('hidden');
+        anchor.classList.add('rw-sel');
+        toast('Коснитесь последнего слова фразы', 'ok');
+      });
+    }
     var del = el.querySelector('[data-action="delete"]');
     if (del) {
       del.addEventListener('click', async function (e) {
@@ -508,10 +521,18 @@
       if (lem) set[lem] = c.id;
       if (w) set[w] = c.id;
     });
-    savedSet = set;
+    savedSet = {};
+    cards.forEach(function (c) {
+      if (/\s/.test(String(c.word || '').trim())) return;   // фразы — отдельно
+      var lem = normalizeLemma(c.lemma || c.word || '');
+      var w = normalizeLemma(c.word || '');
+      if (lem) savedSet[lem] = c.id;
+      if (w) savedSet[w] = c.id;
+    });
     body.querySelectorAll('.rw').forEach(function (span) {
       span.classList.toggle('rw-saved', !!savedCardIdFor(span));
     });
+    markPhrases(cards);
     if (b) { /* no-op: bridge used in savedCardIdFor */ }
   }
 
@@ -553,7 +574,9 @@
         sentence: sentence, hit: hit, trInfo: trInfo,
         ch: chIndex, para: pos.para ? +pos.para.getAttribute('data-pi') : null
       });
-      if (activeSpan !== span) return;
+      lastWordSave = { span: span, cardId: saved.card.id, createdNew: !saved.already, at: Date.now() };
+      if (phraseDrag && phraseDrag.anchor === span) phraseDrag.saved = lastWordSave;
+      if (activeSpan !== span || (phraseDrag && phraseDrag.anchor === span && phraseDrag.spans.length > 1)) return;
       var key = normalizeLemma(saved.card.lemma);
       savedSet[key] = saved.card.id;
       savedSet[normalizeLemma(surface)] = saved.card.id;
@@ -634,12 +657,218 @@
         if (!holdState || holdState.span !== span) return;
         holdState.timer = null;
         holdState.fired = true;
-        onWordHold(span);
+        cancelExtend();
+        phraseDrag = { anchor: span, spans: [span], saved: null };
+        phraseDrag.savePromise = onWordHold(span);
       }, HOLD_MS)
     };
   }
 
+  /* ---- Фразы: удержание + протягивание / «＋ Фраза» + тап ---- */
+
+  var PHRASE_MAX = 8;
+  var phraseDrag = null;     // {anchor, spans, saved}
+  var extendMode = null;     // {anchor, saved}
+  var lastWordSave = null;   // {span, cardId, createdNew}
+
+  function paraSpans(p) { return Array.prototype.slice.call(p.querySelectorAll('.rw')); }
+
+  /** Слова от a до b (в одном абзаце, по порядку), не больше PHRASE_MAX. */
+  function phraseRange(a, b) {
+    var pa = a.closest('.reader-p'), pb = b.closest('.reader-p');
+    if (!pa || pa !== pb) return null;
+    var list = paraSpans(pa);
+    var i = list.indexOf(a), j = list.indexOf(b);
+    if (i < 0 || j < 0) return null;
+    if (i > j) { var t = i; i = j; j = t; }
+    if (j - i + 1 > PHRASE_MAX) {
+      if (list.indexOf(a) <= list.indexOf(b)) j = i + PHRASE_MAX - 1; else i = j - PHRASE_MAX + 1;
+    }
+    return list.slice(i, j + 1);
+  }
+
+  function paintSelection(spans) {
+    var body = $('reader-body');
+    if (body) body.querySelectorAll('.rw-sel').forEach(function (s) { s.classList.remove('rw-sel'); });
+    (spans || []).forEach(function (s) { s.classList.add('rw-sel'); });
+  }
+
+  function cancelExtend() {
+    extendMode = null;
+    paintSelection([]);
+  }
+
+  function dragTo(x, y) {
+    if (!phraseDrag) return;
+    var el = document.elementFromPoint(x, y);
+    var sp = el && el.closest ? el.closest('#reader-body .rw') : null;
+    if (!sp) return;
+    var r = phraseRange(phraseDrag.anchor, sp);
+    if (!r) return;
+    phraseDrag.spans = r;
+    paintSelection(r);
+    if (r.length > 1 && bubbleEl) bubbleEl.classList.add('hidden');
+  }
+
+  function endDrag() {
+    var d = phraseDrag;
+    phraseDrag = null;
+    if (!d) return;
+    if (d.spans.length > 1) finalizePhrase(d.spans, d.saved, d);
+    else paintSelection([]);
+  }
+
+  function phraseTextOf(spans) {
+    var p = spans[0].closest('.reader-p');
+    var range = document.createRange();
+    range.setStartBefore(spans[0]);
+    range.setEndAfter(spans[spans.length - 1]);
+    var text = range.toString().replace(/\s+/g, ' ').trim();
+    var pos = spanOffsetInParagraph(spans[0]);
+    return { text: text, paraText: pos.text, offset: pos.offset, para: p };
+  }
+
+  var multiCache = null;
+  /** Фраза в колодах (phrasal/idioms/colloc…) с учётом форм: «gave up» → «give up». */
+  function lookupPhrase(phrase) {
+    var b = bridge();
+    if (!b || typeof b.allCards !== 'function' || !global.LexLemma) return null;
+    if (!multiCache) {
+      multiCache = b.allCards().filter(function (c) { return c && c.word && /\s/.test(String(c.word).trim()) && c.source !== 'pdf'; });
+    }
+    var L = global.LexLemma;
+    var plen = phrase.length;
+    var best = null;
+    for (var i = 0; i < multiCache.length; i++) {
+      var c = multiCache[i];
+      var m = L.findInText(phrase, c.word);
+      if (!m) continue;
+      // фраза должна почти целиком совпасть с выражением колоды
+      var cover = (m.end - m.start) / plen;
+      if (cover < 0.75) continue;
+      if (!best || cover > best.cover) best = { card: c, cover: cover, query: String(c.word).toLowerCase(), match: 'phrase' };
+      if (cover >= 0.999) break;
+    }
+    return best;
+  }
+
+  async function finalizePhrase(spans, wordSave, dragInfo) {
+    if (!book || !spans || spans.length < 2) return;
+    lastHoldAt = Date.now();
+    var info = phraseTextOf(spans);
+    var phrase = info.text.replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9']+$/g, '');
+    if (!phrase) return;
+    paintSelection(spans);
+    var anchor = spans[spans.length - 1];
+    if (activeSpan && activeSpan !== anchor) activeSpan.classList.remove('rw-active');
+    activeSpan = anchor;
+    var sentence = extractSentence(info.paraText, info.offset, phrase.length);
+    renderBubble({ word: phrase, lemma: phrase, tr: '…', sentence: sentence, sentenceRu: '', phrase: true, anchor: anchor, statusText: 'Сохраняем фразу…' });
+    try {
+      // удержание переросло во фразу — только что созданная одиночная карточка не нужна
+      if (dragInfo && dragInfo.savePromise) { try { await dragInfo.savePromise; } catch (e) { /* ignore */ } wordSave = dragInfo.saved || wordSave; }
+      if (wordSave && wordSave.createdNew && wordSave.cardId) {
+        var b = bridge();
+        if (b && typeof b.deleteCard === 'function') await b.deleteCard(wordSave.cardId);
+        else await LexDB.deleteCard(wordSave.cardId);
+        if (wordSave.span) wordSave.span.classList.remove('rw-saved');
+      }
+      var hit = lookupPhrase(phrase);
+      var trInfo = await resolveTranslations(phrase, sentence, hit);
+      var saved = await saveBookCard({
+        docId: book.id, surface: phrase, lemma: hit ? String(hit.card.word).toLowerCase() : phrase.toLowerCase(),
+        sentence: sentence, hit: hit, trInfo: trInfo,
+        ch: chIndex, para: info.para ? +info.para.getAttribute('data-pi') : null, phrase: true
+      });
+      await markSavedWords();
+      paintSelection([]);
+      renderBubble({
+        word: phrase, lemma: saved.card.lemma, tr: saved.card.tr, sentence: sentence,
+        sentenceRu: saved.card.contextSentenceRu || trInfo.sentenceRu || '',
+        already: saved.already, saved: true, phrase: true, fromLex: trInfo.fromLex, note: trInfo.note,
+        cardId: saved.card.id, anchor: anchor,
+        statusText: saved.already ? 'Фраза уже в колоде книги' : 'Фраза добавлена в колоду книги'
+      });
+    } catch (err) {
+      console.error(err);
+      paintSelection([]);
+      toast('Не удалось сохранить фразу: ' + (err && err.message ? err.message : String(err)), 'error');
+      closeBubble();
+    }
+  }
+
+  async function showPhraseBubble(span) {
+    var id = span.getAttribute('data-phrase');
+    var card = id ? await LexDB.getCard(id).catch(function () { return null; }) : null;
+    if (!card) return;
+    var spans = Array.prototype.slice.call($('reader-body').querySelectorAll('.rw-phrase[data-phrase-run="' + span.getAttribute('data-phrase-run') + '"]'));
+    if (activeSpan && activeSpan !== span) activeSpan.classList.remove('rw-active');
+    activeSpan = span;
+    var pos = spanOffsetInParagraph(spans[0] || span);
+    var sentence = extractSentence(pos.text, pos.offset, (card.word || '').length);
+    var ctx = (card.contexts || []).find(function (c) { return c.en === sentence; });
+    renderBubble({
+      word: card.word, lemma: card.lemma, tr: card.tr, sentence: sentence,
+      sentenceRu: ctx ? ctx.ru : (sentence === card.contextSentence ? card.contextSentenceRu : ''),
+      already: true, phrase: true, cardId: card.id, anchor: span, statusText: 'Фраза в колоде книги'
+    });
+  }
+
+  /** Подчеркнуть сохранённые фразы книги в тексте главы. */
+  function markPhrases(cards) {
+    var body = $('reader-body');
+    if (!body || !global.LexLemma) return;
+    body.querySelectorAll('.rw-phrase').forEach(function (s) {
+      s.classList.remove('rw-phrase', 'rw-phrase-start', 'rw-phrase-end');
+      s.removeAttribute('data-phrase');
+      s.removeAttribute('data-phrase-run');
+    });
+    var phrases = cards.filter(function (c) { return c && /\s/.test(String(c.word || '').trim()); });
+    if (!phrases.length) return;
+    var run = 0;
+    body.querySelectorAll('.reader-p').forEach(function (p) {
+      var text = p.textContent || '';
+      var spans = null, offs = null;
+      phrases.forEach(function (c) {
+        var targets = [c.word, c.lemma].filter(Boolean);
+        var from = 0;
+        for (var guard = 0; guard < 6; guard++) {
+          var m = null;
+          for (var t = 0; t < targets.length && !m; t++) m = global.LexLemma.findInText(text.slice(from), targets[t]);
+          if (!m || m.text.indexOf(' ') < 0) break;
+          if (!spans) {
+            spans = paraSpans(p);
+            offs = [];
+            var cur = 0;
+            spans.forEach(function (s) { var k = text.indexOf(s.textContent, cur); offs.push(k); cur = k + s.textContent.length; });
+          }
+          var a = from + m.start, z = from + m.end;
+          run++;
+          var hitSpans = [];
+          for (var i = 0; i < spans.length; i++) if (offs[i] >= a && offs[i] < z) hitSpans.push(spans[i]);
+          hitSpans.forEach(function (s, k) {
+            s.classList.add('rw-phrase');
+            if (k === 0) s.classList.add('rw-phrase-start');
+            if (k === hitSpans.length - 1) s.classList.add('rw-phrase-end');
+            s.setAttribute('data-phrase', c.id);
+            s.setAttribute('data-phrase-run', String(run));
+          });
+          from = z;
+        }
+      });
+    });
+  }
+
+  /** iOS: после срабатывания удержания запрещаем прокрутку, чтобы палец протягивал выделение. */
+  function onTouchMoveReader(e) {
+    if (!phraseDrag || !e.touches || e.touches.length !== 1) return;
+    if (e.cancelable) e.preventDefault();
+    dragTo(e.touches[0].clientX, e.touches[0].clientY);
+  }
+  function onTouchEndReader() { if (phraseDrag) endDrag(); }
+
   function onPointerMove(e) {
+    if (phraseDrag && holdState && holdState.fired) { dragTo(e.clientX, e.clientY); return; }
     if (!holdState || holdState.fired) return;
     if (holdState.pointerId != null && e.pointerId !== holdState.pointerId) return;
     if (Math.abs(e.clientX - holdState.startX) > HOLD_MOVE_CANCEL_PX ||
@@ -647,6 +876,7 @@
   }
 
   function onPointerUp(e) {
+    if (phraseDrag && e.pointerType !== 'touch') endDrag();
     if (!holdState) return;
     if (holdState.pointerId != null && e.pointerId !== holdState.pointerId) return;
     if (!holdState.fired) clearHold();
@@ -693,6 +923,22 @@
     if (e.target.closest('button, a, input, label, .rw-bubble, .reader-chapter-end, .reader-bar, .reader-foot')) return;
     var sel = global.getSelection && global.getSelection();
     if (sel && !sel.isCollapsed && String(sel).trim()) return;
+    if (extendMode) {
+      var endSpan = e.target.closest('.rw');
+      var em = extendMode;
+      cancelExtend();
+      if (endSpan && endSpan !== em.anchor) {
+        var r = phraseRange(em.anchor, endSpan);
+        if (r && r.length > 1) { finalizePhrase(r, em.saved); return; }
+      }
+      closeBubble();
+      return;
+    }
+    var phSpan = e.target.closest('.rw.rw-phrase');
+    if (phSpan && !phSpan.classList.contains('rw-saved')) {
+      showPhraseBubble(phSpan);
+      return;
+    }
     var span = e.target.closest('.rw.rw-saved');
     if (span) {
       showSavedBubble(span);
@@ -1278,6 +1524,9 @@
     sc.addEventListener('scroll', onScroll, { passive: true });
     sc.addEventListener('click', onReaderTap);
     sc.addEventListener('pointerdown', onPointerDown, { passive: true });
+    sc.addEventListener('touchmove', onTouchMoveReader, { passive: false });
+    sc.addEventListener('touchend', onTouchEndReader, { passive: true });
+    sc.addEventListener('touchcancel', onTouchEndReader, { passive: true });
     window.addEventListener('pointermove', onPointerMove, { passive: true });
     window.addEventListener('pointerup', onPointerUp, { passive: true });
     window.addEventListener('pointercancel', clearHold, { passive: true });
