@@ -54,7 +54,8 @@
     streamDue: 0,
     pauseNew: false,
     contextIndex: {},   // лемма/форма → [{en, ru, bookTitle, docId, cardId}] — предложения из книг
-    cloze: null         // {ctx, match} — пропуск на лицевой текущей карточки
+    cloze: null,        // {ctx, match} — пропуск на лицевой текущей карточки
+    typing: null        // {result} — режим ввода слова (RU → EN); result после проверки
   };
 
   /** После long-press не срабатывать click→reveal. */
@@ -392,6 +393,14 @@
       els.cardCloze.classList.add('hidden');
     }
     renderContextBlock(card, ctxs, state.cloze ? state.cloze.ctx.en : null);
+    // Ввод слова: обратная сторона + слово уже уходило влево (+ включено в настройках)
+    state.typing = null;
+    resetTypeUi();
+    if (state.reversePrompt && prog && (prog.lapses || 0) > 0 && state.settings.typing !== false && globalThis.LexTyping) {
+      state.typing = { result: null };
+      els.typeBox.classList.remove('hidden');
+      els.btnReveal.classList.add('hidden');
+    }
     renderExamples(card);
     renderCollocs(card);
     renderMeta(card);
@@ -412,7 +421,14 @@
   function revealCard() {
     if (!state.current || state.revealed) return;
     var card = state.current;
+    if (state.typing && !state.typing.result) {
+      // «Показать» без ответа = «Не знаю»
+      submitTyping(true);
+      return;
+    }
     state.revealed = true;
+    if (els.typeBox) els.typeBox.classList.add('hidden');
+    if (document.activeElement === els.typeInput) els.typeInput.blur();
     if (state.reversePrompt) {
       // Лицевая была RU — после показа: EN + IPA, перевод RU внизу
       els.cardWord.textContent = card.word || '';
@@ -432,7 +448,98 @@
     els.reveal.classList.remove('hidden');
     els.gradeRow.classList.remove('hidden');
     els.btnReveal.classList.add('hidden');
+    markSuggestedGrade(state.typing && state.typing.result ? state.typing.result.grade : null);
     nudgeRevealIntoView();
+  }
+
+  /* ---- Ввод слова (RU → EN) ---- */
+
+  function resetTypeUi() {
+    if (!els.typeBox) return;
+    els.typeBox.classList.add('hidden');
+    els.typeInput.value = '';
+    els.typeResult.classList.add('hidden');
+    els.typeResult.innerHTML = '';
+    markSuggestedGrade(null);
+  }
+
+  function markSuggestedGrade(q) {
+    if (!els.gradeRow) return;
+    els.gradeRow.querySelectorAll('.grade-btn').forEach(function (b) {
+      b.classList.toggle('suggested', q != null && parseInt(b.getAttribute('data-q'), 10) === q);
+    });
+  }
+
+  function diffHtml(typed, target) {
+    var parts = LexTyping.diff(typed, target);
+    return parts.map(function (p) {
+      var ch = p.ch === ' ' ? '\u00a0' : p.ch;
+      return '<span class="td-' + p.kind + '">' + escapeHtml(ch) + '</span>';
+    }).join('');
+  }
+
+  function submitTyping(dontKnow) {
+    var card = state.current;
+    if (!card || !state.typing || state.typing.result) return;
+    var typed = dontKnow ? '' : els.typeInput.value;
+    var r = LexTyping.check(typed, card);
+    if (dontKnow) r = { kind: 'skip', grade: 0, target: LexTyping.answersOf(card)[0] || card.word, typed: '' };
+    state.typing.result = r;
+    var labels = {
+      ok: ['✓ Верно', 'ok'], form: ['✓ Верно', 'ok'], almost: ['≈ Почти', 'almost'],
+      wrong: ['✗ Неверно', 'wrong'], empty: ['✗ Нет ответа', 'wrong'], skip: ['Ответ', 'wrong']
+    };
+    var lab = labels[r.kind] || labels.wrong;
+    var gradeName = r.grade === 2 ? '«Хорошо»' : r.grade === 1 ? '«Трудно»' : '«Снова»';
+    var html = '<div class="tr-head tr-' + lab[1] + '">' + lab[0] + (r.note ? ' <small>· ' + escapeHtml(r.note) + '</small>' : '') + '</div>';
+    if (r.typed && r.kind !== 'ok') html += '<div class="tr-diff" aria-label="Ваш ответ">' + diffHtml(r.typed, r.target) + '</div>';
+    html += '<div class="tr-answer">' + escapeHtml(r.target || card.word) + '</div>' +
+      '<button type="button" id="btn-type-next" class="btn btn-accent tr-next">Дальше · ' + gradeName + '</button>' +
+      '<div class="tr-hint muted">или свайп / кнопка оценки, если не согласны</div>';
+    els.typeResult.innerHTML = html;
+    els.typeResult.classList.remove('hidden');
+    var next = $('btn-type-next');
+    if (next) next.addEventListener('click', function (e) { e.stopPropagation(); grade(r.grade); });
+    if (document.activeElement === els.typeInput) els.typeInput.blur();
+    revealCard();
+  }
+
+  function keepTypeInputVisible() {
+    if (!els.typeInput || document.activeElement !== els.typeInput) return;
+    setTimeout(function () {
+      try { els.typeInput.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch (e) { /* ignore */ }
+    }, 60);
+  }
+
+  function setupTyping() {
+    if (!els.typeBox) return;
+    els.typeBox.addEventListener('submit', function (e) {
+      e.preventDefault();
+      submitTyping(false);
+    });
+    els.btnTypeSkip.addEventListener('click', function (e) {
+      e.stopPropagation();
+      submitTyping(true);
+    });
+    els.typeInput.addEventListener('focus', function () {
+      document.body.classList.add('typing-active');
+      keepTypeInputVisible();
+    });
+    els.typeInput.addEventListener('blur', function () {
+      document.body.classList.remove('typing-active');
+    });
+    // клавиатура iOS: visualViewport меняет высоту — держим поле в кадре
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', keepTypeInputVisible);
+    }
+    var setT = $('set-typing');
+    if (setT) {
+      setT.checked = state.settings.typing !== false;
+      setT.addEventListener('change', function () {
+        state.settings.typing = !!setT.checked;
+        saveSettings();
+      });
+    }
   }
 
   /** После «Показать» плавно подкрутить карточку, чтобы раскрытый блок начал входить в кадр. */
@@ -2047,7 +2154,8 @@
 
     card.addEventListener('touchstart', function (e) {
       if (e.touches.length !== 1) { onCancel(); return; }
-      if (e.target && e.target.closest && e.target.closest('button, a')) return;
+      if (e.target && e.target.closest && e.target.closest('button, a, input, textarea, .type-box')) return;
+      if (document.activeElement === els.typeInput) return;   // пока печатаем — без свайпов
       onStart(e.touches[0].clientX, e.touches[0].clientY, false);
     }, { passive: true });
     // passive:false нужен только чтобы гасить горизонталь; вертикаль не трогаем (axis 'v' → active=false)
@@ -2069,7 +2177,8 @@
     card.addEventListener('dragstart', function (e) { e.preventDefault(); });
     card.addEventListener('mousedown', function (e) {
       if (e.button !== 0) return;
-      if (e.target && e.target.closest && e.target.closest('button, a')) return;
+      if (e.target && e.target.closest && e.target.closest('button, a, input, textarea, .type-box')) return;
+      if (document.activeElement === els.typeInput) return;
       onStart(e.clientX, e.clientY, true);
     });
     window.addEventListener('mousemove', function (e) {
@@ -2122,6 +2231,10 @@
       cardPos: $('card-pos'),
       cardTr: $('card-tr'),
       cardCloze: $('card-cloze'),
+      typeBox: $('type-box'),
+      typeInput: $('type-input'),
+      typeResult: $('type-result'),
+      btnTypeSkip: $('btn-type-skip'),
       cardContext: $('card-context'),
       cardExamples: $('card-examples'),
       cardColloc: $('card-colloc'),
@@ -2180,7 +2293,8 @@
 
     els.btnReveal.addEventListener('click', revealCard);
     els.card.addEventListener('click', function (e) {
-      if (e.target.closest('button, a')) return;
+      if (e.target.closest('button, a, input, textarea, form, .type-result')) return;
+      if (state.typing && !state.typing.result) return;
       if (suppressCardClick) {
         suppressCardClick = false;
         return;
@@ -2259,6 +2373,7 @@
     });
 
     setupSwipe();
+    setupTyping();
     setupBookImport();
   }
 

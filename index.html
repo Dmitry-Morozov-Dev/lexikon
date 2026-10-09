@@ -44,6 +44,17 @@
               <p class="card-ipa" id="card-ipa"></p>
               <span class="card-pos" id="card-pos"></span>
               <p class="card-cloze hidden" id="card-cloze"></p>
+              <form id="type-box" class="type-box hidden" autocomplete="off" novalidate>
+                <label class="type-label" for="type-input">Напишите по-английски</label>
+                <div class="type-row">
+                  <input id="type-input" class="type-input" type="text" lang="en" inputmode="text"
+                    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+                    enterkeyhint="done" placeholder="слово…" aria-label="Ответ по-английски" />
+                  <button type="submit" id="btn-type-check" class="btn btn-accent">Проверить</button>
+                </div>
+                <button type="button" id="btn-type-skip" class="btn btn-ghost type-skip">Не знаю</button>
+              </form>
+              <div id="type-result" class="type-result hidden" aria-live="polite"></div>
               <div class="card-actions-top">
                 <button type="button" id="btn-reveal" class="btn btn-accent">Показать</button>
                 <button type="button" id="btn-edit-card" class="btn btn-ghost" title="Править">✎</button>
@@ -186,6 +197,10 @@
             <button type="button" data-theme="light">Светлая</button>
           </div>
         </div>
+        <div class="row">
+          <span>Ввод слова на обратной стороне<br><small class="muted">Для слов, которые уже уходили влево</small></span>
+          <label class="switch"><input type="checkbox" id="set-typing" checked /><span class="slider"></span></label>
+        </div>
       </div>
       <div class="panel">
         <h3>Резервная копия</h3>
@@ -267,6 +282,7 @@
 
   <script defer src="srs.js"></script>
   <script defer src="lemma.js"></script>
+  <script defer src="typing.js"></script>
   <script defer src="db.js"></script>
   <script defer src="app.js"></script>
 </body>

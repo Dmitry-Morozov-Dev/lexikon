@@ -390,6 +390,39 @@ mark.ctx-hl {
 .ctx-ru { font-size: 0.85rem; line-height: 1.35; color: var(--muted); margin-top: 2px; }
 .ctx-src { font-size: 0.75rem; color: var(--muted); font-style: italic; margin-top: 2px; }
 
+/* Ввод слова (RU → EN) */
+.type-box { margin: 6px auto 10px; max-width: 26em; text-align: left; }
+.type-label { display: block; font-size: 0.78rem; color: var(--muted); margin: 0 0 6px 4px; }
+.type-row { display: flex; gap: 8px; align-items: stretch; }
+.type-input {
+  flex: 1; min-width: 0;
+  font: 500 17px/1.2 var(--font-ui);   /* ≥16px — iOS не зумит */
+  color: var(--text);
+  background: color-mix(in srgb, var(--bg) 60%, var(--card));
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+  border-radius: 14px;
+  padding: 11px 14px;
+  outline: none;
+  -webkit-appearance: none; appearance: none;
+  touch-action: manipulation;
+}
+.type-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent); }
+.type-skip { display: block; margin: 8px auto 0; font-size: 0.85rem; }
+.type-result { margin: 6px auto 12px; max-width: 26em; text-align: center; }
+.tr-head { font-weight: 700; font-size: 1rem; margin-bottom: 6px; }
+.tr-head small { font-weight: 500; color: var(--muted); }
+.tr-ok { color: var(--success); }
+.tr-almost { color: var(--hard); }
+.tr-wrong { color: var(--again); }
+.tr-diff { font: 600 1.15rem/1.4 var(--font-ui); letter-spacing: 0.04em; margin-bottom: 2px; word-break: break-all; }
+.td-ok { color: var(--success); }
+.td-bad, .td-extra { color: var(--again); text-decoration: line-through; text-decoration-thickness: 2px; }
+.td-miss { color: var(--hard); text-decoration: underline; text-underline-offset: 3px; }
+.tr-answer { font-family: var(--font-word); font-size: 1.35rem; font-weight: 700; margin: 2px 0 10px; }
+.tr-next { min-width: 60%; }
+.tr-hint { font-size: 0.75rem; margin-top: 6px; }
+.grade-btn.suggested { outline: 2px solid currentColor; outline-offset: -2px; }
+
 .card-reveal {
   text-align: left;
   margin-top: 8px;
