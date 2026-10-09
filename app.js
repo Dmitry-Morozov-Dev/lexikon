@@ -1637,8 +1637,83 @@
     if (name === 'stats') renderStats();
     if (name === 'decks') {
       renderDeckList();
-      if (globalThis.LexReader) LexReader.refreshList();
     }
+    if (name === 'books') {
+      var firstLoad = !globalThis.LexLibrary;
+      ensureBooks().then(function (lib) { if (!firstLoad) lib.refresh(); }).catch(function (err) {
+        toast('Не удалось загрузить библиотеку: ' + err.message, 'error');
+      });
+    }
+  }
+
+  /* ---- Книги: ленивая загрузка (лента этот код не исполняет) ---- */
+  var booksLoading = null;
+
+  function loadScriptOnce(src) {
+    return new Promise(function (resolve, reject) {
+      if (document.querySelector('script[data-lazy="' + src + '"]')) { resolve(); return; }
+      var s = document.createElement('script');
+      s.src = src;
+      s.setAttribute('data-lazy', src);
+      s.onload = function () { resolve(); };
+      s.onerror = function () {
+        s.remove();
+        reject(new Error(src + ' недоступен (нет сети?)'));
+      };
+      document.head.appendChild(s);
+    });
+  }
+
+  function ensureBooks() {
+    if (globalThis.LexLibrary && globalThis.LexBookReader) return Promise.resolve(globalThis.LexLibrary);
+    if (booksLoading) return booksLoading;
+    var root = $('books-root');
+    booksLoading = loadScriptOnce('books/common.js')
+      .then(function () { return loadScriptOnce('books/reader.js'); })
+      .then(function () { return loadScriptOnce('books/library.js'); })
+      .then(function () {
+        LexBookReader.init();
+        return LexLibrary.init().then(function () { return LexLibrary; });
+      })
+      .catch(function (err) {
+        booksLoading = null;
+        if (root) root.innerHTML = '<p class="muted">Библиотека не загрузилась: ' + escapeHtml(err.message) + '</p>';
+        throw err;
+      });
+    return booksLoading;
+  }
+
+  /** Выбор файла книги: input.click() синхронно (iOS требует жест), модуль догружается после выбора. */
+  function pickBookFile() {
+    var input = $('book-file');
+    if (!input) return;
+    input.value = '';
+    input.click();
+  }
+
+  function setupBookImport() {
+    var input = $('book-file');
+    if (!input) return;
+    // iOS Safari «гасит» в выборе файлы с незнакомыми расширениями (.fb2) — там без фильтра
+    var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (isIOS) input.removeAttribute('accept');
+    input.addEventListener('change', function () {
+      var files = input.files ? Array.prototype.slice.call(input.files) : [];
+      if (!files.length) return;
+      navigate('books');
+      ensureBooks().then(function (lib) { return lib.importFiles(files); }).catch(function (err) {
+        toast('Импорт: ' + err.message, 'error');
+      });
+    });
+    var addBtn = $('btn-import-book-add');
+    if (addBtn) addBtn.addEventListener('click', function () {
+      pickBookFile();
+    });
+    var headBtn = $('btn-book-import');
+    if (headBtn) headBtn.addEventListener('click', pickBookFile);
+    var go = $('btn-goto-books');
+    if (go) go.addEventListener('click', function () { navigate('books'); });
   }
 
   /* ---- Swipe (влево/вправо) / hold; вертикаль — нативный скролл карточки ---- */
@@ -1857,7 +1932,7 @@
     toast('Импорт завершён', 'ok');
     buildQueue();
     renderStats();
-    if (globalThis.LexReader) LexReader.refreshList();
+    if (globalThis.LexLibrary) LexLibrary.refresh();
   }
 
   /* ---- Init ---- */
@@ -2008,6 +2083,7 @@
     });
 
     setupSwipe();
+    setupBookImport();
   }
 
   function registerSW() {
@@ -2034,7 +2110,6 @@
     showOnboard(false);
     try {
       await LexDB.open();
-      if (globalThis.LexReader) await LexReader.init();
       await loadDecks();
       await buildQueue();
     } catch (err) {

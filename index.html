@@ -75,22 +75,29 @@
         <p class="muted">Отметьте колоды, которые участвуют в «Сегодня».</p>
       </div>
       <div id="deck-list"></div>
-      <div class="panel" id="pdf-panel">
-        <h3>Тексты PDF</h3>
-        <p class="muted">Импортируйте PDF — текст извлечётся на устройстве и сохранится офлайн. Без загрузки файла на сервер.</p>
-        <button type="button" id="btn-import-pdf" class="btn btn-accent btn-block">Импорт PDF</button>
-        <input type="file" id="pdf-file" accept="application/pdf,.pdf" class="hidden" />
-        <div id="pdf-empty" class="empty-state pdf-empty">
-          <div class="big">📄</div>
-          <p>Пока нет текстов. Импортируйте PDF, чтобы читать офлайн.</p>
-        </div>
-        <div id="pdf-doc-list" class="pdf-doc-list"></div>
+      <div class="panel books-link-panel">
+        <h3>Книги</h3>
+        <p class="muted">EPUB, PDF, FB2, TXT, DOCX и другие — во вкладке «Книги». Слова, которые вы удерживаете в тексте, попадают в колоду книги и в ленту.</p>
+        <button type="button" id="btn-goto-books" class="btn btn-block">Открыть библиотеку</button>
       </div>
       <div class="panel">
         <h3>Поиск</h3>
         <input type="search" id="search-input" class="search-box" placeholder="Слово или перевод…" enterkeyhint="search" />
         <ul id="search-results" class="word-list"></ul>
       </div>
+    </section>
+
+    <!-- Книги (код библиотеки грузится лениво: books/*.js) -->
+    <section id="screen-books" class="screen" data-screen="books">
+      <div class="books-head">
+        <h2>Книги</h2>
+        <button type="button" id="btn-book-import" class="btn btn-accent books-add-btn">＋ Добавить</button>
+      </div>
+      <input type="file" id="book-file" class="hidden" multiple
+        accept=".epub,.pdf,.fb2,.zip,.txt,.text,.html,.htm,.xhtml,.docx,.md,.markdown,.rtf,application/epub+zip,application/pdf,text/plain,text/html,text/markdown,application/rtf,text/rtf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/x-fictionbook+xml,application/zip" />
+      <div id="books-import" class="panel books-import hidden" aria-live="polite"></div>
+      <div id="books-root"><p class="muted books-loading">Загрузка библиотеки…</p></div>
+      <div class="books-drop-hint" aria-hidden="true">Отпустите файл, чтобы добавить книгу</div>
     </section>
 
     <!-- Добавить -->
@@ -137,9 +144,9 @@
         <button type="button" id="btn-import-csv" class="btn btn-block" style="margin-top:8px">Импортировать CSV</button>
       </div>
       <div class="panel">
-        <h3>Импорт PDF</h3>
-        <p class="muted">Текст из PDF сохранится офлайн для чтения (без blob файла).</p>
-        <button type="button" id="btn-import-pdf-add" class="btn btn-block">Импорт PDF</button>
+        <h3>Импорт книги</h3>
+        <p class="muted">EPUB, PDF, FB2, TXT, DOCX, HTML, MD, RTF — текст разберётся на устройстве и будет доступен офлайн.</p>
+        <button type="button" id="btn-import-book-add" class="btn btn-block">Добавить книгу</button>
       </div>
     </section>
 
@@ -202,22 +209,54 @@
   <nav class="bottom-nav" aria-label="Основная навигация">
     <button type="button" data-nav="today" class="active"><span class="nav-ico">◎</span>Сегодня</button>
     <button type="button" data-nav="decks"><span class="nav-ico">☰</span>Колоды</button>
+    <button type="button" data-nav="books"><span class="nav-ico">📖</span>Книги</button>
     <button type="button" data-nav="add"><span class="nav-ico">＋</span>Добавить</button>
     <button type="button" data-nav="stats"><span class="nav-ico">▦</span>Статистика</button>
     <button type="button" data-nav="settings"><span class="nav-ico">⚙</span>Настройки</button>
   </nav>
 
   <div id="reader-overlay" class="reader-overlay hidden" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="reader-title">
-    <header class="reader-bar">
-      <button type="button" id="reader-close" class="btn btn-ghost reader-close" aria-label="Закрыть">←</button>
+    <div id="reader-scroll" class="reader-scroll">
+      <article id="reader-body" class="reader-body" lang="en"></article>
+    </div>
+    <header id="reader-bar" class="reader-bar">
+      <button type="button" id="reader-close" class="btn btn-ghost reader-icon-btn reader-close" aria-label="Закрыть книгу" title="Библиотека">←</button>
       <div class="reader-bar-text">
-        <h2 id="reader-title" class="reader-title">Документ</h2>
+        <h2 id="reader-title" class="reader-title">Книга</h2>
         <span id="reader-meta" class="reader-meta muted"></span>
       </div>
+      <button type="button" id="reader-btn-bookmark" class="btn btn-ghost reader-icon-btn" aria-label="Закладка" title="Закладка">☆</button>
+      <button type="button" id="reader-btn-toc" class="btn btn-ghost reader-icon-btn" aria-label="Оглавление" title="Оглавление">☰</button>
+      <button type="button" id="reader-btn-settings" class="btn btn-ghost reader-icon-btn reader-aa" aria-label="Настройки чтения" title="Шрифт и тема">Aa</button>
     </header>
-    <div id="reader-scroll" class="reader-scroll">
-      <article id="reader-body" class="reader-body"></article>
-    </div>
+    <footer id="reader-foot" class="reader-foot">
+      <div class="reader-progress"><div id="reader-progress-fill" class="reader-progress-fill"></div></div>
+      <div class="reader-foot-row">
+        <button type="button" id="reader-prev" class="btn btn-ghost reader-icon-btn" aria-label="Предыдущая глава" title="Предыдущая глава">‹</button>
+        <span id="reader-status" class="reader-status"></span>
+        <button type="button" id="reader-next" class="btn btn-ghost reader-icon-btn" aria-label="Следующая глава" title="Следующая глава">›</button>
+      </div>
+    </footer>
+    <div id="reader-mini" class="reader-mini" aria-hidden="true"></div>
+    <div id="reader-backdrop" class="reader-backdrop hidden"></div>
+    <aside id="reader-drawer" class="reader-drawer hidden" aria-label="Оглавление и закладки">
+      <div class="reader-drawer-head">
+        <div class="seg reader-drawer-tabs">
+          <button type="button" data-tab="toc" class="active">Оглавление</button>
+          <button type="button" data-tab="bookmarks">Закладки</button>
+        </div>
+        <button type="button" class="btn btn-ghost reader-icon-btn" data-close-panel aria-label="Закрыть">✕</button>
+      </div>
+      <div id="reader-drawer-info" class="reader-drawer-info muted"></div>
+      <div id="reader-drawer-body" class="reader-drawer-body"></div>
+    </aside>
+    <section id="reader-sheet" class="reader-sheet hidden" aria-label="Настройки чтения">
+      <div class="reader-sheet-head">
+        <strong>Оформление</strong>
+        <button type="button" class="btn btn-ghost reader-icon-btn" data-close-panel aria-label="Закрыть">✕</button>
+      </div>
+      <div id="reader-sheet-body" class="reader-sheet-body"></div>
+    </section>
   </div>
 
   <div id="toast-host" class="toast-host" aria-live="polite"></div>
@@ -226,7 +265,6 @@
 
   <script defer src="srs.js"></script>
   <script defer src="db.js"></script>
-  <script defer src="reader.js"></script>
   <script defer src="app.js"></script>
 </body>
 </html>
